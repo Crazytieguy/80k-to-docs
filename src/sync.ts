@@ -20,8 +20,10 @@ interface OnDisk {
 }
 
 async function main(): Promise<void> {
+  // Use `||` (not `??`) so an empty-string env var (e.g. unset GitHub Actions `vars.AREA_TAGS`)
+  // falls back to the default rather than producing an empty filter (which would let everything through).
   const areaTags = parseAreaTags(
-    process.env.AREA_TAGS ?? "AI safety & policy,AI technical safety,AI governance",
+    process.env.AREA_TAGS || "AI safety & policy,AI technical safety,AI governance",
   );
   console.log(`[sync] filter: ${areaTags.join(", ")}`);
 
