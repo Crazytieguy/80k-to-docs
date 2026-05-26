@@ -14,14 +14,14 @@ areas:
 
 **[0Labs](https://www.0labs.ai/)**
 
-- **Location:** Remote, Global
-- **Role type:** Full-time
-- **Experience:** Junior (1-4 years experience)
-- **Degree:** Undergraduate degree or less
-- **Location type:** Remote
+<dl class="job-meta">
+<dt>Location</dt><dd>Remote, Global</dd>
+<dt>Role type</dt><dd>Full-time</dd>
+<dt>Experience</dt><dd>Junior (1-4 years experience)</dd>
+<dt>Degree</dt><dd>Undergraduate degree or less</dd>
+</dl>
 
-## Tags
-AI safety & policy, Research, Software engineering, Information security
+**Areas & skills:** AI safety & policy, Research, Software engineering, Information security
 
 ## Summary
 - In this role, you'll support AI security research and product development, focusing on continuous purple teaming evaluation systems that benchmark how monitoring mechanisms detect unsafe agent behavior.
@@ -30,7 +30,7 @@ AI safety & policy, Research, Software engineering, Information security
 - Run adversarial evaluations and design agent architectures based on research findings.
 - Convert research discoveries into actionable engineering decisions that advance product development.
 
-[Apply →](https://www.0labs.ai/careers/ai-control-security-engineer)
+<p class="apply-cta"><a href="https://www.0labs.ai/careers/ai-control-security-engineer">Apply →</a></p>
 
 ---
-*Posted 2026-04-23 · Last updated 2026-05-26 · 80k job ID `recZfgXkEMoFzYSHI`*
+*Posted 2026-04-23 · Listing synced 2026-05-26 · 80k job ID `recZfgXkEMoFzYSHI`*

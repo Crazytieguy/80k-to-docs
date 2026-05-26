@@ -14,20 +14,21 @@ areas:
 
 **[Tsinghua University, College of AI](https://collegeai.tsinghua.edu.cn/en)**
 
-- **Location:** Beijing, China, China, Asia
-- **Role type:** Full-time
-- **Experience:** Multiple experience levels
-- **Degree:** Doctoral degree
+<dl class="job-meta">
+<dt>Location</dt><dd>Beijing, China, China, Asia</dd>
+<dt>Role type</dt><dd>Full-time</dd>
+<dt>Experience</dt><dd>Multiple experience levels</dd>
+<dt>Degree</dt><dd>Doctoral degree</dd>
+</dl>
 
-## Tags
-AI safety & policy, Research, Other
+**Areas & skills:** AI safety & policy, Research, Other
 
 ## Summary
 - In this role you'll lead an independent research program, teach and mentor students, and help build world-class teams.
 - Work directly under Turing laureate Andrew Yao, China's most senior AI safety advocate.
 - Have the ability to focus on AI safety research.
 
-[Apply →](https://collegeai.tsinghua.edu.cn/en/rengongzhinengxueyuanrencaizhaopinhaibao-yingwenban.pdf)
+<p class="apply-cta"><a href="https://collegeai.tsinghua.edu.cn/en/rengongzhinengxueyuanrencaizhaopinhaibao-yingwenban.pdf">Apply →</a></p>
 
 ---
-*Posted 2022-01-05 · Last updated 2026-05-26 · 80k job ID `rec8c9Y1WBAJGC8ne`*
+*Posted 2022-01-05 · Listing synced 2026-05-26 · 80k job ID `rec8c9Y1WBAJGC8ne`*

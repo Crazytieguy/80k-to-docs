@@ -14,14 +14,15 @@ areas:
 
 **[OpenAI](https://openai.com/)**
 
-- **Location:** San Francisco Bay Area, USA
-- **Role type:** Full-time
-- **Experience:** Mid (5-9 years experience)
-- **Degree:** Undergraduate degree or less
-- **Salary:** $295,000 – $445,000
+<dl class="job-meta">
+<dt>Location</dt><dd>San Francisco Bay Area, USA</dd>
+<dt>Role type</dt><dd>Full-time</dd>
+<dt>Experience</dt><dd>Mid (5-9 years experience)</dd>
+<dt>Degree</dt><dd>Undergraduate degree or less</dd>
+<dt>Salary</dt><dd>$295,000 – $445,000</dd>
+</dl>
 
-## Tags
-AI safety & policy, Research, Software engineering
+**Areas & skills:** AI safety & policy, Research, Software engineering
 
 ## Summary
 - In this role, you'll own the scientific validity of frontier AI safety evaluations across biological, chemical, cyber and other catastrophic risk domains.
@@ -30,7 +31,7 @@ AI safety & policy, Research, Software engineering
 - Design scalable systems and processes to support comprehensive safety evaluations.
 - Develop best practice guidelines for AI safety evaluations and contribute to risk management frameworks.
 
-[Apply →](https://openai.com/careers/researcher-frontier-biological-and-chemical-risks-san-francisco/)
+<p class="apply-cta"><a href="https://openai.com/careers/researcher-frontier-biological-and-chemical-risks-san-francisco/">Apply →</a></p>
 
 ---
-*Posted 2022-01-11 · Last updated 2026-05-26 · 80k job ID `receGHE2ZzDc4DQGM`*
+*Posted 2022-01-11 · Listing synced 2026-05-26 · 80k job ID `receGHE2ZzDc4DQGM`*

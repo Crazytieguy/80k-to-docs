@@ -14,13 +14,14 @@ areas:
 
 **[Faculty](https://faculty.ai/)**
 
-- **Location:** London, UK, UK
-- **Role type:** Full-time
-- **Experience:** Mid (5-9 years experience)
-- **Degree:** Undergraduate degree or less
+<dl class="job-meta">
+<dt>Location</dt><dd>London, UK, UK</dd>
+<dt>Role type</dt><dd>Full-time</dd>
+<dt>Experience</dt><dd>Mid (5-9 years experience)</dd>
+<dt>Degree</dt><dd>Undergraduate degree or less</dd>
+</dl>
 
-## Tags
-AI safety & policy, Strategy
+**Areas & skills:** AI safety & policy, Strategy
 
 ## Summary
 - In this role, you'll own the end-to-end success of AI safety projects, bridging customers and data scientists to translate research into actionable solutions.
@@ -29,7 +30,7 @@ AI safety & policy, Strategy
 - Build strong relationships with customers, internal teams, and frontier AI lab partners.
 - Develop compelling proposals and advise clients on AI safety strategy implementation.
 
-[Apply →](https://jobs.ashbyhq.com/faculty/18755194-02f0-4cfc-bd99-cc41c0922f5d)
+<p class="apply-cta"><a href="https://jobs.ashbyhq.com/faculty/18755194-02f0-4cfc-bd99-cc41c0922f5d">Apply →</a></p>
 
 ---
-*Posted 2022-01-05 · Last updated 2026-05-26 · 80k job ID `recAeIIHzuMXsjG3X`*
+*Posted 2022-01-05 · Listing synced 2026-05-26 · 80k job ID `recAeIIHzuMXsjG3X`*

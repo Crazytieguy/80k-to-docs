@@ -14,14 +14,15 @@ areas:
 
 **[Cambridge AI Safety Hub](https://www.cambridgeaisafety.org/)**
 
-- **Location:** Cambridge, UK, UK
-- **Role type:** Other
-- **Experience:** Multiple experience levels
-- **Degree:** Undergraduate degree or less
-- **Salary:** $2,017
+<dl class="job-meta">
+<dt>Location</dt><dd>Cambridge, UK, UK</dd>
+<dt>Role type</dt><dd>Other</dd>
+<dt>Experience</dt><dd>Multiple experience levels</dd>
+<dt>Degree</dt><dd>Undergraduate degree or less</dd>
+<dt>Salary</dt><dd>$2,017</dd>
+</dl>
 
-## Tags
-AI safety & policy, Engineering, Research, Information security
+**Areas & skills:** AI safety & policy, Engineering, Research, Information security
 
 ## Summary
 - In this six-day programme, you'll build hardware assurance mechanisms to verify AI chip operations.
@@ -30,7 +31,7 @@ AI safety & policy, Engineering, Research, Information security
 - Present your work and network with organisations actively building hardware assurance infrastructure.
 - Build your career through mentorship, funding opportunities, and direct connections with industry.
 
-[Apply →](https://caish.org/hardware)
+<p class="apply-cta"><a href="https://caish.org/hardware">Apply →</a></p>
 
 ---
-*Posted 2026-05-12 · Last updated 2026-05-26 · 80k job ID `recBRJliirDbME1sF`*
+*Posted 2026-05-12 · Listing synced 2026-05-26 · 80k job ID `recBRJliirDbME1sF`*

@@ -14,14 +14,15 @@ areas:
 
 **[Anthropic](https://www.anthropic.com/)**
 
-- **Location:** Washington, DC metro area, San Francisco Bay Area, New York, NY, USA, USA (Confirmed Visas)
-- **Role type:** Full-time
-- **Experience:** Mid (5-9 years experience)
-- **Degree:** Undergraduate degree or less
-- **Salary:** $320,000 – $405,000
+<dl class="job-meta">
+<dt>Location</dt><dd>Washington, DC metro area, San Francisco Bay Area, New York, NY, USA, USA (Confirmed Visas)</dd>
+<dt>Role type</dt><dd>Full-time</dd>
+<dt>Experience</dt><dd>Mid (5-9 years experience)</dd>
+<dt>Degree</dt><dd>Undergraduate degree or less</dd>
+<dt>Salary</dt><dd>$320,000 – $405,000</dd>
+</dl>
 
-## Tags
-AI safety & policy, Software engineering, Information security
+**Areas & skills:** AI safety & policy, Software engineering, Information security
 
 ## Summary
 - In this role, you'll produce actionable intelligence driving detections against adversaries targeting AI infrastructure.
@@ -30,7 +31,7 @@ AI safety & policy, Software engineering, Information security
 - Develop and execute threat hunts across endpoint, cloud, and identity telemetry to create durable detections.
 - Partner with Detection and Incident Response teams to translate intelligence into detection rules.
 
-[Apply →](https://job-boards.greenhouse.io/anthropic/jobs/5195705008)
+<p class="apply-cta"><a href="https://job-boards.greenhouse.io/anthropic/jobs/5195705008">Apply →</a></p>
 
 ---
-*Posted 2026-04-22 · Last updated 2026-05-26 · 80k job ID `recocVQSkk9I0f9zs`*
+*Posted 2026-04-22 · Listing synced 2026-05-26 · 80k job ID `recocVQSkk9I0f9zs`*

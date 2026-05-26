@@ -14,14 +14,15 @@ areas:
 
 **[OpenAI](https://openai.com/)**
 
-- **Location:** San Francisco Bay Area, USA
-- **Role type:** Full-time
-- **Experience:** Mid (5-9 years experience)
-- **Degree:** Doctoral degree
-- **Salary:** $460,000 – $555,000
+<dl class="job-meta">
+<dt>Location</dt><dd>San Francisco Bay Area, USA</dd>
+<dt>Role type</dt><dd>Full-time</dd>
+<dt>Experience</dt><dd>Mid (5-9 years experience)</dd>
+<dt>Degree</dt><dd>Doctoral degree</dd>
+<dt>Salary</dt><dd>$460,000 – $555,000</dd>
+</dl>
 
-## Tags
-AI safety & policy, Research, Strategy
+**Areas & skills:** AI safety & policy, Research, Strategy
 
 ## Summary
 - In this role, you'll set research directions and strategies to make AI systems safer, more aligned, and more robust.
@@ -30,7 +31,7 @@ AI safety & policy, Research, Strategy
 - Coordinate across teams to ensure different technical approaches achieve strong safety results.
 - Implement new safety methods in OpenAI's core model training and product launches.
 
-[Apply →](https://openai.com/careers/technical-lead-safety-research-san-francisco/)
+<p class="apply-cta"><a href="https://openai.com/careers/technical-lead-safety-research-san-francisco/">Apply →</a></p>
 
 ---
-*Posted 2022-01-11 · Last updated 2026-05-26 · 80k job ID `recBCfddcjQlQv5eb`*
+*Posted 2022-01-11 · Listing synced 2026-05-26 · 80k job ID `recBCfddcjQlQv5eb`*

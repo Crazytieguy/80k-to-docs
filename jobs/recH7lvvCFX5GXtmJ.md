@@ -14,15 +14,15 @@ areas:
 
 **[Anthropic](https://www.anthropic.com/)**
 
-- **Location:** London, UK, San Francisco Bay Area, Remote, USA, Remote, UK, Remote, Canada, UK, USA, Canada
-- **Role type:** Fellowship
-- **Experience:** Entry-level
-- **Degree:** Undergraduate degree or less
-- **Salary:** $3,850
-- **Location type:** Remote
+<dl class="job-meta">
+<dt>Location</dt><dd>London, UK, San Francisco Bay Area, Remote, USA, Remote, UK, Remote, Canada, UK, USA, Canada</dd>
+<dt>Role type</dt><dd>Fellowship</dd>
+<dt>Experience</dt><dd>Entry-level</dd>
+<dt>Degree</dt><dd>Undergraduate degree or less</dd>
+<dt>Salary</dt><dd>$3,850</dd>
+</dl>
 
-## Tags
-AI safety & policy, Research, Software engineering, Information security
+**Areas & skills:** AI safety & policy, Research, Software engineering, Information security
 
 ## Summary
 - In this fellowship, you'll conduct AI security research for four months, working to identify and address potential risks from advanced AI systems while producing publishable outputs.
@@ -31,7 +31,7 @@ AI safety & policy, Research, Software engineering, Information security
 - Implement ideas quickly and communicate findings clearly to the broader AI safety community.
 - Apply technical expertise in areas like pentesting, vulnerability research, or other offensive security approaches.
 
-[Apply →](https://job-boards.greenhouse.io/anthropic/jobs/5030244008)
+<p class="apply-cta"><a href="https://job-boards.greenhouse.io/anthropic/jobs/5030244008">Apply →</a></p>
 
 ---
-*Posted 2026-04-30 · Last updated 2026-05-26 · 80k job ID `recH7lvvCFX5GXtmJ`*
+*Posted 2026-04-30 · Listing synced 2026-05-26 · 80k job ID `recH7lvvCFX5GXtmJ`*

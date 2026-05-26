@@ -14,13 +14,14 @@ areas:
 
 **[LawZero](https://lawzero.org/en)**
 
-- **Location:** Montreal, Canada, Canada
-- **Role type:** Full-time
-- **Experience:** Junior (1-4 years experience)
-- **Degree:** Undergraduate degree or less
+<dl class="job-meta">
+<dt>Location</dt><dd>Montreal, Canada, Canada</dd>
+<dt>Role type</dt><dd>Full-time</dd>
+<dt>Experience</dt><dd>Junior (1-4 years experience)</dd>
+<dt>Degree</dt><dd>Undergraduate degree or less</dd>
+</dl>
 
-## Tags
-AI safety & policy, Operations
+**Areas & skills:** AI safety & policy, Operations
 
 ## Summary
 - In this role, you'll bridge talent acquisition and employee onboarding, providing seamless support from arrival through growth.
@@ -29,7 +30,7 @@ AI safety & policy, Operations
 - Manage payroll data validation, draft employment documents and maintain organised employee records.
 - Support talent acquisition by posting opportunities, screening resumes, coordinating interviews and conducting reference checks.
 
-[Apply →](https://job-boards.greenhouse.io/lawzero/jobs/4248433009)
+<p class="apply-cta"><a href="https://job-boards.greenhouse.io/lawzero/jobs/4248433009">Apply →</a></p>
 
 ---
-*Posted 2026-05-15 · Last updated 2026-05-26 · 80k job ID `recxzpMTWaQJsB6M2`*
+*Posted 2026-05-15 · Listing synced 2026-05-26 · 80k job ID `recxzpMTWaQJsB6M2`*

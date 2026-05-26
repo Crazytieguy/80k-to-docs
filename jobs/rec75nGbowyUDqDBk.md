@@ -14,14 +14,15 @@ areas:
 
 **[OpenAI](https://openai.com/)**
 
-- **Location:** San Francisco Bay Area, USA
-- **Role type:** Full-time
-- **Experience:** Junior (1-4 years experience), Mid (5-9 years experience)
-- **Degree:** Undergraduate degree or less
-- **Salary:** $250,000 – $445,000
+<dl class="job-meta">
+<dt>Location</dt><dd>San Francisco Bay Area, USA</dd>
+<dt>Role type</dt><dd>Full-time</dd>
+<dt>Experience</dt><dd>Junior (1-4 years experience), Mid (5-9 years experience)</dd>
+<dt>Degree</dt><dd>Undergraduate degree or less</dd>
+<dt>Salary</dt><dd>$250,000 – $445,000</dd>
+</dl>
 
-## Tags
-AI safety & policy, Research, Software engineering
+**Areas & skills:** AI safety & policy, Research, Software engineering
 
 ## Summary
 - In this role, you'll design alignment experiments ensuring AI models follow user intent, remain honest, and transparently report limitations.
@@ -30,7 +31,7 @@ AI safety & policy, Research, Software engineering
 - Build monitoring and inference-time interventions to ensure model compliance and surface issues.
 - Integrate successful alignment techniques into model training and deployment workflows, producing publishable research.
 
-[Apply →](https://openai.com/careers/researcher-alignment-science-san-francisco/)
+<p class="apply-cta"><a href="https://openai.com/careers/researcher-alignment-science-san-francisco/">Apply →</a></p>
 
 ---
-*Posted 2026-04-29 · Last updated 2026-05-26 · 80k job ID `rec75nGbowyUDqDBk`*
+*Posted 2026-04-29 · Listing synced 2026-05-26 · 80k job ID `rec75nGbowyUDqDBk`*

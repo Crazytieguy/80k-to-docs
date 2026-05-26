@@ -14,13 +14,14 @@ areas:
 
 **[LawZero](https://lawzero.org/en)**
 
-- **Location:** Montreal, Canada, Canada
-- **Role type:** Full-time
-- **Experience:** Senior (10+ years experience)
-- **Degree:** Master's degree
+<dl class="job-meta">
+<dt>Location</dt><dd>Montreal, Canada, Canada</dd>
+<dt>Role type</dt><dd>Full-time</dd>
+<dt>Experience</dt><dd>Senior (10+ years experience)</dd>
+<dt>Degree</dt><dd>Master's degree</dd>
+</dl>
 
-## Tags
-AI safety & policy, Research, Management, Strategy
+**Areas & skills:** AI safety & policy, Research, Management, Strategy
 
 ## Summary
 - In this role, you'll build and lead LawZero's Evaluations Team, defining strategy for independent assessment of AI capability and safety claims.
@@ -28,7 +29,7 @@ AI safety & policy, Research, Management, Strategy
 - Design benchmarks, datasets, and environments to measure AI performance across capabilities, safety, and adversarial robustness.
 - Establish and lead automated and manual red-teaming programs to stress test AI systems.
 
-[Apply →](https://job-boards.greenhouse.io/lawzero/jobs/4252456009)
+<p class="apply-cta"><a href="https://job-boards.greenhouse.io/lawzero/jobs/4252456009">Apply →</a></p>
 
 ---
-*Posted 2026-05-20 · Last updated 2026-05-26 · 80k job ID `rec3w2lRon2mY4zPL`*
+*Posted 2026-05-20 · Listing synced 2026-05-26 · 80k job ID `rec3w2lRon2mY4zPL`*

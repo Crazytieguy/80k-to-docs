@@ -14,15 +14,15 @@ areas:
 
 **[Survival and Flourishing](http://survivalandflourishing.org/)**
 
-- **Location:** Remote, Global
-- **Role type:** Full-time
-- **Experience:** Junior (1-4 years experience), Mid (5-9 years experience)
-- **Degree:** Undergraduate degree or less
-- **Salary:** $250,000 – $350,000
-- **Location type:** Remote
+<dl class="job-meta">
+<dt>Location</dt><dd>Remote, Global</dd>
+<dt>Role type</dt><dd>Full-time</dd>
+<dt>Experience</dt><dd>Junior (1-4 years experience), Mid (5-9 years experience)</dd>
+<dt>Degree</dt><dd>Undergraduate degree or less</dd>
+<dt>Salary</dt><dd>$250,000 – $350,000</dd>
+</dl>
 
-## Tags
-AI safety & policy, Software engineering
+**Areas & skills:** AI safety & policy, Software engineering
 
 ## Summary
 - In this role, you will improve and maintain existing grant evaluation software.
@@ -31,7 +31,7 @@ AI safety & policy, Software engineering
 - Prototype and design visual user interfaces for grant evaluations and decision-making algorithms.
 - Participate in meetings, dedicating 4-8 hours a week, and contribute to diverse tasks to support clients like Jaan Tallinn.
 
-[Apply →](https://survivalandflourishing.com/full-stack-engineer)
+<p class="apply-cta"><a href="https://survivalandflourishing.com/full-stack-engineer">Apply →</a></p>
 
 ---
-*Posted 2022-01-06 · Last updated 2026-05-26 · 80k job ID `rec6nOL5EaSPWO1m9`*
+*Posted 2022-01-06 · Listing synced 2026-05-26 · 80k job ID `rec6nOL5EaSPWO1m9`*

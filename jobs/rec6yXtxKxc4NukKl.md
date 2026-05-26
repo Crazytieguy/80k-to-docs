@@ -14,14 +14,15 @@ areas:
 
 **[Anthropic](https://www.anthropic.com/)**
 
-- **Location:** San Francisco Bay Area, New York, NY, Seattle metro area, USA, USA (Confirmed Visas)
-- **Role type:** Full-time
-- **Experience:** Mid (5-9 years experience)
-- **Degree:** Undergraduate degree or less
-- **Salary:** $300,000 – $405,000
+<dl class="job-meta">
+<dt>Location</dt><dd>San Francisco Bay Area, New York, NY, Seattle metro area, USA, USA (Confirmed Visas)</dd>
+<dt>Role type</dt><dd>Full-time</dd>
+<dt>Experience</dt><dd>Mid (5-9 years experience)</dd>
+<dt>Degree</dt><dd>Undergraduate degree or less</dd>
+<dt>Salary</dt><dd>$300,000 – $405,000</dd>
+</dl>
 
-## Tags
-AI safety & policy, Software engineering, Information security
+**Areas & skills:** AI safety & policy, Software engineering, Information security
 
 ## Summary
 - In this role, you'll build security into every phase of the software development lifecycle for Anthropic's AI systems and internal tools.
@@ -30,7 +31,7 @@ AI safety & policy, Software engineering, Information security
 - Manage vulnerability and bug bounty programs, including validation, root cause analysis, and remediation coordination.
 - Create security policies, standards, and educational resources that enable all engineers to be security champions.
 
-[Apply →](https://job-boards.greenhouse.io/anthropic/jobs/4502508008)
+<p class="apply-cta"><a href="https://job-boards.greenhouse.io/anthropic/jobs/4502508008">Apply →</a></p>
 
 ---
-*Posted 2022-01-11 · Last updated 2026-05-26 · 80k job ID `rec6yXtxKxc4NukKl`*
+*Posted 2022-01-11 · Listing synced 2026-05-26 · 80k job ID `rec6yXtxKxc4NukKl`*

@@ -14,14 +14,15 @@ areas:
 
 **[xAI](https://x.ai/)**
 
-- **Location:** San Francisco Bay Area, USA
-- **Role type:** Full-time
-- **Experience:** Junior (1-4 years experience), Mid (5-9 years experience)
-- **Degree:** Undergraduate degree or less
-- **Salary:** $180,000 – $440,000
+<dl class="job-meta">
+<dt>Location</dt><dd>San Francisco Bay Area, USA</dd>
+<dt>Role type</dt><dd>Full-time</dd>
+<dt>Experience</dt><dd>Junior (1-4 years experience), Mid (5-9 years experience)</dd>
+<dt>Degree</dt><dd>Undergraduate degree or less</dd>
+<dt>Salary</dt><dd>$180,000 – $440,000</dd>
+</dl>
 
-## Tags
-AI safety & policy, Information security
+**Areas & skills:** AI safety & policy, Information security
 
 ## Summary
 - In this role, you'll monitor and analyse security alerts and logs to identify potential threats and anomalies.
@@ -30,7 +31,7 @@ AI safety & policy, Information security
 - Lead incident response efforts, coordinating with relevant teams to contain and mitigate threats.
 - Perform regular threat hunting activities to proactively identify potential security risks.
 
-[Apply →](https://job-boards.greenhouse.io/xai/jobs/4559148007)
+<p class="apply-cta"><a href="https://job-boards.greenhouse.io/xai/jobs/4559148007">Apply →</a></p>
 
 ---
-*Posted 2022-01-06 · Last updated 2026-05-26 · 80k job ID `recIjAn3kUY49kK9a`*
+*Posted 2022-01-06 · Listing synced 2026-05-26 · 80k job ID `recIjAn3kUY49kK9a`*

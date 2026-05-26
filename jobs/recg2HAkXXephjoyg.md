@@ -14,14 +14,15 @@ areas:
 
 **[Constellation](https://www.constellation.org/)**
 
-- **Location:** San Francisco Bay Area, USA
-- **Role type:** Full-time
-- **Experience:** Junior (1-4 years experience)
-- **Degree:** Undergraduate degree or less
-- **Salary:** $105,000 – $133,000
+<dl class="job-meta">
+<dt>Location</dt><dd>San Francisco Bay Area, USA</dd>
+<dt>Role type</dt><dd>Full-time</dd>
+<dt>Experience</dt><dd>Junior (1-4 years experience)</dd>
+<dt>Degree</dt><dd>Undergraduate degree or less</dd>
+<dt>Salary</dt><dd>$105,000 – $133,000</dd>
+</dl>
 
-## Tags
-AI safety & policy, Operations
+**Areas & skills:** AI safety & policy, Operations
 
 ## Summary
 - In this role, you'll design and deliver programs that support emerging talent entering and growing within the AI safety ecosystem.
@@ -30,7 +31,7 @@ AI safety & policy, Operations
 - Maintain operational systems including databases, workflows, and tracking tools.
 - Coordinate events and convenings while managing logistics and supporting community engagement.
 
-[Apply →](https://jobs.gem.com/constellation-institute/79186266-9bd3-4136-ad96-389b388b6af1)
+<p class="apply-cta"><a href="https://jobs.gem.com/constellation-institute/79186266-9bd3-4136-ad96-389b388b6af1">Apply →</a></p>
 
 ---
-*Posted 2026-03-10 · Last updated 2026-05-26 · 80k job ID `recg2HAkXXephjoyg`*
+*Posted 2026-03-10 · Listing synced 2026-05-26 · 80k job ID `recg2HAkXXephjoyg`*

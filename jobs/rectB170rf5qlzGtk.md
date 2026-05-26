@@ -14,15 +14,15 @@ areas:
 
 **[FAR AI](https://far.ai/)**
 
-- **Location:** San Francisco Bay Area, Remote, Global, Remote, USA, USA
-- **Role type:** Full-time
-- **Experience:** Mid (5-9 years experience)
-- **Degree:** Undergraduate degree or less
-- **Salary:** $125,000 – $190,000
-- **Location type:** Remote
+<dl class="job-meta">
+<dt>Location</dt><dd>San Francisco Bay Area, Remote, Global, Remote, USA, USA</dd>
+<dt>Role type</dt><dd>Full-time</dd>
+<dt>Experience</dt><dd>Mid (5-9 years experience)</dd>
+<dt>Degree</dt><dd>Undergraduate degree or less</dd>
+<dt>Salary</dt><dd>$125,000 – $190,000</dd>
+</dl>
 
-## Tags
-AI safety & policy, Operations
+**Areas & skills:** AI safety & policy, Operations
 
 ## Summary
 - In this role, you'll be the delivery backbone of FAR.AI's red-teaming programme, owning engagements with governments and frontier AI companies.
@@ -31,7 +31,7 @@ AI safety & policy, Operations
 - Conduct analysis on team bottlenecks and ecosystem mapping to improve performance.
 - Support technical writing, event organising, policy work, and grant applications as priorities shift.
 
-[Apply →](https://jobs.ashbyhq.com/far.ai/a96e6634-cad3-4263-8376-44b8aec470d0?embed=js)
+<p class="apply-cta"><a href="https://jobs.ashbyhq.com/far.ai/a96e6634-cad3-4263-8376-44b8aec470d0?embed=js">Apply →</a></p>
 
 ---
-*Posted 2026-05-14 · Last updated 2026-05-26 · 80k job ID `rectB170rf5qlzGtk`*
+*Posted 2026-05-14 · Listing synced 2026-05-26 · 80k job ID `rectB170rf5qlzGtk`*

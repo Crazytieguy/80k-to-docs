@@ -14,15 +14,15 @@ areas:
 
 **[Alignerr](https://www.alignerr.com/)**
 
-- **Location:** Remote, Global
-- **Role type:** Full-time
-- **Experience:** Junior (1-4 years experience)
-- **Degree:** Undergraduate degree or less
-- **Salary:** $31,200 – $156,000
-- **Location type:** Remote
+<dl class="job-meta">
+<dt>Location</dt><dd>Remote, Global</dd>
+<dt>Role type</dt><dd>Full-time</dd>
+<dt>Experience</dt><dd>Junior (1-4 years experience)</dd>
+<dt>Degree</dt><dd>Undergraduate degree or less</dd>
+<dt>Salary</dt><dd>$31,200 – $156,000</dd>
+</dl>
 
-## Tags
-AI safety & policy, Information security
+**Areas & skills:** AI safety & policy, Information security
 
 ## Summary
 - In this role, you'll conduct red-teaming exercises to uncover AI security weaknesses and deliver findings that improve system safety.
@@ -31,7 +31,7 @@ AI safety & policy, Information security
 - Document vulnerabilities and unexpected behaviours in structured reports for engineering teams.
 - Collaborate with teams to recommend security mitigations and help refine testing protocols.
 
-[Apply →](https://www.alignerr.com/jobs/b687c780-2b77-4c7a-a546-7feb5af50197?referral-source=linkedin-job)
+<p class="apply-cta"><a href="https://www.alignerr.com/jobs/b687c780-2b77-4c7a-a546-7feb5af50197?referral-source=linkedin-job">Apply →</a></p>
 
 ---
-*Posted 2026-05-20 · Last updated 2026-05-26 · 80k job ID `rec8iMNtxZ5pE2lzj`*
+*Posted 2026-05-20 · Listing synced 2026-05-26 · 80k job ID `rec8iMNtxZ5pE2lzj`*

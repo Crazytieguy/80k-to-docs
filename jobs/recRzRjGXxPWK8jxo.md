@@ -14,15 +14,15 @@ areas:
 
 **[FAR AI](https://far.ai/)**
 
-- **Location:** San Francisco Bay Area, Remote, Global, Remote, USA, USA, USA (Confirmed Visas)
-- **Role type:** Full-time
-- **Experience:** Mid (5-9 years experience)
-- **Degree:** Undergraduate degree or less
-- **Salary:** $150,000 – $250,000
-- **Location type:** Remote
+<dl class="job-meta">
+<dt>Location</dt><dd>San Francisco Bay Area, Remote, Global, Remote, USA, USA, USA (Confirmed Visas)</dd>
+<dt>Role type</dt><dd>Full-time</dd>
+<dt>Experience</dt><dd>Mid (5-9 years experience)</dd>
+<dt>Degree</dt><dd>Undergraduate degree or less</dd>
+<dt>Salary</dt><dd>$150,000 – $250,000</dd>
+</dl>
 
-## Tags
-AI safety & policy, Research, Software engineering
+**Areas & skills:** AI safety & policy, Research, Software engineering
 
 ## Summary
 - In this role, you'll accelerate AI safety research by tackling challenging engineering problems and increasing research depth.
@@ -31,7 +31,7 @@ AI safety & policy, Research, Software engineering
 - Apply software engineering expertise and Python skills to solve complex AI safety challenges.
 - Contribute specialized knowledge in machine learning, high-performance computing, or technical leadership.
 
-[Apply →](https://jobs.ashbyhq.com/far.ai/4f6fece8-5ed9-41f4-aed8-902d52dc42ef?embed=js)
+<p class="apply-cta"><a href="https://jobs.ashbyhq.com/far.ai/4f6fece8-5ed9-41f4-aed8-902d52dc42ef?embed=js">Apply →</a></p>
 
 ---
-*Posted 2022-01-05 · Last updated 2026-05-26 · 80k job ID `recRzRjGXxPWK8jxo`*
+*Posted 2022-01-05 · Listing synced 2026-05-26 · 80k job ID `recRzRjGXxPWK8jxo`*

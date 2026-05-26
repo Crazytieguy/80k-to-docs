@@ -14,14 +14,15 @@ areas:
 
 **[80,000 Hours](https://80000hours.org/)**
 
-- **Location:** London, UK, UK, UK (Confirmed Visas)
-- **Role type:** Full-time
-- **Experience:** Junior (1-4 years experience), Entry-level
-- **Degree:** Undergraduate degree or less
-- **Salary:** $90,846 – $135,599
+<dl class="job-meta">
+<dt>Location</dt><dd>London, UK, UK, UK (Confirmed Visas)</dd>
+<dt>Role type</dt><dd>Full-time</dd>
+<dt>Experience</dt><dd>Junior (1-4 years experience), Entry-level</dd>
+<dt>Degree</dt><dd>Undergraduate degree or less</dd>
+<dt>Salary</dt><dd>$90,846 – $135,599</dd>
+</dl>
 
-## Tags
-AI safety & policy, Operations
+**Areas & skills:** AI safety & policy, Operations
 
 ## Summary
 - In this role, you'll manage the operational infrastructure that keeps 80,000 Hours functioning effectively as we grow from ~55 to ~100 people.
@@ -30,7 +31,7 @@ AI safety & policy, Operations
 - Own the remote staff experience end-to-end, from equipment provisioning to virtual events.
 - Support other teams during capacity gaps and identify opportunities to automate routine work.
 
-[Apply →](https://80000hours.org/2026/05/business-operations-associate-specialist)
+<p class="apply-cta"><a href="https://80000hours.org/2026/05/business-operations-associate-specialist">Apply →</a></p>
 
 ---
-*Posted 2026-05-06 · Last updated 2026-05-26 · 80k job ID `rec80vAR4qyEQN72n`*
+*Posted 2026-05-06 · Listing synced 2026-05-26 · 80k job ID `rec80vAR4qyEQN72n`*

@@ -14,14 +14,15 @@ areas:
 
 **[Control AI](https://controlai.com/)**
 
-- **Location:** Washington, DC metro area, USA
-- **Role type:** Full-time
-- **Experience:** Multiple experience levels
-- **Degree:** Undergraduate degree or less
-- **Salary:** $90,000 – $160,000
+<dl class="job-meta">
+<dt>Location</dt><dd>Washington, DC metro area, USA</dd>
+<dt>Role type</dt><dd>Full-time</dd>
+<dt>Experience</dt><dd>Multiple experience levels</dd>
+<dt>Degree</dt><dd>Undergraduate degree or less</dd>
+<dt>Salary</dt><dd>$90,000 – $160,000</dd>
+</dl>
 
-## Tags
-AI safety & policy, Policy, Outreach
+**Areas & skills:** AI safety & policy, Policy, Outreach
 
 ## Summary
 - In this role, you'll drive congressional outreach and advocacy on superintelligence extinction risks.
@@ -30,7 +31,7 @@ AI safety & policy, Policy, Outreach
 - Build relationships with government stakeholders, prioritising Republican members and national security officials.
 - Refine messaging and materials based on feedback, optimising communications for policymakers.
 
-[Apply →](https://jobs.eu.lever.co/controlai/f1906abe-2940-4949-a6a3-151d43b954a6)
+<p class="apply-cta"><a href="https://jobs.eu.lever.co/controlai/f1906abe-2940-4949-a6a3-151d43b954a6">Apply →</a></p>
 
 ---
-*Posted 2026-04-13 · Last updated 2026-05-26 · 80k job ID `rectuFSEMLKcwdmbV`*
+*Posted 2026-04-13 · Listing synced 2026-05-26 · 80k job ID `rectuFSEMLKcwdmbV`*

@@ -14,14 +14,15 @@ areas:
 
 **[Center for AI Safety](https://www.cais.ai/)**
 
-- **Location:** San Francisco Bay Area, USA
-- **Role type:** Full-time
-- **Experience:** Mid (5-9 years experience)
-- **Degree:** Undergraduate degree or less
-- **Salary:** $120,000 – $205,000
+<dl class="job-meta">
+<dt>Location</dt><dd>San Francisco Bay Area, USA</dd>
+<dt>Role type</dt><dd>Full-time</dd>
+<dt>Experience</dt><dd>Mid (5-9 years experience)</dd>
+<dt>Degree</dt><dd>Undergraduate degree or less</dd>
+<dt>Salary</dt><dd>$120,000 – $205,000</dd>
+</dl>
 
-## Tags
-AI safety & policy, Outreach
+**Areas & skills:** AI safety & policy, Outreach
 
 ## Summary
 - In this role, you'll own CAIS' messaging and narrative strategy, ensuring all communications are aligned around core ideas.
@@ -30,7 +31,7 @@ AI safety & policy, Outreach
 - Monitor discourse across platforms to inform and shape narrative priorities.
 - Partner with social, video, and media teams to ensure consistent messaging.
 
-[Apply →](https://jobs.lever.co/aisafety/3565b238-51fe-4023-b34d-dec6f3699f7f)
+<p class="apply-cta"><a href="https://jobs.lever.co/aisafety/3565b238-51fe-4023-b34d-dec6f3699f7f">Apply →</a></p>
 
 ---
-*Posted 2022-01-11 · Last updated 2026-05-26 · 80k job ID `recAbJh2EmyHSsQGM`*
+*Posted 2022-01-11 · Listing synced 2026-05-26 · 80k job ID `recAbJh2EmyHSsQGM`*

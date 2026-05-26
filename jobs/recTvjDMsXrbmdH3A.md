@@ -14,14 +14,15 @@ areas:
 
 **[ML4Good](https://www.ml4good.org/)**
 
-- **Location:** Prague, Czech Republic, Czech Republic, Europe (ex UK)
-- **Role type:** Full-time
-- **Experience:** Junior (1-4 years experience)
-- **Degree:** Undergraduate degree or less
-- **Salary:** $2,192
+<dl class="job-meta">
+<dt>Location</dt><dd>Prague, Czech Republic, Czech Republic, Europe (ex UK)</dd>
+<dt>Role type</dt><dd>Full-time</dd>
+<dt>Experience</dt><dd>Junior (1-4 years experience)</dd>
+<dt>Degree</dt><dd>Undergraduate degree or less</dd>
+<dt>Salary</dt><dd>$2,192</dd>
+</dl>
 
-## Tags
-AI safety & policy, Other
+**Areas & skills:** AI safety & policy, Other
 
 ## Summary
 - In this role, you'll teach technical AI safety to legal professionals during an intensive 5-day bootcamp in Prague.
@@ -30,7 +31,7 @@ AI safety & policy, Other
 - Provide one-on-one feedback and mentoring to support participants' development.
 - Collaborate with head teachers to develop and refine curriculum based on participant outcomes.
 
-[Apply →](https://ml4good.org/jobs/law-programme-teacher/)
+<p class="apply-cta"><a href="https://ml4good.org/jobs/law-programme-teacher/">Apply →</a></p>
 
 ---
-*Posted 2026-05-12 · Last updated 2026-05-26 · 80k job ID `recTvjDMsXrbmdH3A`*
+*Posted 2026-05-12 · Listing synced 2026-05-26 · 80k job ID `recTvjDMsXrbmdH3A`*

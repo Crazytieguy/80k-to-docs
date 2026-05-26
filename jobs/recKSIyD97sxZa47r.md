@@ -14,15 +14,15 @@ areas:
 
 **[80,000 Hours](https://80000hours.org/)**
 
-- **Location:** San Francisco Bay Area, Remote, Global, USA, USA (Confirmed Visas)
-- **Role type:** Full-time
-- **Experience:** Mid (5-9 years experience)
-- **Degree:** Undergraduate degree or less
-- **Salary:** $126,000 – $253,000
-- **Location type:** Remote
+<dl class="job-meta">
+<dt>Location</dt><dd>San Francisco Bay Area, Remote, Global, USA, USA (Confirmed Visas)</dd>
+<dt>Role type</dt><dd>Full-time</dd>
+<dt>Experience</dt><dd>Mid (5-9 years experience)</dd>
+<dt>Degree</dt><dd>Undergraduate degree or less</dd>
+<dt>Salary</dt><dd>$126,000 – $253,000</dd>
+</dl>
 
-## Tags
-AI safety & policy, Management, Strategy
+**Areas & skills:** AI safety & policy, Management, Strategy
 
 ## Summary
 - In this role, you'll make our content more helpful and delightful, driving readership and meaningful action toward high-impact careers.
@@ -31,7 +31,7 @@ AI safety & policy, Management, Strategy
 - Manage engineers and designers, building your team and directing product development.
 - Create new web products and lead visual redesigns to amplify impact.
 
-[Apply →](https://80000hours.org/2026/05/open-position-web-product-lead/)
+<p class="apply-cta"><a href="https://80000hours.org/2026/05/open-position-web-product-lead/">Apply →</a></p>
 
 ---
-*Posted 2026-05-04 · Last updated 2026-05-26 · 80k job ID `recKSIyD97sxZa47r`*
+*Posted 2026-05-04 · Listing synced 2026-05-26 · 80k job ID `recKSIyD97sxZa47r`*

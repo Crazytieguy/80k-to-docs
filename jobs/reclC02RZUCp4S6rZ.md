@@ -14,14 +14,15 @@ areas:
 
 **[80,000 Hours](https://80000hours.org/)**
 
-- **Location:** London, UK, Washington, DC metro area, San Francisco Bay Area, UK, USA, USA (Confirmed Visas), UK (Confirmed Visas)
-- **Role type:** Full-time
-- **Experience:** Multiple experience levels
-- **Degree:** Undergraduate degree or less
-- **Salary:** $121,033 – $168,102
+<dl class="job-meta">
+<dt>Location</dt><dd>London, UK, Washington, DC metro area, San Francisco Bay Area, UK, USA, USA (Confirmed Visas), UK (Confirmed Visas)</dd>
+<dt>Role type</dt><dd>Full-time</dd>
+<dt>Experience</dt><dd>Multiple experience levels</dd>
+<dt>Degree</dt><dd>Undergraduate degree or less</dd>
+<dt>Salary</dt><dd>$121,033 – $168,102</dd>
+</dl>
 
-## Tags
-AI safety & policy, Other
+**Areas & skills:** AI safety & policy, Other
 
 ## Summary
 - In this role, you'll conduct 10-12 weekly advising conversations with talented people working on high-impact problems, helping them develop clearer thinking about their career impact.
@@ -30,7 +31,7 @@ AI safety & policy, Other
 - Build deep enough expertise in priority problem areas to be able to push back constructively with senior advisees.
 - Flag issues and iterate continuously to improve advising effectiveness.
 
-[Apply →](https://80000hours.org/2026/05/open-position-advisor-2/)
+<p class="apply-cta"><a href="https://80000hours.org/2026/05/open-position-advisor-2/">Apply →</a></p>
 
 ---
-*Posted 2026-05-06 · Last updated 2026-05-26 · 80k job ID `reclC02RZUCp4S6rZ`*
+*Posted 2026-05-06 · Listing synced 2026-05-26 · 80k job ID `reclC02RZUCp4S6rZ`*

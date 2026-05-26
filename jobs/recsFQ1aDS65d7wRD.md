@@ -14,14 +14,14 @@ areas:
 
 **[Alice](https://alice.io/)**
 
-- **Location:** Remote, Global
-- **Role type:** Part-time
-- **Experience:** Multiple experience levels
-- **Degree:** Master's degree
-- **Location type:** Remote
+<dl class="job-meta">
+<dt>Location</dt><dd>Remote, Global</dd>
+<dt>Role type</dt><dd>Part-time</dd>
+<dt>Experience</dt><dd>Multiple experience levels</dd>
+<dt>Degree</dt><dd>Master's degree</dd>
+</dl>
 
-## Tags
-AI safety & policy, Research
+**Areas & skills:** AI safety & policy, Research
 
 ## Summary
 - In this role, you'll create and review biology-related prompts for Generative AI systems to ensure scientific accuracy and safety.
@@ -30,7 +30,7 @@ AI safety & policy, Research
 - Identify and flag incorrect, harmful, or misleading content in AI outputs.
 - Provide expert feedback to improve prompt design and content generation standards.
 
-[Apply →](https://alice.io/positions/position-DD_067)
+<p class="apply-cta"><a href="https://alice.io/positions/position-DD_067">Apply →</a></p>
 
 ---
-*Posted 2022-01-05 · Last updated 2026-05-26 · 80k job ID `recsFQ1aDS65d7wRD`*
+*Posted 2022-01-05 · Listing synced 2026-05-26 · 80k job ID `recsFQ1aDS65d7wRD`*

@@ -14,19 +14,19 @@ areas:
 
 **[Center on Long-Term Risk](https://longtermrisk.org/)**
 
-- **Location:** London, UK, Remote, Global, UK
-- **Role type:** Full-time, Part-time
-- **Experience:** Multiple experience levels
-- **Degree:** Undergraduate degree or less
-- **Location type:** Remote
+<dl class="job-meta">
+<dt>Location</dt><dd>London, UK, Remote, Global, UK</dd>
+<dt>Role type</dt><dd>Full-time, Part-time</dd>
+<dt>Experience</dt><dd>Multiple experience levels</dd>
+<dt>Degree</dt><dd>Undergraduate degree or less</dd>
+</dl>
 
-## Tags
-AI safety & policy, Research, Policy, Operations
+**Areas & skills:** AI safety & policy, Research, Policy, Operations
 
 ## Summary
 - This is a general expression of interest to work with the Center on Long-Term Risk.
 
-[Apply →](https://longtermrisk.org/interest/)
+<p class="apply-cta"><a href="https://longtermrisk.org/interest/">Apply →</a></p>
 
 ---
-*Posted 2022-01-11 · Last updated 2026-05-26 · 80k job ID `recj7VFpLibiwqJgj`*
+*Posted 2022-01-11 · Listing synced 2026-05-26 · 80k job ID `recj7VFpLibiwqJgj`*

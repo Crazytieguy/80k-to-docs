@@ -14,15 +14,15 @@ areas:
 
 **[Rethink Priorities](https://www.rethinkpriorities.org/)**
 
-- **Location:** Remote, Global
-- **Role type:** Full-time
-- **Experience:** Mid (5-9 years experience)
-- **Degree:** Undergraduate degree or less
-- **Salary:** $75,900 – $125,400
-- **Location type:** Remote
+<dl class="job-meta">
+<dt>Location</dt><dd>Remote, Global</dd>
+<dt>Role type</dt><dd>Full-time</dd>
+<dt>Experience</dt><dd>Mid (5-9 years experience)</dd>
+<dt>Degree</dt><dd>Undergraduate degree or less</dd>
+<dt>Salary</dt><dd>$75,900 – $125,400</dd>
+</dl>
 
-## Tags
-AI safety & policy, Research
+**Areas & skills:** AI safety & policy, Research
 
 ## Summary
 - In this role, you'll conduct research to inform policy decisions on wellbeing and welfare for people and animals.
@@ -31,7 +31,7 @@ AI safety & policy, Research
 - Publish findings to guide policymakers and major foundations.
 - Collaborate within the Worldview Investigations team on evidence-gathering initiatives.
 
-[Apply →](https://careers.rethinkpriorities.org/en/postings/698c3c3b-717c-47a5-94fe-cd37ccaa1f34)
+<p class="apply-cta"><a href="https://careers.rethinkpriorities.org/en/postings/698c3c3b-717c-47a5-94fe-cd37ccaa1f34">Apply →</a></p>
 
 ---
-*Posted 2026-05-25 · Last updated 2026-05-26 · 80k job ID `recu4dxkTIk17qLe3`*
+*Posted 2026-05-25 · Listing synced 2026-05-26 · 80k job ID `recu4dxkTIk17qLe3`*

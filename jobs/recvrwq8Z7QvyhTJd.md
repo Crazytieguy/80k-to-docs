@@ -14,14 +14,15 @@ areas:
 
 **[The AI Policy Network](https://theaipn.org/)**
 
-- **Location:** San Francisco Bay Area, USA
-- **Role type:** Full-time
-- **Experience:** Mid (5-9 years experience)
-- **Degree:** Undergraduate degree or less
-- **Salary:** $130,000 – $165,000
+<dl class="job-meta">
+<dt>Location</dt><dd>San Francisco Bay Area, USA</dd>
+<dt>Role type</dt><dd>Full-time</dd>
+<dt>Experience</dt><dd>Mid (5-9 years experience)</dd>
+<dt>Degree</dt><dd>Undergraduate degree or less</dd>
+<dt>Salary</dt><dd>$130,000 – $165,000</dd>
+</dl>
 
-## Tags
-AI safety & policy, Outreach
+**Areas & skills:** AI safety & policy, Outreach
 
 ## Summary
 - In this role, you'll cultivate and close major gifts from tech professionals and mission-aligned donors to support AIPN's work.
@@ -30,7 +31,7 @@ AI safety & policy, Outreach
 - Develop tailored gift proposals, engagement plans, and reports that articulate AIPN's mission to donor audiences.
 - Build relationships within Bay Area tech, AI safety, and philanthropic communities to identify prospective major donors.
 
-[Apply →](https://theaipn.org/careers/director-donor-relations/)
+<p class="apply-cta"><a href="https://theaipn.org/careers/director-donor-relations/">Apply →</a></p>
 
 ---
-*Posted 2022-01-05 · Last updated 2026-05-26 · 80k job ID `recvrwq8Z7QvyhTJd`*
+*Posted 2022-01-05 · Listing synced 2026-05-26 · 80k job ID `recvrwq8Z7QvyhTJd`*

@@ -14,14 +14,14 @@ areas:
 
 **[Foresight Institute](https://foresight.org/)**
 
-- **Location:** Remote, Global
-- **Role type:** Funding
-- **Experience:** Multiple experience levels
-- **Degree:** Undergraduate degree or less
-- **Location type:** Remote
+<dl class="job-meta">
+<dt>Location</dt><dd>Remote, Global</dd>
+<dt>Role type</dt><dd>Funding</dd>
+<dt>Experience</dt><dd>Multiple experience levels</dd>
+<dt>Degree</dt><dd>Undergraduate degree or less</dd>
+</dl>
 
-## Tags
-AI safety & policy, Research
+**Areas & skills:** AI safety & policy, Research
 
 ## Summary
 - Grants are awarded for projects in two AI safety-relevant areas: secure AI and neurotechnology for safe AI.
@@ -29,7 +29,7 @@ AI safety & policy, Research
 - Proposals are accepted from individuals, teams, and organisations year-round, with quarterly review deadlines (March 31, June 30, September 30, December 31).
 - Fund both short-term and multi-year projects.
 
-[Apply →](https://foresight.org/request-for-proposals/)
+<p class="apply-cta"><a href="https://foresight.org/request-for-proposals/">Apply →</a></p>
 
 ---
-*Posted 2026-04-27 · Last updated 2026-05-26 · 80k job ID `recsFXcYzJcokzQPq`*
+*Posted 2026-04-27 · Listing synced 2026-05-26 · 80k job ID `recsFXcYzJcokzQPq`*

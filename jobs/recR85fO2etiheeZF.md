@@ -14,14 +14,14 @@ areas:
 
 **[Apart Research](https://apartresearch.com/)**
 
-- **Location:** Remote, Global
-- **Role type:** Fellowship
-- **Experience:** Multiple experience levels
-- **Degree:** Undergraduate degree or less
-- **Location type:** Remote
+<dl class="job-meta">
+<dt>Location</dt><dd>Remote, Global</dd>
+<dt>Role type</dt><dd>Fellowship</dd>
+<dt>Experience</dt><dd>Multiple experience levels</dd>
+<dt>Degree</dt><dd>Undergraduate degree or less</dd>
+</dl>
 
-## Tags
-AI safety & policy, Research, Software engineering, Information security
+**Areas & skills:** AI safety & policy, Research, Software engineering, Information security
 
 ## Summary
 - In this fellowship, you'll conduct research in a small team on secure program synthesis, addressing specification, validation, and adversarial robustness of AI-generated code.
@@ -30,7 +30,7 @@ AI safety & policy, Research, Software engineering, Information security
 - Collaborate with expert mentors and project managers guiding your research team.
 - Present milestones and prepare work for demo day presentations and potential conference publication.
 
-[Apply →](https://apartresearch.com/fellowships/the-secure-program-synthesis-fellowship)
+<p class="apply-cta"><a href="https://apartresearch.com/fellowships/the-secure-program-synthesis-fellowship">Apply →</a></p>
 
 ---
-*Posted 2026-05-26 · Last updated 2026-05-26 · 80k job ID `recR85fO2etiheeZF`*
+*Posted 2026-05-26 · Listing synced 2026-05-26 · 80k job ID `recR85fO2etiheeZF`*

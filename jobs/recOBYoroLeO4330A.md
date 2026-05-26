@@ -14,14 +14,15 @@ areas:
 
 **[Center for AI Safety](https://www.cais.ai/)**
 
-- **Location:** San Francisco Bay Area, USA
-- **Role type:** Full-time
-- **Experience:** Mid (5-9 years experience)
-- **Degree:** Undergraduate degree or less
-- **Salary:** $150,000 – $200,000
+<dl class="job-meta">
+<dt>Location</dt><dd>San Francisco Bay Area, USA</dd>
+<dt>Role type</dt><dd>Full-time</dd>
+<dt>Experience</dt><dd>Mid (5-9 years experience)</dd>
+<dt>Degree</dt><dd>Undergraduate degree or less</dd>
+<dt>Salary</dt><dd>$150,000 – $200,000</dd>
+</dl>
 
-## Tags
-AI safety & policy, Operations, Strategy
+**Areas & skills:** AI safety & policy, Operations, Strategy
 
 ## Summary
 - In this role, you'll lead strategic fundraising efforts and cultivate donor relationships to advance CAIS's mission.
@@ -30,7 +31,7 @@ AI safety & policy, Operations, Strategy
 - Establish and maintain relationships with key stakeholders and donors.
 - Collaborate with executive and program teams on strategic planning aligned with development goals.
 
-[Apply →](https://jobs.lever.co/aisafety/6c01e3ac-e43a-4186-9a35-a344c1ce1774)
+<p class="apply-cta"><a href="https://jobs.lever.co/aisafety/6c01e3ac-e43a-4186-9a35-a344c1ce1774">Apply →</a></p>
 
 ---
-*Posted 2026-03-11 · Last updated 2026-05-26 · 80k job ID `recOBYoroLeO4330A`*
+*Posted 2026-03-11 · Listing synced 2026-05-26 · 80k job ID `recOBYoroLeO4330A`*

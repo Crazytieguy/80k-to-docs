@@ -14,14 +14,15 @@ areas:
 
 **[Center for AI Safety](https://www.cais.ai/)**
 
-- **Location:** San Francisco Bay Area, USA
-- **Role type:** Full-time
-- **Experience:** Mid (5-9 years experience)
-- **Degree:** Undergraduate degree or less
-- **Salary:** $110,000 – $190,000
+<dl class="job-meta">
+<dt>Location</dt><dd>San Francisco Bay Area, USA</dd>
+<dt>Role type</dt><dd>Full-time</dd>
+<dt>Experience</dt><dd>Mid (5-9 years experience)</dd>
+<dt>Degree</dt><dd>Undergraduate degree or less</dd>
+<dt>Salary</dt><dd>$110,000 – $190,000</dd>
+</dl>
 
-## Tags
-AI safety & policy, Other, Strategy
+**Areas & skills:** AI safety & policy, Other, Strategy
 
 ## Summary
 - In this role, you'll own video strategy across YouTube, Shorts, and TikTok to maximize reach and retention.
@@ -30,7 +31,7 @@ AI safety & policy, Other, Strategy
 - Optimize titles, thumbnails, and retention curves for platform algorithms.
 - Build creator collaborations and analyze performance to refine strategy.
 
-[Apply →](https://jobs.lever.co/aisafety/40eb4a05-5b2a-41af-9c3f-83f6c4118c96)
+<p class="apply-cta"><a href="https://jobs.lever.co/aisafety/40eb4a05-5b2a-41af-9c3f-83f6c4118c96">Apply →</a></p>
 
 ---
-*Posted 2022-01-11 · Last updated 2026-05-26 · 80k job ID `recGOUppflBEWlEiQ`*
+*Posted 2022-01-11 · Listing synced 2026-05-26 · 80k job ID `recGOUppflBEWlEiQ`*

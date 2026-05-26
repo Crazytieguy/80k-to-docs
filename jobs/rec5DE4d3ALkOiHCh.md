@@ -14,14 +14,15 @@ areas:
 
 **[Zurich AI Safety](https://zurich.aisafety.ch/)**
 
-- **Location:** Zurich, Switzerland, Switzerland, Europe (ex UK)
-- **Role type:** Full-time
-- **Experience:** Junior (1-4 years experience)
-- **Degree:** Undergraduate degree or less
-- **Salary:** $82,745 – $108,204
+<dl class="job-meta">
+<dt>Location</dt><dd>Zurich, Switzerland, Switzerland, Europe (ex UK)</dd>
+<dt>Role type</dt><dd>Full-time</dd>
+<dt>Experience</dt><dd>Junior (1-4 years experience)</dd>
+<dt>Degree</dt><dd>Undergraduate degree or less</dd>
+<dt>Salary</dt><dd>$82,745 – $108,204</dd>
+</dl>
 
-## Tags
-AI safety & policy, Outreach, Strategy
+**Areas & skills:** AI safety & policy, Outreach, Strategy
 
 ## Summary
 - In this role, you'll shape the strategic direction of Zurich AI Safety, developing programs to advance AI safety in Switzerland.
@@ -30,7 +31,7 @@ AI safety & policy, Outreach, Strategy
 - Oversee operational setup including budgeting, compliance, and organizational development.
 - Organize networking events and retreats to unite people in AI safety and encourage collaboration.
 
-[Apply →](https://forum.effectivealtruism.org/posts/NvvHgGxojoTEq2HkA/zurich-ai-safety-is-looking-for-co-directors-eoi)
+<p class="apply-cta"><a href="https://forum.effectivealtruism.org/posts/NvvHgGxojoTEq2HkA/zurich-ai-safety-is-looking-for-co-directors-eoi">Apply →</a></p>
 
 ---
-*Posted 2022-01-06 · Last updated 2026-05-26 · 80k job ID `rec5DE4d3ALkOiHCh`*
+*Posted 2022-01-06 · Listing synced 2026-05-26 · 80k job ID `rec5DE4d3ALkOiHCh`*

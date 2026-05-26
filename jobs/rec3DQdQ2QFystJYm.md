@@ -14,14 +14,15 @@ areas:
 
 **[Evitable](https://evitable.com/)**
 
-- **Location:** San Francisco Bay Area, USA
-- **Role type:** Full-time
-- **Experience:** Junior (1-4 years experience), Mid (5-9 years experience)
-- **Degree:** Undergraduate degree or less
-- **Salary:** $80,000 – $160,000
+<dl class="job-meta">
+<dt>Location</dt><dd>San Francisco Bay Area, USA</dd>
+<dt>Role type</dt><dd>Full-time</dd>
+<dt>Experience</dt><dd>Junior (1-4 years experience), Mid (5-9 years experience)</dd>
+<dt>Degree</dt><dd>Undergraduate degree or less</dd>
+<dt>Salary</dt><dd>$80,000 – $160,000</dd>
+</dl>
 
-## Tags
-AI safety & policy, Outreach, Strategy
+**Areas & skills:** AI safety & policy, Outreach, Strategy
 
 ## Summary
 - In this role, you'll craft Evitable's communications strategy from the ground up to drive awareness of AI's dangers and challenge AI inevitability.
@@ -30,7 +31,7 @@ AI safety & policy, Outreach, Strategy
 - Provide messaging advice and speaker preparation for media engagements.
 - Develop Evitable's digital presence across social platforms while responding to breaking news stories.
 
-[Apply →](https://evitable.com/communications-associate-head)
+<p class="apply-cta"><a href="https://evitable.com/communications-associate-head">Apply →</a></p>
 
 ---
-*Posted 2022-01-06 · Last updated 2026-05-26 · 80k job ID `rec3DQdQ2QFystJYm`*
+*Posted 2022-01-06 · Listing synced 2026-05-26 · 80k job ID `rec3DQdQ2QFystJYm`*

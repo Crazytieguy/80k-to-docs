@@ -14,15 +14,15 @@ areas:
 
 **[FAR AI](https://far.ai/)**
 
-- **Location:** Remote, Global, Remote, USA, USA
-- **Role type:** Full-time
-- **Experience:** Mid (5-9 years experience)
-- **Degree:** Undergraduate degree or less
-- **Salary:** $110,000 – $150,000
-- **Location type:** Remote
+<dl class="job-meta">
+<dt>Location</dt><dd>Remote, Global, Remote, USA, USA</dd>
+<dt>Role type</dt><dd>Full-time</dd>
+<dt>Experience</dt><dd>Mid (5-9 years experience)</dd>
+<dt>Degree</dt><dd>Undergraduate degree or less</dd>
+<dt>Salary</dt><dd>$110,000 – $150,000</dd>
+</dl>
 
-## Tags
-AI safety & policy, Operations
+**Areas & skills:** AI safety & policy, Operations
 
 ## Summary
 - In this role, you'll enable executive leadership by managing communications, scheduling, and travel coordination.
@@ -31,7 +31,7 @@ AI safety & policy, Operations
 - Support leadership meetings by preparing agendas, materials, tracking action items, and ensuring team readiness.
 - Drive operational initiatives including presentations, stakeholder engagement, and improving workflows and systems.
 
-[Apply →](https://jobs.ashbyhq.com/far.ai/4cc0053b-9c43-4114-ba4f-47888764aa8c?embed=js)
+<p class="apply-cta"><a href="https://jobs.ashbyhq.com/far.ai/4cc0053b-9c43-4114-ba4f-47888764aa8c?embed=js">Apply →</a></p>
 
 ---
-*Posted 2022-01-05 · Last updated 2026-05-26 · 80k job ID `recOwVLAHwet8DR0E`*
+*Posted 2022-01-05 · Listing synced 2026-05-26 · 80k job ID `recOwVLAHwet8DR0E`*

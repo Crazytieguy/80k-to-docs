@@ -14,15 +14,15 @@ areas:
 
 **[Trajectory Labs](https://trajectorylabs.net/)**
 
-- **Location:** Remote, Global
-- **Role type:** Full-time
-- **Experience:** Junior (1-4 years experience)
-- **Degree:** Undergraduate degree or less
-- **Salary:** $104,000 – $166,400
-- **Location type:** Remote
+<dl class="job-meta">
+<dt>Location</dt><dd>Remote, Global</dd>
+<dt>Role type</dt><dd>Full-time</dd>
+<dt>Experience</dt><dd>Junior (1-4 years experience)</dd>
+<dt>Degree</dt><dd>Undergraduate degree or less</dd>
+<dt>Salary</dt><dd>$104,000 – $166,400</dd>
+</dl>
 
-## Tags
-AI safety & policy, Information security
+**Areas & skills:** AI safety & policy, Information security
 
 ## Summary
 - In this role, you'll red-team an unreleased AI product from a frontier lab to identify and mitigate security vulnerabilities.
@@ -31,7 +31,7 @@ AI safety & policy, Information security
 - Work independently to drive security testing projects to completion with minimal supervision.
 - Document vulnerabilities and collaborate with AI safety researchers to recommend mitigations.
 
-[Apply →](https://trajectorylabs.net/careers/ai-red-teamer)
+<p class="apply-cta"><a href="https://trajectorylabs.net/careers/ai-red-teamer">Apply →</a></p>
 
 ---
-*Posted 2022-01-06 · Last updated 2026-05-26 · 80k job ID `recoU0KdNvLVriLZS`*
+*Posted 2022-01-06 · Listing synced 2026-05-26 · 80k job ID `recoU0KdNvLVriLZS`*

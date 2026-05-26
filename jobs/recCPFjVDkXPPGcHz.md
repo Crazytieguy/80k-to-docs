@@ -14,14 +14,15 @@ areas:
 
 **[CivAI](https://www.civai.org/)**
 
-- **Location:** Washington, DC metro area, San Francisco Bay Area, USA
-- **Role type:** Full-time
-- **Experience:** Junior (1-4 years experience)
-- **Degree:** Undergraduate degree or less
-- **Salary:** $130,000 – $200,000
+<dl class="job-meta">
+<dt>Location</dt><dd>Washington, DC metro area, San Francisco Bay Area, USA</dd>
+<dt>Role type</dt><dd>Full-time</dd>
+<dt>Experience</dt><dd>Junior (1-4 years experience)</dd>
+<dt>Degree</dt><dd>Undergraduate degree or less</dd>
+<dt>Salary</dt><dd>$130,000 – $200,000</dd>
+</dl>
 
-## Tags
-AI safety & policy, Policy
+**Areas & skills:** AI safety & policy, Policy
 
 ## Summary
 - In this role, you'll lead policy engagement with Congress and the U.S. government to educate policymakers on AI risks.
@@ -30,7 +31,7 @@ AI safety & policy, Policy
 - Develop strategy for engaging policymakers with compelling presentations balancing timely and longer-term goals.
 - Identify emerging trends in AI development and safety that create new demonstration opportunities.
 
-[Apply →](https://civai.org/jobs/director-of-policy)
+<p class="apply-cta"><a href="https://civai.org/jobs/director-of-policy">Apply →</a></p>
 
 ---
-*Posted 2026-04-07 · Last updated 2026-05-26 · 80k job ID `recCPFjVDkXPPGcHz`*
+*Posted 2026-04-07 · Listing synced 2026-05-26 · 80k job ID `recCPFjVDkXPPGcHz`*

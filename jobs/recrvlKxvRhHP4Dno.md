@@ -14,14 +14,15 @@ areas:
 
 **[OpenAI](https://openai.com/)**
 
-- **Location:** San Francisco Bay Area, USA
-- **Role type:** Full-time
-- **Experience:** Junior (1-4 years experience), Mid (5-9 years experience)
-- **Degree:** Master's degree
-- **Salary:** $295,000 – $445,000
+<dl class="job-meta">
+<dt>Location</dt><dd>San Francisco Bay Area, USA</dd>
+<dt>Role type</dt><dd>Full-time</dd>
+<dt>Experience</dt><dd>Junior (1-4 years experience), Mid (5-9 years experience)</dd>
+<dt>Degree</dt><dd>Master's degree</dd>
+<dt>Salary</dt><dd>$295,000 – $445,000</dd>
+</dl>
 
-## Tags
-AI safety & policy, Research, Software engineering
+**Areas & skills:** AI safety & policy, Research, Software engineering
 
 ## Summary
 - In this role, you'll design and execute cutting-edge attacks and adversarial evaluations to uncover how AI safety measures fail.
@@ -30,7 +31,7 @@ AI safety & policy, Research, Software engineering
 - Conduct research on alignment technique failures and propose improvements.
 - Publish influential papers and partner with cross-functional teams on safety integration.
 
-[Apply →](https://openai.com/careers/researcher-misalignment-research-san-francisco/)
+<p class="apply-cta"><a href="https://openai.com/careers/researcher-misalignment-research-san-francisco/">Apply →</a></p>
 
 ---
-*Posted 2026-04-29 · Last updated 2026-05-26 · 80k job ID `recrvlKxvRhHP4Dno`*
+*Posted 2026-04-29 · Listing synced 2026-05-26 · 80k job ID `recrvlKxvRhHP4Dno`*

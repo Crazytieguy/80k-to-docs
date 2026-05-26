@@ -14,14 +14,14 @@ areas:
 
 **[BlueDot Impact](https://www.bluedotimpact.org/)**
 
-- **Location:** Remote, Global
-- **Role type:** Part-time
-- **Experience:** Junior (1-4 years experience), Mid (5-9 years experience)
-- **Degree:** Undergraduate degree or less
-- **Location type:** Remote
+<dl class="job-meta">
+<dt>Location</dt><dd>Remote, Global</dd>
+<dt>Role type</dt><dd>Part-time</dd>
+<dt>Experience</dt><dd>Junior (1-4 years experience), Mid (5-9 years experience)</dd>
+<dt>Degree</dt><dd>Undergraduate degree or less</dd>
+</dl>
 
-## Tags
-AI safety & policy, Other
+**Areas & skills:** AI safety & policy, Other
 
 ## Summary
 - In this role, you'll facilitate discussion-based learning to develop top talent to work on pressing global issues like AI safety and biosecurity.
@@ -30,7 +30,7 @@ AI safety & policy, Other
 - Provide 1:1 mentorship to help participants launch careers in AI safety or biosecurity.
 - Prepare for sessions by reviewing materials and designing activities that drive engagement.
 
-[Apply →](https://bluedot.org/join-us/facilitate)
+<p class="apply-cta"><a href="https://bluedot.org/join-us/facilitate">Apply →</a></p>
 
 ---
-*Posted 2022-01-06 · Last updated 2026-05-26 · 80k job ID `recodvRAvm8hu06hF`*
+*Posted 2022-01-06 · Listing synced 2026-05-26 · 80k job ID `recodvRAvm8hu06hF`*

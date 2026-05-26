@@ -14,14 +14,14 @@ areas:
 
 **[OpenAI](https://openai.com/)**
 
-- **Location:** Remote, Global
-- **Role type:** Fellowship, Funding
-- **Experience:** Multiple experience levels
-- **Degree:** Undergraduate degree or less
-- **Location type:** Remote
+<dl class="job-meta">
+<dt>Location</dt><dd>Remote, Global</dd>
+<dt>Role type</dt><dd>Fellowship, Funding</dd>
+<dt>Experience</dt><dd>Multiple experience levels</dd>
+<dt>Degree</dt><dd>Undergraduate degree or less</dd>
+</dl>
 
-## Tags
-AI safety & policy, Information security
+**Areas & skills:** AI safety & policy, Information security
 
 ## Summary
 - Empower defenders with AI capabilities.
@@ -30,7 +30,7 @@ AI safety & policy, Information security
 - Projects should focus on practical AI applications in defensive cybersecurity.
 - Funds granted in $10,000 increments from a $1M pool.
 
-[Apply →](https://openai.com/blog/openai-cybersecurity-grant-program)
+<p class="apply-cta"><a href="https://openai.com/blog/openai-cybersecurity-grant-program">Apply →</a></p>
 
 ---
-*Posted 2026-04-15 · Last updated 2026-05-26 · 80k job ID `recV1kwLisJ94m73E`*
+*Posted 2026-04-15 · Listing synced 2026-05-26 · 80k job ID `recV1kwLisJ94m73E`*

@@ -14,13 +14,14 @@ areas:
 
 **[Shanghai Artificial Intelligence Laboratory](https://www.shlab.org.cn/)**
 
-- **Location:** Shanghai, China, China, Asia
-- **Role type:** Full-time
-- **Experience:** Junior (1-4 years experience)
-- **Degree:** Master's degree
+<dl class="job-meta">
+<dt>Location</dt><dd>Shanghai, China, China, Asia</dd>
+<dt>Role type</dt><dd>Full-time</dd>
+<dt>Experience</dt><dd>Junior (1-4 years experience)</dd>
+<dt>Degree</dt><dd>Master's degree</dd>
+</dl>
 
-## Tags
-AI safety & policy, Research, Software engineering, Information security
+**Areas & skills:** AI safety & policy, Research, Software engineering, Information security
 
 ## Summary
 - In this role, you'll research risks of frontier AI systems and develop frameworks for risk identification and analysis.
@@ -29,7 +30,7 @@ AI safety & policy, Research, Software engineering, Information security
 - Develop security alignment methods and reliable intervention mechanisms for AI systems.
 - Track international AI safety research and publish findings in top academic venues.
 
-[Apply →](https://www.shlab.org.cn/joinus/detail/7586567008909773098)
+<p class="apply-cta"><a href="https://www.shlab.org.cn/joinus/detail/7586567008909773098">Apply →</a></p>
 
 ---
-*Posted 2022-01-06 · Last updated 2026-05-26 · 80k job ID `recguXh5YNjZDQ02a`*
+*Posted 2022-01-06 · Listing synced 2026-05-26 · 80k job ID `recguXh5YNjZDQ02a`*

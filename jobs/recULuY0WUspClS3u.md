@@ -14,14 +14,15 @@ areas:
 
 **[Cambridge Boston Alignment Initiative](https://www.cbai.ai/)**
 
-- **Location:** Boston metro area, USA
-- **Role type:** Full-time
-- **Experience:** Junior (1-4 years experience)
-- **Degree:** Undergraduate degree or less
-- **Salary:** $80,000 – $100,000
+<dl class="job-meta">
+<dt>Location</dt><dd>Boston metro area, USA</dd>
+<dt>Role type</dt><dd>Full-time</dd>
+<dt>Experience</dt><dd>Junior (1-4 years experience)</dd>
+<dt>Degree</dt><dd>Undergraduate degree or less</dd>
+<dt>Salary</dt><dd>$80,000 – $100,000</dd>
+</dl>
 
-## Tags
-AI safety & policy, Operations, Strategy
+**Areas & skills:** AI safety & policy, Operations, Strategy
 
 ## Summary
 - In this role, you'll own CBAI's event portfolio, scaling Harvard-MIT workshops, running monthly networking events, and sourcing specialized research workshops.
@@ -30,7 +31,7 @@ AI safety & policy, Operations, Strategy
 - Curate and manage monthly Cambridge AI safety networking events strengthening the community.
 - Manage end-to-end logistics, vendor coordination, participant selection, and feedback collection.
 
-[Apply →](https://jobs.ashbyhq.com/cbai/404d4d26-760e-41a7-9bf2-b0da235246b3)
+<p class="apply-cta"><a href="https://jobs.ashbyhq.com/cbai/404d4d26-760e-41a7-9bf2-b0da235246b3">Apply →</a></p>
 
 ---
-*Posted 2026-04-02 · Last updated 2026-05-26 · 80k job ID `recULuY0WUspClS3u`*
+*Posted 2026-04-02 · Listing synced 2026-05-26 · 80k job ID `recULuY0WUspClS3u`*

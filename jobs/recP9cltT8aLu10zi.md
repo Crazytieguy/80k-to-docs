@@ -14,13 +14,14 @@ areas:
 
 **[CivAI](https://www.civai.org/)**
 
-- **Location:** San Francisco Bay Area, USA
-- **Role type:** Full-time
-- **Experience:** Multiple experience levels
-- **Degree:** Undergraduate degree or less
+<dl class="job-meta">
+<dt>Location</dt><dd>San Francisco Bay Area, USA</dd>
+<dt>Role type</dt><dd>Full-time</dd>
+<dt>Experience</dt><dd>Multiple experience levels</dd>
+<dt>Degree</dt><dd>Undergraduate degree or less</dd>
+</dl>
 
-## Tags
-AI safety & policy, Policy
+**Areas & skills:** AI safety & policy, Policy
 
 ## Summary
 - In this role, you'll disseminate knowledge about AI capabilities and dangers through interactive software experiences.
@@ -29,7 +30,7 @@ AI safety & policy, Policy
 - Make scalable versions of the demos available to the public for widespread education and awareness.
 - Aim to foster a world where people understand AI capabilities and make better, informed decisions.
 
-[Apply →](https://airtable.com/appF2jFyZ4WQn5rd6/pagtXCfyyBEU57tXd/form)
+<p class="apply-cta"><a href="https://airtable.com/appF2jFyZ4WQn5rd6/pagtXCfyyBEU57tXd/form">Apply →</a></p>
 
 ---
-*Posted 2022-01-05 · Last updated 2026-05-26 · 80k job ID `recP9cltT8aLu10zi`*
+*Posted 2022-01-05 · Listing synced 2026-05-26 · 80k job ID `recP9cltT8aLu10zi`*

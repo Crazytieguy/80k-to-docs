@@ -14,14 +14,15 @@ areas:
 
 **[OpenAI](https://openai.com/)**
 
-- **Location:** San Francisco Bay Area, USA
-- **Role type:** Full-time
-- **Experience:** Mid (5-9 years experience), Senior (10+ years experience)
-- **Degree:** Undergraduate degree or less
-- **Salary:** $293,000 – $405,000
+<dl class="job-meta">
+<dt>Location</dt><dd>San Francisco Bay Area, USA</dd>
+<dt>Role type</dt><dd>Full-time</dd>
+<dt>Experience</dt><dd>Mid (5-9 years experience), Senior (10+ years experience)</dd>
+<dt>Degree</dt><dd>Undergraduate degree or less</dd>
+<dt>Salary</dt><dd>$293,000 – $405,000</dd>
+</dl>
 
-## Tags
-AI safety & policy, Software engineering, Information security
+**Areas & skills:** AI safety & policy, Software engineering, Information security
 
 ## Summary
 - In this role, you'll lead security defense of internal AI agents against advanced threats, APTs, and insider risks.
@@ -30,7 +31,7 @@ AI safety & policy, Software engineering, Information security
 - Partner with Security, Infrastructure, Research, and Preparedness teams on implementation plans and tradeoffs.
 - Lead technical execution including prototyping controls, writing software, working with penetration testers, and coordinating engineers.
 
-[Apply →](https://openai.com/careers/security-preparedness-lead-coding-agents-san-francisco/)
+<p class="apply-cta"><a href="https://openai.com/careers/security-preparedness-lead-coding-agents-san-francisco/">Apply →</a></p>
 
 ---
-*Posted 2026-05-19 · Last updated 2026-05-26 · 80k job ID `recuRkQMf5ZkGz2Tf`*
+*Posted 2026-05-19 · Listing synced 2026-05-26 · 80k job ID `recuRkQMf5ZkGz2Tf`*

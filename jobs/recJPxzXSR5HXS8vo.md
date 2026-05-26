@@ -14,14 +14,15 @@ areas:
 
 **[Anthropic](https://www.anthropic.com/)**
 
-- **Location:** San Francisco Bay Area, New York, NY, USA, USA (Confirmed Visas)
-- **Role type:** Full-time
-- **Experience:** Mid (5-9 years experience)
-- **Degree:** Undergraduate degree or less
-- **Salary:** $320,000 – $405,000
+<dl class="job-meta">
+<dt>Location</dt><dd>San Francisco Bay Area, New York, NY, USA, USA (Confirmed Visas)</dd>
+<dt>Role type</dt><dd>Full-time</dd>
+<dt>Experience</dt><dd>Mid (5-9 years experience)</dd>
+<dt>Degree</dt><dd>Undergraduate degree or less</dd>
+<dt>Salary</dt><dd>$320,000 – $405,000</dd>
+</dl>
 
-## Tags
-AI safety & policy, Software engineering, Information security
+**Areas & skills:** AI safety & policy, Software engineering, Information security
 
 ## Summary
 - In this role, you'll build AI-powered cybersecurity products, working across the stack to prototype new solutions.
@@ -30,7 +31,7 @@ AI safety & policy, Software engineering, Information security
 - Engage with customers and partners to understand workflows and inform product direction.
 - Apply product instincts to define what to build, working at the intersection of research and go-to-market.
 
-[Apply →](https://job-boards.greenhouse.io/anthropic/jobs/5063007008)
+<p class="apply-cta"><a href="https://job-boards.greenhouse.io/anthropic/jobs/5063007008">Apply →</a></p>
 
 ---
-*Posted 2022-01-11 · Last updated 2026-05-26 · 80k job ID `recJPxzXSR5HXS8vo`*
+*Posted 2022-01-11 · Listing synced 2026-05-26 · 80k job ID `recJPxzXSR5HXS8vo`*

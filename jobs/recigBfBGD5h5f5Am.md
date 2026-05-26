@@ -14,13 +14,14 @@ areas:
 
 **[Lakera AI](https://www.lakera.ai/)**
 
-- **Location:** Zurich, Switzerland, Switzerland, Europe (ex UK)
-- **Role type:** Full-time
-- **Experience:** Mid (5-9 years experience)
-- **Degree:** Undergraduate degree or less
+<dl class="job-meta">
+<dt>Location</dt><dd>Zurich, Switzerland, Switzerland, Europe (ex UK)</dd>
+<dt>Role type</dt><dd>Full-time</dd>
+<dt>Experience</dt><dd>Mid (5-9 years experience)</dd>
+<dt>Degree</dt><dd>Undergraduate degree or less</dd>
+</dl>
 
-## Tags
-AI safety & policy, Software engineering
+**Areas & skills:** AI safety & policy, Software engineering
 
 ## Summary
 - In this role, you'll operate at the cutting edge of AI, building strong defenses in the AI cybersecurity market.
@@ -29,7 +30,7 @@ AI safety & policy, Software engineering
 - Ensure continuous shipping of the best defenses in the market with a high frequency.
 - Red team models to understand vulnerabilities and prioritize data collection to address them.
 
-[Apply →](https://www.lakera.ai/careers?ashby_jid=6f04a898-893e-439f-8601-c25a30418c13)
+<p class="apply-cta"><a href="https://www.lakera.ai/careers?ashby_jid=6f04a898-893e-439f-8601-c25a30418c13">Apply →</a></p>
 
 ---
-*Posted 2022-01-05 · Last updated 2026-05-26 · 80k job ID `recigBfBGD5h5f5Am`*
+*Posted 2022-01-05 · Listing synced 2026-05-26 · 80k job ID `recigBfBGD5h5f5Am`*

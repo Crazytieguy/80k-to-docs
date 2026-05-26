@@ -14,14 +14,14 @@ areas:
 
 **[Schmidt Sciences](https://www.schmidtsciences.org/)**
 
-- **Location:** Remote, Global
-- **Role type:** Funding
-- **Experience:** Multiple experience levels
-- **Degree:** Undergraduate degree or less
-- **Location type:** Remote
+<dl class="job-meta">
+<dt>Location</dt><dd>Remote, Global</dd>
+<dt>Role type</dt><dd>Funding</dd>
+<dt>Experience</dt><dd>Multiple experience levels</dd>
+<dt>Degree</dt><dd>Undergraduate degree or less</dd>
+</dl>
 
-## Tags
-AI safety & policy, Research, Strategy
+**Areas & skills:** AI safety & policy, Research, Strategy
 
 ## Summary
 - Receive funding to develop interpretability methods that detect deceptive behaviours in LLMs and steer their reasoning to eliminate these behaviours.
@@ -30,7 +30,7 @@ AI safety & policy, Research, Strategy
 - Apply detection and steering techniques to real-world use cases and human-AI teams.
 - Evaluate methods on realistic scenarios beyond academic benchmarks to prove generalisation.
 
-[Apply →](https://schmidtsciences.smapply.io/prog/2026_interpretability_rfp/)
+<p class="apply-cta"><a href="https://schmidtsciences.smapply.io/prog/2026_interpretability_rfp/">Apply →</a></p>
 
 ---
-*Posted 2026-04-23 · Last updated 2026-05-26 · 80k job ID `recJGPuMO6SoqQXwG`*
+*Posted 2026-04-23 · Listing synced 2026-05-26 · 80k job ID `recJGPuMO6SoqQXwG`*

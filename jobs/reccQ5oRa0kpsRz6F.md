@@ -14,13 +14,14 @@ areas:
 
 **[Massachusetts Institute of Technology, FutureTech](https://futuretech.mit.edu/)**
 
-- **Location:** Boston metro area, USA
-- **Role type:** Full-time
-- **Experience:** Junior (1-4 years experience)
-- **Degree:** Undergraduate degree or less
+<dl class="job-meta">
+<dt>Location</dt><dd>Boston metro area, USA</dd>
+<dt>Role type</dt><dd>Full-time</dd>
+<dt>Experience</dt><dd>Junior (1-4 years experience)</dd>
+<dt>Degree</dt><dd>Undergraduate degree or less</dd>
+</dl>
 
-## Tags
-AI safety & policy, Research
+**Areas & skills:** AI safety & policy, Research
 
 ## Summary
 - In this role, you'll conduct computational experiments and statistical analyses to map the landscape of AI research in science.
@@ -29,7 +30,7 @@ AI safety & policy, Research
 - Prepare research documentation, reports, and manuscripts.
 - Contribute to grant proposals and academic writing while collaborating with project leads.
 
-[Apply →](https://futuretech.mit.edu/opportunities/research-assistant---ai-in-science)
+<p class="apply-cta"><a href="https://futuretech.mit.edu/opportunities/research-assistant---ai-in-science">Apply →</a></p>
 
 ---
-*Posted 2022-01-06 · Last updated 2026-05-26 · 80k job ID `reccQ5oRa0kpsRz6F`*
+*Posted 2022-01-06 · Listing synced 2026-05-26 · 80k job ID `reccQ5oRa0kpsRz6F`*

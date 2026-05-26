@@ -14,14 +14,15 @@ areas:
 
 **[OpenAI](https://openai.com/)**
 
-- **Location:** San Francisco Bay Area, USA
-- **Role type:** Full-time
-- **Experience:** Mid (5-9 years experience)
-- **Degree:** Undergraduate degree or less
-- **Salary:** $347,000 – $400,000
+<dl class="job-meta">
+<dt>Location</dt><dd>San Francisco Bay Area, USA</dd>
+<dt>Role type</dt><dd>Full-time</dd>
+<dt>Experience</dt><dd>Mid (5-9 years experience)</dd>
+<dt>Degree</dt><dd>Undergraduate degree or less</dd>
+<dt>Salary</dt><dd>$347,000 – $400,000</dd>
+</dl>
 
-## Tags
-AI safety & policy, Software engineering, Information security
+**Areas & skills:** AI safety & policy, Software engineering, Information security
 
 ## Summary
 - In this role, you'll build and improve mitigation systems that prevent extreme harms from AI systems.
@@ -30,7 +31,7 @@ AI safety & policy, Software engineering, Information security
 - Build monitoring frameworks to track mitigation effectiveness and identify over-blocking and under-blocking trends.
 - Communicate analysis results to stakeholders with decision-ready metrics and clear trade-offs.
 
-[Apply →](https://openai.com/careers/data-scientist-preparedness-san-francisco/)
+<p class="apply-cta"><a href="https://openai.com/careers/data-scientist-preparedness-san-francisco/">Apply →</a></p>
 
 ---
-*Posted 2022-01-11 · Last updated 2026-05-26 · 80k job ID `recZTfKLUvNsYGLuz`*
+*Posted 2022-01-11 · Listing synced 2026-05-26 · 80k job ID `recZTfKLUvNsYGLuz`*

@@ -14,14 +14,15 @@ areas:
 
 **[Talos Network](https://www.talosnetwork.org/)**
 
-- **Location:** Brussels, Belgium, Belgium, Europe (ex UK)
-- **Role type:** Full-time
-- **Experience:** Mid (5-9 years experience), Senior (10+ years experience)
-- **Degree:** Undergraduate degree or less
-- **Salary:** $69,769
+<dl class="job-meta">
+<dt>Location</dt><dd>Brussels, Belgium, Belgium, Europe (ex UK)</dd>
+<dt>Role type</dt><dd>Full-time</dd>
+<dt>Experience</dt><dd>Mid (5-9 years experience), Senior (10+ years experience)</dd>
+<dt>Degree</dt><dd>Undergraduate degree or less</dd>
+<dt>Salary</dt><dd>$69,769</dd>
+</dl>
 
-## Tags
-AI safety & policy, Policy
+**Areas & skills:** AI safety & policy, Policy
 
 ## Summary
 - In this programme, you'll transition into AI governance while building your European policy networks and strategic influence.
@@ -30,7 +31,7 @@ AI safety & policy, Policy
 - Undertake a 12-month paid placement at an AI-focused organisation (EUR 5,000/month, adjusted for location).
 - Receive intensive mentoring to develop strategic clarity and a concrete career plan.
 
-[Apply →](https://www.talosnetwork.org/policy-leaders-programme)
+<p class="apply-cta"><a href="https://www.talosnetwork.org/policy-leaders-programme">Apply →</a></p>
 
 ---
-*Posted 2026-05-19 · Last updated 2026-05-26 · 80k job ID `recXHu4sjwCZmn2jx`*
+*Posted 2026-05-19 · Listing synced 2026-05-26 · 80k job ID `recXHu4sjwCZmn2jx`*

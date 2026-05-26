@@ -14,13 +14,14 @@ areas:
 
 **[MATS Research](https://www.matsprogram.org/)**
 
-- **Location:** London, UK, San Francisco Bay Area, UK, USA
-- **Role type:** Fellowship
-- **Experience:** Junior (1-4 years experience), Entry-level
-- **Degree:** Undergraduate degree or less
+<dl class="job-meta">
+<dt>Location</dt><dd>London, UK, San Francisco Bay Area, UK, USA</dd>
+<dt>Role type</dt><dd>Fellowship</dd>
+<dt>Experience</dt><dd>Junior (1-4 years experience), Entry-level</dd>
+<dt>Degree</dt><dd>Undergraduate degree or less</dd>
+</dl>
 
-## Tags
-AI safety & policy, Research, Policy
+**Areas & skills:** AI safety & policy, Research, Policy
 
 ## Summary
 - In this role, you'll conduct research and field-building work to reduce frontier AI risk across one of seven specialised tracks.
@@ -29,7 +30,7 @@ AI safety & policy, Research, Policy
 - Rank and apply to specific research streams that align with your research interests and expertise.
 - Pursue independent research projects with structured mentorship and community support.
 
-[Apply →](https://www.matsprogram.org/apply)
+<p class="apply-cta"><a href="https://www.matsprogram.org/apply">Apply →</a></p>
 
 ---
-*Posted 2026-05-15 · Last updated 2026-05-26 · 80k job ID `recDmd46ZPgWvW3Vw`*
+*Posted 2026-05-15 · Listing synced 2026-05-26 · 80k job ID `recDmd46ZPgWvW3Vw`*

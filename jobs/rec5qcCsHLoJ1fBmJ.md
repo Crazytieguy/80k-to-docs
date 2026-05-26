@@ -14,14 +14,15 @@ areas:
 
 **[Constellation](https://www.constellation.org/)**
 
-- **Location:** San Francisco Bay Area, USA
-- **Role type:** Full-time
-- **Experience:** Senior (10+ years experience)
-- **Degree:** Undergraduate degree or less
-- **Salary:** $180,000 – $240,000
+<dl class="job-meta">
+<dt>Location</dt><dd>San Francisco Bay Area, USA</dd>
+<dt>Role type</dt><dd>Full-time</dd>
+<dt>Experience</dt><dd>Senior (10+ years experience)</dd>
+<dt>Degree</dt><dd>Undergraduate degree or less</dd>
+<dt>Salary</dt><dd>$180,000 – $240,000</dd>
+</dl>
 
-## Tags
-AI safety & policy, Operations, Management
+**Areas & skills:** AI safety & policy, Operations, Management
 
 ## Summary
 - In this role, you'll lead site services for an AI safety research center, overseeing IT, Security, Site Operations, and Catering.
@@ -30,7 +31,7 @@ AI safety & policy, Operations, Management
 - Develop four direct reports who lead distinct operational domains, fostering cross-functional collaboration.
 - Establish metrics and risk management protocols for cybersecurity, physical security, and workplace safety.
 
-[Apply →](https://jobs.gem.com/constellation-institute/33309945-c904-4ae0-b169-a1797c925fdd)
+<p class="apply-cta"><a href="https://jobs.gem.com/constellation-institute/33309945-c904-4ae0-b169-a1797c925fdd">Apply →</a></p>
 
 ---
-*Posted 2022-01-05 · Last updated 2026-05-26 · 80k job ID `rec5qcCsHLoJ1fBmJ`*
+*Posted 2022-01-05 · Listing synced 2026-05-26 · 80k job ID `rec5qcCsHLoJ1fBmJ`*

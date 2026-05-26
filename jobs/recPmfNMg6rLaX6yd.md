@@ -14,15 +14,15 @@ areas:
 
 **[Elicit](https://elicit.com/)**
 
-- **Location:** San Francisco Bay Area, Remote, USA, USA
-- **Role type:** Full-time
-- **Experience:** Junior (1-4 years experience), Mid (5-9 years experience)
-- **Degree:** Undergraduate degree or less
-- **Salary:** $195,000 – $250,000
-- **Location type:** Remote
+<dl class="job-meta">
+<dt>Location</dt><dd>San Francisco Bay Area, Remote, USA, USA</dd>
+<dt>Role type</dt><dd>Full-time</dd>
+<dt>Experience</dt><dd>Junior (1-4 years experience), Mid (5-9 years experience)</dd>
+<dt>Degree</dt><dd>Undergraduate degree or less</dd>
+<dt>Salary</dt><dd>$195,000 – $250,000</dd>
+</dl>
 
-## Tags
-AI technical safety, Software engineering
+**Areas & skills:** AI technical safety, Software engineering
 
 ## Summary
 - As an ML research engineer at Elicit, you will compose together tens to thousands of calls to language models to accomplish tasks that can't be accomplished with a single call.
@@ -30,7 +30,7 @@ AI technical safety, Software engineering
 - Set up evaluation metrics that determine what changes to models or training setups qualify as improvements.
 - Scale up semantic search from a few thousand documents to 100k documents.
 
-[Apply →](https://elicit.com/careers?ashby_jid=913a03d5-bd26-4c64-8346-21a029f344f7)
+<p class="apply-cta"><a href="https://elicit.com/careers?ashby_jid=913a03d5-bd26-4c64-8346-21a029f344f7">Apply →</a></p>
 
 ---
-*Posted 2022-01-12 · Last updated 2026-05-26 · 80k job ID `recPmfNMg6rLaX6yd`*
+*Posted 2022-01-12 · Listing synced 2026-05-26 · 80k job ID `recPmfNMg6rLaX6yd`*

@@ -14,14 +14,15 @@ areas:
 
 **[Scale AI](https://scale.com/)**
 
-- **Location:** San Francisco Bay Area, New York, NY, USA
-- **Role type:** Full-time
-- **Experience:** Junior (1-4 years experience)
-- **Degree:** Undergraduate degree or less
-- **Salary:** $197,400 – $246,750
+<dl class="job-meta">
+<dt>Location</dt><dd>San Francisco Bay Area, New York, NY, USA</dd>
+<dt>Role type</dt><dd>Full-time</dd>
+<dt>Experience</dt><dd>Junior (1-4 years experience)</dd>
+<dt>Degree</dt><dd>Undergraduate degree or less</dd>
+<dt>Salary</dt><dd>$197,400 – $246,750</dd>
+</dl>
 
-## Tags
-AI safety & policy, Research
+**Areas & skills:** AI safety & policy, Research
 
 ## Summary
 - In this role, you'll design evaluation measures, harnesses and datasets for measuring risks from frontier AI systems.
@@ -30,7 +31,7 @@ AI safety & policy, Research
 - Publish evaluation methodologies and technical reports for policymakers.
 - Prototype and instrument ML pipelines to translate research concepts into working systems.
 
-[Apply →](https://scale.com/careers/4677657005)
+<p class="apply-cta"><a href="https://scale.com/careers/4677657005">Apply →</a></p>
 
 ---
-*Posted 2026-03-26 · Last updated 2026-05-26 · 80k job ID `reccA6uPCckjPSoqj`*
+*Posted 2026-03-26 · Listing synced 2026-05-26 · 80k job ID `reccA6uPCckjPSoqj`*

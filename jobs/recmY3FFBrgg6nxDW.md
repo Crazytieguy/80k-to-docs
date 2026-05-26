@@ -14,14 +14,14 @@ areas:
 
 **[Peer-Vetted Research Initiative for Safety Methodologies](https://prism-research.org/)**
 
-- **Location:** Remote, Global
-- **Role type:** Fellowship
-- **Experience:** Entry-level
-- **Degree:** Undergraduate degree or less
-- **Location type:** Remote
+<dl class="job-meta">
+<dt>Location</dt><dd>Remote, Global</dd>
+<dt>Role type</dt><dd>Fellowship</dd>
+<dt>Experience</dt><dd>Entry-level</dd>
+<dt>Degree</dt><dd>Undergraduate degree or less</dd>
+</dl>
 
-## Tags
-AI safety & policy, Research, Policy
+**Areas & skills:** AI safety & policy, Research, Policy
 
 ## Summary
 - In this 16-week fellowship, you'll conduct peer-reviewed AI safety research in interpretability, governance, evaluation.
@@ -30,7 +30,7 @@ AI safety & policy, Research, Policy
 - Execute intensive research sprints with mentor oversight, iterating on results and refining outputs.
 - Prepare final research for publication at top conferences or as open-source software.
 
-[Apply →](https://prism-research.org/)
+<p class="apply-cta"><a href="https://prism-research.org/">Apply →</a></p>
 
 ---
-*Posted 2026-05-13 · Last updated 2026-05-26 · 80k job ID `recmY3FFBrgg6nxDW`*
+*Posted 2026-05-13 · Listing synced 2026-05-26 · 80k job ID `recmY3FFBrgg6nxDW`*

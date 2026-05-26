@@ -14,14 +14,15 @@ areas:
 
 **[Safe AI Germany](https://safeaigermany.org/)**
 
-- **Location:** Berlin, Germany, Germany, Europe (ex UK)
-- **Role type:** Full-time
-- **Experience:** Junior (1-4 years experience)
-- **Degree:** Undergraduate degree or less
-- **Salary:** $58,141 – $81,397
+<dl class="job-meta">
+<dt>Location</dt><dd>Berlin, Germany, Germany, Europe (ex UK)</dd>
+<dt>Role type</dt><dd>Full-time</dd>
+<dt>Experience</dt><dd>Junior (1-4 years experience)</dd>
+<dt>Degree</dt><dd>Undergraduate degree or less</dd>
+<dt>Salary</dt><dd>$58,141 – $81,397</dd>
+</dl>
 
-## Tags
-AI safety & policy, Operations
+**Areas & skills:** AI safety & policy, Operations
 
 ## Summary
 - In this role, you'll lead the design and execution of SAIGE's inaugural residential fellowship in Berlin for emerging European AI safety researchers.
@@ -30,7 +31,7 @@ AI safety & policy, Operations
 - Own operational responsibilities including WE-AID communications, compute sourcing, and visa coordination.
 - Coordinate co-working spaces with Foresight Institute and support fundraising.
 
-[Apply →](https://docs.google.com/document/d/1btRs4l_iBH34MbQ3LDy3LncrjPN9OWFQamkXRNbFmrI/edit?tab=t.0#heading=h.xegpabdmdlpv)
+<p class="apply-cta"><a href="https://docs.google.com/document/d/1btRs4l_iBH34MbQ3LDy3LncrjPN9OWFQamkXRNbFmrI/edit?tab=t.0#heading=h.xegpabdmdlpv">Apply →</a></p>
 
 ---
-*Posted 2026-05-25 · Last updated 2026-05-26 · 80k job ID `recm61vn4Iaxwx5Zm`*
+*Posted 2026-05-25 · Listing synced 2026-05-26 · 80k job ID `recm61vn4Iaxwx5Zm`*

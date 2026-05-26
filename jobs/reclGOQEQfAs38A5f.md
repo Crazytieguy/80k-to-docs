@@ -14,14 +14,15 @@ areas:
 
 **[Simplex](https://www.simplexaisafety.com/)**
 
-- **Location:** London, UK, San Francisco Bay Area, UK, USA
-- **Role type:** Full-time
-- **Experience:** Junior (1-4 years experience), Mid (5-9 years experience)
-- **Degree:** Undergraduate degree or less
-- **Salary:** $120,000 – $200,000
+<dl class="job-meta">
+<dt>Location</dt><dd>London, UK, San Francisco Bay Area, UK, USA</dd>
+<dt>Role type</dt><dd>Full-time</dd>
+<dt>Experience</dt><dd>Junior (1-4 years experience), Mid (5-9 years experience)</dd>
+<dt>Degree</dt><dd>Undergraduate degree or less</dd>
+<dt>Salary</dt><dd>$120,000 – $200,000</dd>
+</dl>
 
-## Tags
-AI safety & policy, Research
+**Areas & skills:** AI safety & policy, Research
 
 ## Summary
 - In this role, you'll develop a rigorous theory of internal structure in neural networks to understand computation and behavior in AI systems.
@@ -30,7 +31,7 @@ AI safety & policy, Research
 - Design experiments that test theoretical predictions about neural network behavior and representations.
 - Bridge multiple disciplines including mathematics, physics, deep learning, and neuroscience.
 
-[Apply →](https://www.simplexaisafety.com/london-research-scientist)
+<p class="apply-cta"><a href="https://www.simplexaisafety.com/london-research-scientist">Apply →</a></p>
 
 ---
-*Posted 2022-01-06 · Last updated 2026-05-26 · 80k job ID `reclGOQEQfAs38A5f`*
+*Posted 2022-01-06 · Listing synced 2026-05-26 · 80k job ID `reclGOQEQfAs38A5f`*

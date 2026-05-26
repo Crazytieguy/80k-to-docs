@@ -14,14 +14,15 @@ areas:
 
 **[Apollo Research](https://www.apolloresearch.ai/)**
 
-- **Location:** London, UK, UK, UK (Confirmed Visas)
-- **Role type:** Full-time
-- **Experience:** Junior (1-4 years experience), Mid (5-9 years experience)
-- **Degree:** Undergraduate degree or less
-- **Salary:** $134,481 – $268,963
+<dl class="job-meta">
+<dt>Location</dt><dd>London, UK, UK, UK (Confirmed Visas)</dd>
+<dt>Role type</dt><dd>Full-time</dd>
+<dt>Experience</dt><dd>Junior (1-4 years experience), Mid (5-9 years experience)</dd>
+<dt>Degree</dt><dd>Undergraduate degree or less</dd>
+<dt>Salary</dt><dd>$134,481 – $268,963</dd>
+</dl>
 
-## Tags
-AI safety & policy, Research, Software engineering
+**Areas & skills:** AI safety & policy, Research, Software engineering
 
 ## Summary
 - In this role, you'll run evaluations on frontier AI systems to assess risks from scheming AIs.
@@ -30,7 +31,7 @@ AI safety & policy, Research, Software engineering
 - Build new evaluations by designing and scaling test environments.
 - Automate and improve evaluation pipelines as AI capabilities evolve.
 
-[Apply →](https://jobs.lever.co/apolloresearch/4a65c6e1-785a-4f88-8998-a97574afb7ee)
+<p class="apply-cta"><a href="https://jobs.lever.co/apolloresearch/4a65c6e1-785a-4f88-8998-a97574afb7ee">Apply →</a></p>
 
 ---
-*Posted 2022-01-06 · Last updated 2026-05-26 · 80k job ID `recBEEqlEHJ43UKOJ`*
+*Posted 2022-01-06 · Listing synced 2026-05-26 · 80k job ID `recBEEqlEHJ43UKOJ`*

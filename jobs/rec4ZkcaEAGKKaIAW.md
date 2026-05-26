@@ -14,14 +14,15 @@ areas:
 
 **[ERA](https://erafellowship.org/)**
 
-- **Location:** Cambridge, UK, UK
-- **Role type:** Full-time
-- **Experience:** Junior (1-4 years experience), Entry-level
-- **Degree:** Undergraduate degree or less
-- **Salary:** $43,034 – $56,482
+<dl class="job-meta">
+<dt>Location</dt><dd>Cambridge, UK, UK</dd>
+<dt>Role type</dt><dd>Full-time</dd>
+<dt>Experience</dt><dd>Junior (1-4 years experience), Entry-level</dd>
+<dt>Degree</dt><dd>Undergraduate degree or less</dd>
+<dt>Salary</dt><dd>$43,034 – $56,482</dd>
+</dl>
 
-## Tags
-AI safety & policy, Operations
+**Areas & skills:** AI safety & policy, Operations
 
 ## Summary
 - In this role, you'll deliver ERA's events portfolio including the TechGov Forum and fellowship symposiums with operational excellence.
@@ -30,7 +31,7 @@ AI safety & policy, Operations
 - Own travel and accommodation for visiting speakers, and maintain accurate attendee lists with RSVPs and accessibility needs.
 - Troubleshoot issues during events, conduct post-event debriefs, and build lasting relationships with venues and vendors.
 
-[Apply →](https://docs.google.com/document/d/146aHIPBkHSCQiIb4IYXHO9SrM4uPE5QTUcj58gMyTjY/edit?tab=t.0#heading=h.xtdxrh6oynny)
+<p class="apply-cta"><a href="https://docs.google.com/document/d/146aHIPBkHSCQiIb4IYXHO9SrM4uPE5QTUcj58gMyTjY/edit?tab=t.0#heading=h.xtdxrh6oynny">Apply →</a></p>
 
 ---
-*Posted 2026-05-15 · Last updated 2026-05-26 · 80k job ID `rec4ZkcaEAGKKaIAW`*
+*Posted 2026-05-15 · Listing synced 2026-05-26 · 80k job ID `rec4ZkcaEAGKKaIAW`*

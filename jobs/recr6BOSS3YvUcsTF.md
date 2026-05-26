@@ -14,14 +14,15 @@ areas:
 
 **[RAND Corporation](https://www.rand.org)**
 
-- **Location:** Washington, DC metro area, San Francisco Bay Area, UK, USA
-- **Role type:** Fellowship
-- **Experience:** Multiple experience levels
-- **Degree:** Undergraduate degree or less
-- **Salary:** $40,000 – $200,000
+<dl class="job-meta">
+<dt>Location</dt><dd>Washington, DC metro area, San Francisco Bay Area, UK, USA</dd>
+<dt>Role type</dt><dd>Fellowship</dd>
+<dt>Experience</dt><dd>Multiple experience levels</dd>
+<dt>Degree</dt><dd>Undergraduate degree or less</dd>
+<dt>Salary</dt><dd>$40,000 – $200,000</dd>
+</dl>
 
-## Tags
-AI safety & policy, Research, Policy
+**Areas & skills:** AI safety & policy, Research, Policy
 
 ## Summary
 - In this fellowship, you'll conduct research at the intersection of technology and security issues.
@@ -29,7 +30,7 @@ AI safety & policy, Research, Policy
 - Collaborate with RAND policy experts who will provide mentorship throughout your fellowship.
 - Contribute to client-sponsored research projects for up to one day per week.
 
-[Apply →](https://www.rand.org/global-and-emerging-risks/centers/ai-security-and-technology/fellows.html)
+<p class="apply-cta"><a href="https://www.rand.org/global-and-emerging-risks/centers/ai-security-and-technology/fellows.html">Apply →</a></p>
 
 ---
-*Posted 2026-05-13 · Last updated 2026-05-26 · 80k job ID `recr6BOSS3YvUcsTF`*
+*Posted 2026-05-13 · Listing synced 2026-05-26 · 80k job ID `recr6BOSS3YvUcsTF`*

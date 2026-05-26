@@ -15,15 +15,15 @@ areas:
 
 **[Berkeley Existential Risk Initiative](https://www.existence.org)**
 
-- **Location:** Remote, USA, USA
-- **Role type:** Full-time
-- **Experience:** Mid (5-9 years experience)
-- **Degree:** Undergraduate degree or less
-- **Salary:** $110,000 – $150,000
-- **Location type:** Remote
+<dl class="job-meta">
+<dt>Location</dt><dd>Remote, USA, USA</dd>
+<dt>Role type</dt><dd>Full-time</dd>
+<dt>Experience</dt><dd>Mid (5-9 years experience)</dd>
+<dt>Degree</dt><dd>Undergraduate degree or less</dd>
+<dt>Salary</dt><dd>$110,000 – $150,000</dd>
+</dl>
 
-## Tags
-AI safety & policy, Biosecurity & pandemic preparedness, Operations, Strategy
+**Areas & skills:** AI safety & policy, Biosecurity & pandemic preparedness, Operations, Strategy
 
 ## Summary
 - In this role, you'll manage operations spanning finance, compliance, and external relationships to support BERI's x-risk research globally.
@@ -32,7 +32,7 @@ AI safety & policy, Biosecurity & pandemic preparedness, Operations, Strategy
 - Cultivate relationships with researchers, donors, grantmakers, and university partners.
 - Identify operational improvements and evaluate new projects to shape BERI's strategic growth.
 
-[Apply →](https://www.existence.org/jobs-deputy-director)
+<p class="apply-cta"><a href="https://www.existence.org/jobs-deputy-director">Apply →</a></p>
 
 ---
-*Posted 2026-04-06 · Last updated 2026-05-26 · 80k job ID `recoxnRh7TY3lRNPh`*
+*Posted 2026-04-06 · Listing synced 2026-05-26 · 80k job ID `recoxnRh7TY3lRNPh`*

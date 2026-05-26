@@ -14,15 +14,15 @@ areas:
 
 **[80,000 Hours](https://80000hours.org/)**
 
-- **Location:** London, UK, Remote, Global, UK, UK (Confirmed Visas)
-- **Role type:** Full-time
-- **Experience:** Mid (5-9 years experience)
-- **Degree:** Undergraduate degree or less
-- **Salary:** $108,930 – $162,723
-- **Location type:** Remote
+<dl class="job-meta">
+<dt>Location</dt><dd>London, UK, Remote, Global, UK, UK (Confirmed Visas)</dd>
+<dt>Role type</dt><dd>Full-time</dd>
+<dt>Experience</dt><dd>Mid (5-9 years experience)</dd>
+<dt>Degree</dt><dd>Undergraduate degree or less</dd>
+<dt>Salary</dt><dd>$108,930 – $162,723</dd>
+</dl>
 
-## Tags
-AI safety & policy, Operations, Strategy
+**Areas & skills:** AI safety & policy, Operations, Strategy
 
 ## Summary
 - In this role, you'll support the director of operations and lead the team to build a best-in-class operations function.
@@ -31,7 +31,7 @@ AI safety & policy, Operations, Strategy
 - Own the operations team's infrastructure including quarterly planning, task management systems, and team processes.
 - Lead high-stakes special projects independently with potential for strategic ownership over time.
 
-[Apply →](https://80000hours.org/2026/05/expression-of-interest-chief-of-staff-operations-team/)
+<p class="apply-cta"><a href="https://80000hours.org/2026/05/expression-of-interest-chief-of-staff-operations-team/">Apply →</a></p>
 
 ---
-*Posted 2026-05-08 · Last updated 2026-05-26 · 80k job ID `recTbZplXdTpdXKo2`*
+*Posted 2026-05-08 · Listing synced 2026-05-26 · 80k job ID `recTbZplXdTpdXKo2`*

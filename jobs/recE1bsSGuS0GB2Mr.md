@@ -14,14 +14,14 @@ areas:
 
 **[Massachusetts Institute of Technology, FutureTech](https://futuretech.mit.edu/)**
 
-- **Location:** Remote, Australia, Australia, Oceania
-- **Role type:** Full-time
-- **Experience:** Mid (5-9 years experience)
-- **Degree:** Undergraduate degree or less
-- **Location type:** Remote
+<dl class="job-meta">
+<dt>Location</dt><dd>Remote, Australia, Australia, Oceania</dd>
+<dt>Role type</dt><dd>Full-time</dd>
+<dt>Experience</dt><dd>Mid (5-9 years experience)</dd>
+<dt>Degree</dt><dd>Undergraduate degree or less</dd>
+</dl>
 
-## Tags
-AI safety & policy, Research, Management
+**Areas & skills:** AI safety & policy, Research, Management
 
 ## Summary
 - In this role, you'll lead applied research at MIT's AI Risk Initiative to understand and reduce AI risks through rigorous methods and stakeholder engagement.
@@ -30,7 +30,7 @@ AI safety & policy, Research, Management
 - Engage with stakeholders across government, industry, and research to ensure outputs meet user needs.
 - Manage research projects end-to-end, including scoping, timelines, and team leadership.
 
-[Apply →](https://forum.effectivealtruism.org/posts/GxvzNniYDtTKpSjdi/senior-researcher-mit-ai-risk-initiative)
+<p class="apply-cta"><a href="https://forum.effectivealtruism.org/posts/GxvzNniYDtTKpSjdi/senior-researcher-mit-ai-risk-initiative">Apply →</a></p>
 
 ---
-*Posted 2022-01-05 · Last updated 2026-05-26 · 80k job ID `recE1bsSGuS0GB2Mr`*
+*Posted 2022-01-05 · Listing synced 2026-05-26 · 80k job ID `recE1bsSGuS0GB2Mr`*

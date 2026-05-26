@@ -14,13 +14,14 @@ areas:
 
 **[LawZero](https://lawzero.org/en)**
 
-- **Location:** Montreal, Canada, Canada
-- **Role type:** Full-time
-- **Experience:** Junior (1-4 years experience)
-- **Degree:** Doctoral degree
+<dl class="job-meta">
+<dt>Location</dt><dd>Montreal, Canada, Canada</dd>
+<dt>Role type</dt><dd>Full-time</dd>
+<dt>Experience</dt><dd>Junior (1-4 years experience)</dd>
+<dt>Degree</dt><dd>Doctoral degree</dd>
+</dl>
 
-## Tags
-AI safety & policy, Research, Software engineering
+**Areas & skills:** AI safety & policy, Research, Software engineering
 
 ## Summary
 - In this role, you'll contribute to the Scientist AI agenda using your expertise in AI safety and machine learning.
@@ -29,7 +30,7 @@ AI safety & policy, Research, Software engineering
 - Design and implement ML algorithms and experiments to test AI safety concepts.
 - Scrutinize the agenda's strategic fit for mitigating AI risk to prioritize critical experiments efficiently.
 
-[Apply →](https://job-boards.greenhouse.io/lawzero/jobs/4008813009)
+<p class="apply-cta"><a href="https://job-boards.greenhouse.io/lawzero/jobs/4008813009">Apply →</a></p>
 
 ---
-*Posted 2022-01-06 · Last updated 2026-05-26 · 80k job ID `recB35qpJCFsMxSGw`*
+*Posted 2022-01-06 · Listing synced 2026-05-26 · 80k job ID `recB35qpJCFsMxSGw`*

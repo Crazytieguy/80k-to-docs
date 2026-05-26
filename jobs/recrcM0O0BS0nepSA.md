@@ -14,14 +14,15 @@ areas:
 
 **[Haize Labs](https://haizelabs.com/)**
 
-- **Location:** New York, NY, USA, USA (Confirmed Visas)
-- **Role type:** Internship
-- **Experience:** Entry-level
-- **Degree:** Undergraduate degree or less
-- **Salary:** $100,000 – $125,000
+<dl class="job-meta">
+<dt>Location</dt><dd>New York, NY, USA, USA (Confirmed Visas)</dd>
+<dt>Role type</dt><dd>Internship</dd>
+<dt>Experience</dt><dd>Entry-level</dd>
+<dt>Degree</dt><dd>Undergraduate degree or less</dd>
+<dt>Salary</dt><dd>$100,000 – $125,000</dd>
+</dl>
 
-## Tags
-AI safety & policy, Software engineering
+**Areas & skills:** AI safety & policy, Software engineering
 
 ## Summary
 - In this role, you'll help develop a reliability platform for LLM applications with a focus on testing, verification, and deployment.
@@ -30,7 +31,7 @@ AI safety & policy, Software engineering
 - Ship tools used by AI application developers worldwide.
 - Contribute to developing new primitives, frameworks, and algorithms for robust LLM applications.
 
-[Apply →](https://job-boards.greenhouse.io/haizelabs/jobs/4685944008)
+<p class="apply-cta"><a href="https://job-boards.greenhouse.io/haizelabs/jobs/4685944008">Apply →</a></p>
 
 ---
-*Posted 2022-01-06 · Last updated 2026-05-26 · 80k job ID `recrcM0O0BS0nepSA`*
+*Posted 2022-01-06 · Listing synced 2026-05-26 · 80k job ID `recrcM0O0BS0nepSA`*

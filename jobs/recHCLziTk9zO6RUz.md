@@ -14,14 +14,15 @@ areas:
 
 **[Center for AI Safety](https://www.cais.ai/)**
 
-- **Location:** San Francisco Bay Area, USA
-- **Role type:** Full-time, Part-time
-- **Experience:** Junior (1-4 years experience)
-- **Degree:** Undergraduate degree or less
-- **Salary:** $80,000 – $110,000
+<dl class="job-meta">
+<dt>Location</dt><dd>San Francisco Bay Area, USA</dd>
+<dt>Role type</dt><dd>Full-time, Part-time</dd>
+<dt>Experience</dt><dd>Junior (1-4 years experience)</dd>
+<dt>Degree</dt><dd>Undergraduate degree or less</dd>
+<dt>Salary</dt><dd>$80,000 – $110,000</dd>
+</dl>
 
-## Tags
-AI safety & policy, Outreach, Other
+**Areas & skills:** AI safety & policy, Outreach, Other
 
 ## Summary
 - In this role, you'll edit and publish a weekly newsletter covering AI safety developments for a diverse audience.
@@ -30,7 +31,7 @@ AI safety & policy, Outreach, Other
 - Collaborate with team members to get story approvals and implement revisions.
 - Craft clear, accessible content that aligns with the newsletter's established style guidelines.
 
-[Apply →](https://jobs.lever.co/aisafety/0c6be5ff-b04e-49eb-92bd-d11c7c81ae6e)
+<p class="apply-cta"><a href="https://jobs.lever.co/aisafety/0c6be5ff-b04e-49eb-92bd-d11c7c81ae6e">Apply →</a></p>
 
 ---
-*Posted 2022-01-12 · Last updated 2026-05-26 · 80k job ID `recHCLziTk9zO6RUz`*
+*Posted 2022-01-12 · Listing synced 2026-05-26 · 80k job ID `recHCLziTk9zO6RUz`*

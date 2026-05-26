@@ -14,15 +14,15 @@ areas:
 
 **[FAR AI](https://far.ai/)**
 
-- **Location:** San Francisco Bay Area, Remote, Global, USA, USA (Confirmed Visas)
-- **Role type:** Full-time
-- **Experience:** Multiple experience levels
-- **Degree:** Undergraduate degree or less
-- **Salary:** $104,000 – $208,000
-- **Location type:** Remote
+<dl class="job-meta">
+<dt>Location</dt><dd>San Francisco Bay Area, Remote, Global, USA, USA (Confirmed Visas)</dd>
+<dt>Role type</dt><dd>Full-time</dd>
+<dt>Experience</dt><dd>Multiple experience levels</dd>
+<dt>Degree</dt><dd>Undergraduate degree or less</dd>
+<dt>Salary</dt><dd>$104,000 – $208,000</dd>
+</dl>
 
-## Tags
-AI technical safety, Research, Software engineering
+**Areas & skills:** AI technical safety, Research, Software engineering
 
 ## Summary
 - In this role, you will develop scalable implementations of machine learning algorithms and use them to run scientific experiments.
@@ -30,7 +30,7 @@ AI technical safety, Research, Software engineering
 - Contribute to open source codebases such as Pytorch, HuggingFace Transformers and Accelerate.
 - Be involved in the write-up of results and credited as an author in papers.
 
-[Apply →](https://jobs.ashbyhq.com/far.ai/52e76732-999b-402f-a908-c4e8b3e7714b?embed=js)
+<p class="apply-cta"><a href="https://jobs.ashbyhq.com/far.ai/52e76732-999b-402f-a908-c4e8b3e7714b?embed=js">Apply →</a></p>
 
 ---
-*Posted 2026-04-29 · Last updated 2026-05-26 · 80k job ID `rec4faeL1W7AJsZng`*
+*Posted 2026-04-29 · Listing synced 2026-05-26 · 80k job ID `rec4faeL1W7AJsZng`*

@@ -14,14 +14,15 @@ areas:
 
 **[Omidyar Network](https://omidyar.com/)**
 
-- **Location:** San Francisco Bay Area, USA
-- **Role type:** Full-time
-- **Experience:** Senior (10+ years experience)
-- **Degree:** Undergraduate degree or less
-- **Salary:** $216,000 – $270,000
+<dl class="job-meta">
+<dt>Location</dt><dd>San Francisco Bay Area, USA</dd>
+<dt>Role type</dt><dd>Full-time</dd>
+<dt>Experience</dt><dd>Senior (10+ years experience)</dd>
+<dt>Degree</dt><dd>Undergraduate degree or less</dd>
+<dt>Salary</dt><dd>$216,000 – $270,000</dd>
+</dl>
 
-## Tags
-AI safety & policy, Outreach, Management
+**Areas & skills:** AI safety & policy, Outreach, Management
 
 ## Summary
 - In this role, you'll advance Omidyar Network's impact through strategic communications and narrative storytelling across responsible technology issues.
@@ -29,7 +30,7 @@ AI safety & policy, Outreach, Management
 - Translate complex policy insights into compelling messaging that ensures consistent, values-aligned communication.
 - Collaborate with executive and program teams to develop integrated campaigns that deepen stakeholder engagement.
 
-[Apply →](https://job-boards.greenhouse.io/omidyarnetwork/jobs/7450399)
+<p class="apply-cta"><a href="https://job-boards.greenhouse.io/omidyarnetwork/jobs/7450399">Apply →</a></p>
 
 ---
-*Posted 2022-01-05 · Last updated 2026-05-26 · 80k job ID `recP2XtsMXFQTurop`*
+*Posted 2022-01-05 · Listing synced 2026-05-26 · 80k job ID `recP2XtsMXFQTurop`*

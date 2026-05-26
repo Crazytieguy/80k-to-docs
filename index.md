@@ -2,7 +2,7 @@
 
 Daily-refreshed mirror of AI-safety job postings from the [80,000 Hours job board](https://jobs.80000hours.org/). One markdown file per job under `jobs/`. Closed jobs move to `jobs/closed/`.
 
-**454** active · filter: AI safety & policy, AI technical safety, AI governance · last synced 2026-05-26 23:54 UTC
+**454** active · filter: AI safety & policy, AI technical safety, AI governance · last synced 2026-05-26 23:55 UTC
 
 _See [README](./README.md) for how this is built. Source: [GitHub repo](https://github.com/Crazytieguy/80k-to-docs)._
 

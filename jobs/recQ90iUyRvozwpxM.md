@@ -14,14 +14,14 @@ areas:
 
 **[80,000 Hours](https://80000hours.org/)**
 
-- **Location:** San Francisco Bay Area, Remote, Global, USA
-- **Role type:** Full-time
-- **Experience:** Multiple experience levels
-- **Degree:** Undergraduate degree or less
-- **Location type:** Remote
+<dl class="job-meta">
+<dt>Location</dt><dd>San Francisco Bay Area, Remote, Global, USA</dd>
+<dt>Role type</dt><dd>Full-time</dd>
+<dt>Experience</dt><dd>Multiple experience levels</dd>
+<dt>Degree</dt><dd>Undergraduate degree or less</dd>
+</dl>
 
-## Tags
-AI safety & policy, Other
+**Areas & skills:** AI safety & policy, Other
 
 ## Summary
 - In this role, you'll help create compelling videos for 80,000 Hours' AI in Context YouTube channel focused on transformative AI topics.
@@ -30,7 +30,7 @@ AI safety & policy, Other
 - Adapt quickly to the channel's established style while maintaining high-quality output.
 - Work flexibly with varying time commitments, including intensive periods around video launches.
 
-[Apply →](https://80000hours.org/2025/08/expression-of-interest-contracting-for-video-work/)
+<p class="apply-cta"><a href="https://80000hours.org/2025/08/expression-of-interest-contracting-for-video-work/">Apply →</a></p>
 
 ---
-*Posted 2022-01-05 · Last updated 2026-05-26 · 80k job ID `recQ90iUyRvozwpxM`*
+*Posted 2022-01-05 · Listing synced 2026-05-26 · 80k job ID `recQ90iUyRvozwpxM`*

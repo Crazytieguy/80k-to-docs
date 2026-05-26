@@ -14,15 +14,15 @@ areas:
 
 **[RAND Corporation](https://www.rand.org)**
 
-- **Location:** Remote, USA, Various, USA, USA
-- **Role type:** Full-time
-- **Experience:** Mid (5-9 years experience), Senior (10+ years experience)
-- **Degree:** Undergraduate degree or less
-- **Salary:** $167,300 – $261,400
-- **Location type:** Remote
+<dl class="job-meta">
+<dt>Location</dt><dd>Remote, USA, Various, USA, USA</dd>
+<dt>Role type</dt><dd>Full-time</dd>
+<dt>Experience</dt><dd>Mid (5-9 years experience), Senior (10+ years experience)</dd>
+<dt>Degree</dt><dd>Undergraduate degree or less</dd>
+<dt>Salary</dt><dd>$167,300 – $261,400</dd>
+</dl>
 
-## Tags
-AI safety & policy, Research, Information security, Management, Strategy
+**Areas & skills:** AI safety & policy, Research, Information security, Management, Strategy
 
 ## Summary
 - In this role, you'll lead RAND's research portfolio focused on securing advanced AI systems, understanding cyber capabilities, and shaping policy frameworks.
@@ -31,7 +31,7 @@ AI safety & policy, Research, Information security, Management, Strategy
 - Mentor and manage senior technical staff and researchers across a portfolio of 15-30 people.
 - Engage with senior government and industry stakeholders to ensure research informs high-level decisions.
 
-[Apply →](https://rand.wd5.myworkdayjobs.com/en-US/External_Career_Site/job/San-Francisco-CA/Senior-Research-Lead---AI-Security-Portfolio_R3464-1)
+<p class="apply-cta"><a href="https://rand.wd5.myworkdayjobs.com/en-US/External_Career_Site/job/San-Francisco-CA/Senior-Research-Lead---AI-Security-Portfolio_R3464-1">Apply →</a></p>
 
 ---
-*Posted 2022-01-05 · Last updated 2026-05-26 · 80k job ID `recf6BakhYNqruuGw`*
+*Posted 2022-01-05 · Listing synced 2026-05-26 · 80k job ID `recf6BakhYNqruuGw`*

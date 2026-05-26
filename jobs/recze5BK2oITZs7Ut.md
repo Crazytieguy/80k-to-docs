@@ -14,14 +14,15 @@ areas:
 
 **[OpenAI](https://openai.com/)**
 
-- **Location:** San Francisco Bay Area, USA
-- **Role type:** Full-time
-- **Experience:** Mid (5-9 years experience), Senior (10+ years experience)
-- **Degree:** Undergraduate degree or less
-- **Salary:** $295,000 – $445,000
+<dl class="job-meta">
+<dt>Location</dt><dd>San Francisco Bay Area, USA</dd>
+<dt>Role type</dt><dd>Full-time</dd>
+<dt>Experience</dt><dd>Mid (5-9 years experience), Senior (10+ years experience)</dd>
+<dt>Degree</dt><dd>Undergraduate degree or less</dd>
+<dt>Salary</dt><dd>$295,000 – $445,000</dd>
+</dl>
 
-## Tags
-AI safety & policy, Research, Strategy
+**Areas & skills:** AI safety & policy, Research, Strategy
 
 ## Summary
 - In this role, you'll support preparations for recursive self-improvement through technical research on future-focused problems.
@@ -30,7 +31,7 @@ AI safety & policy, Research, Strategy
 - Secure buy-in from other OpenAI staff and communicate your work clearly to stakeholders.
 - Collaborate with or manage other staff as needed to scale solutions for emerging technical challenges.
 
-[Apply →](https://openai.com/careers/researcher-recursive-self-improvement-preparedness-san-francisco/)
+<p class="apply-cta"><a href="https://openai.com/careers/researcher-recursive-self-improvement-preparedness-san-francisco/">Apply →</a></p>
 
 ---
-*Posted 2026-05-12 · Last updated 2026-05-26 · 80k job ID `recze5BK2oITZs7Ut`*
+*Posted 2026-05-12 · Listing synced 2026-05-26 · 80k job ID `recze5BK2oITZs7Ut`*

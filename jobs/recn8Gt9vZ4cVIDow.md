@@ -14,14 +14,14 @@ areas:
 
 **[Coefficient Giving](https://coefficientgiving.org/)**
 
-- **Location:** London, UK, Washington, DC metro area, San Francisco Bay Area, Remote, Global, Tel Aviv, Israel, UK, USA, Middle-East, Israel
-- **Role type:** Funding
-- **Experience:** Multiple experience levels
-- **Degree:** Undergraduate degree or less
-- **Location type:** Remote
+<dl class="job-meta">
+<dt>Location</dt><dd>London, UK, Washington, DC metro area, San Francisco Bay Area, Remote, Global, Tel Aviv, Israel, UK, USA, Middle-East, Israel</dd>
+<dt>Role type</dt><dd>Funding</dd>
+<dt>Experience</dt><dd>Multiple experience levels</dd>
+<dt>Degree</dt><dd>Undergraduate degree or less</dd>
+</dl>
 
-## Tags
-AI safety & policy, Research, Information security, Strategy
+**Areas & skills:** AI safety & policy, Research, Information security, Strategy
 
 ## Summary
 - A leadership incubator for people who want to solve key problems in catastrophic risk, with a focus on AI security.
@@ -29,7 +29,7 @@ AI safety & policy, Research, Information security, Strategy
 - Research problems, develop pitches, and build founding teams targeting $10 million+ in grants.
 - Potential outcomes: launch a non-profit, start a team within an existing organisation, secure an impactful role, or establish a for-profit startup.
 
-[Apply →](https://coefficientgiving.org/funds/navigating-transformative-ai/navigators-incubator/)
+<p class="apply-cta"><a href="https://coefficientgiving.org/funds/navigating-transformative-ai/navigators-incubator/">Apply →</a></p>
 
 ---
-*Posted 2026-05-12 · Last updated 2026-05-26 · 80k job ID `recn8Gt9vZ4cVIDow`*
+*Posted 2026-05-12 · Listing synced 2026-05-26 · 80k job ID `recn8Gt9vZ4cVIDow`*

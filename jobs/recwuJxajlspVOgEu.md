@@ -14,13 +14,14 @@ areas:
 
 **[Faculty](https://faculty.ai/)**
 
-- **Location:** London, UK, UK
-- **Role type:** Full-time
-- **Experience:** Mid (5-9 years experience)
-- **Degree:** Undergraduate degree or less
+<dl class="job-meta">
+<dt>Location</dt><dd>London, UK, UK</dd>
+<dt>Role type</dt><dd>Full-time</dd>
+<dt>Experience</dt><dd>Mid (5-9 years experience)</dd>
+<dt>Degree</dt><dd>Undergraduate degree or less</dd>
+</dl>
 
-## Tags
-AI safety & policy, Finance, Strategy
+**Areas & skills:** AI safety & policy, Finance, Strategy
 
 ## Summary
 - In this role, you'll develop a comprehensive AI assurance proposition for financial services, enabling safe and effective AI adoption.
@@ -29,7 +30,7 @@ AI safety & policy, Finance, Strategy
 - Produce thought leadership to elevate Faculty's profile among risk professionals, regulators, and legal experts.
 - Oversee client deliveries and develop reusable assets to ensure consistent, high-quality outcomes.
 
-[Apply →](https://jobs.ashbyhq.com/faculty/d2d0ef45-de48-4c48-9781-5c85c9d49f42)
+<p class="apply-cta"><a href="https://jobs.ashbyhq.com/faculty/d2d0ef45-de48-4c48-9781-5c85c9d49f42">Apply →</a></p>
 
 ---
-*Posted 2022-01-05 · Last updated 2026-05-26 · 80k job ID `recwuJxajlspVOgEu`*
+*Posted 2022-01-05 · Listing synced 2026-05-26 · 80k job ID `recwuJxajlspVOgEu`*

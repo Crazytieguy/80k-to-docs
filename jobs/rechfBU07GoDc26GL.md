@@ -14,14 +14,15 @@ areas:
 
 **[Center for AI Safety](https://www.cais.ai/)**
 
-- **Location:** San Francisco Bay Area, USA
-- **Role type:** Full-time
-- **Experience:** Junior (1-4 years experience)
-- **Degree:** Undergraduate degree or less
-- **Salary:** $110,000 – $150,000
+<dl class="job-meta">
+<dt>Location</dt><dd>San Francisco Bay Area, USA</dd>
+<dt>Role type</dt><dd>Full-time</dd>
+<dt>Experience</dt><dd>Junior (1-4 years experience)</dd>
+<dt>Degree</dt><dd>Undergraduate degree or less</dd>
+<dt>Salary</dt><dd>$110,000 – $150,000</dd>
+</dl>
 
-## Tags
-AI safety & policy, Operations, Strategy
+**Areas & skills:** AI safety & policy, Operations, Strategy
 
 ## Summary
 - In this role, you'll identify, evaluate, and launch new AI-safety initiatives from conception through delivery.
@@ -30,7 +31,7 @@ AI safety & policy, Operations, Strategy
 - Own day-to-day execution, monitoring risks, tracking budgets, and maintaining up-to-date project documentation.
 - Coordinate with researchers, vendors, and external partners, adapting to changing requirements and priorities.
 
-[Apply →](https://jobs.lever.co/aisafety/a510a964-6425-405d-b757-cb7bfd19c994)
+<p class="apply-cta"><a href="https://jobs.lever.co/aisafety/a510a964-6425-405d-b757-cb7bfd19c994">Apply →</a></p>
 
 ---
-*Posted 2026-03-11 · Last updated 2026-05-26 · 80k job ID `rechfBU07GoDc26GL`*
+*Posted 2026-03-11 · Listing synced 2026-05-26 · 80k job ID `rechfBU07GoDc26GL`*

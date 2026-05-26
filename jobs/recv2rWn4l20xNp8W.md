@@ -14,13 +14,14 @@ areas:
 
 **[ALLAI](https://allai.nl/)**
 
-- **Location:** Netherlands, Europe (ex UK)
-- **Role type:** Internship
-- **Experience:** Entry-level
-- **Degree:** Master's degree
+<dl class="job-meta">
+<dt>Location</dt><dd>Netherlands, Europe (ex UK)</dd>
+<dt>Role type</dt><dd>Internship</dd>
+<dt>Experience</dt><dd>Entry-level</dd>
+<dt>Degree</dt><dd>Master's degree</dd>
+</dl>
 
-## Tags
-AI safety & policy, Research
+**Areas & skills:** AI safety & policy, Research
 
 ## Summary
 - This internship focuses on advancing Responsible AI, which must be lawful, ethical, and socio-technically robust.
@@ -29,7 +30,7 @@ AI safety & policy, Research
 - The internship aims to address the legal, societal, and ethical implications of AI.
 - Interns are expected to contribute unique perspectives and insights in a high-impact and fast-evolving field.
 
-[Apply →](https://allai.nl/apply-for-an-internship-at-allai-2/)
+<p class="apply-cta"><a href="https://allai.nl/apply-for-an-internship-at-allai-2/">Apply →</a></p>
 
 ---
-*Posted 2022-01-06 · Last updated 2026-05-26 · 80k job ID `recv2rWn4l20xNp8W`*
+*Posted 2022-01-06 · Listing synced 2026-05-26 · 80k job ID `recv2rWn4l20xNp8W`*

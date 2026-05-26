@@ -14,14 +14,15 @@ areas:
 
 **[Constellation](https://www.constellation.org/)**
 
-- **Location:** San Francisco Bay Area, USA
-- **Role type:** Full-time
-- **Experience:** Junior (1-4 years experience)
-- **Degree:** Undergraduate degree or less
-- **Salary:** $109,000 – $130,000
+<dl class="job-meta">
+<dt>Location</dt><dd>San Francisco Bay Area, USA</dd>
+<dt>Role type</dt><dd>Full-time</dd>
+<dt>Experience</dt><dd>Junior (1-4 years experience)</dd>
+<dt>Degree</dt><dd>Undergraduate degree or less</dd>
+<dt>Salary</dt><dd>$109,000 – $130,000</dd>
+</dl>
 
-## Tags
-AI safety & policy, Operations
+**Areas & skills:** AI safety & policy, Operations
 
 ## Summary
 - In this role, you'll own CRM operations and system integrations, ensuring data accuracy and keeping automations running.
@@ -30,7 +31,7 @@ AI safety & policy, Operations
 - Own the business intelligence pipeline, adding data sources and fixing failures to keep reporting current.
 - Create dashboards and reports for leadership while documenting systems and administering Slack.
 
-[Apply →](https://jobs.gem.com/constellation-institute/cf2e47d7-9ac5-4385-a664-9cea9f7c4172)
+<p class="apply-cta"><a href="https://jobs.gem.com/constellation-institute/cf2e47d7-9ac5-4385-a664-9cea9f7c4172">Apply →</a></p>
 
 ---
-*Posted 2026-04-27 · Last updated 2026-05-26 · 80k job ID `recepuEeMYgcVsBYY`*
+*Posted 2026-04-27 · Listing synced 2026-05-26 · 80k job ID `recepuEeMYgcVsBYY`*

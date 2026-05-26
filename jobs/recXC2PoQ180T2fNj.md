@@ -14,13 +14,14 @@ areas:
 
 **[LawZero](https://lawzero.org/en)**
 
-- **Location:** Montreal, Canada, Canada
-- **Role type:** Full-time
-- **Experience:** Junior (1-4 years experience)
-- **Degree:** Doctoral degree
+<dl class="job-meta">
+<dt>Location</dt><dd>Montreal, Canada, Canada</dd>
+<dt>Role type</dt><dd>Full-time</dd>
+<dt>Experience</dt><dd>Junior (1-4 years experience)</dd>
+<dt>Degree</dt><dd>Doctoral degree</dd>
+</dl>
 
-## Tags
-AI safety & policy, Research
+**Areas & skills:** AI safety & policy, Research
 
 ## Summary
 - In this role, you'll develop theoretical frameworks and safety mechanisms for safe AGI systems, working with Yoshua Bengio and other researchers.
@@ -29,7 +30,7 @@ AI safety & policy, Research
 - Research current AI safety and machine learning advances to deeply understand frontier model risks.
 - Guide experimental priorities to efficiently answer critical safety questions without limiting capability.
 
-[Apply →](https://job-boards.greenhouse.io/lawzero/jobs/4224703009)
+<p class="apply-cta"><a href="https://job-boards.greenhouse.io/lawzero/jobs/4224703009">Apply →</a></p>
 
 ---
-*Posted 2026-05-25 · Last updated 2026-05-26 · 80k job ID `recXC2PoQ180T2fNj`*
+*Posted 2026-05-25 · Listing synced 2026-05-26 · 80k job ID `recXC2PoQ180T2fNj`*

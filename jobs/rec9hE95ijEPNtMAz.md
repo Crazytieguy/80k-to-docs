@@ -14,14 +14,15 @@ areas:
 
 **[Institute for Responsible Superintelligence Studies](https://docs.google.com/document/d/1F_9_BjUxZX7uo2lXRCnbcfAYv5SSs06dGT0WAPIZrdM/edit?tab=t.0)**
 
-- **Location:** Boston metro area, USA
-- **Role type:** Full-time
-- **Experience:** Mid (5-9 years experience), Senior (10+ years experience)
-- **Degree:** Undergraduate degree or less
-- **Salary:** $160,000 – $230,000
+<dl class="job-meta">
+<dt>Location</dt><dd>Boston metro area, USA</dd>
+<dt>Role type</dt><dd>Full-time</dd>
+<dt>Experience</dt><dd>Mid (5-9 years experience), Senior (10+ years experience)</dd>
+<dt>Degree</dt><dd>Undergraduate degree or less</dd>
+<dt>Salary</dt><dd>$160,000 – $230,000</dd>
+</dl>
 
-## Tags
-AI safety & policy, Operations, Strategy
+**Areas & skills:** AI safety & policy, Operations, Strategy
 
 ## Summary
 - In this role, you'll launch a new research institute by building its operational foundations and systems.
@@ -30,7 +31,7 @@ AI safety & policy, Operations, Strategy
 - Secure temporary physical space and develop a first-year budget and operating plan for the institute.
 - Create foundational systems for hiring, onboarding, contracts, payments, events, and internal processes.
 
-[Apply →](https://docs.google.com/document/d/1F_9_BjUxZX7uo2lXRCnbcfAYv5SSs06dGT0WAPIZrdM/edit?tab=t.0#heading=h.h3e5133ifcen)
+<p class="apply-cta"><a href="https://docs.google.com/document/d/1F_9_BjUxZX7uo2lXRCnbcfAYv5SSs06dGT0WAPIZrdM/edit?tab=t.0#heading=h.h3e5133ifcen">Apply →</a></p>
 
 ---
-*Posted 2026-05-25 · Last updated 2026-05-26 · 80k job ID `rec9hE95ijEPNtMAz`*
+*Posted 2026-05-25 · Listing synced 2026-05-26 · 80k job ID `rec9hE95ijEPNtMAz`*

@@ -14,15 +14,15 @@ areas:
 
 **[The Midas Project](https://www.themidasproject.com/)**
 
-- **Location:** Remote, Global
-- **Role type:** Full-time
-- **Experience:** Junior (1-4 years experience), Mid (5-9 years experience)
-- **Degree:** Undergraduate degree or less
-- **Salary:** $80,000 – $130,000
-- **Location type:** Remote
+<dl class="job-meta">
+<dt>Location</dt><dd>Remote, Global</dd>
+<dt>Role type</dt><dd>Full-time</dd>
+<dt>Experience</dt><dd>Junior (1-4 years experience), Mid (5-9 years experience)</dd>
+<dt>Degree</dt><dd>Undergraduate degree or less</dd>
+<dt>Salary</dt><dd>$80,000 – $130,000</dd>
+</dl>
 
-## Tags
-AI safety & policy, Outreach
+**Areas & skills:** AI safety & policy, Outreach
 
 ## Summary
 - In this role, you'll develop communications strategy to amplify investigations across platforms and reach key audiences in AI policy.
@@ -31,7 +31,7 @@ AI safety & policy, Outreach
 - Manage day-to-day platform communications, posting original work and responding to real-time developments in AI.
 - Support video program and press relations by writing scripts, creating short-form content, and building reporter connections.
 
-[Apply →](https://www.themidasproject.com/careers/communications-specialist)
+<p class="apply-cta"><a href="https://www.themidasproject.com/careers/communications-specialist">Apply →</a></p>
 
 ---
-*Posted 2026-05-26 · Last updated 2026-05-26 · 80k job ID `recJ35VX7eD2uSvqa`*
+*Posted 2026-05-26 · Listing synced 2026-05-26 · 80k job ID `recJ35VX7eD2uSvqa`*

@@ -14,14 +14,15 @@ areas:
 
 **[Meridian Labs](https://meridianlabs.ai/)**
 
-- **Location:** Boston metro area, USA
-- **Role type:** Full-time
-- **Experience:** Senior (10+ years experience)
-- **Degree:** Undergraduate degree or less
-- **Salary:** $225,000 – $325,000
+<dl class="job-meta">
+<dt>Location</dt><dd>Boston metro area, USA</dd>
+<dt>Role type</dt><dd>Full-time</dd>
+<dt>Experience</dt><dd>Senior (10+ years experience)</dd>
+<dt>Degree</dt><dd>Undergraduate degree or less</dd>
+<dt>Salary</dt><dd>$225,000 – $325,000</dd>
+</dl>
 
-## Tags
-AI safety & policy, Software engineering, Strategy
+**Areas & skills:** AI safety & policy, Software engineering, Strategy
 
 ## Summary
 - In this role, you'll build an open source LLM research platform, spanning Python infrastructure and React interfaces for researchers to evaluate and understand model behavior.
@@ -30,7 +31,7 @@ AI safety & policy, Software engineering, Strategy
 - Steward the open source community by reviewing contributions, setting standards, and engaging collaborators.
 - Drive product strategy by synthesizing user feedback and communicating with leadership.
 
-[Apply →](https://meridianlabs.ai/careers/principal-fs)
+<p class="apply-cta"><a href="https://meridianlabs.ai/careers/principal-fs">Apply →</a></p>
 
 ---
-*Posted 2026-05-13 · Last updated 2026-05-26 · 80k job ID `recHaI4RkJxRiJgH4`*
+*Posted 2026-05-13 · Listing synced 2026-05-26 · 80k job ID `recHaI4RkJxRiJgH4`*

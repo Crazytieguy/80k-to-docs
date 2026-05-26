@@ -14,20 +14,20 @@ areas:
 
 **[80,000 Hours](https://80000hours.org/)**
 
-- **Location:** Remote, Global
-- **Role type:** Other
-- **Experience:** Multiple experience levels
-- **Degree:** Undergraduate degree or less
-- **Location type:** Remote
+<dl class="job-meta">
+<dt>Location</dt><dd>Remote, Global</dd>
+<dt>Role type</dt><dd>Other</dd>
+<dt>Experience</dt><dd>Multiple experience levels</dd>
+<dt>Degree</dt><dd>Undergraduate degree or less</dd>
+</dl>
 
-## Tags
-AI safety & policy, Engineering, Research, Software engineering, Information security
+**Areas & skills:** AI safety & policy, Engineering, Research, Software engineering, Information security
 
 ## Summary
 - Sometimes, our advising team speaks to people who have enthusiasm for technical AI safety and a related skill set but need concrete ideas for how to enter the field. This list was developed in consultation with our advisors to find the resources they commonly share.
 - List includes articles, newsletters, podcasts, courses, idea lists, advice, fellowships, and organisations.
 
-[Apply →](https://80000hours.org/2025/06/technical-ai-safety-upskilling-resources/)
+<p class="apply-cta"><a href="https://80000hours.org/2025/06/technical-ai-safety-upskilling-resources/">Apply →</a></p>
 
 ---
-*Posted 2026-05-11 · Last updated 2026-05-26 · 80k job ID `recXtQtOSoavOnAym`*
+*Posted 2026-05-11 · Listing synced 2026-05-26 · 80k job ID `recXtQtOSoavOnAym`*

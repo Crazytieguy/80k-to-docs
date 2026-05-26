@@ -14,13 +14,14 @@ areas:
 
 **[LawZero](https://lawzero.org/en)**
 
-- **Location:** Montreal, Canada, Canada
-- **Role type:** Full-time
-- **Experience:** Junior (1-4 years experience), Mid (5-9 years experience)
-- **Degree:** Master's degree
+<dl class="job-meta">
+<dt>Location</dt><dd>Montreal, Canada, Canada</dd>
+<dt>Role type</dt><dd>Full-time</dd>
+<dt>Experience</dt><dd>Junior (1-4 years experience), Mid (5-9 years experience)</dd>
+<dt>Degree</dt><dd>Master's degree</dd>
+</dl>
 
-## Tags
-AI safety & policy, Research
+**Areas & skills:** AI safety & policy, Research
 
 ## Summary
 - In this role, you'll develop and evaluate probabilistic inference methods, focusing on amortized inference and translating theoretical insights into practical implementations.
@@ -29,7 +30,7 @@ AI safety & policy, Research
 - Collaborate with mathematicians on theory related to learning and inference in probabilistic models.
 - Implement theoretical proposals and analyze results to guide research directions.
 
-[Apply →](https://job-boards.greenhouse.io/lawzero/jobs/4002932009)
+<p class="apply-cta"><a href="https://job-boards.greenhouse.io/lawzero/jobs/4002932009">Apply →</a></p>
 
 ---
-*Posted 2022-01-06 · Last updated 2026-05-26 · 80k job ID `reckEB0vvx5oM4BUi`*
+*Posted 2022-01-06 · Listing synced 2026-05-26 · 80k job ID `reckEB0vvx5oM4BUi`*

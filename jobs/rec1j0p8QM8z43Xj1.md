@@ -14,14 +14,15 @@ areas:
 
 **[Transluce](https://transluce.org/)**
 
-- **Location:** San Francisco Bay Area, USA, USA (Confirmed Visas)
-- **Role type:** Full-time
-- **Experience:** Mid (5-9 years experience)
-- **Degree:** Undergraduate degree or less
-- **Salary:** $250,000 – $340,000
+<dl class="job-meta">
+<dt>Location</dt><dd>San Francisco Bay Area, USA, USA (Confirmed Visas)</dd>
+<dt>Role type</dt><dd>Full-time</dd>
+<dt>Experience</dt><dd>Mid (5-9 years experience)</dd>
+<dt>Degree</dt><dd>Undergraduate degree or less</dd>
+<dt>Salary</dt><dd>$250,000 – $340,000</dd>
+</dl>
 
-## Tags
-AI safety & policy, Research, Software engineering
+**Areas & skills:** AI safety & policy, Research, Software engineering
 
 ## Summary
 - In this role, you'll drive progress on core LLM-based AI technology spanning RL, interpretability, and AI agents at a non-profit research lab.
@@ -30,7 +31,7 @@ AI safety & policy, Research, Software engineering
 - Design and implement efficient training and inference pipelines.
 - Collaborate closely with a team building world-class AI analysis tools that set industry standards for evaluation.
 
-[Apply →](https://jobs.gem.com/transluce/am9icG9zdDopwPeycQ2A_eZEMCuguKM-)
+<p class="apply-cta"><a href="https://jobs.gem.com/transluce/am9icG9zdDopwPeycQ2A_eZEMCuguKM-">Apply →</a></p>
 
 ---
-*Posted 2022-01-05 · Last updated 2026-05-26 · 80k job ID `rec1j0p8QM8z43Xj1`*
+*Posted 2022-01-05 · Listing synced 2026-05-26 · 80k job ID `rec1j0p8QM8z43Xj1`*

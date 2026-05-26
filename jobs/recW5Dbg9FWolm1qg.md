@@ -14,14 +14,15 @@ areas:
 
 **[OpenAI](https://openai.com/)**
 
-- **Location:** San Francisco Bay Area, USA
-- **Role type:** Full-time
-- **Experience:** Mid (5-9 years experience)
-- **Degree:** Undergraduate degree or less
-- **Salary:** $293,000 – $325,000
+<dl class="job-meta">
+<dt>Location</dt><dd>San Francisco Bay Area, USA</dd>
+<dt>Role type</dt><dd>Full-time</dd>
+<dt>Experience</dt><dd>Mid (5-9 years experience)</dd>
+<dt>Degree</dt><dd>Undergraduate degree or less</dd>
+<dt>Salary</dt><dd>$293,000 – $325,000</dd>
+</dl>
 
-## Tags
-AI safety & policy, Information security, Strategy
+**Areas & skills:** AI safety & policy, Information security, Strategy
 
 ## Summary
 - In this role, you'll drive cybersecurity initiatives for safe, responsible frontier model deployments.
@@ -30,7 +31,7 @@ AI safety & policy, Information security, Strategy
 - Define strategic priorities and product roadmaps for improving deployment safety and reliability.
 - Create scalable processes for evaluating and continuously improving safety systems and metrics.
 
-[Apply →](https://openai.com/careers/product-manager-cyber-safety-san-francisco/)
+<p class="apply-cta"><a href="https://openai.com/careers/product-manager-cyber-safety-san-francisco/">Apply →</a></p>
 
 ---
-*Posted 2026-04-29 · Last updated 2026-05-26 · 80k job ID `recW5Dbg9FWolm1qg`*
+*Posted 2026-04-29 · Listing synced 2026-05-26 · 80k job ID `recW5Dbg9FWolm1qg`*

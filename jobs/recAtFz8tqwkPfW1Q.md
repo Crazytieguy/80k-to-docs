@@ -14,14 +14,15 @@ areas:
 
 **[Goodfire](https://goodfire.ai)**
 
-- **Location:** San Francisco Bay Area, USA
-- **Role type:** Full-time
-- **Experience:** Senior (10+ years experience)
-- **Degree:** Undergraduate degree or less
-- **Salary:** $300,000 – $450,000
+<dl class="job-meta">
+<dt>Location</dt><dd>San Francisco Bay Area, USA</dd>
+<dt>Role type</dt><dd>Full-time</dd>
+<dt>Experience</dt><dd>Senior (10+ years experience)</dd>
+<dt>Degree</dt><dd>Undergraduate degree or less</dd>
+<dt>Salary</dt><dd>$300,000 – $450,000</dd>
+</dl>
 
-## Tags
-AI safety & policy, Software engineering, Management
+**Areas & skills:** AI safety & policy, Software engineering, Management
 
 ## Summary
 - In this role, you'll lead and grow Goodfire's core AI interpretability platform while contributing technically and building a world-class engineering team.
@@ -30,7 +31,7 @@ AI safety & policy, Software engineering, Management
 - Recruit and retain top machine learning engineers from leading AI research labs.
 - Drive adoption of Goodfire's platform through direct collaboration with customers and go-to-market teams.
 
-[Apply →](https://job-boards.greenhouse.io/goodfire/jobs/5071690008)
+<p class="apply-cta"><a href="https://job-boards.greenhouse.io/goodfire/jobs/5071690008">Apply →</a></p>
 
 ---
-*Posted 2022-01-05 · Last updated 2026-05-26 · 80k job ID `recAtFz8tqwkPfW1Q`*
+*Posted 2022-01-05 · Listing synced 2026-05-26 · 80k job ID `recAtFz8tqwkPfW1Q`*

@@ -14,14 +14,15 @@ areas:
 
 **[California Council on Science and Technology](https://ccst.us/)**
 
-- **Location:** Sacramento, CA, CA, USA
-- **Role type:** Fellowship
-- **Experience:** Multiple experience levels
-- **Degree:** Undergraduate degree or less
-- **Salary:** $90,000 – $110,000
+<dl class="job-meta">
+<dt>Location</dt><dd>Sacramento, CA, CA, USA</dd>
+<dt>Role type</dt><dd>Fellowship</dd>
+<dt>Experience</dt><dd>Multiple experience levels</dd>
+<dt>Degree</dt><dd>Undergraduate degree or less</dd>
+<dt>Salary</dt><dd>$90,000 – $110,000</dd>
+</dl>
 
-## Tags
-AI safety & policy, Policy
+**Areas & skills:** AI safety & policy, Policy
 
 ## Summary
 - In this role, you'll advise on California's state-level AI policy and governance, particularly frontier AI safety, transparency, and risk management.
@@ -31,7 +32,7 @@ AI safety & policy, Policy
 - Solicit input from experts across state agencies, academia, industry, and community groups on emerging AI challenges.
 - For application support, contact implementation@secureaiproject.org.
 
-[Apply →](https://ccst.us/ai-policy-fellow-cdt/)
+<p class="apply-cta"><a href="https://ccst.us/ai-policy-fellow-cdt/">Apply →</a></p>
 
 ---
-*Posted 2026-05-05 · Last updated 2026-05-26 · 80k job ID `recx5CAzV4IMbWXTZ`*
+*Posted 2026-05-05 · Listing synced 2026-05-26 · 80k job ID `recx5CAzV4IMbWXTZ`*

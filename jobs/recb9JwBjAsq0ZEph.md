@@ -14,14 +14,15 @@ areas:
 
 **[Meridian](https://www.meridiancambridge.org/)**
 
-- **Location:** Cambridge, UK, UK
-- **Role type:** Internship
-- **Experience:** Entry-level
-- **Degree:** Undergraduate degree or less
-- **Salary:** $36,364 – $41,958
+<dl class="job-meta">
+<dt>Location</dt><dd>Cambridge, UK, UK</dd>
+<dt>Role type</dt><dd>Internship</dd>
+<dt>Experience</dt><dd>Entry-level</dd>
+<dt>Degree</dt><dd>Undergraduate degree or less</dd>
+<dt>Salary</dt><dd>$36,364 – $41,958</dd>
+</dl>
 
-## Tags
-AI safety & policy, Outreach
+**Areas & skills:** AI safety & policy, Outreach
 
 ## Summary
 - In this role, you'll create compelling social media and video content about AI safety and biosecurity for Meridian Impact CIC.
@@ -30,7 +31,7 @@ AI safety & policy, Outreach
 - Develop and manage social media accounts and content strategies from scratch.
 - Create content calendars and brand guidelines that effectively communicate complex technical topics to diverse audiences.
 
-[Apply →](https://docs.google.com/document/d/16MwSYURaxkstolkXCZzHVBIz9WgPmTbEul7Y3thjoac/edit?tab=t.0#heading=h.dk0m2eyh4s9u)
+<p class="apply-cta"><a href="https://docs.google.com/document/d/16MwSYURaxkstolkXCZzHVBIz9WgPmTbEul7Y3thjoac/edit?tab=t.0#heading=h.dk0m2eyh4s9u">Apply →</a></p>
 
 ---
-*Posted 2022-01-06 · Last updated 2026-05-26 · 80k job ID `recb9JwBjAsq0ZEph`*
+*Posted 2022-01-06 · Listing synced 2026-05-26 · 80k job ID `recb9JwBjAsq0ZEph`*

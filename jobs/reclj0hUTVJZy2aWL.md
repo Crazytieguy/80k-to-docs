@@ -14,14 +14,15 @@ areas:
 
 **[Apollo Research](https://www.apolloresearch.ai/)**
 
-- **Location:** London, UK, UK, UK (Confirmed Visas)
-- **Role type:** Full-time
-- **Experience:** Mid (5-9 years experience)
-- **Degree:** Undergraduate degree or less
-- **Salary:** $174,826 – $268,963
+<dl class="job-meta">
+<dt>Location</dt><dd>London, UK, UK, UK (Confirmed Visas)</dd>
+<dt>Role type</dt><dd>Full-time</dd>
+<dt>Experience</dt><dd>Mid (5-9 years experience)</dd>
+<dt>Degree</dt><dd>Undergraduate degree or less</dd>
+<dt>Salary</dt><dd>$174,826 – $268,963</dd>
+</dl>
 
-## Tags
-AI safety & policy, Information security, Strategy
+**Areas & skills:** AI safety & policy, Information security, Strategy
 
 ## Summary
 - In this role, you'll own Apollo's security programme, developing roadmaps, assessments, and evolving practices.
@@ -30,7 +31,7 @@ AI safety & policy, Information security, Strategy
 - Select and manage security controls including endpoint management, identity, and Google Workspace, automating operations.
 - Lead compliance certifications such as ISO 27001 and SOC 2, and define vetting for AI tools and integrations.
 
-[Apply →](https://jobs.lever.co/apolloresearch/60487a21-28bd-4fbb-aedc-7045eb009c74)
+<p class="apply-cta"><a href="https://jobs.lever.co/apolloresearch/60487a21-28bd-4fbb-aedc-7045eb009c74">Apply →</a></p>
 
 ---
-*Posted 2026-03-10 · Last updated 2026-05-26 · 80k job ID `reclj0hUTVJZy2aWL`*
+*Posted 2026-03-10 · Listing synced 2026-05-26 · 80k job ID `reclj0hUTVJZy2aWL`*

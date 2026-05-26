@@ -14,13 +14,14 @@ areas:
 
 **[LawZero](https://lawzero.org/en)**
 
-- **Location:** Montreal, Canada, Canada
-- **Role type:** Full-time
-- **Experience:** Mid (5-9 years experience)
-- **Degree:** Undergraduate degree or less
+<dl class="job-meta">
+<dt>Location</dt><dd>Montreal, Canada, Canada</dd>
+<dt>Role type</dt><dd>Full-time</dd>
+<dt>Experience</dt><dd>Mid (5-9 years experience)</dd>
+<dt>Degree</dt><dd>Undergraduate degree or less</dd>
+</dl>
 
-## Tags
-AI safety & policy, Finance
+**Areas & skills:** AI safety & policy, Finance
 
 ## Summary
 - In this role, you'll oversee LawZero's financial operations across grants, treasury, accounting, budgets, and audits.
@@ -29,7 +30,7 @@ AI safety & policy, Finance
 - Review monthly financial statements, develop KPI dashboards, analyse variances, and improve accounting processes.
 - Support budgeting and multi-year planning while preparing audit documentation and implementing financial tools.
 
-[Apply →](https://job-boards.greenhouse.io/lawzero/jobs/4248028009)
+<p class="apply-cta"><a href="https://job-boards.greenhouse.io/lawzero/jobs/4248028009">Apply →</a></p>
 
 ---
-*Posted 2026-05-21 · Last updated 2026-05-26 · 80k job ID `recQA4vUWj0HgIRkz`*
+*Posted 2026-05-21 · Listing synced 2026-05-26 · 80k job ID `recQA4vUWj0HgIRkz`*

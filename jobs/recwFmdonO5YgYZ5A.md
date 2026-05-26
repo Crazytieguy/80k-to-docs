@@ -14,14 +14,15 @@ areas:
 
 **[OpenAI](https://openai.com/)**
 
-- **Location:** San Francisco Bay Area, USA
-- **Role type:** Full-time
-- **Experience:** Junior (1-4 years experience)
-- **Degree:** Doctoral degree
-- **Salary:** $295,000 – $440,000
+<dl class="job-meta">
+<dt>Location</dt><dd>San Francisco Bay Area, USA</dd>
+<dt>Role type</dt><dd>Full-time</dd>
+<dt>Experience</dt><dd>Junior (1-4 years experience)</dd>
+<dt>Degree</dt><dd>Doctoral degree</dd>
+<dt>Salary</dt><dd>$295,000 – $440,000</dd>
+</dl>
 
-## Tags
-AI safety & policy, Research, Software engineering
+**Areas & skills:** AI safety & policy, Research, Software engineering
 
 ## Summary
 - In this role, you'll design and implement solutions to ensure AI systems follow human intent, even in complex scenarios.
@@ -30,7 +31,7 @@ AI safety & policy, Research, Software engineering
 - Build tools to study model robustness and how alignment scales with increased capabilities.
 - Create human-AI interaction methods that improve how people supervise and control AI systems.
 
-[Apply →](https://openai.com/careers/researcher-alignment-san-francisco/)
+<p class="apply-cta"><a href="https://openai.com/careers/researcher-alignment-san-francisco/">Apply →</a></p>
 
 ---
-*Posted 2022-01-12 · Last updated 2026-05-26 · 80k job ID `recwFmdonO5YgYZ5A`*
+*Posted 2022-01-12 · Listing synced 2026-05-26 · 80k job ID `recwFmdonO5YgYZ5A`*

@@ -14,14 +14,15 @@ areas:
 
 **[Anthropic](https://www.anthropic.com/)**
 
-- **Location:** San Francisco Bay Area, USA, USA (Confirmed Visas)
-- **Role type:** Full-time
-- **Experience:** Mid (5-9 years experience), Senior (10+ years experience)
-- **Degree:** Undergraduate degree or less
-- **Salary:** $350,000 – $850,000
+<dl class="job-meta">
+<dt>Location</dt><dd>San Francisco Bay Area, USA, USA (Confirmed Visas)</dd>
+<dt>Role type</dt><dd>Full-time</dd>
+<dt>Experience</dt><dd>Mid (5-9 years experience), Senior (10+ years experience)</dd>
+<dt>Degree</dt><dd>Undergraduate degree or less</dd>
+<dt>Salary</dt><dd>$350,000 – $850,000</dd>
+</dl>
 
-## Tags
-AI safety & policy, Research
+**Areas & skills:** AI safety & policy, Research
 
 ## Summary
 - In this role, you'll research, evaluate, and defend against societal risks emerging from advanced AI models being integrated into the economy and society.
@@ -30,7 +31,7 @@ AI safety & policy, Research
 - Shape product, safeguards, and training decisions based on your findings.
 - Build and study autonomous AI systems to identify real-world growth patterns and risks.
 
-[Apply →](https://job-boards.greenhouse.io/anthropic/jobs/5103788008)
+<p class="apply-cta"><a href="https://job-boards.greenhouse.io/anthropic/jobs/5103788008">Apply →</a></p>
 
 ---
-*Posted 2022-01-11 · Last updated 2026-05-26 · 80k job ID `recTYwAWIRpY2jLtv`*
+*Posted 2022-01-11 · Listing synced 2026-05-26 · 80k job ID `recTYwAWIRpY2jLtv`*

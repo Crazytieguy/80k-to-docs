@@ -14,18 +14,19 @@ areas:
 
 **[Concordia AI](https://concordia-ai.com/)**
 
-- **Location:** Singapore, Singapore, Beijing, China, Singapore, China, Asia
-- **Role type:** Full-time
-- **Experience:** Multiple experience levels
-- **Degree:** Undergraduate degree or less
+<dl class="job-meta">
+<dt>Location</dt><dd>Singapore, Singapore, Beijing, China, Singapore, China, Asia</dd>
+<dt>Role type</dt><dd>Full-time</dd>
+<dt>Experience</dt><dd>Multiple experience levels</dd>
+<dt>Degree</dt><dd>Undergraduate degree or less</dd>
+</dl>
 
-## Tags
-AI safety & policy, Research, Policy, Outreach
+**Areas & skills:** AI safety & policy, Research, Policy, Outreach
 
 ## Summary
 - Express interest in working at Concordia. For the right person, they are willing to tailor a role around one's strengths.
 
-[Apply →](https://docs.google.com/forms/d/e/1FAIpQLSefLWdsE_okD2GIWYNaMHtoibGRewwWa5CmVri-SVcXZax3Bg/viewform)
+<p class="apply-cta"><a href="https://docs.google.com/forms/d/e/1FAIpQLSefLWdsE_okD2GIWYNaMHtoibGRewwWa5CmVri-SVcXZax3Bg/viewform">Apply →</a></p>
 
 ---
-*Posted 2022-01-11 · Last updated 2026-05-26 · 80k job ID `rec8EgM6xCuobgH3G`*
+*Posted 2022-01-11 · Listing synced 2026-05-26 · 80k job ID `rec8EgM6xCuobgH3G`*

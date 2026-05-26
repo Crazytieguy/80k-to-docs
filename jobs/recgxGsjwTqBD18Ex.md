@@ -14,14 +14,15 @@ areas:
 
 **[Future of Life Institute](https://www.futureoflife.org)**
 
-- **Location:** Washington, DC metro area, USA
-- **Role type:** Full-time
-- **Experience:** Junior (1-4 years experience)
-- **Degree:** Master's degree
-- **Salary:** $133,869 – $210,000
+<dl class="job-meta">
+<dt>Location</dt><dd>Washington, DC metro area, USA</dd>
+<dt>Role type</dt><dd>Full-time</dd>
+<dt>Experience</dt><dd>Junior (1-4 years experience)</dd>
+<dt>Degree</dt><dd>Master's degree</dd>
+<dt>Salary</dt><dd>$133,869 – $210,000</dd>
+</dl>
 
-## Tags
-AI safety & policy, Policy
+**Areas & skills:** AI safety & policy, Policy
 
 ## Summary
 - In this role, you'll analyze how AI interacts with US national security concerns and develop strategies to mitigate emerging technology risks.
@@ -30,7 +31,7 @@ AI safety & policy, Policy
 - Present at panel discussions and brief government officials and media on AI policy developments.
 - Identify policy change opportunities and support grantmaking efforts that advance AI safety and risk mitigation objectives.
 
-[Apply →](https://jobs.lever.co/futureof-life/64426784-11de-4c92-872f-90925b372e5a)
+<p class="apply-cta"><a href="https://jobs.lever.co/futureof-life/64426784-11de-4c92-872f-90925b372e5a">Apply →</a></p>
 
 ---
-*Posted 2026-05-25 · Last updated 2026-05-26 · 80k job ID `recgxGsjwTqBD18Ex`*
+*Posted 2026-05-25 · Listing synced 2026-05-26 · 80k job ID `recgxGsjwTqBD18Ex`*

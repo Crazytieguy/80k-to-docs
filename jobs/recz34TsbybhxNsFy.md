@@ -14,15 +14,15 @@ areas:
 
 **[Epoch AI](https://epoch.ai)**
 
-- **Location:** Remote, Global
-- **Role type:** Full-time
-- **Experience:** Multiple experience levels
-- **Degree:** Undergraduate degree or less
-- **Salary:** $100,000 – $250,000
-- **Location type:** Remote
+<dl class="job-meta">
+<dt>Location</dt><dd>Remote, Global</dd>
+<dt>Role type</dt><dd>Full-time</dd>
+<dt>Experience</dt><dd>Multiple experience levels</dd>
+<dt>Degree</dt><dd>Undergraduate degree or less</dd>
+<dt>Salary</dt><dd>$100,000 – $250,000</dd>
+</dl>
 
-## Tags
-AI safety & policy, Research
+**Areas & skills:** AI safety & policy, Research
 
 ## Summary
 - In this role, you'll lead research projects investigating AI capabilities and their societal implications.
@@ -31,7 +31,7 @@ AI safety & policy, Research
 - Make estimates and forecasts with limited information while evaluating technical claims credibility.
 - Collaborate with researchers and engineers to develop benchmarks and ensure research accuracy.
 
-[Apply →](https://jobs.lever.co/epoch-ai/de7b4c71-ece2-454a-be70-e7b75c5f3b23)
+<p class="apply-cta"><a href="https://jobs.lever.co/epoch-ai/de7b4c71-ece2-454a-be70-e7b75c5f3b23">Apply →</a></p>
 
 ---
-*Posted 2026-04-10 · Last updated 2026-05-26 · 80k job ID `recz34TsbybhxNsFy`*
+*Posted 2026-04-10 · Listing synced 2026-05-26 · 80k job ID `recz34TsbybhxNsFy`*

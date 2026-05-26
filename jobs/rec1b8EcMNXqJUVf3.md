@@ -14,13 +14,14 @@ areas:
 
 **[Alice](https://alice.io/)**
 
-- **Location:** Tel Aviv, Israel, Middle-East, Israel
-- **Role type:** Full-time
-- **Experience:** Mid (5-9 years experience)
-- **Degree:** Undergraduate degree or less
+<dl class="job-meta">
+<dt>Location</dt><dd>Tel Aviv, Israel, Middle-East, Israel</dd>
+<dt>Role type</dt><dd>Full-time</dd>
+<dt>Experience</dt><dd>Mid (5-9 years experience)</dd>
+<dt>Degree</dt><dd>Undergraduate degree or less</dd>
+</dl>
 
-## Tags
-AI safety & policy, Information security
+**Areas & skills:** AI safety & policy, Information security
 
 ## Summary
 - In this role, you'll conduct security testing and analysis of generative AI models to identify vulnerabilities and enhance their integrity.
@@ -29,7 +30,7 @@ AI safety & policy, Information security
 - Develop effective strategies to address identified risks and improve model resilience.
 - Document findings and present comprehensive security recommendations to stakeholders.
 
-[Apply →](https://alice.io/positions/position-EE_F52)
+<p class="apply-cta"><a href="https://alice.io/positions/position-EE_F52">Apply →</a></p>
 
 ---
-*Posted 2022-01-05 · Last updated 2026-05-26 · 80k job ID `rec1b8EcMNXqJUVf3`*
+*Posted 2022-01-05 · Listing synced 2026-05-26 · 80k job ID `rec1b8EcMNXqJUVf3`*

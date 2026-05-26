@@ -14,15 +14,15 @@ areas:
 
 **[Beneficial AI Foundation](https://www.beneficialaifoundation.org/)**
 
-- **Location:** Remote, Global
-- **Role type:** Full-time
-- **Experience:** Junior (1-4 years experience), Mid (5-9 years experience)
-- **Degree:** Undergraduate degree or less
-- **Salary:** $62,400 – $145,600
-- **Location type:** Remote
+<dl class="job-meta">
+<dt>Location</dt><dd>Remote, Global</dd>
+<dt>Role type</dt><dd>Full-time</dd>
+<dt>Experience</dt><dd>Junior (1-4 years experience), Mid (5-9 years experience)</dd>
+<dt>Degree</dt><dd>Undergraduate degree or less</dd>
+<dt>Salary</dt><dd>$62,400 – $145,600</dd>
+</dl>
 
-## Tags
-AI safety & policy, Software engineering
+**Areas & skills:** AI safety & policy, Software engineering
 
 ## Summary
 - In this role, you'll develop and improve open-source verification tooling and infrastructure that enables the production of guaranteed bug-free code through AI-assisted formal verification.
@@ -31,7 +31,7 @@ AI safety & policy, Software engineering
 - Ensure tools meet the needs of verification engineers working on verification projects.
 - Improve the usability, reliability, and performance of verification-related infrastructure.
 
-[Apply →](https://docs.google.com/forms/d/e/1FAIpQLSf4ii8dKotxIr3hpIf5uKGWceEm0kxtlhhjLHYtnzBgB0U8lg/viewform?usp=send_form)
+<p class="apply-cta"><a href="https://docs.google.com/forms/d/e/1FAIpQLSf4ii8dKotxIr3hpIf5uKGWceEm0kxtlhhjLHYtnzBgB0U8lg/viewform?usp=send_form">Apply →</a></p>
 
 ---
-*Posted 2026-05-12 · Last updated 2026-05-26 · 80k job ID `recdiJgiiIqTPSsf8`*
+*Posted 2026-05-12 · Listing synced 2026-05-26 · 80k job ID `recdiJgiiIqTPSsf8`*

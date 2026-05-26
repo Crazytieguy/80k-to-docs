@@ -14,15 +14,15 @@ areas:
 
 **[AE Studio](https://ae.studio/)**
 
-- **Location:** Los Angeles, CA, Remote, USA, USA
-- **Role type:** Full-time
-- **Experience:** Mid (5-9 years experience)
-- **Degree:** Undergraduate degree or less
-- **Salary:** $120,000 – $220,000
-- **Location type:** Remote
+<dl class="job-meta">
+<dt>Location</dt><dd>Los Angeles, CA, Remote, USA, USA</dd>
+<dt>Role type</dt><dd>Full-time</dd>
+<dt>Experience</dt><dd>Mid (5-9 years experience)</dd>
+<dt>Degree</dt><dd>Undergraduate degree or less</dd>
+<dt>Salary</dt><dd>$120,000 – $220,000</dd>
+</dl>
 
-## Tags
-AI safety & policy, Management, Strategy
+**Areas & skills:** AI safety & policy, Management, Strategy
 
 ## Summary
 - In this role, you'll lead execution across AI alignment client projects, research initiatives, and product development efforts.
@@ -31,7 +31,7 @@ AI safety & policy, Management, Strategy
 - Dive in to test ideas, validate prototypes, and unblock teams when needed.
 - Identify dead ends early, make smart trade-offs, and maintain clear communication with leadership.
 
-[Apply →](https://job-boards.greenhouse.io/aestudio/jobs/5616440004)
+<p class="apply-cta"><a href="https://job-boards.greenhouse.io/aestudio/jobs/5616440004">Apply →</a></p>
 
 ---
-*Posted 2022-01-05 · Last updated 2026-05-26 · 80k job ID `recaT7EmMg8IdDGuR`*
+*Posted 2022-01-05 · Listing synced 2026-05-26 · 80k job ID `recaT7EmMg8IdDGuR`*

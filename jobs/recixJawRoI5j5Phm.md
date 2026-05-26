@@ -14,14 +14,15 @@ areas:
 
 **[Machine Intelligence Research Institute](https://www.intelligence.org)**
 
-- **Location:** San Francisco Bay Area, USA, USA (Confirmed Visas)
-- **Role type:** Full-time
-- **Experience:** Mid (5-9 years experience)
-- **Degree:** Undergraduate degree or less
-- **Salary:** $120,000 – $230,000
+<dl class="job-meta">
+<dt>Location</dt><dd>San Francisco Bay Area, USA, USA (Confirmed Visas)</dd>
+<dt>Role type</dt><dd>Full-time</dd>
+<dt>Experience</dt><dd>Mid (5-9 years experience)</dd>
+<dt>Degree</dt><dd>Undergraduate degree or less</dd>
+<dt>Salary</dt><dd>$120,000 – $230,000</dd>
+</dl>
 
-## Tags
-AI technical safety, Policy, Management
+**Areas & skills:** AI technical safety, Policy, Management
 
 ## Summary
 - In this role, you'll manage a team researching technical aspects of AI regulations and safety policy.
@@ -30,7 +31,7 @@ AI technical safety, Policy, Management
 - Track projects, motivate progress toward deadlines, and oversee team hiring and development.
 - Contribute directly to research on AI threat modeling, policy design, and safety evaluations.
 
-[Apply →](https://jobs.ashbyhq.com/miri/6fe51cba-6143-4445-8b8d-c88645426a49)
+<p class="apply-cta"><a href="https://jobs.ashbyhq.com/miri/6fe51cba-6143-4445-8b8d-c88645426a49">Apply →</a></p>
 
 ---
-*Posted 2022-01-11 · Last updated 2026-05-26 · 80k job ID `recixJawRoI5j5Phm`*
+*Posted 2022-01-11 · Listing synced 2026-05-26 · 80k job ID `recixJawRoI5j5Phm`*

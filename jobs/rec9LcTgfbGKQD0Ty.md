@@ -14,14 +14,15 @@ areas:
 
 **[80,000 Hours](https://80000hours.org/)**
 
-- **Location:** London, UK, UK, UK (Confirmed Visas)
-- **Role type:** Full-time
-- **Experience:** Junior (1-4 years experience), Entry-level
-- **Degree:** Undergraduate degree or less
-- **Salary:** $90,846 – $135,599
+<dl class="job-meta">
+<dt>Location</dt><dd>London, UK, UK, UK (Confirmed Visas)</dd>
+<dt>Role type</dt><dd>Full-time</dd>
+<dt>Experience</dt><dd>Junior (1-4 years experience), Entry-level</dd>
+<dt>Degree</dt><dd>Undergraduate degree or less</dd>
+<dt>Salary</dt><dd>$90,846 – $135,599</dd>
+</dl>
 
-## Tags
-AI safety & policy, Operations
+**Areas & skills:** AI safety & policy, Operations
 
 ## Summary
 - In this role, you'll help scale 80,000 Hours' recruiting function to support the organization's rapid growth.
@@ -30,7 +31,7 @@ AI safety & policy, Operations
 - Take ownership of specific recruiting areas such as candidate outreach, applicant tracking, or metrics.
 - Develop strategic recruiting approaches addressing diversity, hiring priorities, and employer branding.
 
-[Apply →](https://80000hours.org/2026/05/recruiting-associate-specialist-2)
+<p class="apply-cta"><a href="https://80000hours.org/2026/05/recruiting-associate-specialist-2">Apply →</a></p>
 
 ---
-*Posted 2026-05-06 · Last updated 2026-05-26 · 80k job ID `rec9LcTgfbGKQD0Ty`*
+*Posted 2026-05-06 · Listing synced 2026-05-26 · 80k job ID `rec9LcTgfbGKQD0Ty`*

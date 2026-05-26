@@ -14,14 +14,14 @@ areas:
 
 **[BlueDot Impact](https://www.bluedotimpact.org/)**
 
-- **Location:** Remote, Global
-- **Role type:** Part-time
-- **Experience:** Junior (1-4 years experience), Mid (5-9 years experience)
-- **Degree:** Undergraduate degree or less
-- **Location type:** Remote
+<dl class="job-meta">
+<dt>Location</dt><dd>Remote, Global</dd>
+<dt>Role type</dt><dd>Part-time</dd>
+<dt>Experience</dt><dd>Junior (1-4 years experience), Mid (5-9 years experience)</dd>
+<dt>Degree</dt><dd>Undergraduate degree or less</dd>
+</dl>
 
-## Tags
-AI safety & policy, Management
+**Areas & skills:** AI safety & policy, Management
 
 ## Summary
 - In this role, you'll mentor participants through AI safety project sprints, ensuring they complete and publish impactful work.
@@ -30,7 +30,7 @@ AI safety & policy, Management
 - Coach through thoughtful questioning, helping participants identify core issues and develop solutions independently.
 - Support the publication of completed projects across blogs, Twitter, GitHub, and LinkedIn for maximum impact.
 
-[Apply →](https://bluedot.org/join-us/coach)
+<p class="apply-cta"><a href="https://bluedot.org/join-us/coach">Apply →</a></p>
 
 ---
-*Posted 2022-01-06 · Last updated 2026-05-26 · 80k job ID `reczMVZ1CNqphe4UA`*
+*Posted 2022-01-06 · Listing synced 2026-05-26 · 80k job ID `reczMVZ1CNqphe4UA`*

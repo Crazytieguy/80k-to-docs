@@ -14,13 +14,14 @@ areas:
 
 **[Goodfire](https://goodfire.ai)**
 
-- **Location:** San Francisco Bay Area, USA
-- **Role type:** Full-time
-- **Experience:** Senior (10+ years experience)
-- **Degree:** Undergraduate degree or less
+<dl class="job-meta">
+<dt>Location</dt><dd>San Francisco Bay Area, USA</dd>
+<dt>Role type</dt><dd>Full-time</dd>
+<dt>Experience</dt><dd>Senior (10+ years experience)</dd>
+<dt>Degree</dt><dd>Undergraduate degree or less</dd>
+</dl>
 
-## Tags
-AI safety & policy, Operations, Management, Strategy
+**Areas & skills:** AI safety & policy, Operations, Management, Strategy
 
 ## Summary
 - In this role, you'll provide senior leadership for an AI interpretability research company focused on making advanced AI systems understandable and aligned.
@@ -29,7 +30,7 @@ AI safety & policy, Operations, Management, Strategy
 - Drive critical growth initiatives while maintaining a culture centered on mission, improvement, ownership, and urgency.
 - Contribute to developing foundational technology that ensures safe and beneficial AI systems for humanity's future.
 
-[Apply →](https://job-boards.greenhouse.io/goodfire/jobs/4749403008)
+<p class="apply-cta"><a href="https://job-boards.greenhouse.io/goodfire/jobs/4749403008">Apply →</a></p>
 
 ---
-*Posted 2022-01-05 · Last updated 2026-05-26 · 80k job ID `recD1M4cLJS6KfHqT`*
+*Posted 2022-01-05 · Listing synced 2026-05-26 · 80k job ID `recD1M4cLJS6KfHqT`*

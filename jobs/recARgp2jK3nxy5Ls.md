@@ -14,13 +14,14 @@ areas:
 
 **[Anthropic](https://www.anthropic.com/)**
 
-- **Location:** Zurich, Switzerland, Switzerland, Europe (ex UK)
-- **Role type:** Full-time
-- **Experience:** Senior (10+ years experience)
-- **Degree:** Undergraduate degree or less
+<dl class="job-meta">
+<dt>Location</dt><dd>Zurich, Switzerland, Switzerland, Europe (ex UK)</dd>
+<dt>Role type</dt><dd>Full-time</dd>
+<dt>Experience</dt><dd>Senior (10+ years experience)</dd>
+<dt>Degree</dt><dd>Undergraduate degree or less</dd>
+</dl>
 
-## Tags
-AI safety & policy, Information security, Management
+**Areas & skills:** AI safety & policy, Information security, Management
 
 ## Summary
 - In this role, you'll lead Detection and Response teams building comprehensive security observability and incident response programs.
@@ -29,7 +30,7 @@ AI safety & policy, Information security, Management
 - Develop AI-leveraged solutions that enable self-service observability and detection capabilities.
 - Own incident response and detection policies, operate threat intelligence programs, and maintain security partnerships.
 
-[Apply →](https://job-boards.greenhouse.io/anthropic/jobs/5068296008)
+<p class="apply-cta"><a href="https://job-boards.greenhouse.io/anthropic/jobs/5068296008">Apply →</a></p>
 
 ---
-*Posted 2026-03-16 · Last updated 2026-05-26 · 80k job ID `recARgp2jK3nxy5Ls`*
+*Posted 2026-03-16 · Listing synced 2026-05-26 · 80k job ID `recARgp2jK3nxy5Ls`*

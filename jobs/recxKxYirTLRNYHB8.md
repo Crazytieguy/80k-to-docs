@@ -14,14 +14,15 @@ areas:
 
 **[Anthropic](https://www.anthropic.com/)**
 
-- **Location:** San Francisco Bay Area, New York, NY, Seattle metro area, USA, USA (Confirmed Visas)
-- **Role type:** Full-time
-- **Experience:** Mid (5-9 years experience)
-- **Degree:** Undergraduate degree or less
-- **Salary:** $245,000 – $305,000
+<dl class="job-meta">
+<dt>Location</dt><dd>San Francisco Bay Area, New York, NY, Seattle metro area, USA, USA (Confirmed Visas)</dd>
+<dt>Role type</dt><dd>Full-time</dd>
+<dt>Experience</dt><dd>Mid (5-9 years experience)</dd>
+<dt>Degree</dt><dd>Undergraduate degree or less</dd>
+<dt>Salary</dt><dd>$245,000 – $305,000</dd>
+</dl>
 
-## Tags
-AI safety & policy, Information security
+**Areas & skills:** AI safety & policy, Information security
 
 ## Summary
 - In this role, you'll investigate insider risks to protect critical assets through technical and human intelligence.
@@ -30,7 +31,7 @@ AI safety & policy, Information security
 - Conduct sensitive employee interviews and monitor external threats targeting staff.
 - Train team members on insider risk investigation best practices and emerging threats.
 
-[Apply →](https://job-boards.greenhouse.io/anthropic/jobs/5182430008)
+<p class="apply-cta"><a href="https://job-boards.greenhouse.io/anthropic/jobs/5182430008">Apply →</a></p>
 
 ---
-*Posted 2026-04-13 · Last updated 2026-05-26 · 80k job ID `recxKxYirTLRNYHB8`*
+*Posted 2026-04-13 · Listing synced 2026-05-26 · 80k job ID `recxKxYirTLRNYHB8`*

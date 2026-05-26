@@ -14,14 +14,15 @@ areas:
 
 **[Anthropic](https://www.anthropic.com/)**
 
-- **Location:** San Francisco Bay Area, USA, USA (Confirmed Visas)
-- **Role type:** Full-time
-- **Experience:** Junior (1-4 years experience), Mid (5-9 years experience)
-- **Degree:** Undergraduate degree or less
-- **Salary:** $340,000 – $425,000
+<dl class="job-meta">
+<dt>Location</dt><dd>San Francisco Bay Area, USA, USA (Confirmed Visas)</dd>
+<dt>Role type</dt><dd>Full-time</dd>
+<dt>Experience</dt><dd>Junior (1-4 years experience), Mid (5-9 years experience)</dd>
+<dt>Degree</dt><dd>Undergraduate degree or less</dd>
+<dt>Salary</dt><dd>$340,000 – $425,000</dd>
+</dl>
 
-## Tags
-AI safety & policy, Research, Management
+**Areas & skills:** AI safety & policy, Research, Management
 
 ## Summary
 - In this role, you'll manage a team of researchers and engineers working to understand the internal mechanisms of large language models for AI safety.
@@ -30,7 +31,7 @@ AI safety & policy, Research, Management
 - Drive recruiting efforts including hiring planning, process improvements, and candidate sourcing.
 - Facilitate collaboration across teams and communicate research progress to leadership.
 
-[Apply →](https://job-boards.greenhouse.io/anthropic/jobs/4980436008)
+<p class="apply-cta"><a href="https://job-boards.greenhouse.io/anthropic/jobs/4980436008">Apply →</a></p>
 
 ---
-*Posted 2022-01-12 · Last updated 2026-05-26 · 80k job ID `recR5v7E0vhMJF7M5`*
+*Posted 2022-01-12 · Listing synced 2026-05-26 · 80k job ID `recR5v7E0vhMJF7M5`*

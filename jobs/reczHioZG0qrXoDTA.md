@@ -14,14 +14,15 @@ areas:
 
 **[OpenAI](https://openai.com/)**
 
-- **Location:** San Francisco Bay Area, USA
-- **Role type:** Full-time
-- **Experience:** Junior (1-4 years experience), Mid (5-9 years experience)
-- **Degree:** Undergraduate degree or less
-- **Salary:** $310,000 – $460,000
+<dl class="job-meta">
+<dt>Location</dt><dd>San Francisco Bay Area, USA</dd>
+<dt>Role type</dt><dd>Full-time</dd>
+<dt>Experience</dt><dd>Junior (1-4 years experience), Mid (5-9 years experience)</dd>
+<dt>Degree</dt><dd>Undergraduate degree or less</dd>
+<dt>Salary</dt><dd>$310,000 – $460,000</dd>
+</dl>
 
-## Tags
-AI safety & policy, Research, Software engineering
+**Areas & skills:** AI safety & policy, Research, Software engineering
 
 ## Summary
 - In this role, you'll build safer AI models and enable earlier safety evaluation during training.
@@ -30,7 +31,7 @@ AI safety & policy, Research, Software engineering
 - Explore architectures and configurations that enhance model controllability.
 - Introduce safety-oriented loss functions and metrics into the pretraining stack.
 
-[Apply →](https://openai.com/careers/researcher-pretraining-safety-san-francisco/)
+<p class="apply-cta"><a href="https://openai.com/careers/researcher-pretraining-safety-san-francisco/">Apply →</a></p>
 
 ---
-*Posted 2022-01-12 · Last updated 2026-05-26 · 80k job ID `reczHioZG0qrXoDTA`*
+*Posted 2022-01-12 · Listing synced 2026-05-26 · 80k job ID `reczHioZG0qrXoDTA`*

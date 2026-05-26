@@ -14,14 +14,15 @@ areas:
 
 **[Anthropic](https://www.anthropic.com/)**
 
-- **Location:** London, UK, UK, UK (Confirmed Visas)
-- **Role type:** Full-time
-- **Experience:** Mid (5-9 years experience)
-- **Degree:** Undergraduate degree or less
-- **Salary:** $302,583 – $672,407
+<dl class="job-meta">
+<dt>Location</dt><dd>London, UK, UK, UK (Confirmed Visas)</dd>
+<dt>Role type</dt><dd>Full-time</dd>
+<dt>Experience</dt><dd>Mid (5-9 years experience)</dd>
+<dt>Degree</dt><dd>Undergraduate degree or less</dd>
+<dt>Salary</dt><dd>$302,583 – $672,407</dd>
+</dl>
 
-## Tags
-AI safety & policy, Research, Software engineering
+**Areas & skills:** AI safety & policy, Research, Software engineering
 
 ## Summary
 - In this role, you'll conduct experimental research on AI safety to help understand and steer the behavior of powerful AI systems.
@@ -30,7 +31,7 @@ AI safety & policy, Research, Software engineering
 - Build tooling to efficiently evaluate LLM-generated jailbreaks and model reasoning abilities.
 - Contribute to research papers, blog posts, and key AI safety efforts like Anthropic's Responsible Scaling Policy.
 
-[Apply →](https://job-boards.greenhouse.io/anthropic/jobs/4610158008)
+<p class="apply-cta"><a href="https://job-boards.greenhouse.io/anthropic/jobs/4610158008">Apply →</a></p>
 
 ---
-*Posted 2022-01-11 · Last updated 2026-05-26 · 80k job ID `recRtmUUeEYQ6fd1Z`*
+*Posted 2022-01-11 · Listing synced 2026-05-26 · 80k job ID `recRtmUUeEYQ6fd1Z`*

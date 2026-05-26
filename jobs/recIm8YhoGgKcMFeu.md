@@ -14,13 +14,14 @@ areas:
 
 **[Armilla](https://armilla.ai/)**
 
-- **Location:** Toronto, Canada, Canada
-- **Role type:** Full-time
-- **Experience:** Mid (5-9 years experience)
-- **Degree:** Master's degree
+<dl class="job-meta">
+<dt>Location</dt><dd>Toronto, Canada, Canada</dd>
+<dt>Role type</dt><dd>Full-time</dd>
+<dt>Experience</dt><dd>Mid (5-9 years experience)</dd>
+<dt>Degree</dt><dd>Master's degree</dd>
+</dl>
 
-## Tags
-AI safety & policy, Research, Software engineering
+**Areas & skills:** AI safety & policy, Research, Software engineering
 
 ## Summary
 - In this role, you'll develop AI systems that evaluate other AI systems for automated risk assessment in the insurance industry.
@@ -29,7 +30,7 @@ AI safety & policy, Research, Software engineering
 - Develop methodologies to capture AI-specific risks like adversarial attacks and misalignment.
 - Translate technical findings into actionable risk insights for underwriting teams.
 
-[Apply →](https://ats.rippling.com/armilla-ai/jobs/31983626-c38c-4c93-a52c-82c1491f60f7)
+<p class="apply-cta"><a href="https://ats.rippling.com/armilla-ai/jobs/31983626-c38c-4c93-a52c-82c1491f60f7">Apply →</a></p>
 
 ---
-*Posted 2022-01-05 · Last updated 2026-05-26 · 80k job ID `recIm8YhoGgKcMFeu`*
+*Posted 2022-01-05 · Listing synced 2026-05-26 · 80k job ID `recIm8YhoGgKcMFeu`*

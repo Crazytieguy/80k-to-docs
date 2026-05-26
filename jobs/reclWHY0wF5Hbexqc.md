@@ -14,15 +14,15 @@ areas:
 
 **[OpenAI](https://openai.com/)**
 
-- **Location:** Stockholm, Sweden, San Francisco Bay Area, New York, NY, Remote, USA, USA, Sweden, Europe (ex UK)
-- **Role type:** Full-time
-- **Experience:** Mid (5-9 years experience), Senior (10+ years experience)
-- **Degree:** Undergraduate degree or less
-- **Salary:** $277,600 – $490,000
-- **Location type:** Remote
+<dl class="job-meta">
+<dt>Location</dt><dd>Stockholm, Sweden, San Francisco Bay Area, New York, NY, Remote, USA, USA, Sweden, Europe (ex UK)</dd>
+<dt>Role type</dt><dd>Full-time</dd>
+<dt>Experience</dt><dd>Mid (5-9 years experience), Senior (10+ years experience)</dd>
+<dt>Degree</dt><dd>Undergraduate degree or less</dd>
+<dt>Salary</dt><dd>$277,600 – $490,000</dd>
+</dl>
 
-## Tags
-AI safety & policy, Software engineering, Information security
+**Areas & skills:** AI safety & policy, Software engineering, Information security
 
 ## Summary
 - In this role, you'll own architecture and execution of critical security services protecting OpenAI's infrastructure and models.
@@ -31,7 +31,7 @@ AI safety & policy, Software engineering, Information security
 - Develop automation and detection tooling using frontier models to identify and mitigate risks in cloud environments.
 - Mentor engineers across security teams on engineering quality and secure-by-default practices.
 
-[Apply →](https://openai.com/careers/principal-software-engineer-infrastructure-security-remote-us/)
+<p class="apply-cta"><a href="https://openai.com/careers/principal-software-engineer-infrastructure-security-remote-us/">Apply →</a></p>
 
 ---
-*Posted 2026-04-27 · Last updated 2026-05-26 · 80k job ID `reclWHY0wF5Hbexqc`*
+*Posted 2026-04-27 · Listing synced 2026-05-26 · 80k job ID `reclWHY0wF5Hbexqc`*

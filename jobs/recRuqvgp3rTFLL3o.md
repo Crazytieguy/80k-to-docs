@@ -14,14 +14,15 @@ areas:
 
 **[Future of Privacy Forum](https://fpf.org/)**
 
-- **Location:** Washington, DC metro area, USA
-- **Role type:** Full-time
-- **Experience:** Junior (1-4 years experience), Mid (5-9 years experience)
-- **Degree:** Master's degree
-- **Salary:** $115,000 – $140,000
+<dl class="job-meta">
+<dt>Location</dt><dd>Washington, DC metro area, USA</dd>
+<dt>Role type</dt><dd>Full-time</dd>
+<dt>Experience</dt><dd>Junior (1-4 years experience), Mid (5-9 years experience)</dd>
+<dt>Degree</dt><dd>Master's degree</dd>
+<dt>Salary</dt><dd>$115,000 – $140,000</dd>
+</dl>
 
-## Tags
-AI safety & policy, Research, Policy, Legal
+**Areas & skills:** AI safety & policy, Research, Policy, Legal
 
 ## Summary
 - In this role, you'll lead corporate AI risk management and governance efforts, overseeing a broad AI law and policy portfolio.
@@ -30,7 +31,7 @@ AI safety & policy, Research, Policy, Legal
 - Deliver public policy insights through blog posts, white papers, and conference presentations.
 - Establish and expand corporate member networking and benchmarking initiatives through the Privacy Executives Network.
 
-[Apply →](https://fpf.org/analyst-counsel-ai-governance/?message=pantheon-cleared-url-cache)
+<p class="apply-cta"><a href="https://fpf.org/analyst-counsel-ai-governance/?message=pantheon-cleared-url-cache">Apply →</a></p>
 
 ---
-*Posted 2026-03-17 · Last updated 2026-05-26 · 80k job ID `recRuqvgp3rTFLL3o`*
+*Posted 2026-03-17 · Listing synced 2026-05-26 · 80k job ID `recRuqvgp3rTFLL3o`*

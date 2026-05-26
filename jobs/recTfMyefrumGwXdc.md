@@ -15,15 +15,15 @@ areas:
 
 **[Legal Advocates for Safe Science and Technology](https://lasst.org/)**
 
-- **Location:** Remote, USA, USA, USA (Confirmed Visas)
-- **Role type:** Full-time
-- **Experience:** Junior (1-4 years experience)
-- **Degree:** Undergraduate degree or less
-- **Salary:** $85,000 – $110,000
-- **Location type:** Remote
+<dl class="job-meta">
+<dt>Location</dt><dd>Remote, USA, USA, USA (Confirmed Visas)</dd>
+<dt>Role type</dt><dd>Full-time</dd>
+<dt>Experience</dt><dd>Junior (1-4 years experience)</dd>
+<dt>Degree</dt><dd>Undergraduate degree or less</dd>
+<dt>Salary</dt><dd>$85,000 – $110,000</dd>
+</dl>
 
-## Tags
-AI safety & policy, Biosecurity & pandemic preparedness, Research, Outreach, Operations
+**Areas & skills:** AI safety & policy, Biosecurity & pandemic preparedness, Research, Outreach, Operations
 
 ## Summary
 - In this role, you'll serve as a generalist keeping LASST running smoothly while supporting its mission to make science and technology safer.
@@ -32,7 +32,7 @@ AI safety & policy, Biosecurity & pandemic preparedness, Research, Outreach, Ope
 - Conduct fact research to support impact litigation, investigations, and public advocacy campaigns.
 - Coordinate project management, stakeholder tracking, and document organization.
 
-[Apply →](https://docs.google.com/document/d/1xKv6O1kF_-PX0jLedXEXGKMgqgFa5BtLfSy9QO1I8_Q/edit?usp=sharing)
+<p class="apply-cta"><a href="https://docs.google.com/document/d/1xKv6O1kF_-PX0jLedXEXGKMgqgFa5BtLfSy9QO1I8_Q/edit?usp=sharing">Apply →</a></p>
 
 ---
-*Posted 2022-01-08 · Last updated 2026-05-26 · 80k job ID `recTfMyefrumGwXdc`*
+*Posted 2022-01-08 · Listing synced 2026-05-26 · 80k job ID `recTfMyefrumGwXdc`*

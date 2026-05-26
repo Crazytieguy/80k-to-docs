@@ -14,14 +14,15 @@ areas:
 
 **[Institute for Law and AI](https://law-ai.org/)**
 
-- **Location:** Washington, DC metro area, Cambridge, UK, UK, USA, USA (Confirmed Visas), UK (Confirmed Visas)
-- **Role type:** Full-time
-- **Experience:** Junior (1-4 years experience), Entry-level
-- **Degree:** Undergraduate degree or less
-- **Salary:** $75,000 – $100,000
+<dl class="job-meta">
+<dt>Location</dt><dd>Washington, DC metro area, Cambridge, UK, UK, USA, USA (Confirmed Visas), UK (Confirmed Visas)</dd>
+<dt>Role type</dt><dd>Full-time</dd>
+<dt>Experience</dt><dd>Junior (1-4 years experience), Entry-level</dd>
+<dt>Degree</dt><dd>Undergraduate degree or less</dd>
+<dt>Salary</dt><dd>$75,000 – $100,000</dd>
+</dl>
 
-## Tags
-AI safety & policy, Operations
+**Areas & skills:** AI safety & policy, Operations
 
 ## Summary
 - In this role, you'll support LawAI's day-to-day operations managing HR, finance, fellowship logistics, and administrative tasks.
@@ -30,7 +31,7 @@ AI safety & policy, Operations
 - Coordinate fellowship logistics including offer letters, payment schedules, and event operations.
 - Maintain operational processes as the key contact for staff, fellows, and external partners.
 
-[Apply →](https://law-ai.org/career/ops-associate/)
+<p class="apply-cta"><a href="https://law-ai.org/career/ops-associate/">Apply →</a></p>
 
 ---
-*Posted 2026-05-08 · Last updated 2026-05-26 · 80k job ID `rec7EssVx8o6Nh1rx`*
+*Posted 2026-05-08 · Listing synced 2026-05-26 · 80k job ID `rec7EssVx8o6Nh1rx`*

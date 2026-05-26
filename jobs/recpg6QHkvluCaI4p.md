@@ -14,14 +14,15 @@ areas:
 
 **[Anthropic](https://www.anthropic.com/)**
 
-- **Location:** Washington, DC metro area, San Francisco Bay Area, New York, NY, USA, USA (Confirmed Visas)
-- **Role type:** Full-time
-- **Experience:** Mid (5-9 years experience)
-- **Degree:** Undergraduate degree or less
-- **Salary:** $230,000 – $270,000
+<dl class="job-meta">
+<dt>Location</dt><dd>Washington, DC metro area, San Francisco Bay Area, New York, NY, USA, USA (Confirmed Visas)</dd>
+<dt>Role type</dt><dd>Full-time</dd>
+<dt>Experience</dt><dd>Mid (5-9 years experience)</dd>
+<dt>Degree</dt><dd>Undergraduate degree or less</dd>
+<dt>Salary</dt><dd>$230,000 – $270,000</dd>
+</dl>
 
-## Tags
-AI safety & policy, Research
+**Areas & skills:** AI safety & policy, Research
 
 ## Summary
 - In this role, you'll ensure AI models meet safety standards before and after launch through evaluations and cross-team coordination.
@@ -30,7 +31,7 @@ AI safety & policy, Research
 - Drive mitigation strategies when safety issues emerge from evaluation outcomes.
 - Build processes and frameworks that keep evaluations high-signal and insightful as models improve.
 
-[Apply →](https://job-boards.greenhouse.io/anthropic/jobs/5137183008)
+<p class="apply-cta"><a href="https://job-boards.greenhouse.io/anthropic/jobs/5137183008">Apply →</a></p>
 
 ---
-*Posted 2026-03-10 · Last updated 2026-05-26 · 80k job ID `recpg6QHkvluCaI4p`*
+*Posted 2026-03-10 · Listing synced 2026-05-26 · 80k job ID `recpg6QHkvluCaI4p`*

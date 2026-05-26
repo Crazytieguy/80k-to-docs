@@ -14,14 +14,15 @@ areas:
 
 **[Lightcone Infrastructure](https://www.lightconeinfrastructure.com/index.html)**
 
-- **Location:** San Francisco Bay Area, USA, USA (Confirmed Visas)
-- **Role type:** Full-time
-- **Experience:** Junior (1-4 years experience)
-- **Degree:** Master's degree
-- **Salary:** $150,000
+<dl class="job-meta">
+<dt>Location</dt><dd>San Francisco Bay Area, USA, USA (Confirmed Visas)</dd>
+<dt>Role type</dt><dd>Full-time</dd>
+<dt>Experience</dt><dd>Junior (1-4 years experience)</dd>
+<dt>Degree</dt><dd>Master's degree</dd>
+<dt>Salary</dt><dd>$150,000</dd>
+</dl>
 
-## Tags
-AI safety & policy, Software engineering
+**Areas & skills:** AI safety & policy, Software engineering
 
 ## Summary
 - This role entails maintaining and expanding the LessWrong website.
@@ -30,7 +31,7 @@ AI safety & policy, Software engineering
 - Ensure the reliability and performance of the LessWrong platform.
 - Collaborate with the team to plan and execute technical roadmaps.
 
-[Apply →](https://www.lightconeinfrastructure.com/lesswrong-software.html)
+<p class="apply-cta"><a href="https://www.lightconeinfrastructure.com/lesswrong-software.html">Apply →</a></p>
 
 ---
-*Posted 2022-01-12 · Last updated 2026-05-26 · 80k job ID `reciCN4NVL7gXQkSO`*
+*Posted 2022-01-12 · Listing synced 2026-05-26 · 80k job ID `reciCN4NVL7gXQkSO`*

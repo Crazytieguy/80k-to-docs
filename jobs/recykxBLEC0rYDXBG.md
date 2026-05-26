@@ -14,14 +14,15 @@ areas:
 
 **[Simon Institute for Longterm Governance](https://www.simoninstitute.ch/)**
 
-- **Location:** Geneva, Switzerland, Switzerland, Europe (ex UK)
-- **Role type:** Full-time
-- **Experience:** Multiple experience levels
-- **Degree:** Undergraduate degree or less
-- **Salary:** $132,413 – $174,655
+<dl class="job-meta">
+<dt>Location</dt><dd>Geneva, Switzerland, Switzerland, Europe (ex UK)</dd>
+<dt>Role type</dt><dd>Full-time</dd>
+<dt>Experience</dt><dd>Multiple experience levels</dd>
+<dt>Degree</dt><dd>Undergraduate degree or less</dd>
+<dt>Salary</dt><dd>$132,413 – $174,655</dd>
+</dl>
 
-## Tags
-AI safety & policy, Operations
+**Areas & skills:** AI safety & policy, Operations
 
 ## Summary
 - In this role, you'll own SI's internal operations, tools, and infrastructure to enable focused policy work.
@@ -30,7 +31,7 @@ AI safety & policy, Operations
 - Help the team adopt AI and technology tools, supporting colleagues at different digital comfort levels.
 - Manage HR administration, employee data, policy implementation, and satisfaction surveys.
 
-[Apply →](https://simoninstitute.ch/jobs/operation-systems-specialist)
+<p class="apply-cta"><a href="https://simoninstitute.ch/jobs/operation-systems-specialist">Apply →</a></p>
 
 ---
-*Posted 2026-05-20 · Last updated 2026-05-26 · 80k job ID `recykxBLEC0rYDXBG`*
+*Posted 2026-05-20 · Listing synced 2026-05-26 · 80k job ID `recykxBLEC0rYDXBG`*

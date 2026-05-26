@@ -14,13 +14,14 @@ areas:
 
 **[Beijing Academy of AI](https://www.baai.ac.cn/zh-cn)**
 
-- **Location:** Beijing, China, China, Asia
-- **Role type:** Full-time
-- **Experience:** Junior (1-4 years experience)
-- **Degree:** Master's degree
+<dl class="job-meta">
+<dt>Location</dt><dd>Beijing, China, China, Asia</dd>
+<dt>Role type</dt><dd>Full-time</dd>
+<dt>Experience</dt><dd>Junior (1-4 years experience)</dd>
+<dt>Degree</dt><dd>Master's degree</dd>
+</dl>
 
-## Tags
-AI safety & policy, Information security
+**Areas & skills:** AI safety & policy, Information security
 
 ## Summary
 - In this role, you'll establish risk identification and governance systems for large model security algorithms across various scenarios.
@@ -29,7 +30,7 @@ AI safety & policy, Information security
 - Research long-term risks emerging from rapid model capability improvements.
 - Address new risks derived from applying large models to complex systems, tools, and decision-making capabilities.
 
-[Apply →](https://app.mokahr.com/social-recruitment/baai/42173#/job/26b00c10-dc86-43e9-b8fb-8e4b4c85c28a)
+<p class="apply-cta"><a href="https://app.mokahr.com/social-recruitment/baai/42173#/job/26b00c10-dc86-43e9-b8fb-8e4b4c85c28a">Apply →</a></p>
 
 ---
-*Posted 2022-01-06 · Last updated 2026-05-26 · 80k job ID `recs3W6jhPfRBQzCV`*
+*Posted 2022-01-06 · Listing synced 2026-05-26 · 80k job ID `recs3W6jhPfRBQzCV`*

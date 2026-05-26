@@ -14,13 +14,14 @@ areas:
 
 **[Massachusetts Institute of Technology, FutureTech](https://futuretech.mit.edu/)**
 
-- **Location:** Boston metro area, USA
-- **Role type:** Full-time
-- **Experience:** Entry-level
-- **Degree:** Doctoral degree
+<dl class="job-meta">
+<dt>Location</dt><dd>Boston metro area, USA</dd>
+<dt>Role type</dt><dd>Full-time</dd>
+<dt>Experience</dt><dd>Entry-level</dd>
+<dt>Degree</dt><dd>Doctoral degree</dd>
+</dl>
 
-## Tags
-AI safety & policy, Research, Software engineering
+**Areas & skills:** AI safety & policy, Research, Software engineering
 
 ## Summary
 - In this role, you'll conduct cutting-edge empirical research to understand and guide the behavior of advanced AI systems at MIT FutureTech.
@@ -29,7 +30,7 @@ AI safety & policy, Research, Software engineering
 - Build tools and frameworks for assessing AI alignment techniques.
 - Collaborate with interdisciplinary teams to integrate AI safety insights into research and policy recommendations.
 
-[Apply →](https://futuretech.mit.edu/opportunities/postdoctoral-associate---ai-performance-and-safety)
+<p class="apply-cta"><a href="https://futuretech.mit.edu/opportunities/postdoctoral-associate---ai-performance-and-safety">Apply →</a></p>
 
 ---
-*Posted 2022-01-06 · Last updated 2026-05-26 · 80k job ID `recLAtRlVrb3Ux6uu`*
+*Posted 2022-01-06 · Listing synced 2026-05-26 · 80k job ID `recLAtRlVrb3Ux6uu`*

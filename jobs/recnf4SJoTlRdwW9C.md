@@ -14,14 +14,15 @@ areas:
 
 **[ERA](https://erafellowship.org/)**
 
-- **Location:** Cambridge, UK, UK, UK (Confirmed Visas)
-- **Role type:** Full-time
-- **Experience:** Mid (5-9 years experience), Senior (10+ years experience)
-- **Degree:** Undergraduate degree or less
-- **Salary:** $107,585 – $134,481
+<dl class="job-meta">
+<dt>Location</dt><dd>Cambridge, UK, UK, UK (Confirmed Visas)</dd>
+<dt>Role type</dt><dd>Full-time</dd>
+<dt>Experience</dt><dd>Mid (5-9 years experience), Senior (10+ years experience)</dd>
+<dt>Degree</dt><dd>Undergraduate degree or less</dd>
+<dt>Salary</dt><dd>$107,585 – $134,481</dd>
+</dl>
 
-## Tags
-AI safety & policy, Operations, Management
+**Areas & skills:** AI safety & policy, Operations, Management
 
 ## Summary
 - In this role, you'll establish operational strategy and lead ERA's transformation to a structured 15–20 person organisation.
@@ -30,7 +31,7 @@ AI safety & policy, Operations, Management
 - Lead and develop the operations team, mentor junior staff, and help set ERA's culture as it scales.
 - Manage HR operations, visa compliance, sponsor licence obligations, and risk management frameworks.
 
-[Apply →](https://docs.google.com/document/d/146aHIPBkHSCQiIb4IYXHO9SrM4uPE5QTUcj58gMyTjY/edit?tab=t.0#heading=h.fk3c44ady1v)
+<p class="apply-cta"><a href="https://docs.google.com/document/d/146aHIPBkHSCQiIb4IYXHO9SrM4uPE5QTUcj58gMyTjY/edit?tab=t.0#heading=h.fk3c44ady1v">Apply →</a></p>
 
 ---
-*Posted 2026-05-18 · Last updated 2026-05-26 · 80k job ID `recnf4SJoTlRdwW9C`*
+*Posted 2026-05-18 · Listing synced 2026-05-26 · 80k job ID `recnf4SJoTlRdwW9C`*

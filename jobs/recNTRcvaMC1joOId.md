@@ -14,14 +14,15 @@ areas:
 
 **[Lila Sciences](https://www.lila.ai/)**
 
-- **Location:** San Francisco Bay Area, Boston metro area, USA
-- **Role type:** Full-time
-- **Experience:** Mid (5-9 years experience)
-- **Degree:** Undergraduate degree or less
-- **Salary:** $192,000 – $272,000
+<dl class="job-meta">
+<dt>Location</dt><dd>San Francisco Bay Area, Boston metro area, USA</dd>
+<dt>Role type</dt><dd>Full-time</dd>
+<dt>Experience</dt><dd>Mid (5-9 years experience)</dd>
+<dt>Degree</dt><dd>Undergraduate degree or less</dd>
+<dt>Salary</dt><dd>$192,000 – $272,000</dd>
+</dl>
 
-## Tags
-AI safety & policy, Operations
+**Areas & skills:** AI safety & policy, Operations
 
 ## Summary
 - In this role, you'll connect researchers, engineers, and leadership, translating complex AI safety programs into structured execution.
@@ -30,7 +31,7 @@ AI safety & policy, Operations
 - Implement best practices for rapid experimentation and iteration to advance program momentum.
 - Develop clear documentation and status reporting that accurately represent vision, progress, and emerging risks.
 
-[Apply →](https://job-boards.greenhouse.io/lilasciences/jobs/4229239009)
+<p class="apply-cta"><a href="https://job-boards.greenhouse.io/lilasciences/jobs/4229239009">Apply →</a></p>
 
 ---
-*Posted 2026-04-27 · Last updated 2026-05-26 · 80k job ID `recNTRcvaMC1joOId`*
+*Posted 2026-04-27 · Listing synced 2026-05-26 · 80k job ID `recNTRcvaMC1joOId`*

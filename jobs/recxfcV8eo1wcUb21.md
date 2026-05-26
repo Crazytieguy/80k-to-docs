@@ -15,14 +15,14 @@ areas:
 
 **[Institute for Progress](https://progress.institute/)**
 
-- **Location:** Remote, Global
-- **Role type:** Funding
-- **Experience:** Multiple experience levels
-- **Degree:** Undergraduate degree or less
-- **Location type:** Remote
+<dl class="job-meta">
+<dt>Location</dt><dd>Remote, Global</dd>
+<dt>Role type</dt><dd>Funding</dd>
+<dt>Experience</dt><dd>Multiple experience levels</dd>
+<dt>Degree</dt><dd>Undergraduate degree or less</dd>
+</dl>
 
-## Tags
-AI safety & policy, Biosecurity & pandemic preparedness, Research, Policy, Strategy
+**Areas & skills:** AI safety & policy, Biosecurity & pandemic preparedness, Research, Policy, Strategy
 
 ## Summary
 - Submit a proposal to contribute to The Launch Sequence, an initiative to develop projects that prepare the world for advanced AI.
@@ -31,7 +31,7 @@ AI safety & policy, Biosecurity & pandemic preparedness, Research, Policy, Strat
 - Connect with philanthropic funders and potential co-founders or co-leads to implement the published project plans.
 - Focus on projects that address market failures or policy gaps related to AI progress.
 
-[Apply →](https://ifp.org/rfp-launch/)
+<p class="apply-cta"><a href="https://ifp.org/rfp-launch/">Apply →</a></p>
 
 ---
-*Posted 2026-05-15 · Last updated 2026-05-26 · 80k job ID `recxfcV8eo1wcUb21`*
+*Posted 2026-05-15 · Listing synced 2026-05-26 · 80k job ID `recxfcV8eo1wcUb21`*

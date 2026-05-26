@@ -14,14 +14,15 @@ areas:
 
 **[UK Government, AI Security Institute](https://www.aisi.gov.uk/)**
 
-- **Location:** London, UK, UK, UK (Confirmed Visas)
-- **Role type:** Full-time
-- **Experience:** Entry-level
-- **Degree:** Undergraduate degree or less
-- **Salary:** $87,413 – $100,861
+<dl class="job-meta">
+<dt>Location</dt><dd>London, UK, UK, UK (Confirmed Visas)</dd>
+<dt>Role type</dt><dd>Full-time</dd>
+<dt>Experience</dt><dd>Entry-level</dd>
+<dt>Degree</dt><dd>Undergraduate degree or less</dd>
+<dt>Salary</dt><dd>$87,413 – $100,861</dd>
+</dl>
 
-## Tags
-AI safety & policy, Research
+**Areas & skills:** AI safety & policy, Research
 
 ## Summary
 - In this role, you'll design and run large-scale studies examining how frontier AI systems influence human attitudes and behaviour.
@@ -30,7 +31,7 @@ AI safety & policy, Research
 - Develop research methodologies integrating computational social science, AI safety, and behavioural science approaches.
 - Contribute findings to peer-reviewed publications advancing understanding of AI's societal impacts.
 
-[Apply →](https://job-boards.eu.greenhouse.io/aisi/jobs/4846804101)
+<p class="apply-cta"><a href="https://job-boards.eu.greenhouse.io/aisi/jobs/4846804101">Apply →</a></p>
 
 ---
-*Posted 2026-04-29 · Last updated 2026-05-26 · 80k job ID `recTuP3f9Be2ECJwr`*
+*Posted 2026-04-29 · Listing synced 2026-05-26 · 80k job ID `recTuP3f9Be2ECJwr`*

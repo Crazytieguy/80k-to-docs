@@ -9,3 +9,4 @@ state/jobs.json.tmp
 
 # OS noise
 .DS_Store
+.playwright-cli/

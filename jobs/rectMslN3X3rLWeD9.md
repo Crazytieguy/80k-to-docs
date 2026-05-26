@@ -14,15 +14,15 @@ areas:
 
 **[Center for AI Risk Management and Alignment](https://carma.org/)**
 
-- **Location:** Remote, Global
-- **Role type:** Full-time
-- **Experience:** Mid (5-9 years experience)
-- **Degree:** Master's degree
-- **Salary:** $125,000 – $200,000
-- **Location type:** Remote
+<dl class="job-meta">
+<dt>Location</dt><dd>Remote, Global</dd>
+<dt>Role type</dt><dd>Full-time</dd>
+<dt>Experience</dt><dd>Mid (5-9 years experience)</dd>
+<dt>Degree</dt><dd>Master's degree</dd>
+<dt>Salary</dt><dd>$125,000 – $200,000</dd>
+</dl>
 
-## Tags
-AI safety & policy, Research
+**Areas & skills:** AI safety & policy, Research
 
 ## Summary
 - In this role, you'll lead research on offense-defense dynamics of advanced AI systems, examining how AI technologies influence societal safety or amplify risks.
@@ -30,7 +30,7 @@ AI safety & policy, Research
 - Expand our offense/defense dynamics taxonomy, creating metrics to predict whether AI features favor offensive or defensive applications.
 - Design analytical models to identify policy intervention points that could shift offense-defense balances toward safer outcomes.
 
-[Apply →](https://jobs.lever.co/futureof-life/bbd4da5f-322b-449a-b839-41da13862ca8)
+<p class="apply-cta"><a href="https://jobs.lever.co/futureof-life/bbd4da5f-322b-449a-b839-41da13862ca8">Apply →</a></p>
 
 ---
-*Posted 2022-01-05 · Last updated 2026-05-26 · 80k job ID `rectMslN3X3rLWeD9`*
+*Posted 2022-01-05 · Listing synced 2026-05-26 · 80k job ID `rectMslN3X3rLWeD9`*

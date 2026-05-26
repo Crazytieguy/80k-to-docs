@@ -14,15 +14,15 @@ areas:
 
 **[FAR AI](https://far.ai/)**
 
-- **Location:** San Francisco Bay Area, Remote, Global, Remote, USA, USA
-- **Role type:** Full-time
-- **Experience:** Junior (1-4 years experience), Mid (5-9 years experience)
-- **Degree:** Undergraduate degree or less
-- **Salary:** $110,000 – $140,000
-- **Location type:** Remote
+<dl class="job-meta">
+<dt>Location</dt><dd>San Francisco Bay Area, Remote, Global, Remote, USA, USA</dd>
+<dt>Role type</dt><dd>Full-time</dd>
+<dt>Experience</dt><dd>Junior (1-4 years experience), Mid (5-9 years experience)</dd>
+<dt>Degree</dt><dd>Undergraduate degree or less</dd>
+<dt>Salary</dt><dd>$110,000 – $140,000</dd>
+</dl>
 
-## Tags
-AI safety & policy, Operations
+**Areas & skills:** AI safety & policy, Operations
 
 ## Summary
 - In this role, you'll drive full-cycle recruiting to scale FAR.AI as the organization's first in-house recruiter.
@@ -31,7 +31,7 @@ AI safety & policy, Operations
 - Proactively source candidates using diverse channels and techniques, particularly for hard-to-fill positions.
 - Build and continuously improve recruiting processes, documentation, and candidate experience foundations.
 
-[Apply →](https://jobs.ashbyhq.com/far.ai/ee69dd15-b492-48fb-93ce-853e669d2296?embed=js)
+<p class="apply-cta"><a href="https://jobs.ashbyhq.com/far.ai/ee69dd15-b492-48fb-93ce-853e669d2296?embed=js">Apply →</a></p>
 
 ---
-*Posted 2026-03-17 · Last updated 2026-05-26 · 80k job ID `recminrlfOlrxq2I9`*
+*Posted 2026-03-17 · Listing synced 2026-05-26 · 80k job ID `recminrlfOlrxq2I9`*

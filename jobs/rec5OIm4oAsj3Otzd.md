@@ -14,14 +14,15 @@ areas:
 
 **[Arq Foundation](https://www.arq.foundation/)**
 
-- **Location:** Brussels, Belgium, Belgium, Europe (ex UK)
-- **Role type:** Full-time
-- **Experience:** Junior (1-4 years experience)
-- **Degree:** Undergraduate degree or less
-- **Salary:** $46,513 – $69,769
+<dl class="job-meta">
+<dt>Location</dt><dd>Brussels, Belgium, Belgium, Europe (ex UK)</dd>
+<dt>Role type</dt><dd>Full-time</dd>
+<dt>Experience</dt><dd>Junior (1-4 years experience)</dd>
+<dt>Degree</dt><dd>Undergraduate degree or less</dd>
+<dt>Salary</dt><dd>$46,513 – $69,769</dd>
+</dl>
 
-## Tags
-AI safety & policy, Operations
+**Areas & skills:** AI safety & policy, Operations
 
 ## Summary
 - In this role, you'll own event logistics for Arq's policy convenings and support the policy team's external engagement.
@@ -30,7 +31,7 @@ AI safety & policy, Operations
 - Support guest list strategy, stakeholder follow-ups, and prepare materials for senior policy meetings.
 - Maintain stakeholder records and attend internal discussions to build understanding of Arq's policy work.
 
-[Apply →](https://www.arq.foundation/careers/events-associate)
+<p class="apply-cta"><a href="https://www.arq.foundation/careers/events-associate">Apply →</a></p>
 
 ---
-*Posted 2026-05-25 · Last updated 2026-05-26 · 80k job ID `rec5OIm4oAsj3Otzd`*
+*Posted 2026-05-25 · Listing synced 2026-05-26 · 80k job ID `rec5OIm4oAsj3Otzd`*

@@ -14,14 +14,15 @@ areas:
 
 **[Meridian Labs](https://meridianlabs.ai/)**
 
-- **Location:** Boston metro area, USA
-- **Role type:** Full-time
-- **Experience:** Mid (5-9 years experience)
-- **Degree:** Undergraduate degree or less
-- **Salary:** $150,000 – $225,000
+<dl class="job-meta">
+<dt>Location</dt><dd>Boston metro area, USA</dd>
+<dt>Role type</dt><dd>Full-time</dd>
+<dt>Experience</dt><dd>Mid (5-9 years experience)</dd>
+<dt>Degree</dt><dd>Undergraduate degree or less</dd>
+<dt>Salary</dt><dd>$150,000 – $225,000</dd>
+</dl>
 
-## Tags
-AI safety & policy, Software engineering
+**Areas & skills:** AI safety & policy, Software engineering
 
 ## Summary
 - In this role, you'll build front-end interfaces for an open source LLM evaluation platform, helping researchers turn complex evaluation data into actionable insights.
@@ -30,7 +31,7 @@ AI safety & policy, Software engineering
 - Collaborate with engineers and gather feedback from external users to inform product direction.
 - Participate in the open source community by reviewing PRs and engaging contributors.
 
-[Apply →](https://meridianlabs.ai/careers/senior-fe)
+<p class="apply-cta"><a href="https://meridianlabs.ai/careers/senior-fe">Apply →</a></p>
 
 ---
-*Posted 2026-05-13 · Last updated 2026-05-26 · 80k job ID `recGrRH58Lgtdr5z8`*
+*Posted 2026-05-13 · Listing synced 2026-05-26 · 80k job ID `recGrRH58Lgtdr5z8`*

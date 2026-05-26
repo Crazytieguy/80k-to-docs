@@ -14,13 +14,14 @@ areas:
 
 **[LawZero](https://lawzero.org/en)**
 
-- **Location:** Montreal, Canada, Canada
-- **Role type:** Full-time
-- **Experience:** Mid (5-9 years experience)
-- **Degree:** Undergraduate degree or less
+<dl class="job-meta">
+<dt>Location</dt><dd>Montreal, Canada, Canada</dd>
+<dt>Role type</dt><dd>Full-time</dd>
+<dt>Experience</dt><dd>Mid (5-9 years experience)</dd>
+<dt>Degree</dt><dd>Undergraduate degree or less</dd>
+</dl>
 
-## Tags
-AI safety & policy, Operations, Information security
+**Areas & skills:** AI safety & policy, Operations, Information security
 
 ## Summary
 - In this role, you'll manage on-premise and cloud computing environments, ensuring availability, security, and performance of GPU infrastructure.
@@ -29,7 +30,7 @@ AI safety & policy, Operations, Information security
 - Maintain systems and storage security through hardening measures and best practices.
 - Investigate technical issues, propose improvements, and maintain monitoring systems.
 
-[Apply →](https://job-boards.greenhouse.io/lawzero/jobs/4248406009)
+<p class="apply-cta"><a href="https://job-boards.greenhouse.io/lawzero/jobs/4248406009">Apply →</a></p>
 
 ---
-*Posted 2026-05-15 · Last updated 2026-05-26 · 80k job ID `rec0hphptOtdIliel`*
+*Posted 2026-05-15 · Listing synced 2026-05-26 · 80k job ID `rec0hphptOtdIliel`*

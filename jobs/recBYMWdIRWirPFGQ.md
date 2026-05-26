@@ -14,14 +14,15 @@ areas:
 
 **[Tarbell Center for AI Journalism](https://www.tarbellcenter.org/)**
 
-- **Location:** London, UK, Washington, DC metro area, San Francisco Bay Area, New York, NY, UK, USA
-- **Role type:** Full-time
-- **Experience:** Junior (1-4 years experience)
-- **Degree:** Undergraduate degree or less
-- **Salary:** $72,000 – $128,000
+<dl class="job-meta">
+<dt>Location</dt><dd>London, UK, Washington, DC metro area, San Francisco Bay Area, New York, NY, UK, USA</dd>
+<dt>Role type</dt><dd>Full-time</dd>
+<dt>Experience</dt><dd>Junior (1-4 years experience)</dd>
+<dt>Degree</dt><dd>Undergraduate degree or less</dd>
+<dt>Salary</dt><dd>$72,000 – $128,000</dd>
+</dl>
 
-## Tags
-AI safety & policy, Finance
+**Areas & skills:** AI safety & policy, Finance
 
 ## Summary
 - In this role, you'll manage financial operations and build scalable systems to support budget growth from $4M to $14M over two years.
@@ -30,7 +31,7 @@ AI safety & policy, Finance
 - Produce monthly financial reports, support annual budgeting and forecasting, and manage audit and compliance obligations.
 - Build standardised financial processes, controls, and approval workflows for organisational growth.
 
-[Apply →](https://www.tarbellcenter.org/careers/finance-associate)
+<p class="apply-cta"><a href="https://www.tarbellcenter.org/careers/finance-associate">Apply →</a></p>
 
 ---
-*Posted 2026-05-26 · Last updated 2026-05-26 · 80k job ID `recBYMWdIRWirPFGQ`*
+*Posted 2026-05-26 · Listing synced 2026-05-26 · 80k job ID `recBYMWdIRWirPFGQ`*

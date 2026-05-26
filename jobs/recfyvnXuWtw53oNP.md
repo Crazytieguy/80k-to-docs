@@ -14,14 +14,15 @@ areas:
 
 **[Haize Labs](https://haizelabs.com/)**
 
-- **Location:** New York, NY, USA, USA (Confirmed Visas)
-- **Role type:** Full-time
-- **Experience:** Mid (5-9 years experience)
-- **Degree:** Undergraduate degree or less
-- **Salary:** $150,000 – $600,000
+<dl class="job-meta">
+<dt>Location</dt><dd>New York, NY, USA, USA (Confirmed Visas)</dd>
+<dt>Role type</dt><dd>Full-time</dd>
+<dt>Experience</dt><dd>Mid (5-9 years experience)</dd>
+<dt>Degree</dt><dd>Undergraduate degree or less</dd>
+<dt>Salary</dt><dd>$150,000 – $600,000</dd>
+</dl>
 
-## Tags
-AI safety & policy, Research, Software engineering, Information security
+**Areas & skills:** AI safety & policy, Research, Software engineering, Information security
 
 ## Summary
 - In this role, you'll help develop fundamental safety tooling for LLMs.
@@ -30,7 +31,7 @@ AI safety & policy, Research, Software engineering, Information security
 - Work directly with customers to adapt our tools for different domains.
 - Build out infrastructure, cloud tooling, and user experience around our core algorithms.
 
-[Apply →](https://job-boards.greenhouse.io/haizelabs/jobs/4070038008)
+<p class="apply-cta"><a href="https://job-boards.greenhouse.io/haizelabs/jobs/4070038008">Apply →</a></p>
 
 ---
-*Posted 2022-01-05 · Last updated 2026-05-26 · 80k job ID `recfyvnXuWtw53oNP`*
+*Posted 2022-01-05 · Listing synced 2026-05-26 · 80k job ID `recfyvnXuWtw53oNP`*

@@ -14,15 +14,15 @@ areas:
 
 **[Sage](https://sage-future.org/)**
 
-- **Location:** Remote, Global
-- **Role type:** Full-time
-- **Experience:** Junior (1-4 years experience)
-- **Degree:** Undergraduate degree or less
-- **Salary:** $150,000 – $200,000
-- **Location type:** Remote
+<dl class="job-meta">
+<dt>Location</dt><dd>Remote, Global</dd>
+<dt>Role type</dt><dd>Full-time</dd>
+<dt>Experience</dt><dd>Junior (1-4 years experience)</dd>
+<dt>Degree</dt><dd>Undergraduate degree or less</dd>
+<dt>Salary</dt><dd>$150,000 – $200,000</dd>
+</dl>
 
-## Tags
-AI safety & policy, Software engineering
+**Areas & skills:** AI safety & policy, Software engineering
 
 ## Summary
 - In this role, you'll help build and study the AI Village, an AI agent project, demonstrating the frontier of long-horizon agentic capabilities.
@@ -31,7 +31,7 @@ AI safety & policy, Software engineering
 - Design new challenges and tools to enhance agent capabilities.
 - Develop evaluation frameworks to test and analyze agent performance.
 
-[Apply →](https://theaidigest.org/hiring)
+<p class="apply-cta"><a href="https://theaidigest.org/hiring">Apply →</a></p>
 
 ---
-*Posted 2022-01-06 · Last updated 2026-05-26 · 80k job ID `receat4uE1uXa92N4`*
+*Posted 2022-01-06 · Listing synced 2026-05-26 · 80k job ID `receat4uE1uXa92N4`*

@@ -14,14 +14,15 @@ areas:
 
 **[MATS Research](https://www.matsprogram.org/)**
 
-- **Location:** London, UK, San Francisco Bay Area, UK, USA, USA (Confirmed Visas), UK (Confirmed Visas)
-- **Role type:** Full-time
-- **Experience:** Junior (1-4 years experience), Mid (5-9 years experience)
-- **Degree:** Undergraduate degree or less
-- **Salary:** $130,000 – $200,000
+<dl class="job-meta">
+<dt>Location</dt><dd>London, UK, San Francisco Bay Area, UK, USA, USA (Confirmed Visas), UK (Confirmed Visas)</dd>
+<dt>Role type</dt><dd>Full-time</dd>
+<dt>Experience</dt><dd>Junior (1-4 years experience), Mid (5-9 years experience)</dd>
+<dt>Degree</dt><dd>Undergraduate degree or less</dd>
+<dt>Salary</dt><dd>$130,000 – $200,000</dd>
+</dl>
 
-## Tags
-AI technical safety, Research, Management
+**Areas & skills:** AI technical safety, Research, Management
 
 ## Summary
 - In this role, you'll accelerate and guide AI safety researchers, facilitating high-impact projects and contributing to the success of the MATS program.
@@ -30,7 +31,7 @@ AI technical safety, Research, Management
 - Connect scholars with relevant resources and domain experts to support their research.
 - Contribute to MATS strategic planning by spearheading internal projects and improving program infrastructure.
 
-[Apply →](https://www.matsprogram.org/careers/research-manager-berkeley-london)
+<p class="apply-cta"><a href="https://www.matsprogram.org/careers/research-manager-berkeley-london">Apply →</a></p>
 
 ---
-*Posted 2022-01-06 · Last updated 2026-05-26 · 80k job ID `recwwJQ6YizzVMtbi`*
+*Posted 2022-01-06 · Listing synced 2026-05-26 · 80k job ID `recwwJQ6YizzVMtbi`*

@@ -14,14 +14,15 @@ areas:
 
 **[xAI](https://x.ai/)**
 
-- **Location:** San Francisco Bay Area, USA
-- **Role type:** Full-time
-- **Experience:** Junior (1-4 years experience)
-- **Degree:** Undergraduate degree or less
-- **Salary:** $180,000 – $440,000
+<dl class="job-meta">
+<dt>Location</dt><dd>San Francisco Bay Area, USA</dd>
+<dt>Role type</dt><dd>Full-time</dd>
+<dt>Experience</dt><dd>Junior (1-4 years experience)</dd>
+<dt>Degree</dt><dd>Undergraduate degree or less</dd>
+<dt>Salary</dt><dd>$180,000 – $440,000</dd>
+</dl>
 
-## Tags
-AI safety & policy, Software engineering, Information security
+**Areas & skills:** AI safety & policy, Software engineering, Information security
 
 ## Summary
 - In this role, you'll serve as a subject matter expert in network security, focusing on firewalls, VPNs, and routing/switching technologies within cloud-native AI infrastructure.
@@ -30,7 +31,7 @@ AI safety & policy, Software engineering, Information security
 - Monitor and respond to security events in cloud environments with emphasis on network traffic analysis.
 - Enhance security processes through documentation and resolve complex network security issues.
 
-[Apply →](https://job-boards.greenhouse.io/xai/jobs/4800712007)
+<p class="apply-cta"><a href="https://job-boards.greenhouse.io/xai/jobs/4800712007">Apply →</a></p>
 
 ---
-*Posted 2022-01-06 · Last updated 2026-05-26 · 80k job ID `recm1R8h1iVFok4ju`*
+*Posted 2022-01-06 · Listing synced 2026-05-26 · 80k job ID `recm1R8h1iVFok4ju`*

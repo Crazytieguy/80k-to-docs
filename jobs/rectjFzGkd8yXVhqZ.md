@@ -14,14 +14,15 @@ areas:
 
 **[Center for AI Safety](https://www.cais.ai/)**
 
-- **Location:** San Francisco Bay Area, USA
-- **Role type:** Full-time
-- **Experience:** Mid (5-9 years experience), Senior (10+ years experience)
-- **Degree:** Undergraduate degree or less
-- **Salary:** $90,000 – $150,000
+<dl class="job-meta">
+<dt>Location</dt><dd>San Francisco Bay Area, USA</dd>
+<dt>Role type</dt><dd>Full-time</dd>
+<dt>Experience</dt><dd>Mid (5-9 years experience), Senior (10+ years experience)</dd>
+<dt>Degree</dt><dd>Undergraduate degree or less</dd>
+<dt>Salary</dt><dd>$90,000 – $150,000</dd>
+</dl>
 
-## Tags
-AI safety & policy, Operations
+**Areas & skills:** AI safety & policy, Operations
 
 ## Summary
 - In this role, you'll serve as the operational backbone of the Public Engagement team, managing workflows and metrics to enable strategic execution.
@@ -30,7 +31,7 @@ AI safety & policy, Operations
 - Manage review workflows, approval processes, vendor coordination, and planning meetings.
 - Identify operational bottlenecks and implement solutions to increase team throughput.
 
-[Apply →](https://jobs.lever.co/aisafety/02e2df24-49d8-4d99-970f-4f7e98900133)
+<p class="apply-cta"><a href="https://jobs.lever.co/aisafety/02e2df24-49d8-4d99-970f-4f7e98900133">Apply →</a></p>
 
 ---
-*Posted 2022-01-11 · Last updated 2026-05-26 · 80k job ID `rectjFzGkd8yXVhqZ`*
+*Posted 2022-01-11 · Listing synced 2026-05-26 · 80k job ID `rectjFzGkd8yXVhqZ`*

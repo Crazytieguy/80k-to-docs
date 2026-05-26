@@ -14,14 +14,15 @@ areas:
 
 **[Center for AI Safety](https://www.cais.ai/)**
 
-- **Location:** San Francisco Bay Area, USA
-- **Role type:** Full-time
-- **Experience:** Mid (5-9 years experience)
-- **Degree:** Undergraduate degree or less
-- **Salary:** $100,000 – $170,000
+<dl class="job-meta">
+<dt>Location</dt><dd>San Francisco Bay Area, USA</dd>
+<dt>Role type</dt><dd>Full-time</dd>
+<dt>Experience</dt><dd>Mid (5-9 years experience)</dd>
+<dt>Degree</dt><dd>Undergraduate degree or less</dd>
+<dt>Salary</dt><dd>$100,000 – $170,000</dd>
+</dl>
 
-## Tags
-AI safety & policy, Outreach
+**Areas & skills:** AI safety & policy, Outreach
 
 ## Summary
 - In this role, you'll own social media strategy across X, LinkedIn, and emerging platforms to drive public awareness of AI safety.
@@ -30,7 +31,7 @@ AI safety & policy, Outreach
 - Engage in real-time during major news cycles to capitalise on trending discussions.
 - Track platform analytics and optimise content strategy for maximum reach and resonance.
 
-[Apply →](https://jobs.lever.co/aisafety/dcf06dac-ee0a-4191-8d71-d44686fbc5d5)
+<p class="apply-cta"><a href="https://jobs.lever.co/aisafety/dcf06dac-ee0a-4191-8d71-d44686fbc5d5">Apply →</a></p>
 
 ---
-*Posted 2022-01-11 · Last updated 2026-05-26 · 80k job ID `recNxaanRcUzNNxyK`*
+*Posted 2022-01-11 · Listing synced 2026-05-26 · 80k job ID `recNxaanRcUzNNxyK`*

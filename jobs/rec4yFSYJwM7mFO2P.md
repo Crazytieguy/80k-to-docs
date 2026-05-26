@@ -15,14 +15,14 @@ areas:
 
 **[Johns Hopkins University, Center for Health Security](https://www.centerforhealthsecurity.org/)**
 
-- **Location:** Washington, DC metro area, Remote, Global, USA
-- **Role type:** Full-time
-- **Experience:** Multiple experience levels
-- **Degree:** Master's degree
-- **Location type:** Remote
+<dl class="job-meta">
+<dt>Location</dt><dd>Washington, DC metro area, Remote, Global, USA</dd>
+<dt>Role type</dt><dd>Full-time</dd>
+<dt>Experience</dt><dd>Multiple experience levels</dd>
+<dt>Degree</dt><dd>Master's degree</dd>
+</dl>
 
-## Tags
-AI safety & policy, Biosecurity & pandemic preparedness, Research
+**Areas & skills:** AI safety & policy, Biosecurity & pandemic preparedness, Research
 
 ## Summary
 - In this role, you'll conduct research on biosecurity topics including AI for biology, biosafety of AI, resilience approaches, and dual-use synthetic biology.
@@ -31,7 +31,7 @@ AI safety & policy, Biosecurity & pandemic preparedness, Research
 - Contribute to public research publications and non-public projects.
 - Develop expertise at the intersection of emerging technologies and biosecurity.
 
-[Apply →](https://forms.gle/q7iwQB2VvurjMiT4A)
+<p class="apply-cta"><a href="https://forms.gle/q7iwQB2VvurjMiT4A">Apply →</a></p>
 
 ---
-*Posted 2022-01-13 · Last updated 2026-05-26 · 80k job ID `rec4yFSYJwM7mFO2P`*
+*Posted 2022-01-13 · Listing synced 2026-05-26 · 80k job ID `rec4yFSYJwM7mFO2P`*

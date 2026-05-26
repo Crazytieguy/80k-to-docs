@@ -14,13 +14,14 @@ areas:
 
 **[Hasso Plattner Institute](https://hpi.de/)**
 
-- **Location:** Potsdam, Germany, Germany, Europe (ex UK)
-- **Role type:** Full-time
-- **Experience:** Entry-level
-- **Degree:** Doctoral degree
+<dl class="job-meta">
+<dt>Location</dt><dd>Potsdam, Germany, Germany, Europe (ex UK)</dd>
+<dt>Role type</dt><dd>Full-time</dd>
+<dt>Experience</dt><dd>Entry-level</dd>
+<dt>Degree</dt><dd>Doctoral degree</dd>
+</dl>
 
-## Tags
-AI safety & policy, Research, Policy, Legal
+**Areas & skills:** AI safety & policy, Research, Policy, Legal
 
 ## Summary
 - In this role, you'll conduct interdisciplinary research on technology regulation, AI ethics, and societal impacts of emerging technologies.
@@ -29,7 +30,7 @@ AI safety & policy, Research, Policy, Legal
 - Support teaching and mentor Bachelor, Master, and doctoral students.
 - Collaborate with international researchers and engage stakeholders on knowledge transfer with policymakers, NGOs, and industry.
 
-[Apply →](https://jobs.plattnerfoundation.org/HPI/job/Potsdam-Postdoctoral-Researcher-%28mfx%29-in-Technology-and-Regulation-14482/1351473055/)
+<p class="apply-cta"><a href="https://jobs.plattnerfoundation.org/HPI/job/Potsdam-Postdoctoral-Researcher-%28mfx%29-in-Technology-and-Regulation-14482/1351473055/">Apply →</a></p>
 
 ---
-*Posted 2026-05-11 · Last updated 2026-05-26 · 80k job ID `recqCZrG1fm3dQlan`*
+*Posted 2026-05-11 · Listing synced 2026-05-26 · 80k job ID `recqCZrG1fm3dQlan`*

@@ -14,13 +14,14 @@ areas:
 
 **[OpenAI](https://openai.com/)**
 
-- **Location:** London, UK, Dublin, Ireland, UK, Europe (ex UK), Ireland
-- **Role type:** Full-time
-- **Experience:** Mid (5-9 years experience)
-- **Degree:** Undergraduate degree or less
+<dl class="job-meta">
+<dt>Location</dt><dd>London, UK, Dublin, Ireland, UK, Europe (ex UK), Ireland</dd>
+<dt>Role type</dt><dd>Full-time</dd>
+<dt>Experience</dt><dd>Mid (5-9 years experience)</dd>
+<dt>Degree</dt><dd>Undergraduate degree or less</dd>
+</dl>
 
-## Tags
-AI safety & policy, Software engineering, Information security
+**Areas & skills:** AI safety & policy, Software engineering, Information security
 
 ## Summary
 - In this role, you'll protect OpenAI's sensitive assets by building detection systems to identify and respond to security threats.
@@ -29,7 +30,7 @@ AI safety & policy, Software engineering, Information security
 - Automate response workflows to reduce investigation time and improve threat containment.
 - Define security requirements across endpoints, cloud, and Kubernetes environments.
 
-[Apply →](https://openai.com/careers/security-engineer-detection-and-response-emea-london-uk/)
+<p class="apply-cta"><a href="https://openai.com/careers/security-engineer-detection-and-response-emea-london-uk/">Apply →</a></p>
 
 ---
-*Posted 2022-01-11 · Last updated 2026-05-26 · 80k job ID `recY7yuxJEB1RMy92`*
+*Posted 2022-01-11 · Listing synced 2026-05-26 · 80k job ID `recY7yuxJEB1RMy92`*

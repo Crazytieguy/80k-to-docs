@@ -14,14 +14,15 @@ areas:
 
 **[UK Government, AI Security Institute](https://www.aisi.gov.uk/)**
 
-- **Location:** London, UK, UK
-- **Role type:** Full-time
-- **Experience:** Mid (5-9 years experience)
-- **Degree:** Undergraduate degree or less
-- **Salary:** $141,205 – $194,998
+<dl class="job-meta">
+<dt>Location</dt><dd>London, UK, UK</dd>
+<dt>Role type</dt><dd>Full-time</dd>
+<dt>Experience</dt><dd>Mid (5-9 years experience)</dd>
+<dt>Degree</dt><dd>Undergraduate degree or less</dd>
+<dt>Salary</dt><dd>$141,205 – $194,998</dd>
+</dl>
 
-## Tags
-AI safety & policy, Research, Information security, Management
+**Areas & skills:** AI safety & policy, Research, Information security, Management
 
 ## Summary
 - In this role, you'll lead the Control sub-team, driving research strategy and managing scientists who stress-test AI control measures.
@@ -30,7 +31,7 @@ AI safety & policy, Research, Information security, Management
 - Perform adversarial testing of frontier AI systems and produce impactful reports for deployers.
 - Mentor researchers and serve as key liaison with frontier AI labs and government officials.
 
-[Apply →](https://job-boards.eu.greenhouse.io/aisi/jobs/4784442101)
+<p class="apply-cta"><a href="https://job-boards.eu.greenhouse.io/aisi/jobs/4784442101">Apply →</a></p>
 
 ---
-*Posted 2026-05-11 · Last updated 2026-05-26 · 80k job ID `recTYsxJr4rEPtBZD`*
+*Posted 2026-05-11 · Listing synced 2026-05-26 · 80k job ID `recTYsxJr4rEPtBZD`*

@@ -14,13 +14,14 @@ areas:
 
 **[LawZero](https://lawzero.org/en)**
 
-- **Location:** Montreal, Canada, Canada
-- **Role type:** Internship
-- **Experience:** Entry-level
-- **Degree:** Master's degree
+<dl class="job-meta">
+<dt>Location</dt><dd>Montreal, Canada, Canada</dd>
+<dt>Role type</dt><dd>Internship</dd>
+<dt>Experience</dt><dd>Entry-level</dd>
+<dt>Degree</dt><dd>Master's degree</dd>
+</dl>
 
-## Tags
-AI safety & policy, Research, Software engineering
+**Areas & skills:** AI safety & policy, Research, Software engineering
 
 ## Summary
 - In this role, you'll accelerate applied research and develop machine learning solutions by working closely with ML researchers and domain experts.
@@ -29,7 +30,7 @@ AI safety & policy, Research, Software engineering
 - Establish and maintain best practices documentation for ML model development and training workflows.
 - Adapt research prototypes into production-grade solutions while understanding customer requirements and edge cases.
 
-[Apply →](https://job-boards.greenhouse.io/lawzero/jobs/4249793009)
+<p class="apply-cta"><a href="https://job-boards.greenhouse.io/lawzero/jobs/4249793009">Apply →</a></p>
 
 ---
-*Posted 2026-05-18 · Last updated 2026-05-26 · 80k job ID `rec9WfsfQc6JNfxYd`*
+*Posted 2026-05-18 · Listing synced 2026-05-26 · 80k job ID `rec9WfsfQc6JNfxYd`*

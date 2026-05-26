@@ -14,14 +14,15 @@ areas:
 
 **[UK Government, AI Security Institute](https://www.aisi.gov.uk/)**
 
-- **Location:** London, UK, Manchester, UK, UK
-- **Role type:** Full-time
-- **Experience:** Junior (1-4 years experience), Mid (5-9 years experience)
-- **Degree:** Undergraduate degree or less
-- **Salary:** $76,453 – $92,214
+<dl class="job-meta">
+<dt>Location</dt><dd>London, UK, Manchester, UK, UK</dd>
+<dt>Role type</dt><dd>Full-time</dd>
+<dt>Experience</dt><dd>Junior (1-4 years experience), Mid (5-9 years experience)</dd>
+<dt>Degree</dt><dd>Undergraduate degree or less</dd>
+<dt>Salary</dt><dd>$76,453 – $92,214</dd>
+</dl>
 
-## Tags
-AI safety & policy, Software engineering
+**Areas & skills:** AI safety & policy, Software engineering
 
 ## Summary
 - In this role, you'll build internal products and automations to enable AISI to operate at the speed of frontier AI.
@@ -30,7 +31,7 @@ AI safety & policy, Software engineering
 - Maintain shipped tools through testing, version control, documentation and incident response.
 - Drive adoption across the organisation by training teams and integrating new tooling from AI platforms and the MCP ecosystem.
 
-[Apply →](https://www.civilservicejobs.service.gov.uk/csr/jobs.cgi?jcode=1998288)
+<p class="apply-cta"><a href="https://www.civilservicejobs.service.gov.uk/csr/jobs.cgi?jcode=1998288">Apply →</a></p>
 
 ---
-*Posted 2026-05-21 · Last updated 2026-05-26 · 80k job ID `recGlRZ1RQuQT5gBm`*
+*Posted 2026-05-21 · Listing synced 2026-05-26 · 80k job ID `recGlRZ1RQuQT5gBm`*

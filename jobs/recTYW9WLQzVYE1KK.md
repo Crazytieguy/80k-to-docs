@@ -14,13 +14,14 @@ areas:
 
 **[LawZero](https://lawzero.org/en)**
 
-- **Location:** Montreal, Canada, Canada
-- **Role type:** Full-time
-- **Experience:** Junior (1-4 years experience), Mid (5-9 years experience)
-- **Degree:** Master's degree
+<dl class="job-meta">
+<dt>Location</dt><dd>Montreal, Canada, Canada</dd>
+<dt>Role type</dt><dd>Full-time</dd>
+<dt>Experience</dt><dd>Junior (1-4 years experience), Mid (5-9 years experience)</dd>
+<dt>Degree</dt><dd>Master's degree</dd>
+</dl>
 
-## Tags
-AI safety & policy, Research, Software engineering
+**Areas & skills:** AI safety & policy, Research, Software engineering
 
 ## Summary
 - In this role, you'll design and implement innovative ML models aimed at solving advanced AI safety problems.
@@ -29,7 +30,7 @@ AI safety & policy, Research, Software engineering
 - Adapt and fine-tune frontier models to enhance their applicability to specific settings.
 - Design experimental protocols and evaluation frameworks to validate hypotheses at the scale of frontier models.
 
-[Apply →](https://job-boards.greenhouse.io/lawzero/jobs/4002926009)
+<p class="apply-cta"><a href="https://job-boards.greenhouse.io/lawzero/jobs/4002926009">Apply →</a></p>
 
 ---
-*Posted 2022-01-06 · Last updated 2026-05-26 · 80k job ID `recTYW9WLQzVYE1KK`*
+*Posted 2022-01-06 · Listing synced 2026-05-26 · 80k job ID `recTYW9WLQzVYE1KK`*

@@ -14,14 +14,15 @@ areas:
 
 **[UK Government, AI Security Institute](https://www.aisi.gov.uk/)**
 
-- **Location:** London, UK, UK
-- **Role type:** Full-time
-- **Experience:** Multiple experience levels
-- **Degree:** Undergraduate degree or less
-- **Salary:** $87,413 – $194,998
+<dl class="job-meta">
+<dt>Location</dt><dd>London, UK, UK</dd>
+<dt>Role type</dt><dd>Full-time</dd>
+<dt>Experience</dt><dd>Multiple experience levels</dd>
+<dt>Degree</dt><dd>Undergraduate degree or less</dd>
+<dt>Salary</dt><dd>$87,413 – $194,998</dd>
+</dl>
 
-## Tags
-AI safety & policy, Research, Software engineering
+**Areas & skills:** AI safety & policy, Research, Software engineering
 
 ## Summary
 - In this role, you'll research model transparency to ensure AI oversight remains reliable as systems become less transparent.
@@ -30,7 +31,7 @@ AI safety & policy, Research, Software engineering
 - Build systems and tools that enable rigorous research and accelerate the team's workflow.
 - Communicate technical findings to frontier labs and government officials for deployment decisions.
 
-[Apply →](https://job-boards.eu.greenhouse.io/aisi/jobs/4848454101)
+<p class="apply-cta"><a href="https://job-boards.eu.greenhouse.io/aisi/jobs/4848454101">Apply →</a></p>
 
 ---
-*Posted 2026-04-27 · Last updated 2026-05-26 · 80k job ID `recMaxbTlOx0hm0zE`*
+*Posted 2026-04-27 · Listing synced 2026-05-26 · 80k job ID `recMaxbTlOx0hm0zE`*

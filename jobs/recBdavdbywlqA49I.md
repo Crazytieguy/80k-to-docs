@@ -14,13 +14,14 @@ areas:
 
 **[Elicit](https://elicit.com/)**
 
-- **Location:** San Francisco Bay Area, USA
-- **Role type:** Full-time
-- **Experience:** Multiple experience levels
-- **Degree:** Undergraduate degree or less
+<dl class="job-meta">
+<dt>Location</dt><dd>San Francisco Bay Area, USA</dd>
+<dt>Role type</dt><dd>Full-time</dd>
+<dt>Experience</dt><dd>Multiple experience levels</dd>
+<dt>Degree</dt><dd>Undergraduate degree or less</dd>
+</dl>
 
-## Tags
-AI technical safety, Software engineering
+**Areas & skills:** AI technical safety, Software engineering
 
 ## Summary
 - In this role, you'll be responsible for building Elicit into a product researchers can’t live without.
@@ -29,7 +30,7 @@ AI technical safety, Software engineering
 - Balance short-term feature shipping with building extensible and maintainable systems that are scalable, resilient, and easy to operate.
 - Contribute to discussions around system design, performance evaluation, and architecture.
 
-[Apply →](https://elicit.com/careers?ashby_jid=d27d51d7-b318-4cb0-9b88-c37de18905f3)
+<p class="apply-cta"><a href="https://elicit.com/careers?ashby_jid=d27d51d7-b318-4cb0-9b88-c37de18905f3">Apply →</a></p>
 
 ---
-*Posted 2022-01-11 · Last updated 2026-05-26 · 80k job ID `recBdavdbywlqA49I`*
+*Posted 2022-01-11 · Listing synced 2026-05-26 · 80k job ID `recBdavdbywlqA49I`*

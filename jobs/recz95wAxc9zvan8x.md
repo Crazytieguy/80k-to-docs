@@ -14,13 +14,14 @@ areas:
 
 **[Apple](https://www.apple.com/)**
 
-- **Location:** San Francisco Bay Area, USA
-- **Role type:** Full-time
-- **Experience:** Mid (5-9 years experience)
-- **Degree:** Doctoral degree
+<dl class="job-meta">
+<dt>Location</dt><dd>San Francisco Bay Area, USA</dd>
+<dt>Role type</dt><dd>Full-time</dd>
+<dt>Experience</dt><dd>Mid (5-9 years experience)</dd>
+<dt>Degree</dt><dd>Doctoral degree</dd>
+</dl>
 
-## Tags
-AI safety & policy, Research, Software engineering
+**Areas & skills:** AI safety & policy, Research, Software engineering
 
 ## Summary
 - In this role, you'll lead research on responsible AI and safety for foundation models powering Apple products.
@@ -29,7 +30,7 @@ AI safety & policy, Research, Software engineering
 - Research safety alignment methods and develop safeguards for LLM deployment in products.
 - Collaborate with cross-functional teams to drive technical excellence and execution.
 
-[Apply →](https://jobs.apple.com/en-gb/details/200647859-0836/aiml-senior-ml-researcher-in-foundation-models-responsible-ai?team=MLAI)
+<p class="apply-cta"><a href="https://jobs.apple.com/en-gb/details/200647859-0836/aiml-senior-ml-researcher-in-foundation-models-responsible-ai?team=MLAI">Apply →</a></p>
 
 ---
-*Posted 2022-01-05 · Last updated 2026-05-26 · 80k job ID `recz95wAxc9zvan8x`*
+*Posted 2022-01-05 · Listing synced 2026-05-26 · 80k job ID `recz95wAxc9zvan8x`*

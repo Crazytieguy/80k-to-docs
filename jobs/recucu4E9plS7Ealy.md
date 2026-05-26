@@ -17,19 +17,19 @@ areas:
 
 **[Future of Life Institute](https://www.futureoflife.org)**
 
-- **Location:** Remote, Global
-- **Role type:** Internship, Part-time
-- **Experience:** Multiple experience levels
-- **Degree:** Undergraduate degree or less
-- **Location type:** Remote
+<dl class="job-meta">
+<dt>Location</dt><dd>Remote, Global</dd>
+<dt>Role type</dt><dd>Internship, Part-time</dd>
+<dt>Experience</dt><dd>Multiple experience levels</dd>
+<dt>Degree</dt><dd>Undergraduate degree or less</dd>
+</dl>
 
-## Tags
-AI safety & policy, Biosecurity & pandemic preparedness, Nuclear security, Climate change, Research, Policy, Outreach, Operations
+**Areas & skills:** AI safety & policy, Biosecurity & pandemic preparedness, Nuclear security, Climate change, Research, Policy, Outreach, Operations
 
 ## Summary
 - This is a general application form to work with the Future of Life Institute.
 
-[Apply →](https://jobs.lever.co/futureof-life/2ad000b8-8c02-49a0-bbea-a588137665db)
+<p class="apply-cta"><a href="https://jobs.lever.co/futureof-life/2ad000b8-8c02-49a0-bbea-a588137665db">Apply →</a></p>
 
 ---
-*Posted 2022-01-07 · Last updated 2026-05-26 · 80k job ID `recucu4E9plS7Ealy`*
+*Posted 2022-01-07 · Listing synced 2026-05-26 · 80k job ID `recucu4E9plS7Ealy`*

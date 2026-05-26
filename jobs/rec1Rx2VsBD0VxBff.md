@@ -14,14 +14,15 @@ areas:
 
 **[Lila Sciences](https://www.lila.ai/)**
 
-- **Location:** London, UK, San Francisco Bay Area, Boston metro area, UK, USA
-- **Role type:** Full-time
-- **Experience:** Junior (1-4 years experience), Mid (5-9 years experience)
-- **Degree:** Undergraduate degree or less
-- **Salary:** $224,000 – $336,000
+<dl class="job-meta">
+<dt>Location</dt><dd>London, UK, San Francisco Bay Area, Boston metro area, UK, USA</dd>
+<dt>Role type</dt><dd>Full-time</dd>
+<dt>Experience</dt><dd>Junior (1-4 years experience), Mid (5-9 years experience)</dd>
+<dt>Degree</dt><dd>Undergraduate degree or less</dd>
+<dt>Salary</dt><dd>$224,000 – $336,000</dd>
+</dl>
 
-## Tags
-AI safety & policy, Software engineering, Strategy
+**Areas & skills:** AI safety & policy, Software engineering, Strategy
 
 ## Summary
 - In this role, you'll lead the design and deployment of technical safety systems for Lila's frontier scientific AI platform.
@@ -30,7 +31,7 @@ AI safety & policy, Software engineering, Strategy
 - Drive safety systems research to advance beyond state-of-the-art for in silico and lab-based scientific workflows.
 - Partner with safety and non-safety teams to develop technical safeguards and contribute to external communications.
 
-[Apply →](https://job-boards.greenhouse.io/lilasciences/jobs/4210472009)
+<p class="apply-cta"><a href="https://job-boards.greenhouse.io/lilasciences/jobs/4210472009">Apply →</a></p>
 
 ---
-*Posted 2026-04-08 · Last updated 2026-05-26 · 80k job ID `rec1Rx2VsBD0VxBff`*
+*Posted 2026-04-08 · Listing synced 2026-05-26 · 80k job ID `rec1Rx2VsBD0VxBff`*

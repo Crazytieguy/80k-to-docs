@@ -14,14 +14,15 @@ areas:
 
 **[Apollo Research](https://www.apolloresearch.ai/)**
 
-- **Location:** London, UK, UK, UK (Confirmed Visas)
-- **Role type:** Full-time
-- **Experience:** Mid (5-9 years experience), Senior (10+ years experience)
-- **Degree:** Undergraduate degree or less
-- **Salary:** $134,481 – $268,963
+<dl class="job-meta">
+<dt>Location</dt><dd>London, UK, UK, UK (Confirmed Visas)</dd>
+<dt>Role type</dt><dd>Full-time</dd>
+<dt>Experience</dt><dd>Mid (5-9 years experience), Senior (10+ years experience)</dd>
+<dt>Degree</dt><dd>Undergraduate degree or less</dd>
+<dt>Salary</dt><dd>$134,481 – $268,963</dd>
+</dl>
 
-## Tags
-AI safety & policy, Software engineering
+**Areas & skills:** AI safety & policy, Software engineering
 
 ## Summary
 - In this role, you'll build tools for frontier AGI safety research, specifically developing tooling for analyzing model evaluation results.
@@ -30,7 +31,7 @@ AI safety & policy, Software engineering
 - Work closely with researchers to understand their challenges and create effective solutions for their needs.
 - Establish good software design practices and contribute to shaping the product roadmap and priorities.
 
-[Apply →](https://jobs.lever.co/apolloresearch/421c9d78-2ca3-4b9e-9e4a-22044d837571)
+<p class="apply-cta"><a href="https://jobs.lever.co/apolloresearch/421c9d78-2ca3-4b9e-9e4a-22044d837571">Apply →</a></p>
 
 ---
-*Posted 2022-01-05 · Last updated 2026-05-26 · 80k job ID `recI9yqfBL6zXCD5S`*
+*Posted 2022-01-05 · Listing synced 2026-05-26 · 80k job ID `recI9yqfBL6zXCD5S`*

@@ -14,13 +14,14 @@ areas:
 
 **[AI Safety Asia](https://www.aisafety.asia/)**
 
-- **Location:** Jakarta, Indonesia, Indonesia, Asia
-- **Role type:** Full-time
-- **Experience:** Junior (1-4 years experience)
-- **Degree:** Undergraduate degree or less
+<dl class="job-meta">
+<dt>Location</dt><dd>Jakarta, Indonesia, Indonesia, Asia</dd>
+<dt>Role type</dt><dd>Full-time</dd>
+<dt>Experience</dt><dd>Junior (1-4 years experience)</dd>
+<dt>Degree</dt><dd>Undergraduate degree or less</dd>
+</dl>
 
-## Tags
-AI safety & policy, Operations
+**Areas & skills:** AI safety & policy, Operations
 
 ## Summary
 - In this role, you'll lead operational delivery of AI governance training programs across ASEAN.
@@ -29,7 +30,7 @@ AI safety & policy, Operations
 - Coordinate with trainers, facilitators, and stakeholders to ensure smooth program delivery.
 - Track metrics, collect feedback, and contribute to continuous improvement of training content.
 
-[Apply →](https://docs.google.com/document/d/1VksXTjn44bpX6FNEMqLCSzjtDecvP8Vf_1Mztxh1LU8/edit?usp=sharing)
+<p class="apply-cta"><a href="https://docs.google.com/document/d/1VksXTjn44bpX6FNEMqLCSzjtDecvP8Vf_1Mztxh1LU8/edit?usp=sharing">Apply →</a></p>
 
 ---
-*Posted 2026-04-10 · Last updated 2026-05-26 · 80k job ID `rechI65EPot3fXFRJ`*
+*Posted 2026-04-10 · Listing synced 2026-05-26 · 80k job ID `rechI65EPot3fXFRJ`*

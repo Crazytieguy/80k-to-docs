@@ -14,14 +14,15 @@ areas:
 
 **[AI Safety Connect](https://www.aisafetyconnect.org/)**
 
-- **Location:** Beijing, China, Shanghai, China, China, Asia
-- **Role type:** Part-time
-- **Experience:** Junior (1-4 years experience)
-- **Degree:** Undergraduate degree or less
-- **Salary:** $30,000 – $42,000
+<dl class="job-meta">
+<dt>Location</dt><dd>Beijing, China, Shanghai, China, China, Asia</dd>
+<dt>Role type</dt><dd>Part-time</dd>
+<dt>Experience</dt><dd>Junior (1-4 years experience)</dd>
+<dt>Degree</dt><dd>Undergraduate degree or less</dd>
+<dt>Salary</dt><dd>$30,000 – $42,000</dd>
+</dl>
 
-## Tags
-AI safety & policy, Operations
+**Areas & skills:** AI safety & policy, Operations
 
 ## Summary
 - In this role, you'll coordinate the production and delivery of AISC's conference programme in Shanghai.
@@ -30,7 +31,7 @@ AI safety & policy, Operations
 - Manage event logistics including venue, travel arrangements, bilateral meetings, and on-site delivery.
 - Support post-event synthesis including correspondence, survey distribution, and documentation of outputs.
 
-[Apply →](https://portal.aisafetyconnect.org/special-program-coordinator-china-engagement)
+<p class="apply-cta"><a href="https://portal.aisafetyconnect.org/special-program-coordinator-china-engagement">Apply →</a></p>
 
 ---
-*Posted 2026-05-14 · Last updated 2026-05-26 · 80k job ID `recuWjFj4eNDJ0Egi`*
+*Posted 2026-05-14 · Listing synced 2026-05-26 · 80k job ID `recuWjFj4eNDJ0Egi`*

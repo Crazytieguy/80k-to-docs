@@ -14,13 +14,14 @@ areas:
 
 **[AI Alignment Network](https://www.aialign.net/)**
 
-- **Location:** Asia, Japan
-- **Role type:** Volunteering
-- **Experience:** Entry-level
-- **Degree:** Undergraduate degree or less
+<dl class="job-meta">
+<dt>Location</dt><dd>Asia, Japan</dd>
+<dt>Role type</dt><dd>Volunteering</dd>
+<dt>Experience</dt><dd>Entry-level</dd>
+<dt>Degree</dt><dd>Undergraduate degree or less</dd>
+</dl>
 
-## Tags
-AI safety & policy, Outreach, Operations
+**Areas & skills:** AI safety & policy, Outreach, Operations
 
 ## Summary
 - ALIGN seeks volunteer staff to help grow the community and support ALIGN’s mission of creating a hopeful future for AI and humanity.
@@ -29,7 +30,7 @@ AI safety & policy, Outreach, Operations
 - Assist with social media management and newsletter creation.
 - Research and write reports on events, and assist with report writing.
 
-[Apply →](https://www.aialign.net/recruit)
+<p class="apply-cta"><a href="https://www.aialign.net/recruit">Apply →</a></p>
 
 ---
-*Posted 2022-01-06 · Last updated 2026-05-26 · 80k job ID `recFBfwll5C7BzeJI`*
+*Posted 2022-01-06 · Listing synced 2026-05-26 · 80k job ID `recFBfwll5C7BzeJI`*

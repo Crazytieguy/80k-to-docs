@@ -14,14 +14,15 @@ areas:
 
 **[Anthropic](https://www.anthropic.com/)**
 
-- **Location:** San Francisco Bay Area, USA, USA (Confirmed Visas)
-- **Role type:** Full-time
-- **Experience:** Mid (5-9 years experience)
-- **Degree:** Undergraduate degree or less
-- **Salary:** $300,000 – $405,000
+<dl class="job-meta">
+<dt>Location</dt><dd>San Francisco Bay Area, USA, USA (Confirmed Visas)</dd>
+<dt>Role type</dt><dd>Full-time</dd>
+<dt>Experience</dt><dd>Mid (5-9 years experience)</dd>
+<dt>Degree</dt><dd>Undergraduate degree or less</dd>
+<dt>Salary</dt><dd>$300,000 – $405,000</dd>
+</dl>
 
-## Tags
-AI safety & policy, Software engineering, Information security
+**Areas & skills:** AI safety & policy, Software engineering, Information security
 
 ## Summary
 - In this role, you'll build and scale critical infrastructure that powers Anthropic's AI safety systems, working at the intersection of machine learning and distributed systems.
@@ -30,7 +31,7 @@ AI safety & policy, Software engineering, Information security
 - Collaborate with research teams to productionize safety research into robust, scalable systems.
 - Optimize inference latency and throughput for real-time safety evaluations.
 
-[Apply →](https://job-boards.greenhouse.io/anthropic/jobs/4778843008)
+<p class="apply-cta"><a href="https://job-boards.greenhouse.io/anthropic/jobs/4778843008">Apply →</a></p>
 
 ---
-*Posted 2022-01-11 · Last updated 2026-05-26 · 80k job ID `rec0JPd7APPV7LTpi`*
+*Posted 2022-01-11 · Listing synced 2026-05-26 · 80k job ID `rec0JPd7APPV7LTpi`*

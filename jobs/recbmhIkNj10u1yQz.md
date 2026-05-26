@@ -14,14 +14,15 @@ areas:
 
 **[Collective Intelligence Project](https://cip.org/)**
 
-- **Location:** San Francisco Bay Area, USA
-- **Role type:** Full-time
-- **Experience:** Junior (1-4 years experience), Mid (5-9 years experience)
-- **Degree:** Undergraduate degree or less
-- **Salary:** $150,000
+<dl class="job-meta">
+<dt>Location</dt><dd>San Francisco Bay Area, USA</dd>
+<dt>Role type</dt><dd>Full-time</dd>
+<dt>Experience</dt><dd>Junior (1-4 years experience), Mid (5-9 years experience)</dd>
+<dt>Degree</dt><dd>Undergraduate degree or less</dd>
+<dt>Salary</dt><dd>$150,000</dd>
+</dl>
 
-## Tags
-AI safety & policy, Software engineering, Strategy
+**Areas & skills:** AI safety & policy, Software engineering, Strategy
 
 ## Summary
 - In this role, you'll build and maintain Weval, a platform making complex AI evaluation data accessible to researchers, policymakers, and governments.
@@ -30,7 +31,7 @@ AI safety & policy, Software engineering, Strategy
 - Design visualizations and interfaces articulating complex data for non-technical audiences.
 - Own architectural decisions as the platform scales while supporting complementary CIP projects.
 
-[Apply →](https://www.cip.org/careers/productengineer)
+<p class="apply-cta"><a href="https://www.cip.org/careers/productengineer">Apply →</a></p>
 
 ---
-*Posted 2022-01-06 · Last updated 2026-05-26 · 80k job ID `recbmhIkNj10u1yQz`*
+*Posted 2022-01-06 · Listing synced 2026-05-26 · 80k job ID `recbmhIkNj10u1yQz`*

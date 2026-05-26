@@ -14,14 +14,14 @@ areas:
 
 **[Hebrew University of Jerusalem, School of Computer Science and Engineering](https://www.cs.huji.ac.il/)**
 
-- **Location:** Remote, Global
-- **Role type:** Full-time
-- **Experience:** Junior (1-4 years experience), Mid (5-9 years experience)
-- **Degree:** Undergraduate degree or less
-- **Location type:** Remote
+<dl class="job-meta">
+<dt>Location</dt><dd>Remote, Global</dd>
+<dt>Role type</dt><dd>Full-time</dd>
+<dt>Experience</dt><dd>Junior (1-4 years experience), Mid (5-9 years experience)</dd>
+<dt>Degree</dt><dd>Undergraduate degree or less</dd>
+</dl>
 
-## Tags
-AI safety & policy, Research, Policy
+**Areas & skills:** AI safety & policy, Research, Policy
 
 ## Summary
 - In this role, you'll pursue research opportunities with Noam Kolt at the Governance of AI Lab.
@@ -30,7 +30,7 @@ AI safety & policy, Research, Policy
 - Undertake legal research on the governance of autonomous AI agents.
 - Examine how legal rules, principles, and methods can be used to support alignment.
 
-[Apply →](https://docs.google.com/forms/d/e/1FAIpQLSfwQ7ZkUljz4HPDlLUH2r4KjeRrh8bRTWge3MZgqVEklGd31g/viewform)
+<p class="apply-cta"><a href="https://docs.google.com/forms/d/e/1FAIpQLSfwQ7ZkUljz4HPDlLUH2r4KjeRrh8bRTWge3MZgqVEklGd31g/viewform">Apply →</a></p>
 
 ---
-*Posted 2022-01-06 · Last updated 2026-05-26 · 80k job ID `recUIShvjHmb9pOxl`*
+*Posted 2022-01-06 · Listing synced 2026-05-26 · 80k job ID `recUIShvjHmb9pOxl`*

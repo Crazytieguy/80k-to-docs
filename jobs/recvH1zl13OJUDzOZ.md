@@ -14,14 +14,15 @@ areas:
 
 **[Americans for Responsible Innovation](https://responsibleinnovation.org/)**
 
-- **Location:** Washington, DC metro area, USA
-- **Role type:** Full-time
-- **Experience:** Junior (1-4 years experience)
-- **Degree:** Undergraduate degree or less
-- **Salary:** $80,000 – $100,000
+<dl class="job-meta">
+<dt>Location</dt><dd>Washington, DC metro area, USA</dd>
+<dt>Role type</dt><dd>Full-time</dd>
+<dt>Experience</dt><dd>Junior (1-4 years experience)</dd>
+<dt>Degree</dt><dd>Undergraduate degree or less</dd>
+<dt>Salary</dt><dd>$80,000 – $100,000</dd>
+</dl>
 
-## Tags
-AI safety & policy, Policy
+**Areas & skills:** AI safety & policy, Policy
 
 ## Summary
 - In this role, you'll develop policy analysis and frameworks advancing ARI's AI policy advocacy on economics, labor, education, and sectoral transformation.
@@ -30,7 +31,7 @@ AI safety & policy, Policy
 - Build expertise in workforce transition, education policy, and AI adoption in healthcare and finance.
 - Collaborate with Government Affairs and Communications teams on policy design and advocacy delivery.
 
-[Apply →](https://ats.rippling.com/en-US/americans-for-responsible-innovation/jobs/d56621ca-17a5-4d0d-9818-d59da56d4459)
+<p class="apply-cta"><a href="https://ats.rippling.com/en-US/americans-for-responsible-innovation/jobs/d56621ca-17a5-4d0d-9818-d59da56d4459">Apply →</a></p>
 
 ---
-*Posted 2026-05-08 · Last updated 2026-05-26 · 80k job ID `recvH1zl13OJUDzOZ`*
+*Posted 2026-05-08 · Listing synced 2026-05-26 · 80k job ID `recvH1zl13OJUDzOZ`*

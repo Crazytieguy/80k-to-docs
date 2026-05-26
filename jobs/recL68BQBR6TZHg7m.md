@@ -14,13 +14,14 @@ areas:
 
 **[Massachusetts Institute of Technology, FutureTech](https://futuretech.mit.edu/)**
 
-- **Location:** Boston metro area, USA
-- **Role type:** Full-time
-- **Experience:** Entry-level
-- **Degree:** Doctoral degree
+<dl class="job-meta">
+<dt>Location</dt><dd>Boston metro area, USA</dd>
+<dt>Role type</dt><dd>Full-time</dd>
+<dt>Experience</dt><dd>Entry-level</dd>
+<dt>Degree</dt><dd>Doctoral degree</dd>
+</dl>
 
-## Tags
-AI safety & policy, Research
+**Areas & skills:** AI safety & policy, Research
 
 ## Summary
 - In this role, you'll conduct research on AI progress, its effects on science, labor markets, and industry performance at MIT FutureTech.
@@ -29,7 +30,7 @@ AI safety & policy, Research
 - Contribute to grant proposals and research writing projects.
 - Support project planning and talent management for the FutureTech initiative.
 
-[Apply →](https://futuretech.mit.edu/opportunities/postdoctoral-associate)
+<p class="apply-cta"><a href="https://futuretech.mit.edu/opportunities/postdoctoral-associate">Apply →</a></p>
 
 ---
-*Posted 2022-01-06 · Last updated 2026-05-26 · 80k job ID `recL68BQBR6TZHg7m`*
+*Posted 2022-01-06 · Listing synced 2026-05-26 · 80k job ID `recL68BQBR6TZHg7m`*

@@ -14,13 +14,14 @@ areas:
 
 **[University of Copenhagen, Department of Computer Science](https://di.ku.dk/english/)**
 
-- **Location:** Copenhagen, Denmark, Europe (ex UK), Denmark
-- **Role type:** Fellowship
-- **Experience:** Entry-level
-- **Degree:** Master's degree
+<dl class="job-meta">
+<dt>Location</dt><dd>Copenhagen, Denmark, Europe (ex UK), Denmark</dd>
+<dt>Role type</dt><dd>Fellowship</dd>
+<dt>Experience</dt><dd>Entry-level</dd>
+<dt>Degree</dt><dd>Master's degree</dd>
+</dl>
 
-## Tags
-AI safety & policy, Research, Software engineering, Information security
+**Areas & skills:** AI safety & policy, Research, Software engineering, Information security
 
 ## Summary
 - In this fellowship, you'll research mechanistic interpretability methods to improve LLM security and mitigate false information attacks.
@@ -29,7 +30,7 @@ AI safety & policy, Research, Software engineering, Information security
 - Author and publish research papers in high-impact venues and disseminate findings nationally and internationally.
 - Undertake PhD courses in academic writing and specialised ML/NLP topics, and conduct research abroad.
 
-[Apply →](https://employment.ku.dk/phd/?show=160571)
+<p class="apply-cta"><a href="https://employment.ku.dk/phd/?show=160571">Apply →</a></p>
 
 ---
-*Posted 2026-05-08 · Last updated 2026-05-26 · 80k job ID `recFcXMpni1trB5oL`*
+*Posted 2026-05-08 · Listing synced 2026-05-26 · 80k job ID `recFcXMpni1trB5oL`*

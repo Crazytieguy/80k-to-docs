@@ -14,15 +14,15 @@ areas:
 
 **[Dovetail](https://dovetailresearch.org/)**
 
-- **Location:** Remote, UK, UK
-- **Role type:** Full-time
-- **Experience:** Junior (1-4 years experience)
-- **Degree:** Undergraduate degree or less
-- **Salary:** $139,861
-- **Location type:** Remote
+<dl class="job-meta">
+<dt>Location</dt><dd>Remote, UK, UK</dd>
+<dt>Role type</dt><dd>Full-time</dd>
+<dt>Experience</dt><dd>Junior (1-4 years experience)</dd>
+<dt>Degree</dt><dd>Undergraduate degree or less</dd>
+<dt>Salary</dt><dd>$139,861</dd>
+</dl>
 
-## Tags
-AI safety & policy, Research
+**Areas & skills:** AI safety & policy, Research
 
 ## Summary
 - In this role, you'll write proofs in Lean for mathematical AI safety research.
@@ -31,7 +31,7 @@ AI safety & policy, Research
 - Teach team members how to use Lean to improve mathematical conjecturing feedback loops.
 - Build and maintain Mathlib extensions while upholding best practices and conventions.
 
-[Apply →](https://dovetailresearch.org/jobs/798cc873-2e07-4716-9c5a-5cbc32992c03/lean-prover)
+<p class="apply-cta"><a href="https://dovetailresearch.org/jobs/798cc873-2e07-4716-9c5a-5cbc32992c03/lean-prover">Apply →</a></p>
 
 ---
-*Posted 2026-04-20 · Last updated 2026-05-26 · 80k job ID `recTaKimv4XNMiqLl`*
+*Posted 2026-04-20 · Listing synced 2026-05-26 · 80k job ID `recTaKimv4XNMiqLl`*

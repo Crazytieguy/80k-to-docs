@@ -14,18 +14,19 @@ areas:
 
 **Various Potential PhD Supervisors**
 
-- **Location:** Various, Global, Various, USA, USA, Remote, Global
-- **Role type:** Full-time
-- **Experience:** Entry-level
-- **Degree:** Master's degree
+<dl class="job-meta">
+<dt>Location</dt><dd>Various, Global, Various, USA, USA, Remote, Global</dd>
+<dt>Role type</dt><dd>Full-time</dd>
+<dt>Experience</dt><dd>Entry-level</dd>
+<dt>Degree</dt><dd>Master's degree</dd>
+</dl>
 
-## Tags
-AI safety & policy, Research
+**Areas & skills:** AI safety & policy, Research
 
 ## Summary
 - If you're looking to develop skills and begin working on AI safety, we've put together a list of potential PhD supervisors doing work relevant to [AI alignment](https://80000hours.org/problem-profiles/artificial-intelligence/).
 
-[Apply →](https://airtable.com/app53PsYpHxJW61l3/shr7NG7EmN5On6lQG)
+<p class="apply-cta"><a href="https://airtable.com/app53PsYpHxJW61l3/shr7NG7EmN5On6lQG">Apply →</a></p>
 
 ---
-*Posted 2022-01-06 · Last updated 2026-05-26 · 80k job ID `rectBBkqGlVpemMXl`*
+*Posted 2022-01-06 · Listing synced 2026-05-26 · 80k job ID `rectBBkqGlVpemMXl`*

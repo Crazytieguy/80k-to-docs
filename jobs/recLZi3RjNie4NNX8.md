@@ -14,14 +14,15 @@ areas:
 
 **[Goodfire](https://goodfire.ai)**
 
-- **Location:** San Francisco Bay Area, USA
-- **Role type:** Full-time
-- **Experience:** Mid (5-9 years experience), Senior (10+ years experience)
-- **Degree:** Undergraduate degree or less
-- **Salary:** $120,000 – $280,000
+<dl class="job-meta">
+<dt>Location</dt><dd>San Francisco Bay Area, USA</dd>
+<dt>Role type</dt><dd>Full-time</dd>
+<dt>Experience</dt><dd>Mid (5-9 years experience), Senior (10+ years experience)</dd>
+<dt>Degree</dt><dd>Undergraduate degree or less</dd>
+<dt>Salary</dt><dd>$120,000 – $280,000</dd>
+</dl>
 
-## Tags
-AI safety & policy, Operations
+**Areas & skills:** AI safety & policy, Operations
 
 ## Summary
 - In this role, you'll build Goodfire's talent acquisition function.
@@ -30,7 +31,7 @@ AI safety & policy, Operations
 - Design scalable interview processes that maintain our high quality standards.
 - Protect the hiring bar through rigorous evaluation methods and quality-focused recruitment.
 
-[Apply →](https://job-boards.greenhouse.io/goodfire/jobs/5055191008)
+<p class="apply-cta"><a href="https://job-boards.greenhouse.io/goodfire/jobs/5055191008">Apply →</a></p>
 
 ---
-*Posted 2022-01-05 · Last updated 2026-05-26 · 80k job ID `recLZi3RjNie4NNX8`*
+*Posted 2022-01-05 · Listing synced 2026-05-26 · 80k job ID `recLZi3RjNie4NNX8`*

@@ -14,14 +14,15 @@ areas:
 
 **[Haize Labs](https://haizelabs.com/)**
 
-- **Location:** New York, NY, USA, USA (Confirmed Visas)
-- **Role type:** Internship
-- **Experience:** Junior (1-4 years experience)
-- **Degree:** Undergraduate degree or less
-- **Salary:** $125,000 – $200,000
+<dl class="job-meta">
+<dt>Location</dt><dd>New York, NY, USA, USA (Confirmed Visas)</dd>
+<dt>Role type</dt><dd>Internship</dd>
+<dt>Experience</dt><dd>Junior (1-4 years experience)</dd>
+<dt>Degree</dt><dd>Undergraduate degree or less</dd>
+<dt>Salary</dt><dd>$125,000 – $200,000</dd>
+</dl>
 
-## Tags
-AI safety & policy, Research
+**Areas & skills:** AI safety & policy, Research
 
 ## Summary
 - We are looking for Software Engineers to help us to develop fundamental safety tooling for LLMs.
@@ -30,7 +31,7 @@ AI safety & policy, Research
 - Deliver a delightful human-in-the-loop product experience.
 - Ship tools that are used by developers across the world.
 
-[Apply →](https://job-boards.greenhouse.io/haizelabs/jobs/4070377008)
+<p class="apply-cta"><a href="https://job-boards.greenhouse.io/haizelabs/jobs/4070377008">Apply →</a></p>
 
 ---
-*Posted 2022-01-06 · Last updated 2026-05-26 · 80k job ID `recHKdpM1ijP4Q5k5`*
+*Posted 2022-01-06 · Listing synced 2026-05-26 · 80k job ID `recHKdpM1ijP4Q5k5`*

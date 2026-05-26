@@ -14,13 +14,14 @@ areas:
 
 **[Lila Sciences](https://www.lila.ai/)**
 
-- **Location:** London, UK, UK
-- **Role type:** Full-time
-- **Experience:** Mid (5-9 years experience), Senior (10+ years experience)
-- **Degree:** Undergraduate degree or less
+<dl class="job-meta">
+<dt>Location</dt><dd>London, UK, UK</dd>
+<dt>Role type</dt><dd>Full-time</dd>
+<dt>Experience</dt><dd>Mid (5-9 years experience), Senior (10+ years experience)</dd>
+<dt>Degree</dt><dd>Undergraduate degree or less</dd>
+</dl>
 
-## Tags
-AI safety & policy, Research, Software engineering
+**Areas & skills:** AI safety & policy, Research, Software engineering
 
 ## Summary
 - In this role, you'll develop and implement AI safety strategies to address risks from scientific superintelligence models integrated with physical labs.
@@ -29,7 +30,7 @@ AI safety & policy, Research, Software engineering
 - Analyze model capabilities across scientific and non-scientific domains to inform broader safety strategy.
 - Contribute to research efforts for scientific capability evaluation and restriction.
 
-[Apply →](https://job-boards.greenhouse.io/lilasciences/jobs/4079014009)
+<p class="apply-cta"><a href="https://job-boards.greenhouse.io/lilasciences/jobs/4079014009">Apply →</a></p>
 
 ---
-*Posted 2022-01-05 · Last updated 2026-05-26 · 80k job ID `reckCM7VP9OipdAaU`*
+*Posted 2022-01-05 · Listing synced 2026-05-26 · 80k job ID `reckCM7VP9OipdAaU`*

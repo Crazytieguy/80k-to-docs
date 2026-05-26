@@ -14,13 +14,14 @@ areas:
 
 **[Massachusetts Institute of Technology, FutureTech](https://futuretech.mit.edu/)**
 
-- **Location:** USA
-- **Role type:** Full-time
-- **Experience:** Entry-level
-- **Degree:** Master's degree
+<dl class="job-meta">
+<dt>Location</dt><dd>USA</dd>
+<dt>Role type</dt><dd>Full-time</dd>
+<dt>Experience</dt><dd>Entry-level</dd>
+<dt>Degree</dt><dd>Master's degree</dd>
+</dl>
 
-## Tags
-AI safety & policy, Research
+**Areas & skills:** AI safety & policy, Research
 
 ## Summary
 - This role involves understanding the economic and technical foundations of progress in computing and AI.
@@ -29,7 +30,7 @@ AI safety & policy, Research
 - Prepare research visualisations, writing, presentations and analysis.
 - Collaborate with others in the lab, contributing to both individual and broader lab projects.
 
-[Apply →](https://futuretech.mit.edu/opportunities/phds-and-junior-research-scientists)
+<p class="apply-cta"><a href="https://futuretech.mit.edu/opportunities/phds-and-junior-research-scientists">Apply →</a></p>
 
 ---
-*Posted 2022-01-06 · Last updated 2026-05-26 · 80k job ID `recvBySDDtsh5IeIK`*
+*Posted 2022-01-06 · Listing synced 2026-05-26 · 80k job ID `recvBySDDtsh5IeIK`*

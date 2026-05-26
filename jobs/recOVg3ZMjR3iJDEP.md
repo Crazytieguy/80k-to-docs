@@ -14,14 +14,15 @@ areas:
 
 **[Center for AI Safety](https://www.cais.ai/)**
 
-- **Location:** San Francisco Bay Area, USA
-- **Role type:** Full-time
-- **Experience:** Junior (1-4 years experience), Mid (5-9 years experience)
-- **Degree:** Master's degree
-- **Salary:** $170,000 – $230,000
+<dl class="job-meta">
+<dt>Location</dt><dd>San Francisco Bay Area, USA</dd>
+<dt>Role type</dt><dd>Full-time</dd>
+<dt>Experience</dt><dd>Junior (1-4 years experience), Mid (5-9 years experience)</dd>
+<dt>Degree</dt><dd>Master's degree</dd>
+<dt>Salary</dt><dd>$170,000 – $230,000</dd>
+</dl>
 
-## Tags
-AI safety & policy, Research, Software engineering
+**Areas & skills:** AI safety & policy, Research, Software engineering
 
 ## Summary
 - In this role, you'll own ML research projects from conception to publication, advancing AI safety through robustness, honesty, and transparency.
@@ -30,7 +31,7 @@ AI safety & policy, Research, Software engineering
 - Write and publish research findings in collaboration with co-authors and external partners.
 - Drive research autonomously while incorporating feedback from advisors and collaborators.
 
-[Apply →](https://jobs.lever.co/aisafety/e8167e84-8669-4644-961c-e5fd5b5f4318)
+<p class="apply-cta"><a href="https://jobs.lever.co/aisafety/e8167e84-8669-4644-961c-e5fd5b5f4318">Apply →</a></p>
 
 ---
-*Posted 2026-04-01 · Last updated 2026-05-26 · 80k job ID `recOVg3ZMjR3iJDEP`*
+*Posted 2026-04-01 · Listing synced 2026-05-26 · 80k job ID `recOVg3ZMjR3iJDEP`*

@@ -14,15 +14,15 @@ areas:
 
 **[RAND Corporation](https://www.rand.org)**
 
-- **Location:** Washington, DC metro area, Pittsburgh, PA, Los Angeles, CA, Boston metro area, Remote, USA, USA
-- **Role type:** Full-time
-- **Experience:** Mid (5-9 years experience)
-- **Degree:** Undergraduate degree or less
-- **Salary:** $137,000 – $246,600
-- **Location type:** Remote
+<dl class="job-meta">
+<dt>Location</dt><dd>Washington, DC metro area, Pittsburgh, PA, Los Angeles, CA, Boston metro area, Remote, USA, USA</dd>
+<dt>Role type</dt><dd>Full-time</dd>
+<dt>Experience</dt><dd>Mid (5-9 years experience)</dd>
+<dt>Degree</dt><dd>Undergraduate degree or less</dd>
+<dt>Salary</dt><dd>$137,000 – $246,600</dd>
+</dl>
 
-## Tags
-AI safety & policy, Research, Software engineering, Information security
+**Areas & skills:** AI safety & policy, Research, Software engineering, Information security
 
 ## Summary
 - In this role, you'll lead RAND's AI cyber evaluation agenda, assessing offensive cyber capabilities of frontier AI models.
@@ -31,7 +31,7 @@ AI safety & policy, Research, Software engineering, Information security
 - Communicate findings through technical analyses and policy briefs for government agencies and industry leaders.
 - Shape recommendations for the White House, regulatory agencies, intelligence community, and national governments.
 
-[Apply →](https://rand.wd5.myworkdayjobs.com/en-US/External_Career_Site/job/Washington-DC-DC-Metro-Area/Research-Lead----AI-Cyber-Testing---Evaluation_R3122)
+<p class="apply-cta"><a href="https://rand.wd5.myworkdayjobs.com/en-US/External_Career_Site/job/Washington-DC-DC-Metro-Area/Research-Lead----AI-Cyber-Testing---Evaluation_R3122">Apply →</a></p>
 
 ---
-*Posted 2022-01-05 · Last updated 2026-05-26 · 80k job ID `rec9SvF6EotUc93V9`*
+*Posted 2022-01-05 · Listing synced 2026-05-26 · 80k job ID `rec9SvF6EotUc93V9`*

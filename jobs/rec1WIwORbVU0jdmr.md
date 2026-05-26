@@ -14,15 +14,15 @@ areas:
 
 **[RAND Corporation](https://www.rand.org)**
 
-- **Location:** Remote, USA, Various, USA, USA, USA (Confirmed Visas)
-- **Role type:** Full-time
-- **Experience:** Junior (1-4 years experience), Entry-level
-- **Degree:** Undergraduate degree or less
-- **Salary:** $90,400 – $176,500
-- **Location type:** Remote
+<dl class="job-meta">
+<dt>Location</dt><dd>Remote, USA, Various, USA, USA, USA (Confirmed Visas)</dd>
+<dt>Role type</dt><dd>Full-time</dd>
+<dt>Experience</dt><dd>Junior (1-4 years experience), Entry-level</dd>
+<dt>Degree</dt><dd>Undergraduate degree or less</dd>
+<dt>Salary</dt><dd>$90,400 – $176,500</dd>
+</dl>
 
-## Tags
-AI safety & policy, Research, Policy, Software engineering
+**Areas & skills:** AI safety & policy, Research, Policy, Software engineering
 
 ## Summary
 - In this role, you'll lead complex projects on AI security spanning technical research, policy analysis, and infrastructure development.
@@ -31,7 +31,7 @@ AI safety & policy, Research, Policy, Software engineering
 - Communicate findings to technical and non-technical audiences through policy briefs and research products.
 - Identify and advise on critical areas for new security research and development initiatives.
 
-[Apply →](https://rand.wd5.myworkdayjobs.com/en-US/External_Career_Site/job/Washington-DC-DC-Metro-Area/Associate-AI-Security-Resident_R3537)
+<p class="apply-cta"><a href="https://rand.wd5.myworkdayjobs.com/en-US/External_Career_Site/job/Washington-DC-DC-Metro-Area/Associate-AI-Security-Resident_R3537">Apply →</a></p>
 
 ---
-*Posted 2026-05-21 · Last updated 2026-05-26 · 80k job ID `rec1WIwORbVU0jdmr`*
+*Posted 2026-05-21 · Listing synced 2026-05-26 · 80k job ID `rec1WIwORbVU0jdmr`*

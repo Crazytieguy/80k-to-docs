@@ -14,14 +14,15 @@ areas:
 
 **[General-Purpose AI Policy Lab](https://gpai-policy-lab.org/)**
 
-- **Location:** Paris, France, France, Europe (ex UK)
-- **Role type:** Full-time
-- **Experience:** Mid (5-9 years experience)
-- **Degree:** Undergraduate degree or less
-- **Salary:** $75,583 – $110,467
+<dl class="job-meta">
+<dt>Location</dt><dd>Paris, France, France, Europe (ex UK)</dd>
+<dt>Role type</dt><dd>Full-time</dd>
+<dt>Experience</dt><dd>Mid (5-9 years experience)</dd>
+<dt>Degree</dt><dd>Undergraduate degree or less</dd>
+<dt>Salary</dt><dd>$75,583 – $110,467</dd>
+</dl>
 
-## Tags
-AI safety & policy, Operations
+**Areas & skills:** AI safety & policy, Operations
 
 ## Summary
 - In this role, you'll free up the CEO's bandwidth by managing operations, communications and strategic projects whilst autonomously solving problems.
@@ -29,7 +30,7 @@ AI safety & policy, Operations
 - Draft communications, facilitate meetings, and ensure decisions translate into coordinated action across the team.
 - Track budgets, manage confidential documents, prepare governance materials, and build scalable operational systems.
 
-[Apply →](https://docs.google.com/document/d/1oXWkoQEL9_jE2rCJ0IDV8871dP0M0sXg-jlNVdV0EJw/edit?tab=t.0#heading=h.q8n18m4w7f2n)
+<p class="apply-cta"><a href="https://docs.google.com/document/d/1oXWkoQEL9_jE2rCJ0IDV8871dP0M0sXg-jlNVdV0EJw/edit?tab=t.0#heading=h.q8n18m4w7f2n">Apply →</a></p>
 
 ---
-*Posted 2022-01-05 · Last updated 2026-05-26 · 80k job ID `rec82Pnpvkn2Z8E70`*
+*Posted 2022-01-05 · Listing synced 2026-05-26 · 80k job ID `rec82Pnpvkn2Z8E70`*

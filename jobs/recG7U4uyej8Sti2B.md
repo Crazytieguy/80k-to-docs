@@ -14,13 +14,14 @@ areas:
 
 **[Cambridge University, Department of Engineering](http://www.eng.cam.ac.uk/)**
 
-- **Location:** Cambridge, UK, UK
-- **Role type:** Other
-- **Experience:** Entry-level
-- **Degree:** Undergraduate degree or less
+<dl class="job-meta">
+<dt>Location</dt><dd>Cambridge, UK, UK</dd>
+<dt>Role type</dt><dd>Other</dd>
+<dt>Experience</dt><dd>Entry-level</dd>
+<dt>Degree</dt><dd>Undergraduate degree or less</dd>
+</dl>
 
-## Tags
-AI safety & policy, Research, Software engineering
+**Areas & skills:** AI safety & policy, Research, Software engineering
 
 ## Summary
 - In this studentship, you'll pursue a PhD exploring large language model safety through mechanistic interpretability and behavioural research.
@@ -29,7 +30,7 @@ AI safety & policy, Research, Software engineering
 - Apply either perturbation techniques to test CoT meaning or train models for transparency using human predictor evaluation.
 - Collaborate with your supervisor to define research direction after completing initial 1.5-year projects.
 
-[Apply →](https://www.cam.ac.uk/jobs/phd-studentship-in-monitoring-and-increasing-llm-safety-nm49585)
+<p class="apply-cta"><a href="https://www.cam.ac.uk/jobs/phd-studentship-in-monitoring-and-increasing-llm-safety-nm49585">Apply →</a></p>
 
 ---
-*Posted 2026-05-01 · Last updated 2026-05-26 · 80k job ID `recG7U4uyej8Sti2B`*
+*Posted 2026-05-01 · Listing synced 2026-05-26 · 80k job ID `recG7U4uyej8Sti2B`*

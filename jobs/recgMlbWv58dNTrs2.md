@@ -14,14 +14,14 @@ areas:
 
 **[AIGS Canada](https://aigs.ca/)**
 
-- **Location:** Remote, Canada, Canada
-- **Role type:** Volunteering
-- **Experience:** Entry-level
-- **Degree:** Undergraduate degree or less
-- **Location type:** Remote
+<dl class="job-meta">
+<dt>Location</dt><dd>Remote, Canada, Canada</dd>
+<dt>Role type</dt><dd>Volunteering</dd>
+<dt>Experience</dt><dd>Entry-level</dd>
+<dt>Degree</dt><dd>Undergraduate degree or less</dd>
+</dl>
 
-## Tags
-AI governance, Policy, Outreach, Operations
+**Areas & skills:** AI governance, Policy, Outreach, Operations
 
 ## Summary
 - In this role, you'll volunteer with AIGS to help ensure advanced AI systems in Canada are developed safely and beneficially.
@@ -30,7 +30,7 @@ AI governance, Policy, Outreach, Operations
 - Join specialized teams focusing on Advocacy, Events, Analysis, Communications, or Policy initiatives.
 - Help shape responsible AI governance while developing expertise in this critical emerging field.
 
-[Apply →](https://aigs.ca/volunteer/)
+<p class="apply-cta"><a href="https://aigs.ca/volunteer/">Apply →</a></p>
 
 ---
-*Posted 2022-01-06 · Last updated 2026-05-26 · 80k job ID `recgMlbWv58dNTrs2`*
+*Posted 2022-01-06 · Listing synced 2026-05-26 · 80k job ID `recgMlbWv58dNTrs2`*

@@ -14,14 +14,15 @@ areas:
 
 **[Haize Labs](https://haizelabs.com/)**
 
-- **Location:** New York, NY, USA, USA (Confirmed Visas)
-- **Role type:** Full-time
-- **Experience:** Mid (5-9 years experience)
-- **Degree:** Undergraduate degree or less
-- **Salary:** $150,000 – $325,000
+<dl class="job-meta">
+<dt>Location</dt><dd>New York, NY, USA, USA (Confirmed Visas)</dd>
+<dt>Role type</dt><dd>Full-time</dd>
+<dt>Experience</dt><dd>Mid (5-9 years experience)</dd>
+<dt>Degree</dt><dd>Undergraduate degree or less</dd>
+<dt>Salary</dt><dd>$150,000 – $325,000</dd>
+</dl>
 
-## Tags
-AI safety & policy, Software engineering
+**Areas & skills:** AI safety & policy, Software engineering
 
 ## Summary
 - In this role, you'll build out an AI reliability platform that helps customers deploy trustworthy, robust AI applications.
@@ -30,7 +31,7 @@ AI safety & policy, Software engineering
 - Collaborate with researchers to build industry-leading tooling for safe AI applications.
 - Interface directly with customers to understand pain points and design intuitive workflows that streamline their experience.
 
-[Apply →](https://job-boards.greenhouse.io/haizelabs/jobs/4627851008)
+<p class="apply-cta"><a href="https://job-boards.greenhouse.io/haizelabs/jobs/4627851008">Apply →</a></p>
 
 ---
-*Posted 2022-01-05 · Last updated 2026-05-26 · 80k job ID `recoRRzCDO9EGaW5w`*
+*Posted 2022-01-05 · Listing synced 2026-05-26 · 80k job ID `recoRRzCDO9EGaW5w`*

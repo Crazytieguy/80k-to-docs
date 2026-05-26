@@ -14,19 +14,19 @@ areas:
 
 **[Apart Research](https://apartresearch.com/)**
 
-- **Location:** Remote, Global
-- **Role type:** Full-time
-- **Experience:** Multiple experience levels
-- **Degree:** Undergraduate degree or less
-- **Location type:** Remote
+<dl class="job-meta">
+<dt>Location</dt><dd>Remote, Global</dd>
+<dt>Role type</dt><dd>Full-time</dd>
+<dt>Experience</dt><dd>Multiple experience levels</dd>
+<dt>Degree</dt><dd>Undergraduate degree or less</dd>
+</dl>
 
-## Tags
-AI safety & policy, Outreach, Management
+**Areas & skills:** AI safety & policy, Outreach, Management
 
 ## Summary
 - Register interest in working at Apart Research.
 
-[Apply →](https://apartresearch.notion.site/1acfcfd1de9d8084a7abe3d00c5d2296)
+<p class="apply-cta"><a href="https://apartresearch.notion.site/1acfcfd1de9d8084a7abe3d00c5d2296">Apply →</a></p>
 
 ---
-*Posted 2022-01-05 · Last updated 2026-05-26 · 80k job ID `recwtzLeizGPM6fzs`*
+*Posted 2022-01-05 · Listing synced 2026-05-26 · 80k job ID `recwtzLeizGPM6fzs`*

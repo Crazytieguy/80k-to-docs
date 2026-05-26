@@ -14,15 +14,15 @@ areas:
 
 **[AI Safety Connect](https://www.aisafetyconnect.org/)**
 
-- **Location:** Remote, Global
-- **Role type:** Full-time
-- **Experience:** Mid (5-9 years experience)
-- **Degree:** Undergraduate degree or less
-- **Salary:** $85,000 – $110,000
-- **Location type:** Remote
+<dl class="job-meta">
+<dt>Location</dt><dd>Remote, Global</dd>
+<dt>Role type</dt><dd>Full-time</dd>
+<dt>Experience</dt><dd>Mid (5-9 years experience)</dd>
+<dt>Degree</dt><dd>Undergraduate degree or less</dd>
+<dt>Salary</dt><dd>$85,000 – $110,000</dd>
+</dl>
 
-## Tags
-AI safety & policy, Operations
+**Areas & skills:** AI safety & policy, Operations
 
 ## Summary
 - In this role, you'll manage end-to-end delivery of programs and convenings, translating leadership direction into plans.
@@ -31,7 +31,7 @@ AI safety & policy, Operations
 - Support flagship event delivery including UN General Assembly convenings, coordinating workstreams and contractors.
 - Travel internationally to deliver events and maintain visibility across a distributed global team.
 
-[Apply →](https://portal.aisafetyconnect.org/program-manager)
+<p class="apply-cta"><a href="https://portal.aisafetyconnect.org/program-manager">Apply →</a></p>
 
 ---
-*Posted 2026-04-29 · Last updated 2026-05-26 · 80k job ID `recHFuRqWblujYAXP`*
+*Posted 2026-04-29 · Listing synced 2026-05-26 · 80k job ID `recHFuRqWblujYAXP`*

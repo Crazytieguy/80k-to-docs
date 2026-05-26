@@ -14,15 +14,15 @@ areas:
 
 **[OpenAI](https://openai.com/)**
 
-- **Location:** San Francisco Bay Area, New York, NY, Remote, USA, USA
-- **Role type:** Full-time
-- **Experience:** Mid (5-9 years experience)
-- **Degree:** Undergraduate degree or less
-- **Salary:** $260,000 – $405,000
-- **Location type:** Remote
+<dl class="job-meta">
+<dt>Location</dt><dd>San Francisco Bay Area, New York, NY, Remote, USA, USA</dd>
+<dt>Role type</dt><dd>Full-time</dd>
+<dt>Experience</dt><dd>Mid (5-9 years experience)</dd>
+<dt>Degree</dt><dd>Undergraduate degree or less</dd>
+<dt>Salary</dt><dd>$260,000 – $405,000</dd>
+</dl>
 
-## Tags
-AI safety & policy, Information security
+**Areas & skills:** AI safety & policy, Information security
 
 ## Summary
 - In this role, you'll focus on detecting insider threats and safeguarding OpenAI's most sensitive assets through security engineering.
@@ -31,7 +31,7 @@ AI safety & policy, Information security
 - Drive projects addressing insider threats from access abuse to novel risks in AI infrastructure.
 - Partner with cross-functional teams to provide technical expertise for investigations.
 
-[Apply →](https://openai.com/careers/security-engineer-insider-threat-detection-and-response-san-francisco/)
+<p class="apply-cta"><a href="https://openai.com/careers/security-engineer-insider-threat-detection-and-response-san-francisco/">Apply →</a></p>
 
 ---
-*Posted 2022-01-11 · Last updated 2026-05-26 · 80k job ID `recXMBdyib6LrEqvq`*
+*Posted 2022-01-11 · Listing synced 2026-05-26 · 80k job ID `recXMBdyib6LrEqvq`*

@@ -14,13 +14,14 @@ areas:
 
 **[Armilla](https://armilla.ai/)**
 
-- **Location:** Toronto, Canada, Canada
-- **Role type:** Full-time
-- **Experience:** Junior (1-4 years experience), Mid (5-9 years experience)
-- **Degree:** Undergraduate degree or less
+<dl class="job-meta">
+<dt>Location</dt><dd>Toronto, Canada, Canada</dd>
+<dt>Role type</dt><dd>Full-time</dd>
+<dt>Experience</dt><dd>Junior (1-4 years experience), Mid (5-9 years experience)</dd>
+<dt>Degree</dt><dd>Undergraduate degree or less</dd>
+</dl>
 
-## Tags
-AI safety & policy, Software engineering
+**Areas & skills:** AI safety & policy, Software engineering
 
 ## Summary
 - In this role, you'll design, build and maintain an adversarial AI evaluation platform while developing core AI-powered tools.
@@ -29,7 +30,7 @@ AI safety & policy, Software engineering
 - Apply software engineering best practices to ML projects including automated testing and CI/CD.
 - Deploy AI applications on cloud platforms while collaborating with cross-functional teams.
 
-[Apply →](https://www.armilla.ai/careers)
+<p class="apply-cta"><a href="https://www.armilla.ai/careers">Apply →</a></p>
 
 ---
-*Posted 2022-01-06 · Last updated 2026-05-26 · 80k job ID `recia9YMB4pIKJv7v`*
+*Posted 2022-01-06 · Listing synced 2026-05-26 · 80k job ID `recia9YMB4pIKJv7v`*

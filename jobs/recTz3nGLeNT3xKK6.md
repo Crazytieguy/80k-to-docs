@@ -14,14 +14,15 @@ areas:
 
 **[CivAI](https://www.civai.org/)**
 
-- **Location:** San Francisco Bay Area, USA, USA (Confirmed Visas)
-- **Role type:** Full-time
-- **Experience:** Junior (1-4 years experience)
-- **Degree:** Undergraduate degree or less
-- **Salary:** $125,000 – $200,000
+<dl class="job-meta">
+<dt>Location</dt><dd>San Francisco Bay Area, USA, USA (Confirmed Visas)</dd>
+<dt>Role type</dt><dd>Full-time</dd>
+<dt>Experience</dt><dd>Junior (1-4 years experience)</dd>
+<dt>Degree</dt><dd>Undergraduate degree or less</dd>
+<dt>Salary</dt><dd>$125,000 – $200,000</dd>
+</dl>
 
-## Tags
-AI safety & policy, Software engineering
+**Areas & skills:** AI safety & policy, Software engineering
 
 ## Summary
 - In this role, you'll research, build, and refine software demonstrations that help audiences understand AI risks and capabilities.
@@ -30,7 +31,7 @@ AI safety & policy, Software engineering
 - Conceptualise new demonstrations that communicate AI's implications through interactive explainers and hands-on experiences.
 - Iterate rapidly on lightweight projects that prototype frontier AI systems and emerging capabilities for policy and public audiences.
 
-[Apply →](https://civai.org/jobs/member-of-technical-staff)
+<p class="apply-cta"><a href="https://civai.org/jobs/member-of-technical-staff">Apply →</a></p>
 
 ---
-*Posted 2026-04-06 · Last updated 2026-05-26 · 80k job ID `recTz3nGLeNT3xKK6`*
+*Posted 2026-04-06 · Listing synced 2026-05-26 · 80k job ID `recTz3nGLeNT3xKK6`*

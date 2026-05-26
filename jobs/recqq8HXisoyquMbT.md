@@ -14,14 +14,14 @@ areas:
 
 **[Patronus AI](https://www.patronus.ai/)**
 
-- **Location:** San Francisco Bay Area, New York, NY, Remote, USA, USA
-- **Role type:** Full-time
-- **Experience:** Junior (1-4 years experience)
-- **Degree:** Undergraduate degree or less
-- **Location type:** Remote
+<dl class="job-meta">
+<dt>Location</dt><dd>San Francisco Bay Area, New York, NY, Remote, USA, USA</dd>
+<dt>Role type</dt><dd>Full-time</dd>
+<dt>Experience</dt><dd>Junior (1-4 years experience)</dd>
+<dt>Degree</dt><dd>Undergraduate degree or less</dd>
+</dl>
 
-## Tags
-AI safety & policy, Research
+**Areas & skills:** AI safety & policy, Research
 
 ## Summary
 - In this role, you will help solve challenging open research problems facing society’s adoption of AI today, surrounding AI evaluation, language model understanding, and robustness challenges.
@@ -29,7 +29,7 @@ AI safety & policy, Research
 - Conduct novel research on redteaming language models, automated evaluation, and alignment.
 - Scope out and lead research projects, including experiment design and understanding results.
 
-[Apply →](https://www.patronus.ai/job-detail?gh_jid=4241103009)
+<p class="apply-cta"><a href="https://www.patronus.ai/job-detail?gh_jid=4241103009">Apply →</a></p>
 
 ---
-*Posted 2022-01-06 · Last updated 2026-05-26 · 80k job ID `recqq8HXisoyquMbT`*
+*Posted 2022-01-06 · Listing synced 2026-05-26 · 80k job ID `recqq8HXisoyquMbT`*

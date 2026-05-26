@@ -14,14 +14,14 @@ areas:
 
 **[PauseAI](https://pauseai.info/)**
 
-- **Location:** Remote, Global
-- **Role type:** Volunteering
-- **Experience:** Entry-level
-- **Degree:** Undergraduate degree or less
-- **Location type:** Remote
+<dl class="job-meta">
+<dt>Location</dt><dd>Remote, Global</dd>
+<dt>Role type</dt><dd>Volunteering</dd>
+<dt>Experience</dt><dd>Entry-level</dd>
+<dt>Degree</dt><dd>Undergraduate degree or less</dd>
+</dl>
 
-## Tags
-AI safety & policy, Outreach, Operations
+**Areas & skills:** AI safety & policy, Outreach, Operations
 
 ## Summary
 - In this role, you'll lead local organizing efforts for PauseAI US in your city, planning direct actions and mobilizing volunteers.
@@ -30,7 +30,7 @@ AI safety & policy, Outreach, Operations
 - Build relationships with local activist groups and media outlets.
 - Manage social media outreach and align your local group's activities with national campaign strategies.
 
-[Apply →](https://www.pauseai-us.org/Apply)
+<p class="apply-cta"><a href="https://www.pauseai-us.org/Apply">Apply →</a></p>
 
 ---
-*Posted 2022-01-06 · Last updated 2026-05-26 · 80k job ID `recmGpeIDroB0DZAI`*
+*Posted 2022-01-06 · Listing synced 2026-05-26 · 80k job ID `recmGpeIDroB0DZAI`*

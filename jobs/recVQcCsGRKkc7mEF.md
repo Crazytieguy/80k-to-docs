@@ -14,22 +14,22 @@ areas:
 
 **[Elicit](https://elicit.com/)**
 
-- **Location:** Remote, Global
-- **Role type:** Full-time
-- **Experience:** Entry-level
-- **Degree:** Doctoral degree
-- **Salary:** $114,400
-- **Location type:** Remote
+<dl class="job-meta">
+<dt>Location</dt><dd>Remote, Global</dd>
+<dt>Role type</dt><dd>Full-time</dd>
+<dt>Experience</dt><dd>Entry-level</dd>
+<dt>Degree</dt><dd>Doctoral degree</dd>
+<dt>Salary</dt><dd>$114,400</dd>
+</dl>
 
-## Tags
-AI technical safety, Research
+**Areas & skills:** AI technical safety, Research
 
 ## Summary
 - In this role, you'll evaluate reviews written with Elicit's help in life sciences and social science. Reviews will be on topics of your choice, providing in-depth analysis.
 - Ensure evaluations are of high quality to improve Elicit's output.
 - Work will be available intermittently.
 
-[Apply →](https://docs.google.com/forms/d/1cYNcejGHniGJ4Cvi_SCWuuGWK5C5f_zOnQENa1rLldQ/viewform?edit_requested=true)
+<p class="apply-cta"><a href="https://docs.google.com/forms/d/1cYNcejGHniGJ4Cvi_SCWuuGWK5C5f_zOnQENa1rLldQ/viewform?edit_requested=true">Apply →</a></p>
 
 ---
-*Posted 2022-01-12 · Last updated 2026-05-26 · 80k job ID `recVQcCsGRKkc7mEF`*
+*Posted 2022-01-12 · Listing synced 2026-05-26 · 80k job ID `recVQcCsGRKkc7mEF`*

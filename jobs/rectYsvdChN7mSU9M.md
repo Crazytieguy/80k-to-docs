@@ -14,13 +14,14 @@ areas:
 
 **[xAI](https://x.ai/)**
 
-- **Location:** Tokyo, Japan, Asia, Japan
-- **Role type:** Full-time
-- **Experience:** Junior (1-4 years experience)
-- **Degree:** Undergraduate degree or less
+<dl class="job-meta">
+<dt>Location</dt><dd>Tokyo, Japan, Asia, Japan</dd>
+<dt>Role type</dt><dd>Full-time</dd>
+<dt>Experience</dt><dd>Junior (1-4 years experience)</dd>
+<dt>Degree</dt><dd>Undergraduate degree or less</dd>
+</dl>
 
-## Tags
-AI safety & policy, Information security
+**Areas & skills:** AI safety & policy, Information security
 
 ## Summary
 - In this role, you'll lead day-to-day security threat management and incident response operations.
@@ -29,7 +30,7 @@ AI safety & policy, Information security
 - Design and implement automation to reduce false positives and improve operational efficiency.
 - Manage security-related systems including logs, scanning, and intrusion detection platforms.
 
-[Apply →](https://job-boards.greenhouse.io/xai/jobs/5143756007)
+<p class="apply-cta"><a href="https://job-boards.greenhouse.io/xai/jobs/5143756007">Apply →</a></p>
 
 ---
-*Posted 2026-05-22 · Last updated 2026-05-26 · 80k job ID `rectYsvdChN7mSU9M`*
+*Posted 2026-05-22 · Listing synced 2026-05-26 · 80k job ID `rectYsvdChN7mSU9M`*

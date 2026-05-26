@@ -14,19 +14,20 @@ areas:
 
 **[University of California, Berkeley, Department of Electrical Engineering and Computer Sciences](https://eecs.berkeley.edu/)**
 
-- **Location:** San Francisco Bay Area, USA
-- **Role type:** Internship, Full-time
-- **Experience:** Junior (1-4 years experience), Entry-level
-- **Degree:** Undergraduate degree or less
+<dl class="job-meta">
+<dt>Location</dt><dd>San Francisco Bay Area, USA</dd>
+<dt>Role type</dt><dd>Internship, Full-time</dd>
+<dt>Experience</dt><dd>Junior (1-4 years experience), Entry-level</dd>
+<dt>Degree</dt><dd>Undergraduate degree or less</dd>
+</dl>
 
-## Tags
-AI safety & policy, Research, Software engineering
+**Areas & skills:** AI safety & policy, Research, Software engineering
 
 ## Summary
 - In these roles, you'll join Professor Dawn Song's research team at UC Berkeley, working on AI safety, security, or deep learning projects.
 - Dawn Song's research interests include AI safety and security, agentic AI, deep learning, decentralization technology, and security and privacy.
 
-[Apply →](https://dawnsong.io/)
+<p class="apply-cta"><a href="https://dawnsong.io/">Apply →</a></p>
 
 ---
-*Posted 2022-01-07 · Last updated 2026-05-26 · 80k job ID `recYiue80Uu8BDDk1`*
+*Posted 2022-01-07 · Listing synced 2026-05-26 · 80k job ID `recYiue80Uu8BDDk1`*

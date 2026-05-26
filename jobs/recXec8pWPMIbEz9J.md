@@ -15,13 +15,14 @@ areas:
 
 **[Valthos](https://valthos.com/)**
 
-- **Location:** San Francisco Bay Area, New York, NY, USA
-- **Role type:** Full-time
-- **Experience:** Junior (1-4 years experience)
-- **Degree:** Undergraduate degree or less
+<dl class="job-meta">
+<dt>Location</dt><dd>San Francisco Bay Area, New York, NY, USA</dd>
+<dt>Role type</dt><dd>Full-time</dd>
+<dt>Experience</dt><dd>Junior (1-4 years experience)</dd>
+<dt>Degree</dt><dd>Undergraduate degree or less</dd>
+</dl>
 
-## Tags
-AI safety & policy, Biosecurity & pandemic preparedness, Research
+**Areas & skills:** AI safety & policy, Biosecurity & pandemic preparedness, Research
 
 ## Summary
 - In this role, you'll bridge machine learning and biology by building robust data and evaluation frameworks for assessing biological threats and designing precision biologics.
@@ -29,7 +30,7 @@ AI safety & policy, Biosecurity & pandemic preparedness, Research
 - Collaborate with AI and software engineers to design, train, and deploy specialized biological models and analysis tools.
 - Communicate results and stay current with state-of-the-art methods at the intersection of AI and biology.
 
-[Apply →](https://jobs.ashbyhq.com/valthos/dd6c0d36-e5ae-4ff5-9d5a-34b562a5e694)
+<p class="apply-cta"><a href="https://jobs.ashbyhq.com/valthos/dd6c0d36-e5ae-4ff5-9d5a-34b562a5e694">Apply →</a></p>
 
 ---
-*Posted 2022-01-08 · Last updated 2026-05-26 · 80k job ID `recXec8pWPMIbEz9J`*
+*Posted 2022-01-08 · Listing synced 2026-05-26 · 80k job ID `recXec8pWPMIbEz9J`*

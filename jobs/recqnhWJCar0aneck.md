@@ -14,14 +14,15 @@ areas:
 
 **[Machine Intelligence Research Institute](https://www.intelligence.org)**
 
-- **Location:** San Francisco Bay Area, USA, USA (Confirmed Visas)
-- **Role type:** Full-time
-- **Experience:** Junior (1-4 years experience), Mid (5-9 years experience)
-- **Degree:** Undergraduate degree or less
-- **Salary:** $120,000 – $200,000
+<dl class="job-meta">
+<dt>Location</dt><dd>San Francisco Bay Area, USA, USA (Confirmed Visas)</dd>
+<dt>Role type</dt><dd>Full-time</dd>
+<dt>Experience</dt><dd>Junior (1-4 years experience), Mid (5-9 years experience)</dd>
+<dt>Degree</dt><dd>Undergraduate degree or less</dd>
+<dt>Salary</dt><dd>$120,000 – $200,000</dd>
+</dl>
 
-## Tags
-AI technical safety, Research, Policy
+**Areas & skills:** AI technical safety, Research, Policy
 
 ## Summary
 - In this role, you'll research and design technical aspects of AI regulations to reduce existential risks from advanced AI.
@@ -30,7 +31,7 @@ AI technical safety, Research, Policy
 - Prepare briefings for policymakers on technical AI safety concepts and present findings to non-experts.
 - Design improved AI governance frameworks focusing particularly on risks from superintelligent systems.
 
-[Apply →](https://jobs.ashbyhq.com/miri/54142b55-b061-4f11-980e-73d9986ff1b9)
+<p class="apply-cta"><a href="https://jobs.ashbyhq.com/miri/54142b55-b061-4f11-980e-73d9986ff1b9">Apply →</a></p>
 
 ---
-*Posted 2022-01-12 · Last updated 2026-05-26 · 80k job ID `recqnhWJCar0aneck`*
+*Posted 2022-01-12 · Listing synced 2026-05-26 · 80k job ID `recqnhWJCar0aneck`*

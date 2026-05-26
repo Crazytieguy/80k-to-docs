@@ -14,14 +14,15 @@ areas:
 
 **[FAR AI](https://far.ai/)**
 
-- **Location:** San Francisco Bay Area, USA, USA (Confirmed Visas)
-- **Role type:** Full-time
-- **Experience:** Multiple experience levels
-- **Degree:** Undergraduate degree or less
-- **Salary:** $100,000 – $175,000
+<dl class="job-meta">
+<dt>Location</dt><dd>San Francisco Bay Area, USA, USA (Confirmed Visas)</dd>
+<dt>Role type</dt><dd>Full-time</dd>
+<dt>Experience</dt><dd>Multiple experience levels</dd>
+<dt>Degree</dt><dd>Undergraduate degree or less</dd>
+<dt>Salary</dt><dd>$100,000 – $175,000</dd>
+</dl>
 
-## Tags
-AI safety & policy, Research, Software engineering
+**Areas & skills:** AI safety & policy, Research, Software engineering
 
 ## Summary
 - FAR AI is seeking Research Scientists to develop and execute on a safety research agenda.
@@ -30,7 +31,7 @@ AI safety & policy, Research, Software engineering
 - Produce academic papers relevant to the safety and development of AI.
 - Host and participate in events with leading AI professionals.
 
-[Apply →](https://jobs.ashbyhq.com/far.ai/1bda4204-bfef-4a47-b72b-3562ec0bb3f9?embed=js)
+<p class="apply-cta"><a href="https://jobs.ashbyhq.com/far.ai/1bda4204-bfef-4a47-b72b-3562ec0bb3f9?embed=js">Apply →</a></p>
 
 ---
-*Posted 2026-04-08 · Last updated 2026-05-26 · 80k job ID `recj8jd069TEb5lvw`*
+*Posted 2026-04-08 · Listing synced 2026-05-26 · 80k job ID `recj8jd069TEb5lvw`*

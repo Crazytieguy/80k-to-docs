@@ -14,14 +14,14 @@ areas:
 
 **[Center on Long-Term Risk](https://longtermrisk.org/)**
 
-- **Location:** Remote, Global
-- **Role type:** Funding
-- **Experience:** Multiple experience levels
-- **Degree:** Undergraduate degree or less
-- **Location type:** Remote
+<dl class="job-meta">
+<dt>Location</dt><dd>Remote, Global</dd>
+<dt>Role type</dt><dd>Funding</dd>
+<dt>Experience</dt><dd>Multiple experience levels</dd>
+<dt>Degree</dt><dd>Undergraduate degree or less</dd>
+</dl>
 
-## Tags
-AI safety & policy, Research
+**Areas & skills:** AI safety & policy, Research
 
 ## Summary
 - The CLR Fund currently has a balance of ~$440,000 for supporting projects and individuals.
@@ -30,7 +30,7 @@ AI safety & policy, Research
 - Recipients may be charitable organizations, academic institutions, or individuals, evaluated on a rolling basis.
 - Past grants include a diverse range of research projects, scholarships, and stipends across multiple years.
 
-[Apply →](https://longtermrisk.org/grantmaking/)
+<p class="apply-cta"><a href="https://longtermrisk.org/grantmaking/">Apply →</a></p>
 
 ---
-*Posted 2022-01-11 · Last updated 2026-05-26 · 80k job ID `rec0UyW1dWdj2JCm3`*
+*Posted 2022-01-11 · Listing synced 2026-05-26 · 80k job ID `rec0UyW1dWdj2JCm3`*

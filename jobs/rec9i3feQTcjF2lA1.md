@@ -14,14 +14,15 @@ areas:
 
 **[Georgetown University, Center for Security and Emerging Technology](https://cset.georgetown.edu/)**
 
-- **Location:** Washington, DC metro area, USA
-- **Role type:** Full-time
-- **Experience:** Multiple experience levels
-- **Degree:** Master's degree
-- **Salary:** $100,000 – $190,000
+<dl class="job-meta">
+<dt>Location</dt><dd>Washington, DC metro area, USA</dd>
+<dt>Role type</dt><dd>Full-time</dd>
+<dt>Experience</dt><dd>Multiple experience levels</dd>
+<dt>Degree</dt><dd>Master's degree</dd>
+<dt>Salary</dt><dd>$100,000 – $190,000</dd>
+</dl>
 
-## Tags
-AI safety & policy, Research, Management
+**Areas & skills:** AI safety & policy, Research, Management
 
 ## Summary
 - In this role, you'll lead a new team focused on Frontier AI research, shaping priorities and overseeing research execution.
@@ -29,7 +30,7 @@ AI safety & policy, Research, Management
 - Supervise, mentor, and coach research analysts and student assistants while editing for methodological rigor.
 - Deliver presentations and briefs to policymakers on frontier AI issues and produce written publications.
 
-[Apply →](https://cset.georgetown.edu/job/research-or-senior-fellow-frontier-ai/)
+<p class="apply-cta"><a href="https://cset.georgetown.edu/job/research-or-senior-fellow-frontier-ai/">Apply →</a></p>
 
 ---
-*Posted 2026-04-08 · Last updated 2026-05-26 · 80k job ID `rec9i3feQTcjF2lA1`*
+*Posted 2026-04-08 · Listing synced 2026-05-26 · 80k job ID `rec9i3feQTcjF2lA1`*

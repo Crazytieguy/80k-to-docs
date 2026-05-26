@@ -14,14 +14,14 @@ areas:
 
 **[Epoch AI](https://epoch.ai)**
 
-- **Location:** Remote, Global
-- **Role type:** Full-time
-- **Experience:** Multiple experience levels
-- **Degree:** Undergraduate degree or less
-- **Location type:** Remote
+<dl class="job-meta">
+<dt>Location</dt><dd>Remote, Global</dd>
+<dt>Role type</dt><dd>Full-time</dd>
+<dt>Experience</dt><dd>Multiple experience levels</dd>
+<dt>Degree</dt><dd>Undergraduate degree or less</dd>
+</dl>
 
-## Tags
-AI governance, Research, Outreach, Operations, Software engineering
+**Areas & skills:** AI governance, Research, Outreach, Operations, Software engineering
 
 ## Summary
 - Submit an Expression of Interest to be contacted for future roles at Epoch.
@@ -31,7 +31,7 @@ AI governance, Research, Outreach, Operations, Software engineering
 - Data roles: Data analysts, data scientists.
 - Communications roles: Designer, editor.
 
-[Apply →](https://jobs.lever.co/epoch-ai/137cb0dc-03a6-4747-b9dc-8255194daee2)
+<p class="apply-cta"><a href="https://jobs.lever.co/epoch-ai/137cb0dc-03a6-4747-b9dc-8255194daee2">Apply →</a></p>
 
 ---
-*Posted 2022-01-11 · Last updated 2026-05-26 · 80k job ID `recjvAoFJNOyhU2NL`*
+*Posted 2022-01-11 · Listing synced 2026-05-26 · 80k job ID `recjvAoFJNOyhU2NL`*

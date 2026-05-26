@@ -14,15 +14,15 @@ areas:
 
 **[Beneficial AI Foundation](https://www.beneficialaifoundation.org/)**
 
-- **Location:** Boston metro area, Remote, Global, USA
-- **Role type:** Full-time
-- **Experience:** Junior (1-4 years experience)
-- **Degree:** Undergraduate degree or less
-- **Salary:** $72,800 – $145,600
-- **Location type:** Remote
+<dl class="job-meta">
+<dt>Location</dt><dd>Boston metro area, Remote, Global, USA</dd>
+<dt>Role type</dt><dd>Full-time</dd>
+<dt>Experience</dt><dd>Junior (1-4 years experience)</dd>
+<dt>Degree</dt><dd>Undergraduate degree or less</dd>
+<dt>Salary</dt><dd>$72,800 – $145,600</dd>
+</dl>
 
-## Tags
-AI safety & policy, Software engineering
+**Areas & skills:** AI safety & policy, Software engineering
 
 ## Summary
 - In this role, you'll build features for the Beneficial AI Foundation's formal verification tools that aim to ensure AI safety.
@@ -31,7 +31,7 @@ AI safety & policy, Software engineering
 - Build both public-facing and internal features supporting AI-written verified code.
 - Contribute to a project focused on keeping powerful AI systems under human control.
 
-[Apply →](https://docs.google.com/forms/d/e/1FAIpQLSedbqeU4JZQASmnUyUY8ZWSL85opl2K8CUOGkEMiDMx0eqWdQ/viewform)
+<p class="apply-cta"><a href="https://docs.google.com/forms/d/e/1FAIpQLSedbqeU4JZQASmnUyUY8ZWSL85opl2K8CUOGkEMiDMx0eqWdQ/viewform">Apply →</a></p>
 
 ---
-*Posted 2026-05-14 · Last updated 2026-05-26 · 80k job ID `recqN3PoGsihEUrAP`*
+*Posted 2026-05-14 · Listing synced 2026-05-26 · 80k job ID `recqN3PoGsihEUrAP`*

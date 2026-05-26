@@ -14,14 +14,15 @@ areas:
 
 **[The AI Policy Network](https://theaipn.org/)**
 
-- **Location:** Washington, DC metro area, USA
-- **Role type:** Full-time
-- **Experience:** Mid (5-9 years experience), Senior (10+ years experience)
-- **Degree:** Undergraduate degree or less
-- **Salary:** $190,000 – $260,000
+<dl class="job-meta">
+<dt>Location</dt><dd>Washington, DC metro area, USA</dd>
+<dt>Role type</dt><dd>Full-time</dd>
+<dt>Experience</dt><dd>Mid (5-9 years experience), Senior (10+ years experience)</dd>
+<dt>Degree</dt><dd>Undergraduate degree or less</dd>
+<dt>Salary</dt><dd>$190,000 – $260,000</dd>
+</dl>
 
-## Tags
-AI safety & policy, Policy, Strategy
+**Areas & skills:** AI safety & policy, Policy, Strategy
 
 ## Summary
 - In this role, you'll translate AIPN's AI safety and national security policy into Senate legislation through strategic engagement and coalition building.
@@ -30,7 +31,7 @@ AI safety & policy, Policy, Strategy
 - Draft bill language, amendments, testimony, and policy materials tailored to Senate audiences.
 - Coordinate bicameral legislative strategy and identify opportunities to advance AIPN's policy priorities.
 
-[Apply →](https://theaipn.org/careers/vice-president-of-government-affairs-senate-focus/)
+<p class="apply-cta"><a href="https://theaipn.org/careers/vice-president-of-government-affairs-senate-focus/">Apply →</a></p>
 
 ---
-*Posted 2022-01-05 · Last updated 2026-05-26 · 80k job ID `recS7FG8RDcrDOQvl`*
+*Posted 2022-01-05 · Listing synced 2026-05-26 · 80k job ID `recS7FG8RDcrDOQvl`*

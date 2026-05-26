@@ -14,13 +14,14 @@ areas:
 
 **[Stanford University, Center for International Security and Cooperation](https://cisac.fsi.stanford.edu/)**
 
-- **Location:** San Francisco Bay Area, USA
-- **Role type:** Fellowship
-- **Experience:** Entry-level
-- **Degree:** Doctoral degree
+<dl class="job-meta">
+<dt>Location</dt><dd>San Francisco Bay Area, USA</dd>
+<dt>Role type</dt><dd>Fellowship</dd>
+<dt>Experience</dt><dd>Entry-level</dd>
+<dt>Degree</dt><dd>Doctoral degree</dd>
+</dl>
 
-## Tags
-AI safety & policy, Research, Policy
+**Areas & skills:** AI safety & policy, Research, Policy
 
 ## Summary
 - In this role, you'll conduct postdoctoral research on balancing competing imperatives in AI geopolitics and policy.
@@ -29,7 +30,7 @@ AI safety & policy, Research, Policy
 - Design implementation pathways in executive, legislative, regulatory, and international contexts.
 - Develop, write, and publish research with faculty and researchers from the Geopolitics, Technology, and Governance program.
 
-[Apply →](https://cisac.fsi.stanford.edu/content/cisac-fellowship-program)
+<p class="apply-cta"><a href="https://cisac.fsi.stanford.edu/content/cisac-fellowship-program">Apply →</a></p>
 
 ---
-*Posted 2026-05-08 · Last updated 2026-05-26 · 80k job ID `recfcyVUnGAkc2evG`*
+*Posted 2026-05-08 · Listing synced 2026-05-26 · 80k job ID `recfcyVUnGAkc2evG`*

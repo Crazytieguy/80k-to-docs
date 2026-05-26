@@ -14,13 +14,14 @@ areas:
 
 **[Faculty](https://faculty.ai/)**
 
-- **Location:** London, UK, UK
-- **Role type:** Full-time
-- **Experience:** Mid (5-9 years experience)
-- **Degree:** Undergraduate degree or less
+<dl class="job-meta">
+<dt>Location</dt><dd>London, UK, UK</dd>
+<dt>Role type</dt><dd>Full-time</dd>
+<dt>Experience</dt><dd>Mid (5-9 years experience)</dd>
+<dt>Degree</dt><dd>Undergraduate degree or less</dd>
+</dl>
 
-## Tags
-AI safety & policy, Research
+**Areas & skills:** AI safety & policy, Research
 
 ## Summary
 - In this role, you'll lead AI safety research and conduct critical red teaming for frontier models in sensitive domains.
@@ -29,7 +30,7 @@ AI safety & policy, Research
 - Lead technical research projects from concept to publication in the AI Safety space.
 - Support evaluations and red-teaming in high-risk domains like cybersecurity and national security.
 
-[Apply →](https://jobs.ashbyhq.com/faculty/fd99c104-65b4-4fca-b68e-0ab9170da31f)
+<p class="apply-cta"><a href="https://jobs.ashbyhq.com/faculty/fd99c104-65b4-4fca-b68e-0ab9170da31f">Apply →</a></p>
 
 ---
-*Posted 2022-01-05 · Last updated 2026-05-26 · 80k job ID `recOj2hUTANllF14s`*
+*Posted 2022-01-05 · Listing synced 2026-05-26 · 80k job ID `recOj2hUTANllF14s`*

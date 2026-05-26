@@ -14,14 +14,15 @@ areas:
 
 **[Anthropic](https://www.anthropic.com/)**
 
-- **Location:** San Francisco Bay Area, USA, USA (Confirmed Visas)
-- **Role type:** Full-time
-- **Experience:** Junior (1-4 years experience), Mid (5-9 years experience)
-- **Degree:** Master's degree
-- **Salary:** $280,000 – $425,000
+<dl class="job-meta">
+<dt>Location</dt><dd>San Francisco Bay Area, USA, USA (Confirmed Visas)</dd>
+<dt>Role type</dt><dd>Full-time</dd>
+<dt>Experience</dt><dd>Junior (1-4 years experience), Mid (5-9 years experience)</dd>
+<dt>Degree</dt><dd>Master's degree</dd>
+<dt>Salary</dt><dd>$280,000 – $425,000</dd>
+</dl>
 
-## Tags
-AI safety & policy, Research, Software engineering
+**Areas & skills:** AI safety & policy, Research, Software engineering
 
 ## Summary
 - As a Research Scientist/Engineer focused on honesty within the Finetuning Alignment team, you'll spearhead the development of techniques to minimise hallucinations and enhance truthfulness in language models.
@@ -29,7 +30,7 @@ AI safety & policy, Research, Software engineering
 - Develop specialised classifiers to detect potential hallucinations or miscalibrated claims made by the model.
 - Create and maintain comprehensive honesty benchmarks and evaluation frameworks.
 
-[Apply →](https://job-boards.greenhouse.io/anthropic/jobs/4532887008)
+<p class="apply-cta"><a href="https://job-boards.greenhouse.io/anthropic/jobs/4532887008">Apply →</a></p>
 
 ---
-*Posted 2022-01-12 · Last updated 2026-05-26 · 80k job ID `rec26yWRs3CFZBpzw`*
+*Posted 2022-01-12 · Listing synced 2026-05-26 · 80k job ID `rec26yWRs3CFZBpzw`*

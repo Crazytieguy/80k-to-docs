@@ -14,13 +14,14 @@ areas:
 
 **[Shanghai Artificial Intelligence Laboratory](https://www.shlab.org.cn/)**
 
-- **Location:** Shanghai, China, China, Asia
-- **Role type:** Full-time
-- **Experience:** Mid (5-9 years experience)
-- **Degree:** Master's degree
+<dl class="job-meta">
+<dt>Location</dt><dd>Shanghai, China, China, Asia</dd>
+<dt>Role type</dt><dd>Full-time</dd>
+<dt>Experience</dt><dd>Mid (5-9 years experience)</dd>
+<dt>Degree</dt><dd>Master's degree</dd>
+</dl>
 
-## Tags
-AI safety & policy, Policy
+**Areas & skills:** AI safety & policy, Policy
 
 ## Summary
 - In this role, you'll lead AI security standards development focusing on ISO/IEC international standards.
@@ -29,7 +30,7 @@ AI safety & policy, Policy
 - Manage AISMM platform operations to ensure professional content and user satisfaction.
 - Organize industry events to foster collaboration among network members.
 
-[Apply →](https://www.shlab.org.cn/joinus/detail/7599507253209090346?mode=social&keyword=&jobFunction=&jobType=&location=&subject=)
+<p class="apply-cta"><a href="https://www.shlab.org.cn/joinus/detail/7599507253209090346?mode=social&amp;keyword=&amp;jobFunction=&amp;jobType=&amp;location=&amp;subject=">Apply →</a></p>
 
 ---
-*Posted 2022-01-05 · Last updated 2026-05-26 · 80k job ID `reccO7v88ChJQwEMz`*
+*Posted 2022-01-05 · Listing synced 2026-05-26 · 80k job ID `reccO7v88ChJQwEMz`*

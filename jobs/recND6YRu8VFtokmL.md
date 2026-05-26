@@ -14,15 +14,15 @@ areas:
 
 **[Center for AI Risk Management and Alignment](https://carma.org/)**
 
-- **Location:** Remote, Global
-- **Role type:** Full-time
-- **Experience:** Mid (5-9 years experience), Senior (10+ years experience)
-- **Degree:** Master's degree
-- **Salary:** $140,000 – $190,000
-- **Location type:** Remote
+<dl class="job-meta">
+<dt>Location</dt><dd>Remote, Global</dd>
+<dt>Role type</dt><dd>Full-time</dd>
+<dt>Experience</dt><dd>Mid (5-9 years experience), Senior (10+ years experience)</dd>
+<dt>Degree</dt><dd>Master's degree</dd>
+<dt>Salary</dt><dd>$140,000 – $190,000</dd>
+</dl>
 
-## Tags
-AI safety & policy, Research, Policy
+**Areas & skills:** AI safety & policy, Research, Policy
 
 ## Summary
 - In this role, you'll develop economic models to analyze how advanced AI systems will reshape global economic paradigms and create systemic risks.
@@ -31,7 +31,7 @@ AI safety & policy, Research, Policy
 - Analyze potential concentration of power dynamics across markets as AI capabilities advance.
 - Translate complex economic risk analyses into actionable insights.
 
-[Apply →](https://jobs.lever.co/futureof-life/55ef0ec0-09fa-49f6-98ba-db26f85d2090)
+<p class="apply-cta"><a href="https://jobs.lever.co/futureof-life/55ef0ec0-09fa-49f6-98ba-db26f85d2090">Apply →</a></p>
 
 ---
-*Posted 2022-01-05 · Last updated 2026-05-26 · 80k job ID `recND6YRu8VFtokmL`*
+*Posted 2022-01-05 · Listing synced 2026-05-26 · 80k job ID `recND6YRu8VFtokmL`*

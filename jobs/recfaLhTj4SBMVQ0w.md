@@ -15,13 +15,14 @@ areas:
 
 **[Valthos](https://valthos.com/)**
 
-- **Location:** San Francisco Bay Area, New York, NY, USA
-- **Role type:** Full-time
-- **Experience:** Junior (1-4 years experience), Mid (5-9 years experience)
-- **Degree:** Undergraduate degree or less
+<dl class="job-meta">
+<dt>Location</dt><dd>San Francisco Bay Area, New York, NY, USA</dd>
+<dt>Role type</dt><dd>Full-time</dd>
+<dt>Experience</dt><dd>Junior (1-4 years experience), Mid (5-9 years experience)</dd>
+<dt>Degree</dt><dd>Undergraduate degree or less</dd>
+</dl>
 
-## Tags
-AI safety & policy, Biosecurity & pandemic preparedness, Software engineering
+**Areas & skills:** AI safety & policy, Biosecurity & pandemic preparedness, Software engineering
 
 ## Summary
 - In this role, you'll own end-to-end deployment of Valthos's platform in customer environments.
@@ -30,7 +31,7 @@ AI safety & policy, Biosecurity & pandemic preparedness, Software engineering
 - Translate computational biology methods into production-quality, user-facing workflows.
 - Synthesise field insights into product requirements that shape the engineering roadmap.
 
-[Apply →](https://jobs.ashbyhq.com/valthos/6f460b05-94b1-457a-ac7d-17af48425ca2)
+<p class="apply-cta"><a href="https://jobs.ashbyhq.com/valthos/6f460b05-94b1-457a-ac7d-17af48425ca2">Apply →</a></p>
 
 ---
-*Posted 2026-04-02 · Last updated 2026-05-26 · 80k job ID `recfaLhTj4SBMVQ0w`*
+*Posted 2026-04-02 · Listing synced 2026-05-26 · 80k job ID `recfaLhTj4SBMVQ0w`*

@@ -14,13 +14,14 @@ areas:
 
 **[SaferAI](https://www.safer-ai.org/)**
 
-- **Location:** London, UK, Paris, France, UK, France, Europe (ex UK)
-- **Role type:** Full-time
-- **Experience:** Junior (1-4 years experience)
-- **Degree:** Master's degree
+<dl class="job-meta">
+<dt>Location</dt><dd>London, UK, Paris, France, UK, France, Europe (ex UK)</dd>
+<dt>Role type</dt><dd>Full-time</dd>
+<dt>Experience</dt><dd>Junior (1-4 years experience)</dd>
+<dt>Degree</dt><dd>Master's degree</dd>
+</dl>
 
-## Tags
-AI safety & policy, Research, Software engineering
+**Areas & skills:** AI safety & policy, Research, Software engineering
 
 ## Summary
 - In this role, you'll operationalize risk management frameworks for frontier AI companies through safety evaluations and mitigation measures.
@@ -29,7 +30,7 @@ AI safety & policy, Research, Software engineering
 - Run third-party evaluations and translate technical requirements into practical implementation strategies.
 - Produce written deliverables including gap analyses, methodology documents, and implementation roadmaps.
 
-[Apply →](https://www.safer-ai.org/jobs/frontier-ai-risk-management-research-engineer)
+<p class="apply-cta"><a href="https://www.safer-ai.org/jobs/frontier-ai-risk-management-research-engineer">Apply →</a></p>
 
 ---
-*Posted 2026-03-31 · Last updated 2026-05-26 · 80k job ID `reczXXL4G8rx8L9p3`*
+*Posted 2026-03-31 · Listing synced 2026-05-26 · 80k job ID `reczXXL4G8rx8L9p3`*

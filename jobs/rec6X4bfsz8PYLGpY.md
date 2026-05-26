@@ -14,14 +14,15 @@ areas:
 
 **[80,000 Hours](https://80000hours.org/)**
 
-- **Location:** London, UK, UK
-- **Role type:** Full-time
-- **Experience:** Junior (1-4 years experience)
-- **Degree:** Undergraduate degree or less
-- **Salary:** $83,200 – $153,920
+<dl class="job-meta">
+<dt>Location</dt><dd>London, UK, UK</dd>
+<dt>Role type</dt><dd>Full-time</dd>
+<dt>Experience</dt><dd>Junior (1-4 years experience)</dd>
+<dt>Degree</dt><dd>Undergraduate degree or less</dd>
+<dt>Salary</dt><dd>$83,200 – $153,920</dd>
+</dl>
 
-## Tags
-AI safety & policy, Other
+**Areas & skills:** AI safety & policy, Other
 
 ## Summary
 - In this role, you'll edit long-form podcast episodes to a high standard using DaVinci Resolve.
@@ -29,7 +30,7 @@ AI safety & policy, Other
 - Implement editorial and technical cuts to improve pacing while maintaining content depth.
 - Deliver polished edited files to deadline and flag issues early.
 
-[Apply →](https://80000hours.org/2026/02/expression-of-interest-contract-video-editor-for-the-podcast-team/)
+<p class="apply-cta"><a href="https://80000hours.org/2026/02/expression-of-interest-contract-video-editor-for-the-podcast-team/">Apply →</a></p>
 
 ---
-*Posted 2022-01-06 · Last updated 2026-05-26 · 80k job ID `rec6X4bfsz8PYLGpY`*
+*Posted 2022-01-06 · Listing synced 2026-05-26 · 80k job ID `rec6X4bfsz8PYLGpY`*

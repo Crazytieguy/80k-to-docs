@@ -14,13 +14,14 @@ areas:
 
 **[Irregular](https://www.irregular.com/)**
 
-- **Location:** Tel Aviv, Israel, Middle-East, Israel
-- **Role type:** Full-time
-- **Experience:** Junior (1-4 years experience), Mid (5-9 years experience)
-- **Degree:** Undergraduate degree or less
+<dl class="job-meta">
+<dt>Location</dt><dd>Tel Aviv, Israel, Middle-East, Israel</dd>
+<dt>Role type</dt><dd>Full-time</dd>
+<dt>Experience</dt><dd>Junior (1-4 years experience), Mid (5-9 years experience)</dd>
+<dt>Degree</dt><dd>Undergraduate degree or less</dd>
+</dl>
 
-## Tags
-AI safety & policy, Research, Software engineering, Information security
+**Areas & skills:** AI safety & policy, Research, Software engineering, Information security
 
 ## Summary
 - In this role, you'll build systems to evaluate and secure frontier AI models at Irregular.
@@ -29,7 +30,7 @@ AI safety & policy, Research, Software engineering, Information security
 - Design challenges to measure models' ability to evade detection by defensive security tools.
 - Build controlled environment frameworks and tools that help understand and mitigate risks related to frontier models.
 
-[Apply →](https://jobs.ashbyhq.com/Irregular/7e8a2432-0ed7-4fd7-8bcd-d0d89db663b3?embed=js)
+<p class="apply-cta"><a href="https://jobs.ashbyhq.com/Irregular/7e8a2432-0ed7-4fd7-8bcd-d0d89db663b3?embed=js">Apply →</a></p>
 
 ---
-*Posted 2022-01-06 · Last updated 2026-05-26 · 80k job ID `recKiFx7xN2VRXS9q`*
+*Posted 2022-01-06 · Listing synced 2026-05-26 · 80k job ID `recKiFx7xN2VRXS9q`*

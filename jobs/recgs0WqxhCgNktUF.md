@@ -14,15 +14,15 @@ areas:
 
 **[ERA](https://erafellowship.org/)**
 
-- **Location:** Cambridge, UK, Remote, Global, UK
-- **Role type:** Full-time, Part-time
-- **Experience:** Junior (1-4 years experience), Mid (5-9 years experience)
-- **Degree:** Undergraduate degree or less
-- **Salary:** $83,378 – $100,861
-- **Location type:** Remote
+<dl class="job-meta">
+<dt>Location</dt><dd>Cambridge, UK, Remote, Global, UK</dd>
+<dt>Role type</dt><dd>Full-time, Part-time</dd>
+<dt>Experience</dt><dd>Junior (1-4 years experience), Mid (5-9 years experience)</dd>
+<dt>Degree</dt><dd>Undergraduate degree or less</dd>
+<dt>Salary</dt><dd>$83,378 – $100,861</dd>
+</dl>
 
-## Tags
-AI safety & policy, Research, Management
+**Areas & skills:** AI safety & policy, Research, Management
 
 ## Summary
 - In this role, you'll manage ERA's AIxHardware Research Fellowship, supporting fellows in scoping and developing their research projects.
@@ -31,7 +31,7 @@ AI safety & policy, Research, Management
 - Direct and oversee up to 5 research projects, providing guidance on planning, research methods, and publishing outputs.
 - Organise workshops and maintain relationships with mentors, fellows, and stakeholders in the AI safety and hardware communities.
 
-[Apply →](https://docs.google.com/document/d/146aHIPBkHSCQiIb4IYXHO9SrM4uPE5QTUcj58gMyTjY/edit?tab=t.0#heading=h.a7tt25lx6qsx)
+<p class="apply-cta"><a href="https://docs.google.com/document/d/146aHIPBkHSCQiIb4IYXHO9SrM4uPE5QTUcj58gMyTjY/edit?tab=t.0#heading=h.a7tt25lx6qsx">Apply →</a></p>
 
 ---
-*Posted 2026-05-15 · Last updated 2026-05-26 · 80k job ID `recgs0WqxhCgNktUF`*
+*Posted 2026-05-15 · Listing synced 2026-05-26 · 80k job ID `recgs0WqxhCgNktUF`*

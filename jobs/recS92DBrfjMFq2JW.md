@@ -14,13 +14,14 @@ areas:
 
 **[King's College London, Department of Informatics](https://www.kcl.ac.uk/informatics)**
 
-- **Location:** London, UK, UK
-- **Role type:** Full-time
-- **Experience:** Junior (1-4 years experience), Entry-level
-- **Degree:** Doctoral degree
+<dl class="job-meta">
+<dt>Location</dt><dd>London, UK, UK</dd>
+<dt>Role type</dt><dd>Full-time</dd>
+<dt>Experience</dt><dd>Junior (1-4 years experience), Entry-level</dd>
+<dt>Degree</dt><dd>Doctoral degree</dd>
+</dl>
 
-## Tags
-AI safety & policy, Research
+**Areas & skills:** AI safety & policy, Research
 
 ## Summary
 - In this role, you'll conduct research on mechanism design approaches for aligning advanced AI systems.
@@ -29,7 +30,7 @@ AI safety & policy, Research
 - Collaborate with researchers at King's College London and the UK AI Security Institute.
 - Explore solution concepts beyond dominant strategies and incentive compatibility for robust AI alignment.
 
-[Apply →](https://www.linkedin.com/posts/carmine-ventre-35388622_aisafety-aialignment-mechanismdesign-activity-7421947981307756544-e69Y/)
+<p class="apply-cta"><a href="https://www.linkedin.com/posts/carmine-ventre-35388622_aisafety-aialignment-mechanismdesign-activity-7421947981307756544-e69Y/">Apply →</a></p>
 
 ---
-*Posted 2022-01-07 · Last updated 2026-05-26 · 80k job ID `recS92DBrfjMFq2JW`*
+*Posted 2022-01-07 · Listing synced 2026-05-26 · 80k job ID `recS92DBrfjMFq2JW`*

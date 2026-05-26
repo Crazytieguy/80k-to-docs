@@ -14,13 +14,14 @@ areas:
 
 **[BlueDot Impact](https://www.bluedotimpact.org/)**
 
-- **Location:** San Francisco Bay Area, USA
-- **Role type:** Full-time
-- **Experience:** Junior (1-4 years experience), Mid (5-9 years experience)
-- **Degree:** Undergraduate degree or less
+<dl class="job-meta">
+<dt>Location</dt><dd>San Francisco Bay Area, USA</dd>
+<dt>Role type</dt><dd>Full-time</dd>
+<dt>Experience</dt><dd>Junior (1-4 years experience), Mid (5-9 years experience)</dd>
+<dt>Degree</dt><dd>Undergraduate degree or less</dd>
+</dl>
 
-## Tags
-AI safety & policy, Strategy
+**Areas & skills:** AI safety & policy, Strategy
 
 ## Summary
 - In this role, you'll produce strategies that shape what gets built to protect humanity.
@@ -29,7 +30,7 @@ AI safety & policy, Strategy
 - Collaborate with teams to align efforts on protective objectives.
 - Drive strategic implementation to maximize positive human impact.
 
-[Apply →](https://bluedot.org/join-us/field-strategy-specialist)
+<p class="apply-cta"><a href="https://bluedot.org/join-us/field-strategy-specialist">Apply →</a></p>
 
 ---
-*Posted 2026-03-20 · Last updated 2026-05-26 · 80k job ID `recOO7Li1detHm7ii`*
+*Posted 2026-03-20 · Listing synced 2026-05-26 · 80k job ID `recOO7Li1detHm7ii`*

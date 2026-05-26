@@ -14,15 +14,15 @@ areas:
 
 **[Center for AI Risk Management and Alignment](https://carma.org/)**
 
-- **Location:** Remote, Global
-- **Role type:** Full-time
-- **Experience:** Junior (1-4 years experience), Mid (5-9 years experience)
-- **Degree:** Master's degree
-- **Salary:** $140,000 – $210,000
-- **Location type:** Remote
+<dl class="job-meta">
+<dt>Location</dt><dd>Remote, Global</dd>
+<dt>Role type</dt><dd>Full-time</dd>
+<dt>Experience</dt><dd>Junior (1-4 years experience), Mid (5-9 years experience)</dd>
+<dt>Degree</dt><dd>Master's degree</dd>
+<dt>Salary</dt><dd>$140,000 – $210,000</dd>
+</dl>
 
-## Tags
-AI safety & policy, Research, Software engineering
+**Areas & skills:** AI safety & policy, Research, Software engineering
 
 ## Summary
 - In this role, you'll develop novel AI platforms addressing critical alignment challenges and practical LLM agents.
@@ -31,7 +31,7 @@ AI safety & policy, Research, Software engineering
 - Create mechanisms for conflict resolution and preference aggregation in multi-agent settings.
 - Build technical infrastructure to investigate experimental AI alignment approaches while collaborating with researchers.
 
-[Apply →](https://jobs.lever.co/futureof-life/759df9eb-5611-4a42-b92d-aa199c6f2a7d)
+<p class="apply-cta"><a href="https://jobs.lever.co/futureof-life/759df9eb-5611-4a42-b92d-aa199c6f2a7d">Apply →</a></p>
 
 ---
-*Posted 2022-01-06 · Last updated 2026-05-26 · 80k job ID `recf8nEfGIsBNg8bP`*
+*Posted 2022-01-06 · Listing synced 2026-05-26 · 80k job ID `recf8nEfGIsBNg8bP`*

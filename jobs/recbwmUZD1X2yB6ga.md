@@ -14,14 +14,15 @@ areas:
 
 **[Apollo Research](https://www.apolloresearch.ai/)**
 
-- **Location:** London, UK, UK
-- **Role type:** Part-time
-- **Experience:** Junior (1-4 years experience)
-- **Degree:** Undergraduate degree or less
-- **Salary:** $53,793 – $67,241
+<dl class="job-meta">
+<dt>Location</dt><dd>London, UK, UK</dd>
+<dt>Role type</dt><dd>Part-time</dd>
+<dt>Experience</dt><dd>Junior (1-4 years experience)</dd>
+<dt>Degree</dt><dd>Undergraduate degree or less</dd>
+<dt>Salary</dt><dd>$53,793 – $67,241</dd>
+</dl>
 
-## Tags
-AI safety & policy, Finance
+**Areas & skills:** AI safety & policy, Finance
 
 ## Summary
 - In this role, you'll execute day-to-day finance operations and convert business activity into trusted numbers for management and investors.
@@ -30,7 +31,7 @@ AI safety & policy, Finance
 - Record all transactions accurately in Xero and reconcile multi-currency bank accounts weekly.
 - Maintain meticulous attention to detail and integrity across all financial processes.
 
-[Apply →](https://jobs.lever.co/apolloresearch/8bcc07d0-ddbd-4f42-a377-a2ef95d8c366)
+<p class="apply-cta"><a href="https://jobs.lever.co/apolloresearch/8bcc07d0-ddbd-4f42-a377-a2ef95d8c366">Apply →</a></p>
 
 ---
-*Posted 2026-04-10 · Last updated 2026-05-26 · 80k job ID `recbwmUZD1X2yB6ga`*
+*Posted 2026-04-10 · Listing synced 2026-05-26 · 80k job ID `recbwmUZD1X2yB6ga`*

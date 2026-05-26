@@ -14,14 +14,15 @@ areas:
 
 **[The AI Policy Network](https://theaipn.org/)**
 
-- **Location:** Washington, DC metro area, USA
-- **Role type:** Full-time
-- **Experience:** Mid (5-9 years experience)
-- **Degree:** Undergraduate degree or less
-- **Salary:** $140,000 – $180,000
+<dl class="job-meta">
+<dt>Location</dt><dd>Washington, DC metro area, USA</dd>
+<dt>Role type</dt><dd>Full-time</dd>
+<dt>Experience</dt><dd>Mid (5-9 years experience)</dd>
+<dt>Degree</dt><dd>Undergraduate degree or less</dd>
+<dt>Salary</dt><dd>$140,000 – $180,000</dd>
+</dl>
 
-## Tags
-AI safety & policy, Policy
+**Areas & skills:** AI safety & policy, Policy
 
 ## Summary
 - In this role, you'll execute House-focused legislative strategy for AIPN's AI and superintelligence policy priorities.
@@ -30,7 +31,7 @@ AI safety & policy, Policy
 - Draft amendments, hearing questions, and policy materials tailored to House audiences.
 - Track legislation and coordinate with AIPN's policy and communications teams.
 
-[Apply →](https://theaipn.org/careers/director-of-government-affairs/)
+<p class="apply-cta"><a href="https://theaipn.org/careers/director-of-government-affairs/">Apply →</a></p>
 
 ---
-*Posted 2026-03-18 · Last updated 2026-05-26 · 80k job ID `recpOC8CC8DEdBAwi`*
+*Posted 2026-03-18 · Listing synced 2026-05-26 · 80k job ID `recpOC8CC8DEdBAwi`*

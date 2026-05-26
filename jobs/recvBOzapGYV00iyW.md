@@ -14,13 +14,14 @@ areas:
 
 **[SaferAI](https://www.safer-ai.org/)**
 
-- **Location:** London, UK, Paris, France, UK, France, Europe (ex UK)
-- **Role type:** Full-time
-- **Experience:** Junior (1-4 years experience), Mid (5-9 years experience)
-- **Degree:** Undergraduate degree or less
+<dl class="job-meta">
+<dt>Location</dt><dd>London, UK, Paris, France, UK, France, Europe (ex UK)</dd>
+<dt>Role type</dt><dd>Full-time</dd>
+<dt>Experience</dt><dd>Junior (1-4 years experience), Mid (5-9 years experience)</dd>
+<dt>Degree</dt><dd>Undergraduate degree or less</dd>
+</dl>
 
-## Tags
-AI safety & policy, Research, Policy
+**Areas & skills:** AI safety & policy, Research, Policy
 
 ## Summary
 - In this role, you'll draft technical standards text for AI risk management and evaluation at ISO/IEC, CEN-CENELEC, and NIST.
@@ -29,7 +30,7 @@ AI safety & policy, Research, Policy
 - Engage with national delegations, industry representatives, and international experts to build consensus.
 - Contribute to policy initiatives integrating standards expertise with broader AI governance efforts.
 
-[Apply →](https://www.safer-ai.org/jobs/standards-researcher)
+<p class="apply-cta"><a href="https://www.safer-ai.org/jobs/standards-researcher">Apply →</a></p>
 
 ---
-*Posted 2026-04-13 · Last updated 2026-05-26 · 80k job ID `recvBOzapGYV00iyW`*
+*Posted 2026-04-13 · Listing synced 2026-05-26 · 80k job ID `recvBOzapGYV00iyW`*

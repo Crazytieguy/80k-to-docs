@@ -14,14 +14,14 @@ areas:
 
 **[University of California, Center for Human-Compatible Artificial Intelligence](https://www.humancompatible.ai)**
 
-- **Location:** San Francisco Bay Area, Remote, Global, USA, USA (Confirmed Visas)
-- **Role type:** Full-time
-- **Experience:** Multiple experience levels
-- **Degree:** Undergraduate degree or less
-- **Location type:** Remote
+<dl class="job-meta">
+<dt>Location</dt><dd>San Francisco Bay Area, Remote, Global, USA, USA (Confirmed Visas)</dd>
+<dt>Role type</dt><dd>Full-time</dd>
+<dt>Experience</dt><dd>Multiple experience levels</dd>
+<dt>Degree</dt><dd>Undergraduate degree or less</dd>
+</dl>
 
-## Tags
-AI technical safety, Research
+**Areas & skills:** AI technical safety, Research
 
 ## Summary
 - This role requires collaboration on research that aligns with CHAI's mission across various disciplines.
@@ -30,7 +30,7 @@ AI technical safety, Research
 - Participate in weekly research seminars if currently affiliated with UC Berkeley.
 - Undergraduates interested in graduate study should apply to UC Berkeley graduate programs and indicate interest in CHAI.
 
-[Apply →](https://humancompatible.ai/jobs#research-collaborators)
+<p class="apply-cta"><a href="https://humancompatible.ai/jobs#research-collaborators">Apply →</a></p>
 
 ---
-*Posted 2022-01-11 · Last updated 2026-05-26 · 80k job ID `recjRuHTX6WgIrLnZ`*
+*Posted 2022-01-11 · Listing synced 2026-05-26 · 80k job ID `recjRuHTX6WgIrLnZ`*

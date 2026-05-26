@@ -14,14 +14,15 @@ areas:
 
 **[Center for AI Safety](https://www.cais.ai/)**
 
-- **Location:** San Francisco Bay Area, USA
-- **Role type:** Full-time
-- **Experience:** Junior (1-4 years experience), Mid (5-9 years experience)
-- **Degree:** Undergraduate degree or less
-- **Salary:** $110,000 – $180,000
+<dl class="job-meta">
+<dt>Location</dt><dd>San Francisco Bay Area, USA</dd>
+<dt>Role type</dt><dd>Full-time</dd>
+<dt>Experience</dt><dd>Junior (1-4 years experience), Mid (5-9 years experience)</dd>
+<dt>Degree</dt><dd>Undergraduate degree or less</dd>
+<dt>Salary</dt><dd>$110,000 – $180,000</dd>
+</dl>
 
-## Tags
-AI safety & policy, Outreach
+**Areas & skills:** AI safety & policy, Outreach
 
 ## Summary
 - In this role, you'll translate complex AI research into accessible public communication materials like explainers, FAQs, and briefs.
@@ -30,7 +31,7 @@ AI safety & policy, Outreach
 - Conduct thorough fact-checking and quality control to ensure editorial excellence.
 - Support media preparation and develop briefing materials for public engagement.
 
-[Apply →](https://jobs.lever.co/aisafety/a495b93a-07be-446e-a221-0694bf7d5ae3)
+<p class="apply-cta"><a href="https://jobs.lever.co/aisafety/a495b93a-07be-446e-a221-0694bf7d5ae3">Apply →</a></p>
 
 ---
-*Posted 2022-01-12 · Last updated 2026-05-26 · 80k job ID `recrxS4usi2u1pvSc`*
+*Posted 2022-01-12 · Listing synced 2026-05-26 · 80k job ID `recrxS4usi2u1pvSc`*

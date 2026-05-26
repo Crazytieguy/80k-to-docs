@@ -14,14 +14,15 @@ areas:
 
 **[Center for AI Safety](https://www.cais.ai/)**
 
-- **Location:** San Francisco Bay Area, USA
-- **Role type:** Full-time
-- **Experience:** Junior (1-4 years experience), Mid (5-9 years experience)
-- **Degree:** Undergraduate degree or less
-- **Salary:** $140,000 – $200,000
+<dl class="job-meta">
+<dt>Location</dt><dd>San Francisco Bay Area, USA</dd>
+<dt>Role type</dt><dd>Full-time</dd>
+<dt>Experience</dt><dd>Junior (1-4 years experience), Mid (5-9 years experience)</dd>
+<dt>Degree</dt><dd>Undergraduate degree or less</dd>
+<dt>Salary</dt><dd>$140,000 – $200,000</dd>
+</dl>
 
-## Tags
-AI safety & policy, Research, Software engineering
+**Areas & skills:** AI safety & policy, Research, Software engineering
 
 ## Summary
 - In this role, you'll pursue AI safety research in areas like Honesty, Utility Engineering, Trojans, Transparency, and Robustness.
@@ -30,7 +31,7 @@ AI safety & policy, Research, Software engineering
 - Design and run experiments with large language models to evaluate robustness and safety properties.
 - Develop ML competitions and scale systems across thousands of GPUs for large-scale experiments.
 
-[Apply →](https://jobs.lever.co/aisafety/116247a4-2940-4dce-b7d5-a6190328fd4e)
+<p class="apply-cta"><a href="https://jobs.lever.co/aisafety/116247a4-2940-4dce-b7d5-a6190328fd4e">Apply →</a></p>
 
 ---
-*Posted 2022-01-12 · Last updated 2026-05-26 · 80k job ID `rec9H92Na3jiI0nP2`*
+*Posted 2022-01-12 · Listing synced 2026-05-26 · 80k job ID `rec9H92Na3jiI0nP2`*

@@ -14,13 +14,14 @@ areas:
 
 **[Shanghai Artificial Intelligence Laboratory](https://www.shlab.org.cn/)**
 
-- **Location:** Shanghai, China, China, Asia
-- **Role type:** Full-time
-- **Experience:** Junior (1-4 years experience), Entry-level
-- **Degree:** Master's degree
+<dl class="job-meta">
+<dt>Location</dt><dd>Shanghai, China, China, Asia</dd>
+<dt>Role type</dt><dd>Full-time</dd>
+<dt>Experience</dt><dd>Junior (1-4 years experience), Entry-level</dd>
+<dt>Degree</dt><dd>Master's degree</dd>
+</dl>
 
-## Tags
-AI safety & policy, Research, Software engineering, Information security
+**Areas & skills:** AI safety & policy, Research, Software engineering, Information security
 
 ## Summary
 - In this role, you'll research and develop attack and defense techniques for large AI models throughout their lifecycle.
@@ -29,7 +30,7 @@ AI safety & policy, Research, Software engineering, Information security
 - Design innovative defense strategies including input filtering, anomaly detection, and parameter fine-tuning.
 - Develop secure inference architectures based on cloud-edge-device collaborative deployment.
 
-[Apply →](https://www.shlab.org.cn/joinus/detail/7562520187132643647)
+<p class="apply-cta"><a href="https://www.shlab.org.cn/joinus/detail/7562520187132643647">Apply →</a></p>
 
 ---
-*Posted 2022-01-07 · Last updated 2026-05-26 · 80k job ID `recXhmurwBWkp952v`*
+*Posted 2022-01-07 · Listing synced 2026-05-26 · 80k job ID `recXhmurwBWkp952v`*

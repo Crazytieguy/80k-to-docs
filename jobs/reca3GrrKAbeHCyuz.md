@@ -14,13 +14,14 @@ areas:
 
 **[AI & Democracy Foundation](https://aidemocracyfoundation.org/)**
 
-- **Location:** San Francisco Bay Area, USA
-- **Role type:** Full-time
-- **Experience:** Multiple experience levels
-- **Degree:** Undergraduate degree or less
+<dl class="job-meta">
+<dt>Location</dt><dd>San Francisco Bay Area, USA</dd>
+<dt>Role type</dt><dd>Full-time</dd>
+<dt>Experience</dt><dd>Multiple experience levels</dd>
+<dt>Degree</dt><dd>Undergraduate degree or less</dd>
+</dl>
 
-## Tags
-AI safety & policy, Operations, Strategy
+**Areas & skills:** AI safety & policy, Operations, Strategy
 
 ## Summary
 - In this role, you'll help build democratic infrastructure for the AI era at the AI and Democracy Foundation.
@@ -29,7 +30,7 @@ AI safety & policy, Operations, Strategy
 - Provide high-level administrative support to the CEO, managing communications and coordination (Executive Assistant).
 - Contribute your expertise in AI deliberative democracy or governance as a senior team member.
 
-[Apply →](https://airtable.com/appHnaEzJEzXRdtJW/pagFxyhLEAJumpmlC/form)
+<p class="apply-cta"><a href="https://airtable.com/appHnaEzJEzXRdtJW/pagFxyhLEAJumpmlC/form">Apply →</a></p>
 
 ---
-*Posted 2022-01-05 · Last updated 2026-05-26 · 80k job ID `reca3GrrKAbeHCyuz`*
+*Posted 2022-01-05 · Listing synced 2026-05-26 · 80k job ID `reca3GrrKAbeHCyuz`*

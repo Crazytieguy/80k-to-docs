@@ -14,14 +14,15 @@ areas:
 
 **[Apollo Research](https://www.apolloresearch.ai/)**
 
-- **Location:** London, UK, UK, UK (Confirmed Visas)
-- **Role type:** Full-time
-- **Experience:** Junior (1-4 years experience), Mid (5-9 years experience)
-- **Degree:** Undergraduate degree or less
-- **Salary:** $134,481 – $268,963
+<dl class="job-meta">
+<dt>Location</dt><dd>London, UK, UK, UK (Confirmed Visas)</dd>
+<dt>Role type</dt><dd>Full-time</dd>
+<dt>Experience</dt><dd>Junior (1-4 years experience), Mid (5-9 years experience)</dd>
+<dt>Degree</dt><dd>Undergraduate degree or less</dd>
+<dt>Salary</dt><dd>$134,481 – $268,963</dd>
+</dl>
 
-## Tags
-AI safety & policy, Research, Software engineering
+**Areas & skills:** AI safety & policy, Research, Software engineering
 
 ## Summary
 - In this role, you'll research and develop a "Science of Scheming" to detect and mitigate deceptive behaviors in AI systems.
@@ -30,7 +31,7 @@ AI safety & policy, Research, Software engineering
 - Develop empirical frameworks to predict how scheming risks evolve as models scale in capability.
 - Create novel evaluation techniques capable of detecting scheming in advanced AI systems.
 
-[Apply →](https://jobs.lever.co/apolloresearch/271eb45a-3aa9-42bb-8686-9cd1fc5e377e)
+<p class="apply-cta"><a href="https://jobs.lever.co/apolloresearch/271eb45a-3aa9-42bb-8686-9cd1fc5e377e">Apply →</a></p>
 
 ---
-*Posted 2022-01-06 · Last updated 2026-05-26 · 80k job ID `recEp6gy7LHwuLJLe`*
+*Posted 2022-01-06 · Listing synced 2026-05-26 · 80k job ID `recEp6gy7LHwuLJLe`*

@@ -14,14 +14,15 @@ areas:
 
 **[California Council on Science and Technology](https://ccst.us/)**
 
-- **Location:** Sacramento, CA, USA
-- **Role type:** Full-time
-- **Experience:** Senior (10+ years experience)
-- **Degree:** Doctoral degree
-- **Salary:** $190,000 – $220,000
+<dl class="job-meta">
+<dt>Location</dt><dd>Sacramento, CA, USA</dd>
+<dt>Role type</dt><dd>Full-time</dd>
+<dt>Experience</dt><dd>Senior (10+ years experience)</dd>
+<dt>Degree</dt><dd>Doctoral degree</dd>
+<dt>Salary</dt><dd>$190,000 – $220,000</dd>
+</dl>
 
-## Tags
-AI safety & policy, Policy
+**Areas & skills:** AI safety & policy, Policy
 
 ## Summary
 - In this role, you'll serve as California's senior technical advisor on state-level AI policy, safety, governance, and adoption.
@@ -30,7 +31,7 @@ AI safety & policy, Policy
 - Coordinate with AI governance experts across state agencies, academia, industry, and community partners.
 - Our take on this role: California is where most frontier AI companies are based, so this law is one of the most significant focused on frontier AI in the world.
 
-[Apply →](https://ccst.us/ai-advisor-caloes/)
+<p class="apply-cta"><a href="https://ccst.us/ai-advisor-caloes/">Apply →</a></p>
 
 ---
-*Posted 2026-05-25 · Last updated 2026-05-26 · 80k job ID `recVplNW2pu4t6dir`*
+*Posted 2026-05-25 · Listing synced 2026-05-26 · 80k job ID `recVplNW2pu4t6dir`*

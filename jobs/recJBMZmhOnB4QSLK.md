@@ -14,14 +14,15 @@ areas:
 
 **[Federation of American Scientists](https://fas.org/about-fas/)**
 
-- **Location:** Washington, DC metro area, USA
-- **Role type:** Full-time
-- **Experience:** Mid (5-9 years experience)
-- **Degree:** Master's degree
-- **Salary:** $110,000 – $135,000
+<dl class="job-meta">
+<dt>Location</dt><dd>Washington, DC metro area, USA</dd>
+<dt>Role type</dt><dd>Full-time</dd>
+<dt>Experience</dt><dd>Mid (5-9 years experience)</dd>
+<dt>Degree</dt><dd>Master's degree</dd>
+<dt>Salary</dt><dd>$110,000 – $135,000</dd>
+</dl>
 
-## Tags
-AI safety & policy, Policy
+**Areas & skills:** AI safety & policy, Policy
 
 ## Summary
 - In this role, you'll advance AI safety and security policy, translating technical insights into tangible policy change.
@@ -30,7 +31,7 @@ AI safety & policy, Policy
 - Engage with policymakers and technical experts to refine ideas and represent FAS at external events.
 - Design and manage convenings and briefings that facilitate dialogue across AI policy communities.
 
-[Apply →](https://fas.org/career/senior-manager-ai-safety-and-security-policy/)
+<p class="apply-cta"><a href="https://fas.org/career/senior-manager-ai-safety-and-security-policy/">Apply →</a></p>
 
 ---
-*Posted 2026-05-21 · Last updated 2026-05-26 · 80k job ID `recJBMZmhOnB4QSLK`*
+*Posted 2026-05-21 · Listing synced 2026-05-26 · 80k job ID `recJBMZmhOnB4QSLK`*

@@ -14,14 +14,15 @@ areas:
 
 **[Trajectory Labs](https://trajectorylabs.net/)**
 
-- **Location:** San Francisco Bay Area, USA
-- **Role type:** Full-time
-- **Experience:** Junior (1-4 years experience), Mid (5-9 years experience)
-- **Degree:** Undergraduate degree or less
-- **Salary:** $125,000 – $225,000
+<dl class="job-meta">
+<dt>Location</dt><dd>San Francisco Bay Area, USA</dd>
+<dt>Role type</dt><dd>Full-time</dd>
+<dt>Experience</dt><dd>Junior (1-4 years experience), Mid (5-9 years experience)</dd>
+<dt>Degree</dt><dd>Undergraduate degree or less</dd>
+<dt>Salary</dt><dd>$125,000 – $225,000</dd>
+</dl>
 
-## Tags
-AI safety & policy, Software engineering, Management
+**Areas & skills:** AI safety & policy, Software engineering, Management
 
 ## Summary
 - In this role, you'll build evaluation tasks and pipelines to keep frontier models from detecting they're being evaluated.
@@ -30,7 +31,7 @@ AI safety & policy, Software engineering, Management
 - Manage a team of five scenario designers and build internal tools to increase their productivity.
 - Collaborate with founders to prioritise what gets built and how production scales.
 
-[Apply →](https://www.trajectorylabs.com/careers/member-of-technical-staff)
+<p class="apply-cta"><a href="https://www.trajectorylabs.com/careers/member-of-technical-staff">Apply →</a></p>
 
 ---
-*Posted 2026-03-17 · Last updated 2026-05-26 · 80k job ID `recAlO2J0kkl1lujI`*
+*Posted 2026-03-17 · Listing synced 2026-05-26 · 80k job ID `recAlO2J0kkl1lujI`*

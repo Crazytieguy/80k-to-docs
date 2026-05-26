@@ -14,14 +14,15 @@ areas:
 
 **[Oxford University, Oxford Martin School](https://www.oxfordmartin.ox.ac.uk/)**
 
-- **Location:** Oxford, UK, UK
-- **Role type:** Full-time
-- **Experience:** Junior (1-4 years experience), Entry-level
-- **Degree:** Doctoral degree
-- **Salary:** $53,018 – $64,254
+<dl class="job-meta">
+<dt>Location</dt><dd>Oxford, UK, UK</dd>
+<dt>Role type</dt><dd>Full-time</dd>
+<dt>Experience</dt><dd>Junior (1-4 years experience), Entry-level</dd>
+<dt>Degree</dt><dd>Doctoral degree</dd>
+<dt>Salary</dt><dd>$53,018 – $64,254</dd>
+</dl>
 
-## Tags
-AI safety & policy, Research, Policy
+**Areas & skills:** AI safety & policy, Research, Policy
 
 ## Summary
 - In this role, you'll conduct research on international and geopolitical dimensions of AI governance, including governance frameworks, great-power competition, and national security implications.
@@ -30,7 +31,7 @@ AI safety & policy, Research, Policy
 - Translate academic research into practical governance discussions.
 - Contribute to the Initiative's research programme and policy education efforts.
 
-[Apply →](https://my.corehr.com/pls/uoxrecruit/erq_jobspec_version_4.display_form?p_company=10&p_internal_external=E&p_display_in_irish=N&p_process_type=&p_applicant_no=&p_form_profile_detail=&p_display_apply_ind=Y&p_refresh_search=Y&p_recruitment_id=186510)
+<p class="apply-cta"><a href="https://my.corehr.com/pls/uoxrecruit/erq_jobspec_version_4.display_form?p_company=10&amp;p_internal_external=E&amp;p_display_in_irish=N&amp;p_process_type=&amp;p_applicant_no=&amp;p_form_profile_detail=&amp;p_display_apply_ind=Y&amp;p_refresh_search=Y&amp;p_recruitment_id=186510">Apply →</a></p>
 
 ---
-*Posted 2026-05-18 · Last updated 2026-05-26 · 80k job ID `reclYur1PCiNOJL57`*
+*Posted 2026-05-18 · Listing synced 2026-05-26 · 80k job ID `reclYur1PCiNOJL57`*

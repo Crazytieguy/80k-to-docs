@@ -14,14 +14,15 @@ areas:
 
 **[OpenAI](https://openai.com/)**
 
-- **Location:** San Francisco Bay Area, USA
-- **Role type:** Full-time
-- **Experience:** Mid (5-9 years experience)
-- **Degree:** Undergraduate degree or less
-- **Salary:** $288,000 – $320,000
+<dl class="job-meta">
+<dt>Location</dt><dd>San Francisco Bay Area, USA</dd>
+<dt>Role type</dt><dd>Full-time</dd>
+<dt>Experience</dt><dd>Mid (5-9 years experience)</dd>
+<dt>Degree</dt><dd>Undergraduate degree or less</dd>
+<dt>Salary</dt><dd>$288,000 – $320,000</dd>
+</dl>
 
-## Tags
-AI safety & policy, Research, Information security
+**Areas & skills:** AI safety & policy, Research, Information security
 
 ## Summary
 - In this role, you'll investigate model behavior to identify agentic or autonomous patterns that introduce safety risks.
@@ -30,7 +31,7 @@ AI safety & policy, Research, Information security
 - Identify gaps in safeguards, evaluations, or monitoring systems and propose improvements.
 - Communicate investigation findings clearly to technical, policy, and leadership stakeholders.
 
-[Apply →](https://openai.com/careers/abuse-investigator-(ai-self-improvement-risk)-san-francisco/)
+<p class="apply-cta"><a href="https://openai.com/careers/abuse-investigator-(ai-self-improvement-risk)-san-francisco/">Apply →</a></p>
 
 ---
-*Posted 2026-04-16 · Last updated 2026-05-26 · 80k job ID `recFuXp1azdOvbwK5`*
+*Posted 2026-04-16 · Listing synced 2026-05-26 · 80k job ID `recFuXp1azdOvbwK5`*

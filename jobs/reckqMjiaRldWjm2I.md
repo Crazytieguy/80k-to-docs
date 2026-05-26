@@ -14,15 +14,15 @@ areas:
 
 **[Successif](https://www.successif.org/)**
 
-- **Location:** Remote, Global
-- **Role type:** Part-time
-- **Experience:** Entry-level
-- **Degree:** Undergraduate degree or less
-- **Salary:** $62,400
-- **Location type:** Remote
+<dl class="job-meta">
+<dt>Location</dt><dd>Remote, Global</dd>
+<dt>Role type</dt><dd>Part-time</dd>
+<dt>Experience</dt><dd>Entry-level</dd>
+<dt>Degree</dt><dd>Undergraduate degree or less</dd>
+<dt>Salary</dt><dd>$62,400</dd>
+</dl>
 
-## Tags
-AI safety & policy, Operations
+**Areas & skills:** AI safety & policy, Operations
 
 ## Summary
 - In this role, you'll score applications to an AI safety advising program using a structured rubric, evaluating candidate background, motivation, and fit.
@@ -31,7 +31,7 @@ AI safety & policy, Operations
 - Communicate asynchronously with team members on borderline cases to align on scoring.
 - Read between the lines to assess potential and match fit beyond credentials alone.
 
-[Apply →](https://www.successif.org/application-scorer)
+<p class="apply-cta"><a href="https://www.successif.org/application-scorer">Apply →</a></p>
 
 ---
-*Posted 2026-04-13 · Last updated 2026-05-26 · 80k job ID `reckqMjiaRldWjm2I`*
+*Posted 2026-04-13 · Listing synced 2026-05-26 · 80k job ID `reckqMjiaRldWjm2I`*

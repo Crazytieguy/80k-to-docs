@@ -14,13 +14,14 @@ areas:
 
 **[BlueDot Impact](https://www.bluedotimpact.org/)**
 
-- **Location:** London, UK, San Francisco Bay Area, UK, USA
-- **Role type:** Funding
-- **Experience:** Multiple experience levels
-- **Degree:** Undergraduate degree or less
+<dl class="job-meta">
+<dt>Location</dt><dd>London, UK, San Francisco Bay Area, UK, USA</dd>
+<dt>Role type</dt><dd>Funding</dd>
+<dt>Experience</dt><dd>Multiple experience levels</dd>
+<dt>Degree</dt><dd>Undergraduate degree or less</dd>
+</dl>
 
-## Tags
-AI safety & policy, Strategy
+**Areas & skills:** AI safety & policy, Strategy
 
 ## Summary
 - In the incubator week, you'll develop your AI safety idea into a fundable organisation over 5 days in London.
@@ -29,7 +30,7 @@ AI safety & policy, Strategy
 - Sharpen your pitch story and prepare your investor presentation.
 - Pitch your idea to potential funders.
 
-[Apply →](https://bluedot.org/programs/incubator-week)
+<p class="apply-cta"><a href="https://bluedot.org/programs/incubator-week">Apply →</a></p>
 
 ---
-*Posted 2026-05-08 · Last updated 2026-05-26 · 80k job ID `recQeGL57tZqSsTvt`*
+*Posted 2026-05-08 · Listing synced 2026-05-26 · 80k job ID `recQeGL57tZqSsTvt`*

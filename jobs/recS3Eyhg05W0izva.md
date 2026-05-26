@@ -14,14 +14,15 @@ areas:
 
 **[General-Purpose AI Policy Lab](https://gpai-policy-lab.org/)**
 
-- **Location:** Paris, France, France, Europe (ex UK)
-- **Role type:** Full-time
-- **Experience:** Junior (1-4 years experience), Mid (5-9 years experience)
-- **Degree:** Undergraduate degree or less
-- **Salary:** $33,489 – $41,861
+<dl class="job-meta">
+<dt>Location</dt><dd>Paris, France, France, Europe (ex UK)</dd>
+<dt>Role type</dt><dd>Full-time</dd>
+<dt>Experience</dt><dd>Junior (1-4 years experience), Mid (5-9 years experience)</dd>
+<dt>Degree</dt><dd>Undergraduate degree or less</dd>
+<dt>Salary</dt><dd>$33,489 – $41,861</dd>
+</dl>
 
-## Tags
-AI safety & policy, Policy
+**Areas & skills:** AI safety & policy, Policy
 
 ## Summary
 - In this role, you will be responsible for organising and preparing dialogues between international researchers on general-purpose AI issues.
@@ -29,7 +30,7 @@ AI safety & policy, Policy
 - Design and implement international scientific events such as workshops, seminars, and conferences.
 - Manage information meticulously to ensure a trusted framework for researcher exchanges.
 
-[Apply →](https://www.linkedin.com/posts/gpai-policy-lab_project-officer-international-coordination-activity-7297155426943422464-MhxW/)
+<p class="apply-cta"><a href="https://www.linkedin.com/posts/gpai-policy-lab_project-officer-international-coordination-activity-7297155426943422464-MhxW/">Apply →</a></p>
 
 ---
-*Posted 2022-01-06 · Last updated 2026-05-26 · 80k job ID `recS3Eyhg05W0izva`*
+*Posted 2022-01-06 · Listing synced 2026-05-26 · 80k job ID `recS3Eyhg05W0izva`*

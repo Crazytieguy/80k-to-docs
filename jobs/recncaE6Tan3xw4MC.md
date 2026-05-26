@@ -14,13 +14,14 @@ areas:
 
 **[LawZero](https://lawzero.org/en)**
 
-- **Location:** Montreal, Canada, Canada
-- **Role type:** Full-time
-- **Experience:** Mid (5-9 years experience)
-- **Degree:** Undergraduate degree or less
+<dl class="job-meta">
+<dt>Location</dt><dd>Montreal, Canada, Canada</dd>
+<dt>Role type</dt><dd>Full-time</dd>
+<dt>Experience</dt><dd>Mid (5-9 years experience)</dd>
+<dt>Degree</dt><dd>Undergraduate degree or less</dd>
+</dl>
 
-## Tags
-AI safety & policy, Operations
+**Areas & skills:** AI safety & policy, Operations
 
 ## Summary
 - In this role, you'll support organizational growth by recruiting technical talent in AI, ML, and AI Safety fields.
@@ -29,7 +30,7 @@ AI safety & policy, Operations
 - Collaborate with hiring managers and technical leadership to clarify needs and define profiles.
 - Manage the complete offer process including preparation, negotiation, and successful closure.
 
-[Apply →](https://job-boards.greenhouse.io/lawzero/jobs/4178629009)
+<p class="apply-cta"><a href="https://job-boards.greenhouse.io/lawzero/jobs/4178629009">Apply →</a></p>
 
 ---
-*Posted 2026-03-10 · Last updated 2026-05-26 · 80k job ID `recncaE6Tan3xw4MC`*
+*Posted 2026-03-10 · Listing synced 2026-05-26 · 80k job ID `recncaE6Tan3xw4MC`*

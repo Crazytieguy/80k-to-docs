@@ -14,13 +14,14 @@ areas:
 
 **[University of Texas at Austin, Department of Computer Science](https://www.cs.utexas.edu/)**
 
-- **Location:** Austin, TX, USA
-- **Role type:** Full-time
-- **Experience:** Entry-level
-- **Degree:** Doctoral degree
+<dl class="job-meta">
+<dt>Location</dt><dd>Austin, TX, USA</dd>
+<dt>Role type</dt><dd>Full-time</dd>
+<dt>Experience</dt><dd>Entry-level</dd>
+<dt>Degree</dt><dd>Doctoral degree</dd>
+</dl>
 
-## Tags
-AI safety & policy, Research
+**Areas & skills:** AI safety & policy, Research
 
 ## Summary
 - In this role, you'll conduct research in theoretical computer science motivated by AI alignment at UT Austin.
@@ -29,7 +30,7 @@ AI safety & policy, Research
 - Supervise PhD students and postdocs working on CS theory for AI alignment.
 - Collaborate with organizations like the Alignment Research Center to develop algorithms for explaining neural network behavior.
 
-[Apply →](https://scottaaronson.blog/?p=8790)
+<p class="apply-cta"><a href="https://scottaaronson.blog/?p=8790">Apply →</a></p>
 
 ---
-*Posted 2022-01-06 · Last updated 2026-05-26 · 80k job ID `recf9j5oQNyt8A8qv`*
+*Posted 2022-01-06 · Listing synced 2026-05-26 · 80k job ID `recf9j5oQNyt8A8qv`*

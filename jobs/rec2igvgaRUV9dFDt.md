@@ -14,14 +14,15 @@ areas:
 
 **[The AI Policy Network](https://theaipn.org/)**
 
-- **Location:** Washington, DC metro area, USA
-- **Role type:** Full-time
-- **Experience:** Junior (1-4 years experience), Mid (5-9 years experience)
-- **Degree:** Undergraduate degree or less
-- **Salary:** $115,000 – $140,000
+<dl class="job-meta">
+<dt>Location</dt><dd>Washington, DC metro area, USA</dd>
+<dt>Role type</dt><dd>Full-time</dd>
+<dt>Experience</dt><dd>Junior (1-4 years experience), Mid (5-9 years experience)</dd>
+<dt>Degree</dt><dd>Undergraduate degree or less</dd>
+<dt>Salary</dt><dd>$115,000 – $140,000</dd>
+</dl>
 
-## Tags
-AI safety & policy, Outreach
+**Areas & skills:** AI safety & policy, Outreach
 
 ## Summary
 - In this role, you'll manage AIPN's grassroots program including email, SMS, digital ads, and constituent activation for AI policy advocacy.
@@ -30,7 +31,7 @@ AI safety & policy, Outreach
 - Run organic social media and develop paid digital advertising strategy.
 - Coordinate with Government Affairs and Communications teams on messaging and advocacy timing.
 
-[Apply →](https://theaipn.org/careers/director-digital-organizing/)
+<p class="apply-cta"><a href="https://theaipn.org/careers/director-digital-organizing/">Apply →</a></p>
 
 ---
-*Posted 2026-05-12 · Last updated 2026-05-26 · 80k job ID `rec2igvgaRUV9dFDt`*
+*Posted 2026-05-12 · Listing synced 2026-05-26 · 80k job ID `rec2igvgaRUV9dFDt`*

@@ -14,13 +14,14 @@ areas:
 
 **[Faculty](https://faculty.ai/)**
 
-- **Location:** London, UK, UK
-- **Role type:** Full-time
-- **Experience:** Mid (5-9 years experience), Senior (10+ years experience)
-- **Degree:** Undergraduate degree or less
+<dl class="job-meta">
+<dt>Location</dt><dd>London, UK, UK</dd>
+<dt>Role type</dt><dd>Full-time</dd>
+<dt>Experience</dt><dd>Mid (5-9 years experience), Senior (10+ years experience)</dd>
+<dt>Degree</dt><dd>Undergraduate degree or less</dd>
+</dl>
 
-## Tags
-AI safety & policy, Research, Management
+**Areas & skills:** AI safety & policy, Research, Management
 
 ## Summary
 - In this role, you'll lead Faculty's AI safety research team, shaping the agenda for safe AI systems with a focus on language models.
@@ -29,7 +30,7 @@ AI safety & policy, Research, Management
 - Build and mentor a growing team of researchers while fostering an innovative culture.
 - Collaborate on evaluations and red-teaming projects in high-risk domains like CBRN and cybersecurity.
 
-[Apply →](https://jobs.ashbyhq.com/faculty/6ad13f20-8a65-454f-b7c7-4d5260f306bf)
+<p class="apply-cta"><a href="https://jobs.ashbyhq.com/faculty/6ad13f20-8a65-454f-b7c7-4d5260f306bf">Apply →</a></p>
 
 ---
-*Posted 2022-01-05 · Last updated 2026-05-26 · 80k job ID `rechTrSs4GF4QWzJN`*
+*Posted 2022-01-05 · Listing synced 2026-05-26 · 80k job ID `rechTrSs4GF4QWzJN`*

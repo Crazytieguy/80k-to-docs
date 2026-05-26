@@ -14,14 +14,15 @@ areas:
 
 **[Advanced Research and Invention Agency](https://www.aria.org.uk/)**
 
-- **Location:** London, UK, UK
-- **Role type:** Full-time
-- **Experience:** Junior (1-4 years experience), Mid (5-9 years experience)
-- **Degree:** Doctoral degree
-- **Salary:** $94,137 – $141,205
+<dl class="job-meta">
+<dt>Location</dt><dd>London, UK, UK</dd>
+<dt>Role type</dt><dd>Full-time</dd>
+<dt>Experience</dt><dd>Junior (1-4 years experience), Mid (5-9 years experience)</dd>
+<dt>Degree</dt><dd>Doctoral degree</dd>
+<dt>Salary</dt><dd>$94,137 – $141,205</dd>
+</dl>
 
-## Tags
-AI safety & policy, Strategy
+**Areas & skills:** AI safety & policy, Strategy
 
 ## Summary
 - In this role, you'll lead the technical delivery of ARIA's Scaling Trust programme, shaping research on AI agents in untrusted environments.
@@ -30,7 +31,7 @@ AI safety & policy, Strategy
 - Identify emerging technologies and co-author white papers that articulate the programme's vision.
 - Build relationships with researchers and labs, representing the programme externally and supporting project delivery.
 
-[Apply →](https://aria.pinpointhq.com/en/postings/1ade5ec1-be4f-4e3c-a666-ee72b9375424)
+<p class="apply-cta"><a href="https://aria.pinpointhq.com/en/postings/1ade5ec1-be4f-4e3c-a666-ee72b9375424">Apply →</a></p>
 
 ---
-*Posted 2026-04-08 · Last updated 2026-05-26 · 80k job ID `recD2JpTFfj17eMQC`*
+*Posted 2026-04-08 · Listing synced 2026-05-26 · 80k job ID `recD2JpTFfj17eMQC`*

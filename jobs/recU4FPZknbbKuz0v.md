@@ -14,14 +14,15 @@ areas:
 
 **[Center for AI Safety](https://www.cais.ai/)**
 
-- **Location:** San Francisco Bay Area, USA
-- **Role type:** Internship
-- **Experience:** Entry-level
-- **Degree:** Undergraduate degree or less
-- **Salary:** $9,700 – $19,000
+<dl class="job-meta">
+<dt>Location</dt><dd>San Francisco Bay Area, USA</dd>
+<dt>Role type</dt><dd>Internship</dd>
+<dt>Experience</dt><dd>Entry-level</dd>
+<dt>Degree</dt><dd>Undergraduate degree or less</dd>
+<dt>Salary</dt><dd>$9,700 – $19,000</dd>
+</dl>
 
-## Tags
-AI safety & policy, Research, Software engineering
+**Areas & skills:** AI safety & policy, Research, Software engineering
 
 ## Summary
 - In this role, you'll contribute to AI safety research on security, ethics, alignment, and benchmarking AI risks.
@@ -30,7 +31,7 @@ AI safety & policy, Research, Software engineering
 - Debate and defend your own experimental approaches and contribute to project direction.
 - Take ownership of your contributions and work as a colleague within the research team.
 
-[Apply →](https://jobs.lever.co/aisafety/e011814b-9a80-43d6-bb0c-cc153ea4bec4)
+<p class="apply-cta"><a href="https://jobs.lever.co/aisafety/e011814b-9a80-43d6-bb0c-cc153ea4bec4">Apply →</a></p>
 
 ---
-*Posted 2026-03-11 · Last updated 2026-05-26 · 80k job ID `recU4FPZknbbKuz0v`*
+*Posted 2026-03-11 · Listing synced 2026-05-26 · 80k job ID `recU4FPZknbbKuz0v`*

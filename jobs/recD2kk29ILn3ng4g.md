@@ -14,14 +14,15 @@ areas:
 
 **[Schmidt Sciences](https://www.schmidtsciences.org/)**
 
-- **Location:** New York, NY, USA
-- **Role type:** Fellowship
-- **Experience:** Entry-level
-- **Degree:** Doctoral degree
-- **Salary:** $150,000
+<dl class="job-meta">
+<dt>Location</dt><dd>New York, NY, USA</dd>
+<dt>Role type</dt><dd>Fellowship</dd>
+<dt>Experience</dt><dd>Entry-level</dd>
+<dt>Degree</dt><dd>Doctoral degree</dd>
+<dt>Salary</dt><dd>$150,000</dd>
+</dl>
 
-## Tags
-AI safety & policy, Research, Strategy
+**Areas & skills:** AI safety & policy, Research, Strategy
 
 ## Summary
 - In this 12-18 month fellowship, you'll split your time between supporting the AI Institute and pursuing research projects aligned with the Institute's priorities.
@@ -29,7 +30,7 @@ AI safety & policy, Research, Strategy
 - Contribute to the AI Institute by assessing research proposals and designing grantmaking programs.
 - Leverage Schmidt Sciences' network to collaborate with stakeholders in the AI ecosystem.
 
-[Apply →](https://jobs.lever.co/schmidt-entities/c42b4c52-d92a-4bd6-bac6-6b2d94159b35)
+<p class="apply-cta"><a href="https://jobs.lever.co/schmidt-entities/c42b4c52-d92a-4bd6-bac6-6b2d94159b35">Apply →</a></p>
 
 ---
-*Posted 2026-05-08 · Last updated 2026-05-26 · 80k job ID `recD2kk29ILn3ng4g`*
+*Posted 2026-05-08 · Listing synced 2026-05-26 · 80k job ID `recD2kk29ILn3ng4g`*

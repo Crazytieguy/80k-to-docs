@@ -14,14 +14,15 @@ areas:
 
 **[Encode](https://encodeai.org/)**
 
-- **Location:** Washington, DC metro area, USA
-- **Role type:** Full-time
-- **Experience:** Junior (1-4 years experience), Mid (5-9 years experience)
-- **Degree:** Undergraduate degree or less
-- **Salary:** $120,000 – $180,000
+<dl class="job-meta">
+<dt>Location</dt><dd>Washington, DC metro area, USA</dd>
+<dt>Role type</dt><dd>Full-time</dd>
+<dt>Experience</dt><dd>Junior (1-4 years experience), Mid (5-9 years experience)</dd>
+<dt>Degree</dt><dd>Undergraduate degree or less</dd>
+<dt>Salary</dt><dd>$120,000 – $180,000</dd>
+</dl>
 
-## Tags
-AI safety & policy, Policy, Outreach
+**Areas & skills:** AI safety & policy, Policy, Outreach
 
 ## Summary
 - In this role, you'll build coalitions to drive AI policy priorities forward across federal and state campaigns.
@@ -30,7 +31,7 @@ AI safety & policy, Policy, Outreach
 - Analyse complex legislation and prepare briefs, talking points, and policy explainers for partners and policymakers.
 - Manage digital infrastructure including coalition lists, email campaigns, and supporter communications.
 
-[Apply →](https://docs.google.com/document/d/1R1jCGo4_oPzCUuvGd-TSO6QkLC5SnHkHFktmLj4tGIU/edit?tab=t.0)
+<p class="apply-cta"><a href="https://docs.google.com/document/d/1R1jCGo4_oPzCUuvGd-TSO6QkLC5SnHkHFktmLj4tGIU/edit?tab=t.0">Apply →</a></p>
 
 ---
-*Posted 2026-04-21 · Last updated 2026-05-26 · 80k job ID `recwxcvYITrj0M4uc`*
+*Posted 2026-04-21 · Listing synced 2026-05-26 · 80k job ID `recwxcvYITrj0M4uc`*

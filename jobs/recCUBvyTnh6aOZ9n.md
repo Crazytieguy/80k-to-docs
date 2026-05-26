@@ -14,14 +14,15 @@ areas:
 
 **[OpenAI](https://openai.com/)**
 
-- **Location:** San Francisco Bay Area, USA
-- **Role type:** Full-time
-- **Experience:** Mid (5-9 years experience)
-- **Degree:** Undergraduate degree or less
-- **Salary:** $207,000 – $295,000
+<dl class="job-meta">
+<dt>Location</dt><dd>San Francisco Bay Area, USA</dd>
+<dt>Role type</dt><dd>Full-time</dd>
+<dt>Experience</dt><dd>Mid (5-9 years experience)</dd>
+<dt>Degree</dt><dd>Undergraduate degree or less</dd>
+<dt>Salary</dt><dd>$207,000 – $295,000</dd>
+</dl>
 
-## Tags
-AI safety & policy, Strategy
+**Areas & skills:** AI safety & policy, Strategy
 
 ## Summary
 - In this role, you'll define how AI models should behave in high-risk contexts, translating safety concerns into behavioral specifications.
@@ -30,7 +31,7 @@ AI safety & policy, Strategy
 - Use red-teaming results and deployment data to identify emerging risks and improve policy quality.
 - Design human data campaigns to measure and improve policy adherence.
 
-[Apply →](https://openai.com/careers/model-policy-san-francisco/)
+<p class="apply-cta"><a href="https://openai.com/careers/model-policy-san-francisco/">Apply →</a></p>
 
 ---
-*Posted 2026-05-19 · Last updated 2026-05-26 · 80k job ID `recCUBvyTnh6aOZ9n`*
+*Posted 2026-05-19 · Listing synced 2026-05-26 · 80k job ID `recCUBvyTnh6aOZ9n`*

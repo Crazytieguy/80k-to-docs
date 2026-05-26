@@ -14,14 +14,15 @@ areas:
 
 **[Anthropic](https://www.anthropic.com/)**
 
-- **Location:** San Francisco Bay Area, New York, NY, Seattle metro area, USA, USA (Confirmed Visas)
-- **Role type:** Full-time
-- **Experience:** Mid (5-9 years experience), Senior (10+ years experience)
-- **Degree:** Undergraduate degree or less
-- **Salary:** $405,000 – $485,000
+<dl class="job-meta">
+<dt>Location</dt><dd>San Francisco Bay Area, New York, NY, Seattle metro area, USA, USA (Confirmed Visas)</dd>
+<dt>Role type</dt><dd>Full-time</dd>
+<dt>Experience</dt><dd>Mid (5-9 years experience), Senior (10+ years experience)</dd>
+<dt>Degree</dt><dd>Undergraduate degree or less</dd>
+<dt>Salary</dt><dd>$405,000 – $485,000</dd>
+</dl>
 
-## Tags
-AI safety & policy, Software engineering, Information security
+**Areas & skills:** AI safety & policy, Software engineering, Information security
 
 ## Summary
 - In this role, you'll design and build complex security systems that protect Anthropic's AI infrastructure and maintain user trust.
@@ -30,7 +31,7 @@ AI safety & policy, Software engineering, Information security
 - Implement cloud security controls including IAM, network segmentation, and encryption.
 - Build security frameworks that empower engineering teams to work securely.
 
-[Apply →](https://job-boards.greenhouse.io/anthropic/jobs/5120512008)
+<p class="apply-cta"><a href="https://job-boards.greenhouse.io/anthropic/jobs/5120512008">Apply →</a></p>
 
 ---
-*Posted 2022-01-11 · Last updated 2026-05-26 · 80k job ID `recqabCW8NA7McMul`*
+*Posted 2022-01-11 · Listing synced 2026-05-26 · 80k job ID `recqabCW8NA7McMul`*

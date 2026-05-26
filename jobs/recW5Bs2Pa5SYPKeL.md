@@ -14,19 +14,19 @@ areas:
 
 **[Harmony Intelligence](https://www.harmonyintelligence.com/)**
 
-- **Location:** Remote, Global
-- **Role type:** Full-time
-- **Experience:** Multiple experience levels
-- **Degree:** Undergraduate degree or less
-- **Location type:** Remote
+<dl class="job-meta">
+<dt>Location</dt><dd>Remote, Global</dd>
+<dt>Role type</dt><dd>Full-time</dd>
+<dt>Experience</dt><dd>Multiple experience levels</dd>
+<dt>Degree</dt><dd>Undergraduate degree or less</dd>
+</dl>
 
-## Tags
-AI safety & policy, Research, Outreach, Operations, Software engineering
+**Areas & skills:** AI safety & policy, Research, Outreach, Operations, Software engineering
 
 ## Summary
 - Express interest in future openings spanning Engineering, Research, Sales, Marketing, Operations, People, and more.
 
-[Apply →](https://www.harmonyintelligence.com/careers#:~:text=APPLY-,Expression%20of%20interest,-If%20none%20of)
+<p class="apply-cta"><a href="https://www.harmonyintelligence.com/careers#:~:text=APPLY-,Expression%20of%20interest,-If%20none%20of">Apply →</a></p>
 
 ---
-*Posted 2022-01-05 · Last updated 2026-05-26 · 80k job ID `recW5Bs2Pa5SYPKeL`*
+*Posted 2022-01-05 · Listing synced 2026-05-26 · 80k job ID `recW5Bs2Pa5SYPKeL`*

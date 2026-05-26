@@ -14,19 +14,20 @@ areas:
 
 **[Google DeepMind](https://www.deepmind.com)**
 
-- **Location:** London, UK, UK, UK (Confirmed Visas)
-- **Role type:** Internship
-- **Experience:** Entry-level
-- **Degree:** Master's degree
+<dl class="job-meta">
+<dt>Location</dt><dd>London, UK, UK, UK (Confirmed Visas)</dd>
+<dt>Role type</dt><dd>Internship</dd>
+<dt>Experience</dt><dd>Entry-level</dd>
+<dt>Degree</dt><dd>Master's degree</dd>
+</dl>
 
-## Tags
-AI safety & policy, Software engineering, Information security
+**Areas & skills:** AI safety & policy, Software engineering, Information security
 
 ## Summary
 - This is an expression of interest to measure interest in in-person student internships at Google DeepMind, London.
 - The student will be expected to conduct research at the intersection of Machine Learning, Safety, Security and Privacy.
 
-[Apply →](https://docs.google.com/forms/d/e/1FAIpQLSemEPS7apiFoQiv91EX5cz0GWSUBcUhuiDeKGLwWrHoiJd4nw/viewform)
+<p class="apply-cta"><a href="https://docs.google.com/forms/d/e/1FAIpQLSemEPS7apiFoQiv91EX5cz0GWSUBcUhuiDeKGLwWrHoiJd4nw/viewform">Apply →</a></p>
 
 ---
-*Posted 2022-01-12 · Last updated 2026-05-26 · 80k job ID `recq8pklZPxmyAcMl`*
+*Posted 2022-01-12 · Listing synced 2026-05-26 · 80k job ID `recq8pklZPxmyAcMl`*

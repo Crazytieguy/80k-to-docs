@@ -14,14 +14,15 @@ areas:
 
 **[Meridian](https://www.meridiancambridge.org/)**
 
-- **Location:** Cambridge, UK, UK, UK (Confirmed Visas)
-- **Role type:** Full-time
-- **Experience:** Junior (1-4 years experience), Entry-level
-- **Degree:** Undergraduate degree or less
-- **Salary:** $53,793 – $73,965
+<dl class="job-meta">
+<dt>Location</dt><dd>Cambridge, UK, UK, UK (Confirmed Visas)</dd>
+<dt>Role type</dt><dd>Full-time</dd>
+<dt>Experience</dt><dd>Junior (1-4 years experience), Entry-level</dd>
+<dt>Degree</dt><dd>Undergraduate degree or less</dd>
+<dt>Salary</dt><dd>$53,793 – $73,965</dd>
+</dl>
 
-## Tags
-AI safety & policy, Operations
+**Areas & skills:** AI safety & policy, Operations
 
 ## Summary
 - In this role, you'll manage Meridian's workspace and coordinate logistics across AI safety research programs in Cambridge.
@@ -30,7 +31,7 @@ AI safety & policy, Operations
 - Organize workshops, journal clubs, and community events for AI safety and biosecurity researchers.
 - Welcome new researchers, run orientations, and build relationships across research networks.
 
-[Apply →](https://www.meridiancambridge.org/community-ops-coordinator)
+<p class="apply-cta"><a href="https://www.meridiancambridge.org/community-ops-coordinator">Apply →</a></p>
 
 ---
-*Posted 2022-01-07 · Last updated 2026-05-26 · 80k job ID `recc0s725J1BH6lZO`*
+*Posted 2022-01-07 · Listing synced 2026-05-26 · 80k job ID `recc0s725J1BH6lZO`*

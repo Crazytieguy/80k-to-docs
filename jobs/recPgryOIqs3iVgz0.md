@@ -14,14 +14,15 @@ areas:
 
 **[Council on Foreign Relations](https://cfr.org)**
 
-- **Location:** Washington, DC metro area, USA
-- **Role type:** Full-time
-- **Experience:** Junior (1-4 years experience)
-- **Degree:** Undergraduate degree or less
-- **Salary:** $55,000 – $58,000
+<dl class="job-meta">
+<dt>Location</dt><dd>Washington, DC metro area, USA</dd>
+<dt>Role type</dt><dd>Full-time</dd>
+<dt>Experience</dt><dd>Junior (1-4 years experience)</dd>
+<dt>Degree</dt><dd>Undergraduate degree or less</dd>
+<dt>Salary</dt><dd>$55,000 – $58,000</dd>
+</dl>
 
-## Tags
-AI safety & policy, Operations
+**Areas & skills:** AI safety & policy, Operations
 
 ## Summary
 - In this role, you'll support senior fellows and the LEAD AI program with comprehensive administrative and operational assistance.
@@ -30,7 +31,7 @@ AI safety & policy, Operations
 - Assist with editing, formatting, and preparation of publications and reports.
 - Support website and digital communications by updating profiles, posting content, and managing social media.
 
-[Apply →](https://careers-cfr.icims.com/jobs/2923/program-assistant%2c-lead-ai/job?in_iframe=1)
+<p class="apply-cta"><a href="https://careers-cfr.icims.com/jobs/2923/program-assistant%2c-lead-ai/job?in_iframe=1">Apply →</a></p>
 
 ---
-*Posted 2026-05-01 · Last updated 2026-05-26 · 80k job ID `recPgryOIqs3iVgz0`*
+*Posted 2026-05-01 · Listing synced 2026-05-26 · 80k job ID `recPgryOIqs3iVgz0`*

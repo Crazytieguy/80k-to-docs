@@ -14,14 +14,15 @@ areas:
 
 **[OpenAI](https://openai.com/)**
 
-- **Location:** San Francisco Bay Area, USA
-- **Role type:** Full-time
-- **Experience:** Senior (10+ years experience)
-- **Degree:** Undergraduate degree or less
-- **Salary:** $347,000 – $490,000
+<dl class="job-meta">
+<dt>Location</dt><dd>San Francisco Bay Area, USA</dd>
+<dt>Role type</dt><dd>Full-time</dd>
+<dt>Experience</dt><dd>Senior (10+ years experience)</dd>
+<dt>Degree</dt><dd>Undergraduate degree or less</dd>
+<dt>Salary</dt><dd>$347,000 – $490,000</dd>
+</dl>
 
-## Tags
-AI safety & policy, Information security, Management
+**Areas & skills:** AI safety & policy, Information security, Management
 
 ## Summary
 - In this role, you'll own and scale OpenAI's cybersecurity detection and response operations across global infrastructure.
@@ -30,7 +31,7 @@ AI safety & policy, Information security, Management
 - Improve detection quality by partnering with engineering teams to enhance telemetry across environments.
 - Build a security program capable of withstanding tier-1 adversaries by leveraging AI to solve frontier security problems.
 
-[Apply →](https://openai.com/careers/global-detection-and-response-lead-san-francisco/)
+<p class="apply-cta"><a href="https://openai.com/careers/global-detection-and-response-lead-san-francisco/">Apply →</a></p>
 
 ---
-*Posted 2022-01-11 · Last updated 2026-05-26 · 80k job ID `recddCRFGXCPv47Tg`*
+*Posted 2022-01-11 · Listing synced 2026-05-26 · 80k job ID `recddCRFGXCPv47Tg`*

@@ -14,20 +14,20 @@ areas:
 
 **[AISafety.com](https://www.aisafety.com/)**
 
-- **Location:** Remote, Global
-- **Role type:** Volunteering
-- **Experience:** Entry-level
-- **Degree:** Undergraduate degree or less
-- **Location type:** Remote
+<dl class="job-meta">
+<dt>Location</dt><dd>Remote, Global</dd>
+<dt>Role type</dt><dd>Volunteering</dd>
+<dt>Experience</dt><dd>Entry-level</dd>
+<dt>Degree</dt><dd>Undergraduate degree or less</dd>
+</dl>
 
-## Tags
-AI safety & policy, Research, Outreach, Operations
+**Areas & skills:** AI safety & policy, Research, Outreach, Operations
 
 ## Summary
 - Opportunities to volunteer with various AI safety projects.
 - Page includes active projects and project ideas.
 
-[Apply →](https://www.aisafety.com/projects)
+<p class="apply-cta"><a href="https://www.aisafety.com/projects">Apply →</a></p>
 
 ---
-*Posted 2022-01-06 · Last updated 2026-05-26 · 80k job ID `recH1Q8kptN8XzJ9O`*
+*Posted 2022-01-06 · Listing synced 2026-05-26 · 80k job ID `recH1Q8kptN8XzJ9O`*

@@ -14,13 +14,14 @@ areas:
 
 **[University of California, Center for Human-Compatible Artificial Intelligence](https://www.humancompatible.ai)**
 
-- **Location:** San Francisco Bay Area, USA, USA (Confirmed Visas)
-- **Role type:** Fellowship
-- **Experience:** Multiple experience levels
-- **Degree:** Doctoral degree
+<dl class="job-meta">
+<dt>Location</dt><dd>San Francisco Bay Area, USA, USA (Confirmed Visas)</dd>
+<dt>Role type</dt><dd>Fellowship</dd>
+<dt>Experience</dt><dd>Multiple experience levels</dd>
+<dt>Degree</dt><dd>Doctoral degree</dd>
+</dl>
 
-## Tags
-AI technical safety, Research, Policy, Software engineering
+**Areas & skills:** AI technical safety, Research, Policy, Software engineering
 
 ## Summary
 - The CHAI Research Fellowship offers flexible start dates.
@@ -29,7 +30,7 @@ AI technical safety, Research, Policy, Software engineering
 - Responsibilities include leading collaborations and potentially teaching.
 - Outcomes include published research and contributions to the field of AI.
 
-[Apply →](https://humancompatible.ai/jobs#the-chai-research-fellowship)
+<p class="apply-cta"><a href="https://humancompatible.ai/jobs#the-chai-research-fellowship">Apply →</a></p>
 
 ---
-*Posted 2026-05-22 · Last updated 2026-05-26 · 80k job ID `recuHoW48ZzFUjAT3`*
+*Posted 2026-05-22 · Listing synced 2026-05-26 · 80k job ID `recuHoW48ZzFUjAT3`*

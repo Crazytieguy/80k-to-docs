@@ -14,13 +14,14 @@ areas:
 
 **[AI Safety Awareness Project](https://aisafetyawarenessproject.org/)**
 
-- **Location:** Remote, Global
-- **Role type:** Volunteering
-- **Experience:** Entry-level
-- **Degree:** Undergraduate degree or less
+<dl class="job-meta">
+<dt>Location</dt><dd>Remote, Global</dd>
+<dt>Role type</dt><dd>Volunteering</dd>
+<dt>Experience</dt><dd>Entry-level</dd>
+<dt>Degree</dt><dd>Undergraduate degree or less</dd>
+</dl>
 
-## Tags
-AI safety & policy, Operations
+**Areas & skills:** AI safety & policy, Operations
 
 ## Summary
 - Facilitate local workshops using provided materials to guide balanced discussions.
@@ -29,7 +30,7 @@ AI safety & policy, Operations
 - Establish partnerships with schools, libraries and community groups.
 - Participate in workshops to build public awareness about AI risks and benefits.
 
-[Apply →](https://docs.google.com/document/d/1lEtqNXTuFz-_b5G9Hbp5JooOY8bY0PEVedjMSLwlx6I/edit?tab=t.0)
+<p class="apply-cta"><a href="https://docs.google.com/document/d/1lEtqNXTuFz-_b5G9Hbp5JooOY8bY0PEVedjMSLwlx6I/edit?tab=t.0">Apply →</a></p>
 
 ---
-*Posted 2022-01-06 · Last updated 2026-05-26 · 80k job ID `recVGAvwQGadiurSz`*
+*Posted 2022-01-06 · Listing synced 2026-05-26 · 80k job ID `recVGAvwQGadiurSz`*

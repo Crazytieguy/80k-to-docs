@@ -14,14 +14,15 @@ areas:
 
 **[Center for AI Safety](https://www.cais.ai/)**
 
-- **Location:** San Francisco Bay Area, USA
-- **Role type:** Full-time
-- **Experience:** Mid (5-9 years experience), Senior (10+ years experience)
-- **Degree:** Undergraduate degree or less
-- **Salary:** $150,000 – $250,000
+<dl class="job-meta">
+<dt>Location</dt><dd>San Francisco Bay Area, USA</dd>
+<dt>Role type</dt><dd>Full-time</dd>
+<dt>Experience</dt><dd>Mid (5-9 years experience), Senior (10+ years experience)</dd>
+<dt>Degree</dt><dd>Undergraduate degree or less</dd>
+<dt>Salary</dt><dd>$150,000 – $250,000</dd>
+</dl>
 
-## Tags
-AI safety & policy, Strategy
+**Areas & skills:** AI safety & policy, Strategy
 
 ## Summary
 - In this role, you'll own high-stakes projects end-to-end, from identifying opportunities to driving execution with significant autonomy.
@@ -30,7 +31,7 @@ AI safety & policy, Strategy
 - Stay agile when priorities shift, re-scoping and re-prioritizing without losing momentum.
 - Monitor risks and surface critical issues early with recommended solutions.
 
-[Apply →](https://jobs.lever.co/aisafety/1d294768-31cd-4d00-a238-a3eded93c695)
+<p class="apply-cta"><a href="https://jobs.lever.co/aisafety/1d294768-31cd-4d00-a238-a3eded93c695">Apply →</a></p>
 
 ---
-*Posted 2026-03-19 · Last updated 2026-05-26 · 80k job ID `rec5uiAFtb0uqt3mv`*
+*Posted 2026-03-19 · Listing synced 2026-05-26 · 80k job ID `rec5uiAFtb0uqt3mv`*

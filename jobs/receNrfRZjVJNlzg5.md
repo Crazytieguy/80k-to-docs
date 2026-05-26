@@ -14,14 +14,14 @@ areas:
 
 **[80,000 Hours](https://80000hours.org/)**
 
-- **Location:** Remote, Global
-- **Role type:** Other
-- **Experience:** Multiple experience levels
-- **Degree:** Undergraduate degree or less
-- **Location type:** Remote
+<dl class="job-meta">
+<dt>Location</dt><dd>Remote, Global</dd>
+<dt>Role type</dt><dd>Other</dd>
+<dt>Experience</dt><dd>Multiple experience levels</dd>
+<dt>Degree</dt><dd>Undergraduate degree or less</dd>
+</dl>
 
-## Tags
-AI safety & policy, Engineering, Research, Policy, Outreach, Operations, Other, Software engineering, Legal, Information security, Management, Finance, Strategy
+**Areas & skills:** AI safety & policy, Engineering, Research, Policy, Outreach, Operations, Other, Software engineering, Legal, Information security, Management, Finance, Strategy
 
 ## Summary
 - In this program, you will have a call with a member of the 80,000 hours advising team who will give you personalised advice. They'll help you:
@@ -29,7 +29,7 @@ AI safety & policy, Engineering, Research, Policy, Outreach, Operations, Other, 
 - Make introductions: Advisors can introduce you to experts and hiring managers in relevant fields.
 - Suggest next career steps: Advisors can provide guidance on practical next steps, such as suggesting promising job opportunities.
 
-[Apply →](https://80000hours.org/speak-with-us/?int_campaign=job-board)
+<p class="apply-cta"><a href="https://80000hours.org/speak-with-us/?int_campaign=job-board">Apply →</a></p>
 
 ---
-*Posted 2020-01-01 · Last updated 2026-05-26 · 80k job ID `receNrfRZjVJNlzg5`*
+*Posted 2020-01-01 · Listing synced 2026-05-26 · 80k job ID `receNrfRZjVJNlzg5`*

@@ -14,13 +14,14 @@ areas:
 
 **[University of Connecticut, Reducing Information Ecosystem Threats Lab](https://infothreats.cse.uconn.edu/)**
 
-- **Location:** Storrs, CT, USA
-- **Role type:** Full-time
-- **Experience:** Entry-level
-- **Degree:** Master's degree
+<dl class="job-meta">
+<dt>Location</dt><dd>Storrs, CT, USA</dd>
+<dt>Role type</dt><dd>Full-time</dd>
+<dt>Experience</dt><dd>Entry-level</dd>
+<dt>Degree</dt><dd>Master's degree</dd>
+</dl>
 
-## Tags
-AI safety & policy, Research
+**Areas & skills:** AI safety & policy, Research
 
 ## Summary
 - In this role, expand existing work on the sociotechnical AI safety and alignment problem.
@@ -28,7 +29,7 @@ AI safety & policy, Research
 - Explore and evaluate the capabilities, implications, and risks of large language models and other generative AI technologies.
 - Study the development, risks, and impacts of increasingly autonomous agentic AI systems, capable of complex decision-making and task completion.
 
-[Apply →](https://infothreats.cse.uconn.edu/currently-hiring/)
+<p class="apply-cta"><a href="https://infothreats.cse.uconn.edu/currently-hiring/">Apply →</a></p>
 
 ---
-*Posted 2022-01-06 · Last updated 2026-05-26 · 80k job ID `rece7DC81BbR19btp`*
+*Posted 2022-01-06 · Listing synced 2026-05-26 · 80k job ID `rece7DC81BbR19btp`*

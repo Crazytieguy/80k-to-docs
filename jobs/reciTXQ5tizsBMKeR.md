@@ -14,14 +14,15 @@ areas:
 
 **[Anthropic](https://www.anthropic.com/)**
 
-- **Location:** San Francisco Bay Area, New York, NY, USA, USA (Confirmed Visas)
-- **Role type:** Full-time
-- **Experience:** Mid (5-9 years experience)
-- **Degree:** Undergraduate degree or less
-- **Salary:** $210,000 – $290,000
+<dl class="job-meta">
+<dt>Location</dt><dd>San Francisco Bay Area, New York, NY, USA, USA (Confirmed Visas)</dd>
+<dt>Role type</dt><dd>Full-time</dd>
+<dt>Experience</dt><dd>Mid (5-9 years experience)</dd>
+<dt>Degree</dt><dd>Undergraduate degree or less</dd>
+<dt>Salary</dt><dd>$210,000 – $290,000</dd>
+</dl>
 
-## Tags
-AI safety & policy, Operations, Strategy
+**Areas & skills:** AI safety & policy, Operations, Strategy
 
 ## Summary
 - In this role, you'll own 3-4 special cross-functional projects, defining goals, building plans, coordinating teams, and driving results.
@@ -30,7 +31,7 @@ AI safety & policy, Operations, Strategy
 - Synthesize complex information into decision-relevant inputs that enable leadership to move quickly.
 - Identify new high-priority projects, make the case for them, secure buy-in, and execute with precision.
 
-[Apply →](https://job-boards.greenhouse.io/anthropic/jobs/5187208008)
+<p class="apply-cta"><a href="https://job-boards.greenhouse.io/anthropic/jobs/5187208008">Apply →</a></p>
 
 ---
-*Posted 2026-04-15 · Last updated 2026-05-26 · 80k job ID `reciTXQ5tizsBMKeR`*
+*Posted 2026-04-15 · Listing synced 2026-05-26 · 80k job ID `reciTXQ5tizsBMKeR`*

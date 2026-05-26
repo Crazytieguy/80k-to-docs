@@ -14,14 +14,15 @@ areas:
 
 **[US Government, Bureau of Industry and Security](https://www.bis.doc.gov/)**
 
-- **Location:** Washington, DC metro area, USA
-- **Role type:** Full-time
-- **Experience:** Senior (10+ years experience)
-- **Degree:** Undergraduate degree or less
-- **Salary:** $121,785 – $158,322
+<dl class="job-meta">
+<dt>Location</dt><dd>Washington, DC metro area, USA</dd>
+<dt>Role type</dt><dd>Full-time</dd>
+<dt>Experience</dt><dd>Senior (10+ years experience)</dd>
+<dt>Degree</dt><dd>Undergraduate degree or less</dd>
+<dt>Salary</dt><dd>$121,785 – $158,322</dd>
+</dl>
 
-## Tags
-AI safety & policy, Engineering, Policy
+**Areas & skills:** AI safety & policy, Engineering, Policy
 
 ## Summary
 - In this role, you'll apply engineering expertise to evaluate ML and emerging technologies for export control purposes.
@@ -30,7 +31,7 @@ AI safety & policy, Engineering, Policy
 - Provide technical guidance to federal agencies, industry representatives, and the public on export regulations.
 - Our take on this role: By working on export controls, this role can help prevent dangerous AI capabilities from proliferating.
 
-[Apply →](https://www.usajobs.gov/job/870487200)
+<p class="apply-cta"><a href="https://www.usajobs.gov/job/870487200">Apply →</a></p>
 
 ---
-*Posted 2026-05-25 · Last updated 2026-05-26 · 80k job ID `recUONNsEqAwAxioN`*
+*Posted 2026-05-25 · Listing synced 2026-05-26 · 80k job ID `recUONNsEqAwAxioN`*

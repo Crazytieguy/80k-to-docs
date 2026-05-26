@@ -14,13 +14,14 @@ areas:
 
 **[The Deep View](https://www.thedeepview.co/)**
 
-- **Location:** San Francisco Bay Area, New York, NY, Los Angeles, CA, USA
-- **Role type:** Full-time
-- **Experience:** Mid (5-9 years experience)
-- **Degree:** Undergraduate degree or less
+<dl class="job-meta">
+<dt>Location</dt><dd>San Francisco Bay Area, New York, NY, Los Angeles, CA, USA</dd>
+<dt>Role type</dt><dd>Full-time</dd>
+<dt>Experience</dt><dd>Mid (5-9 years experience)</dd>
+<dt>Degree</dt><dd>Undergraduate degree or less</dd>
+</dl>
 
-## Tags
-AI safety & policy, Other
+**Areas & skills:** AI safety & policy, Other
 
 ## Summary
 - In this role, you'll track AI's biggest developments, curate must-know stories, and break down what matters most for a leading AI media brand.
@@ -29,7 +30,7 @@ AI safety & policy, Other
 - Develop distinctive areas of expertise and become a go-to expert on specific AI beats.
 - Test and review AI tools to help readers distinguish between valuable products and overhyped offerings.
 
-[Apply →](https://jobs.ashbyhq.com/tdv/4aa51878-d68a-4b09-a007-9c311ccf3271?trk=feed_main-feed-card_feed-article-content)
+<p class="apply-cta"><a href="https://jobs.ashbyhq.com/tdv/4aa51878-d68a-4b09-a007-9c311ccf3271?trk=feed_main-feed-card_feed-article-content">Apply →</a></p>
 
 ---
-*Posted 2022-01-05 · Last updated 2026-05-26 · 80k job ID `recywkt9PZkgGCgoI`*
+*Posted 2022-01-05 · Listing synced 2026-05-26 · 80k job ID `recywkt9PZkgGCgoI`*

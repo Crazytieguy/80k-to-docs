@@ -14,13 +14,14 @@ areas:
 
 **[Irregular](https://www.irregular.com/)**
 
-- **Location:** Tel Aviv, Israel, Middle-East, Israel
-- **Role type:** Full-time
-- **Experience:** Mid (5-9 years experience)
-- **Degree:** Undergraduate degree or less
+<dl class="job-meta">
+<dt>Location</dt><dd>Tel Aviv, Israel, Middle-East, Israel</dd>
+<dt>Role type</dt><dd>Full-time</dd>
+<dt>Experience</dt><dd>Mid (5-9 years experience)</dd>
+<dt>Degree</dt><dd>Undergraduate degree or less</dd>
+</dl>
 
-## Tags
-AI safety & policy, Research, Information security
+**Areas & skills:** AI safety & policy, Research, Information security
 
 ## Summary
 - In this role, you'll conduct research on AI security, focusing on protecting models against cyber threats and evaluating AI's cybersecurity capabilities.
@@ -29,7 +30,7 @@ AI safety & policy, Research, Information security
 - Publish research findings and deliver results to customers.
 - Advise on product development while exploring frontier questions about AI's potential in cybersecurity.
 
-[Apply →](https://jobs.ashbyhq.com/Irregular/7a9dde60-14ab-4296-b355-63f2564263e0?embed=js)
+<p class="apply-cta"><a href="https://jobs.ashbyhq.com/Irregular/7a9dde60-14ab-4296-b355-63f2564263e0?embed=js">Apply →</a></p>
 
 ---
-*Posted 2022-01-05 · Last updated 2026-05-26 · 80k job ID `recmMknefomIsFgEN`*
+*Posted 2022-01-05 · Listing synced 2026-05-26 · 80k job ID `recmMknefomIsFgEN`*

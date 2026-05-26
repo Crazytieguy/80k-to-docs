@@ -14,15 +14,15 @@ areas:
 
 **[Epoch AI](https://epoch.ai)**
 
-- **Location:** Remote, Global
-- **Role type:** Full-time
-- **Experience:** Junior (1-4 years experience)
-- **Degree:** Undergraduate degree or less
-- **Salary:** $75,000 – $100,000
-- **Location type:** Remote
+<dl class="job-meta">
+<dt>Location</dt><dd>Remote, Global</dd>
+<dt>Role type</dt><dd>Full-time</dd>
+<dt>Experience</dt><dd>Junior (1-4 years experience)</dd>
+<dt>Degree</dt><dd>Undergraduate degree or less</dd>
+<dt>Salary</dt><dd>$75,000 – $100,000</dd>
+</dl>
 
-## Tags
-AI safety & policy, Other
+**Areas & skills:** AI safety & policy, Other
 
 ## Summary
 - In this role, you'll translate complex research into intuitive designs for user-centered websites, dashboards, and data visualizations.
@@ -31,7 +31,7 @@ AI safety & policy, Other
 - Create design specifications, mock-ups, and prototypes to explore design concepts.
 - Ensure adherence to design systems and visual consistency.
 
-[Apply →](https://jobs.lever.co/epoch-ai/9ad63519-ec2d-4ae0-b838-3d28972cb62a)
+<p class="apply-cta"><a href="https://jobs.lever.co/epoch-ai/9ad63519-ec2d-4ae0-b838-3d28972cb62a">Apply →</a></p>
 
 ---
-*Posted 2026-05-05 · Last updated 2026-05-26 · 80k job ID `recgnWlNw3oYIqKXr`*
+*Posted 2026-05-05 · Listing synced 2026-05-26 · 80k job ID `recgnWlNw3oYIqKXr`*

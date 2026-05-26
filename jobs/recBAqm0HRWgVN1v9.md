@@ -15,14 +15,14 @@ areas:
 
 **[Outcapped](https://www.outcapped.com/)**
 
-- **Location:** Remote, Global
-- **Role type:** Full-time
-- **Experience:** Junior (1-4 years experience)
-- **Degree:** Undergraduate degree or less
-- **Location type:** Remote
+<dl class="job-meta">
+<dt>Location</dt><dd>Remote, Global</dd>
+<dt>Role type</dt><dd>Full-time</dd>
+<dt>Experience</dt><dd>Junior (1-4 years experience)</dd>
+<dt>Degree</dt><dd>Undergraduate degree or less</dd>
+</dl>
 
-## Tags
-AI safety & policy, Global health & development, Operations
+**Areas & skills:** AI safety & policy, Global health & development, Operations
 
 ## Summary
 - In this role, you'll remove operational burden from impact-driven teams so they can focus on mission-critical work.
@@ -31,7 +31,7 @@ AI safety & policy, Global health & development, Operations
 - Support multiple AI safety and policy teams, multiplying your impact across the field.
 - Maintain standards of excellence through continuous improvement in all operational processes.
 
-[Apply →](https://www.outcapped.com/outcapped-careers/?ashby_jid=f01d2541-ac54-4614-99cd-137481667431)
+<p class="apply-cta"><a href="https://www.outcapped.com/outcapped-careers/?ashby_jid=f01d2541-ac54-4614-99cd-137481667431">Apply →</a></p>
 
 ---
-*Posted 2026-04-17 · Last updated 2026-05-26 · 80k job ID `recBAqm0HRWgVN1v9`*
+*Posted 2026-04-17 · Listing synced 2026-05-26 · 80k job ID `recBAqm0HRWgVN1v9`*

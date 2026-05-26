@@ -14,14 +14,15 @@ areas:
 
 **[The AI Policy Network](https://theaipn.org/)**
 
-- **Location:** Washington, DC metro area, USA
-- **Role type:** Full-time
-- **Experience:** Entry-level
-- **Degree:** Undergraduate degree or less
-- **Salary:** $55,000 – $75,000
+<dl class="job-meta">
+<dt>Location</dt><dd>Washington, DC metro area, USA</dd>
+<dt>Role type</dt><dd>Full-time</dd>
+<dt>Experience</dt><dd>Entry-level</dd>
+<dt>Degree</dt><dd>Undergraduate degree or less</dd>
+<dt>Salary</dt><dd>$55,000 – $75,000</dd>
+</dl>
 
-## Tags
-AI safety & policy, Policy
+**Areas & skills:** AI safety & policy, Policy
 
 ## Summary
 - In this role, you'll provide research, operational, and administrative support to the organization's AI policy and national security efforts.
@@ -30,7 +31,7 @@ AI safety & policy, Policy
 - Maintain CRM data and contact databases while drafting social media posts, newsletters, and policy briefs.
 - Monitor breaking AI news and flag urgent developments for senior staff.
 
-[Apply →](https://theaipn.org/careers/junior-associate/)
+<p class="apply-cta"><a href="https://theaipn.org/careers/junior-associate/">Apply →</a></p>
 
 ---
-*Posted 2022-01-06 · Last updated 2026-05-26 · 80k job ID `rec5roJBM9Lg5dEc8`*
+*Posted 2022-01-06 · Listing synced 2026-05-26 · 80k job ID `rec5roJBM9Lg5dEc8`*

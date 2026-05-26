@@ -14,14 +14,15 @@ areas:
 
 **[CivAI](https://www.civai.org/)**
 
-- **Location:** San Francisco Bay Area, USA, USA (Confirmed Visas)
-- **Role type:** Full-time
-- **Experience:** Junior (1-4 years experience)
-- **Degree:** Undergraduate degree or less
-- **Salary:** $125,000 – $150,000
+<dl class="job-meta">
+<dt>Location</dt><dd>San Francisco Bay Area, USA, USA (Confirmed Visas)</dd>
+<dt>Role type</dt><dd>Full-time</dd>
+<dt>Experience</dt><dd>Junior (1-4 years experience)</dd>
+<dt>Degree</dt><dd>Undergraduate degree or less</dd>
+<dt>Salary</dt><dd>$125,000 – $150,000</dd>
+</dl>
 
-## Tags
-AI safety & policy, Other
+**Areas & skills:** AI safety & policy, Other
 
 ## Summary
 - In this role, you'll design AI demonstrations in Figma that educate policymakers and the public about AI risks.
@@ -30,7 +31,7 @@ AI safety & policy, Other
 - Learn from feedback about design patterns and communication strategies that work well or fall flat.
 - Stay current on AI progress and safety research to inform new demonstration concepts.
 
-[Apply →](https://civai.org/jobs/product-designer)
+<p class="apply-cta"><a href="https://civai.org/jobs/product-designer">Apply →</a></p>
 
 ---
-*Posted 2026-04-07 · Last updated 2026-05-26 · 80k job ID `recfR0OdQd1tqbytI`*
+*Posted 2026-04-07 · Listing synced 2026-05-26 · 80k job ID `recfR0OdQd1tqbytI`*

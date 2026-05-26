@@ -14,13 +14,14 @@ areas:
 
 **[LawZero](https://lawzero.org/en)**
 
-- **Location:** Montreal, Canada, Canada
-- **Role type:** Full-time
-- **Experience:** Mid (5-9 years experience)
-- **Degree:** Master's degree
+<dl class="job-meta">
+<dt>Location</dt><dd>Montreal, Canada, Canada</dd>
+<dt>Role type</dt><dd>Full-time</dd>
+<dt>Experience</dt><dd>Mid (5-9 years experience)</dd>
+<dt>Degree</dt><dd>Master's degree</dd>
+</dl>
 
-## Tags
-AI safety & policy, Research, Software engineering
+**Areas & skills:** AI safety & policy, Research, Software engineering
 
 ## Summary
 - In this role, you'll collaborate with ML research scientists to solve difficult training and inference problems using very large models.
@@ -29,7 +30,7 @@ AI safety & policy, Research, Software engineering
 - Develop tools and libraries to optimize computing resource usage.
 - Establish, document, and maintain best practices for ML model development workflows.
 
-[Apply →](https://job-boards.greenhouse.io/lawzero/jobs/4002929009)
+<p class="apply-cta"><a href="https://job-boards.greenhouse.io/lawzero/jobs/4002929009">Apply →</a></p>
 
 ---
-*Posted 2022-01-05 · Last updated 2026-05-26 · 80k job ID `reczD6xRKgxWdJHtQ`*
+*Posted 2022-01-05 · Listing synced 2026-05-26 · 80k job ID `reczD6xRKgxWdJHtQ`*

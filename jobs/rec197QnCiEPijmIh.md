@@ -14,14 +14,14 @@ areas:
 
 **[Lens Academy](https://lensacademy.org/)**
 
-- **Location:** Remote, Global
-- **Role type:** Full-time
-- **Experience:** Multiple experience levels
-- **Degree:** Undergraduate degree or less
-- **Location type:** Remote
+<dl class="job-meta">
+<dt>Location</dt><dd>Remote, Global</dd>
+<dt>Role type</dt><dd>Full-time</dd>
+<dt>Experience</dt><dd>Multiple experience levels</dd>
+<dt>Degree</dt><dd>Undergraduate degree or less</dd>
+</dl>
 
-## Tags
-AI safety & policy, Software engineering, Management, Strategy
+**Areas & skills:** AI safety & policy, Software engineering, Management, Strategy
 
 ## Summary
 - In this role, you'll co-found Lens Academy, a scalable AI safety education platform addressing superintelligence existential risk.
@@ -30,7 +30,7 @@ AI safety & policy, Software engineering, Management, Strategy
 - Move fast and independently while collaborating with part-time contributors and senior developer mentors.
 - Build systems scaling AI safety education to thousands of students at under $10 per student.
 
-[Apply →](https://www.lesswrong.com/posts/LDbGob3XJ3LDBFmAe/co-found-lens-academy-with-me-we-have-early-users-and)
+<p class="apply-cta"><a href="https://www.lesswrong.com/posts/LDbGob3XJ3LDBFmAe/co-found-lens-academy-with-me-we-have-early-users-and">Apply →</a></p>
 
 ---
-*Posted 2026-04-13 · Last updated 2026-05-26 · 80k job ID `rec197QnCiEPijmIh`*
+*Posted 2026-04-13 · Listing synced 2026-05-26 · 80k job ID `rec197QnCiEPijmIh`*

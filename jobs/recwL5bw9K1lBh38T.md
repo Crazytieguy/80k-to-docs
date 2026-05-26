@@ -14,13 +14,14 @@ areas:
 
 **[DeepSeek](https://www.deepseek.com/)**
 
-- **Location:** Beijing, China, China, Asia
-- **Role type:** Full-time
-- **Experience:** Junior (1-4 years experience)
-- **Degree:** Undergraduate degree or less
+<dl class="job-meta">
+<dt>Location</dt><dd>Beijing, China, China, Asia</dd>
+<dt>Role type</dt><dd>Full-time</dd>
+<dt>Experience</dt><dd>Junior (1-4 years experience)</dd>
+<dt>Degree</dt><dd>Undergraduate degree or less</dd>
+</dl>
 
-## Tags
-AI safety & policy, Policy, Legal
+**Areas & skills:** AI safety & policy, Policy, Legal
 
 ## Summary
 - In this role, you'll participate in the entire business process of artificial intelligence models, products, operations, and business, addressing legal, policy, and security issues.
@@ -28,7 +29,7 @@ AI safety & policy, Policy, Legal
 - Track legislative policies and industry practices related to AI governance globally, providing professional opinions for strategic policy research.
 - Strengthen communication with government agencies, regulatory authorities, and research institutes.
 
-[Apply →](https://app.mokahr.com/social-recruitment/high-flyer/140576#/job/32d4eeeb-c49e-4178-a6a9-4dfdf5432b32)
+<p class="apply-cta"><a href="https://app.mokahr.com/social-recruitment/high-flyer/140576#/job/32d4eeeb-c49e-4178-a6a9-4dfdf5432b32">Apply →</a></p>
 
 ---
-*Posted 2022-01-06 · Last updated 2026-05-26 · 80k job ID `recwL5bw9K1lBh38T`*
+*Posted 2022-01-06 · Listing synced 2026-05-26 · 80k job ID `recwL5bw9K1lBh38T`*

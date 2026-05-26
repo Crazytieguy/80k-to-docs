@@ -14,14 +14,15 @@ areas:
 
 **[Apollo Research](https://www.apolloresearch.ai/)**
 
-- **Location:** London, UK, UK, UK (Confirmed Visas)
-- **Role type:** Full-time
-- **Experience:** Junior (1-4 years experience)
-- **Degree:** Undergraduate degree or less
-- **Salary:** $134,481 – $242,067
+<dl class="job-meta">
+<dt>Location</dt><dd>London, UK, UK, UK (Confirmed Visas)</dd>
+<dt>Role type</dt><dd>Full-time</dd>
+<dt>Experience</dt><dd>Junior (1-4 years experience)</dd>
+<dt>Degree</dt><dd>Undergraduate degree or less</dd>
+<dt>Salary</dt><dd>$134,481 – $242,067</dd>
+</dl>
 
-## Tags
-AI safety & policy, Research, Software engineering
+**Areas & skills:** AI safety & policy, Research, Software engineering
 
 ## Summary
 - In this role, you'll build tools that monitor AI coding agents for safety and security failures.
@@ -30,7 +31,7 @@ AI safety & policy, Research, Software engineering
 - Develop monitoring prompts for specific failure modes.
 - Optimize monitoring approaches for accuracy and efficiency.
 
-[Apply →](https://jobs.lever.co/apolloresearch/3628de77-7641-44b7-b80f-28c4a7a68abf)
+<p class="apply-cta"><a href="https://jobs.lever.co/apolloresearch/3628de77-7641-44b7-b80f-28c4a7a68abf">Apply →</a></p>
 
 ---
-*Posted 2022-01-06 · Last updated 2026-05-26 · 80k job ID `recimUeinrrnnv28c`*
+*Posted 2022-01-06 · Listing synced 2026-05-26 · 80k job ID `recimUeinrrnnv28c`*

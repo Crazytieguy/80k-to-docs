@@ -14,14 +14,15 @@ areas:
 
 **[Constellation](https://www.constellation.org/)**
 
-- **Location:** San Francisco Bay Area, USA
-- **Role type:** Full-time
-- **Experience:** Junior (1-4 years experience)
-- **Degree:** Undergraduate degree or less
-- **Salary:** $70,000 – $90,000
+<dl class="job-meta">
+<dt>Location</dt><dd>San Francisco Bay Area, USA</dd>
+<dt>Role type</dt><dd>Full-time</dd>
+<dt>Experience</dt><dd>Junior (1-4 years experience)</dd>
+<dt>Degree</dt><dd>Undergraduate degree or less</dd>
+<dt>Salary</dt><dd>$70,000 – $90,000</dd>
+</dl>
 
-## Tags
-AI safety & policy, Operations
+**Areas & skills:** AI safety & policy, Operations
 
 ## Summary
 - In this role, you'll provide administrative, office, and customer support to staff and researchers in a shared workspace.
@@ -30,7 +31,7 @@ AI safety & policy, Operations
 - Staff workshops and events, handling setup, takedown, and addressing emergent issues.
 - Support daily office operations by booking meeting spaces, ordering supplies, and maintaining accurate records.
 
-[Apply →](https://jobs.gem.com/constellation-institute/am9icG9zdDpmiz2izZrL3aKPl8bzx-yv)
+<p class="apply-cta"><a href="https://jobs.gem.com/constellation-institute/am9icG9zdDpmiz2izZrL3aKPl8bzx-yv">Apply →</a></p>
 
 ---
-*Posted 2026-04-22 · Last updated 2026-05-26 · 80k job ID `recZkkPi4xZBHjzph`*
+*Posted 2026-04-22 · Listing synced 2026-05-26 · 80k job ID `recZkkPi4xZBHjzph`*

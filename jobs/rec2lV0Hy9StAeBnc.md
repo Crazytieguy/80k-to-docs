@@ -14,14 +14,14 @@ areas:
 
 **[HiddenLayer](https://hiddenlayer.com/)**
 
-- **Location:** Remote, USA, USA
-- **Role type:** Full-time
-- **Experience:** Junior (1-4 years experience), Mid (5-9 years experience)
-- **Degree:** Undergraduate degree or less
-- **Location type:** Remote
+<dl class="job-meta">
+<dt>Location</dt><dd>Remote, USA, USA</dd>
+<dt>Role type</dt><dd>Full-time</dd>
+<dt>Experience</dt><dd>Junior (1-4 years experience), Mid (5-9 years experience)</dd>
+<dt>Degree</dt><dd>Undergraduate degree or less</dd>
+</dl>
 
-## Tags
-AI safety & policy, Software engineering, Information security
+**Areas & skills:** AI safety & policy, Software engineering, Information security
 
 ## Summary
 - In this role, you'll ship end-to-end platform features and optimize distributed Kubernetes services for AI security.
@@ -30,7 +30,7 @@ AI safety & policy, Software engineering, Information security
 - Profile, troubleshoot, and optimize latency, throughput, and resource efficiency.
 - Strengthen delivery through test strategies and operational excellence including logging, metrics, and on-call readiness.
 
-[Apply →](https://job-boards.greenhouse.io/hiddenlayer/jobs/5100067007)
+<p class="apply-cta"><a href="https://job-boards.greenhouse.io/hiddenlayer/jobs/5100067007">Apply →</a></p>
 
 ---
-*Posted 2026-04-07 · Last updated 2026-05-26 · 80k job ID `rec2lV0Hy9StAeBnc`*
+*Posted 2026-04-07 · Listing synced 2026-05-26 · 80k job ID `rec2lV0Hy9StAeBnc`*

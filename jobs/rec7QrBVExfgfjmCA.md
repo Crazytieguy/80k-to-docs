@@ -14,15 +14,15 @@ areas:
 
 **[Center for AI Risk Management and Alignment](https://carma.org/)**
 
-- **Location:** Remote, Global
-- **Role type:** Full-time
-- **Experience:** Mid (5-9 years experience)
-- **Degree:** Undergraduate degree or less
-- **Salary:** $140,000 – $220,000
-- **Location type:** Remote
+<dl class="job-meta">
+<dt>Location</dt><dd>Remote, Global</dd>
+<dt>Role type</dt><dd>Full-time</dd>
+<dt>Experience</dt><dd>Mid (5-9 years experience)</dd>
+<dt>Degree</dt><dd>Undergraduate degree or less</dd>
+<dt>Salary</dt><dd>$140,000 – $220,000</dd>
+</dl>
 
-## Tags
-AI safety & policy, Research, Strategy
+**Areas & skills:** AI safety & policy, Research, Strategy
 
 ## Summary
 - In this role, you'll lead technical risk assessment for advanced AI systems, combining research with quality assurance leadership.
@@ -31,7 +31,7 @@ AI safety & policy, Research, Strategy
 - Design robust technical governance frameworks for catastrophic AI risks, including loss-of-control scenarios.
 - Drive original research projects on comprehensive risk management while collaborating across teams to integrate assessment paradigms.
 
-[Apply →](https://jobs.lever.co/futureof-life/a72cd411-9af3-458a-932b-16cca3ce07dd)
+<p class="apply-cta"><a href="https://jobs.lever.co/futureof-life/a72cd411-9af3-458a-932b-16cca3ce07dd">Apply →</a></p>
 
 ---
-*Posted 2022-01-05 · Last updated 2026-05-26 · 80k job ID `rec7QrBVExfgfjmCA`*
+*Posted 2022-01-05 · Listing synced 2026-05-26 · 80k job ID `rec7QrBVExfgfjmCA`*

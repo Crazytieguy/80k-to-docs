@@ -15,14 +15,15 @@ areas:
 
 **[UK Government, AI Security Institute](https://www.aisi.gov.uk/)**
 
-- **Location:** London, UK, UK
-- **Role type:** Full-time
-- **Experience:** Mid (5-9 years experience)
-- **Degree:** Undergraduate degree or less
-- **Salary:** $87,413 – $194,998
+<dl class="job-meta">
+<dt>Location</dt><dd>London, UK, UK</dd>
+<dt>Role type</dt><dd>Full-time</dd>
+<dt>Experience</dt><dd>Mid (5-9 years experience)</dd>
+<dt>Degree</dt><dd>Undergraduate degree or less</dd>
+<dt>Salary</dt><dd>$87,413 – $194,998</dd>
+</dl>
 
-## Tags
-AI safety & policy, Biosecurity & pandemic preparedness, Software engineering, Management
+**Areas & skills:** AI safety & policy, Biosecurity & pandemic preparedness, Software engineering, Management
 
 ## Summary
 - In this role, you'll lead CB's engineering team, setting technical direction and owning the platform roadmap for shared infrastructure and tools.
@@ -31,7 +32,7 @@ AI safety & policy, Biosecurity & pandemic preparedness, Software engineering, M
 - Work closely with researchers to translate varied needs into well-engineered, maintainable systems.
 - Establish engineering culture, hire team members, and represent CB engineering across AISI.
 
-[Apply →](https://job-boards.eu.greenhouse.io/aisi/jobs/4833252101)
+<p class="apply-cta"><a href="https://job-boards.eu.greenhouse.io/aisi/jobs/4833252101">Apply →</a></p>
 
 ---
-*Posted 2026-04-08 · Last updated 2026-05-26 · 80k job ID `recHoPgVWmHJwzB8Q`*
+*Posted 2026-04-08 · Listing synced 2026-05-26 · 80k job ID `recHoPgVWmHJwzB8Q`*

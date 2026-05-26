@@ -14,14 +14,15 @@ areas:
 
 **[Google DeepMind](https://www.deepmind.com)**
 
-- **Location:** San Francisco Bay Area, USA, USA (Confirmed Visas)
-- **Role type:** Full-time
-- **Experience:** Multiple experience levels
-- **Degree:** Undergraduate degree or less
-- **Salary:** $136,000 – $245,000
+<dl class="job-meta">
+<dt>Location</dt><dd>San Francisco Bay Area, USA, USA (Confirmed Visas)</dd>
+<dt>Role type</dt><dd>Full-time</dd>
+<dt>Experience</dt><dd>Multiple experience levels</dd>
+<dt>Degree</dt><dd>Undergraduate degree or less</dd>
+<dt>Salary</dt><dd>$136,000 – $245,000</dd>
+</dl>
 
-## Tags
-AI safety & policy, Research, Software engineering
+**Areas & skills:** AI safety & policy, Research, Software engineering
 
 ## Summary
 - In this role, you'll design and validate approaches to assess and mitigate catastrophic risks from frontier AI systems.
@@ -30,7 +31,7 @@ AI safety & policy, Research, Software engineering
 - Forecast and create scenario plans for future AI risks not yet material.
 - Apply conceptual thinking and Python engineering to prioritize efforts based on information value.
 
-[Apply →](https://job-boards.greenhouse.io/deepmind/jobs/7493360)
+<p class="apply-cta"><a href="https://job-boards.greenhouse.io/deepmind/jobs/7493360">Apply →</a></p>
 
 ---
-*Posted 2022-01-11 · Last updated 2026-05-26 · 80k job ID `recsSnCicUrlQNk7P`*
+*Posted 2022-01-11 · Listing synced 2026-05-26 · 80k job ID `recsSnCicUrlQNk7P`*

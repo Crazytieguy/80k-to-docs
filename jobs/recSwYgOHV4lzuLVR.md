@@ -14,15 +14,15 @@ areas:
 
 **[FAR AI](https://far.ai/)**
 
-- **Location:** San Francisco Bay Area, Remote, Global, Remote, USA, USA
-- **Role type:** Full-time
-- **Experience:** Mid (5-9 years experience)
-- **Degree:** Undergraduate degree or less
-- **Salary:** $170,000 – $250,000
-- **Location type:** Remote
+<dl class="job-meta">
+<dt>Location</dt><dd>San Francisco Bay Area, Remote, Global, Remote, USA, USA</dd>
+<dt>Role type</dt><dd>Full-time</dd>
+<dt>Experience</dt><dd>Mid (5-9 years experience)</dd>
+<dt>Degree</dt><dd>Undergraduate degree or less</dd>
+<dt>Salary</dt><dd>$170,000 – $250,000</dd>
+</dl>
 
-## Tags
-AI safety & policy, Information security, Management
+**Areas & skills:** AI safety & policy, Information security, Management
 
 ## Summary
 - In this role, you'll lead the jailbreaking practice as senior technical owner, developing universal jailbreaks and setting standards for the team.
@@ -31,7 +31,7 @@ AI safety & policy, Information security, Management
 - Mentor team members on attack craft through technical collaboration and knowledge sharing.
 - Translate jailbreak findings into real-world impact by working with frontier labs and governments.
 
-[Apply →](https://jobs.ashbyhq.com/far.ai/9b4eded1-8b20-4238-9259-549bea94607c?embed=js)
+<p class="apply-cta"><a href="https://jobs.ashbyhq.com/far.ai/9b4eded1-8b20-4238-9259-549bea94607c?embed=js">Apply →</a></p>
 
 ---
-*Posted 2026-05-14 · Last updated 2026-05-26 · 80k job ID `recSwYgOHV4lzuLVR`*
+*Posted 2026-05-14 · Listing synced 2026-05-26 · 80k job ID `recSwYgOHV4lzuLVR`*

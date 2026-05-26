@@ -14,14 +14,15 @@ areas:
 
 **[Singapore AI Safety Hub](https://www.aisafety.sg/)**
 
-- **Location:** Singapore, Singapore, Singapore, Asia
-- **Role type:** Full-time
-- **Experience:** Junior (1-4 years experience), Mid (5-9 years experience)
-- **Degree:** Undergraduate degree or less
-- **Salary:** $90,000 – $120,000
+<dl class="job-meta">
+<dt>Location</dt><dd>Singapore, Singapore, Singapore, Asia</dd>
+<dt>Role type</dt><dd>Full-time</dd>
+<dt>Experience</dt><dd>Junior (1-4 years experience), Mid (5-9 years experience)</dd>
+<dt>Degree</dt><dd>Undergraduate degree or less</dd>
+<dt>Salary</dt><dd>$90,000 – $120,000</dd>
+</dl>
 
-## Tags
-AI safety & policy, Operations
+**Areas & skills:** AI safety & policy, Operations
 
 ## Summary
 - In this role, you'll design and deliver the East-West AI Safety Fellowship, connecting researchers and government partners across Asia.
@@ -30,7 +31,7 @@ AI safety & policy, Operations
 - Develop operational infrastructure, track metrics, and produce impact reports for stakeholders.
 - Contribute to public communications including reports and policy briefs.
 
-[Apply →](https://docs.google.com/document/d/1BIV1vGRUs3xn8CfL6M5f4mFKsIB4sVdRpzgTRjAwiZA/edit?tab=t.0)
+<p class="apply-cta"><a href="https://docs.google.com/document/d/1BIV1vGRUs3xn8CfL6M5f4mFKsIB4sVdRpzgTRjAwiZA/edit?tab=t.0">Apply →</a></p>
 
 ---
-*Posted 2026-04-23 · Last updated 2026-05-26 · 80k job ID `recrwr73nvcyBaFVw`*
+*Posted 2026-04-23 · Listing synced 2026-05-26 · 80k job ID `recrwr73nvcyBaFVw`*

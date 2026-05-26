@@ -14,13 +14,14 @@ areas:
 
 **[Hortus AI](https://github.com/RewardReports/reward-reports)**
 
-- **Location:** San Francisco Bay Area, USA
-- **Role type:** Internship
-- **Experience:** Junior (1-4 years experience)
-- **Degree:** Undergraduate degree or less
+<dl class="job-meta">
+<dt>Location</dt><dd>San Francisco Bay Area, USA</dd>
+<dt>Role type</dt><dd>Internship</dd>
+<dt>Experience</dt><dd>Junior (1-4 years experience)</dd>
+<dt>Degree</dt><dd>Undergraduate degree or less</dd>
+</dl>
 
-## Tags
-AI safety & policy, Other
+**Areas & skills:** AI safety & policy, Other
 
 ## Summary
 - In this internship, you will work on dynamic documentation tools for AI systems.
@@ -29,7 +30,7 @@ AI safety & policy, Other
 - Collaborate on our GitHub repository.
 - Lead usability studies in collaboration with early clients.
 
-[Apply →](https://docs.google.com/document/d/1X08pWxN4_7X9bOS3VL8OkrIPeT51NDl1ImsjbJGOg8c/edit)
+<p class="apply-cta"><a href="https://docs.google.com/document/d/1X08pWxN4_7X9bOS3VL8OkrIPeT51NDl1ImsjbJGOg8c/edit">Apply →</a></p>
 
 ---
-*Posted 2022-01-06 · Last updated 2026-05-26 · 80k job ID `rec39ssCHX85ujAUz`*
+*Posted 2022-01-06 · Listing synced 2026-05-26 · 80k job ID `rec39ssCHX85ujAUz`*

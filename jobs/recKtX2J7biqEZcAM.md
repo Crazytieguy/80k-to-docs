@@ -14,14 +14,15 @@ areas:
 
 **[Anthropic](https://www.anthropic.com/)**
 
-- **Location:** San Francisco Bay Area, USA, USA (Confirmed Visas)
-- **Role type:** Full-time
-- **Experience:** Mid (5-9 years experience)
-- **Degree:** Undergraduate degree or less
-- **Salary:** $320,000 – $405,000
+<dl class="job-meta">
+<dt>Location</dt><dd>San Francisco Bay Area, USA, USA (Confirmed Visas)</dd>
+<dt>Role type</dt><dd>Full-time</dd>
+<dt>Experience</dt><dd>Mid (5-9 years experience)</dd>
+<dt>Degree</dt><dd>Undergraduate degree or less</dd>
+<dt>Salary</dt><dd>$320,000 – $405,000</dd>
+</dl>
 
-## Tags
-AI safety & policy, Software engineering, Information security
+**Areas & skills:** AI safety & policy, Software engineering, Information security
 
 ## Summary
 - In this role, you'll architect and implement data pipelines that process massive amounts of security telemetry and develop ML-powered detection systems.
@@ -30,7 +31,7 @@ AI safety & policy, Software engineering, Information security
 - Create systems that leverage Claude and other ML models to enhance detection and response capabilities.
 - Develop rapid prototypes and proof-of-concepts for new security tooling and analytics capabilities.
 
-[Apply →](https://job-boards.greenhouse.io/anthropic/jobs/4595463008)
+<p class="apply-cta"><a href="https://job-boards.greenhouse.io/anthropic/jobs/4595463008">Apply →</a></p>
 
 ---
-*Posted 2022-01-11 · Last updated 2026-05-26 · 80k job ID `recKtX2J7biqEZcAM`*
+*Posted 2022-01-11 · Listing synced 2026-05-26 · 80k job ID `recKtX2J7biqEZcAM`*

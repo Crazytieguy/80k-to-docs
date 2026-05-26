@@ -14,14 +14,14 @@ areas:
 
 **[Elicit](https://elicit.com/)**
 
-- **Location:** Remote, Global
-- **Role type:** Full-time
-- **Experience:** Multiple experience levels
-- **Degree:** Undergraduate degree or less
-- **Location type:** Remote
+<dl class="job-meta">
+<dt>Location</dt><dd>Remote, Global</dd>
+<dt>Role type</dt><dd>Full-time</dd>
+<dt>Experience</dt><dd>Multiple experience levels</dd>
+<dt>Degree</dt><dd>Undergraduate degree or less</dd>
+</dl>
 
-## Tags
-AI technical safety, Research, Software engineering
+**Areas & skills:** AI technical safety, Research, Software engineering
 
 ## Summary
 - This role requires a Senior Software Engineer to build Elicit into a product researchers can’t live without.
@@ -30,7 +30,7 @@ AI technical safety, Research, Software engineering
 - Maintain high-quality standards by balancing feature delivery with the development of extensible and maintainable systems.
 - Ensure scalability, resilience, and ease of operation for features in production and contribute to UX, system design, and architecture discussions.
 
-[Apply →](https://elicit.com/careers?ashby_jid=aa99e2e9-5b15-4cd3-ac9d-9c9177ff61c8)
+<p class="apply-cta"><a href="https://elicit.com/careers?ashby_jid=aa99e2e9-5b15-4cd3-ac9d-9c9177ff61c8">Apply →</a></p>
 
 ---
-*Posted 2022-01-11 · Last updated 2026-05-26 · 80k job ID `recFTeWRaCiWGSsZT`*
+*Posted 2022-01-11 · Listing synced 2026-05-26 · 80k job ID `recFTeWRaCiWGSsZT`*

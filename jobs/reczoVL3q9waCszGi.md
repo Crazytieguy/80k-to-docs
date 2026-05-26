@@ -14,15 +14,15 @@ areas:
 
 **[Alignerr](https://www.alignerr.com/)**
 
-- **Location:** Remote, Global
-- **Role type:** Full-time
-- **Experience:** Junior (1-4 years experience)
-- **Degree:** Undergraduate degree or less
-- **Salary:** $83,200 – $124,800
-- **Location type:** Remote
+<dl class="job-meta">
+<dt>Location</dt><dd>Remote, Global</dd>
+<dt>Role type</dt><dd>Full-time</dd>
+<dt>Experience</dt><dd>Junior (1-4 years experience)</dd>
+<dt>Degree</dt><dd>Undergraduate degree or less</dd>
+<dt>Salary</dt><dd>$83,200 – $124,800</dd>
+</dl>
 
-## Tags
-AI safety & policy, Information security
+**Areas & skills:** AI safety & policy, Information security
 
 ## Summary
 - In this role, you'll probe frontier AI models to identify vulnerabilities and test how they respond to adversarial threats.
@@ -31,7 +31,7 @@ AI safety & policy, Information security
 - Evaluate systems against security best practices and identify defensive gaps.
 - Work independently on task-based assessments and document your findings with clear reasoning.
 
-[Apply →](https://www.alignerr.com/jobs/1ad553b6-973d-4463-b4ea-722976f54727?referral-source=linkedin-job)
+<p class="apply-cta"><a href="https://www.alignerr.com/jobs/1ad553b6-973d-4463-b4ea-722976f54727?referral-source=linkedin-job">Apply →</a></p>
 
 ---
-*Posted 2026-05-20 · Last updated 2026-05-26 · 80k job ID `reczoVL3q9waCszGi`*
+*Posted 2026-05-20 · Listing synced 2026-05-26 · 80k job ID `reczoVL3q9waCszGi`*

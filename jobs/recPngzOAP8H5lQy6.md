@@ -14,14 +14,15 @@ areas:
 
 **[Anthropic](https://www.anthropic.com/)**
 
-- **Location:** London, UK, UK, UK (Confirmed Visas)
-- **Role type:** Full-time
-- **Experience:** Mid (5-9 years experience), Senior (10+ years experience)
-- **Degree:** Undergraduate degree or less
-- **Salary:** $322,755 – $437,065
+<dl class="job-meta">
+<dt>Location</dt><dd>London, UK, UK, UK (Confirmed Visas)</dd>
+<dt>Role type</dt><dd>Full-time</dd>
+<dt>Experience</dt><dd>Mid (5-9 years experience), Senior (10+ years experience)</dd>
+<dt>Degree</dt><dd>Undergraduate degree or less</dd>
+<dt>Salary</dt><dd>$322,755 – $437,065</dd>
+</dl>
 
-## Tags
-AI safety & policy, Software engineering, Information security
+**Areas & skills:** AI safety & policy, Software engineering, Information security
 
 ## Summary
 - In this role, you'll build and maintain security infrastructure for Anthropic's AI systems to safeguard them and maintain user trust.
@@ -30,7 +31,7 @@ AI safety & policy, Software engineering, Information security
 - Ship secure, high-reliability services using Infrastructure-as-Code and GitOps workflows.
 - Apply threat modeling expertise to secure multi-cloud environments and mentor other engineers.
 
-[Apply →](https://job-boards.greenhouse.io/anthropic/jobs/5022845008)
+<p class="apply-cta"><a href="https://job-boards.greenhouse.io/anthropic/jobs/5022845008">Apply →</a></p>
 
 ---
-*Posted 2022-01-11 · Last updated 2026-05-26 · 80k job ID `recPngzOAP8H5lQy6`*
+*Posted 2022-01-11 · Listing synced 2026-05-26 · 80k job ID `recPngzOAP8H5lQy6`*

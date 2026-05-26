@@ -14,13 +14,14 @@ areas:
 
 **[0Labs](https://www.0labs.ai/)**
 
-- **Location:** London, UK, San Francisco Bay Area, UK, USA
-- **Role type:** Full-time
-- **Experience:** Mid (5-9 years experience)
-- **Degree:** Undergraduate degree or less
+<dl class="job-meta">
+<dt>Location</dt><dd>London, UK, San Francisco Bay Area, UK, USA</dd>
+<dt>Role type</dt><dd>Full-time</dd>
+<dt>Experience</dt><dd>Mid (5-9 years experience)</dd>
+<dt>Degree</dt><dd>Undergraduate degree or less</dd>
+</dl>
 
-## Tags
-AI safety & policy, Software engineering, Strategy
+**Areas & skills:** AI safety & policy, Software engineering, Strategy
 
 ## Summary
 - In this role, you'll design, build, and ship systems that operate in production, working directly with founders.
@@ -29,7 +30,7 @@ AI safety & policy, Software engineering, Strategy
 - Take ownership in ambiguous environments and make decisions with incomplete information.
 - Ship meaningful systems that turn ideas into reality.
 
-[Apply →](https://www.0labs.ai/careers/founding-product-engineer)
+<p class="apply-cta"><a href="https://www.0labs.ai/careers/founding-product-engineer">Apply →</a></p>
 
 ---
-*Posted 2026-04-23 · Last updated 2026-05-26 · 80k job ID `recrdFEVWv11wy4p2`*
+*Posted 2026-04-23 · Listing synced 2026-05-26 · 80k job ID `recrdFEVWv11wy4p2`*

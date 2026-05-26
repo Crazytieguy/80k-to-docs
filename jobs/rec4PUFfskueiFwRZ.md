@@ -14,13 +14,14 @@ areas:
 
 **[Faculty](https://faculty.ai/)**
 
-- **Location:** London, UK, UK
-- **Role type:** Full-time
-- **Experience:** Senior (10+ years experience)
-- **Degree:** Undergraduate degree or less
+<dl class="job-meta">
+<dt>Location</dt><dd>London, UK, UK</dd>
+<dt>Role type</dt><dd>Full-time</dd>
+<dt>Experience</dt><dd>Senior (10+ years experience)</dd>
+<dt>Degree</dt><dd>Undergraduate degree or less</dd>
+</dl>
 
-## Tags
-AI safety & policy, Management, Strategy
+**Areas & skills:** AI safety & policy, Management, Strategy
 
 ## Summary
 - In this role, you'll own the technical strategy for AI safety, determining research directions and building mitigation technologies.
@@ -29,7 +30,7 @@ AI safety & policy, Management, Strategy
 - Shape safety solutions for frontier labs by translating R&D into practical evaluations and red-teaming.
 - Represent Faculty as a primary technical voice, delivering thought leadership and shaping AI safety policy.
 
-[Apply →](https://jobs.ashbyhq.com/faculty/7e726de6-6327-40cd-a00d-0e9be34e1cb4)
+<p class="apply-cta"><a href="https://jobs.ashbyhq.com/faculty/7e726de6-6327-40cd-a00d-0e9be34e1cb4">Apply →</a></p>
 
 ---
-*Posted 2026-03-19 · Last updated 2026-05-26 · 80k job ID `rec4PUFfskueiFwRZ`*
+*Posted 2026-03-19 · Listing synced 2026-05-26 · 80k job ID `rec4PUFfskueiFwRZ`*

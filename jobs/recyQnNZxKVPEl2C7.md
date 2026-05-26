@@ -14,14 +14,15 @@ areas:
 
 **[Cambridge Boston Alignment Initiative](https://www.cbai.ai/)**
 
-- **Location:** Boston metro area, USA
-- **Role type:** Full-time
-- **Experience:** Junior (1-4 years experience)
-- **Degree:** Undergraduate degree or less
-- **Salary:** $110,000 – $130,000
+<dl class="job-meta">
+<dt>Location</dt><dd>Boston metro area, USA</dd>
+<dt>Role type</dt><dd>Full-time</dd>
+<dt>Experience</dt><dd>Junior (1-4 years experience)</dd>
+<dt>Degree</dt><dd>Undergraduate degree or less</dd>
+<dt>Salary</dt><dd>$110,000 – $130,000</dd>
+</dl>
 
-## Tags
-AI safety & policy, Operations, Management, Strategy
+**Areas & skills:** AI safety & policy, Operations, Management, Strategy
 
 ## Summary
 - In this role, you'll launch and lead the AIxBio Research Fellowship, managing program strategy, team leadership, and mentor relationships.
@@ -30,7 +31,7 @@ AI safety & policy, Operations, Management, Strategy
 - Lead mentor recruitment by identifying and onboarding leading biosecurity and AI researchers.
 - Develop evaluation frameworks to assess fellow and program outcomes, and strengthen CBAI's presence in the Cambridge biosecurity ecosystem.
 
-[Apply →](https://jobs.ashbyhq.com/cbai/916b0bc0-02c7-4358-af8f-dcdd4af1f2f9)
+<p class="apply-cta"><a href="https://jobs.ashbyhq.com/cbai/916b0bc0-02c7-4358-af8f-dcdd4af1f2f9">Apply →</a></p>
 
 ---
-*Posted 2026-04-02 · Last updated 2026-05-26 · 80k job ID `recyQnNZxKVPEl2C7`*
+*Posted 2026-04-02 · Listing synced 2026-05-26 · 80k job ID `recyQnNZxKVPEl2C7`*

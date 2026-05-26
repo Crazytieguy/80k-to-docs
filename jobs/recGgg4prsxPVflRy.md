@@ -14,13 +14,14 @@ areas:
 
 **[University of Stuttgart](https://www.uni-stuttgart.de/en/)**
 
-- **Location:** Stuttgart, Germany, Germany, Europe (ex UK)
-- **Role type:** Full-time
-- **Experience:** Entry-level
-- **Degree:** Master's degree
+<dl class="job-meta">
+<dt>Location</dt><dd>Stuttgart, Germany, Germany, Europe (ex UK)</dd>
+<dt>Role type</dt><dd>Full-time</dd>
+<dt>Experience</dt><dd>Entry-level</dd>
+<dt>Degree</dt><dd>Master's degree</dd>
+</dl>
 
-## Tags
-AI safety & policy, Research, Software engineering
+**Areas & skills:** AI safety & policy, Research, Software engineering
 
 ## Summary
 - In this role, you'll conduct PhD research in AI safety, empirically investigating large language models to understand novel behaviours and ensure safe AI development.
@@ -29,7 +30,7 @@ AI safety & policy, Research, Software engineering
 - Publish your findings in leading academic journals and present work at conferences.
 - Work within a research group dedicated to identifying safety and security vulnerabilities in AI technologies.
 
-[Apply →](https://www.thilo-hagendorff.info/wordpress/wp-content/uploads/2026/03/AI-Safety-PhD.pdf)
+<p class="apply-cta"><a href="https://www.thilo-hagendorff.info/wordpress/wp-content/uploads/2026/03/AI-Safety-PhD.pdf">Apply →</a></p>
 
 ---
-*Posted 2022-01-06 · Last updated 2026-05-26 · 80k job ID `recGgg4prsxPVflRy`*
+*Posted 2022-01-06 · Listing synced 2026-05-26 · 80k job ID `recGgg4prsxPVflRy`*

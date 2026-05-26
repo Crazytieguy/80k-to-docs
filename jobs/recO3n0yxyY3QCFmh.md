@@ -14,14 +14,15 @@ areas:
 
 **[Georgetown University, Center for Security and Emerging Technology](https://cset.georgetown.edu/)**
 
-- **Location:** Washington, DC metro area, USA
-- **Role type:** Full-time
-- **Experience:** Junior (1-4 years experience)
-- **Degree:** Undergraduate degree or less
-- **Salary:** $120,000 – $145,000
+<dl class="job-meta">
+<dt>Location</dt><dd>Washington, DC metro area, USA</dd>
+<dt>Role type</dt><dd>Full-time</dd>
+<dt>Experience</dt><dd>Junior (1-4 years experience)</dd>
+<dt>Degree</dt><dd>Undergraduate degree or less</dd>
+<dt>Salary</dt><dd>$120,000 – $145,000</dd>
+</dl>
 
-## Tags
-AI safety & policy, Software engineering
+**Areas & skills:** AI safety & policy, Software engineering
 
 ## Summary
 - In this role, you'll develop data pipelines and analytical solutions to improve dataset quality and support policy research.
@@ -30,7 +31,7 @@ AI safety & policy, Software engineering
 - Interpret analysis results and communicate findings to policy audiences through visualizations and presentations.
 - Collaborate on research design, contribute to organizational development, and mentor colleagues.
 
-[Apply →](https://cset.georgetown.edu/job/data-scientist-2/)
+<p class="apply-cta"><a href="https://cset.georgetown.edu/job/data-scientist-2/">Apply →</a></p>
 
 ---
-*Posted 2026-05-05 · Last updated 2026-05-26 · 80k job ID `recO3n0yxyY3QCFmh`*
+*Posted 2026-05-05 · Listing synced 2026-05-26 · 80k job ID `recO3n0yxyY3QCFmh`*

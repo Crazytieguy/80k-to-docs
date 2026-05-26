@@ -14,13 +14,14 @@ areas:
 
 **[Carnegie Mellon University, Software Engineering Institute](https://www.sei.cmu.edu/)**
 
-- **Location:** Washington, DC metro area, Pittsburgh, PA, USA
-- **Role type:** Full-time
-- **Experience:** Junior (1-4 years experience), Mid (5-9 years experience)
-- **Degree:** Undergraduate degree or less
+<dl class="job-meta">
+<dt>Location</dt><dd>Washington, DC metro area, Pittsburgh, PA, USA</dd>
+<dt>Role type</dt><dd>Full-time</dd>
+<dt>Experience</dt><dd>Junior (1-4 years experience), Mid (5-9 years experience)</dd>
+<dt>Degree</dt><dd>Undergraduate degree or less</dd>
+</dl>
 
-## Tags
-AI safety & policy, Software engineering, Information security
+**Areas & skills:** AI safety & policy, Software engineering, Information security
 
 ## Summary
 - In this role, you'll develop machine learning-based prototypes, tools, and systems for AI security applications, translating research concepts into practical operational capabilities.
@@ -29,7 +30,7 @@ AI safety & policy, Software engineering, Information security
 - Process and analyze large, diverse cybersecurity datasets including malware, NetFlow, and incident data.
 - Support AI red teaming and adversarial machine learning initiatives using innovative, research-driven approaches.
 
-[Apply →](https://cmu.wd5.myworkdayjobs.com/en-US/SEI/job/Pittsburgh-PA/AI-Security-Software-Engineer_2024469-1)
+<p class="apply-cta"><a href="https://cmu.wd5.myworkdayjobs.com/en-US/SEI/job/Pittsburgh-PA/AI-Security-Software-Engineer_2024469-1">Apply →</a></p>
 
 ---
-*Posted 2026-05-21 · Last updated 2026-05-26 · 80k job ID `recEhYdFdRz2dqvxd`*
+*Posted 2026-05-21 · Listing synced 2026-05-26 · 80k job ID `recEhYdFdRz2dqvxd`*

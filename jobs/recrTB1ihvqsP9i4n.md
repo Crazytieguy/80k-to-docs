@@ -14,14 +14,15 @@ areas:
 
 **[Arq Foundation](https://www.arq.foundation/)**
 
-- **Location:** Brussels, Belgium, Belgium, Europe (ex UK)
-- **Role type:** Full-time
-- **Experience:** Junior (1-4 years experience)
-- **Degree:** Undergraduate degree or less
-- **Salary:** $46,513 – $69,769
+<dl class="job-meta">
+<dt>Location</dt><dd>Brussels, Belgium, Belgium, Europe (ex UK)</dd>
+<dt>Role type</dt><dd>Full-time</dd>
+<dt>Experience</dt><dd>Junior (1-4 years experience)</dd>
+<dt>Degree</dt><dd>Undergraduate degree or less</dd>
+<dt>Salary</dt><dd>$46,513 – $69,769</dd>
+</dl>
 
-## Tags
-AI safety & policy, Operations, Finance
+**Areas & skills:** AI safety & policy, Operations, Finance
 
 ## Summary
 - In this role, you'll help build and run operational systems across finance, HR, compliance, and IT.
@@ -30,7 +31,7 @@ AI safety & policy, Operations, Finance
 - Support organizational operations including onboarding, vendor coordination, and office management.
 - Identify inefficiencies, improve workflows, and automate repetitive tasks to increase operational leverage.
 
-[Apply →](https://www.arq.foundation/careers/operations-associate)
+<p class="apply-cta"><a href="https://www.arq.foundation/careers/operations-associate">Apply →</a></p>
 
 ---
-*Posted 2026-05-25 · Last updated 2026-05-26 · 80k job ID `recrTB1ihvqsP9i4n`*
+*Posted 2026-05-25 · Listing synced 2026-05-26 · 80k job ID `recrTB1ihvqsP9i4n`*

@@ -14,13 +14,14 @@ areas:
 
 **[Irregular](https://www.irregular.com/)**
 
-- **Location:** Tel Aviv, Israel, Middle-East, Israel
-- **Role type:** Full-time
-- **Experience:** Junior (1-4 years experience), Mid (5-9 years experience)
-- **Degree:** Undergraduate degree or less
+<dl class="job-meta">
+<dt>Location</dt><dd>Tel Aviv, Israel, Middle-East, Israel</dd>
+<dt>Role type</dt><dd>Full-time</dd>
+<dt>Experience</dt><dd>Junior (1-4 years experience), Mid (5-9 years experience)</dd>
+<dt>Degree</dt><dd>Undergraduate degree or less</dd>
+</dl>
 
-## Tags
-AI safety & policy, Research, Policy
+**Areas & skills:** AI safety & policy, Research, Policy
 
 ## Summary
 - In this role, you'll tackle complex questions of AI development and deployment as a Technical Policy Researcher, shaping the emerging field of AI security.
@@ -29,7 +30,7 @@ AI safety & policy, Research, Policy
 - Create policy proposals for models' refusal policies and track developments in AI policy and research.
 - Write academic papers and blog posts detailing research on evaluation theory and mitigation recommendations.
 
-[Apply →](https://jobs.ashbyhq.com/Irregular/69966779-e3e7-4ffa-a691-329b86dbf53d?embed=js)
+<p class="apply-cta"><a href="https://jobs.ashbyhq.com/Irregular/69966779-e3e7-4ffa-a691-329b86dbf53d?embed=js">Apply →</a></p>
 
 ---
-*Posted 2022-01-06 · Last updated 2026-05-26 · 80k job ID `rec2qTbvrHlbhqa15`*
+*Posted 2022-01-06 · Listing synced 2026-05-26 · 80k job ID `rec2qTbvrHlbhqa15`*

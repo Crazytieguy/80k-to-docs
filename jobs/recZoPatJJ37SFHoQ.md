@@ -14,14 +14,15 @@ areas:
 
 **[OpenAI](https://openai.com/)**
 
-- **Location:** San Francisco Bay Area, USA
-- **Role type:** Full-time
-- **Experience:** Junior (1-4 years experience)
-- **Degree:** Undergraduate degree or less
-- **Salary:** $293,000 – $405,000
+<dl class="job-meta">
+<dt>Location</dt><dd>San Francisco Bay Area, USA</dd>
+<dt>Role type</dt><dd>Full-time</dd>
+<dt>Experience</dt><dd>Junior (1-4 years experience)</dd>
+<dt>Degree</dt><dd>Undergraduate degree or less</dd>
+<dt>Salary</dt><dd>$293,000 – $405,000</dd>
+</dl>
 
-## Tags
-AI safety & policy, Research, Information security
+**Areas & skills:** AI safety & policy, Research, Information security
 
 ## Summary
 - In this role, you'll prepare OpenAI for security threats from advanced AI agents by identifying vulnerabilities and designing protective measures.
@@ -30,7 +31,7 @@ AI safety & policy, Research, Information security
 - Stress-test defenses through AI agent evaluations and penetration testing.
 - Monitor and predict the evolving capabilities of frontier AI systems.
 
-[Apply →](https://openai.com/careers/security-researcher-agentic-ai-threats-san-francisco/)
+<p class="apply-cta"><a href="https://openai.com/careers/security-researcher-agentic-ai-threats-san-francisco/">Apply →</a></p>
 
 ---
-*Posted 2026-05-20 · Last updated 2026-05-26 · 80k job ID `recZoPatJJ37SFHoQ`*
+*Posted 2026-05-20 · Listing synced 2026-05-26 · 80k job ID `recZoPatJJ37SFHoQ`*

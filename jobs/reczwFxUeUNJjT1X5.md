@@ -14,14 +14,15 @@ areas:
 
 **[Tarbell Center for AI Journalism](https://www.tarbellcenter.org/)**
 
-- **Location:** London, UK, Washington, DC metro area, San Francisco Bay Area, New York, NY, UK, USA
-- **Role type:** Full-time
-- **Experience:** Junior (1-4 years experience), Mid (5-9 years experience)
-- **Degree:** Undergraduate degree or less
-- **Salary:** $118,000 – $164,000
+<dl class="job-meta">
+<dt>Location</dt><dd>London, UK, Washington, DC metro area, San Francisco Bay Area, New York, NY, UK, USA</dd>
+<dt>Role type</dt><dd>Full-time</dd>
+<dt>Experience</dt><dd>Junior (1-4 years experience), Mid (5-9 years experience)</dd>
+<dt>Degree</dt><dd>Undergraduate degree or less</dd>
+<dt>Salary</dt><dd>$118,000 – $164,000</dd>
+</dl>
 
-## Tags
-AI safety & policy, Operations
+**Areas & skills:** AI safety & policy, Operations
 
 ## Summary
 - In this role, you'll be in charge of people and recruitment end-to-end, managing 35 new hires annually while building systems for rapid growth.
@@ -30,7 +31,7 @@ AI safety & policy, Operations
 - Develop organisational culture through events, staff engagement, and community building.
 - Support operations by managing tools, projects, and solving organisational problems.
 
-[Apply →](https://www.tarbellcenter.org/careers/head-of-people)
+<p class="apply-cta"><a href="https://www.tarbellcenter.org/careers/head-of-people">Apply →</a></p>
 
 ---
-*Posted 2026-05-25 · Last updated 2026-05-26 · 80k job ID `reczwFxUeUNJjT1X5`*
+*Posted 2026-05-25 · Listing synced 2026-05-26 · 80k job ID `reczwFxUeUNJjT1X5`*

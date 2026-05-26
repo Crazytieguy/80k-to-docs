@@ -14,14 +14,15 @@ areas:
 
 **[Encode](https://encodeai.org/)**
 
-- **Location:** Washington, DC metro area, USA
-- **Role type:** Full-time
-- **Experience:** Junior (1-4 years experience), Mid (5-9 years experience)
-- **Degree:** Undergraduate degree or less
-- **Salary:** $110,000
+<dl class="job-meta">
+<dt>Location</dt><dd>Washington, DC metro area, USA</dd>
+<dt>Role type</dt><dd>Full-time</dd>
+<dt>Experience</dt><dd>Junior (1-4 years experience), Mid (5-9 years experience)</dd>
+<dt>Degree</dt><dd>Undergraduate degree or less</dd>
+<dt>Salary</dt><dd>$110,000</dd>
+</dl>
 
-## Tags
-AI safety & policy, Research, Policy
+**Areas & skills:** AI safety & policy, Research, Policy
 
 ## Summary
 - In this role, you'll drive full-stack policy development across the organization, focusing on AI governance and public interest advocacy.
@@ -30,7 +31,7 @@ AI safety & policy, Research, Policy
 - Conduct policy research and create communications materials under tight deadlines.
 - Support multiple concurrent projects, including emergency responses and time-sensitive policy opportunities.
 
-[Apply →](https://docs.google.com/document/d/1UxruiF1jo5s956wbyRZp_SNrE1y4SNE0MF3-MkM5sqQ/edit?tab=t.0#heading=h.oqz3pmpx7801)
+<p class="apply-cta"><a href="https://docs.google.com/document/d/1UxruiF1jo5s956wbyRZp_SNrE1y4SNE0MF3-MkM5sqQ/edit?tab=t.0#heading=h.oqz3pmpx7801">Apply →</a></p>
 
 ---
-*Posted 2022-01-06 · Last updated 2026-05-26 · 80k job ID `recmYhrWQik1nGwnB`*
+*Posted 2022-01-06 · Listing synced 2026-05-26 · 80k job ID `recmYhrWQik1nGwnB`*

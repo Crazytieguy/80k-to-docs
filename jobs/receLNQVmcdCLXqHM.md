@@ -14,18 +14,19 @@ areas:
 
 **[Evitable](https://evitable.com/)**
 
-- **Location:** San Francisco Bay Area, USA
-- **Role type:** Full-time
-- **Experience:** Junior (1-4 years experience)
-- **Degree:** Undergraduate degree or less
+<dl class="job-meta">
+<dt>Location</dt><dd>San Francisco Bay Area, USA</dd>
+<dt>Role type</dt><dd>Full-time</dd>
+<dt>Experience</dt><dd>Junior (1-4 years experience)</dd>
+<dt>Degree</dt><dd>Undergraduate degree or less</dd>
+</dl>
 
-## Tags
-AI safety & policy, Outreach, Operations
+**Areas & skills:** AI safety & policy, Outreach, Operations
 
 ## Summary
 - Express interest in future roles contributing to movement building strategies and partnerships at Evitable.
 
-[Apply →](https://form.jotform.com/252827895601163)
+<p class="apply-cta"><a href="https://form.jotform.com/252827895601163">Apply →</a></p>
 
 ---
-*Posted 2022-01-06 · Last updated 2026-05-26 · 80k job ID `receLNQVmcdCLXqHM`*
+*Posted 2022-01-06 · Listing synced 2026-05-26 · 80k job ID `receLNQVmcdCLXqHM`*

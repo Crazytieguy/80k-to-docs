@@ -14,13 +14,14 @@ areas:
 
 **[Massachusetts Institute of Technology, FutureTech](https://futuretech.mit.edu/)**
 
-- **Location:** Boston metro area, USA
-- **Role type:** Full-time
-- **Experience:** Entry-level
-- **Degree:** Undergraduate degree or less
+<dl class="job-meta">
+<dt>Location</dt><dd>Boston metro area, USA</dd>
+<dt>Role type</dt><dd>Full-time</dd>
+<dt>Experience</dt><dd>Entry-level</dd>
+<dt>Degree</dt><dd>Undergraduate degree or less</dd>
+</dl>
 
-## Tags
-AI safety & policy, Research
+**Areas & skills:** AI safety & policy, Research
 
 ## Summary
 - In this role, you'll conduct research on AI progress, its effects on science, labor markets, and industry performance.
@@ -29,7 +30,7 @@ AI safety & policy, Research
 - Contribute to project documentation, reports, and research writing.
 - Support project planning and track key metrics in research systems.
 
-[Apply →](https://futuretech.mit.edu/opportunities/technical-associate-predoctoral-research-assistant)
+<p class="apply-cta"><a href="https://futuretech.mit.edu/opportunities/technical-associate-predoctoral-research-assistant">Apply →</a></p>
 
 ---
-*Posted 2022-01-06 · Last updated 2026-05-26 · 80k job ID `recDrPw4KrH84D2vI`*
+*Posted 2022-01-06 · Listing synced 2026-05-26 · 80k job ID `recDrPw4KrH84D2vI`*

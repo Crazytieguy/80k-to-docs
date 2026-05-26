@@ -14,13 +14,14 @@ areas:
 
 **[Asymmetric Security](https://www.asymmetricsecurity.com/)**
 
-- **Location:** London, UK, San Francisco Bay Area, New York, NY, UK, USA
-- **Role type:** Full-time
-- **Experience:** Mid (5-9 years experience)
-- **Degree:** Undergraduate degree or less
+<dl class="job-meta">
+<dt>Location</dt><dd>London, UK, San Francisco Bay Area, New York, NY, UK, USA</dd>
+<dt>Role type</dt><dd>Full-time</dd>
+<dt>Experience</dt><dd>Mid (5-9 years experience)</dd>
+<dt>Degree</dt><dd>Undergraduate degree or less</dd>
+</dl>
 
-## Tags
-AI safety & policy, Software engineering, Information security
+**Areas & skills:** AI safety & policy, Software engineering, Information security
 
 ## Summary
 - In this role, you'll be an extension of the founding team.
@@ -29,7 +30,7 @@ AI safety & policy, Software engineering, Information security
 - Lead technical development and make key architectural decisions for the platform.
 - Establish engineering best practices including automated testing, CI/CD pipelines, and monitoring systems.
 
-[Apply →](https://www.asymmetricsecurity.com/careers-listing/founding-engineer)
+<p class="apply-cta"><a href="https://www.asymmetricsecurity.com/careers-listing/founding-engineer">Apply →</a></p>
 
 ---
-*Posted 2022-01-05 · Last updated 2026-05-26 · 80k job ID `recNEmMFRXbBkRF0R`*
+*Posted 2022-01-05 · Listing synced 2026-05-26 · 80k job ID `recNEmMFRXbBkRF0R`*

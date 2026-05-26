@@ -14,19 +14,20 @@ areas:
 
 **[BlueDot Impact](https://www.bluedotimpact.org/)**
 
-- **Location:** San Francisco Bay Area, USA
-- **Role type:** Full-time
-- **Experience:** Multiple experience levels
-- **Degree:** Undergraduate degree or less
+<dl class="job-meta">
+<dt>Location</dt><dd>San Francisco Bay Area, USA</dd>
+<dt>Role type</dt><dd>Full-time</dd>
+<dt>Experience</dt><dd>Multiple experience levels</dd>
+<dt>Degree</dt><dd>Undergraduate degree or less</dd>
+</dl>
 
-## Tags
-AI safety & policy, Other
+**Areas & skills:** AI safety & policy, Other
 
 ## Summary
 - Express interest in working at BlueDot Impact.
 - You might be a great fit if you have built something people use, have deep expertise, are high agency, or care viscerally about protecting humanity from catastrophic threats.
 
-[Apply →](https://bluedot.org/join-us/talent)
+<p class="apply-cta"><a href="https://bluedot.org/join-us/talent">Apply →</a></p>
 
 ---
-*Posted 2026-04-09 · Last updated 2026-05-26 · 80k job ID `recIFEPfH0Vfg376T`*
+*Posted 2026-04-09 · Listing synced 2026-05-26 · 80k job ID `recIFEPfH0Vfg376T`*

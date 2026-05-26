@@ -14,14 +14,14 @@ areas:
 
 **[Model Evaluation and Threat Research](https://metr.org/)**
 
-- **Location:** San Francisco Bay Area, Remote, Global, USA, USA (Confirmed Visas)
-- **Role type:** Full-time
-- **Experience:** Multiple experience levels
-- **Degree:** Undergraduate degree or less
-- **Location type:** Remote
+<dl class="job-meta">
+<dt>Location</dt><dd>San Francisco Bay Area, Remote, Global, USA, USA (Confirmed Visas)</dd>
+<dt>Role type</dt><dd>Full-time</dd>
+<dt>Experience</dt><dd>Multiple experience levels</dd>
+<dt>Degree</dt><dd>Undergraduate degree or less</dd>
+</dl>
 
-## Tags
-AI safety & policy, Research, Operations, Software engineering
+**Areas & skills:** AI safety & policy, Research, Operations, Software engineering
 
 ## Summary
 - This role calls for individuals who aim to work with METR in any capacity.
@@ -30,7 +30,7 @@ AI safety & policy, Research, Operations, Software engineering
 - Inspire and support internal evaluation teams in leading labs.
 - Collaborate on initiatives that influence policies regarding AI development and risk assessment.
 
-[Apply →](https://jobs.lever.co/metr/f3a6db11-7fd1-48e4-af42-20aad1ded72d)
+<p class="apply-cta"><a href="https://jobs.lever.co/metr/f3a6db11-7fd1-48e4-af42-20aad1ded72d">Apply →</a></p>
 
 ---
-*Posted 2022-01-11 · Last updated 2026-05-26 · 80k job ID `rec75An15dkea2hUe`*
+*Posted 2022-01-11 · Listing synced 2026-05-26 · 80k job ID `rec75An15dkea2hUe`*

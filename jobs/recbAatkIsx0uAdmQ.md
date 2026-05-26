@@ -14,15 +14,15 @@ areas:
 
 **[Elicit](https://elicit.com/)**
 
-- **Location:** Remote, USA, USA
-- **Role type:** Full-time
-- **Experience:** Mid (5-9 years experience)
-- **Degree:** Undergraduate degree or less
-- **Salary:** $120,000 – $160,000
-- **Location type:** Remote
+<dl class="job-meta">
+<dt>Location</dt><dd>Remote, USA, USA</dd>
+<dt>Role type</dt><dd>Full-time</dd>
+<dt>Experience</dt><dd>Mid (5-9 years experience)</dd>
+<dt>Degree</dt><dd>Undergraduate degree or less</dd>
+<dt>Salary</dt><dd>$120,000 – $160,000</dd>
+</dl>
 
-## Tags
-AI safety & policy, Strategy
+**Areas & skills:** AI safety & policy, Strategy
 
 ## Summary
 - In this role, you'll lead machine-learning based projects from concept through launch, setting the product vision and driving projects end-to-end from prototype to implementation.
@@ -30,7 +30,7 @@ AI safety & policy, Strategy
 - Develop a deep understanding of user behaviors and drive user research to guide the best user outcomes.
 - Ensure the success of new Elicit features by defining the product strategy, success metrics, and ensuring high-quality implementation and shipping.
 
-[Apply →](https://elicit.com/careers?ashby_jid=2c18fbc6-2e1a-4ba1-a1b2-73db54bc95ca)
+<p class="apply-cta"><a href="https://elicit.com/careers?ashby_jid=2c18fbc6-2e1a-4ba1-a1b2-73db54bc95ca">Apply →</a></p>
 
 ---
-*Posted 2022-01-11 · Last updated 2026-05-26 · 80k job ID `recbAatkIsx0uAdmQ`*
+*Posted 2022-01-11 · Listing synced 2026-05-26 · 80k job ID `recbAatkIsx0uAdmQ`*

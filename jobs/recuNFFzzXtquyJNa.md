@@ -14,19 +14,19 @@ areas:
 
 **[The Midas Project](https://www.themidasproject.com/)**
 
-- **Location:** Remote, Global
-- **Role type:** Volunteering
-- **Experience:** Entry-level
-- **Degree:** Undergraduate degree or less
-- **Location type:** Remote
+<dl class="job-meta">
+<dt>Location</dt><dd>Remote, Global</dd>
+<dt>Role type</dt><dd>Volunteering</dd>
+<dt>Experience</dt><dd>Entry-level</dd>
+<dt>Degree</dt><dd>Undergraduate degree or less</dd>
+</dl>
 
-## Tags
-AI safety & policy, Research, Outreach, Operations
+**Areas & skills:** AI safety & policy, Research, Outreach, Operations
 
 ## Summary
 - Express interest in volunteering your time and skills to support The Midas Project's initiatives.
 
-[Apply →](https://www.themidasproject.com/volunteer)
+<p class="apply-cta"><a href="https://www.themidasproject.com/volunteer">Apply →</a></p>
 
 ---
-*Posted 2022-01-06 · Last updated 2026-05-26 · 80k job ID `recuNFFzzXtquyJNa`*
+*Posted 2022-01-06 · Listing synced 2026-05-26 · 80k job ID `recuNFFzzXtquyJNa`*

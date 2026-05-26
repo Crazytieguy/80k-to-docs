@@ -14,14 +14,15 @@ areas:
 
 **London AI Safety Research Labs**
 
-- **Location:** London, UK, UK, UK (Confirmed Visas)
-- **Role type:** Full-time
-- **Experience:** Junior (1-4 years experience)
-- **Degree:** Undergraduate degree or less
-- **Salary:** $67,241 – $80,689
+<dl class="job-meta">
+<dt>Location</dt><dd>London, UK, UK, UK (Confirmed Visas)</dd>
+<dt>Role type</dt><dd>Full-time</dd>
+<dt>Experience</dt><dd>Junior (1-4 years experience)</dd>
+<dt>Degree</dt><dd>Undergraduate degree or less</dd>
+<dt>Salary</dt><dd>$67,241 – $80,689</dd>
+</dl>
 
-## Tags
-AI safety & policy, Operations
+**Areas & skills:** AI safety & policy, Operations
 
 ## Summary
 - In this role, you'll facilitate research meetings, serve as primary technical resource, and help participants succeed in the AI safety research programme.
@@ -30,7 +31,7 @@ AI safety & policy, Operations
 - Run workshops on using AI tools for research and coding, providing career coaching to support participant transitions.
 - Coordinate programme logistics including schedules, room bookings, and manage access to compute resources.
 
-[Apply →](https://www.lasrlabs.org/research-coordinator)
+<p class="apply-cta"><a href="https://www.lasrlabs.org/research-coordinator">Apply →</a></p>
 
 ---
-*Posted 2026-05-20 · Last updated 2026-05-26 · 80k job ID `recDx1S3KgiVztO8z`*
+*Posted 2026-05-20 · Listing synced 2026-05-26 · 80k job ID `recDx1S3KgiVztO8z`*

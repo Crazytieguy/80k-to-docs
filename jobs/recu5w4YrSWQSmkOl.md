@@ -14,14 +14,15 @@ areas:
 
 **[Transluce](https://transluce.org/)**
 
-- **Location:** San Francisco Bay Area, USA, USA (Confirmed Visas)
-- **Role type:** Full-time
-- **Experience:** Junior (1-4 years experience)
-- **Degree:** Undergraduate degree or less
-- **Salary:** $110,000 – $160,000
+<dl class="job-meta">
+<dt>Location</dt><dd>San Francisco Bay Area, USA, USA (Confirmed Visas)</dd>
+<dt>Role type</dt><dd>Full-time</dd>
+<dt>Experience</dt><dd>Junior (1-4 years experience)</dd>
+<dt>Degree</dt><dd>Undergraduate degree or less</dd>
+<dt>Salary</dt><dd>$110,000 – $160,000</dd>
+</dl>
 
-## Tags
-AI safety & policy, Operations
+**Areas & skills:** AI safety & policy, Operations
 
 ## Summary
 - In this role, you'll oversee core operational functions across people operations, finance, compliance, and internal systems as the organisation scales.
@@ -30,7 +31,7 @@ AI safety & policy, Operations
 - Manage and extend internal tools to solve operational challenges and improve efficiency.
 - Identify operational risks and opportunities to continually improve systems and processes.
 
-[Apply →](https://jobs.gem.com/transluce/am9icG9zdDoq-FKTd-JXCK4eCHw1wzGA)
+<p class="apply-cta"><a href="https://jobs.gem.com/transluce/am9icG9zdDoq-FKTd-JXCK4eCHw1wzGA">Apply →</a></p>
 
 ---
-*Posted 2026-04-29 · Last updated 2026-05-26 · 80k job ID `recu5w4YrSWQSmkOl`*
+*Posted 2026-04-29 · Listing synced 2026-05-26 · 80k job ID `recu5w4YrSWQSmkOl`*

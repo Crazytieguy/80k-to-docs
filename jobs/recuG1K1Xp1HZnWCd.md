@@ -14,18 +14,19 @@ areas:
 
 **[China AI Safety and Development Association](https://cnaisi.cn/)**
 
-- **Location:** Beijing, China, China, Asia
-- **Role type:** Internship, Full-time, Volunteering
-- **Experience:** Multiple experience levels
-- **Degree:** Undergraduate degree or less
+<dl class="job-meta">
+<dt>Location</dt><dd>Beijing, China, China, Asia</dd>
+<dt>Role type</dt><dd>Internship, Full-time, Volunteering</dd>
+<dt>Experience</dt><dd>Multiple experience levels</dd>
+<dt>Degree</dt><dd>Undergraduate degree or less</dd>
+</dl>
 
-## Tags
-AI safety & policy, Research, Policy
+**Areas & skills:** AI safety & policy, Research, Policy
 
 ## Summary
 - Express interest in a role at CnAISDA, whether in volunteering, an internship, or in research collaboration.
 
-[Apply →](https://cnaisi.cn/jrwm)
+<p class="apply-cta"><a href="https://cnaisi.cn/jrwm">Apply →</a></p>
 
 ---
-*Posted 2022-01-05 · Last updated 2026-05-26 · 80k job ID `recuG1K1Xp1HZnWCd`*
+*Posted 2022-01-05 · Listing synced 2026-05-26 · 80k job ID `recuG1K1Xp1HZnWCd`*

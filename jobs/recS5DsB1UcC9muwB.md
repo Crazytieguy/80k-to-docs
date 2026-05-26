@@ -14,14 +14,15 @@ areas:
 
 **[OpenAI](https://openai.com/)**
 
-- **Location:** Singapore, Singapore, Sydney, Australia, Tokyo, Japan, Singapore, Australia, Asia, Oceania, Japan
-- **Role type:** Full-time
-- **Experience:** Mid (5-9 years experience)
-- **Degree:** Undergraduate degree or less
-- **Salary:** $255,000 – $405,000
+<dl class="job-meta">
+<dt>Location</dt><dd>Singapore, Singapore, Sydney, Australia, Tokyo, Japan, Singapore, Australia, Asia, Oceania, Japan</dd>
+<dt>Role type</dt><dd>Full-time</dd>
+<dt>Experience</dt><dd>Mid (5-9 years experience)</dd>
+<dt>Degree</dt><dd>Undergraduate degree or less</dd>
+<dt>Salary</dt><dd>$255,000 – $405,000</dd>
+</dl>
 
-## Tags
-AI safety & policy, Software engineering, Information security
+**Areas & skills:** AI safety & policy, Software engineering, Information security
 
 ## Summary
 - In this role, you'll drive detection and response security initiatives at OpenAI, focusing on infrastructure and operations while contributing as a security generalist.
@@ -30,7 +31,7 @@ AI safety & policy, Software engineering, Information security
 - Automate manual response processes for improved efficiency.
 - Ensure visibility and control across OpenAI's endpoint fleet while driving improvements in identity access management and cloud environments.
 
-[Apply →](https://openai.com/careers/security-engineer-detection-and-response-sydney-australia/)
+<p class="apply-cta"><a href="https://openai.com/careers/security-engineer-detection-and-response-sydney-australia/">Apply →</a></p>
 
 ---
-*Posted 2022-01-11 · Last updated 2026-05-26 · 80k job ID `recS5DsB1UcC9muwB`*
+*Posted 2022-01-11 · Listing synced 2026-05-26 · 80k job ID `recS5DsB1UcC9muwB`*

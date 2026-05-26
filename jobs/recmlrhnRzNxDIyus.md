@@ -14,14 +14,15 @@ areas:
 
 **[Cambridge Boston Alignment Initiative](https://www.cbai.ai/)**
 
-- **Location:** Boston metro area, USA
-- **Role type:** Full-time
-- **Experience:** Junior (1-4 years experience), Mid (5-9 years experience)
-- **Degree:** Undergraduate degree or less
-- **Salary:** $124,800
+<dl class="job-meta">
+<dt>Location</dt><dd>Boston metro area, USA</dd>
+<dt>Role type</dt><dd>Full-time</dd>
+<dt>Experience</dt><dd>Junior (1-4 years experience), Mid (5-9 years experience)</dd>
+<dt>Degree</dt><dd>Undergraduate degree or less</dd>
+<dt>Salary</dt><dd>$124,800</dd>
+</dl>
 
-## Tags
-AI safety & policy, Other
+**Areas & skills:** AI safety & policy, Other
 
 ## Summary
 - In this role, you'll support participants through a 3-week intensive ML bootcamp designed to teach AI safety skills.
@@ -30,7 +31,7 @@ AI safety & policy, Other
 - Present informational sessions and facilitate pair programming to strengthen technical understanding.
 - Manage compute infrastructure, troubleshoot environment issues, and advise on AI safety career opportunities.
 
-[Apply →](https://airtable.com/appekfFNw7V75LXQn/pagwQRIDaql0hufJI/form)
+<p class="apply-cta"><a href="https://airtable.com/appekfFNw7V75LXQn/pagwQRIDaql0hufJI/form">Apply →</a></p>
 
 ---
-*Posted 2026-03-26 · Last updated 2026-05-26 · 80k job ID `recmlrhnRzNxDIyus`*
+*Posted 2026-03-26 · Listing synced 2026-05-26 · 80k job ID `recmlrhnRzNxDIyus`*

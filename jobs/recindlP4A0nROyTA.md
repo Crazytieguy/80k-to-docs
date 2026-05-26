@@ -14,14 +14,15 @@ areas:
 
 **[MATS Research](https://www.matsprogram.org/)**
 
-- **Location:** London, UK, San Francisco Bay Area, UK, USA
-- **Role type:** Full-time
-- **Experience:** Mid (5-9 years experience)
-- **Degree:** Undergraduate degree or less
-- **Salary:** $160,000 – $240,000
+<dl class="job-meta">
+<dt>Location</dt><dd>London, UK, San Francisco Bay Area, UK, USA</dd>
+<dt>Role type</dt><dd>Full-time</dd>
+<dt>Experience</dt><dd>Mid (5-9 years experience)</dd>
+<dt>Degree</dt><dd>Undergraduate degree or less</dd>
+<dt>Salary</dt><dd>$160,000 – $240,000</dd>
+</dl>
 
-## Tags
-AI safety & policy, Operations, Management, Strategy
+**Areas & skills:** AI safety & policy, Operations, Management, Strategy
 
 ## Summary
 - In this role, you'll build MATS's People function from scratch, establishing HR systems that enable scaling from 45 to 90 employees across two countries.
@@ -29,7 +30,7 @@ AI safety & policy, Operations, Management, Strategy
 - Advise managers and employees on performance issues, employee relations, conflicts, and career development.
 - Shape organizational culture to foster inclusion and belonging as the organization scales.
 
-[Apply →](https://www.matsprogram.org/careers/head-of-people)
+<p class="apply-cta"><a href="https://www.matsprogram.org/careers/head-of-people">Apply →</a></p>
 
 ---
-*Posted 2026-05-15 · Last updated 2026-05-26 · 80k job ID `recindlP4A0nROyTA`*
+*Posted 2026-05-15 · Listing synced 2026-05-26 · 80k job ID `recindlP4A0nROyTA`*

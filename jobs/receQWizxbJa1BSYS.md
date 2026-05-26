@@ -14,14 +14,15 @@ areas:
 
 **[Goodfire](https://goodfire.ai)**
 
-- **Location:** San Francisco Bay Area, USA
-- **Role type:** Full-time
-- **Experience:** Junior (1-4 years experience)
-- **Degree:** Doctoral degree
-- **Salary:** $200,000 – $400,000
+<dl class="job-meta">
+<dt>Location</dt><dd>San Francisco Bay Area, USA</dd>
+<dt>Role type</dt><dd>Full-time</dd>
+<dt>Experience</dt><dd>Junior (1-4 years experience)</dd>
+<dt>Degree</dt><dd>Doctoral degree</dd>
+<dt>Salary</dt><dd>$200,000 – $400,000</dd>
+</dl>
 
-## Tags
-AI safety & policy, Research
+**Areas & skills:** AI safety & policy, Research
 
 ## Summary
 - In this role, you'll develop new techniques for understanding and steering large AI models as a Research Scientist.
@@ -30,7 +31,7 @@ AI safety & policy, Research
 - Collaborate with engineering to transform research into production-ready tools.
 - Share your work through publications, demos, and open-source contributions while helping define research direction.
 
-[Apply →](https://job-boards.greenhouse.io/goodfire/jobs/4746990008)
+<p class="apply-cta"><a href="https://job-boards.greenhouse.io/goodfire/jobs/4746990008">Apply →</a></p>
 
 ---
-*Posted 2022-01-06 · Last updated 2026-05-26 · 80k job ID `receQWizxbJa1BSYS`*
+*Posted 2022-01-06 · Listing synced 2026-05-26 · 80k job ID `receQWizxbJa1BSYS`*

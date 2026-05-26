@@ -14,13 +14,14 @@ areas:
 
 **[Constellation](https://www.constellation.org/)**
 
-- **Location:** San Francisco Bay Area, USA
-- **Role type:** Full-time
-- **Experience:** Multiple experience levels
-- **Degree:** Undergraduate degree or less
+<dl class="job-meta">
+<dt>Location</dt><dd>San Francisco Bay Area, USA</dd>
+<dt>Role type</dt><dd>Full-time</dd>
+<dt>Experience</dt><dd>Multiple experience levels</dd>
+<dt>Degree</dt><dd>Undergraduate degree or less</dd>
+</dl>
 
-## Tags
-AI safety & policy, Operations
+**Areas & skills:** AI safety & policy, Operations
 
 ## Summary
 - In this role, you'll execute operational functions across Finance, HR, Programs, and Facilities enabling Constellation's AI safety mission.
@@ -29,7 +30,7 @@ AI safety & policy, Operations
 - Apply entrepreneurial problem-solving to operational challenges across diverse domains.
 - Build the backbone infrastructure supporting the world's leading AI safety research network.
 
-[Apply →](https://jobs.gem.com/constellation-institute/12ef3003-8e6c-4ae9-b3bf-6f4378865b19)
+<p class="apply-cta"><a href="https://jobs.gem.com/constellation-institute/12ef3003-8e6c-4ae9-b3bf-6f4378865b19">Apply →</a></p>
 
 ---
-*Posted 2026-05-22 · Last updated 2026-05-26 · 80k job ID `rec2jy1gaDbJ08rJZ`*
+*Posted 2026-05-22 · Listing synced 2026-05-26 · 80k job ID `rec2jy1gaDbJ08rJZ`*

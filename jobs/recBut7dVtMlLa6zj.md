@@ -14,13 +14,14 @@ areas:
 
 **[Carnegie Mellon University, Software Engineering Institute](https://www.sei.cmu.edu/)**
 
-- **Location:** Washington, DC metro area, Pittsburgh, PA, USA
-- **Role type:** Full-time
-- **Experience:** Multiple experience levels
-- **Degree:** Undergraduate degree or less
+<dl class="job-meta">
+<dt>Location</dt><dd>Washington, DC metro area, Pittsburgh, PA, USA</dd>
+<dt>Role type</dt><dd>Full-time</dd>
+<dt>Experience</dt><dd>Multiple experience levels</dd>
+<dt>Degree</dt><dd>Undergraduate degree or less</dd>
+</dl>
 
-## Tags
-AI safety & policy, Research, Software engineering, Information security
+**Areas & skills:** AI safety & policy, Research, Software engineering, Information security
 
 ## Summary
 - In this role, you'll engineer secure AI systems and defend against vulnerabilities targeting machine learning algorithms.
@@ -29,7 +30,7 @@ AI safety & policy, Research, Software engineering, Information security
 - Test and evaluate system performance and security through rapid prototyping and novel analysis techniques.
 - Collaborate with researchers and government sponsors while mentoring junior team members.
 
-[Apply →](https://cmu.wd5.myworkdayjobs.com/en-US/SEI/job/Pittsburgh-PA/Machine-Learning-Engineer---Secure-AI-Lab_2024338-2)
+<p class="apply-cta"><a href="https://cmu.wd5.myworkdayjobs.com/en-US/SEI/job/Pittsburgh-PA/Machine-Learning-Engineer---Secure-AI-Lab_2024338-2">Apply →</a></p>
 
 ---
-*Posted 2026-04-24 · Last updated 2026-05-26 · 80k job ID `recBut7dVtMlLa6zj`*
+*Posted 2026-04-24 · Listing synced 2026-05-26 · 80k job ID `recBut7dVtMlLa6zj`*

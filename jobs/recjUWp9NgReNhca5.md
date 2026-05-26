@@ -14,15 +14,15 @@ areas:
 
 **[AI Safety Connect](https://www.aisafetyconnect.org/)**
 
-- **Location:** Remote, Global
-- **Role type:** Full-time
-- **Experience:** Junior (1-4 years experience)
-- **Degree:** Undergraduate degree or less
-- **Salary:** $78,000 – $96,000
-- **Location type:** Remote
+<dl class="job-meta">
+<dt>Location</dt><dd>Remote, Global</dd>
+<dt>Role type</dt><dd>Full-time</dd>
+<dt>Experience</dt><dd>Junior (1-4 years experience)</dd>
+<dt>Degree</dt><dd>Undergraduate degree or less</dd>
+<dt>Salary</dt><dd>$78,000 – $96,000</dd>
+</dl>
 
-## Tags
-AI safety & policy, Operations
+**Areas & skills:** AI safety & policy, Operations
 
 ## Summary
 - In this role, you'll manage executive operations and build systems that enable the small team to operate at scale.
@@ -31,7 +31,7 @@ AI safety & policy, Operations
 - Build and maintain Zapier automations, CRM systems, and project management tools to optimize workflows.
 - Provide IT support, troubleshoot technical issues, and evaluate new software solutions for the team.
 
-[Apply →](https://portal.aisafetyconnect.org/executive-operations-associate)
+<p class="apply-cta"><a href="https://portal.aisafetyconnect.org/executive-operations-associate">Apply →</a></p>
 
 ---
-*Posted 2026-04-10 · Last updated 2026-05-26 · 80k job ID `recjUWp9NgReNhca5`*
+*Posted 2026-04-10 · Listing synced 2026-05-26 · 80k job ID `recjUWp9NgReNhca5`*

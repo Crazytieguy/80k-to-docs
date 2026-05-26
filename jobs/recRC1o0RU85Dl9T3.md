@@ -14,14 +14,15 @@ areas:
 
 **[SL5 Task Force](https://sl5.org/)**
 
-- **Location:** San Francisco Bay Area, USA, USA (Confirmed Visas)
-- **Role type:** Full-time
-- **Experience:** Junior (1-4 years experience), Mid (5-9 years experience)
-- **Degree:** Undergraduate degree or less
-- **Salary:** $200,000 – $350,000
+<dl class="job-meta">
+<dt>Location</dt><dd>San Francisco Bay Area, USA, USA (Confirmed Visas)</dd>
+<dt>Role type</dt><dd>Full-time</dd>
+<dt>Experience</dt><dd>Junior (1-4 years experience), Mid (5-9 years experience)</dd>
+<dt>Degree</dt><dd>Undergraduate degree or less</dd>
+<dt>Salary</dt><dd>$200,000 – $350,000</dd>
+</dl>
 
-## Tags
-AI safety & policy, Engineering, Software engineering, Information security
+**Areas & skills:** AI safety & policy, Engineering, Software engineering, Information security
 
 ## Summary
 - In this role, you'll design and operationalize security architectures for a Security Level 5 datacenter defending frontier AI against nation-state threats.
@@ -30,7 +31,7 @@ AI safety & policy, Engineering, Software engineering, Information security
 - Build custom security tooling and run experiments to assess SL5 impact on AI productivity.
 - Co-develop security standards with labs and government stakeholders and publish technical research.
 
-[Apply →](https://sl5.org/careers)
+<p class="apply-cta"><a href="https://sl5.org/careers">Apply →</a></p>
 
 ---
-*Posted 2026-05-25 · Last updated 2026-05-26 · 80k job ID `recRC1o0RU85Dl9T3`*
+*Posted 2026-05-25 · Listing synced 2026-05-26 · 80k job ID `recRC1o0RU85Dl9T3`*

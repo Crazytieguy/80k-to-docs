@@ -14,14 +14,15 @@ areas:
 
 **[Arq Foundation](https://www.arq.foundation/)**
 
-- **Location:** Brussels, Belgium, Belgium, Europe (ex UK)
-- **Role type:** Full-time
-- **Experience:** Mid (5-9 years experience), Senior (10+ years experience)
-- **Degree:** Undergraduate degree or less
-- **Salary:** $104,653 – $116,281
+<dl class="job-meta">
+<dt>Location</dt><dd>Brussels, Belgium, Belgium, Europe (ex UK)</dd>
+<dt>Role type</dt><dd>Full-time</dd>
+<dt>Experience</dt><dd>Mid (5-9 years experience), Senior (10+ years experience)</dd>
+<dt>Degree</dt><dd>Undergraduate degree or less</dd>
+<dt>Salary</dt><dd>$104,653 – $116,281</dd>
+</dl>
 
-## Tags
-AI safety & policy, Policy, Outreach
+**Areas & skills:** AI safety & policy, Policy, Outreach
 
 ## Summary
 - In this role, you'll gather political intelligence and develop engagement strategies to ensure Arq's research reaches key audiences.
@@ -30,7 +31,7 @@ AI safety & policy, Policy, Outreach
 - Contribute to research outputs and coordinate engagement strategies with researchers.
 - Deputise for the Director, manage stakeholder relationships, and plan Arq's Brussels events.
 
-[Apply →](https://www.arq.foundation/careers/deputy-director-policy-brussels)
+<p class="apply-cta"><a href="https://www.arq.foundation/careers/deputy-director-policy-brussels">Apply →</a></p>
 
 ---
-*Posted 2026-05-25 · Last updated 2026-05-26 · 80k job ID `rech9olTlMcvdyJBy`*
+*Posted 2026-05-25 · Listing synced 2026-05-26 · 80k job ID `rech9olTlMcvdyJBy`*

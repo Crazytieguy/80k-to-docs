@@ -14,14 +14,15 @@ areas:
 
 **[OpenAI](https://openai.com/)**
 
-- **Location:** San Francisco Bay Area, USA
-- **Role type:** Full-time
-- **Experience:** Mid (5-9 years experience)
-- **Degree:** Undergraduate degree or less
-- **Salary:** $250,000 – $445,000
+<dl class="job-meta">
+<dt>Location</dt><dd>San Francisco Bay Area, USA</dd>
+<dt>Role type</dt><dd>Full-time</dd>
+<dt>Experience</dt><dd>Mid (5-9 years experience)</dd>
+<dt>Degree</dt><dd>Undergraduate degree or less</dd>
+<dt>Salary</dt><dd>$250,000 – $445,000</dd>
+</dl>
 
-## Tags
-AI safety & policy, Research
+**Areas & skills:** AI safety & policy, Research
 
 ## Summary
 - In this role, you'll design and run experiments that improve oversight of increasingly capable AI models.
@@ -30,7 +31,7 @@ AI safety & policy, Research
 - Develop evaluations for alignment failure modes and analyse deployment data to identify training improvements.
 - Produce research findings and collaborate across teams to translate oversight ideas into working systems.
 
-[Apply →](https://openai.com/careers/researcher-alignment-oversight-san-francisco/)
+<p class="apply-cta"><a href="https://openai.com/careers/researcher-alignment-oversight-san-francisco/">Apply →</a></p>
 
 ---
-*Posted 2026-05-12 · Last updated 2026-05-26 · 80k job ID `rec9Bbnn1fiMUvUC7`*
+*Posted 2026-05-12 · Listing synced 2026-05-26 · 80k job ID `rec9Bbnn1fiMUvUC7`*

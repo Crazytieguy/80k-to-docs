@@ -14,13 +14,14 @@ areas:
 
 **[Menlo Ventures](https://menlovc.com/)**
 
-- **Location:** USA
-- **Role type:** Funding
-- **Experience:** Multiple experience levels
-- **Degree:** Undergraduate degree or less
+<dl class="job-meta">
+<dt>Location</dt><dd>USA</dd>
+<dt>Role type</dt><dd>Funding</dd>
+<dt>Experience</dt><dd>Multiple experience levels</dd>
+<dt>Degree</dt><dd>Undergraduate degree or less</dd>
+</dl>
 
-## Tags
-AI safety & policy, Strategy
+**Areas & skills:** AI safety & policy, Strategy
 
 ## Summary
 - Pre-Seed, Seed, and Series A investments from the Anthology Fund as lead or participating investors.
@@ -29,7 +30,7 @@ AI safety & policy, Strategy
 - Benefit from Menlo's investors, services team, and network for company building.
 - Join a founder community and access infrastructure credits and fractional workspace.
 
-[Apply →](https://menlovc.com/anthology-fund/)
+<p class="apply-cta"><a href="https://menlovc.com/anthology-fund/">Apply →</a></p>
 
 ---
-*Posted 2026-03-18 · Last updated 2026-05-26 · 80k job ID `rec0MnpVxV8AKJudj`*
+*Posted 2026-03-18 · Listing synced 2026-05-26 · 80k job ID `rec0MnpVxV8AKJudj`*

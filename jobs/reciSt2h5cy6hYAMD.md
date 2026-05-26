@@ -14,13 +14,14 @@ areas:
 
 **[Faculty](https://faculty.ai/)**
 
-- **Location:** London, UK, UK
-- **Role type:** Full-time
-- **Experience:** Mid (5-9 years experience), Senior (10+ years experience)
-- **Degree:** Undergraduate degree or less
+<dl class="job-meta">
+<dt>Location</dt><dd>London, UK, UK</dd>
+<dt>Role type</dt><dd>Full-time</dd>
+<dt>Experience</dt><dd>Mid (5-9 years experience), Senior (10+ years experience)</dd>
+<dt>Degree</dt><dd>Undergraduate degree or less</dd>
+</dl>
 
-## Tags
-AI safety & policy, Management, Strategy
+**Areas & skills:** AI safety & policy, Management, Strategy
 
 ## Summary
 - In this role, you'll lead delivery across an AI Safety portfolio, focusing on frontier model evaluations and strategic implementation in government services.
@@ -29,7 +30,7 @@ AI safety & policy, Management, Strategy
 - Advise clients on AI safety strategy and technical implementation as a trusted consultant.
 - Build relationships with customers, data scientists, and technical partners including frontier AI labs.
 
-[Apply →](https://jobs.ashbyhq.com/faculty/b4ec2535-7bce-499b-8926-e349413e3325)
+<p class="apply-cta"><a href="https://jobs.ashbyhq.com/faculty/b4ec2535-7bce-499b-8926-e349413e3325">Apply →</a></p>
 
 ---
-*Posted 2022-01-05 · Last updated 2026-05-26 · 80k job ID `reciSt2h5cy6hYAMD`*
+*Posted 2022-01-05 · Listing synced 2026-05-26 · 80k job ID `reciSt2h5cy6hYAMD`*

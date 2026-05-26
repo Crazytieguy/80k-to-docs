@@ -14,14 +14,15 @@ areas:
 
 **[BlueDot Impact](https://www.bluedotimpact.org/)**
 
-- **Location:** London, UK, San Francisco Bay Area, UK, USA
-- **Role type:** Full-time
-- **Experience:** Mid (5-9 years experience)
-- **Degree:** Undergraduate degree or less
-- **Salary:** $120,000 – $170,000
+<dl class="job-meta">
+<dt>Location</dt><dd>London, UK, San Francisco Bay Area, UK, USA</dd>
+<dt>Role type</dt><dd>Full-time</dd>
+<dt>Experience</dt><dd>Mid (5-9 years experience)</dd>
+<dt>Degree</dt><dd>Undergraduate degree or less</dd>
+<dt>Salary</dt><dd>$120,000 – $170,000</dd>
+</dl>
 
-## Tags
-AI safety & policy, Operations
+**Areas & skills:** AI safety & policy, Operations
 
 ## Summary
 - In this role, you'll build and run the operations engine that scales BlueDot's courses to 10,000+ participants annually.
@@ -30,7 +31,7 @@ AI safety & policy, Operations
 - Optimise workflows to enhance efficiency and participant experience.
 - Track operations metrics and identify opportunities for scaling.
 
-[Apply →](https://bluedot.org/join-us/course-ops-lead)
+<p class="apply-cta"><a href="https://bluedot.org/join-us/course-ops-lead">Apply →</a></p>
 
 ---
-*Posted 2026-05-07 · Last updated 2026-05-26 · 80k job ID `recbsPw6ch3VRFDWB`*
+*Posted 2026-05-07 · Listing synced 2026-05-26 · 80k job ID `recbsPw6ch3VRFDWB`*

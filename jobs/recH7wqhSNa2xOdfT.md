@@ -14,14 +14,15 @@ areas:
 
 **[Anthropic](https://www.anthropic.com/)**
 
-- **Location:** London, UK, UK, UK (Confirmed Visas)
-- **Role type:** Full-time
-- **Experience:** Junior (1-4 years experience)
-- **Degree:** Undergraduate degree or less
-- **Salary:** $228,618 – $295,859
+<dl class="job-meta">
+<dt>Location</dt><dd>London, UK, UK, UK (Confirmed Visas)</dd>
+<dt>Role type</dt><dd>Full-time</dd>
+<dt>Experience</dt><dd>Junior (1-4 years experience)</dd>
+<dt>Degree</dt><dd>Undergraduate degree or less</dd>
+<dt>Salary</dt><dd>$228,618 – $295,859</dd>
+</dl>
 
-## Tags
-AI safety & policy, Software engineering
+**Areas & skills:** AI safety & policy, Software engineering
 
 ## Summary
 - In this role, you'll design and build scalable data pipelines and warehousing solutions for safety monitoring and abuse detection.
@@ -30,7 +31,7 @@ AI safety & policy, Software engineering
 - Collaborate with engineers to integrate data from multiple sources into a unified analytical layer.
 - Implement data quality frameworks and alerting to ensure reliability of safety-critical data.
 
-[Apply →](https://job-boards.greenhouse.io/anthropic/jobs/5156057008)
+<p class="apply-cta"><a href="https://job-boards.greenhouse.io/anthropic/jobs/5156057008">Apply →</a></p>
 
 ---
-*Posted 2026-03-19 · Last updated 2026-05-26 · 80k job ID `recH7wqhSNa2xOdfT`*
+*Posted 2026-03-19 · Listing synced 2026-05-26 · 80k job ID `recH7wqhSNa2xOdfT`*

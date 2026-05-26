@@ -14,14 +14,15 @@ areas:
 
 **[Scale AI](https://scale.com/)**
 
-- **Location:** San Francisco Bay Area, New York, NY, USA
-- **Role type:** Full-time
-- **Experience:** Junior (1-4 years experience), Mid (5-9 years experience)
-- **Degree:** Undergraduate degree or less
-- **Salary:** $197,400 – $246,750
+<dl class="job-meta">
+<dt>Location</dt><dd>San Francisco Bay Area, New York, NY, USA</dd>
+<dt>Role type</dt><dd>Full-time</dd>
+<dt>Experience</dt><dd>Junior (1-4 years experience), Mid (5-9 years experience)</dd>
+<dt>Degree</dt><dd>Undergraduate degree or less</dd>
+<dt>Salary</dt><dd>$197,400 – $246,750</dd>
+</dl>
 
-## Tags
-AI safety & policy, Research, Software engineering
+**Areas & skills:** AI safety & policy, Research, Software engineering
 
 ## Summary
 - In this role, you'll design methods and experiments to ensure AI models remain aligned with intended goals in high-stakes environments.
@@ -30,7 +31,7 @@ AI safety & policy, Research, Software engineering
 - Design red-team simulations to probe weaknesses in oversight and control mechanisms.
 - Collaborate with policymakers and researchers to establish standards and benchmarks for AI monitoring.
 
-[Apply →](https://scale.com/careers/4675694005)
+<p class="apply-cta"><a href="https://scale.com/careers/4675694005">Apply →</a></p>
 
 ---
-*Posted 2026-03-25 · Last updated 2026-05-26 · 80k job ID `recj3v541rfDPATO0`*
+*Posted 2026-03-25 · Listing synced 2026-05-26 · 80k job ID `recj3v541rfDPATO0`*

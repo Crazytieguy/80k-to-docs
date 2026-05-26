@@ -14,15 +14,15 @@ areas:
 
 **[EleutherAI](https://www.eleuther.ai/)**
 
-- **Location:** Remote, Global
-- **Role type:** Full-time
-- **Experience:** Multiple experience levels
-- **Degree:** Undergraduate degree or less
-- **Salary:** $100,000 – $200,000
-- **Location type:** Remote
+<dl class="job-meta">
+<dt>Location</dt><dd>Remote, Global</dd>
+<dt>Role type</dt><dd>Full-time</dd>
+<dt>Experience</dt><dd>Multiple experience levels</dd>
+<dt>Degree</dt><dd>Undergraduate degree or less</dd>
+<dt>Salary</dt><dd>$100,000 – $200,000</dd>
+</dl>
 
-## Tags
-AI technical safety, Research
+**Areas & skills:** AI technical safety, Research
 
 ## Summary
 - This role involves performing cutting-edge research with large language and vision models to improve understanding of deep neural network features.
@@ -31,7 +31,7 @@ AI technical safety, Research
 - Review and synthesize academic literature relevant to the interpretability of AI systems.
 - Communicate research findings to the wider AI community through various channels.
 
-[Apply →](https://docs.google.com/document/d/1VC3ErFnM5mSu5ZzPrwrurDpxsN5RfYp_mzh3WHI8g4w/mobilebasic)
+<p class="apply-cta"><a href="https://docs.google.com/document/d/1VC3ErFnM5mSu5ZzPrwrurDpxsN5RfYp_mzh3WHI8g4w/mobilebasic">Apply →</a></p>
 
 ---
-*Posted 2022-01-05 · Last updated 2026-05-26 · 80k job ID `recKU8tVW5gg9RRsr`*
+*Posted 2022-01-05 · Listing synced 2026-05-26 · 80k job ID `recKU8tVW5gg9RRsr`*

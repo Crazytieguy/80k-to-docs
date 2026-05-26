@@ -14,14 +14,15 @@ areas:
 
 **[UK Government, AI Security Institute](https://www.aisi.gov.uk/)**
 
-- **Location:** London, UK, UK
-- **Role type:** Full-time
-- **Experience:** Junior (1-4 years experience)
-- **Degree:** Undergraduate degree or less
-- **Salary:** $87,413 – $194,998
+<dl class="job-meta">
+<dt>Location</dt><dd>London, UK, UK</dd>
+<dt>Role type</dt><dd>Full-time</dd>
+<dt>Experience</dt><dd>Junior (1-4 years experience)</dd>
+<dt>Degree</dt><dd>Undergraduate degree or less</dd>
+<dt>Salary</dt><dd>$87,413 – $194,998</dd>
+</dl>
 
-## Tags
-AI safety & policy, Research, Software engineering
+**Areas & skills:** AI safety & policy, Research, Software engineering
 
 ## Summary
 - In this role, you'll design, implement and run experiments with research scientists to assess AI's societal impacts.
@@ -30,7 +31,7 @@ AI safety & policy, Research, Software engineering
 - Develop evaluations for AI models that assess risks from AI behaviour on society.
 - Apply computational social science, AI safety and behavioural science methods to research questions.
 
-[Apply →](https://job-boards.eu.greenhouse.io/aisi/jobs/4803652101)
+<p class="apply-cta"><a href="https://job-boards.eu.greenhouse.io/aisi/jobs/4803652101">Apply →</a></p>
 
 ---
-*Posted 2026-05-13 · Last updated 2026-05-26 · 80k job ID `rec4g6JmKHcdlltP6`*
+*Posted 2026-05-13 · Listing synced 2026-05-26 · 80k job ID `rec4g6JmKHcdlltP6`*

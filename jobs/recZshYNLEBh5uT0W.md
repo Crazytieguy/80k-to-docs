@@ -14,13 +14,14 @@ areas:
 
 **[80,000 Hours](https://80000hours.org/)**
 
-- **Location:** San Francisco Bay Area, USA
-- **Role type:** Full-time
-- **Experience:** Mid (5-9 years experience)
-- **Degree:** Undergraduate degree or less
+<dl class="job-meta">
+<dt>Location</dt><dd>San Francisco Bay Area, USA</dd>
+<dt>Role type</dt><dd>Full-time</dd>
+<dt>Experience</dt><dd>Mid (5-9 years experience)</dd>
+<dt>Degree</dt><dd>Undergraduate degree or less</dd>
+</dl>
 
-## Tags
-AI safety & policy, Operations, Management
+**Areas & skills:** AI safety & policy, Operations, Management
 
 ## Summary
 - In this role, you'll take operational ownership across many aspects of our video team.
@@ -29,7 +30,7 @@ AI safety & policy, Operations, Management
 - Coordinate launch operations and align stakeholders for content releases.
 - Expand content distribution globally and develop new content channels.
 
-[Apply →](https://jobs.ashbyhq.com/80000hours/48628878-3ecd-46cb-90dc-436ecdf91a4c/)
+<p class="apply-cta"><a href="https://jobs.ashbyhq.com/80000hours/48628878-3ecd-46cb-90dc-436ecdf91a4c/">Apply →</a></p>
 
 ---
-*Posted 2026-05-14 · Last updated 2026-05-26 · 80k job ID `recZshYNLEBh5uT0W`*
+*Posted 2026-05-14 · Listing synced 2026-05-26 · 80k job ID `recZshYNLEBh5uT0W`*

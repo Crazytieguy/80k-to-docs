@@ -14,15 +14,15 @@ areas:
 
 **[Amodo Design](https://amododesign.com/)**
 
-- **Location:** Remote, UK, Sheffield, UK, UK
-- **Role type:** Full-time
-- **Experience:** Mid (5-9 years experience)
-- **Degree:** Undergraduate degree or less
-- **Salary:** $67,241 – $100,861
-- **Location type:** Remote
+<dl class="job-meta">
+<dt>Location</dt><dd>Remote, UK, Sheffield, UK, UK</dd>
+<dt>Role type</dt><dd>Full-time</dd>
+<dt>Experience</dt><dd>Mid (5-9 years experience)</dd>
+<dt>Degree</dt><dd>Undergraduate degree or less</dd>
+<dt>Salary</dt><dd>$67,241 – $100,861</dd>
+</dl>
 
-## Tags
-AI safety & policy, Engineering, Information security
+**Areas & skills:** AI safety & policy, Engineering, Information security
 
 ## Summary
 - In this role, you'll develop hardware architectures that help verify and secure advanced AI systems as the Technical Lead for the AI Security hardware workstream.
@@ -31,7 +31,7 @@ AI safety & policy, Engineering, Information security
 - Lead technical delivery, working alongside engineers to translate AI security requirements into hardware implementations.
 - Grow and mentor a team of engineers as the workstream expands.
 
-[Apply →](https://amododesign.com/career/ai-lead/)
+<p class="apply-cta"><a href="https://amododesign.com/career/ai-lead/">Apply →</a></p>
 
 ---
-*Posted 2022-01-05 · Last updated 2026-05-26 · 80k job ID `recerUmMmiaExtwQI`*
+*Posted 2022-01-05 · Listing synced 2026-05-26 · 80k job ID `recerUmMmiaExtwQI`*

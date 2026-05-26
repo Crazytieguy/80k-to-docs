@@ -14,15 +14,15 @@ areas:
 
 **[Humans in Control](https://humansincontrol.org/)**
 
-- **Location:** Remote, USA, USA
-- **Role type:** Full-time
-- **Experience:** Junior (1-4 years experience)
-- **Degree:** Undergraduate degree or less
-- **Salary:** $75,000 – $95,000
-- **Location type:** Remote
+<dl class="job-meta">
+<dt>Location</dt><dd>Remote, USA, USA</dd>
+<dt>Role type</dt><dd>Full-time</dd>
+<dt>Experience</dt><dd>Junior (1-4 years experience)</dd>
+<dt>Degree</dt><dd>Undergraduate degree or less</dd>
+<dt>Salary</dt><dd>$75,000 – $95,000</dd>
+</dl>
 
-## Tags
-AI safety & policy, Outreach
+**Areas & skills:** AI safety & policy, Outreach
 
 ## Summary
 - In this role, you'll create short-form video and digital campaigns to build HIC's supporter base and drive grassroots action.
@@ -31,7 +31,7 @@ AI safety & policy, Outreach
 - Design conversion paths that move people from viewing content to signing up, attending events, donating, and volunteering.
 - Manage email and SMS campaigns, digital action initiatives, and analytics to continuously improve engagement and growth.
 
-[Apply →](https://humansincontrol.org/careers/digital-engagement-manager)
+<p class="apply-cta"><a href="https://humansincontrol.org/careers/digital-engagement-manager">Apply →</a></p>
 
 ---
-*Posted 2026-05-11 · Last updated 2026-05-26 · 80k job ID `recuCIT4o3iXthAkw`*
+*Posted 2026-05-11 · Listing synced 2026-05-26 · 80k job ID `recuCIT4o3iXthAkw`*

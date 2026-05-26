@@ -14,14 +14,15 @@ areas:
 
 **[Apollo Research](https://www.apolloresearch.ai/)**
 
-- **Location:** London, UK, UK, UK (Confirmed Visas)
-- **Role type:** Full-time
-- **Experience:** Mid (5-9 years experience), Senior (10+ years experience)
-- **Degree:** Undergraduate degree or less
-- **Salary:** $134,481 – $201,722
+<dl class="job-meta">
+<dt>Location</dt><dd>London, UK, UK, UK (Confirmed Visas)</dd>
+<dt>Role type</dt><dd>Full-time</dd>
+<dt>Experience</dt><dd>Mid (5-9 years experience), Senior (10+ years experience)</dd>
+<dt>Degree</dt><dd>Undergraduate degree or less</dd>
+<dt>Salary</dt><dd>$134,481 – $201,722</dd>
+</dl>
 
-## Tags
-AI safety & policy, Legal
+**Areas & skills:** AI safety & policy, Legal
 
 ## Summary
 - In this role, you'll build and lead Apollo's legal and compliance functions across UK, US, and EU jurisdictions, balancing strategy and execution.
@@ -30,7 +31,7 @@ AI safety & policy, Legal
 - Create lean compliance systems enabling rapid scaling without unnecessary bureaucracy.
 - Manage external counsel relationships to ensure high-quality, cost-efficient legal support.
 
-[Apply →](https://jobs.lever.co/apolloresearch/ca84c815-fb72-4694-8de8-535899b28c9f)
+<p class="apply-cta"><a href="https://jobs.lever.co/apolloresearch/ca84c815-fb72-4694-8de8-535899b28c9f">Apply →</a></p>
 
 ---
-*Posted 2022-01-05 · Last updated 2026-05-26 · 80k job ID `reckB7645Y1urc1am`*
+*Posted 2022-01-05 · Listing synced 2026-05-26 · 80k job ID `reckB7645Y1urc1am`*

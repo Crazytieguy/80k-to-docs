@@ -14,13 +14,14 @@ areas:
 
 **[LawZero](https://lawzero.org/en)**
 
-- **Location:** Montreal, Canada, Canada
-- **Role type:** Full-time
-- **Experience:** Junior (1-4 years experience), Mid (5-9 years experience)
-- **Degree:** Undergraduate degree or less
+<dl class="job-meta">
+<dt>Location</dt><dd>Montreal, Canada, Canada</dd>
+<dt>Role type</dt><dd>Full-time</dd>
+<dt>Experience</dt><dd>Junior (1-4 years experience), Mid (5-9 years experience)</dd>
+<dt>Degree</dt><dd>Undergraduate degree or less</dd>
+</dl>
 
-## Tags
-AI safety & policy, Software engineering
+**Areas & skills:** AI safety & policy, Software engineering
 
 ## Summary
 - In this role, you'll work with ML researchers to solve difficult training and inference problems using very large models for AI safety.
@@ -29,7 +30,7 @@ AI safety & policy, Software engineering
 - Develop tools and libraries to simplify distributed computing for research experiments.
 - Establish and maintain best practices for large-scale, distributed ML model development workflows.
 
-[Apply →](https://job-boards.greenhouse.io/lawzero/jobs/4113548009)
+<p class="apply-cta"><a href="https://job-boards.greenhouse.io/lawzero/jobs/4113548009">Apply →</a></p>
 
 ---
-*Posted 2022-01-06 · Last updated 2026-05-26 · 80k job ID `rec19jMbHgsE6fHgh`*
+*Posted 2022-01-06 · Listing synced 2026-05-26 · 80k job ID `rec19jMbHgsE6fHgh`*

@@ -14,14 +14,15 @@ areas:
 
 **[OpenAI](https://openai.com/)**
 
-- **Location:** Seattle metro area, USA
-- **Role type:** Full-time
-- **Experience:** Mid (5-9 years experience)
-- **Degree:** Undergraduate degree or less
-- **Salary:** $245,000 – $385,000
+<dl class="job-meta">
+<dt>Location</dt><dd>Seattle metro area, USA</dd>
+<dt>Role type</dt><dd>Full-time</dd>
+<dt>Experience</dt><dd>Mid (5-9 years experience)</dd>
+<dt>Degree</dt><dd>Undergraduate degree or less</dd>
+<dt>Salary</dt><dd>$245,000 – $385,000</dd>
+</dl>
 
-## Tags
-AI safety & policy, Software engineering, Information security
+**Areas & skills:** AI safety & policy, Software engineering, Information security
 
 ## Summary
 - In this role, you will be responsible for identifying and mitigating security vulnerabilities within software applications.
@@ -29,7 +30,7 @@ AI safety & policy, Software engineering, Information security
 - Design, develop, and implement security tools, frameworks, and methodologies to protect applications against security threats.
 - Work closely with development teams to ensure security best practices are integrated throughout the software development lifecycle.
 
-[Apply →](https://openai.com/careers/security-engineer-application-security-seattle/)
+<p class="apply-cta"><a href="https://openai.com/careers/security-engineer-application-security-seattle/">Apply →</a></p>
 
 ---
-*Posted 2022-01-11 · Last updated 2026-05-26 · 80k job ID `recA1g3MVlRWnIMO2`*
+*Posted 2022-01-11 · Listing synced 2026-05-26 · 80k job ID `recA1g3MVlRWnIMO2`*

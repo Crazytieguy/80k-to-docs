@@ -14,15 +14,15 @@ areas:
 
 **[OpenAI](https://openai.com/)**
 
-- **Location:** San Francisco Bay Area, New York, NY, Seattle metro area, Remote, USA, USA
-- **Role type:** Full-time
-- **Experience:** Mid (5-9 years experience)
-- **Degree:** Undergraduate degree or less
-- **Salary:** $292,500 – $405,000
-- **Location type:** Remote
+<dl class="job-meta">
+<dt>Location</dt><dd>San Francisco Bay Area, New York, NY, Seattle metro area, Remote, USA, USA</dd>
+<dt>Role type</dt><dd>Full-time</dd>
+<dt>Experience</dt><dd>Mid (5-9 years experience)</dd>
+<dt>Degree</dt><dd>Undergraduate degree or less</dd>
+<dt>Salary</dt><dd>$292,500 – $405,000</dd>
+</dl>
 
-## Tags
-AI safety & policy, Software engineering, Information security
+**Areas & skills:** AI safety & policy, Software engineering, Information security
 
 ## Summary
 - In this role, you'll design and build critical security services that form the backbone of OpenAI's supercomputing environment.
@@ -31,7 +31,7 @@ AI safety & policy, Software engineering, Information security
 - Develop automation and detection tooling to identify and mitigate risks in cloud and on-prem environments.
 - Lead design reviews and threat models to ensure new systems launch with strong security foundations.
 
-[Apply →](https://openai.com/careers/software-engineer-infrastructure-security-remote-us/)
+<p class="apply-cta"><a href="https://openai.com/careers/software-engineer-infrastructure-security-remote-us/">Apply →</a></p>
 
 ---
-*Posted 2022-01-11 · Last updated 2026-05-26 · 80k job ID `recwldYT3YSzZgpvn`*
+*Posted 2022-01-11 · Listing synced 2026-05-26 · 80k job ID `recwldYT3YSzZgpvn`*

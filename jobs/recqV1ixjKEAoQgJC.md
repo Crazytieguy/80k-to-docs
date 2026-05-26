@@ -14,14 +14,15 @@ areas:
 
 **[Transluce](https://transluce.org/)**
 
-- **Location:** San Francisco Bay Area, USA, USA (Confirmed Visas)
-- **Role type:** Full-time
-- **Experience:** Mid (5-9 years experience), Senior (10+ years experience)
-- **Degree:** Undergraduate degree or less
-- **Salary:** $500,000 – $600,000
+<dl class="job-meta">
+<dt>Location</dt><dd>San Francisco Bay Area, USA, USA (Confirmed Visas)</dd>
+<dt>Role type</dt><dd>Full-time</dd>
+<dt>Experience</dt><dd>Mid (5-9 years experience), Senior (10+ years experience)</dd>
+<dt>Degree</dt><dd>Undergraduate degree or less</dd>
+<dt>Salary</dt><dd>$500,000 – $600,000</dd>
+</dl>
 
-## Tags
-AI safety & policy, Management, Strategy
+**Areas & skills:** AI safety & policy, Management, Strategy
 
 ## Summary
 - In this role, you'll lead the engineering function as Transluce scales from 20 to 40 staff, driving technical and operational excellence.
@@ -30,7 +31,7 @@ AI safety & policy, Management, Strategy
 - Create clarity around organizational goals, priorities, and technical roadmaps across teams.
 - Set the vision for core infrastructure and platform technical architecture in collaboration with senior engineers.
 
-[Apply →](https://jobs.gem.com/transluce/am9icG9zdDr-Pg6BHWC21IpVDjuSH3Ez)
+<p class="apply-cta"><a href="https://jobs.gem.com/transluce/am9icG9zdDr-Pg6BHWC21IpVDjuSH3Ez">Apply →</a></p>
 
 ---
-*Posted 2026-05-20 · Last updated 2026-05-26 · 80k job ID `recqV1ixjKEAoQgJC`*
+*Posted 2026-05-20 · Listing synced 2026-05-26 · 80k job ID `recqV1ixjKEAoQgJC`*

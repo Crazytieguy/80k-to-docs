@@ -14,13 +14,14 @@ areas:
 
 **[LawZero](https://lawzero.org/en)**
 
-- **Location:** Montreal, Canada, Canada
-- **Role type:** Full-time
-- **Experience:** Mid (5-9 years experience)
-- **Degree:** Undergraduate degree or less
+<dl class="job-meta">
+<dt>Location</dt><dd>Montreal, Canada, Canada</dd>
+<dt>Role type</dt><dd>Full-time</dd>
+<dt>Experience</dt><dd>Mid (5-9 years experience)</dd>
+<dt>Degree</dt><dd>Undergraduate degree or less</dd>
+</dl>
 
-## Tags
-AI safety & policy, Outreach
+**Areas & skills:** AI safety & policy, Outreach
 
 ## Summary
 - In this role, you'll lead communication strategies translating complex technical research into narratives for philanthropists, board members, media, and the scientific community.
@@ -29,7 +30,7 @@ AI safety & policy, Outreach
 - Partner with Talent Team on employer branding and recruitment to attract world-class researchers.
 - Manage social media platforms, website content, and multiple concurrent projects.
 
-[Apply →](https://job-boards.greenhouse.io/lawzero/jobs/4232206009)
+<p class="apply-cta"><a href="https://job-boards.greenhouse.io/lawzero/jobs/4232206009">Apply →</a></p>
 
 ---
-*Posted 2026-04-27 · Last updated 2026-05-26 · 80k job ID `recBVrw5cMHI9SeQP`*
+*Posted 2026-04-27 · Listing synced 2026-05-26 · 80k job ID `recBVrw5cMHI9SeQP`*

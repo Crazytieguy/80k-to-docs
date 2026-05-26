@@ -14,14 +14,15 @@ areas:
 
 **[Model Evaluation and Threat Research](https://metr.org/)**
 
-- **Location:** San Francisco Bay Area, USA, USA (Confirmed Visas)
-- **Role type:** Full-time
-- **Experience:** Mid (5-9 years experience)
-- **Degree:** Undergraduate degree or less
-- **Salary:** $250,000 – $450,000
+<dl class="job-meta">
+<dt>Location</dt><dd>San Francisco Bay Area, USA, USA (Confirmed Visas)</dd>
+<dt>Role type</dt><dd>Full-time</dd>
+<dt>Experience</dt><dd>Mid (5-9 years experience)</dd>
+<dt>Degree</dt><dd>Undergraduate degree or less</dd>
+<dt>Salary</dt><dd>$250,000 – $450,000</dd>
+</dl>
 
-## Tags
-AI safety & policy, Research, Software engineering
+**Areas & skills:** AI safety & policy, Research, Software engineering
 
 ## Summary
 - In this role, you'll conduct research on AI capabilities, risks and mitigations through benchmarking and alignment assessment.
@@ -30,7 +31,7 @@ AI safety & policy, Research, Software engineering
 - Create maintainable, scalable systems and lead projects from ideation to delivery.
 - Contribute rigorous research science through literature knowledge and problem-solving on open-ended challenges.
 
-[Apply →](https://jobs.lever.co/metr/1c044574-181d-4b3d-98de-27f12eb76c6f)
+<p class="apply-cta"><a href="https://jobs.lever.co/metr/1c044574-181d-4b3d-98de-27f12eb76c6f">Apply →</a></p>
 
 ---
-*Posted 2026-03-16 · Last updated 2026-05-26 · 80k job ID `recgrQBzgbmzLUJNj`*
+*Posted 2026-03-16 · Listing synced 2026-05-26 · 80k job ID `recgrQBzgbmzLUJNj`*

@@ -14,14 +14,15 @@ areas:
 
 **[Beneficial AI Foundation](https://www.beneficialaifoundation.org/)**
 
-- **Location:** Boston metro area, USA
-- **Role type:** Full-time
-- **Experience:** Junior (1-4 years experience), Mid (5-9 years experience)
-- **Degree:** Doctoral degree
-- **Salary:** $72,800 – $145,600
+<dl class="job-meta">
+<dt>Location</dt><dd>Boston metro area, USA</dd>
+<dt>Role type</dt><dd>Full-time</dd>
+<dt>Experience</dt><dd>Junior (1-4 years experience), Mid (5-9 years experience)</dd>
+<dt>Degree</dt><dd>Doctoral degree</dd>
+<dt>Salary</dt><dd>$72,800 – $145,600</dd>
+</dl>
 
-## Tags
-AI safety & policy, Research
+**Areas & skills:** AI safety & policy, Research
 
 ## Summary
 - In this role, you'll develop verified code implementations using AI tools for safe, trustworthy algorithms.
@@ -30,7 +31,7 @@ AI safety & policy, Research
 - Apply expertise in formal verification, programming, and machine learning to AGI safety challenges.
 - Work independently within a collaborative team at the Beneficial AI Foundation.
 
-[Apply →](https://docs.google.com/forms/d/1K1sSJQXK0nNmCSu_j54G0jl-XVPMTJSHtBVzSzaXEjQ/viewform?edit_requested=true)
+<p class="apply-cta"><a href="https://docs.google.com/forms/d/1K1sSJQXK0nNmCSu_j54G0jl-XVPMTJSHtBVzSzaXEjQ/viewform?edit_requested=true">Apply →</a></p>
 
 ---
-*Posted 2026-05-14 · Last updated 2026-05-26 · 80k job ID `recnim14y4vNEZ2Ti`*
+*Posted 2026-05-14 · Listing synced 2026-05-26 · 80k job ID `recnim14y4vNEZ2Ti`*

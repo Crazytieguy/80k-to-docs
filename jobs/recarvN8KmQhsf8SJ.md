@@ -14,13 +14,14 @@ areas:
 
 **[University of Copenhagen, Department of Computer Science](https://di.ku.dk/english/)**
 
-- **Location:** Copenhagen, Denmark, Europe (ex UK), Denmark
-- **Role type:** Full-time
-- **Experience:** Entry-level
-- **Degree:** Doctoral degree
+<dl class="job-meta">
+<dt>Location</dt><dd>Copenhagen, Denmark, Europe (ex UK), Denmark</dd>
+<dt>Role type</dt><dd>Full-time</dd>
+<dt>Experience</dt><dd>Entry-level</dd>
+<dt>Degree</dt><dd>Doctoral degree</dd>
+</dl>
 
-## Tags
-AI safety & policy, Research, Software engineering
+**Areas & skills:** AI safety & policy, Research, Software engineering
 
 ## Summary
 - In this role, you'll develop frameworks and methods to mitigate large language models' susceptibility to false information.
@@ -29,7 +30,7 @@ AI safety & policy, Research, Software engineering
 - Conduct research in mechanistic interpretability, LLM security and explainable AI.
 - Provide teaching and supervision support within the CopeNLU research group.
 
-[Apply →](https://ellis.eu/research/jobs/2026-05-07-postdoc-in-llm-factuality-detection)
+<p class="apply-cta"><a href="https://ellis.eu/research/jobs/2026-05-07-postdoc-in-llm-factuality-detection">Apply →</a></p>
 
 ---
-*Posted 2026-05-08 · Last updated 2026-05-26 · 80k job ID `recarvN8KmQhsf8SJ`*
+*Posted 2026-05-08 · Listing synced 2026-05-26 · 80k job ID `recarvN8KmQhsf8SJ`*

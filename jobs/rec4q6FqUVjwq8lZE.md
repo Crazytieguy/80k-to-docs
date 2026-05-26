@@ -14,14 +14,15 @@ areas:
 
 **[Constellation](https://www.constellation.org/)**
 
-- **Location:** San Francisco Bay Area, USA
-- **Role type:** Full-time
-- **Experience:** Junior (1-4 years experience), Mid (5-9 years experience)
-- **Degree:** Undergraduate degree or less
-- **Salary:** $86,000 – $104,000
+<dl class="job-meta">
+<dt>Location</dt><dd>San Francisco Bay Area, USA</dd>
+<dt>Role type</dt><dd>Full-time</dd>
+<dt>Experience</dt><dd>Junior (1-4 years experience), Mid (5-9 years experience)</dd>
+<dt>Degree</dt><dd>Undergraduate degree or less</dd>
+<dt>Salary</dt><dd>$86,000 – $104,000</dd>
+</dl>
 
-## Tags
-AI safety & policy, Operations
+**Areas & skills:** AI safety & policy, Operations
 
 ## Summary
 - In this role, you'll manage end-to-end logistics for diverse events while building scalable systems and processes.
@@ -30,7 +31,7 @@ AI safety & policy, Operations
 - Track attendance and feedback to drive continuous improvements across high-volume concurrent events.
 - Develop documentation and templates that enable consistent quality across recurring event series.
 
-[Apply →](https://jobs.gem.com/constellation-institute/am9icG9zdDo5K7MqF6_-ZQUxCbsHvORj)
+<p class="apply-cta"><a href="https://jobs.gem.com/constellation-institute/am9icG9zdDo5K7MqF6_-ZQUxCbsHvORj">Apply →</a></p>
 
 ---
-*Posted 2026-05-25 · Last updated 2026-05-26 · 80k job ID `rec4q6FqUVjwq8lZE`*
+*Posted 2026-05-25 · Listing synced 2026-05-26 · 80k job ID `rec4q6FqUVjwq8lZE`*

@@ -15,14 +15,15 @@ areas:
 
 **[OpenAI](https://openai.com/)**
 
-- **Location:** San Francisco Bay Area, USA
-- **Role type:** Full-time
-- **Experience:** Mid (5-9 years experience)
-- **Degree:** Undergraduate degree or less
-- **Salary:** $207,000 – $295,000
+<dl class="job-meta">
+<dt>Location</dt><dd>San Francisco Bay Area, USA</dd>
+<dt>Role type</dt><dd>Full-time</dd>
+<dt>Experience</dt><dd>Mid (5-9 years experience)</dd>
+<dt>Degree</dt><dd>Undergraduate degree or less</dd>
+<dt>Salary</dt><dd>$207,000 – $295,000</dd>
+</dl>
 
-## Tags
-AI safety & policy, Biosecurity & pandemic preparedness, Strategy
+**Areas & skills:** AI safety & policy, Biosecurity & pandemic preparedness, Strategy
 
 ## Summary
 - In this role, you'll shape policy for addressing biological and chemical risks in frontier AI systems.
@@ -31,7 +32,7 @@ AI safety & policy, Biosecurity & pandemic preparedness, Strategy
 - Translate biosecurity expertise into actionable model behavior with research and engineering teams.
 - Identify emerging risk vectors where AI capabilities could enable harmful activity.
 
-[Apply →](https://openai.com/careers/model-policy-chemical-and-biological-risk-san-francisco/)
+<p class="apply-cta"><a href="https://openai.com/careers/model-policy-chemical-and-biological-risk-san-francisco/">Apply →</a></p>
 
 ---
-*Posted 2026-05-15 · Last updated 2026-05-26 · 80k job ID `rec2QlSs55Q9fEriL`*
+*Posted 2026-05-15 · Listing synced 2026-05-26 · 80k job ID `rec2QlSs55Q9fEriL`*

@@ -14,14 +14,15 @@ areas:
 
 **[Center for Strategic and International Studies](https://www.csis.org/)**
 
-- **Location:** Washington, DC metro area, USA
-- **Role type:** Fellowship
-- **Experience:** Mid (5-9 years experience)
-- **Degree:** Master's degree
-- **Salary:** $100,000 – $200,000
+<dl class="job-meta">
+<dt>Location</dt><dd>Washington, DC metro area, USA</dd>
+<dt>Role type</dt><dd>Fellowship</dd>
+<dt>Experience</dt><dd>Mid (5-9 years experience)</dd>
+<dt>Degree</dt><dd>Master's degree</dd>
+<dt>Salary</dt><dd>$100,000 – $200,000</dd>
+</dl>
 
-## Tags
-AI safety & policy, Policy, Management
+**Areas & skills:** AI safety & policy, Policy, Management
 
 ## Summary
 - In this role, you'll lead the Wadhwani AI Center's research agenda on AI governance, economic impacts, and national security while managing program operations.
@@ -30,7 +31,7 @@ AI safety & policy, Policy, Management
 - Build relationships with policymakers, media, academia, and industry stakeholders.
 - Manage budgets, grants, contracts, and fundraising for the program.
 
-[Apply →](https://careers.csis.org/opportunities/1770)
+<p class="apply-cta"><a href="https://careers.csis.org/opportunities/1770">Apply →</a></p>
 
 ---
-*Posted 2026-04-22 · Last updated 2026-05-26 · 80k job ID `rec739MZumWcalVsT`*
+*Posted 2026-04-22 · Listing synced 2026-05-26 · 80k job ID `rec739MZumWcalVsT`*

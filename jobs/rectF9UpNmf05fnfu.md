@@ -14,14 +14,15 @@ areas:
 
 **[Cambridge Boston Alignment Initiative](https://www.cbai.ai/)**
 
-- **Location:** Boston metro area, USA
-- **Role type:** Full-time
-- **Experience:** Junior (1-4 years experience)
-- **Degree:** Undergraduate degree or less
-- **Salary:** $100,000 – $125,000
+<dl class="job-meta">
+<dt>Location</dt><dd>Boston metro area, USA</dd>
+<dt>Role type</dt><dd>Full-time</dd>
+<dt>Experience</dt><dd>Junior (1-4 years experience)</dd>
+<dt>Degree</dt><dd>Undergraduate degree or less</dd>
+<dt>Salary</dt><dd>$100,000 – $125,000</dd>
+</dl>
 
-## Tags
-AI safety & policy, Operations
+**Areas & skills:** AI safety & policy, Operations
 
 ## Summary
 - In this role, you'll design and improve program systems that enable AI safety fellows to conduct excellent research.
@@ -30,7 +31,7 @@ AI safety & policy, Operations
 - Identify outreach channels, own recruitment campaigns, and assess program effectiveness.
 - Design and support fellowship events and supplementary programming enriching the intellectual environment.
 
-[Apply →](https://jobs.ashbyhq.com/cbai/005ca9cd-8e31-42c9-9778-c4286f7d50df)
+<p class="apply-cta"><a href="https://jobs.ashbyhq.com/cbai/005ca9cd-8e31-42c9-9778-c4286f7d50df">Apply →</a></p>
 
 ---
-*Posted 2026-04-02 · Last updated 2026-05-26 · 80k job ID `rectF9UpNmf05fnfu`*
+*Posted 2026-04-02 · Listing synced 2026-05-26 · 80k job ID `rectF9UpNmf05fnfu`*

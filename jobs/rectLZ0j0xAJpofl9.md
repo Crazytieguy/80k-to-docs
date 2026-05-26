@@ -14,14 +14,15 @@ areas:
 
 **[Lila Sciences](https://www.lila.ai/)**
 
-- **Location:** London, UK, San Francisco Bay Area, Boston metro area, UK, USA
-- **Role type:** Full-time
-- **Experience:** Junior (1-4 years experience)
-- **Degree:** Doctoral degree
-- **Salary:** $176,000 – $304,000
+<dl class="job-meta">
+<dt>Location</dt><dd>London, UK, San Francisco Bay Area, Boston metro area, UK, USA</dd>
+<dt>Role type</dt><dd>Full-time</dd>
+<dt>Experience</dt><dd>Junior (1-4 years experience)</dd>
+<dt>Degree</dt><dd>Doctoral degree</dd>
+<dt>Salary</dt><dd>$176,000 – $304,000</dd>
+</dl>
 
-## Tags
-AI safety & policy, Research
+**Areas & skills:** AI safety & policy, Research
 
 ## Summary
 - In this role, you'll design and implement safety strategies for AI systems in biological and physical sciences, preparing for risks from scientific superintelligence.
@@ -30,7 +31,7 @@ AI safety & policy, Research
 - Develop high-quality training and test data for evaluations and safety systems.
 - Evaluate risks from Lila's capabilities and their interactions with the wider AI ecosystem.
 
-[Apply →](https://job-boards.greenhouse.io/lilasciences/jobs/4111818009)
+<p class="apply-cta"><a href="https://job-boards.greenhouse.io/lilasciences/jobs/4111818009">Apply →</a></p>
 
 ---
-*Posted 2022-01-06 · Last updated 2026-05-26 · 80k job ID `rectLZ0j0xAJpofl9`*
+*Posted 2022-01-06 · Listing synced 2026-05-26 · 80k job ID `rectLZ0j0xAJpofl9`*

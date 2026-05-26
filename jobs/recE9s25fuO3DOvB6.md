@@ -14,14 +14,15 @@ areas:
 
 **[Evitable](https://evitable.com/)**
 
-- **Location:** San Francisco Bay Area, USA
-- **Role type:** Full-time
-- **Experience:** Mid (5-9 years experience), Senior (10+ years experience)
-- **Degree:** Undergraduate degree or less
-- **Salary:** $110,000 – $140,000
+<dl class="job-meta">
+<dt>Location</dt><dd>San Francisco Bay Area, USA</dd>
+<dt>Role type</dt><dd>Full-time</dd>
+<dt>Experience</dt><dd>Mid (5-9 years experience), Senior (10+ years experience)</dd>
+<dt>Degree</dt><dd>Undergraduate degree or less</dd>
+<dt>Salary</dt><dd>$110,000 – $140,000</dd>
+</dl>
 
-## Tags
-AI safety & policy, Outreach
+**Areas & skills:** AI safety & policy, Outreach
 
 ## Summary
 - In this role, you'll lead grassroots movement building to generate public pressure on artificial superintelligence risks.
@@ -30,7 +31,7 @@ AI safety & policy, Outreach
 - Design and run public campaigns and collective actions, coordinating with Communications on messaging.
 - Build relationships with coalition partners and establish metrics to track supporter engagement.
 
-[Apply →](https://evitable.com/head-movement-building)
+<p class="apply-cta"><a href="https://evitable.com/head-movement-building">Apply →</a></p>
 
 ---
-*Posted 2026-04-06 · Last updated 2026-05-26 · 80k job ID `recE9s25fuO3DOvB6`*
+*Posted 2026-04-06 · Listing synced 2026-05-26 · 80k job ID `recE9s25fuO3DOvB6`*

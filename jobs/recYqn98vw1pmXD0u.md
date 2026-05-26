@@ -14,14 +14,15 @@ areas:
 
 **[Goodfire](https://goodfire.ai)**
 
-- **Location:** San Francisco Bay Area, USA
-- **Role type:** Full-time
-- **Experience:** Junior (1-4 years experience), Mid (5-9 years experience)
-- **Degree:** Undergraduate degree or less
-- **Salary:** $175,000 – $300,000
+<dl class="job-meta">
+<dt>Location</dt><dd>San Francisco Bay Area, USA</dd>
+<dt>Role type</dt><dd>Full-time</dd>
+<dt>Experience</dt><dd>Junior (1-4 years experience), Mid (5-9 years experience)</dd>
+<dt>Degree</dt><dd>Undergraduate degree or less</dd>
+<dt>Salary</dt><dd>$175,000 – $300,000</dd>
+</dl>
 
-## Tags
-AI safety & policy, Finance
+**Areas & skills:** AI safety & policy, Finance
 
 ## Summary
 - In this role, you'll own day-to-day financial operations.
@@ -30,7 +31,7 @@ AI safety & policy, Finance
 - Build dashboards and reporting infrastructure to provide leadership with financial visibility.
 - Assist with fundraising and capital allocation decisions to support company growth.
 
-[Apply →](https://job-boards.greenhouse.io/goodfire/jobs/5075038008)
+<p class="apply-cta"><a href="https://job-boards.greenhouse.io/goodfire/jobs/5075038008">Apply →</a></p>
 
 ---
-*Posted 2022-01-06 · Last updated 2026-05-26 · 80k job ID `recYqn98vw1pmXD0u`*
+*Posted 2022-01-06 · Listing synced 2026-05-26 · 80k job ID `recYqn98vw1pmXD0u`*

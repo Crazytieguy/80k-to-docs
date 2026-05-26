@@ -14,14 +14,15 @@ areas:
 
 **[Model Evaluation and Threat Research](https://metr.org/)**
 
-- **Location:** San Francisco Bay Area, USA, USA (Confirmed Visas)
-- **Role type:** Full-time
-- **Experience:** Mid (5-9 years experience), Senior (10+ years experience)
-- **Degree:** Undergraduate degree or less
-- **Salary:** $257,795 – $340,934
+<dl class="job-meta">
+<dt>Location</dt><dd>San Francisco Bay Area, USA, USA (Confirmed Visas)</dd>
+<dt>Role type</dt><dd>Full-time</dd>
+<dt>Experience</dt><dd>Mid (5-9 years experience), Senior (10+ years experience)</dd>
+<dt>Degree</dt><dd>Undergraduate degree or less</dd>
+<dt>Salary</dt><dd>$257,795 – $340,934</dd>
+</dl>
 
-## Tags
-AI safety & policy, Software engineering
+**Areas & skills:** AI safety & policy, Software engineering
 
 ## Summary
 - In this role, you'll manage cloud infrastructure for our open-source LLM evaluation tooling.
@@ -30,7 +31,7 @@ AI safety & policy, Software engineering
 - Manage networking infrastructure, enforce security protocols, and advise on system scalability and cost-effectiveness.
 - Manage user access, permissions, IT administration, and onboarding across multiple platforms.
 
-[Apply →](https://jobs.lever.co/metr/3d81cd86-31ae-498a-aa55-c31e0c532b07)
+<p class="apply-cta"><a href="https://jobs.lever.co/metr/3d81cd86-31ae-498a-aa55-c31e0c532b07">Apply →</a></p>
 
 ---
-*Posted 2026-03-31 · Last updated 2026-05-26 · 80k job ID `recqiWRwc5B0TbmDX`*
+*Posted 2026-03-31 · Listing synced 2026-05-26 · 80k job ID `recqiWRwc5B0TbmDX`*

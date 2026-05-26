@@ -14,14 +14,14 @@ areas:
 
 **[Partnership for Research into Sentient Machines](https://www.prism-global.com/)**
 
-- **Location:** Remote, UK, UK
-- **Role type:** Volunteering
-- **Experience:** Mid (5-9 years experience), Senior (10+ years experience)
-- **Degree:** Undergraduate degree or less
-- **Location type:** Remote
+<dl class="job-meta">
+<dt>Location</dt><dd>Remote, UK, UK</dd>
+<dt>Role type</dt><dd>Volunteering</dd>
+<dt>Experience</dt><dd>Mid (5-9 years experience), Senior (10+ years experience)</dd>
+<dt>Degree</dt><dd>Undergraduate degree or less</dd>
+</dl>
 
-## Tags
-AI safety & policy, Finance, Strategy
+**Areas & skills:** AI safety & policy, Finance, Strategy
 
 ## Summary
 - In this role, you'll govern PRISM as a Trustee, overseeing strategy, compliance, and finances.
@@ -30,7 +30,7 @@ AI safety & policy, Finance, Strategy
 - Review budgets, accounts, and funding arrangements to maintain financial health.
 - Safeguard the organisation's reputation and values while exercising care and skill.
 
-[Apply →](https://www.prism-global.com/trustee-vacancies)
+<p class="apply-cta"><a href="https://www.prism-global.com/trustee-vacancies">Apply →</a></p>
 
 ---
-*Posted 2026-05-25 · Last updated 2026-05-26 · 80k job ID `recTMy4orKKrxxJwv`*
+*Posted 2026-05-25 · Listing synced 2026-05-26 · 80k job ID `recTMy4orKKrxxJwv`*

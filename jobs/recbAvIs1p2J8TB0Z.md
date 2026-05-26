@@ -14,14 +14,15 @@ areas:
 
 **[Anthropic](https://www.anthropic.com/)**
 
-- **Location:** San Francisco Bay Area, USA, USA (Confirmed Visas)
-- **Role type:** Full-time
-- **Experience:** Mid (5-9 years experience), Senior (10+ years experience)
-- **Degree:** Undergraduate degree or less
-- **Salary:** $315,000 – $560,000
+<dl class="job-meta">
+<dt>Location</dt><dd>San Francisco Bay Area, USA, USA (Confirmed Visas)</dd>
+<dt>Role type</dt><dd>Full-time</dd>
+<dt>Experience</dt><dd>Mid (5-9 years experience), Senior (10+ years experience)</dd>
+<dt>Degree</dt><dd>Undergraduate degree or less</dd>
+<dt>Salary</dt><dd>$315,000 – $560,000</dd>
+</dl>
 
-## Tags
-AI safety & policy, Research, Software engineering
+**Areas & skills:** AI safety & policy, Research, Software engineering
 
 ## Summary
 - In this role, you'll develop tools and conduct experiments to reverse-engineer how neural networks work, helping make AI systems safer and more interpretable.
@@ -30,7 +31,7 @@ AI safety & policy, Research, Software engineering
 - Build tools and abstractions that support rapid experimentation for research progress.
 - Develop infrastructure that helps other teams use interpretability work to enhance model safety.
 
-[Apply →](https://job-boards.greenhouse.io/anthropic/jobs/4980430008)
+<p class="apply-cta"><a href="https://job-boards.greenhouse.io/anthropic/jobs/4980430008">Apply →</a></p>
 
 ---
-*Posted 2022-01-11 · Last updated 2026-05-26 · 80k job ID `recbAvIs1p2J8TB0Z`*
+*Posted 2022-01-11 · Listing synced 2026-05-26 · 80k job ID `recbAvIs1p2J8TB0Z`*

@@ -14,14 +14,15 @@ areas:
 
 **[Center for AI Safety](https://www.cais.ai/)**
 
-- **Location:** San Francisco Bay Area, USA
-- **Role type:** Full-time
-- **Experience:** Mid (5-9 years experience), Senior (10+ years experience)
-- **Degree:** Undergraduate degree or less
-- **Salary:** $220,000 – $345,000
+<dl class="job-meta">
+<dt>Location</dt><dd>San Francisco Bay Area, USA</dd>
+<dt>Role type</dt><dd>Full-time</dd>
+<dt>Experience</dt><dd>Mid (5-9 years experience), Senior (10+ years experience)</dd>
+<dt>Degree</dt><dd>Undergraduate degree or less</dd>
+<dt>Salary</dt><dd>$220,000 – $345,000</dd>
+</dl>
 
-## Tags
-AI safety & policy, Operations, Strategy
+**Areas & skills:** AI safety & policy, Operations, Strategy
 
 ## Summary
 - In this role, you'll serve as Chief of Staff to the President, translating leadership intent into organizational outcomes.
@@ -30,7 +31,7 @@ AI safety & policy, Operations, Strategy
 - Coordinate across the executive team to mediate disagreements, force alignment, and drive cross-functional execution.
 - Represent the President externally and build systems enabling the organization to operate independently.
 
-[Apply →](https://jobs.lever.co/aisafety/6e096bf8-3589-48e0-bfd4-7cba55eb91a8)
+<p class="apply-cta"><a href="https://jobs.lever.co/aisafety/6e096bf8-3589-48e0-bfd4-7cba55eb91a8">Apply →</a></p>
 
 ---
-*Posted 2026-05-18 · Last updated 2026-05-26 · 80k job ID `recWjsk0QTvUCmt1C`*
+*Posted 2026-05-18 · Listing synced 2026-05-26 · 80k job ID `recWjsk0QTvUCmt1C`*

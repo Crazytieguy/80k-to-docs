@@ -14,13 +14,14 @@ areas:
 
 **[European Laboratory for Learning and Intelligent Systems](https://ellis.eu/)**
 
-- **Location:** Tübingen, Germany, Germany, Europe (ex UK)
-- **Role type:** Full-time
-- **Experience:** Junior (1-4 years experience), Entry-level
-- **Degree:** Master's degree
+<dl class="job-meta">
+<dt>Location</dt><dd>Tübingen, Germany, Germany, Europe (ex UK)</dd>
+<dt>Role type</dt><dd>Full-time</dd>
+<dt>Experience</dt><dd>Junior (1-4 years experience), Entry-level</dd>
+<dt>Degree</dt><dd>Master's degree</dd>
+</dl>
 
-## Tags
-AI safety & policy, Research
+**Areas & skills:** AI safety & policy, Research
 
 ## Summary
 - In this role, you'll conduct research on AI safety, security, and alignment within the COMPASS research group at the ELLIS Institute Tübingen.
@@ -29,7 +30,7 @@ AI safety & policy, Research
 - Work on cutting-edge projects such as contextual agents, red-teaming, interpretability, or cooperative AI systems.
 - Participate in connections with industry and governmental AI safety research institutes.
 
-[Apply →](https://docs.google.com/forms/d/e/1FAIpQLSfERP8qmSWHeDLFQ_NAyyaxcznDrzjJZDNbosPgJDJa0d0MKA/viewform)
+<p class="apply-cta"><a href="https://docs.google.com/forms/d/e/1FAIpQLSfERP8qmSWHeDLFQ_NAyyaxcznDrzjJZDNbosPgJDJa0d0MKA/viewform">Apply →</a></p>
 
 ---
-*Posted 2022-01-07 · Last updated 2026-05-26 · 80k job ID `recGyBOxtId4X4dw3`*
+*Posted 2022-01-07 · Listing synced 2026-05-26 · 80k job ID `recGyBOxtId4X4dw3`*

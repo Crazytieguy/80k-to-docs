@@ -14,14 +14,15 @@ areas:
 
 **[Anthropic](https://www.anthropic.com/)**
 
-- **Location:** Washington, DC metro area, San Francisco Bay Area, New York, NY, USA, USA (Confirmed Visas)
-- **Role type:** Full-time
-- **Experience:** Mid (5-9 years experience), Senior (10+ years experience)
-- **Degree:** Undergraduate degree or less
-- **Salary:** $310,000 – $375,000
+<dl class="job-meta">
+<dt>Location</dt><dd>Washington, DC metro area, San Francisco Bay Area, New York, NY, USA, USA (Confirmed Visas)</dd>
+<dt>Role type</dt><dd>Full-time</dd>
+<dt>Experience</dt><dd>Mid (5-9 years experience), Senior (10+ years experience)</dd>
+<dt>Degree</dt><dd>Undergraduate degree or less</dd>
+<dt>Salary</dt><dd>$310,000 – $375,000</dd>
+</dl>
 
-## Tags
-AI safety & policy, Information security, Management
+**Areas & skills:** AI safety & policy, Information security, Management
 
 ## Summary
 - In this role, you'll manage the on-call program, coordinate sensitive escalations, and drive automation for the Safeguards enforcement operations.
@@ -30,7 +31,7 @@ AI safety & policy, Information security, Management
 - Manage law enforcement and NCMEC referral pathways, tracking volume and trends over time.
 - Build automation, dashboards, and reporting in partnership with engineering to improve operational health.
 
-[Apply →](https://job-boards.greenhouse.io/anthropic/jobs/5211184008)
+<p class="apply-cta"><a href="https://job-boards.greenhouse.io/anthropic/jobs/5211184008">Apply →</a></p>
 
 ---
-*Posted 2026-05-19 · Last updated 2026-05-26 · 80k job ID `recXJZIrqZYYd9p6J`*
+*Posted 2026-05-19 · Listing synced 2026-05-26 · 80k job ID `recXJZIrqZYYd9p6J`*

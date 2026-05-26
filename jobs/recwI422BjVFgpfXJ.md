@@ -14,13 +14,14 @@ areas:
 
 **[Carnegie Mellon University, Software Engineering Institute](https://www.sei.cmu.edu/)**
 
-- **Location:** Pittsburgh, PA, USA
-- **Role type:** Full-time
-- **Experience:** Junior (1-4 years experience)
-- **Degree:** Undergraduate degree or less
+<dl class="job-meta">
+<dt>Location</dt><dd>Pittsburgh, PA, USA</dd>
+<dt>Role type</dt><dd>Full-time</dd>
+<dt>Experience</dt><dd>Junior (1-4 years experience)</dd>
+<dt>Degree</dt><dd>Undergraduate degree or less</dd>
+</dl>
 
-## Tags
-AI safety & policy, Research, Information security
+**Areas & skills:** AI safety & policy, Research, Information security
 
 ## Summary
 - In this role, you'll conduct cutting-edge research to improve AI system security and robustness, influencing national security strategy.
@@ -29,7 +30,7 @@ AI safety & policy, Research, Information security
 - Evaluate effectiveness of tools and techniques developed by the AI security community.
 - Create and publish models, tools, and datasets to characterize threats to AI systems.
 
-[Apply →](https://cmu.wd5.myworkdayjobs.com/en-US/SEI/job/Pittsburgh-PA/Associate-AI-Security-Researcher_2024056-1)
+<p class="apply-cta"><a href="https://cmu.wd5.myworkdayjobs.com/en-US/SEI/job/Pittsburgh-PA/Associate-AI-Security-Researcher_2024056-1">Apply →</a></p>
 
 ---
-*Posted 2022-01-06 · Last updated 2026-05-26 · 80k job ID `recwI422BjVFgpfXJ`*
+*Posted 2022-01-06 · Listing synced 2026-05-26 · 80k job ID `recwI422BjVFgpfXJ`*

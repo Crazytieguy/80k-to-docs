@@ -14,14 +14,15 @@ areas:
 
 **[OpenAI](https://openai.com/)**
 
-- **Location:** San Francisco Bay Area, USA
-- **Role type:** Full-time
-- **Experience:** Mid (5-9 years experience)
-- **Degree:** Undergraduate degree or less
-- **Salary:** $293,000 – $325,000
+<dl class="job-meta">
+<dt>Location</dt><dd>San Francisco Bay Area, USA</dd>
+<dt>Role type</dt><dd>Full-time</dd>
+<dt>Experience</dt><dd>Mid (5-9 years experience)</dd>
+<dt>Degree</dt><dd>Undergraduate degree or less</dd>
+<dt>Salary</dt><dd>$293,000 – $325,000</dd>
+</dl>
 
-## Tags
-AI safety & policy, Strategy
+**Areas & skills:** AI safety & policy, Strategy
 
 ## Summary
 - In this role, you'll drive biosecurity safety initiatives for frontier models through strategic product leadership.
@@ -30,7 +31,7 @@ AI safety & policy, Strategy
 - Define strategic priorities and roadmaps focused on improving safety and managing emerging AI capabilities.
 - Create scalable methodologies and tools for evaluating and improving safety systems and performance metrics.
 
-[Apply →](https://openai.com/careers/product-manager-bio-safety-san-francisco/)
+<p class="apply-cta"><a href="https://openai.com/careers/product-manager-bio-safety-san-francisco/">Apply →</a></p>
 
 ---
-*Posted 2026-03-17 · Last updated 2026-05-26 · 80k job ID `rech2b6jgThFUWlVq`*
+*Posted 2026-03-17 · Listing synced 2026-05-26 · 80k job ID `rech2b6jgThFUWlVq`*

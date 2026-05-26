@@ -14,13 +14,14 @@ areas:
 
 **[Constellation](https://www.constellation.org/)**
 
-- **Location:** San Francisco Bay Area, USA
-- **Role type:** Full-time
-- **Experience:** Junior (1-4 years experience)
-- **Degree:** Undergraduate degree or less
+<dl class="job-meta">
+<dt>Location</dt><dd>San Francisco Bay Area, USA</dd>
+<dt>Role type</dt><dd>Full-time</dd>
+<dt>Experience</dt><dd>Junior (1-4 years experience)</dd>
+<dt>Degree</dt><dd>Undergraduate degree or less</dd>
+</dl>
 
-## Tags
-AI safety & policy, Operations, Strategy
+**Areas & skills:** AI safety & policy, Operations, Strategy
 
 ## Summary
 - In this role, you'll measure program effectiveness and enhance user experience through data analysis and community support.
@@ -29,7 +30,7 @@ AI safety & policy, Operations, Strategy
 - Provide strategic problem-solving and respond to emerging community needs using triage frameworks.
 - Assist with event planning and execution while managing website and external communications.
 
-[Apply →](https://jobs.gem.com/constellation-institute/33543899-0ba8-4a93-9d0f-d37a59796d83)
+<p class="apply-cta"><a href="https://jobs.gem.com/constellation-institute/33543899-0ba8-4a93-9d0f-d37a59796d83">Apply →</a></p>
 
 ---
-*Posted 2026-05-22 · Last updated 2026-05-26 · 80k job ID `recE6lahBUUXIPjLN`*
+*Posted 2026-05-22 · Listing synced 2026-05-26 · 80k job ID `recE6lahBUUXIPjLN`*

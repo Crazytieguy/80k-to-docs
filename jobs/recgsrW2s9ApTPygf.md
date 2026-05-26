@@ -14,15 +14,15 @@ areas:
 
 **[Elicit](https://elicit.com/)**
 
-- **Location:** San Francisco Bay Area, Remote, USA, USA
-- **Role type:** Full-time
-- **Experience:** Junior (1-4 years experience), Mid (5-9 years experience)
-- **Degree:** Undergraduate degree or less
-- **Salary:** $180,000 – $225,000
-- **Location type:** Remote
+<dl class="job-meta">
+<dt>Location</dt><dd>San Francisco Bay Area, Remote, USA, USA</dd>
+<dt>Role type</dt><dd>Full-time</dd>
+<dt>Experience</dt><dd>Junior (1-4 years experience), Mid (5-9 years experience)</dd>
+<dt>Degree</dt><dd>Undergraduate degree or less</dd>
+<dt>Salary</dt><dd>$180,000 – $225,000</dd>
+</dl>
 
-## Tags
-AI technical safety, Software engineering
+**Areas & skills:** AI technical safety, Software engineering
 
 ## Summary
 - In this role, you'll help us meet demand growth while pushing the bar for quality and user experience higher.
@@ -31,7 +31,7 @@ AI technical safety, Software engineering
 - Advocate for smooth user workflows and ensure the product looks great and is delightful to use.
 - Contribute to discussions around UX, system design, and architecture, appreciating the user needs underlying your work.
 
-[Apply →](https://elicit.com/careers?ashby_jid=b5e218b8-8730-4254-b026-1fe2fe02c3eb)
+<p class="apply-cta"><a href="https://elicit.com/careers?ashby_jid=b5e218b8-8730-4254-b026-1fe2fe02c3eb">Apply →</a></p>
 
 ---
-*Posted 2022-01-12 · Last updated 2026-05-26 · 80k job ID `recgsrW2s9ApTPygf`*
+*Posted 2022-01-12 · Listing synced 2026-05-26 · 80k job ID `recgsrW2s9ApTPygf`*

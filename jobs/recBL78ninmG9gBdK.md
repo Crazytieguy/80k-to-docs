@@ -14,13 +14,14 @@ areas:
 
 **[Foresight Institute](https://foresight.org/)**
 
-- **Location:** Remote, Global
-- **Role type:** Fellowship
-- **Experience:** Multiple experience levels
-- **Degree:** Undergraduate degree or less
+<dl class="job-meta">
+<dt>Location</dt><dd>Remote, Global</dd>
+<dt>Role type</dt><dd>Fellowship</dd>
+<dt>Experience</dt><dd>Multiple experience levels</dd>
+<dt>Degree</dt><dd>Undergraduate degree or less</dd>
+</dl>
 
-## Tags
-AI safety & policy, Engineering, Research
+**Areas & skills:** AI safety & policy, Engineering, Research
 
 ## Summary
 - This is a year-long fellowship program to supercharge your ability to advance technological progress in cutting-edge scientific fields.
@@ -29,7 +30,7 @@ AI safety & policy, Engineering, Research
 - Attend technical workshops and Vision Weekend conferences with paid travel expenses.
 - Present your work in seminar groups and share career successes with the Foresight community.
 
-[Apply →](https://foresight.org/foresight-fellowships/)
+<p class="apply-cta"><a href="https://foresight.org/foresight-fellowships/">Apply →</a></p>
 
 ---
-*Posted 2022-01-05 · Last updated 2026-05-26 · 80k job ID `recBL78ninmG9gBdK`*
+*Posted 2022-01-05 · Listing synced 2026-05-26 · 80k job ID `recBL78ninmG9gBdK`*

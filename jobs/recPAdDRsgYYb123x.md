@@ -14,14 +14,15 @@ areas:
 
 **[OpenAI](https://openai.com/)**
 
-- **Location:** San Francisco Bay Area, USA
-- **Role type:** Full-time
-- **Experience:** Mid (5-9 years experience), Senior (10+ years experience)
-- **Degree:** Undergraduate degree or less
-- **Salary:** $207,000 – $295,000
+<dl class="job-meta">
+<dt>Location</dt><dd>San Francisco Bay Area, USA</dd>
+<dt>Role type</dt><dd>Full-time</dd>
+<dt>Experience</dt><dd>Mid (5-9 years experience), Senior (10+ years experience)</dd>
+<dt>Degree</dt><dd>Undergraduate degree or less</dd>
+<dt>Salary</dt><dd>$207,000 – $295,000</dd>
+</dl>
 
-## Tags
-AI safety & policy, Information security, Strategy
+**Areas & skills:** AI safety & policy, Information security, Strategy
 
 ## Summary
 - In this role, you'll define model behavior in high-risk cybersecurity contexts through policy frameworks, threat models, and evaluation criteria.
@@ -30,7 +31,7 @@ AI safety & policy, Information security, Strategy
 - Analyze red-teaming results and deployment data to improve policy quality.
 - Identify emerging cyber capability risks where AI systems could enable harmful activity.
 
-[Apply →](https://openai.com/careers/model-policy-frontier-cyber-risk-san-francisco/)
+<p class="apply-cta"><a href="https://openai.com/careers/model-policy-frontier-cyber-risk-san-francisco/">Apply →</a></p>
 
 ---
-*Posted 2026-05-13 · Last updated 2026-05-26 · 80k job ID `recPAdDRsgYYb123x`*
+*Posted 2026-05-13 · Listing synced 2026-05-26 · 80k job ID `recPAdDRsgYYb123x`*

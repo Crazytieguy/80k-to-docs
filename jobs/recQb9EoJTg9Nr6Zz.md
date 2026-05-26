@@ -14,15 +14,15 @@ areas:
 
 **[Principles of Intelligence](https://princint.ai/)**
 
-- **Location:** London, UK, San Francisco Bay Area, Remote, Global, UK, USA, USA (Confirmed Visas), UK (Confirmed Visas)
-- **Role type:** Full-time
-- **Experience:** Multiple experience levels
-- **Degree:** Doctoral degree
-- **Salary:** $100,000 – $250,000
-- **Location type:** Remote
+<dl class="job-meta">
+<dt>Location</dt><dd>London, UK, San Francisco Bay Area, Remote, Global, UK, USA, USA (Confirmed Visas), UK (Confirmed Visas)</dd>
+<dt>Role type</dt><dd>Full-time</dd>
+<dt>Experience</dt><dd>Multiple experience levels</dd>
+<dt>Degree</dt><dd>Doctoral degree</dd>
+<dt>Salary</dt><dd>$100,000 – $250,000</dd>
+</dl>
 
-## Tags
-AI safety & policy, Research
+**Areas & skills:** AI safety & policy, Research
 
 ## Summary
 - In this role, you'll advance mechanistic interpretability by developing data structure models and synthetic datasets to benchmark AI interpretability tools.
@@ -31,7 +31,7 @@ AI safety & policy, Research
 - Create synthetic datasets to benchmark and improve interpretability research tools.
 - Conduct interdisciplinary research projects bridging physics and AI interpretability.
 
-[Apply →](https://princint.ai/now-hiring-research-scientists-at-principles-of-intelligence/)
+<p class="apply-cta"><a href="https://princint.ai/now-hiring-research-scientists-at-principles-of-intelligence/">Apply →</a></p>
 
 ---
-*Posted 2026-05-25 · Last updated 2026-05-26 · 80k job ID `recQb9EoJTg9Nr6Zz`*
+*Posted 2026-05-25 · Listing synced 2026-05-26 · 80k job ID `recQb9EoJTg9Nr6Zz`*

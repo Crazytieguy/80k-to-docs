@@ -14,14 +14,15 @@ areas:
 
 **[Cambridge Boston Alignment Initiative](https://www.cbai.ai/)**
 
-- **Location:** Boston metro area, USA
-- **Role type:** Fellowship
-- **Experience:** Junior (1-4 years experience)
-- **Degree:** Undergraduate degree or less
-- **Salary:** $70,000 – $90,000
+<dl class="job-meta">
+<dt>Location</dt><dd>Boston metro area, USA</dd>
+<dt>Role type</dt><dd>Fellowship</dd>
+<dt>Experience</dt><dd>Junior (1-4 years experience)</dd>
+<dt>Degree</dt><dd>Undergraduate degree or less</dd>
+<dt>Salary</dt><dd>$70,000 – $90,000</dd>
+</dl>
 
-## Tags
-AI safety & policy, Operations
+**Areas & skills:** AI safety & policy, Operations
 
 ## Summary
 - In this role, you'll manage the operational backbone of CBAI's fellowship programs, handling logistics, vendors, and community programming.
@@ -30,7 +31,7 @@ AI safety & policy, Operations
 - Plan and execute social events that build cohort community and strengthen fellowship's social fabric.
 - Anticipate operational needs proactively and maintain systems that enable smooth operations.
 
-[Apply →](https://jobs.ashbyhq.com/cbai/00ad32ab-f657-4239-9e92-e53232dc66a0)
+<p class="apply-cta"><a href="https://jobs.ashbyhq.com/cbai/00ad32ab-f657-4239-9e92-e53232dc66a0">Apply →</a></p>
 
 ---
-*Posted 2026-04-02 · Last updated 2026-05-26 · 80k job ID `recSotTzhddRM5ZLh`*
+*Posted 2026-04-02 · Listing synced 2026-05-26 · 80k job ID `recSotTzhddRM5ZLh`*

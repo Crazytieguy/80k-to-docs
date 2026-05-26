@@ -15,14 +15,15 @@ areas:
 
 **[Anthropic](https://www.anthropic.com/)**
 
-- **Location:** San Francisco Bay Area, New York, NY, USA, USA (Confirmed Visas)
-- **Role type:** Full-time
-- **Experience:** Mid (5-9 years experience)
-- **Degree:** Undergraduate degree or less
-- **Salary:** $230,000 – $290,000
+<dl class="job-meta">
+<dt>Location</dt><dd>San Francisco Bay Area, New York, NY, USA, USA (Confirmed Visas)</dd>
+<dt>Role type</dt><dd>Full-time</dd>
+<dt>Experience</dt><dd>Mid (5-9 years experience)</dd>
+<dt>Degree</dt><dd>Undergraduate degree or less</dd>
+<dt>Salary</dt><dd>$230,000 – $290,000</dd>
+</dl>
 
-## Tags
-AI safety & policy, Biosecurity & pandemic preparedness, Research, Information security
+**Areas & skills:** AI safety & policy, Biosecurity & pandemic preparedness, Research, Information security
 
 ## Summary
 - In this role, you'll protect against the misuse of AI systems for CBRN-E threats and weapons development.
@@ -31,7 +32,7 @@ AI safety & policy, Biosecurity & pandemic preparedness, Research, Information s
 - Create actionable intelligence reports on attack vectors, vulnerabilities, and threat actor tactics.
 - Collaborate with policy teams and external stakeholders to implement appropriate mitigation actions.
 
-[Apply →](https://job-boards.greenhouse.io/anthropic/jobs/5066997008)
+<p class="apply-cta"><a href="https://job-boards.greenhouse.io/anthropic/jobs/5066997008">Apply →</a></p>
 
 ---
-*Posted 2022-01-13 · Last updated 2026-05-26 · 80k job ID `recztL2NiEeVe1YLI`*
+*Posted 2022-01-13 · Listing synced 2026-05-26 · 80k job ID `recztL2NiEeVe1YLI`*

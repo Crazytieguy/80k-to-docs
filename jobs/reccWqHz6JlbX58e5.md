@@ -14,14 +14,15 @@ areas:
 
 **[Humans in Control](https://humansincontrol.org/)**
 
-- **Location:** Various, USA, USA
-- **Role type:** Full-time
-- **Experience:** Junior (1-4 years experience)
-- **Degree:** Undergraduate degree or less
-- **Salary:** $55,000 – $75,000
+<dl class="job-meta">
+<dt>Location</dt><dd>Various, USA, USA</dd>
+<dt>Role type</dt><dd>Full-time</dd>
+<dt>Experience</dt><dd>Junior (1-4 years experience)</dd>
+<dt>Degree</dt><dd>Undergraduate degree or less</dd>
+<dt>Salary</dt><dd>$55,000 – $75,000</dd>
+</dl>
 
-## Tags
-AI safety & policy, Policy, Outreach
+**Areas & skills:** AI safety & policy, Policy, Outreach
 
 ## Summary
 - In this role, you'll build a grassroots organizing operation from the ground up in your assigned state, mobilizing communities on AI policy.
@@ -30,7 +31,7 @@ AI safety & policy, Policy, Outreach
 - Build relationships with parents, faith communities, veterans, and other local groups.
 - Track organizing metrics, identify opportunities, and represent the organization at community events.
 
-[Apply →](https://humansincontrol.org/careers/state-organizer)
+<p class="apply-cta"><a href="https://humansincontrol.org/careers/state-organizer">Apply →</a></p>
 
 ---
-*Posted 2026-04-16 · Last updated 2026-05-26 · 80k job ID `reccWqHz6JlbX58e5`*
+*Posted 2026-04-16 · Listing synced 2026-05-26 · 80k job ID `reccWqHz6JlbX58e5`*
