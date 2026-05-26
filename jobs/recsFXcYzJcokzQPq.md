@@ -1,0 +1,35 @@
+---
+title: "Request for Proposals, AI Safety Grant"
+employer: "Foresight Institute"
+job_id: "recsFXcYzJcokzQPq"
+last_updated: "2026-05-26T16:24:17.233416Z"
+posted_at: "2026-04-27T00:00:00Z"
+status: ready
+apply_url: "https://foresight.org/request-for-proposals/"
+areas:
+  - "AI safety & policy"
+---
+
+# Request for Proposals, AI Safety Grant
+
+**[Foresight Institute](https://foresight.org/)**
+
+- **Location:** Remote, Global
+- **Role type:** Funding
+- **Experience:** Multiple experience levels
+- **Degree:** Undergraduate degree or less
+- **Location type:** Remote
+
+## Tags
+AI safety & policy, Research
+
+## Summary
+- Grants are awarded for projects in two AI safety-relevant areas: secure AI and neurotechnology for safe AI.
+- Grants range from $10,000 to over $300,000, with $4.5-5.5M awarded annually.
+- Proposals are accepted from individuals, teams, and organisations year-round, with quarterly review deadlines (March 31, June 30, September 30, December 31).
+- Fund both short-term and multi-year projects.
+
+[Apply →](https://foresight.org/request-for-proposals/)
+
+---
+*Posted 2026-04-27 · Last updated 2026-05-26 · 80k job ID `recsFXcYzJcokzQPq`*

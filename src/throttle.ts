@@ -1,14 +1,9 @@
 export const sleep = (ms: number) => new Promise<void>((r) => setTimeout(r, ms));
 
-export class RateLimiter {
-  private next = 0;
-  constructor(private readonly minGapMs: number) {}
-
-  async acquire(): Promise<void> {
-    const now = Date.now();
-    const wait = this.next - now;
-    if (wait > 0) await sleep(wait);
-    this.next = Math.max(now, this.next) + this.minGapMs;
+export class HttpError extends Error {
+  constructor(public readonly status: number, public readonly body: string, message: string) {
+    super(message);
+    this.name = "HttpError";
   }
 }
 
@@ -31,8 +26,7 @@ export async function withRetry<T>(fn: () => Promise<T>, opts: RetryOpts = {}): 
     } catch (err) {
       lastErr = err;
       if (i === attempts - 1 || !shouldRetry(err)) throw err;
-      const delay = Math.min(capMs, baseMs * 2 ** i);
-      await sleep(delay);
+      await sleep(Math.min(capMs, baseMs * 2 ** i));
     }
   }
   throw lastErr;
@@ -42,13 +36,5 @@ function defaultShouldRetry(err: unknown): boolean {
   if (err instanceof HttpError) {
     return err.status === 429 || (err.status >= 500 && err.status < 600);
   }
-  // Network-level fetch errors are retryable.
   return err instanceof TypeError;
-}
-
-export class HttpError extends Error {
-  constructor(public readonly status: number, public readonly body: string, message: string) {
-    super(message);
-    this.name = "HttpError";
-  }
 }

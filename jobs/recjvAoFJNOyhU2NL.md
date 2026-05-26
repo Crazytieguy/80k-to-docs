@@ -1,0 +1,37 @@
+---
+title: "Expression of Interest"
+employer: "Epoch AI"
+job_id: "recjvAoFJNOyhU2NL"
+last_updated: "2026-05-26T16:24:55.875726Z"
+posted_at: "2022-01-11T00:00:00Z"
+status: ready
+apply_url: "https://jobs.lever.co/epoch-ai/137cb0dc-03a6-4747-b9dc-8255194daee2"
+areas:
+  - "AI governance"
+---
+
+# Expression of Interest
+
+**[Epoch AI](https://epoch.ai)**
+
+- **Location:** Remote, Global
+- **Role type:** Full-time
+- **Experience:** Multiple experience levels
+- **Degree:** Undergraduate degree or less
+- **Location type:** Remote
+
+## Tags
+AI governance, Research, Outreach, Operations, Software engineering
+
+## Summary
+- Submit an Expression of Interest to be contacted for future roles at Epoch.
+- Research roles: Fields include economics, machine learning, and forecasting.
+- Operations roles: Involving people management, finance, event coordination, or generalist tasks.
+- Engineering roles: Software development and machine learning engineering.
+- Data roles: Data analysts, data scientists.
+- Communications roles: Designer, editor.
+
+[Apply →](https://jobs.lever.co/epoch-ai/137cb0dc-03a6-4747-b9dc-8255194daee2)
+
+---
+*Posted 2022-01-11 · Last updated 2026-05-26 · 80k job ID `recjvAoFJNOyhU2NL`*

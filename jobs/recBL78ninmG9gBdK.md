@@ -1,0 +1,35 @@
+---
+title: "Foresight Fellowship (2027)"
+employer: "Foresight Institute"
+job_id: "recBL78ninmG9gBdK"
+last_updated: "2026-05-26T16:25:27.592567Z"
+posted_at: "2022-01-05T00:00:00Z"
+status: ready
+apply_url: "https://foresight.org/foresight-fellowships/"
+areas:
+  - "AI safety & policy"
+---
+
+# Foresight Fellowship (2027)
+
+**[Foresight Institute](https://foresight.org/)**
+
+- **Location:** Remote, Global
+- **Role type:** Fellowship
+- **Experience:** Multiple experience levels
+- **Degree:** Undergraduate degree or less
+
+## Tags
+AI safety & policy, Engineering, Research
+
+## Summary
+- This is a year-long fellowship program to supercharge your ability to advance technological progress in cutting-edge scientific fields.
+- Focus areas include secure AI, longevity biotechnology, nanotechnology, neurotechnology, and existential hope.
+- Connect with senior scientists, relevant funders, and mentors through personalized introductions.
+- Attend technical workshops and Vision Weekend conferences with paid travel expenses.
+- Present your work in seminar groups and share career successes with the Foresight community.
+
+[Apply →](https://foresight.org/foresight-fellowships/)
+
+---
+*Posted 2022-01-05 · Last updated 2026-05-26 · 80k job ID `recBL78ninmG9gBdK`*

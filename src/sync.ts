@@ -1,300 +1,218 @@
+import { mkdir, readFile, readdir, rename, writeFile, rm, open } from "node:fs/promises";
+import { dirname, join, resolve } from "node:path";
 import { fileURLToPath } from "node:url";
-import { dirname, resolve } from "node:path";
 import { fetchJobs, filterByArea, jobId as getJobId, parseAreaTags } from "./api.ts";
-import { getAccessToken } from "./google-auth.ts";
-import {
-  deleteFile,
-  findByJobId,
-  renameFile,
-  updateDocFromMarkdown,
-  uploadDocFromMarkdown,
-  type DriveDeps,
-  type DriveFile,
-} from "./drive.ts";
-import { writeErrorDocIfNew } from "./error-doc.ts";
-import { loadState, saveState } from "./state.ts";
-import {
-  formatDate,
-  renderClosedTitle,
-  renderDocTitle,
-  renderJobMarkdown,
-} from "./render-job.ts";
-import type { Job, JobStateEntry, State, SyncEnv } from "./types.ts";
+import { formatDate, parseFrontmatter, renderJobFile } from "./render-job.ts";
+import { renderIndex, type IndexEntry } from "./render-index.ts";
+import type { Job, JobFrontmatter } from "./types.ts";
 
-const STATE_PATH = resolve(
-  dirname(fileURLToPath(import.meta.url)),
-  "..",
-  "state",
-  "jobs.json",
-);
+const ROOT = resolve(dirname(fileURLToPath(import.meta.url)), "..");
+const JOBS_DIR = join(ROOT, "jobs");
+const CLOSED_DIR = join(JOBS_DIR, "closed");
+const INDEX_PATH = join(ROOT, "INDEX.md");
 
-interface ActionCreate {
-  kind: "create";
-  job: Job;
-}
-interface ActionUpdate {
-  kind: "update";
-  job: Job;
-  prev: JobStateEntry;
-}
-interface ActionClose {
-  kind: "close";
-  prev: JobStateEntry;
-}
-interface ActionReopen {
-  kind: "reopen";
-  job: Job;
-  prev: JobStateEntry;
-}
-type Action = ActionCreate | ActionUpdate | ActionClose | ActionReopen;
-
-interface JobError {
+interface OnDisk {
   jobId: string;
-  action: Action["kind"];
-  error: string;
+  closed: boolean;
+  fm: JobFrontmatter;
+  path: string;            // absolute
+  relPath: string;         // repo-relative (for INDEX links)
 }
 
 async function main(): Promise<void> {
-  const env = readEnv();
-  const startedAt = new Date().toISOString();
-  const state = await loadState(STATE_PATH);
-  const errors: JobError[] = [];
+  const areaTags = parseAreaTags(
+    process.env.AREA_TAGS ?? "AI safety & policy,AI technical safety,AI governance",
+  );
+  console.log(`[sync] filter: ${areaTags.join(", ")}`);
 
-  let upstreamAll: Job[];
-  try {
-    upstreamAll = await fetchJobs();
-  } catch (err) {
-    await recordAndExit(state, err, startedAt);
-    return;
-  }
+  await mkdir(JOBS_DIR, { recursive: true });
+  await mkdir(CLOSED_DIR, { recursive: true });
 
-  const areaTags = parseAreaTags(env.AREA_TAGS);
-  const inScope = filterByArea(upstreamAll, areaTags);
-  const upstreamIds = new Set(upstreamAll.map(getJobId));
+  const upstream = await fetchJobs();
+  const inScope = filterByArea(upstream, areaTags);
+  const upstreamMap = new Map(upstream.map((j) => [getJobId(j), j]));
   const inScopeMap = new Map(inScope.map((j) => [getJobId(j), j]));
 
-  const actions = planActions(state, inScopeMap, upstreamIds);
+  const onDisk = await loadOnDisk();
+  const onDiskMap = new Map(onDisk.map((e) => [e.jobId, e]));
   console.log(
-    `[sync] upstream=${upstreamAll.length} inScope=${inScope.length} stateJobs=${Object.keys(state.jobs).length} actions=${actions.length}`,
+    `[sync] upstream=${upstream.length} inScope=${inScope.length} onDisk=${onDisk.length}`,
   );
 
-  const deps: DriveDeps = {
-    getToken: () => getAccessToken(env.GOOGLE_SA_JSON),
-    folderId: env.DRIVE_FOLDER_ID,
-  };
-
+  const today = formatDate(new Date().toISOString());
   const counts = { created: 0, updated: 0, closed: 0, reopened: 0, skipped: 0 };
-  for (const action of actions) {
+  const errors: string[] = [];
+
+  // Pass 1: new and updated jobs.
+  for (const [id, job] of inScopeMap) {
     try {
-      await applyAction(deps, state, action);
-      counts[`${action.kind}d` as keyof typeof counts]++;
-      state.lastRun = new Date().toISOString();
-      await saveState(STATE_PATH, state);
+      const existing = onDiskMap.get(id);
+      if (!existing) {
+        await writeJobFile(job, /* closed */ undefined);
+        counts.created++;
+      } else if (existing.closed) {
+        // Reopen: write fresh file in jobs/, delete the closed copy.
+        await writeJobFile(job, /* closed */ undefined);
+        await rm(existing.path, { force: true });
+        counts.reopened++;
+      } else if (existing.fm.last_updated !== job.updated_at) {
+        await writeJobFile(job, /* closed */ undefined);
+        counts.updated++;
+      } else {
+        counts.skipped++;
+      }
     } catch (err) {
-      const id = actionJobId(action);
       const msg = err instanceof Error ? `${err.name}: ${err.message}` : String(err);
-      console.error(`[sync] ${action.kind} ${id} failed: ${msg}`);
-      errors.push({ jobId: id, action: action.kind, error: msg });
+      console.error(`[sync] failed for ${id}: ${msg}`);
+      errors.push(`${id}: ${msg}`);
     }
   }
-  counts.skipped = upstreamAll.length - actions.length;
 
-  const finishedAt = new Date().toISOString();
-  state.lastRun = finishedAt;
-  if (errors.length === 0) {
-    state.lastSuccess = finishedAt;
-    state.lastError = null;
-  } else {
-    state.lastError = {
-      at: finishedAt,
-      message: `${errors.length} job-level error(s); first: ${errors[0]!.action} ${errors[0]!.jobId} → ${errors[0]!.error}`,
-    };
+  // Pass 2: closures (in jobs/ but missing from upstream entirely — NOT just out of filter).
+  for (const entry of onDisk) {
+    if (entry.closed) continue;
+    if (upstreamMap.has(entry.jobId)) continue;
+    try {
+      const snapshot = await readJobAsSnapshot(entry);
+      await writeJobFile(snapshot, { closedAt: today });
+      // The file path may change if the body changed under the same id; but since filename is
+      // {jobId}.md and we rewrite to jobs/closed/{jobId}.md, just remove the live file.
+      await rm(entry.path, { force: true });
+      counts.closed++;
+    } catch (err) {
+      const msg = err instanceof Error ? `${err.name}: ${err.message}` : String(err);
+      console.error(`[sync] failed to close ${entry.jobId}: ${msg}`);
+      errors.push(`close ${entry.jobId}: ${msg}`);
+    }
   }
-  await saveState(STATE_PATH, state);
+
+  // Re-scan to build INDEX from the post-sync on-disk state.
+  const post = await loadOnDisk();
+  const active = post.filter((e) => !e.closed).map(toIndexEntry);
+  const closed = post.filter((e) => e.closed).map(toIndexEntry);
+  const indexMd = renderIndex({
+    active,
+    closed,
+    lastRunUtc: new Date().toISOString(),
+    areaTags,
+  });
+  await atomicWrite(INDEX_PATH, indexMd);
 
   console.log(
     `[sync] done created=${counts.created} updated=${counts.updated} closed=${counts.closed} reopened=${counts.reopened} skipped=${counts.skipped} errors=${errors.length}`,
   );
 
   if (errors.length > 0) {
-    const summary = `${errors.length} job-level error(s) during sync at ${finishedAt}`;
-    const details = errors.map((e) => `[${e.action}] ${e.jobId}: ${e.error}`).join("\n");
-    try {
-      await writeErrorDocIfNew(deps, { summary, details });
-    } catch (err) {
-      console.error(`[sync] failed to write error doc: ${err instanceof Error ? err.message : err}`);
-    }
+    console.error(`[sync] ${errors.length} error(s); first: ${errors[0]}`);
     process.exit(1);
   }
 }
 
-function planActions(
-  state: State,
-  inScopeMap: Map<string, Job>,
-  upstreamIds: Set<string>,
-): Action[] {
-  const actions: Action[] = [];
-
-  for (const [id, job] of inScopeMap) {
-    const prev = state.jobs[id];
-    if (!prev) {
-      actions.push({ kind: "create", job });
-    } else if (prev.status === "closed") {
-      actions.push({ kind: "reopen", job, prev });
-    } else if (prev.updatedAt !== job.updated_at) {
-      actions.push({ kind: "update", job, prev });
+async function loadOnDisk(): Promise<OnDisk[]> {
+  const out: OnDisk[] = [];
+  for (const closed of [false, true]) {
+    const dir = closed ? CLOSED_DIR : JOBS_DIR;
+    let entries: string[];
+    try {
+      entries = await readdir(dir);
+    } catch (err) {
+      if ((err as NodeJS.ErrnoException).code === "ENOENT") continue;
+      throw err;
+    }
+    for (const name of entries) {
+      if (!name.endsWith(".md")) continue;
+      if (name === "README.md") continue;
+      const path = join(dir, name);
+      const text = await readFile(path, "utf8");
+      const { fm } = parseFrontmatter(text);
+      if (!fm.job_id || !fm.last_updated || !fm.title || !fm.employer || !fm.status) continue;
+      out.push({
+        jobId: fm.job_id,
+        closed: fm.status === "closed",
+        fm: fm as JobFrontmatter,
+        path,
+        relPath: closed ? `jobs/closed/${name}` : `jobs/${name}`,
+      });
     }
   }
-
-  for (const [id, prev] of Object.entries(state.jobs)) {
-    if (prev.status === "ready" && !upstreamIds.has(id)) {
-      actions.push({ kind: "close", prev });
-    }
-  }
-
-  return actions;
+  return out;
 }
 
-async function applyAction(deps: DriveDeps, state: State, action: Action): Promise<void> {
-  switch (action.kind) {
-    case "create":
-      return await applyCreate(deps, state, action);
-    case "update":
-      return await applyUpdate(deps, state, action);
-    case "close":
-      return await applyClose(deps, state, action);
-    case "reopen":
-      return await applyReopen(deps, state, action);
-  }
+async function writeJobFile(job: Job, closed: { closedAt: string } | undefined): Promise<void> {
+  const id = getJobId(job);
+  const targetDir = closed ? CLOSED_DIR : JOBS_DIR;
+  const path = join(targetDir, `${id}.md`);
+  const body = renderJobFile(job, closed ? { closed } : undefined);
+  await atomicWrite(path, body);
 }
 
-async function applyCreate(deps: DriveDeps, state: State, action: ActionCreate): Promise<void> {
-  const id = getJobId(action.job);
-  const title = renderDocTitle(action.job);
-  const markdown = renderJobMarkdown(action.job);
-
-  const existing = await findByJobId(deps, id);
-  let docId: string;
-  if (existing.length > 0) {
-    const chosen = pickNewest(existing);
-    for (const extra of existing) {
-      if (extra.id !== chosen.id && !extra.name.startsWith("[DUPLICATE-of-")) {
-        console.warn(`[sync] adopting ${chosen.id} for ${id}; renaming duplicate ${extra.id}`);
-        try {
-          await renameFile(deps, { docId: extra.id, name: `[DUPLICATE-of-${chosen.id}] ${extra.name}` });
-        } catch (err) {
-          console.warn(`[sync] failed to rename duplicate ${extra.id}: ${err instanceof Error ? err.message : err}`);
-        }
-      }
-    }
-    docId = chosen.id;
-    await updateDocFromMarkdown(deps, { docId, name: title, markdown });
-  } else {
-    const file = await uploadDocFromMarkdown(deps, { name: title, markdown, jobId: id });
-    docId = file.id;
-  }
-
-  state.jobs[id] = {
-    docId,
-    updatedAt: action.job.updated_at,
-    title: action.job.title,
-    employer: action.job.post.company.name,
-    status: "ready",
-    snapshot: action.job,
-  };
-}
-
-async function applyUpdate(deps: DriveDeps, state: State, action: ActionUpdate): Promise<void> {
-  const id = getJobId(action.job);
-  const title = renderDocTitle(action.job);
-  const markdown = renderJobMarkdown(action.job);
-  await updateDocFromMarkdown(deps, { docId: action.prev.docId, name: title, markdown });
-  state.jobs[id] = {
-    docId: action.prev.docId,
-    updatedAt: action.job.updated_at,
-    title: action.job.title,
-    employer: action.job.post.company.name,
-    status: "ready",
-    snapshot: action.job,
-  };
-}
-
-async function applyClose(deps: DriveDeps, state: State, action: ActionClose): Promise<void> {
-  const id = getJobId(action.prev.snapshot);
-  const closedAt = formatDate(new Date().toISOString());
-  const liveTitle = renderDocTitle(action.prev.snapshot);
-  const title = renderClosedTitle(liveTitle, closedAt);
-  const markdown = renderJobMarkdown(action.prev.snapshot, { closed: { closedAt } });
-  await updateDocFromMarkdown(deps, { docId: action.prev.docId, name: title, markdown });
-  state.jobs[id] = {
-    ...action.prev,
-    status: "closed",
-    closedAt,
-  };
-}
-
-async function applyReopen(deps: DriveDeps, state: State, action: ActionReopen): Promise<void> {
-  const id = getJobId(action.job);
-  const title = renderDocTitle(action.job);
-  const markdown = renderJobMarkdown(action.job);
-  await updateDocFromMarkdown(deps, { docId: action.prev.docId, name: title, markdown });
-  const next: JobStateEntry = {
-    docId: action.prev.docId,
-    updatedAt: action.job.updated_at,
-    title: action.job.title,
-    employer: action.job.post.company.name,
-    status: "ready",
-    snapshot: action.job,
-  };
-  state.jobs[id] = next;
-}
-
-function actionJobId(action: Action): string {
-  switch (action.kind) {
-    case "create":
-    case "update":
-    case "reopen":
-      return getJobId(action.job);
-    case "close":
-      return getJobId(action.prev.snapshot);
-  }
-}
-
-function pickNewest(files: DriveFile[]): DriveFile {
-  return files.slice().sort((a, b) => {
-    const at = a.createdTime ?? "";
-    const bt = b.createdTime ?? "";
-    return bt.localeCompare(at);
-  })[0]!;
-}
-
-async function recordAndExit(state: State, err: unknown, _startedAt: string): Promise<void> {
-  const msg = err instanceof Error ? `${err.name}: ${err.message}` : String(err);
-  const stack = err instanceof Error ? err.stack?.slice(0, 1500) : undefined;
-  console.error(`[sync] fatal: ${msg}`);
-  state.lastRun = new Date().toISOString();
-  state.lastError = { at: state.lastRun, message: msg, stack };
-  await saveState(STATE_PATH, state);
-  process.exit(1);
-}
-
-function readEnv(): SyncEnv {
-  const required = ["GOOGLE_SA_JSON", "DRIVE_FOLDER_ID"] as const;
-  for (const k of required) {
-    if (!process.env[k]) {
-      console.error(`[sync] missing required env var: ${k}`);
-      process.exit(1);
-    }
-  }
+async function readJobAsSnapshot(entry: OnDisk): Promise<Job> {
+  // Reconstruct a minimal Job from the frontmatter + body so we can re-render with a closed banner.
+  // We deliberately preserve the previously-rendered body via a single read+rewrite below — but to
+  // keep the renderJobFile path uniform, we synthesise a Job object from the frontmatter.
   return {
-    GOOGLE_SA_JSON: process.env.GOOGLE_SA_JSON!,
-    DRIVE_FOLDER_ID: process.env.DRIVE_FOLDER_ID!,
-    AREA_TAGS: process.env.AREA_TAGS ?? "AI safety & policy,AI technical safety,AI governance",
+    title: entry.fm.title,
+    post: {
+      company: { name: entry.fm.employer, url: null },
+      id_external_80_000_hours: entry.fm.job_id,
+    },
+    description_short: await extractSummary(entry.path),
+    url_external: entry.fm.apply_url,
+    posted_at: entry.fm.posted_at,
+    updated_at: entry.fm.last_updated,
+    salary_min: null,
+    salary_max: null,
+    tags_area: entry.fm.areas.map((name) => ({ name })),
+    tags_country: [],
+    tags_city: [],
+    tags_role_type: [],
+    tags_location_type: [],
+    tags_workload: [],
+    tags_skill: [],
+    tags_exp_required: [],
+    tags_degree_required: [],
   };
 }
 
-// Use top-level await + import-as-script convention so direct invocation runs main().
-// Vitest imports modules but never executes this file directly, so this is safe.
+async function extractSummary(path: string): Promise<string> {
+  // Pull the "## Summary" section out of the existing body so the closed snapshot keeps it.
+  const text = await readFile(path, "utf8");
+  const { body } = parseFrontmatter(text);
+  const start = body.indexOf("## Summary\n");
+  if (start < 0) return "";
+  const after = body.slice(start + "## Summary\n".length);
+  const end = after.search(/\n(##|\[Apply|---)/);
+  const md = (end < 0 ? after : after.slice(0, end)).trim();
+  // Convert markdown bullets back to HTML so renderJobFile's html-to-md path produces the same shape.
+  if (!md) return "";
+  if (md.startsWith("- ")) {
+    const items = md
+      .split("\n")
+      .filter((l) => l.startsWith("- "))
+      .map((l) => `<li>${escapeHtml(l.slice(2))}</li>`)
+      .join("");
+    return `<ul>${items}</ul>`;
+  }
+  return `<p>${escapeHtml(md)}</p>`;
+}
+
+function escapeHtml(s: string): string {
+  return s.replace(/&/g, "&amp;").replace(/</g, "&lt;").replace(/>/g, "&gt;");
+}
+
+function toIndexEntry(e: OnDisk): IndexEntry {
+  return { fm: e.fm, path: e.relPath };
+}
+
+async function atomicWrite(path: string, content: string): Promise<void> {
+  await mkdir(dirname(path), { recursive: true });
+  const tmp = `${path}.tmp`;
+  await writeFile(tmp, content, "utf8");
+  const fh = await open(tmp, "r+");
+  try { await fh.sync(); } finally { await fh.close(); }
+  await rename(tmp, path);
+}
+
 const isMain = import.meta.url === `file://${process.argv[1]}`;
 if (isMain) {
   main().catch((err) => {

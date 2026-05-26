@@ -1,0 +1,37 @@
+---
+title: "Jailbreaking Lead, Red Team"
+employer: "FAR AI"
+job_id: "recSwYgOHV4lzuLVR"
+last_updated: "2026-05-26T16:23:54.819449Z"
+posted_at: "2026-05-14T00:05:00Z"
+status: ready
+apply_url: "https://jobs.ashbyhq.com/far.ai/9b4eded1-8b20-4238-9259-549bea94607c?embed=js"
+areas:
+  - "AI safety & policy"
+---
+
+# Jailbreaking Lead, Red Team
+
+**[FAR AI](https://far.ai/)**
+
+- **Location:** San Francisco Bay Area, Remote, Global, Remote, USA, USA
+- **Role type:** Full-time
+- **Experience:** Mid (5-9 years experience)
+- **Degree:** Undergraduate degree or less
+- **Salary:** $170,000 – $250,000
+- **Location type:** Remote
+
+## Tags
+AI safety & policy, Information security, Management
+
+## Summary
+- In this role, you'll lead the jailbreaking practice as senior technical owner, developing universal jailbreaks and setting standards for the team.
+- Develop jailbreaks against frontier models in CBRNE, cyber, and emerging domains by dismantling defense-in-depth stacks.
+- Invent novel attack classes and incorporate state-of-the-art methods as frontier defences evolve.
+- Mentor team members on attack craft through technical collaboration and knowledge sharing.
+- Translate jailbreak findings into real-world impact by working with frontier labs and governments.
+
+[Apply →](https://jobs.ashbyhq.com/far.ai/9b4eded1-8b20-4238-9259-549bea94607c?embed=js)
+
+---
+*Posted 2026-05-14 · Last updated 2026-05-26 · 80k job ID `recSwYgOHV4lzuLVR`*

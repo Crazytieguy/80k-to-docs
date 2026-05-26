@@ -1,0 +1,37 @@
+---
+title: "Senior Research Engineer"
+employer: "FAR AI"
+job_id: "recRzRjGXxPWK8jxo"
+last_updated: "2026-05-26T16:25:26.991161Z"
+posted_at: "2022-01-05T00:00:00Z"
+status: ready
+apply_url: "https://jobs.ashbyhq.com/far.ai/4f6fece8-5ed9-41f4-aed8-902d52dc42ef?embed=js"
+areas:
+  - "AI safety & policy"
+---
+
+# Senior Research Engineer
+
+**[FAR AI](https://far.ai/)**
+
+- **Location:** San Francisco Bay Area, Remote, Global, Remote, USA, USA, USA (Confirmed Visas)
+- **Role type:** Full-time
+- **Experience:** Mid (5-9 years experience)
+- **Degree:** Undergraduate degree or less
+- **Salary:** $150,000 – $250,000
+- **Location type:** Remote
+
+## Tags
+AI safety & policy, Research, Software engineering
+
+## Summary
+- In this role, you'll accelerate AI safety research by tackling challenging engineering problems and increasing research depth.
+- Lead projects in detecting AI deception, preventing misuse, or building research infrastructure.
+- Mentor team members in technical work to elevate the team's capabilities.
+- Apply software engineering expertise and Python skills to solve complex AI safety challenges.
+- Contribute specialized knowledge in machine learning, high-performance computing, or technical leadership.
+
+[Apply →](https://jobs.ashbyhq.com/far.ai/4f6fece8-5ed9-41f4-aed8-902d52dc42ef?embed=js)
+
+---
+*Posted 2022-01-05 · Last updated 2026-05-26 · 80k job ID `recRzRjGXxPWK8jxo`*

@@ -1,0 +1,36 @@
+---
+title: "Fellowship Operations Associate"
+employer: "Cambridge Boston Alignment Initiative"
+job_id: "recSotTzhddRM5ZLh"
+last_updated: "2026-05-26T16:24:34.685209Z"
+posted_at: "2026-04-02T00:03:00Z"
+status: ready
+apply_url: "https://jobs.ashbyhq.com/cbai/00ad32ab-f657-4239-9e92-e53232dc66a0"
+areas:
+  - "AI safety & policy"
+---
+
+# Fellowship Operations Associate
+
+**[Cambridge Boston Alignment Initiative](https://www.cbai.ai/)**
+
+- **Location:** Boston metro area, USA
+- **Role type:** Fellowship
+- **Experience:** Junior (1-4 years experience)
+- **Degree:** Undergraduate degree or less
+- **Salary:** $70,000 – $90,000
+
+## Tags
+AI safety & policy, Operations
+
+## Summary
+- In this role, you'll manage the operational backbone of CBAI's fellowship programs, handling logistics, vendors, and community programming.
+- Coordinate daily operational logistics during fellowship cycles, including meals, A/V, and venue management.
+- Manage vendor and contractor relationships through sourcing, negotiation, and quality maintenance.
+- Plan and execute social events that build cohort community and strengthen fellowship's social fabric.
+- Anticipate operational needs proactively and maintain systems that enable smooth operations.
+
+[Apply →](https://jobs.ashbyhq.com/cbai/00ad32ab-f657-4239-9e92-e53232dc66a0)
+
+---
+*Posted 2026-04-02 · Last updated 2026-05-26 · 80k job ID `recSotTzhddRM5ZLh`*

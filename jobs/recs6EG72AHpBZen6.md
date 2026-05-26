@@ -1,0 +1,36 @@
+---
+title: "Head of Operations"
+employer: "General-Purpose AI Policy Lab"
+job_id: "recs6EG72AHpBZen6"
+last_updated: "2026-05-26T16:24:42.167586Z"
+posted_at: "2026-03-16T00:02:00Z"
+status: ready
+apply_url: "https://docs.google.com/document/d/1p3xwlRfVQcCUAEUxoeZkm8MSJNLCdN7Q-6JHZj98x0Y/edit?tab=t.0#heading=h.2xzr9qd95u9l"
+areas:
+  - "AI safety & policy"
+---
+
+# Head of Operations
+
+**[General-Purpose AI Policy Lab](https://gpai-policy-lab.org/)**
+
+- **Location:** Paris, France, France, Europe (ex UK)
+- **Role type:** Full-time
+- **Experience:** Junior (1-4 years experience), Mid (5-9 years experience)
+- **Degree:** Undergraduate degree or less
+- **Salary:** $46,513 – $69,769
+
+## Tags
+AI safety & policy, Operations
+
+## Summary
+- In this role, you'll build operational foundations by designing processes, automating workflows, and managing administration, finances and HR.
+- Establish efficient internal processes via Notion and automation tools that scale as the organisation grows.
+- Oversee recruitment, payroll, budgeting, financial reporting, compliance, and vendor management.
+- Automate recurring tasks across onboarding, accounting, HR and reporting using Notion, Make/Zapier and AI tools.
+- Lead responses to funding applications and project calls, managing budgets and coordinating teams.
+
+[Apply →](https://docs.google.com/document/d/1p3xwlRfVQcCUAEUxoeZkm8MSJNLCdN7Q-6JHZj98x0Y/edit?tab=t.0#heading=h.2xzr9qd95u9l)
+
+---
+*Posted 2026-03-16 · Last updated 2026-05-26 · 80k job ID `recs6EG72AHpBZen6`*

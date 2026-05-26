@@ -14,7 +14,7 @@ permissions:
 jobs:
   sync:
     runs-on: ubuntu-latest
-    timeout-minutes: 30
+    timeout-minutes: 15
     steps:
       - uses: actions/checkout@v4
       - uses: pnpm/action-setup@v4
@@ -27,20 +27,16 @@ jobs:
       - run: pnpm install --frozen-lockfile
       - run: pnpm exec tsx src/sync.ts
         env:
-          GOOGLE_SA_JSON: ${{ secrets.GOOGLE_SA_JSON }}
-          DRIVE_FOLDER_ID: ${{ secrets.DRIVE_FOLDER_ID }}
           AREA_TAGS: ${{ vars.AREA_TAGS }}
-      - name: Commit state
+      - name: Commit changes
         if: always()
         run: |
           set -euo pipefail
-          # Validate state file parses (guards against truncation from a crashed sync.ts).
-          node -e "JSON.parse(require('fs').readFileSync('state/jobs.json','utf8'))"
           git config user.name "80k-sync-bot"
           git config user.email "actions@users.noreply.github.com"
-          git add state/jobs.json
+          git add -A jobs INDEX.md
           if git diff --cached --quiet; then
-            echo "no state changes to commit"
+            echo "no changes to commit"
             exit 0
           fi
           git commit -m "sync: $(date -u +%Y-%m-%dT%H:%MZ)"

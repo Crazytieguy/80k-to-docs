@@ -1,0 +1,36 @@
+---
+title: "Business Operations Manager"
+employer: "Goodfire"
+job_id: "rec9nvi6Iy0oBWmKF"
+last_updated: "2026-05-26T16:25:10.986655Z"
+posted_at: "2022-01-06T00:00:00Z"
+status: ready
+apply_url: "https://job-boards.greenhouse.io/goodfire/jobs/5075058008"
+areas:
+  - "AI safety & policy"
+---
+
+# Business Operations Manager
+
+**[Goodfire](https://goodfire.ai)**
+
+- **Location:** San Francisco Bay Area, USA
+- **Role type:** Full-time
+- **Experience:** Junior (1-4 years experience), Mid (5-9 years experience)
+- **Degree:** Undergraduate degree or less
+- **Salary:** $175,000 – $300,000
+
+## Tags
+AI safety & policy, Operations
+
+## Summary
+- In this role, you'll own Goodfire's operational machinery, managing both recurring tasks and strategic projects that advance the business.
+- Manage customer contracts, recruiting initiatives, immigration logistics, and vendor negotiations.
+- Ensure zero administrative overhead for the broader team through efficient operations.
+- Translate between technical and non-technical teams with your strong technical understanding.
+- Take ownership of operational problems from 0 to 1, delivering solutions for company priorities.
+
+[Apply →](https://job-boards.greenhouse.io/goodfire/jobs/5075058008)
+
+---
+*Posted 2022-01-06 · Last updated 2026-05-26 · 80k job ID `rec9nvi6Iy0oBWmKF`*

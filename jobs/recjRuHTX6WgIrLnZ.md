@@ -1,0 +1,36 @@
+---
+title: "Research Collaborators"
+employer: "University of California, Center for Human-Compatible Artificial Intelligence"
+job_id: "recjRuHTX6WgIrLnZ"
+last_updated: "2026-05-26T16:25:00.121059Z"
+posted_at: "2022-01-11T00:00:00Z"
+status: ready
+apply_url: "https://humancompatible.ai/jobs#research-collaborators"
+areas:
+  - "AI technical safety"
+---
+
+# Research Collaborators
+
+**[University of California, Center for Human-Compatible Artificial Intelligence](https://www.humancompatible.ai)**
+
+- **Location:** San Francisco Bay Area, Remote, Global, USA, USA (Confirmed Visas)
+- **Role type:** Full-time
+- **Experience:** Multiple experience levels
+- **Degree:** Undergraduate degree or less
+- **Location type:** Remote
+
+## Tags
+AI technical safety, Research
+
+## Summary
+- This role requires collaboration on research that aligns with CHAI's mission across various disciplines.
+- Engage in interdisciplinary research spanning computer science, mathematics, robotics, cognitive psychology, and more.
+- Extend research into fields that analyse human value systems, such as moral philosophy, sociology, and law.
+- Participate in weekly research seminars if currently affiliated with UC Berkeley.
+- Undergraduates interested in graduate study should apply to UC Berkeley graduate programs and indicate interest in CHAI.
+
+[Apply →](https://humancompatible.ai/jobs#research-collaborators)
+
+---
+*Posted 2022-01-11 · Last updated 2026-05-26 · 80k job ID `recjRuHTX6WgIrLnZ`*

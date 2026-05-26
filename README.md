@@ -1,48 +1,43 @@
 # 80k → Docs
 
-Daily GitHub Actions cron that mirrors **AI-safety job postings** from the [80,000 Hours job board](https://jobs.80000hours.org/) into a Google Drive folder of formatted Google Docs. The folder doubles as an archive: jobs that disappear from the upstream board are preserved and marked `[CLOSED YYYY-MM-DD]`.
+Daily GitHub Actions cron that mirrors **AI-safety job postings** from the [80,000 Hours job board](https://jobs.80000hours.org/) into this repo as a folder of markdown files. The whole archive is browsable here on GitHub. **[Browse the live index →](./INDEX.md)**
+
+## Why a markdown archive (not Google Docs)?
+
+Initial design used Google Docs in a Drive folder. Hit a hard wall: service accounts on consumer Google accounts have **zero Drive storage quota** (and Google Docs count against quota since 2021). Workarounds required Google Workspace ($6/mo). A markdown-in-git archive is free, self-hosting, has a built-in audit log (`git log`), and renders nicely on github.com.
 
 ## How it works
 
 1. GitHub Actions cron (`.github/workflows/sync.yml`) fires at 06:17 UTC daily — or on-demand via `workflow_dispatch`.
-2. `src/sync.ts` fetches `https://backend.eawork.org/api/jobs/`, filters by `AREA_TAGS`, diffs against committed `state/jobs.json`, and applies create / update / close / reopen actions.
-3. Each doc is created/updated via Drive `files.create` / `files.update` with `text/markdown → application/vnd.google-apps.document` conversion (one atomic API call per doc).
-4. State is committed back to `main` each run — that file is the durable audit log, browsable via `git log -p state/jobs.json`.
+2. `src/sync.ts` fetches `https://backend.eawork.org/api/jobs/`, filters by the `AREA_TAGS` repo variable, and diffs against the on-disk `jobs/*.md` files (using each file's YAML frontmatter for change-detection).
+3. **New** → write `jobs/<jobId>.md`. **Changed** → rewrite. **Closed** (in `jobs/` but missing from upstream entirely) → rewrite into `jobs/closed/<jobId>.md` with a closed banner. **Reopened** (was closed, now back in API) → move back to `jobs/` and rewrite.
+4. Regenerate `INDEX.md` from the final on-disk state and commit everything back to `main` using the default `GITHUB_TOKEN`.
 
-## Setup
+There is no external state store and no secrets — the git history is the audit log.
 
-You need a Google Cloud service account with the `https://www.googleapis.com/auth/drive` scope, plus a Drive folder shared with the SA's email (Editor).
+## Configuration
 
-GitHub repo secrets:
-- `GOOGLE_SA_JSON` — full SA key JSON (one line, ~2.3 KB).
-- `DRIVE_FOLDER_ID` — the folder's Drive ID (from `…/folders/<ID>` URL).
+One GitHub repo variable (not a secret — easy to retune):
 
-GitHub repo variable (not secret — easy to retune):
-- `AREA_TAGS` — comma-separated tag names. Default: `AI safety & policy,AI technical safety,AI governance` (~455 jobs).
+- `AREA_TAGS` — comma-separated `tags_area` names from the 80k API. Default if unset: `AI safety & policy,AI technical safety,AI governance` (~455 jobs).
 
-## Status and errors
-
-- **GitHub Actions UI** is the primary status surface. Failed runs email the repo owner.
-- A summary error doc is created in the Drive folder if any per-job operation fails (dedup'd to once per 24 h per error hash).
-- `state/jobs.json` always records `lastRun`, `lastSuccess`, `lastError` — `git log -p state/jobs.json` shows the failure history.
+Set it via: `gh variable set AREA_TAGS --body "AI technical safety"` (narrowest, ~15 jobs).
 
 ## Local development
 
 ```bash
 pnpm install
-pnpm test              # unit tests
-pnpm typecheck         # tsc --noEmit
+pnpm test                          # 30+ unit tests
+pnpm typecheck                     # tsc --noEmit
 
-# Real run against your Drive folder (uses .env):
-cp .env.example .env   # then fill in
-pnpm sync
+# Real run — writes to ./jobs/ and ./INDEX.md:
+AREA_TAGS="AI technical safety" pnpm sync
 ```
 
-Do **not** run local sync while a GitHub Actions run is in progress — the workflow `concurrency` block prevents Actions-vs-Actions races but can't see local runs.
+Do not run local sync while a GitHub Actions run is in progress; the workflow's `concurrency` block prevents Actions-vs-Actions races but can't see local runs.
 
 ## Caveats
 
-- **Public archive:** because the repo is public, `state/jobs.json` snapshots and (by reference) closed job docs remain in git history even if 80k later removes a listing. The upstream API is itself public, so nothing private is leaked — but consciously accept that this repo is a public archive of the 80k AI-safety job board.
-- **Cron pause:** GitHub disables scheduled workflows in public repos after 60 days of zero repo activity. State commits each run count as activity, so this is self-sustaining as long as the workflow runs. A multi-week red streak could eventually disable cron — failure emails will alert you long before that.
-- **SA key rotation:** Google recommends every 90 days. Rotate with `gcloud iam service-accounts keys create new.json --iam-account=…`, `gh secret set GOOGLE_SA_JSON --body "$(cat new.json)"`, `gcloud iam service-accounts keys delete <old-id>`.
-- **Stale data after upstream tag changes:** if 80k re-tags a job out of your `AREA_TAGS`, we stop updating its doc but do **not** mark it closed (it's still upstream, just not in our filter). Tightening or loosening `AREA_TAGS` is therefore safe.
+- **Public archive:** the repo is public, and closed-job markdown stays in git history even if 80k removes a listing upstream. The upstream API is itself public so no real privacy is leaked — but consciously accept that this repo is a public AI-safety jobs archive.
+- **Cron pause:** GitHub disables scheduled workflows in public repos after 60 days of zero repo activity. `INDEX.md` is regenerated every run (it embeds `last_run`), guaranteeing a commit every run — self-sustaining as long as the workflow runs at all. A multi-week red streak could eventually disable cron; failure emails will alert you long before that.
+- **Tag retuning:** if you tighten `AREA_TAGS`, dropped jobs are left in place — they are **not** marked closed (they're still alive upstream, just not in your filter anymore). They'll stop receiving updates. Loosen the filter and they'll resume; close them upstream and they move to `jobs/closed/`.

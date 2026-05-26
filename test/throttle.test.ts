@@ -1,17 +1,5 @@
 import { describe, it, expect } from "vitest";
-import { HttpError, RateLimiter, withRetry } from "../src/throttle.ts";
-
-describe("RateLimiter", () => {
-  it("spaces calls at least minGapMs apart", async () => {
-    const limiter = new RateLimiter(50);
-    const start = Date.now();
-    await limiter.acquire();
-    await limiter.acquire();
-    await limiter.acquire();
-    const elapsed = Date.now() - start;
-    expect(elapsed).toBeGreaterThanOrEqual(100);
-  });
-});
+import { HttpError, withRetry } from "../src/throttle.ts";
 
 describe("withRetry", () => {
   it("returns immediately on success", async () => {

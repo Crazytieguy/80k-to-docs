@@ -1,0 +1,516 @@
+# 80,000 Hours — AI Safety Jobs Archive
+
+Daily-refreshed mirror of AI-safety job postings from the [80,000 Hours job board](https://jobs.80000hours.org/). One markdown file per job under `jobs/`. Closed jobs move to `jobs/closed/`.
+
+- **Active:** 454
+- **Closed (archived):** 0
+- **Filter:** AI safety & policy, AI technical safety, AI governance
+- **Last run:** 2026-05-26T23:15:48.567Z
+
+_See [README.md](./README.md) for how this is built. Source: [`.github/workflows/sync.yml`](./.github/workflows/sync.yml)._
+
+## Active jobs
+
+### AI governance
+
+- `2026-05-26` · [Expression of Interest](./jobs/recm663D5TYwSXRxn.md) — European Union, AI Office
+- `2026-05-26` · [Volunteer](./jobs/recgMlbWv58dNTrs2.md) — AIGS Canada
+- `2026-05-26` · [Expression of Interest](./jobs/recjvAoFJNOyhU2NL.md) — Epoch AI
+- `2026-05-26` · [Expression of Interest](./jobs/recb8Ah6jnkaZHiyn.md) — Centre for the Governance of AI
+
+### AI safety & policy
+
+- `2026-05-26` · [Get Career Advising](./jobs/receNrfRZjVJNlzg5.md) — 80,000 Hours
+- `2026-05-26` · [Contractor, AI Innovation Lab](./jobs/reccXOsAbbTVEERsl.md) — US Government, National Institute of Standards and Technology
+- `2026-05-26` · [Faculty](./jobs/rec8c9Y1WBAJGC8ne.md) — Tsinghua University, College of AI
+- `2026-05-26` · [Research Engineer, Machine Learning](./jobs/rec1j0p8QM8z43Xj1.md) — Transluce
+- `2026-05-26` · [Senior Writer](./jobs/recywkt9PZkgGCgoI.md) — The Deep View
+- `2026-05-26` · [Vice President, Government Affairs, Senate Focus](./jobs/recS7FG8RDcrDOQvl.md) — The AI Policy Network
+- `2026-05-26` · [Director, Donor Relations](./jobs/recvrwq8Z7QvyhTJd.md) — The AI Policy Network
+- `2026-05-26` · [Artificial Intelligence Safety Standards Expert](./jobs/reccO7v88ChJQwEMz.md) — Shanghai Artificial Intelligence Laboratory
+- `2026-05-26` · [Senior Research Lead, AI Security Portfolio](./jobs/recf6BakhYNqruuGw.md) — RAND Corporation
+- `2026-05-26` · [Research Lead, AI Cyber Testing](./jobs/rec9SvF6EotUc93V9.md) — RAND Corporation
+- `2026-05-26` · [Head of Communications](./jobs/recP2XtsMXFQTurop.md) — Omidyar Network
+- `2026-05-26` · [Principal Research Software Engineer](./jobs/recZCqw0HZMi6kVXr.md) — Northeastern University, National Deep Inference Fabric
+- `2026-05-26` · [Senior Researcher, MIT AI Risk Initiative](./jobs/recE1bsSGuS0GB2Mr.md) — Massachusetts Institute of Technology, FutureTech
+- `2026-05-26` · [Senior Research Scientist / Principal Research Scientist, AI Safety, Biological / Physical Sciences](./jobs/rec5w4Ep5c2J7E1kw.md) — Lila Sciences
+- `2026-05-26` · [Scientist / Senior Scientist, AI Safety](./jobs/reckCM7VP9OipdAaU.md) — Lila Sciences
+- `2026-05-26` · [Senior ML Research Developer](./jobs/reczD6xRKgxWdJHtQ.md) — LawZero
+- `2026-05-26` · [Staff ML Engineer](./jobs/recigBfBGD5h5f5Am.md) — Lakera AI
+- `2026-05-26` · [Senior ML Engineer](./jobs/recXUy93i1cLLqmro.md) — Lakera AI
+- `2026-05-26` · [Senior Software Engineer](./jobs/recM0E62NHhuoJ4Bg.md) — Irregular
+- `2026-05-26` · [Cyber Researcher](./jobs/recmMknefomIsFgEN.md) — Irregular
+- `2026-05-26` · [Expression of Interest](./jobs/recW5Bs2Pa5SYPKeL.md) — Harmony Intelligence
+- `2026-05-26` · [Software Engineer, Full Stack](./jobs/recoRRzCDO9EGaW5w.md) — Haize Labs
+- `2026-05-26` · [Research Engineer](./jobs/recfyvnXuWtw53oNP.md) — Haize Labs
+- `2026-05-26` · [Head of Engineering, Platform](./jobs/recAtFz8tqwkPfW1Q.md) — Goodfire
+- `2026-05-26` · [Security Architect](./jobs/recwAQPxhGgQtYFao.md) — Goodfire
+- `2026-05-26` · [Senior Founding Recruiter](./jobs/recLZi3RjNie4NNX8.md) — Goodfire
+- `2026-05-26` · [Machine Learning Engineer](./jobs/recaERcc4C2uw6tuS.md) — Goodfire
+- `2026-05-26` · [Technical Product Marketing Manager](./jobs/recHmnTC6c5Z0VXEB.md) — Goodfire
+- `2026-05-26` · [Expression of Interest, Senior Leadership](./jobs/recD1M4cLJS6KfHqT.md) — Goodfire
+- `2026-05-26` · [Chief of Staff to the Chief Executive Officer](./jobs/rec82Pnpvkn2Z8E70.md) — General-Purpose AI Policy Lab
+- `2026-05-26` · [Foresight Fellowship (2027)](./jobs/recBL78ninmG9gBdK.md) — Foresight Institute
+- `2026-05-26` · [Executive Operations Assistant](./jobs/recOwVLAHwet8DR0E.md) — FAR AI
+- `2026-05-26` · [Senior Research Engineer](./jobs/recRzRjGXxPWK8jxo.md) — FAR AI
+- `2026-05-26` · [Delivery Manager, AI Safety](./jobs/recAeIIHzuMXsjG3X.md) — Faculty
+- `2026-05-26` · [Head of AI Assurance](./jobs/recwuJxajlspVOgEu.md) — Faculty
+- `2026-05-26` · [Head of Research and Development, AI Safety](./jobs/rechTrSs4GF4QWzJN.md) — Faculty
+- `2026-05-26` · [Senior Research Scientist](./jobs/recOj2hUTANllF14s.md) — Faculty
+- `2026-05-26` · [Senior Manager, AI Safety](./jobs/reciSt2h5cy6hYAMD.md) — Faculty
+- `2026-05-26` · [Expression of Interest, Founder of AI Safety Group](./jobs/recMqVE7HdfPWbCu9.md) — European Network For AI Safety
+- `2026-05-26` · [Director of Site Services](./jobs/rec5qcCsHLoJ1fBmJ.md) — Constellation
+- `2026-05-26` · [General Interest](./jobs/recP9cltT8aLu10zi.md) — CivAI
+- `2026-05-26` · [Expression of Interest](./jobs/recuG1K1Xp1HZnWCd.md) — China AI Safety and Development Association
+- `2026-05-26` · [Senior Technical Specialist, AI Risk Assessment](./jobs/rec7QrBVExfgfjmCA.md) — Center for AI Risk Management and Alignment
+- `2026-05-26` · [Senior Economist, AI Geostrategic and Economic Mechanisms](./jobs/recND6YRu8VFtokmL.md) — Center for AI Risk Management and Alignment
+- `2026-05-26` · [Lead Researcher, AI Offense-Defense Dynamics](./jobs/rectMslN3X3rLWeD9.md) — Center for AI Risk Management and Alignment
+- `2026-05-26` · [Senior AI Security Researcher](./jobs/recthiGtv8MWIM4Wi.md) — Carnegie Mellon University, Software Engineering Institute
+- `2026-05-26` · [Founding Engineer](./jobs/recNEmMFRXbBkRF0R.md) — Asymmetric Security
+- `2026-05-26` · [Applied Scientist, AI Risk](./jobs/recIm8YhoGgKcMFeu.md) — Armilla
+- `2026-05-26` · [Senior Actuarial Data Scientist, AI Risk](./jobs/recKobuPy57I5pGYJ.md) — Armilla
+- `2026-05-26` · [Senior ML Researcher, Foundation Models, Responsible AI](./jobs/recz95wAxc9zvan8x.md) — Apple
+- `2026-05-26` · [Legal and Compliance Manager](./jobs/reckB7645Y1urc1am.md) — Apollo Research
+- `2026-05-26` · [Software Engineer, Backend](./jobs/recn9qj5buVQdybAO.md) — Apollo Research
+- `2026-05-26` · [Software Engineer, Full-Stack](./jobs/recI9yqfBL6zXCD5S.md) — Apollo Research
+- `2026-05-26` · [Exceptional Talent Application](./jobs/recwtzLeizGPM6fzs.md) — Apart Research
+- `2026-05-26` · [Field Lead, AI Hardware Security and Verification](./jobs/recerUmMmiaExtwQI.md) — Amodo Design
+- `2026-05-26` · [Freelancer, Biology Expert, GenAI Prompts Review](./jobs/recsFQ1aDS65d7wRD.md) — Alice
+- `2026-05-26` · [Freelancer, Red Team Specialist](./jobs/rec1b8EcMNXqJUVf3.md) — Alice
+- `2026-05-26` · [Expressions of Interest, Policy and Engineering](./jobs/reclbgtixhBPHSOPn.md) — AI Verification and Evaluation Research Institute
+- `2026-05-26` · [Expression of Interest](./jobs/recUUFA7fd1OMXlp0.md) — AI Futures Project
+- `2026-05-26` · [Policy Researcher](./jobs/recz0PUAkphKOos0K.md) — AI Futures Project
+- `2026-05-26` · [Various Opportunities](./jobs/reca3GrrKAbeHCyuz.md) — AI & Democracy Foundation
+- `2026-05-26` · [Technical Program Manager, AI Alignment](./jobs/recaT7EmMg8IdDGuR.md) — AE Studio
+- `2026-05-26` · [Expression of Interest, Contractor, Video Programme](./jobs/recQ90iUyRvozwpxM.md) — 80,000 Hours
+- `2026-05-26` · [Expression of Interest, Director / Co-Director](./jobs/rec5DE4d3ALkOiHCh.md) — Zurich AI Safety
+- `2026-05-26` · [Security Analyst, Detection and Response](./jobs/recWJVaInzqdzpvge.md) — xAI
+- `2026-05-26` · [Senior Network Security Engineer](./jobs/recm1R8h1iVFok4ju.md) — xAI
+- `2026-05-26` · [Detection and Response Engineer](./jobs/recIjAn3kUY49kK9a.md) — xAI
+- `2026-05-26` · [Application Security Engineer](./jobs/recpIu9yQFeKdTls9.md) — xAI
+- `2026-05-26` · [List of Potential PhD Supervisors, AI Alignment / Safety](./jobs/rectBBkqGlVpemMXl.md) — Various Potential PhD Supervisors
+- `2026-05-26` · [Postdocs](./jobs/recf9j5oQNyt8A8qv.md) — University of Texas at Austin, Department of Computer Science
+- `2026-05-26` · [PhD Position, AI Safety](./jobs/recGgg4prsxPVflRy.md) — University of Stuttgart
+- `2026-05-26` · [PhD Student, Assistantship, AI Safety, Generative AI, and Agentic AI Systems](./jobs/rece7DC81BbR19btp.md) — University of Connecticut, Reducing Information Ecosystem Threats Lab
+- `2026-05-26` · [Full-Stack Product Engineer](./jobs/recRNBLtqTNDiA1Sr.md) — Transluce
+- `2026-05-26` · [AI Red Teamer](./jobs/recoU0KdNvLVriLZS.md) — Trajectory Labs
+- `2026-05-26` · [Volunteers](./jobs/recuNFFzzXtquyJNa.md) — The Midas Project
+- `2026-05-26` · [Junior Associate](./jobs/rec5roJBM9Lg5dEc8.md) — The AI Policy Network
+- `2026-05-26` · [Production Assistant / Office Manager](./jobs/recDmrOs5w23lkzlE.md) — Tail End Films
+- `2026-05-26` · [Full-Stack Software Engineer, S-Process](./jobs/rec6nOL5EaSPWO1m9.md) — Survival and Flourishing
+- `2026-05-26` · [Research Scientist](./jobs/reclGOQEQfAs38A5f.md) — Simplex
+- `2026-05-26` · [Algorithm Researcher, Frontier AI Risk](./jobs/recguXh5YNjZDQ02a.md) — Shanghai Artificial Intelligence Laboratory
+- `2026-05-26` · [Member of Technical Staff, AI Digest](./jobs/receat4uE1uXa92N4.md) — Sage
+- `2026-05-26` · [Local Group Leaders, US](./jobs/recmGpeIDroB0DZAI.md) — PauseAI
+- `2026-05-26` · [Volunteer Opportunities](./jobs/recJLbQmdi4cEJ9Oe.md) — PauseAI
+- `2026-05-26` · [Research Scientist](./jobs/recqq8HXisoyquMbT.md) — Patronus AI
+- `2026-05-26` · [Intern, Marketing and Media, Social and Video](./jobs/recb9JwBjAsq0ZEph.md) — Meridian
+- `2026-05-26` · [Compute Administrator](./jobs/recy9uy8NRH98evTY.md) — MATS Research
+- `2026-05-26` · [ML Engineer, AI Risk Initiative](./jobs/reccY4Bz9qsKEd8Zr.md) — Massachusetts Institute of Technology, FutureTech
+- `2026-05-26` · [Research Assistant, Economics of Technological Progress, Innovation, and Artificial Intelligence](./jobs/recg33YFS7p2eJRHf.md) — Massachusetts Institute of Technology, FutureTech
+- `2026-05-26` · [Research Assistant, AI in Science](./jobs/reccQ5oRa0kpsRz6F.md) — Massachusetts Institute of Technology, FutureTech
+- `2026-05-26` · [Technical Associate / Predoctoral Research Assistant](./jobs/recDrPw4KrH84D2vI.md) — Massachusetts Institute of Technology, FutureTech
+- `2026-05-26` · [Postdoctoral Associate](./jobs/recL68BQBR6TZHg7m.md) — Massachusetts Institute of Technology, FutureTech
+- `2026-05-26` · [Postdoctoral Associate, AI Performance and Safety](./jobs/recLAtRlVrb3Ux6uu.md) — Massachusetts Institute of Technology, FutureTech
+- `2026-05-26` · [Junior Research Scientists](./jobs/recvBySDDtsh5IeIK.md) — Massachusetts Institute of Technology, FutureTech
+- `2026-05-26` · [Research Scientist I / II, AI Safety, Biological / Physical Sciences](./jobs/rectLZ0j0xAJpofl9.md) — Lila Sciences
+- `2026-05-26` · [Senior Distributed ML Engineer](./jobs/rec19jMbHgsE6fHgh.md) — LawZero
+- `2026-05-26` · [Research Scientist, AI Safety, ML Focus](./jobs/recB35qpJCFsMxSGw.md) — LawZero
+- `2026-05-26` · [Senior ML Research Scientist, Probabilistic Inference](./jobs/reckEB0vvx5oM4BUi.md) — LawZero
+- `2026-05-26` · [Senior ML Research Scientist](./jobs/recTYW9WLQzVYE1KK.md) — LawZero
+- `2026-05-26` · [Technical Policy Researcher](./jobs/rec2qTbvrHlbhqa15.md) — Irregular
+- `2026-05-26` · [Research Engineer](./jobs/recKiFx7xN2VRXS9q.md) — Irregular
+- `2026-05-26` · [Contract Staff, AI-Related Environment Development and Promotion Work, Digital Infrastructure Center](./jobs/recJdRpZw3gygcf5l.md) — Information-Technology Promotion Agency
+- `2026-05-26` · [UX Intern](./jobs/rec39ssCHX85ujAUz.md) — Hortus AI
+- `2026-05-26` · [Researcher, Governance of AI Lab](./jobs/recUIShvjHmb9pOxl.md) — Hebrew University of Jerusalem, School of Computer Science and Engineering
+- `2026-05-26` · [Intern, Software Engineering](./jobs/recrcM0O0BS0nepSA.md) — Haize Labs
+- `2026-05-26` · [Research Intern](./jobs/recHKdpM1ijP4Q5k5.md) — Haize Labs
+- `2026-05-26` · [Finance Manager](./jobs/recYqn98vw1pmXD0u.md) — Goodfire
+- `2026-05-26` · [Business Operations Manager](./jobs/rec9nvi6Iy0oBWmKF.md) — Goodfire
+- `2026-05-26` · [Research Scientist](./jobs/receQWizxbJa1BSYS.md) — Goodfire
+- `2026-05-26` · [Project Officer, International Coordination](./jobs/recS3Eyhg05W0izva.md) — General-Purpose AI Policy Lab
+- `2026-05-26` · [Expression of Interest, Movement Building](./jobs/receLNQVmcdCLXqHM.md) — Evitable
+- `2026-05-26` · [Communications Associate / Head of Communications](./jobs/rec3DQdQ2QFystJYm.md) — Evitable
+- `2026-05-26` · [Policy Officer, Artificial Intelligence](./jobs/recIXYe4M7Noj1NNv.md) — European Union, European Commission
+- `2026-05-26` · [Policy Analyst / Director](./jobs/recmYhrWQik1nGwnB.md) — Encode
+- `2026-05-26` · [AGI Legal](./jobs/recwL5bw9K1lBh38T.md) — DeepSeek
+- `2026-05-26` · [Research Program Coordinator](./jobs/recbXPMyUHNb8nS5P.md) — Constellation
+- `2026-05-26` · [Program Coordinator, User Experience](./jobs/rec49fBTHpKNoftdo.md) — Constellation
+- `2026-05-26` · [General Expression of Interest](./jobs/reczdSqVUXIUZjKBM.md) — Constellation
+- `2026-05-26` · [Lead Product Engineer](./jobs/recbmhIkNj10u1yQz.md) — Collective Intelligence Project
+- `2026-05-26` · [Research Engineer, Novel AI Platforms for Multiscale Alignment](./jobs/recf8nEfGIsBNg8bP.md) — Center for AI Risk Management and Alignment
+- `2026-05-26` · [Associate Researcher, AI Security](./jobs/recwI422BjVFgpfXJ.md) — Carnegie Mellon University, Software Engineering Institute
+- `2026-05-26` · [AI Security Researcher](./jobs/recizwZRH3qtQGJEt.md) — Carnegie Mellon University, Software Engineering Institute
+- `2026-05-26` · [Mentor](./jobs/reczMVZ1CNqphe4UA.md) — BlueDot Impact
+- `2026-05-26` · [Facilitator](./jobs/recodvRAvm8hu06hF.md) — BlueDot Impact
+- `2026-05-26` · [Algorithm Researcher, Large Model Security](./jobs/recs3W6jhPfRBQzCV.md) — Beijing Academy of AI
+- `2026-05-26` · [AI Engineer](./jobs/recia9YMB4pIKJv7v.md) — Armilla
+- `2026-05-26` · [Research Scientist / Engineer, Science of Scheming](./jobs/recEp6gy7LHwuLJLe.md) — Apollo Research
+- `2026-05-26` · [Research Scientist / Engineer, Evaluations](./jobs/recBEEqlEHJ43UKOJ.md) — Apollo Research
+- `2026-05-26` · [Backend Engineer, Monitoring](./jobs/recDpuoAPaomJglGy.md) — Apollo Research
+- `2026-05-26` · [Applied Researcher, Monitoring](./jobs/recimUeinrrnnv28c.md) — Apollo Research
+- `2026-05-26` · [Full Stack Engineer, Monitoring](./jobs/rec7pIGaBdyDg2SSA.md) — Apollo Research
+- `2026-05-26` · [Intern, Responsible AI](./jobs/recv2rWn4l20xNp8W.md) — ALLAI
+- `2026-05-26` · [Volunteer Opportunities](./jobs/recH1Q8kptN8XzJ9O.md) — AISafety.com
+- `2026-05-26` · [Volunteer](./jobs/recVGAvwQGadiurSz.md) — AI Safety Awareness Project
+- `2026-05-26` · [Volunteer](./jobs/recFBfwll5C7BzeJI.md) — AI Alignment Network
+- `2026-05-26` · [Expression of Interest, Contract Video Editor, Podcast](./jobs/rec6X4bfsz8PYLGpY.md) — 80,000 Hours
+- `2026-05-26` · [Software Engineer](./jobs/rec3VSqou2ls9J7vC.md) — Valthos
+- `2026-05-26` · [Postdocs / Research Staff / Staff Programmers / Interns](./jobs/recYiue80Uu8BDDk1.md) — University of California, Berkeley, Department of Electrical Engineering and Computer Sciences
+- `2026-05-26` · [Young Scientist / Young Researcher, Large-Scale Model Attack and Defense](./jobs/recXhmurwBWkp952v.md) — Shanghai Artificial Intelligence Laboratory
+- `2026-05-26` · [Community and Operations Coordinator / Manager](./jobs/recc0s725J1BH6lZO.md) — Meridian
+- `2026-05-26` · [Postdoc, Mechanism Design for Robust AI Alignment](./jobs/recS92DBrfjMFq2JW.md) — King's College London, Department of Informatics
+- `2026-05-26` · [General Applications](./jobs/recucu4E9plS7Ealy.md) — Future of Life Institute
+- `2026-05-26` · [Students / Research Interns / Post-Docs](./jobs/recGyBOxtId4X4dw3.md) — European Laboratory for Learning and Intelligent Systems
+- `2026-05-26` · [Computational Biologist](./jobs/recXec8pWPMIbEz9J.md) — Valthos
+- `2026-05-26` · [Applied AI Engineer](./jobs/reczNaYeGg4R25Pz2.md) — Valthos
+- `2026-05-26` · [Operations, Communications and Research Manager](./jobs/recTfMyefrumGwXdc.md) — Legal Advocates for Safe Science and Technology
+- `2026-05-26` · [Data Scientist, Preparedness](./jobs/recZTfKLUvNsYGLuz.md) — OpenAI
+- `2026-05-26` · [Researcher, Automated Red Teaming](./jobs/recJ1FP2Yt7jQXY2a.md) — OpenAI
+- `2026-05-26` · [Researcher, Frontier Biological and Chemical Risks](./jobs/receGHE2ZzDc4DQGM.md) — OpenAI
+- `2026-05-26` · [Researcher, Frontier Cybersecurity Risks](./jobs/recQgcbnIA1FLAOab.md) — OpenAI
+- `2026-05-26` · [Global Detection and Response Lead](./jobs/recddCRFGXCPv47Tg.md) — OpenAI
+- `2026-05-26` · [Security Engineer, Detection and Response, Europe, the Middle East and Africa](./jobs/recY7yuxJEB1RMy92.md) — OpenAI
+- `2026-05-26` · [Researcher, Safety Oversight](./jobs/recAurL0kSCGOSRJe.md) — OpenAI
+- `2026-05-26` · [Researcher, Robustness and Safety Training, Safety Systems](./jobs/recs2erKZeKlB5ROy.md) — OpenAI
+- `2026-05-26` · [Security Engineer, Insider Threat Detection and Response](./jobs/recXMBdyib6LrEqvq.md) — OpenAI
+- `2026-05-26` · [Offensive Security Engineer, Hardware](./jobs/recSL30XhsDxxpeSk.md) — OpenAI
+- `2026-05-26` · [Software Engineer, Infrastructure Security](./jobs/recwldYT3YSzZgpvn.md) — OpenAI
+- `2026-05-26` · [Security Engineer, Infrastructure Security](./jobs/reccUrAAmCtyWaQ1U.md) — OpenAI
+- `2026-05-26` · [Technical Lead, Safety Research](./jobs/recBCfddcjQlQv5eb.md) — OpenAI
+- `2026-05-26` · [Security Engineer, Agent Security](./jobs/recJq6rR5tFJNlXef.md) — OpenAI
+- `2026-05-26` · [Security Engineer, Detection and Response, UK](./jobs/recS5DsB1UcC9muwB.md) — OpenAI
+- `2026-05-26` · [Security Engineer, Application Security, San Francisco](./jobs/recKsu8Ox5kq3iwF4.md) — OpenAI
+- `2026-05-26` · [Security Engineer, Application Security, Seattle](./jobs/recA1g3MVlRWnIMO2.md) — OpenAI
+- `2026-05-26` · [Security Engineer, Application Security](./jobs/rec4MOwwIEW88lT14.md) — OpenAI
+- `2026-05-26` · [General Expression of Interest](./jobs/rec75An15dkea2hUe.md) — Model Evaluation and Threat Research
+- `2026-05-26` · [Research Engineer, Frontier Safety Risk Assessment](./jobs/recsSnCicUrlQNk7P.md) — Google DeepMind
+- `2026-05-26` · [Senior ML Product Manager](./jobs/recbAatkIsx0uAdmQ.md) — Elicit
+- `2026-05-26` · [Expression of Interest](./jobs/rec8EgM6xCuobgH3G.md) — Concordia AI
+- `2026-05-26` · [Funding, Work That Builds Capacity to Address Risks From Transformative AI](./jobs/recHfhpau0WaNwGGo.md) — Coefficient Giving
+- `2026-05-26` · [Grantee](./jobs/rec0UyW1dWdj2JCm3.md) — Center on Long-Term Risk
+- `2026-05-26` · [General Application](./jobs/recj7VFpLibiwqJgj.md) — Center on Long-Term Risk
+- `2026-05-26` · [Head of Video](./jobs/recGOUppflBEWlEiQ.md) — Center for AI Safety
+- `2026-05-26` · [Head of Social](./jobs/recNxaanRcUzNNxyK.md) — Center for AI Safety
+- `2026-05-26` · [Narrative Strategist](./jobs/recAbJh2EmyHSsQGM.md) — Center for AI Safety
+- `2026-05-26` · [Chief of Staff / Program Operations, Public Engagement](./jobs/rectjFzGkd8yXVhqZ.md) — Center for AI Safety
+- `2026-05-26` · [Research Scientist](./jobs/reccvTiHntdy1CUYu.md) — Center for AI Safety
+- `2026-05-26` · [Security Engineer Lead, Corporate Security](./jobs/recgNCy8fz9GSxNS2.md) — Anthropic
+- `2026-05-26` · [Staff Software Security Engineer](./jobs/recqabCW8NA7McMul.md) — Anthropic
+- `2026-05-26` · [Security Engineer, Offensive Security](./jobs/recXK5W9OnfTQ7IUS.md) — Anthropic
+- `2026-05-26` · [Research Scientist, Frontier Red Team, Emerging Risks](./jobs/recTYwAWIRpY2jLtv.md) — Anthropic
+- `2026-05-26` · [Research Engineer / Scientist, Societal Impacts](./jobs/rec8VTeEzxgJExwGG.md) — Anthropic
+- `2026-05-26` · [Research Engineer / Scientist, Frontier Red Team, Cyber](./jobs/rechYBXXtGJliHt7D.md) — Anthropic
+- `2026-05-26` · [Software Engineer, Cybersecurity Products](./jobs/recJPxzXSR5HXS8vo.md) — Anthropic
+- `2026-05-26` · [Application Security Engineer](./jobs/rec6yXtxKxc4NukKl.md) — Anthropic
+- `2026-05-26` · [Software Security Engineer](./jobs/recPngzOAP8H5lQy6.md) — Anthropic
+- `2026-05-26` · [Research Engineer, Cybersecurity RL](./jobs/recsOEKUYmdmn5qUq.md) — Anthropic
+- `2026-05-26` · [Technical Program Manager, Security](./jobs/recPDCnTmtlElhrgp.md) — Anthropic
+- `2026-05-26` · [Security Engineer, Detection and Response](./jobs/rec1EzwXWOXuJ998k.md) — Anthropic
+- `2026-05-26` · [Research Engineer, Interpretability](./jobs/recbAvIs1p2J8TB0Z.md) — Anthropic
+- `2026-05-26` · [Security Engineer, Systems Integrity](./jobs/rechOppE2TFBZwjLI.md) — Anthropic
+- `2026-05-26` · [Senior Software Security Engineer](./jobs/recdJSAC8hwPOpdsA.md) — Anthropic
+- `2026-05-26` · [ML Infrastructure Engineer, Safeguards](./jobs/rec0JPd7APPV7LTpi.md) — Anthropic
+- `2026-05-26` · [Research Engineer / Scientist, Alignment Science](./jobs/recZrdfKMf60GceXB.md) — Anthropic
+- `2026-05-26` · [Research Engineer / Scientist, Alignment Science, London](./jobs/recRtmUUeEYQ6fd1Z.md) — Anthropic
+- `2026-05-26` · [Security Engineer, Detection Platform Infrastructure](./jobs/recKtX2J7biqEZcAM.md) — Anthropic
+- `2026-05-26` · [Researcher, Alignment](./jobs/recwFmdonO5YgYZ5A.md) — OpenAI
+- `2026-05-26` · [Researcher, Trustworthy AI](./jobs/recZX6VGmAZCADXgN.md) — OpenAI
+- `2026-05-26` · [Researcher, Pretraining Safety](./jobs/reczHioZG0qrXoDTA.md) — OpenAI
+- `2026-05-26` · [Software Engineer, LessWrong](./jobs/reciCN4NVL7gXQkSO.md) — Lightcone Infrastructure
+- `2026-05-26` · [Student Intern, Machine Learning, Safety, Security and Privacy (Expression of Interest)](./jobs/recq8pklZPxmyAcMl.md) — Google DeepMind
+- `2026-05-26` · [Data Scientist](./jobs/recBJDXwlEjPxReQM.md) — Epoch AI
+- `2026-05-26` · [Communications Lead, Research Translation](./jobs/recrxS4usi2u1pvSc.md) — Center for AI Safety
+- `2026-05-26` · [Newsletter Editor](./jobs/recHCLziTk9zO6RUz.md) — Center for AI Safety
+- `2026-05-26` · [Research Engineer](./jobs/rec9H92Na3jiI0nP2.md) — Center for AI Safety
+- `2026-05-26` · [Program Manager](./jobs/recZxWewYgesKkRC6.md) — Center for AI Safety
+- `2026-05-26` · [Research Engineer, Offensive Security, Safeguards](./jobs/recJAlNZ3Qmh3NSnQ.md) — Anthropic
+- `2026-05-26` · [Research Scientist, Interpretability](./jobs/recbdiZi4tuHz797v.md) — Anthropic
+- `2026-05-26` · [Research Manager, Interpretability](./jobs/recR5v7E0vhMJF7M5.md) — Anthropic
+- `2026-05-26` · [Research Scientist / Engineer, Honesty](./jobs/rec26yWRs3CFZBpzw.md) — Anthropic
+- `2026-05-26` · [Expression of Interest, Pannu Lab](./jobs/rec4yFSYJwM7mFO2P.md) — Johns Hopkins University, Center for Health Security
+- `2026-05-26` · [General Application](./jobs/recgK4Kc5ag6YQN4f.md) — Coefficient Giving
+- `2026-05-26` · [Technical Threat Investigator, Chemical, Biological, Radiological, Nuclear, and Explosives](./jobs/recztL2NiEeVe1YLI.md) — Anthropic
+- `2026-05-26` · [Research Scientist, Biological Safety](./jobs/recmS88tRE8gce5eD.md) — Anthropic
+- `2026-05-26` · [Safeguards Enforcement Analyst, Safety Evaluations](./jobs/recpg6QHkvluCaI4p.md) — Anthropic
+- `2026-05-26` · [Technical Cyber Threat Investigator](./jobs/recGFnhtHhnRqAWhU.md) — Anthropic
+- `2026-05-26` · [Technical Recruiter](./jobs/recncaE6Tan3xw4MC.md) — LawZero
+- `2026-05-26` · [Talent Mobilization Program Coordinator](./jobs/recg2HAkXXephjoyg.md) — Constellation
+- `2026-05-26` · [Senior Security Engineer](./jobs/reclj0hUTVJZy2aWL.md) — Apollo Research
+- `2026-05-26` · [Special Projects Manager](./jobs/rechfBU07GoDc26GL.md) — Center for AI Safety
+- `2026-05-26` · [Director of Development](./jobs/recOBYoroLeO4330A.md) — Center for AI Safety
+- `2026-05-26` · [Research Engineer Intern (Fall 2026)](./jobs/recU4FPZknbbKuz0v.md) — Center for AI Safety
+- `2026-05-26` · [Threat Modeler, Preparedness](./jobs/recbEsGXJJrZQ0u6e.md) — OpenAI
+- `2026-05-26` · [Head of Talent](./jobs/recVEwb0iqID30Bq6.md) — BlueDot Impact
+- `2026-05-26` · [Abuse Investigator, Chemical, Biological, Radiological, and Nuclear](./jobs/rec9tFIwT8BYyTesf.md) — OpenAI
+- `2026-05-26` · [Engineering Manager, Detection and Response](./jobs/recARgp2jK3nxy5Ls.md) — Anthropic
+- `2026-05-26` · [Head of Operations](./jobs/recs6EG72AHpBZen6.md) — General-Purpose AI Policy Lab
+- `2026-05-26` · [Member of Technical Staff, Research](./jobs/recgrQBzgbmzLUJNj.md) — Model Evaluation and Threat Research
+- `2026-05-26` · [Product Manager, Biosafety](./jobs/rech2b6jgThFUWlVq.md) — OpenAI
+- `2026-05-26` · [Senior Analyst / Counsel, AI Governance](./jobs/recRuqvgp3rTFLL3o.md) — Future of Privacy Forum
+- `2026-05-26` · [Security Labs Engineer](./jobs/reciscL3ml1ZyPKb8.md) — Anthropic
+- `2026-05-26` · [Member of Technical Staff, Synthetic Data](./jobs/recAlO2J0kkl1lujI.md) — Trajectory Labs
+- `2026-05-26` · [Recruiter](./jobs/recminrlfOlrxq2I9.md) — FAR AI
+- `2026-05-26` · [Anthology Fund](./jobs/rec0MnpVxV8AKJudj.md) — Menlo Ventures
+- `2026-05-26` · [Director, Government Affairs](./jobs/recpOC8CC8DEdBAwi.md) — The AI Policy Network
+- `2026-05-26` · [Data Engineer, Safeguards](./jobs/recH7wqhSNa2xOdfT.md) — Anthropic
+- `2026-05-26` · [Technical Director, AI Safety](./jobs/rec4PUFfskueiFwRZ.md) — Faculty
+- `2026-05-26` · [Principal, Special Projects](./jobs/rec5uiAFtb0uqt3mv.md) — Center for AI Safety
+- `2026-05-26` · [Field Strategy Specialist](./jobs/recOO7Li1detHm7ii.md) — BlueDot Impact
+- `2026-05-26` · [Research Scientist, AI Controls and Monitoring](./jobs/recj3v541rfDPATO0.md) — Scale AI
+- `2026-05-26` · [Research Scientist, Frontier Risk Evaluations](./jobs/reccA6uPCckjPSoqj.md) — Scale AI
+- `2026-05-26` · [Teaching Assistant, Cambridge Bootcamp for Research in Interpretability and Alignment](./jobs/recmlrhnRzNxDIyus.md) — Cambridge Boston Alignment Initiative
+- `2026-05-26` · [ML Developer, Applied Research](./jobs/reckNtbShGYeHfHQj.md) — LawZero
+- `2026-05-26` · [Research Engineer, Frontier AI Risk Management](./jobs/reczXXL4G8rx8L9p3.md) — SaferAI
+- `2026-05-26` · [Governance Researcher, Frontier AI Risk Management](./jobs/rec2blDEcPcTZmSwN.md) — SaferAI
+- `2026-05-26` · [Infrastructure Engineer, Cloud Evals](./jobs/recqiWRwc5B0TbmDX.md) — Model Evaluation and Threat Research
+- `2026-05-26` · [Senior Research Engineer](./jobs/recOVg3ZMjR3iJDEP.md) — Center for AI Safety
+- `2026-05-26` · [Senior Research Scientist](./jobs/rec3FHjWil4mMQfQj.md) — Center for AI Safety
+- `2026-05-26` · [Applied Research Scientist, AI Security](./jobs/rechcLaPOtqNOherB.md) — Mila
+- `2026-05-26` · [Workshops and Events Lead](./jobs/recULuY0WUspClS3u.md) — Cambridge Boston Alignment Initiative
+- `2026-05-26` · [Research Program Associate, AI Safety](./jobs/rectF9UpNmf05fnfu.md) — Cambridge Boston Alignment Initiative
+- `2026-05-26` · [Program Lead, AIxBio](./jobs/recyQnNZxKVPEl2C7.md) — Cambridge Boston Alignment Initiative
+- `2026-05-26` · [Member of Technical Staff, Forward Deployed Engineer](./jobs/recfaLhTj4SBMVQ0w.md) — Valthos
+- `2026-05-26` · [Research Manager, AIxBio, Part-Time](./jobs/reckvoffC2VCxOHtt.md) — Cambridge Boston Alignment Initiative
+- `2026-05-26` · [Research Manager, AIxBio](./jobs/rec8dYb1hLTrd3bKI.md) — Cambridge Boston Alignment Initiative
+- `2026-05-26` · [Research Manager, AI Safety](./jobs/reccUxz1OKA2Bq2vT.md) — Cambridge Boston Alignment Initiative
+- `2026-05-26` · [Fellowship Operations Associate](./jobs/recSotTzhddRM5ZLh.md) — Cambridge Boston Alignment Initiative
+- `2026-05-26` · [Deputy Director](./jobs/recoxnRh7TY3lRNPh.md) — Berkeley Existential Risk Initiative
+- `2026-05-26` · [Head of Movement Building](./jobs/recE9s25fuO3DOvB6.md) — Evitable
+- `2026-05-26` · [Operations Manager](./jobs/rec0rJCQNTSHzcsp3.md) — Center for AI Safety
+- `2026-05-26` · [Member of Technical Staff](./jobs/recTz3nGLeNT3xKK6.md) — CivAI
+- `2026-05-26` · [Full Stack Cloud Engineer, AI Security Platform](./jobs/rec2lV0Hy9StAeBnc.md) — HiddenLayer
+- `2026-05-26` · [Product Designer](./jobs/recfR0OdQd1tqbytI.md) — CivAI
+- `2026-05-26` · [Director of Policy](./jobs/recCPFjVDkXPPGcHz.md) — CivAI
+- `2026-05-26` · [Staff / Principal Research Engineer, AI Safety, Technical Mitigations](./jobs/rec1Rx2VsBD0VxBff.md) — Lila Sciences
+- `2026-05-26` · [Research Scientist](./jobs/recj8jd069TEb5lvw.md) — FAR AI
+- `2026-05-26` · [Analyst, The Anthropic Institute](./jobs/recTlf4VhJgSd8T1w.md) — Anthropic
+- `2026-05-26` · [Technical Specialist, Multi-Agent Security](./jobs/recD2JpTFfj17eMQC.md) — Advanced Research and Invention Agency
+- `2026-05-26` · [Frontier AI Research Lead](./jobs/rec9i3feQTcjF2lA1.md) — Georgetown University, Center for Security and Emerging Technology
+- `2026-05-26` · [Senior Engineering Lead, Chemical and Biological](./jobs/recHoPgVWmHJwzB8Q.md) — UK Government, AI Security Institute
+- `2026-05-26` · [Exceptional Talent](./jobs/recIFEPfH0Vfg376T.md) — BlueDot Impact
+- `2026-05-26` · [Director, Research Strategy](./jobs/recNsAjl8jEQvD3za.md) — Atlas Computing
+- `2026-05-26` · [Incident Manager, Detection and Response](./jobs/rec9F3bi4oBz3wMNw.md) — Anthropic
+- `2026-05-26` · [Fellows Program, AI Safety](./jobs/rechF5YCsmNiyNj8A.md) — Anthropic
+- `2026-05-26` · [Project Manager, AI Governance Training](./jobs/rechI65EPot3fXFRJ.md) — AI Safety Asia
+- `2026-05-26` · [Executive and Operations Associate](./jobs/recjUWp9NgReNhca5.md) — AI Safety Connect
+- `2026-05-26` · [Researcher / Senior Researcher](./jobs/recz34TsbybhxNsFy.md) — Epoch AI
+- `2026-05-26` · [Finance Associate](./jobs/recbwmUZD1X2yB6ga.md) — Apollo Research
+- `2026-05-26` · [Co-Founder](./jobs/rec197QnCiEPijmIh.md) — Lens Academy
+- `2026-05-26` · [Insider Risk Investigator, Technical and Human Intelligence](./jobs/recxKxYirTLRNYHB8.md) — Anthropic
+- `2026-05-26` · [Data Scientist, Alignment](./jobs/recXmAt9hO2Qf3Iqf.md) — AE Studio
+- `2026-05-26` · [Application Scorer](./jobs/reckqMjiaRldWjm2I.md) — Successif
+- `2026-05-26` · [Standards Researcher](./jobs/recvBOzapGYV00iyW.md) — SaferAI
+- `2026-05-26` · [Policy Advisor / Senior Policy Advisor](./jobs/rectuFSEMLKcwdmbV.md) — Control AI
+- `2026-05-26` · [Data Centre Security Engineer](./jobs/recuhW8vD8L3E9Vq1.md) — OpenAI
+- `2026-05-26` · [Governance and Policy Fellow](./jobs/reccCcsYpa2wE0u2X.md) — Transluce
+- `2026-05-26` · [OpenAI Cybersecurity Grant Program](./jobs/recV1kwLisJ94m73E.md) — OpenAI
+- `2026-05-26` · [Technical Program Manager, Alignment](./jobs/reciTXQ5tizsBMKeR.md) — Anthropic
+- `2026-05-26` · [Community Manager, London](./jobs/recriuWLHwRQLPMbz.md) — MATS Research
+- `2026-05-26` · [Abuse Investigator, AI Self-Improvement Risk](./jobs/recFuXp1azdOvbwK5.md) — OpenAI
+- `2026-05-26` · [Field Strategist](./jobs/recNMoYLeDWCI3rBU.md) — Atlas Computing
+- `2026-05-26` · [State Organizer](./jobs/reccWqHz6JlbX58e5.md) — Humans in Control
+- `2026-05-26` · [Recruiter, Hiring and Talent Operations](./jobs/recBAqm0HRWgVN1v9.md) — Outcapped
+- `2026-05-26` · [Lead AI Applications Developer / Senior AI Developer, Safety](./jobs/recp9XnQuITuTRzjs.md) — Mila
+- `2026-05-26` · [Legal Counsel](./jobs/recawKvOvzPdanbEM.md) — LawZero
+- `2026-05-26` · [Lean Proof Contractor](./jobs/recTaKimv4XNMiqLl.md) — Dovetail
+- `2026-05-26` · [Policy Advisor, Coalitions](./jobs/recwxcvYITrj0M4uc.md) — Encode
+- `2026-05-26` · [Security Engineer, Threat Intelligence](./jobs/recocVQSkk9I0f9zs.md) — Anthropic
+- `2026-05-26` · [Deputy Director and Senior Fellow, Wadhwani AI Center](./jobs/rec739MZumWcalVsT.md) — Center for Strategic and International Studies
+- `2026-05-26` · [Operations Coordinator](./jobs/recZkkPi4xZBHjzph.md) — Constellation
+- `2026-05-26` · [Request for Proposals, AI Interpretability (2026)](./jobs/recJGPuMO6SoqQXwG.md) — Schmidt Sciences
+- `2026-05-26` · [AI Security Research Engineer](./jobs/recZfgXkEMoFzYSHI.md) — 0Labs
+- `2026-05-26` · [Founding Product Engineer](./jobs/recrdFEVWv11wy4p2.md) — 0Labs
+- `2026-05-26` · [Member of Technical Staff, Product Engineer](./jobs/reci4I8ozApB384cP.md) — Valthos
+- `2026-05-26` · [Fellowship Manager](./jobs/recrwr73nvcyBaFVw.md) — Singapore AI Safety Hub
+- `2026-05-26` · [Digital Media Accelerator](./jobs/recRn6xFulHPfJOl0.md) — Future of Life Institute
+- `2026-05-26` · [Machine Learning Engineer, Secure AI Lab](./jobs/recBut7dVtMlLa6zj.md) — Carnegie Mellon University, Software Engineering Institute
+- `2026-05-26` · [Senior Software Engineer, Chem-Bio](./jobs/rect4dFWZXuMzhHq7.md) — UK Government, AI Security Institute
+- `2026-05-26` · [Principal Software Engineer, Infrastructure Security](./jobs/reclWHY0wF5Hbexqc.md) — OpenAI
+- `2026-05-26` · [Tech Journalism Fund](./jobs/reczrGsXpPzymWvD0.md) — Omidyar Network
+- `2026-05-26` · [Senior Communications Advisor](./jobs/recBVrw5cMHI9SeQP.md) — LawZero
+- `2026-05-26` · [Request for Proposals, AI Safety Grant](./jobs/recsFXcYzJcokzQPq.md) — Foresight Institute
+- `2026-05-26` · [Technical Program Manager, AI Safety](./jobs/recNTRcvaMC1joOId.md) — Lila Sciences
+- `2026-05-26` · [Data and Operations Specialist](./jobs/recepuEeMYgcVsBYY.md) — Constellation
+- `2026-05-26` · [Research Engineer / Research Scientist, Model Transparency](./jobs/recMaxbTlOx0hm0zE.md) — UK Government, AI Security Institute
+- `2026-05-26` · [Research Lead](./jobs/recBEUCtiQt9mzEzY.md) — FAR AI
+- `2026-05-26` · [Operations Generalist](./jobs/recu5w4YrSWQSmkOl.md) — Transluce
+- `2026-05-26` · [Researcher, Misalignment Research](./jobs/recrvlKxvRhHP4Dno.md) — OpenAI
+- `2026-05-26` · [Researcher, Alignment Science](./jobs/rec75nGbowyUDqDBk.md) — OpenAI
+- `2026-05-26` · [Product Manager, Cyber Safety](./jobs/recW5Dbg9FWolm1qg.md) — OpenAI
+- `2026-05-26` · [AI Behaviour Engineer](./jobs/recMWfIgwdC8hmX5y.md) — Transluce
+- `2026-05-26` · [Associate AI Security Researcher](./jobs/rec7MvKHfByglpbjd.md) — Carnegie Mellon University, Software Engineering Institute
+- `2026-05-26` · [Program Manager](./jobs/recHFuRqWblujYAXP.md) — AI Safety Connect
+- `2026-05-26` · [Research Assistant, Human Influence](./jobs/recTuP3f9Be2ECJwr.md) — UK Government, AI Security Institute
+- `2026-05-26` · [AI Security Fellow](./jobs/recH7lvvCFX5GXtmJ.md) — Anthropic
+- `2026-05-26` · [Researcher, Alignment Training](./jobs/recbtGxkHm9TuPvEV.md) — OpenAI
+- `2026-05-26` · [PhD Studentship, Monitoring and Increasing LLM Safety](./jobs/recG7U4uyej8Sti2B.md) — Cambridge University, Department of Engineering
+- `2026-05-26` · [Program Assistant, LEAD AI](./jobs/recPgryOIqs3iVgz0.md) — Council on Foreign Relations
+- `2026-05-26` · [Web Product Lead](./jobs/recKSIyD97sxZa47r.md) — 80,000 Hours
+- `2026-05-26` · [Product and Growth Manager](./jobs/rectxXguo2FXa7nA5.md) — 80,000 Hours
+- `2026-05-26` · [AI Policy Fellow, California Department of Technology](./jobs/recx5CAzV4IMbWXTZ.md) — California Council on Science and Technology
+- `2026-05-26` · [Designer](./jobs/recgnWlNw3oYIqKXr.md) — Epoch AI
+- `2026-05-26` · [Data Scientist](./jobs/recO3n0yxyY3QCFmh.md) — Georgetown University, Center for Security and Emerging Technology
+- `2026-05-26` · [Advisor](./jobs/reclC02RZUCp4S6rZ.md) — 80,000 Hours
+- `2026-05-26` · [Recruiting Associate / Specialist](./jobs/rec9LcTgfbGKQD0Ty.md) — 80,000 Hours
+- `2026-05-26` · [Business Operations Associate / Specialist](./jobs/rec80vAR4qyEQN72n.md) — 80,000 Hours
+- `2026-05-26` · [People Operations Associate / Specialist](./jobs/recXXObsrrbz6qncd.md) — 80,000 Hours
+- `2026-05-26` · [Course Operations Lead](./jobs/recbsPw6ch3VRFDWB.md) — BlueDot Impact
+- `2026-05-26` · [Postdoc, LLM Factuality Detection](./jobs/recarvN8KmQhsf8SJ.md) — University of Copenhagen, Department of Computer Science
+- `2026-05-26` · [Fellowship, Geopolitics of Artificial Intelligence](./jobs/recfcyVUnGAkc2evG.md) — Stanford University, Center for International Security and Cooperation
+- `2026-05-26` · [Fellowship, Artificial Intelligence in Strategic Stability and Military Competition](./jobs/rectGcG2RvcDTZGDB.md) — Stanford University, Center for International Security and Cooperation
+- `2026-05-26` · [Fellow in Residence, AI Institute](./jobs/recD2kk29ILn3ng4g.md) — Schmidt Sciences
+- `2026-05-26` · [PhD Fellowship, Mechanistic Interpretability for Large Language Model Security](./jobs/recFcXMpni1trB5oL.md) — University of Copenhagen, Department of Computer Science
+- `2026-05-26` · [Expression of Interest, Chief of Staff](./jobs/recTbZplXdTpdXKo2.md) — 80,000 Hours
+- `2026-05-26` · [Distributed Organizing Manager](./jobs/rec4pYNZB0Bo1PySA.md) — Humans in Control
+- `2026-05-26` · [Incubator Week](./jobs/recQeGL57tZqSsTvt.md) — BlueDot Impact
+- `2026-05-26` · [Policy Analyst, Economic and Societal Transformation](./jobs/recvH1zl13OJUDzOZ.md) — Americans for Responsible Innovation
+- `2026-05-26` · [Visiting Fellowship](./jobs/recHBsKkaLOcdQDpE.md) — Constellation
+- `2026-05-26` · [Operations Associate](./jobs/rec7EssVx8o6Nh1rx.md) — Institute for Law and AI
+- `2026-05-26` · [Sub Team Lead, Red Team, Control](./jobs/recTYsxJr4rEPtBZD.md) — UK Government, AI Security Institute
+- `2026-05-26` · [Technical AI Safety Upskilling Resources](./jobs/recXtQtOSoavOnAym.md) — 80,000 Hours
+- `2026-05-26` · [Postdoctoral Researcher, Technology and Regulation](./jobs/recqCZrG1fm3dQlan.md) — Hasso Plattner Institute
+- `2026-05-26` · [Digital Video and Engagement Manager](./jobs/recuCIT4o3iXthAkw.md) — Humans in Control
+- `2026-05-26` · [Researcher, Recursive Self-Improvement Preparedness](./jobs/recze5BK2oITZs7Ut.md) — OpenAI
+- `2026-05-26` · [Researcher, Alignment Oversight](./jobs/rec9Bbnn1fiMUvUC7.md) — OpenAI
+- `2026-05-26` · [Operations Generalist / Business Operations](./jobs/recqOfYZNK4zaFtdR.md) — Valthos
+- `2026-05-26` · [Director, Digital Organizing](./jobs/rec2igvgaRUV9dFDt.md) — The AI Policy Network
+- `2026-05-26` · [Teacher, Law Programme](./jobs/recTvjDMsXrbmdH3A.md) — ML4Good
+- `2026-05-26` · [Hardware Assurance Programme](./jobs/recBRJliirDbME1sF.md) — Cambridge AI Safety Hub
+- `2026-05-26` · [Research Engineer](./jobs/recdiJgiiIqTPSsf8.md) — Beneficial AI Foundation
+- `2026-05-26` · [Navigators Incubator, AI Security](./jobs/recn8Gt9vZ4cVIDow.md) — Coefficient Giving
+- `2026-05-26` · [Fellows, Center on AI, Security, and Technology](./jobs/recr6BOSS3YvUcsTF.md) — RAND Corporation
+- `2026-05-26` · [Team Member, Model Policy, Frontier Cyber Risk](./jobs/recPAdDRsgYYb123x.md) — OpenAI
+- `2026-05-26` · [PRISM AI Safety Research Fellowship](./jobs/recmY3FFBrgg6nxDW.md) — Peer-Vetted Research Initiative for Safety Methodologies
+- `2026-05-26` · [Principal Full-Stack Engineer](./jobs/recHaI4RkJxRiJgH4.md) — Meridian Labs
+- `2026-05-26` · [Principal Front-End Engineer](./jobs/recIinOP6pvHamos1.md) — Meridian Labs
+- `2026-05-26` · [Senior Front-End Engineer](./jobs/recGrRH58Lgtdr5z8.md) — Meridian Labs
+- `2026-05-26` · [Research Engineer, Societal Impacts](./jobs/rec4g6JmKHcdlltP6.md) — UK Government, AI Security Institute
+- `2026-05-26` · [Research Scientist, AI Safety](./jobs/recnim14y4vNEZ2Ti.md) — Beneficial AI Foundation
+- `2026-05-26` · [Full-Stack Engineer](./jobs/recqN3PoGsihEUrAP.md) — Beneficial AI Foundation
+- `2026-05-26` · [Special Program Coordinator, China Engagement](./jobs/recuWjFj4eNDJ0Egi.md) — AI Safety Connect
+- `2026-05-26` · [Senior Operations, Video Team](./jobs/recZshYNLEBh5uT0W.md) — 80,000 Hours
+- `2026-05-26` · [AI Infrastructure Engineer, Events](./jobs/recHtnJb9zM0EzEJp.md) — Apart Research
+- `2026-05-26` · [Technical Project Manager, Red Team](./jobs/rectB170rf5qlzGtk.md) — FAR AI
+- `2026-05-26` · [Jailbreaking Lead, Red Team](./jobs/recSwYgOHV4lzuLVR.md) — FAR AI
+- `2026-05-26` · [Team Member, Model Policy, Chemical and Biological Risk](./jobs/rec2QlSs55Q9fEriL.md) — OpenAI
+- `2026-05-26` · [Request for Proposals, The Launch Sequence](./jobs/recxfcV8eo1wcUb21.md) — Institute for Progress
+- `2026-05-26` · [Head of Operations](./jobs/recmMKE7R8lLHxSAJ.md) — BlueDot Impact
+- `2026-05-26` · [Senior System Administrator](./jobs/rec0hphptOtdIliel.md) — LawZero
+- `2026-05-26` · [Coordinator, Talent and Culture](./jobs/recxzpMTWaQJsB6M2.md) — LawZero
+- `2026-05-26` · [Head of People](./jobs/recindlP4A0nROyTA.md) — MATS Research
+- `2026-05-26` · [Events Associate](./jobs/rec4ZkcaEAGKKaIAW.md) — ERA
+- `2026-05-26` · [Research Manager, AIxHardware](./jobs/recgs0WqxhCgNktUF.md) — ERA
+- `2026-05-26` · [Office Manager](./jobs/recqFXLV0WBvpORFw.md) — ERA
+- `2026-05-26` · [MATS Programme (Autumn 2026)](./jobs/recDmd46ZPgWvW3Vw.md) — MATS Research
+- `2026-05-26` · [Intern, Machine Learning Development, Applied Research](./jobs/rec9WfsfQc6JNfxYd.md) — LawZero
+- `2026-05-26` · [Postdoctoral Researcher, AI and Geopolitics, AI Governance Initiative](./jobs/reclYur1PCiNOJL57.md) — Oxford University, Oxford Martin School
+- `2026-05-26` · [Director of Operations](./jobs/recnf4SJoTlRdwW9C.md) — ERA
+- `2026-05-26` · [Chief of Staff](./jobs/recWjsk0QTvUCmt1C.md) — Center for AI Safety
+- `2026-05-26` · [Security Preparedness Lead, Coding Agents](./jobs/recuRkQMf5ZkGz2Tf.md) — OpenAI
+- `2026-05-26` · [Team Member, Model Policy](./jobs/recCUBvyTnh6aOZ9n.md) — OpenAI
+- `2026-05-26` · [Incident Response Manager, Enforcement](./jobs/recXJZIrqZYYd9p6J.md) — Anthropic
+- `2026-05-26` · [Operations Associate](./jobs/recsvbUTciHo1qZRr.md) — UK Government, AI Security Institute
+- `2026-05-26` · [AI Policy Leaders Programme](./jobs/recXHu4sjwCZmn2jx.md) — Talos Network
+- `2026-05-26` · [Vice President of Engineering](./jobs/recqV1ixjKEAoQgJC.md) — Transluce
+- `2026-05-26` · [Research Scientist, Safety Post-Training](./jobs/recdnRDEacIbHDVQk.md) — Scale AI
+- `2026-05-26` · [Security Researcher, Agentic AI Threats](./jobs/recZoPatJJ37SFHoQ.md) — OpenAI
+- `2026-05-26` · [AI / Emerging Technology Security Analyst](./jobs/reczoVL3q9waCszGi.md) — Alignerr
+- `2026-05-26` · [AI Red Team Analyst](./jobs/rec8iMNtxZ5pE2lzj.md) — Alignerr
+- `2026-05-26` · [Director, Evaluations](./jobs/rec3w2lRon2mY4zPL.md) — LawZero
+- `2026-05-26` · [Team Member, Search and AI Evaluations](./jobs/rec9gBfFHRN0JCMLM.md) — US Government, National Institute of Standards and Technology
+- `2026-05-26` · [Research Coordinator](./jobs/recDx1S3KgiVztO8z.md) — London AI Safety Research Labs
+- `2026-05-26` · [Machine Learning Researcher](./jobs/rect8SrxeOFHcumZo.md) — Gray Swan
+- `2026-05-26` · [Operations and Systems Specialist](./jobs/recykxBLEC0rYDXBG.md) — Simon Institute for Longterm Governance
+- `2026-05-26` · [Senior Software Engineer, AI Security](./jobs/recOwDoPvemBWscLB.md) — Carnegie Mellon University, Software Engineering Institute
+- `2026-05-26` · [Software Engineer, AI Security](./jobs/recEhYdFdRz2dqvxd.md) — Carnegie Mellon University, Software Engineering Institute
+- `2026-05-26` · [Finance Manager](./jobs/recQA4vUWj0HgIRkz.md) — LawZero
+- `2026-05-26` · [Manager, AI Safety and Security Policy](./jobs/recigzkxeOfCkgfRO.md) — Federation of American Scientists
+- `2026-05-26` · [Senior Manager, AI Safety and Security Policy](./jobs/recJBMZmhOnB4QSLK.md) — Federation of American Scientists
+- `2026-05-26` · [Associate, AI Security Resident](./jobs/rec1WIwORbVU0jdmr.md) — RAND Corporation
+- `2026-05-26` · [Workplace Technology Engineer](./jobs/recGlRZ1RQuQT5gBm.md) — UK Government, AI Security Institute
+- `2026-05-26` · [Security Engineer, Detection and Response, Japan](./jobs/rectYsvdChN7mSU9M.md) — xAI
+- `2026-05-26` · [Expression of Interest, Operations](./jobs/rec2jy1gaDbJ08rJZ.md) — Constellation
+- `2026-05-26` · [Expressions of Interest, Director of Operations](./jobs/recQ2wqXJ2oksJ1Or.md) — Centre for the Governance of AI
+- `2026-05-26` · [Program Coordinator, Analysis](./jobs/recE6lahBUUXIPjLN.md) — Constellation
+- `2026-05-26` · [Trustee](./jobs/recTMy4orKKrxxJwv.md) — Partnership for Research into Sentient Machines
+- `2026-05-26` · [Founding Operations Lead](./jobs/rec9hE95ijEPNtMAz.md) — Institute for Responsible Superintelligence Studies
+- `2026-05-26` · [AI Science Advisor, California Department of Technology](./jobs/recqZpnw2mshUuO2b.md) — California Council on Science and Technology
+- `2026-05-26` · [AI Science Advisor, California Governor's Office of Emergency Services](./jobs/recVplNW2pu4t6dir.md) — California Council on Science and Technology
+- `2026-05-26` · [General Engineer, Artificial Intelligence Systems](./jobs/rec8KHgb5yxF0cBIG.md) — US Government, Bureau of Industry and Security
+- `2026-05-26` · [General Engineer, Machine Learning Systems](./jobs/recUONNsEqAwAxioN.md) — US Government, Bureau of Industry and Security
+- `2026-05-26` · [Research Scientist](./jobs/recQb9EoJTg9Nr6Zz.md) — Principles of Intelligence
+- `2026-05-26` · [Events Associate](./jobs/rec5OIm4oAsj3Otzd.md) — Arq Foundation
+- `2026-05-26` · [Operations Associate](./jobs/recrTB1ihvqsP9i4n.md) — Arq Foundation
+- `2026-05-26` · [Deputy Director, Policy, Brussels](./jobs/rech9olTlMcvdyJBy.md) — Arq Foundation
+- `2026-05-26` · [Member of Technical Staff, Security / Engineering / Research](./jobs/recRC1o0RU85Dl9T3.md) — SL5 Task Force
+- `2026-05-26` · [Fellowship Manager](./jobs/recm61vn4Iaxwx5Zm.md) — Safe AI Germany
+- `2026-05-26` · [Mathematical Scientist, AI Safety Research](./jobs/recXC2PoQ180T2fNj.md) — LawZero
+- `2026-05-26` · [Researcher, Worldview Investigations](./jobs/recu4dxkTIk17qLe3.md) — Rethink Priorities
+- `2026-05-26` · [Researcher, AI Cognition Initiative, Technical Focus](./jobs/recpS4bdVO2hvmCBb.md) — Rethink Priorities
+- `2026-05-26` · [Researcher, AI Cognition Initiative, Economics Focus](./jobs/recGaKJXqOR4nZsDG.md) — Rethink Priorities
+- `2026-05-26` · [Events Specialist](./jobs/rec4q6FqUVjwq8lZE.md) — Constellation
+- `2026-05-26` · [Head of People and Recruitment](./jobs/reczwFxUeUNJjT1X5.md) — Tarbell Center for AI Journalism
+- `2026-05-26` · [AI and National Security Lead](./jobs/recgxGsjwTqBD18Ex.md) — Future of Life Institute
+- `2026-05-26` · [Secure Program Synthesis Fellowship](./jobs/recR85fO2etiheeZF.md) — Apart Research
+- `2026-05-26` · [Communications Specialist](./jobs/recJ35VX7eD2uSvqa.md) — The Midas Project
+- `2026-05-26` · [Finance Associate / Senior Finance Associate](./jobs/recBYMWdIRWirPFGQ.md) — Tarbell Center for AI Journalism
+
+### AI technical safety
+
+- `2026-05-26` · [Researcher, Interpretability](./jobs/recKU8tVW5gg9RRsr.md) — EleutherAI
+- `2026-05-26` · [Senior Research Manager](./jobs/rec9enXKqMpDioTCF.md) — MATS Research
+- `2026-05-26` · [Research Manager](./jobs/recwwJQ6YizzVMtbi.md) — MATS Research
+- `2026-05-26` · [Research Collaborators](./jobs/recjRuHTX6WgIrLnZ.md) — University of California, Center for Human-Compatible Artificial Intelligence
+- `2026-05-26` · [Manager, Technical Governance Team](./jobs/recixJawRoI5j5Phm.md) — Machine Intelligence Research Institute
+- `2026-05-26` · [AI Engineer](./jobs/recBdavdbywlqA49I.md) — Elicit
+- `2026-05-26` · [Senior Software Engineer](./jobs/recFTeWRaCiWGSsZT.md) — Elicit
+- `2026-05-26` · [Technical Staff](./jobs/rec2HXhk8h1mgpNKY.md) — Redwood Research
+- `2026-05-26` · [Technical Governance Researcher](./jobs/recqnhWJCar0aneck.md) — Machine Intelligence Research Institute
+- `2026-05-26` · [ML Research Resident (Q1 2025)](./jobs/recj5CNkqsaYi1M1t.md) — Elicit
+- `2026-05-26` · [Machine Learning Engineer](./jobs/recPmfNMg6rLaX6yd.md) — Elicit
+- `2026-05-26` · [Frontend Engineer](./jobs/recgsrW2s9ApTPygf.md) — Elicit
+- `2026-05-26` · [Evaluators, Systematic Reviews](./jobs/recVQcCsGRKkc7mEF.md) — Elicit
+- `2026-05-26` · [Research Engineer](./jobs/rec4faeL1W7AJsZng.md) — FAR AI
+- `2026-05-26` · [Research Fellow](./jobs/recuHoW48ZzFUjAT3.md) — University of California, Center for Human-Compatible Artificial Intelligence
+
+### Biosecurity & pandemic preparedness
+
+- `2026-05-26` · [Software Engineer](./jobs/rec3VSqou2ls9J7vC.md) — Valthos
+- `2026-05-26` · [General Applications](./jobs/recucu4E9plS7Ealy.md) — Future of Life Institute
+- `2026-05-26` · [Computational Biologist](./jobs/recXec8pWPMIbEz9J.md) — Valthos
+- `2026-05-26` · [Applied AI Engineer](./jobs/reczNaYeGg4R25Pz2.md) — Valthos
+- `2026-05-26` · [Operations, Communications and Research Manager](./jobs/recTfMyefrumGwXdc.md) — Legal Advocates for Safe Science and Technology
+- `2026-05-26` · [Expression of Interest, Pannu Lab](./jobs/rec4yFSYJwM7mFO2P.md) — Johns Hopkins University, Center for Health Security
+- `2026-05-26` · [General Application](./jobs/recgK4Kc5ag6YQN4f.md) — Coefficient Giving
+- `2026-05-26` · [Technical Threat Investigator, Chemical, Biological, Radiological, Nuclear, and Explosives](./jobs/recztL2NiEeVe1YLI.md) — Anthropic
+- `2026-05-26` · [Research Scientist, Biological Safety](./jobs/recmS88tRE8gce5eD.md) — Anthropic
+- `2026-05-26` · [Member of Technical Staff, Forward Deployed Engineer](./jobs/recfaLhTj4SBMVQ0w.md) — Valthos
+- `2026-05-26` · [Deputy Director](./jobs/recoxnRh7TY3lRNPh.md) — Berkeley Existential Risk Initiative
+- `2026-05-26` · [Senior Engineering Lead, Chemical and Biological](./jobs/recHoPgVWmHJwzB8Q.md) — UK Government, AI Security Institute
+- `2026-05-26` · [Member of Technical Staff, Product Engineer](./jobs/reci4I8ozApB384cP.md) — Valthos
+- `2026-05-26` · [Senior Software Engineer, Chem-Bio](./jobs/rect4dFWZXuMzhHq7.md) — UK Government, AI Security Institute
+- `2026-05-26` · [Operations Generalist / Business Operations](./jobs/recqOfYZNK4zaFtdR.md) — Valthos
+- `2026-05-26` · [Team Member, Model Policy, Chemical and Biological Risk](./jobs/rec2QlSs55Q9fEriL.md) — OpenAI
+- `2026-05-26` · [Request for Proposals, The Launch Sequence](./jobs/recxfcV8eo1wcUb21.md) — Institute for Progress
+
+### Building effective altruism
+
+- `2026-05-26` · [General Application](./jobs/recgK4Kc5ag6YQN4f.md) — Coefficient Giving
+
+### Climate change
+
+- `2026-05-26` · [General Applications](./jobs/recucu4E9plS7Ealy.md) — Future of Life Institute
+
+### Global health & development
+
+- `2026-05-26` · [General Application](./jobs/recgK4Kc5ag6YQN4f.md) — Coefficient Giving
+- `2026-05-26` · [Recruiter, Hiring and Talent Operations](./jobs/recBAqm0HRWgVN1v9.md) — Outcapped
+
+### Macrostrategy
+
+- `2026-05-26` · [General Application](./jobs/recgK4Kc5ag6YQN4f.md) — Coefficient Giving
+
+### Nuclear security
+
+- `2026-05-26` · [General Applications](./jobs/recucu4E9plS7Ealy.md) — Future of Life Institute

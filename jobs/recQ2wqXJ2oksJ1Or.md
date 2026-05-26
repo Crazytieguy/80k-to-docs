@@ -1,0 +1,37 @@
+---
+title: "Expressions of Interest, Director of Operations"
+employer: "Centre for the Governance of AI"
+job_id: "recQ2wqXJ2oksJ1Or"
+last_updated: "2026-05-26T16:23:40.850785Z"
+posted_at: "2026-05-22T00:00:00Z"
+status: ready
+apply_url: "https://www.governance.ai/post/doo-eoi-2026"
+areas:
+  - "AI safety & policy"
+---
+
+# Expressions of Interest, Director of Operations
+
+**[Centre for the Governance of AI](https://www.governance.ai/)**
+
+- **Location:** London, UK, Remote, USA, UK, USA, USA (Confirmed Visas), UK (Confirmed Visas)
+- **Role type:** Full-time
+- **Experience:** Mid (5-9 years experience), Senior (10+ years experience)
+- **Degree:** Undergraduate degree or less
+- **Salary:** $155,000 – $190,000
+- **Location type:** Remote
+
+## Tags
+AI safety & policy, Operations, Management, Strategy
+
+## Summary
+- In this role, you'll lead the operations team supporting GovAI's programmes, people, and growth into its next phase.
+- Lead a team of 13 operational staff, enabling their development and identifying future organisational needs.
+- Oversee recruitment and selection processes organisation-wide, managing thousands of annual fellowship applications.
+- Develop operational processes that enable other teams and projects to succeed.
+- Direct day-to-day operations and step in on critical tasks to maintain high output standards.
+
+[Apply →](https://www.governance.ai/post/doo-eoi-2026)
+
+---
+*Posted 2026-05-22 · Last updated 2026-05-26 · 80k job ID `recQ2wqXJ2oksJ1Or`*

@@ -1,0 +1,36 @@
+---
+title: "Community and Operations Coordinator / Manager"
+employer: "Meridian"
+job_id: "recc0s725J1BH6lZO"
+last_updated: "2026-05-26T16:25:05.103735Z"
+posted_at: "2022-01-07T00:00:00Z"
+status: ready
+apply_url: "https://www.meridiancambridge.org/community-ops-coordinator"
+areas:
+  - "AI safety & policy"
+---
+
+# Community and Operations Coordinator / Manager
+
+**[Meridian](https://www.meridiancambridge.org/)**
+
+- **Location:** Cambridge, UK, UK, UK (Confirmed Visas)
+- **Role type:** Full-time
+- **Experience:** Junior (1-4 years experience), Entry-level
+- **Degree:** Undergraduate degree or less
+- **Salary:** $53,793 – $73,965
+
+## Tags
+AI safety & policy, Operations
+
+## Summary
+- In this role, you'll manage Meridian's workspace and coordinate logistics across AI safety research programs in Cambridge.
+- Oversee research program operations including visitor logistics, events, catering, and travel arrangements.
+- Manage workspace facilities, supplies, vendors, and daily operations with autonomy to improve the environment.
+- Organize workshops, journal clubs, and community events for AI safety and biosecurity researchers.
+- Welcome new researchers, run orientations, and build relationships across research networks.
+
+[Apply →](https://www.meridiancambridge.org/community-ops-coordinator)
+
+---
+*Posted 2022-01-07 · Last updated 2026-05-26 · 80k job ID `recc0s725J1BH6lZO`*

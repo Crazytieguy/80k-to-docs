@@ -1,0 +1,37 @@
+---
+title: "Web Product Lead"
+employer: "80,000 Hours"
+job_id: "recKSIyD97sxZa47r"
+last_updated: "2026-05-26T16:24:11.562732Z"
+posted_at: "2026-05-04T00:03:00Z"
+status: ready
+apply_url: "https://80000hours.org/2026/05/open-position-web-product-lead/"
+areas:
+  - "AI safety & policy"
+---
+
+# Web Product Lead
+
+**[80,000 Hours](https://80000hours.org/)**
+
+- **Location:** San Francisco Bay Area, Remote, Global, USA, USA (Confirmed Visas)
+- **Role type:** Full-time
+- **Experience:** Mid (5-9 years experience)
+- **Degree:** Undergraduate degree or less
+- **Salary:** $126,000 – $253,000
+- **Location type:** Remote
+
+## Tags
+AI safety & policy, Management, Strategy
+
+## Summary
+- In this role, you'll make our content more helpful and delightful, driving readership and meaningful action toward high-impact careers.
+- Establish product roadmap and strategy, owning design, messaging, and analytics approach.
+- Guide product decisions using data and user insights to increase engagement.
+- Manage engineers and designers, building your team and directing product development.
+- Create new web products and lead visual redesigns to amplify impact.
+
+[Apply →](https://80000hours.org/2026/05/open-position-web-product-lead/)
+
+---
+*Posted 2026-05-04 · Last updated 2026-05-26 · 80k job ID `recKSIyD97sxZa47r`*

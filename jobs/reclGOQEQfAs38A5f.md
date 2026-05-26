@@ -1,0 +1,36 @@
+---
+title: "Research Scientist"
+employer: "Simplex"
+job_id: "reclGOQEQfAs38A5f"
+last_updated: "2026-05-26T16:25:16.576240Z"
+posted_at: "2022-01-06T00:00:00Z"
+status: ready
+apply_url: "https://www.simplexaisafety.com/london-research-scientist"
+areas:
+  - "AI safety & policy"
+---
+
+# Research Scientist
+
+**[Simplex](https://www.simplexaisafety.com/)**
+
+- **Location:** London, UK, San Francisco Bay Area, UK, USA
+- **Role type:** Full-time
+- **Experience:** Junior (1-4 years experience), Mid (5-9 years experience)
+- **Degree:** Undergraduate degree or less
+- **Salary:** $120,000 – $200,000
+
+## Tags
+AI safety & policy, Research
+
+## Summary
+- In this role, you'll develop a rigorous theory of internal structure in neural networks to understand computation and behavior in AI systems.
+- Work on projects spanning belief discovery in LLMs, theory building, and application to safety challenges.
+- Develop and pursue independent research ideas while collaborating with a small team of scientists.
+- Design experiments that test theoretical predictions about neural network behavior and representations.
+- Bridge multiple disciplines including mathematics, physics, deep learning, and neuroscience.
+
+[Apply →](https://www.simplexaisafety.com/london-research-scientist)
+
+---
+*Posted 2022-01-06 · Last updated 2026-05-26 · 80k job ID `reclGOQEQfAs38A5f`*

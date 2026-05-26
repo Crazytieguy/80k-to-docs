@@ -1,0 +1,36 @@
+---
+title: "Research Scientist"
+employer: "FAR AI"
+job_id: "recj8jd069TEb5lvw"
+last_updated: "2026-05-26T16:24:31.962217Z"
+posted_at: "2026-04-08T00:00:00Z"
+status: ready
+apply_url: "https://jobs.ashbyhq.com/far.ai/1bda4204-bfef-4a47-b72b-3562ec0bb3f9?embed=js"
+areas:
+  - "AI safety & policy"
+---
+
+# Research Scientist
+
+**[FAR AI](https://far.ai/)**
+
+- **Location:** San Francisco Bay Area, USA, USA (Confirmed Visas)
+- **Role type:** Full-time
+- **Experience:** Multiple experience levels
+- **Degree:** Undergraduate degree or less
+- **Salary:** $100,000 – $175,000
+
+## Tags
+AI safety & policy, Research, Software engineering
+
+## Summary
+- FAR AI is seeking Research Scientists to develop and execute on a safety research agenda.
+- Develop new safety research projects within the domain of frontier AI technologies.
+- Execute on existing safety research projects to ensure goals are met.
+- Produce academic papers relevant to the safety and development of AI.
+- Host and participate in events with leading AI professionals.
+
+[Apply →](https://jobs.ashbyhq.com/far.ai/1bda4204-bfef-4a47-b72b-3562ec0bb3f9?embed=js)
+
+---
+*Posted 2026-04-08 · Last updated 2026-05-26 · 80k job ID `recj8jd069TEb5lvw`*

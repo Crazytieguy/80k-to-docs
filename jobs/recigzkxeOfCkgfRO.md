@@ -1,0 +1,36 @@
+---
+title: "Manager, AI Safety and Security Policy"
+employer: "Federation of American Scientists"
+job_id: "recigzkxeOfCkgfRO"
+last_updated: "2026-05-26T16:23:43.454990Z"
+posted_at: "2026-05-21T00:02:00Z"
+status: ready
+apply_url: "https://fas.org/career/manager-ai-safety-and-security-policy/"
+areas:
+  - "AI safety & policy"
+---
+
+# Manager, AI Safety and Security Policy
+
+**[Federation of American Scientists](https://fas.org/about-fas/)**
+
+- **Location:** Washington, DC metro area, USA
+- **Role type:** Full-time
+- **Experience:** Mid (5-9 years experience)
+- **Degree:** Undergraduate degree or less
+- **Salary:** $75,000 – $90,000
+
+## Tags
+AI safety & policy, Policy
+
+## Summary
+- In this role, you'll manage AI safety and security policy projects, translating technical insights into evidence-based governance.
+- Conduct research and draft policy products on frontier AI safety and security for diverse audiences.
+- Develop project plans with clear milestones, timelines, and deliverables, managing quality control across work streams.
+- Support policy convenings, workshops, and briefings while coordinating with internal and external stakeholders.
+- Engage with policymakers and experts to build relationships, represent FAS externally, and identify policy opportunities.
+
+[Apply →](https://fas.org/career/manager-ai-safety-and-security-policy/)
+
+---
+*Posted 2026-05-21 · Last updated 2026-05-26 · 80k job ID `recigzkxeOfCkgfRO`*

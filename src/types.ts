@@ -1,8 +1,6 @@
 import { z } from "zod";
 
-const Tag = z.object({
-  name: z.string(),
-});
+const Tag = z.object({ name: z.string() });
 
 const Company = z.object({
   name: z.string(),
@@ -41,25 +39,15 @@ export const JobsResponse = z.array(Job);
 
 export type JobStatus = "ready" | "closed";
 
-export interface JobStateEntry {
-  docId: string;
-  updatedAt: string;
+/** Subset of {@link Job} stored as YAML frontmatter at the top of each .md file. */
+export interface JobFrontmatter {
   title: string;
   employer: string;
+  job_id: string;
+  last_updated: string;
+  posted_at: string | null;
   status: JobStatus;
-  closedAt?: string;
-  snapshot: Job;
-}
-
-export interface State {
-  lastRun: string | null;
-  lastSuccess: string | null;
-  lastError: { at: string; message: string; stack?: string } | null;
-  jobs: Record<string, JobStateEntry>;
-}
-
-export interface SyncEnv {
-  GOOGLE_SA_JSON: string;
-  DRIVE_FOLDER_ID: string;
-  AREA_TAGS: string;
+  closed_at?: string;
+  apply_url: string | null;
+  areas: string[];
 }

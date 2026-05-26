@@ -16,10 +16,7 @@ export async function fetchJobs(fetchImpl: typeof fetch = fetch): Promise<Job[]>
 
 export function parseAreaTags(raw: string | undefined): string[] {
   if (!raw) return [];
-  return raw
-    .split(",")
-    .map((s) => s.trim())
-    .filter((s) => s.length > 0);
+  return raw.split(",").map((s) => s.trim()).filter((s) => s.length > 0);
 }
 
 export function filterByArea(jobs: Job[], areaTags: string[]): Job[] {

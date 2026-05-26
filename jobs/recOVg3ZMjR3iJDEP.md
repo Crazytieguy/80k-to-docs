@@ -1,0 +1,36 @@
+---
+title: "Senior Research Engineer"
+employer: "Center for AI Safety"
+job_id: "recOVg3ZMjR3iJDEP"
+last_updated: "2026-05-26T16:24:36.427791Z"
+posted_at: "2026-04-01T00:04:06Z"
+status: ready
+apply_url: "https://jobs.lever.co/aisafety/e8167e84-8669-4644-961c-e5fd5b5f4318"
+areas:
+  - "AI safety & policy"
+---
+
+# Senior Research Engineer
+
+**[Center for AI Safety](https://www.cais.ai/)**
+
+- **Location:** San Francisco Bay Area, USA
+- **Role type:** Full-time
+- **Experience:** Junior (1-4 years experience), Mid (5-9 years experience)
+- **Degree:** Master's degree
+- **Salary:** $170,000 – $230,000
+
+## Tags
+AI safety & policy, Research, Software engineering
+
+## Summary
+- In this role, you'll own ML research projects from conception to publication, advancing AI safety through robustness, honesty, and transparency.
+- Design and conduct large-scale experiments on language models, training and fine-tuning transformers.
+- Build and maintain datasets, benchmarks, and research infrastructure for distributed training and evaluation.
+- Write and publish research findings in collaboration with co-authors and external partners.
+- Drive research autonomously while incorporating feedback from advisors and collaborators.
+
+[Apply →](https://jobs.lever.co/aisafety/e8167e84-8669-4644-961c-e5fd5b5f4318)
+
+---
+*Posted 2026-04-01 · Last updated 2026-05-26 · 80k job ID `recOVg3ZMjR3iJDEP`*

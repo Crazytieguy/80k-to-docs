@@ -1,0 +1,36 @@
+---
+title: "Senior Research Manager"
+employer: "MATS Research"
+job_id: "rec9enXKqMpDioTCF"
+last_updated: "2026-05-26T16:25:15.006252Z"
+posted_at: "2022-01-06T00:00:00Z"
+status: ready
+apply_url: "https://www.matsprogram.org/careers/senior-research-manager-berkeley-london"
+areas:
+  - "AI technical safety"
+---
+
+# Senior Research Manager
+
+**[MATS Research](https://www.matsprogram.org/)**
+
+- **Location:** London, UK, San Francisco Bay Area, UK, USA, USA (Confirmed Visas), UK (Confirmed Visas)
+- **Role type:** Full-time
+- **Experience:** Junior (1-4 years experience), Mid (5-9 years experience)
+- **Degree:** Undergraduate degree or less
+- **Salary:** $160,000 – $200,000
+
+## Tags
+AI technical safety, Research, Management
+
+## Summary
+- In this role, you'll lead a team of Research Managers supporting AI safety researchers while developing leadership capabilities in a high-impact field.
+- Manage and develop Research Managers through weekly 1:1s, providing actionable feedback and driving their professional growth.
+- Contribute to research management processes and excellence by piloting and documenting new approaches.
+- Ensure scholars complete essential milestones, meet mentor goals, and receive appropriate resources.
+- Partner with mentors to clarify research goals and accelerate their mentorship process.
+
+[Apply →](https://www.matsprogram.org/careers/senior-research-manager-berkeley-london)
+
+---
+*Posted 2022-01-06 · Last updated 2026-05-26 · 80k job ID `rec9enXKqMpDioTCF`*

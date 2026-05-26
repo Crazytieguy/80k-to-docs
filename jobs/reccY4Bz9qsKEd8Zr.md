@@ -1,0 +1,36 @@
+---
+title: "ML Engineer, AI Risk Initiative"
+employer: "Massachusetts Institute of Technology, FutureTech"
+job_id: "reccY4Bz9qsKEd8Zr"
+last_updated: "2026-05-26T16:25:14.546713Z"
+posted_at: "2022-01-06T00:00:00Z"
+status: ready
+apply_url: "https://forum.effectivealtruism.org/posts/QmLSW3yGXFayNcNgx/ml-engineer-mit-ai-risk-initiative-contractor-part-time-6"
+areas:
+  - "AI safety & policy"
+---
+
+# ML Engineer, AI Risk Initiative
+
+**[Massachusetts Institute of Technology, FutureTech](https://futuretech.mit.edu/)**
+
+- **Location:** Remote, USA, USA
+- **Role type:** Part-time
+- **Experience:** Junior (1-4 years experience)
+- **Degree:** Undergraduate degree or less
+- **Location type:** Remote
+
+## Tags
+AI safety & policy, Software engineering
+
+## Summary
+- In this role, you'll build LLM-augmented pipelines to accelerate evidence synthesis and systematic reviews for AI risks and mitigations.
+- Develop modules for document identification, screening, extraction, and classification with human validation processes.
+- Integrate components into end-to-end evidence synthesis pipelines for the organization review project.
+- Refactor systems for reuse across different AI Risk Initiative projects.
+- Design interfaces to optimize human-AI collaboration and document findings for knowledge transfer.
+
+[Apply →](https://forum.effectivealtruism.org/posts/QmLSW3yGXFayNcNgx/ml-engineer-mit-ai-risk-initiative-contractor-part-time-6)
+
+---
+*Posted 2022-01-06 · Last updated 2026-05-26 · 80k job ID `reccY4Bz9qsKEd8Zr`*

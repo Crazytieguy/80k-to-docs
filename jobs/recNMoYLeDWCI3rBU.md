@@ -1,0 +1,37 @@
+---
+title: "Field Strategist"
+employer: "Atlas Computing"
+job_id: "recNMoYLeDWCI3rBU"
+last_updated: "2026-05-26T16:24:22.143095Z"
+posted_at: "2026-04-16T00:00:00Z"
+status: ready
+apply_url: "https://atlascomputing.org/jobs/field-strategist.pdf"
+areas:
+  - "AI safety & policy"
+---
+
+# Field Strategist
+
+**[Atlas Computing](https://atlascomputing.org/)**
+
+- **Location:** Remote, USA, USA
+- **Role type:** Full-time
+- **Experience:** Multiple experience levels
+- **Degree:** Undergraduate degree or less
+- **Salary:** $140,000 – $200,000
+- **Location type:** Remote
+
+## Tags
+AI safety & policy, Strategy
+
+## Summary
+- In this role, you'll scope and build new organizations to address AI risks and opportunities as a Field Strategist at Atlas Computing.
+- As a cohort of 3-7 field strategists, you'll focus primarily on starting new efforts in the United States that could scale globally.
+- Create detailed write-ups for proposed organizations, including purpose, potential funders, advisors, and users.
+- Collaborate with recruiters to identify and pitch founders for new organizations.
+- Connect potential founders with funders and stakeholders to launch viable organizations.
+
+[Apply →](https://atlascomputing.org/jobs/field-strategist.pdf)
+
+---
+*Posted 2026-04-16 · Last updated 2026-05-26 · 80k job ID `recNMoYLeDWCI3rBU`*

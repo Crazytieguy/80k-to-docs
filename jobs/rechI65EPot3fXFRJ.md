@@ -1,0 +1,35 @@
+---
+title: "Project Manager, AI Governance Training"
+employer: "AI Safety Asia"
+job_id: "rechI65EPot3fXFRJ"
+last_updated: "2026-05-26T16:24:30.149939Z"
+posted_at: "2026-04-10T00:00:00Z"
+status: ready
+apply_url: "https://docs.google.com/document/d/1VksXTjn44bpX6FNEMqLCSzjtDecvP8Vf_1Mztxh1LU8/edit?usp=sharing"
+areas:
+  - "AI safety & policy"
+---
+
+# Project Manager, AI Governance Training
+
+**[AI Safety Asia](https://www.aisafety.asia/)**
+
+- **Location:** Jakarta, Indonesia, Indonesia, Asia
+- **Role type:** Full-time
+- **Experience:** Junior (1-4 years experience)
+- **Degree:** Undergraduate degree or less
+
+## Tags
+AI safety & policy, Operations
+
+## Summary
+- In this role, you'll lead operational delivery of AI governance training programs across ASEAN.
+- Plan and execute training programs for government officials and civil society leaders across the region.
+- Manage program logistics including scheduling, budgets, travel coordination, and materials preparation.
+- Coordinate with trainers, facilitators, and stakeholders to ensure smooth program delivery.
+- Track metrics, collect feedback, and contribute to continuous improvement of training content.
+
+[Apply →](https://docs.google.com/document/d/1VksXTjn44bpX6FNEMqLCSzjtDecvP8Vf_1Mztxh1LU8/edit?usp=sharing)
+
+---
+*Posted 2026-04-10 · Last updated 2026-05-26 · 80k job ID `rechI65EPot3fXFRJ`*
