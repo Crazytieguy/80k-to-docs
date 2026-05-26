@@ -25,7 +25,7 @@ export function renderIndex(args: {
   lines.push(`- **Last run:** ${args.lastRunUtc}`);
   lines.push("");
   lines.push(
-    "_See [README.md](./README.md) for how this is built. Source: [`.github/workflows/sync.yml`](./.github/workflows/sync.yml)._",
+    "_See [README](./README.md) for how this is built. Source: [GitHub repo](https://github.com/Crazytieguy/80k-to-docs)._",
   );
   lines.push("");
 

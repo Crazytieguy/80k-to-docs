@@ -1,6 +1,8 @@
 # 80k → Docs
 
-Daily GitHub Actions cron that mirrors **AI-safety job postings** from the [80,000 Hours job board](https://jobs.80000hours.org/) into this repo as a folder of markdown files. The whole archive is browsable here on GitHub. **[Browse the live index →](./INDEX.md)**
+Daily GitHub Actions cron that mirrors **AI-safety job postings** from the [80,000 Hours job board](https://jobs.80000hours.org/) into this repo as a folder of markdown files.
+
+**[→ Browse the archive at crazytieguy.github.io/80k-to-docs](https://crazytieguy.github.io/80k-to-docs/)** (GitHub Pages, auto-deployed on every commit). The raw markdown is at [`index.md`](./index.md) and [`jobs/`](./jobs/).
 
 ## Why a markdown archive (not Google Docs)?
 

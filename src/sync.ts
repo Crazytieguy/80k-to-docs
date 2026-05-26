@@ -9,7 +9,8 @@ import type { Job, JobFrontmatter } from "./types.ts";
 const ROOT = resolve(dirname(fileURLToPath(import.meta.url)), "..");
 const JOBS_DIR = join(ROOT, "jobs");
 const CLOSED_DIR = join(JOBS_DIR, "closed");
-const INDEX_PATH = join(ROOT, "INDEX.md");
+// Lowercase `index.md` so GitHub Pages serves it as the site root.
+const INDEX_PATH = join(ROOT, "index.md");
 
 interface OnDisk {
   jobId: string;

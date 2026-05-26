@@ -1,0 +1,21 @@
+title: 80,000 Hours — AI Safety Jobs Archive
+description: Daily-refreshed mirror of AI-safety job postings from the 80,000 Hours job board.
+theme: jekyll-theme-minimal
+
+plugins:
+  - jekyll-relative-links
+
+# Auto-rewrite [text](./jobs/X.md) links to point at the rendered HTML page.
+relative_links:
+  enabled: true
+  collections: false
+
+# Don't waste build time on dev-only files.
+exclude:
+  - node_modules
+  - src
+  - test
+  - .github
+  - package.json
+  - pnpm-lock.yaml
+  - tsconfig.json
