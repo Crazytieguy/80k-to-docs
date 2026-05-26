@@ -1,0 +1,33 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>{% if page.url == "/" %}{{ site.title }}{% else %}{{ page.title | default: page.name }} — {{ site.title }}{% endif %}</title>
+  <meta name="description" content="{{ site.description }}">
+  <link rel="stylesheet" href="{{ '/assets/css/main.css' | relative_url }}">
+</head>
+<body class="{% if page.url == '/' %}is-index{% else %}is-job{% endif %}">
+  <header class="site-header">
+    <div class="inner">
+      <a href="{{ '/' | relative_url }}" class="site-title">{{ site.title }}</a>
+      {% if page.url == "/" %}
+        <input id="filter" type="search" placeholder="Filter by title or employer…" autocomplete="off" spellcheck="false">
+      {% else %}
+        <a href="{{ '/' | relative_url }}" class="back-link">← All jobs</a>
+      {% endif %}
+    </div>
+  </header>
+  <main class="content">
+    {{ content }}
+  </main>
+  <footer class="site-footer">
+    <p>
+      <a href="https://github.com/Crazytieguy/80k-to-docs">Source on GitHub</a>
+      · auto-updated daily at 06:17 UTC
+      · upstream: <a href="https://jobs.80000hours.org/">80,000 Hours job board</a>
+    </p>
+  </footer>
+  {% if page.url == "/" %}<script src="{{ '/assets/js/filter.js' | relative_url }}" defer></script>{% endif %}
+</body>
+</html>

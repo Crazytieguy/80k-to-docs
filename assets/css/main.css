@@ -1,0 +1,120 @@
+/* Reset + base */
+*, *::before, *::after { box-sizing: border-box; }
+html { -webkit-text-size-adjust: 100%; }
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
+  font-size: 16px;
+  line-height: 1.55;
+  color: #1c1e21;
+  background: #fafafa;
+}
+
+a { color: #0a58ca; text-decoration: none; }
+a:hover { text-decoration: underline; }
+
+code, pre { font-family: ui-monospace, SFMono-Regular, Menlo, Consolas, monospace; }
+code { font-size: 0.9em; background: #eef0f3; padding: 0.05em 0.35em; border-radius: 3px; }
+pre { background: #eef0f3; padding: 0.75em 1em; border-radius: 6px; overflow-x: auto; }
+pre code { background: none; padding: 0; }
+
+hr { border: none; border-top: 1px solid #e2e4e8; margin: 2em 0; }
+blockquote {
+  margin: 1em 0;
+  padding: 0.75em 1em;
+  background: #fff4d4;
+  border-left: 4px solid #d4a017;
+  border-radius: 4px;
+}
+blockquote p { margin: 0; }
+
+/* Header */
+.site-header {
+  background: #ffffff;
+  border-bottom: 1px solid #e2e4e8;
+  position: sticky;
+  top: 0;
+  z-index: 10;
+}
+.site-header .inner {
+  max-width: 900px;
+  margin: 0 auto;
+  padding: 0.6em 1em;
+  display: flex;
+  align-items: center;
+  gap: 1em;
+  flex-wrap: wrap;
+}
+.site-title {
+  font-weight: 600;
+  font-size: 1.05em;
+  color: #1c1e21;
+  white-space: nowrap;
+}
+.site-title:hover { text-decoration: none; color: #0a58ca; }
+#filter {
+  flex: 1;
+  min-width: 12em;
+  padding: 0.45em 0.7em;
+  font-size: 1em;
+  border: 1px solid #d0d5dd;
+  border-radius: 6px;
+  background: #fafafa;
+}
+#filter:focus { outline: 2px solid #0a58ca; outline-offset: -1px; border-color: #0a58ca; }
+.back-link { font-size: 0.95em; }
+
+/* Main content */
+.content {
+  max-width: 900px;
+  margin: 0 auto;
+  padding: 1.25em 1em 2em;
+}
+h1 { font-size: 1.8em; margin: 0.4em 0 0.4em; line-height: 1.2; }
+h2 { font-size: 1.3em; margin: 1.4em 0 0.5em; padding-top: 0.2em; border-top: 1px solid #eef0f3; }
+h3 { font-size: 1.1em; margin: 1.4em 0 0.4em; color: #2d3748; }
+h3 .count { color: #6b7280; font-weight: 500; font-size: 0.92em; }
+
+/* On the index page, lists are job rows — tighten them up */
+.is-index .content ul { list-style: none; padding-left: 0; margin: 0.25em 0 0.5em; }
+.is-index .content ul li {
+  padding: 0.25em 0;
+  border-bottom: 1px solid #f0f1f4;
+  font-size: 0.96em;
+}
+.is-index .content ul li:last-child { border-bottom: none; }
+.is-index .content ul li code {
+  color: #6b7280;
+  background: none;
+  font-size: 0.88em;
+  padding: 0;
+  margin-right: 0.35em;
+}
+.is-index .content ul li.is-hidden { display: none; }
+.is-index .content h3.is-empty { display: none; }
+.is-index .content h2.is-empty { display: none; }
+
+/* Job pages — looser, more readable */
+.is-job .content ul { padding-left: 1.4em; }
+.is-job .content li { margin: 0.15em 0; }
+.is-job em { color: #6b7280; }
+
+/* Footer */
+.site-footer {
+  border-top: 1px solid #e2e4e8;
+  background: #ffffff;
+  padding: 1em;
+  text-align: center;
+  font-size: 0.9em;
+  color: #6b7280;
+}
+.site-footer a { color: #6b7280; text-decoration: underline; }
+
+/* No-match state */
+#no-matches {
+  display: none;
+  color: #6b7280;
+  font-style: italic;
+  padding: 1em 0;
+}
+#no-matches.is-shown { display: block; }
