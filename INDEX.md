@@ -5,7 +5,7 @@ Daily-refreshed mirror of AI-safety job postings from the [80,000 Hours job boar
 - **Active:** 454
 - **Closed (archived):** 0
 - **Filter:** AI safety & policy, AI technical safety, AI governance
-- **Last run:** 2026-05-26T23:15:48.567Z
+- **Last run:** 2026-05-26T23:19:48.271Z
 
 _See [README.md](./README.md) for how this is built. Source: [`.github/workflows/sync.yml`](./.github/workflows/sync.yml)._
 
