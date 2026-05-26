@@ -1,0 +1,37 @@
+---
+title: "Researcher"
+employer: "Fairer Fields"
+job_id: "recv9aRnEqpoowVAF"
+last_updated: "2026-05-26T16:23:46.239106Z"
+posted_at: "2026-05-20T00:00:00Z"
+status: ready
+apply_url: "https://docs.google.com/document/d/1EJ1__BnTsA_-3O5J5CxUEpL6tz4kXMJ2nyKv-sI44Bo/edit?tab=t.0"
+areas:
+  - "Animal welfare"
+---
+
+# Researcher
+
+**[Fairer Fields](https://fairerfields.org/)**
+
+- **Location:** Remote, USA, USA
+- **Role type:** Full-time
+- **Experience:** Junior (1-4 years experience)
+- **Degree:** Undergraduate degree or less
+- **Salary:** $75,000 – $110,000
+- **Location type:** Remote
+
+## Tags
+Animal welfare, Research
+
+## Summary
+- In this role, you'll coordinate external research and desk research on insecticides and insect anesthetics for humane agriculture.
+- Design and oversee scientific research studies conducted by external academic labs via contracts.
+- Interpret research on insecticides, insect neuroscience, animal welfare, and agricultural science.
+- Meet with and interview external experts in agriculture, insect physiology, and insecticide production.
+- Travel to academic conferences 4-6 times annually to build relationships and landscape knowledge.
+
+[Apply →](https://docs.google.com/document/d/1EJ1__BnTsA_-3O5J5CxUEpL6tz4kXMJ2nyKv-sI44Bo/edit?tab=t.0)
+
+---
+*Posted 2026-05-20 · Last updated 2026-05-26 · 80k job ID `recv9aRnEqpoowVAF`*

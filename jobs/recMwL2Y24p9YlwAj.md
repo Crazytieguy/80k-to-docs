@@ -1,0 +1,37 @@
+---
+title: "IT Associate / Senior IT Associate"
+employer: "Coefficient Giving"
+job_id: "recMwL2Y24p9YlwAj"
+last_updated: "2026-05-26T16:24:00.944153Z"
+posted_at: "2026-05-11T00:04:04Z"
+status: ready
+apply_url: "https://jobs.ashbyhq.com/coefficientgiving/5d062038-7c3b-46a8-a6db-6806b1495698"
+areas:
+  - "Macrostrategy"
+---
+
+# IT Associate / Senior IT Associate
+
+**[Coefficient Giving](https://coefficientgiving.org/)**
+
+- **Location:** Remote, Global, Remote, USA, USA
+- **Role type:** Full-time
+- **Experience:** Multiple experience levels
+- **Degree:** Undergraduate degree or less
+- **Salary:** $130,525 – $155,825
+- **Location type:** Remote
+
+## Tags
+Macrostrategy, Operations, Information security, Management
+
+## Summary
+- In this role, you'll maintain IT infrastructure, provide technical support, and manage helpdesk operations in a fully remote, macOS environment.
+- Resolve technical issues promptly and support staff to ensure smooth operations.
+- Implement security measures, device management, and cloud security to protect organisational data.
+- Identify and implement productivity-enhancing technologies while coordinating with external vendors.
+- Own IT special projects including security tooling, business apps, and workflow migrations.
+
+[Apply →](https://jobs.ashbyhq.com/coefficientgiving/5d062038-7c3b-46a8-a6db-6806b1495698)
+
+---
+*Posted 2026-05-11 · Last updated 2026-05-26 · 80k job ID `recMwL2Y24p9YlwAj`*

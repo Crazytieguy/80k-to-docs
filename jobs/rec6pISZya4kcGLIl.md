@@ -1,0 +1,37 @@
+---
+title: "Growth Marketing Specialist"
+employer: "Marketing Growth Lab"
+job_id: "rec6pISZya4kcGLIl"
+last_updated: "2026-05-26T16:24:38.386790Z"
+posted_at: "2026-03-26T00:00:00Z"
+status: ready
+apply_url: "https://docs.google.com/document/d/14En9ZhajBHIaM_iwn0m9vbTRIn0-Az-QrnOpjiRM7fc/edit?tab=t.0#heading=h.vzc1qkrp058y"
+areas:
+  - "Building effective altruism"
+---
+
+# Growth Marketing Specialist
+
+**[Marketing Growth Lab](https://marketinggrowthlab.com/)**
+
+- **Location:** Remote, Global
+- **Role type:** Part-time
+- **Experience:** Junior (1-4 years experience)
+- **Degree:** Undergraduate degree or less
+- **Salary:** $60,285 – $75,356
+- **Location type:** Remote
+
+## Tags
+Building effective altruism, Outreach
+
+## Summary
+- In this role, you'll drive conversion growth by auditing funnels, identifying opportunities, and implementing data-driven marketing strategies.
+- Audit and optimize Google Analytics (GA4) setups, diagnose tracking gaps, and translate performance data into recommendations.
+- Manage and optimize Google Ads campaigns to improve ROAS, CPA, and conversion rates.
+- Conduct keyword research and on-page optimization to increase organic traffic and conversions.
+- Design landing pages and conversion-focused visuals in Canva while collaborating on strategy.
+
+[Apply →](https://docs.google.com/document/d/14En9ZhajBHIaM_iwn0m9vbTRIn0-Az-QrnOpjiRM7fc/edit?tab=t.0#heading=h.vzc1qkrp058y)
+
+---
+*Posted 2026-03-26 · Last updated 2026-05-26 · 80k job ID `rec6pISZya4kcGLIl`*

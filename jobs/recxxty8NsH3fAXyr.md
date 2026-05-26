@@ -1,0 +1,35 @@
+---
+title: "Campaign Associate"
+employer: "Animal Equality"
+job_id: "recxxty8NsH3fAXyr"
+last_updated: "2026-05-26T16:25:36.437132Z"
+posted_at: "2022-01-02T00:00:00Z"
+status: ready
+apply_url: "https://igualdadanimal.mx/empleos/oferta-de-empleo-asociado-de-campanas/"
+areas:
+  - "Animal welfare"
+---
+
+# Campaign Associate
+
+**[Animal Equality](https://animalequality.org/)**
+
+- **Location:** Mexico City, Mexico, Mexico
+- **Role type:** Full-time
+- **Experience:** Junior (1-4 years experience)
+- **Degree:** Undergraduate degree or less
+
+## Tags
+Animal welfare, Outreach
+
+## Summary
+- In this role, you'll create and execute campaigns targeting food companies to implement animal welfare policies.
+- Develop campaign strategies and calendars to meet corporate and government objectives.
+- Research institutions, analyzing corporate structures and animal protection regulations.
+- Mobilize volunteer networks through calls, emails, and social media directed at key decision-makers.
+- Manage logistics for ads, mobile billboards, demonstrations, and petition deliveries.
+
+[Apply →](https://igualdadanimal.mx/empleos/oferta-de-empleo-asociado-de-campanas/)
+
+---
+*Posted 2022-01-02 · Last updated 2026-05-26 · 80k job ID `recxxty8NsH3fAXyr`*

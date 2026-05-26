@@ -1,0 +1,33 @@
+---
+title: "Federal Internship Finder"
+employer: "Partnership for Public Service"
+job_id: "recqvqiM4Og179k8L"
+last_updated: "2026-05-26T16:25:45.471408Z"
+posted_at: "2022-01-02T00:00:00Z"
+status: ready
+apply_url: "https://gogovernment.org/federal-internship-finder/"
+areas:
+  - "Career development: Policy & government"
+---
+
+# Federal Internship Finder
+
+**[Partnership for Public Service](https://ourpublicservice.org/)**
+
+- **Location:** Washington, DC metro area, USA
+- **Role type:** Internship
+- **Experience:** Entry-level
+- **Degree:** Undergraduate degree or less
+
+## Tags
+Career development: Policy & government, Research, Policy, Operations
+
+## Summary
+- The federal government offers many job opportunities, but they can be difficult to find, track and navigate, complicated by short application windows and information scattered across hundreds of different webpages.
+- The GoGovernment Federal Internship Finder, created by the Partnership for Public Service, helps simplify this search.
+- The tool compiles publicly accessible information about professional and academic opportunities in government for students and recent graduates into one centralized place.
+
+[Apply →](https://gogovernment.org/federal-internship-finder/)
+
+---
+*Posted 2022-01-02 · Last updated 2026-05-26 · 80k job ID `recqvqiM4Og179k8L`*

@@ -1,0 +1,35 @@
+---
+title: "Intern, Operations"
+employer: "Future of Privacy Forum"
+job_id: "recpSKPOywH2v1TDQ"
+last_updated: "2026-05-26T16:25:41.126346Z"
+posted_at: "2022-01-02T00:00:00Z"
+status: ready
+apply_url: "https://fpf.org/operations-internships/"
+areas:
+  - "Career development"
+---
+
+# Intern, Operations
+
+**[Future of Privacy Forum](https://fpf.org/)**
+
+- **Location:** Washington, DC metro area, USA
+- **Role type:** Internship
+- **Experience:** Entry-level
+- **Degree:** Undergraduate degree or less
+
+## Tags
+Career development, Policy, Operations
+
+## Summary
+- In this role, you'll support the Operations team at the Future of Privacy Forum, gaining hands-on experience in various aspects of non-profit business operations.
+- Assist with program management and membership initiatives for a privacy-focused organization.
+- Contribute to planning and execution of events and communications strategies.
+- Support human resources processes and information technology functions.
+- Work part-time in Washington DC, collaborating with staff on specific operational projects.
+
+[Apply →](https://fpf.org/operations-internships/)
+
+---
+*Posted 2022-01-02 · Last updated 2026-05-26 · 80k job ID `recpSKPOywH2v1TDQ`*

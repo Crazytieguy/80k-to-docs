@@ -1,0 +1,34 @@
+---
+title: "Program Manager, Malaria"
+employer: "Clinton Health Access Initiative"
+job_id: "recQGC332uwjbGbds"
+last_updated: "2026-05-26T16:25:51.087049Z"
+posted_at: "2022-01-01T00:00:00Z"
+status: ready
+apply_url: "https://careers-chai.icims.com/jobs/14150/program-manager%2c-malaria/job?in_iframe=1"
+areas:
+  - "Global health & development"
+---
+
+# Program Manager, Malaria
+
+**[Clinton Health Access Initiative](https://www.clintonhealthaccess.org/)**
+
+- **Location:** Hanoi, Vietnam, Asia, Vietnam
+- **Role type:** Full-time
+- **Experience:** Mid (5-9 years experience)
+- **Degree:** Undergraduate degree or less
+
+## Tags
+Global health & development, Strategy
+
+## Summary
+- In this role, you'll lead the Vietnam CHAI malaria team, overseeing support to national health entities to optimise strategies for malaria elimination.
+- Oversee the design and scale-up of the disease surveillance system to ensure rapid and accurate malaria data reporting.
+- Support the government in updating national guidelines and policies to align with elimination goals.
+- Assist the Ministry of Health in identifying funding sources to address gaps in the national malaria strategic plan.
+
+[Apply →](https://careers-chai.icims.com/jobs/14150/program-manager%2c-malaria/job?in_iframe=1)
+
+---
+*Posted 2022-01-01 · Last updated 2026-05-26 · 80k job ID `recQGC332uwjbGbds`*

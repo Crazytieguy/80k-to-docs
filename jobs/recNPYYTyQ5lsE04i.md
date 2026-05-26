@@ -1,0 +1,35 @@
+---
+title: "Team Lead, Analytical Development"
+employer: "Vaxxas"
+job_id: "recNPYYTyQ5lsE04i"
+last_updated: "2026-05-26T16:24:02.612350Z"
+posted_at: "2026-05-11T00:00:00Z"
+status: ready
+apply_url: "https://au.seek.com/job/91938498"
+areas:
+  - "Biosecurity & pandemic preparedness"
+---
+
+# Team Lead, Analytical Development
+
+**[Vaxxas](https://www.vaxxas.com/)**
+
+- **Location:** Hamilton, Australia, Australia, Oceania
+- **Role type:** Full-time
+- **Experience:** Mid (5-9 years experience)
+- **Degree:** Undergraduate degree or less
+
+## Tags
+Biosecurity & pandemic preparedness, Research, Management
+
+## Summary
+- In this role, you'll lead the Analytical Development team managing clinical vaccine projects while supervising quality testing.
+- Lead analytical training and manage team members to meet clinical project goals and standards.
+- Write and review analytical documentation including validation protocols, stability protocols, and methods to industry standards.
+- Investigate and evaluate new analytical methods, manage change controls, and facilitate out-of-specification investigations.
+- Communicate scientific results and concepts clearly through reports, presentations, and stakeholder engagement.
+
+[Apply →](https://au.seek.com/job/91938498)
+
+---
+*Posted 2026-05-11 · Last updated 2026-05-26 · 80k job ID `recNPYYTyQ5lsE04i`*

@@ -1,0 +1,37 @@
+---
+title: "AI Red Teamer, Frontier AI Safety"
+employer: "July AI"
+job_id: "rec4TRePBiEUOjScU"
+last_updated: "2026-05-26T16:25:43.689103Z"
+posted_at: "2022-01-02T00:00:00Z"
+status: ready
+apply_url: "https://www.notion.so/Use-Your-Creativity-to-Make-a-Frontier-AI-Model-Safer-AI-Red-Teaming-298c6fc4dec280ee956dcb78897f323b"
+areas:
+  - "Career development: Technical"
+---
+
+# AI Red Teamer, Frontier AI Safety
+
+**[July AI](https://www.gojuly.ai/)**
+
+- **Location:** San Francisco Bay Area, Remote, USA, USA
+- **Role type:** Part-time
+- **Experience:** Entry-level
+- **Degree:** Undergraduate degree or less
+- **Salary:** $62,400 – $104,000
+- **Location type:** Remote
+
+## Tags
+Career development: Technical, Other, Information security
+
+## Summary
+- In this role, you'll create adversarial prompts to test and improve the safety of frontier AI models.
+- Write creative scenarios designed to challenge AI systems' boundaries and safety measures.
+- Develop conversation flows that attempt to elicit unsafe or unintended AI responses.
+- Contribute to AI safety infrastructure by identifying potential vulnerabilities in AI models.
+- Apply your storytelling and language skills to help tackle critical AI safety challenges.
+
+[Apply →](https://www.notion.so/Use-Your-Creativity-to-Make-a-Frontier-AI-Model-Safer-AI-Red-Teaming-298c6fc4dec280ee956dcb78897f323b)
+
+---
+*Posted 2022-01-02 · Last updated 2026-05-26 · 80k job ID `rec4TRePBiEUOjScU`*

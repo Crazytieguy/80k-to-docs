@@ -1,0 +1,36 @@
+---
+title: "AI Reporting Grants"
+employer: "Pulitzer Center"
+job_id: "rec3zWgmo0yumiu9e"
+last_updated: "2026-05-26T16:25:30.861677Z"
+posted_at: "2022-01-05T00:00:00Z"
+status: ready
+apply_url: "https://pulitzercenter.org/grants-fellowships/opportunities-journalists/ai-reporting-grants"
+areas:
+  - "Journalism"
+---
+
+# AI Reporting Grants
+
+**[Pulitzer Center](https://pulitzercenter.org/)**
+
+- **Location:** Remote, Global
+- **Role type:** Funding
+- **Experience:** Multiple experience levels
+- **Degree:** Undergraduate degree or less
+- **Location type:** Remote
+
+## Tags
+Journalism, Other
+
+## Summary
+- The Pulitzer Center provides grants for hard costs of reporting projects on AI and surveillance technologies.
+- Grants cover travel expenses, data analysis, local reporting partner fees, and other reporting costs.
+- Freelancers and staff journalists with a commitment from media outlets are eligible.
+- Successful applications often involve collaborations and cross-platform engagement.
+- Applicants need to submit a project description, budget estimate, samples of published work, professional references, and a distribution plan.
+
+[Apply →](https://pulitzercenter.org/grants-fellowships/opportunities-journalists/ai-reporting-grants)
+
+---
+*Posted 2022-01-05 · Last updated 2026-05-26 · 80k job ID `rec3zWgmo0yumiu9e`*

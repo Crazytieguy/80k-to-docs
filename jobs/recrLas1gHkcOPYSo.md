@@ -1,0 +1,37 @@
+---
+title: "Senior Recruiter"
+employer: "GiveWell"
+job_id: "recrLas1gHkcOPYSo"
+last_updated: "2026-05-26T16:24:39.084760Z"
+posted_at: "2026-03-25T00:00:00Z"
+status: ready
+apply_url: "https://grnh.se/vysh3wwe8us"
+areas:
+  - "Global health & development"
+---
+
+# Senior Recruiter
+
+**[GiveWell](https://www.givewell.org)**
+
+- **Location:** Remote, USA, USA
+- **Role type:** Full-time
+- **Experience:** Junior (1-4 years experience), Mid (5-9 years experience)
+- **Degree:** Undergraduate degree or less
+- **Salary:** $136,000 – $149,600
+- **Location type:** Remote
+
+## Tags
+Global health & development, Operations
+
+## Summary
+- In this role, you'll source and recruit exceptional talent across Operations and Outreach functions, maintaining high hiring standards.
+- Partner with hiring managers to define role requirements and guide recruiting processes.
+- Hunt for passive talent through networking, referrals, and targeted outreach to build a strong candidate pipeline.
+- Design hiring infrastructure including job descriptions, interview plans, and assessment tools.
+- Manage full-cycle recruiting and candidate experience while tracking data to improve hiring effectiveness.
+
+[Apply →](https://grnh.se/vysh3wwe8us)
+
+---
+*Posted 2026-03-25 · Last updated 2026-05-26 · 80k job ID `recrLas1gHkcOPYSo`*
