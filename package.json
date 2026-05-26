@@ -1,0 +1,25 @@
+{
+  "name": "80k-to-docs",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "description": "Daily GitHub Actions cron that mirrors 80,000 Hours AI-safety job postings to a Google Drive archive of formatted Google Docs.",
+  "scripts": {
+    "sync": "tsx src/sync.ts",
+    "test": "vitest run",
+    "typecheck": "tsc --noEmit"
+  },
+  "dependencies": {
+    "tsx": "^4.19.2",
+    "zod": "^3.23.8"
+  },
+  "devDependencies": {
+    "@types/node": "^22.10.0",
+    "typescript": "^5.7.0",
+    "vitest": "^2.1.0"
+  },
+  "engines": {
+    "node": ">=22"
+  },
+  "packageManager": "pnpm@10.11.0"
+}

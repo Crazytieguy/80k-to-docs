@@ -1,0 +1,1278 @@
+[
+  {
+    "title": "Anthology Fund",
+    "post": {
+      "company": {
+        "name": "Menlo Ventures",
+        "id_external_80_000_hours": "Menlo Ventures",
+        "description": "",
+        "logo_url": "https://80000hours.org/wp-content/uploads/2026/03/menlo_ventures_logo-160x160.jpeg",
+        "url": "https://menlovc.com/",
+        "linkedin_url": "",
+        "facebook_url": "",
+        "career_page_url": "",
+        "created_at": "2026-03-18T11:24:16.727208Z",
+        "updated_at": "2026-05-22T10:42:18.528504Z",
+        "author": null
+      },
+      "id_external_80_000_hours": "rec0MnpVxV8AKJudj"
+    },
+    "description": "",
+    "description_short": "<ul>\n<li>Pre-Seed, Seed, and Series A investments from the Anthology Fund as lead or participating investors. </li>\n<li>Focus areas include trust and safety tooling that enhances  AI safety and offers scalable, profitable solutions for responsible AI deployment.</li>\n<li>Receive $25,000 in free Anthropic credits, quarterly deep dives, and biannual demo days.</li>\n<li>Benefit from Menlo's investors, services team, and network for company building.</li>\n<li>Join a founder community and access infrastructure credits and fractional workspace.</li>\n</ul>",
+    "url_external": "https://menlovc.com/anthology-fund/?utm_source=80000hours&utm_medium=job-board",
+    "author": null,
+    "closes_at": null,
+    "posted_at": "2026-03-18T00:00:00Z",
+    "created_at": "2026-03-18T11:24:38.485459Z",
+    "updated_at": "2026-05-22T10:43:39.015142Z",
+    "experience_min": null,
+    "experience_avg": null,
+    "salary_min": 0.0,
+    "salary_max": 0.0,
+    "tags_generic": [],
+    "tags_area": [
+      {
+        "pk": 170,
+        "name": "AI safety & policy",
+        "is_featured": true,
+        "link": "https://80000hours.org/problem-profiles/artificial-intelligence/"
+      }
+    ],
+    "tags_degree_required": [
+      {
+        "pk": 165,
+        "name": "Undergraduate degree or less",
+        "is_featured": false,
+        "link": ""
+      }
+    ],
+    "tags_country": [
+      {
+        "pk": 179,
+        "name": "USA",
+        "is_featured": false,
+        "link": ""
+      }
+    ],
+    "tags_city": [],
+    "tags_role_type": [
+      {
+        "pk": 685,
+        "name": "Funding",
+        "is_featured": false,
+        "link": ""
+      }
+    ],
+    "tags_location_type": [],
+    "tags_location_80k": [
+      {
+        "pk": 179,
+        "name": "USA",
+        "is_featured": false,
+        "link": ""
+      }
+    ],
+    "tags_workload": [],
+    "tags_skill": [
+      {
+        "pk": 984,
+        "name": "Strategy",
+        "is_featured": false,
+        "link": ""
+      }
+    ],
+    "tags_immigration": [],
+    "tags_exp_required": [
+      {
+        "pk": 422,
+        "name": "Multiple experience levels",
+        "is_featured": false,
+        "link": ""
+      }
+    ]
+  },
+  {
+    "title": "Senior Research Manager",
+    "post": {
+      "company": {
+        "name": "MATS Research",
+        "id_external_80_000_hours": "MATS Research",
+        "description": "<p>The <a target=\"_blank\" href=\"https://www.matsprogram.org/\">Machine Alignment, Transparency, and Security (MATS) Program</a> is an educational seminar and independent research program that aims to provide talented scholars with talks, workshops, and research mentorship in the field of AI alignment, and connect them with the Berkeley AI safety research community.</p>",
+        "logo_url": "https://80000hours.org/wp-content/uploads/2023/10/MATS-160x160.jpeg",
+        "url": "https://www.matsprogram.org/",
+        "linkedin_url": "",
+        "facebook_url": "",
+        "career_page_url": "https://www.matsprogram.org/jobs/#job-descriptions",
+        "created_at": "2025-12-10T12:13:37.324312Z",
+        "updated_at": "2026-05-22T10:42:20.002889Z",
+        "author": null
+      },
+      "id_external_80_000_hours": "rec9enXKqMpDioTCF"
+    },
+    "description": "",
+    "description_short": "<ul>\n<li>In this role, you'll lead a team of Research Managers supporting AI safety researchers while developing leadership capabilities in a high-impact field.</li>\n<li>Manage and develop Research Managers through weekly 1:1s, providing actionable feedback and driving their professional growth.</li>\n<li>Contribute to research management processes and excellence by piloting and documenting new approaches.</li>\n<li>Ensure scholars complete essential milestones, meet mentor goals, and receive appropriate resources.</li>\n<li>Partner with mentors to clarify research goals and accelerate their mentorship process.</li>\n</ul>",
+    "url_external": "https://www.matsprogram.org/careers/senior-research-manager-berkeley-london?utm_source=80000hours&utm_medium=job-board",
+    "author": null,
+    "closes_at": null,
+    "posted_at": "2022-01-06T00:00:00Z",
+    "created_at": "2026-02-04T12:05:11.033202Z",
+    "updated_at": "2026-05-22T10:44:12.603334Z",
+    "experience_min": 1,
+    "experience_avg": 4,
+    "salary_min": 160000.0,
+    "salary_max": 200000.0,
+    "tags_generic": [],
+    "tags_area": [
+      {
+        "pk": 521,
+        "name": "AI technical safety",
+        "is_featured": false,
+        "link": "https://80000hours.org/career-reviews/ai-safety-researcher/"
+      }
+    ],
+    "tags_degree_required": [
+      {
+        "pk": 165,
+        "name": "Undergraduate degree or less",
+        "is_featured": false,
+        "link": ""
+      }
+    ],
+    "tags_country": [
+      {
+        "pk": 168,
+        "name": "UK",
+        "is_featured": false,
+        "link": ""
+      },
+      {
+        "pk": 179,
+        "name": "USA",
+        "is_featured": false,
+        "link": ""
+      },
+      {
+        "pk": 839,
+        "name": "USA (Confirmed Visas)",
+        "is_featured": false,
+        "link": ""
+      },
+      {
+        "pk": 840,
+        "name": "UK (Confirmed Visas)",
+        "is_featured": false,
+        "link": ""
+      }
+    ],
+    "tags_city": [
+      {
+        "pk": 166,
+        "name": "London, UK",
+        "is_featured": false,
+        "link": ""
+      },
+      {
+        "pk": 196,
+        "name": "San Francisco Bay Area",
+        "is_featured": false,
+        "link": ""
+      }
+    ],
+    "tags_role_type": [
+      {
+        "pk": 342,
+        "name": "Full-time",
+        "is_featured": false,
+        "link": ""
+      }
+    ],
+    "tags_location_type": [],
+    "tags_location_80k": [
+      {
+        "pk": 166,
+        "name": "London, UK",
+        "is_featured": false,
+        "link": ""
+      },
+      {
+        "pk": 168,
+        "name": "UK",
+        "is_featured": false,
+        "link": ""
+      },
+      {
+        "pk": 179,
+        "name": "USA",
+        "is_featured": false,
+        "link": ""
+      },
+      {
+        "pk": 196,
+        "name": "San Francisco Bay Area",
+        "is_featured": false,
+        "link": ""
+      },
+      {
+        "pk": 839,
+        "name": "USA (Confirmed Visas)",
+        "is_featured": false,
+        "link": ""
+      },
+      {
+        "pk": 840,
+        "name": "UK (Confirmed Visas)",
+        "is_featured": false,
+        "link": ""
+      }
+    ],
+    "tags_workload": [],
+    "tags_skill": [
+      {
+        "pk": 174,
+        "name": "Research",
+        "is_featured": false,
+        "link": ""
+      },
+      {
+        "pk": 454,
+        "name": "Management",
+        "is_featured": false,
+        "link": ""
+      }
+    ],
+    "tags_immigration": [],
+    "tags_exp_required": [
+      {
+        "pk": 418,
+        "name": "Junior (1-4 years experience)",
+        "is_featured": false,
+        "link": ""
+      },
+      {
+        "pk": 419,
+        "name": "Mid (5-9 years experience)",
+        "is_featured": false,
+        "link": ""
+      }
+    ]
+  },
+  {
+    "title": "Expression of Interest",
+    "post": {
+      "company": {
+        "name": "Centre for the Governance of AI",
+        "id_external_80_000_hours": "Centre for the Governance of AI",
+        "description": "<p>The <a target=\"_blank\" href=\"https://www.governance.ai/\">Centre for the Governance of AI</a> (GovAI) focuses on building a global research community that\u2019s dedicated to helping humanity navigate the transition to a world with advanced AI. Their work aims to define and map the field of AI governance, and address the most important and neglected research questions. They also run fellowships to support promising early-career researchers working on AI governance.</p>",
+        "logo_url": "https://80000hours.org/wp-content/uploads/2021/12/centre-for-the-governance-of-ai-160x160.jpeg",
+        "url": "https://www.governance.ai/",
+        "linkedin_url": "",
+        "facebook_url": "",
+        "career_page_url": "https://www.governance.ai/opportunities",
+        "created_at": "2022-12-18T12:55:22.436641Z",
+        "updated_at": "2026-05-22T10:42:19.812834Z",
+        "author": null
+      },
+      "id_external_80_000_hours": "recb8Ah6jnkaZHiyn"
+    },
+    "description": "",
+    "description_short": "<ul>\n<li>Express interest in upcoming positions at GovAI.</li>\n</ul>",
+    "url_external": "https://airtable.com/app28VlpRpSMzRs2Q/pagi6elN7olrBGaUn/form?utm_source=80000hours&utm_medium=job-board",
+    "author": null,
+    "closes_at": null,
+    "posted_at": "2022-01-11T00:00:00Z",
+    "created_at": "2026-01-29T09:43:21.171110Z",
+    "updated_at": "2026-05-22T10:43:55.179162Z",
+    "experience_min": null,
+    "experience_avg": null,
+    "salary_min": 0.0,
+    "salary_max": 0.0,
+    "tags_generic": [],
+    "tags_area": [
+      {
+        "pk": 522,
+        "name": "AI governance",
+        "is_featured": false,
+        "link": ""
+      }
+    ],
+    "tags_degree_required": [
+      {
+        "pk": 165,
+        "name": "Undergraduate degree or less",
+        "is_featured": false,
+        "link": ""
+      }
+    ],
+    "tags_country": [
+      {
+        "pk": 365,
+        "name": "Remote, Global",
+        "is_featured": false,
+        "link": ""
+      }
+    ],
+    "tags_city": [
+      {
+        "pk": 365,
+        "name": "Remote, Global",
+        "is_featured": false,
+        "link": ""
+      }
+    ],
+    "tags_role_type": [
+      {
+        "pk": 342,
+        "name": "Full-time",
+        "is_featured": false,
+        "link": ""
+      }
+    ],
+    "tags_location_type": [
+      {
+        "pk": 167,
+        "name": "Remote",
+        "is_featured": false,
+        "link": ""
+      }
+    ],
+    "tags_location_80k": [
+      {
+        "pk": 169,
+        "name": "Global",
+        "is_featured": false,
+        "link": ""
+      },
+      {
+        "pk": 365,
+        "name": "Remote, Global",
+        "is_featured": false,
+        "link": ""
+      }
+    ],
+    "tags_workload": [],
+    "tags_skill": [
+      {
+        "pk": 174,
+        "name": "Research",
+        "is_featured": false,
+        "link": ""
+      },
+      {
+        "pk": 176,
+        "name": "Policy",
+        "is_featured": false,
+        "link": ""
+      },
+      {
+        "pk": 181,
+        "name": "Operations",
+        "is_featured": false,
+        "link": ""
+      }
+    ],
+    "tags_immigration": [],
+    "tags_exp_required": [
+      {
+        "pk": 422,
+        "name": "Multiple experience levels",
+        "is_featured": false,
+        "link": ""
+      }
+    ]
+  },
+  {
+    "title": "Research Program Coordinator",
+    "post": {
+      "company": {
+        "name": "Constellation",
+        "id_external_80_000_hours": "Constellation",
+        "description": "<p><a target=\"_blank\" href=\"https://www.constellation.org/\">Constellation</a> is a center for collaborative research whose mission is to help the world safely navigate the development of transformative AI. They run various upskilling programs for AI safety researchers and manage a co-working space in Berkeley, California.</p>",
+        "logo_url": "https://80000hours.org/wp-content/uploads/2026/03/const_logo-160x160.jpeg",
+        "url": "https://www.constellation.org/",
+        "linkedin_url": "",
+        "facebook_url": "",
+        "career_page_url": "https://www.constellation.org/careers",
+        "created_at": "2023-07-13T08:58:15.850034Z",
+        "updated_at": "2026-05-22T10:42:34.622946Z",
+        "author": null
+      },
+      "id_external_80_000_hours": "recbXPMyUHNb8nS5P"
+    },
+    "description": "",
+    "description_short": "<ul>\n<li>In this role, you'll own the operations and systems that support research programs building the AI safety field's talent pipeline.</li>\n<li>Maintain project plans, documentation, and team coordination systems to keep programs on track.</li>\n<li>Design and improve workflows, team structures, and communication platforms across research programs and their networks.</li>\n<li>Partner with research program managers on event programming, design, and logistics for technical workshops and educational sessions.</li>\n<li>Track process bottlenecks and implement improvements to increase team effectiveness and program quality.</li>\n</ul>",
+    "url_external": "https://jobs.gem.com/constellation-institute/64106250-5fb4-4ff5-b562-cc279c57dc57?utm_source=80000hours&utm_medium=job-board",
+    "author": null,
+    "closes_at": null,
+    "posted_at": "2026-03-05T00:05:00Z",
+    "created_at": "2026-03-05T12:09:03.699126Z",
+    "updated_at": "2026-05-22T10:43:45.130048Z",
+    "experience_min": 1,
+    "experience_avg": 4,
+    "salary_min": 114000.0,
+    "salary_max": 137000.0,
+    "tags_generic": [],
+    "tags_area": [
+      {
+        "pk": 170,
+        "name": "AI safety & policy",
+        "is_featured": true,
+        "link": "https://80000hours.org/problem-profiles/artificial-intelligence/"
+      }
+    ],
+    "tags_degree_required": [
+      {
+        "pk": 165,
+        "name": "Undergraduate degree or less",
+        "is_featured": false,
+        "link": ""
+      }
+    ],
+    "tags_country": [
+      {
+        "pk": 179,
+        "name": "USA",
+        "is_featured": false,
+        "link": ""
+      }
+    ],
+    "tags_city": [
+      {
+        "pk": 196,
+        "name": "San Francisco Bay Area",
+        "is_featured": false,
+        "link": ""
+      }
+    ],
+    "tags_role_type": [
+      {
+        "pk": 342,
+        "name": "Full-time",
+        "is_featured": false,
+        "link": ""
+      }
+    ],
+    "tags_location_type": [],
+    "tags_location_80k": [
+      {
+        "pk": 179,
+        "name": "USA",
+        "is_featured": false,
+        "link": ""
+      },
+      {
+        "pk": 196,
+        "name": "San Francisco Bay Area",
+        "is_featured": false,
+        "link": ""
+      }
+    ],
+    "tags_workload": [],
+    "tags_skill": [
+      {
+        "pk": 181,
+        "name": "Operations",
+        "is_featured": false,
+        "link": ""
+      }
+    ],
+    "tags_immigration": [],
+    "tags_exp_required": [
+      {
+        "pk": 418,
+        "name": "Junior (1-4 years experience)",
+        "is_featured": false,
+        "link": ""
+      }
+    ]
+  },
+  {
+    "title": "Data Engineer, Safeguards",
+    "post": {
+      "company": {
+        "name": "Anthropic",
+        "id_external_80_000_hours": "Anthropic",
+        "description": "<p><a target=\"_blank\" href=\"https://www.anthropic.com/\">Anthropic</a> is a frontier AI research and product company that aims to build reliable, interpretable, and steerable AI systems. Their research interests span multiple areas including natural language, human feedback, scaling laws, reinforcement learning, code generation, and interpretability. Recently announced teams working on safety issues include their <a target=\"_blank\" href=\"https://www.anthropic.com/news/frontier-threats-red-teaming-for-ai-safety\">Frontier Red Team</a> (working on adversarial testing of advanced ML models), and their <a target=\"_blank\" href=\"https://www.alignmentforum.org/posts/EPDSdXr8YbsDkgsDG/introducing-alignment-stress-testing-at-anthropic\">Alignment Stress-Testing Team</a> (working on red-teaming Anthropic's alignment and evaluation efforts).\n<br /> <br />\nWe post specific opportunities at Anthropic that we think may be high impact. We do not necessarily recommend working at other positions at Anthropic. You can read concerns about doing harm by working at a frontier AI company in <a target=\"_blank\" href=\"https://80000hours.org/career-reviews/working-at-an-ai-lab/\">our career review on the topic</a>.</p>",
+        "logo_url": "https://80000hours.org/wp-content/uploads/2024/03/Anthropic-160x160.png",
+        "url": "https://www.anthropic.com/",
+        "linkedin_url": "",
+        "facebook_url": "",
+        "career_page_url": "https://www.anthropic.com/jobs",
+        "created_at": "2022-08-22T16:04:51.293755Z",
+        "updated_at": "2026-05-22T10:42:22.606923Z",
+        "author": null
+      },
+      "id_external_80_000_hours": "recH7wqhSNa2xOdfT"
+    },
+    "description": "",
+    "description_short": "<ul>\n<li>In this role, you'll design and build scalable data pipelines and warehousing solutions for safety monitoring and abuse detection.</li>\n<li>Develop and optimize data models for efficient analysis of large-scale safety data.</li>\n<li>Build dashboards and reporting infrastructure for visibility into model behaviour and misuse patterns.</li>\n<li>Collaborate with engineers to integrate data from multiple sources into a unified analytical layer.</li>\n<li>Implement data quality frameworks and alerting to ensure reliability of safety-critical data.</li>\n</ul>",
+    "url_external": "https://job-boards.greenhouse.io/anthropic/jobs/5156057008?utm_source=80000hours&utm_medium=job-board",
+    "author": null,
+    "closes_at": null,
+    "posted_at": "2026-03-19T00:00:00Z",
+    "created_at": "2026-03-19T11:09:38.433741Z",
+    "updated_at": "2026-05-22T10:43:38.636081Z",
+    "experience_min": 1,
+    "experience_avg": 4,
+    "salary_min": 228209.63714807705,
+    "salary_max": 295330.11866221734,
+    "tags_generic": [],
+    "tags_area": [
+      {
+        "pk": 170,
+        "name": "AI safety & policy",
+        "is_featured": true,
+        "link": "https://80000hours.org/problem-profiles/artificial-intelligence/"
+      }
+    ],
+    "tags_degree_required": [
+      {
+        "pk": 165,
+        "name": "Undergraduate degree or less",
+        "is_featured": false,
+        "link": ""
+      }
+    ],
+    "tags_country": [
+      {
+        "pk": 168,
+        "name": "UK",
+        "is_featured": false,
+        "link": ""
+      },
+      {
+        "pk": 840,
+        "name": "UK (Confirmed Visas)",
+        "is_featured": false,
+        "link": ""
+      }
+    ],
+    "tags_city": [
+      {
+        "pk": 166,
+        "name": "London, UK",
+        "is_featured": false,
+        "link": ""
+      }
+    ],
+    "tags_role_type": [
+      {
+        "pk": 342,
+        "name": "Full-time",
+        "is_featured": false,
+        "link": ""
+      }
+    ],
+    "tags_location_type": [],
+    "tags_location_80k": [
+      {
+        "pk": 166,
+        "name": "London, UK",
+        "is_featured": false,
+        "link": ""
+      },
+      {
+        "pk": 168,
+        "name": "UK",
+        "is_featured": false,
+        "link": ""
+      },
+      {
+        "pk": 840,
+        "name": "UK (Confirmed Visas)",
+        "is_featured": false,
+        "link": ""
+      }
+    ],
+    "tags_workload": [],
+    "tags_skill": [
+      {
+        "pk": 333,
+        "name": "Software engineering",
+        "is_featured": false,
+        "link": "https://80000hours.org/career-reviews/software-engineering/"
+      }
+    ],
+    "tags_immigration": [],
+    "tags_exp_required": [
+      {
+        "pk": 418,
+        "name": "Junior (1-4 years experience)",
+        "is_featured": false,
+        "link": ""
+      }
+    ]
+  },
+  {
+    "title": "List of Staff Opportunities, U.S. Senate",
+    "post": {
+      "company": {
+        "name": "US Government, Senate",
+        "id_external_80_000_hours": "US Government, Senate",
+        "description": "",
+        "logo_url": "https://80000hours.org/wp-content/uploads/2020/05/US-senate-160x160.png",
+        "url": "https://www.senate.gov/",
+        "linkedin_url": "",
+        "facebook_url": "",
+        "career_page_url": "https://www.usajobs.gov/",
+        "created_at": "2023-01-09T10:42:31.206085Z",
+        "updated_at": "2026-05-22T10:42:32.982003Z",
+        "author": null
+      },
+      "id_external_80_000_hours": "recFZtf6iBYl56gII"
+    },
+    "description": "",
+    "description_short": "<ul>\n<li>You can find opportunities working in offices within the United States Senate via the The Senate Employment Bulletin. </li>\n<li>This is published as a service to Senate offices choosing to advertise staff vacancies. </li>\n<li>Click \"View Full List\" to go to the listings.</li>\n</ul>",
+    "url_external": "https://www.senate.gov/employment/po/positions.htm?utm_source=80000hours&utm_medium=job-board",
+    "author": null,
+    "closes_at": null,
+    "posted_at": "2026-05-19T00:00:00Z",
+    "created_at": "2023-01-12T12:08:50.817984Z",
+    "updated_at": "2026-05-22T10:42:45.937298Z",
+    "experience_min": null,
+    "experience_avg": null,
+    "salary_min": 0.0,
+    "salary_max": 0.0,
+    "tags_generic": [],
+    "tags_area": [
+      {
+        "pk": 567,
+        "name": "Congressional staffer",
+        "is_featured": false,
+        "link": "https://80000hours.org/career-reviews/congressional-staffer/"
+      },
+      {
+        "pk": 1041,
+        "name": "Career development: Policy & government",
+        "is_featured": false,
+        "link": ""
+      }
+    ],
+    "tags_degree_required": [
+      {
+        "pk": 165,
+        "name": "Undergraduate degree or less",
+        "is_featured": false,
+        "link": ""
+      }
+    ],
+    "tags_country": [
+      {
+        "pk": 179,
+        "name": "USA",
+        "is_featured": false,
+        "link": ""
+      }
+    ],
+    "tags_city": [
+      {
+        "pk": 178,
+        "name": "Washington, DC metro area",
+        "is_featured": false,
+        "link": ""
+      }
+    ],
+    "tags_role_type": [
+      {
+        "pk": 342,
+        "name": "Full-time",
+        "is_featured": false,
+        "link": ""
+      }
+    ],
+    "tags_location_type": [],
+    "tags_location_80k": [
+      {
+        "pk": 178,
+        "name": "Washington, DC metro area",
+        "is_featured": false,
+        "link": ""
+      },
+      {
+        "pk": 179,
+        "name": "USA",
+        "is_featured": false,
+        "link": ""
+      }
+    ],
+    "tags_workload": [],
+    "tags_skill": [
+      {
+        "pk": 174,
+        "name": "Research",
+        "is_featured": false,
+        "link": ""
+      },
+      {
+        "pk": 176,
+        "name": "Policy",
+        "is_featured": false,
+        "link": ""
+      },
+      {
+        "pk": 181,
+        "name": "Operations",
+        "is_featured": false,
+        "link": ""
+      },
+      {
+        "pk": 567,
+        "name": "Congressional staffer",
+        "is_featured": false,
+        "link": "https://80000hours.org/career-reviews/congressional-staffer/"
+      }
+    ],
+    "tags_immigration": [],
+    "tags_exp_required": [
+      {
+        "pk": 422,
+        "name": "Multiple experience levels",
+        "is_featured": false,
+        "link": ""
+      }
+    ]
+  },
+  {
+    "title": "Senior / Principal Policy Specialist",
+    "post": {
+      "company": {
+        "name": "The Good Food Institute",
+        "id_external_80_000_hours": "The Good Food Institute",
+        "description": "<p><a target=\"_blank\" href=\"https://www.gfi.org\">The Good Food Institute</a> (GFI) is a nonprofit think tank that aims to make the global food system better for the planet, people, and animals. Alongside scientists, businesses, and policymakers, GFI\u2019s teams focus on trying to make plant-based and cultivated meat delicious, affordable, and accessible.</p>",
+        "logo_url": "https://80000hours.org/wp-content/uploads/2021/05/good-food-institute-160x160.png",
+        "url": "https://www.gfi.org",
+        "linkedin_url": "",
+        "facebook_url": "",
+        "career_page_url": "https://www.gfi.org/jobs",
+        "created_at": "2022-08-22T16:04:50.700425Z",
+        "updated_at": "2026-05-22T10:42:21.477795Z",
+        "author": null
+      },
+      "id_external_80_000_hours": "recT7BHJl3wLsdbcI"
+    },
+    "description": "",
+    "description_short": "<ul>\n<li>In this role, you'll lead GFI Korea's policy work with the Korean government to advance alternative proteins through advocacy and regulatory engagement.</li>\n<li>Develop and implement policy strategies for alternative proteins at national and provincial levels.</li>\n<li>Build relationships with senior politicians, officials, and stakeholders across government institutions.</li>\n<li>Represent GFI Korea's positions through written submissions, presentations, and direct government engagement.</li>\n</ul>",
+    "url_external": "https://gfi.org/resource/policy-specialist-senior-to-principal-level/?utm_source=80000hours&utm_medium=job-board",
+    "author": null,
+    "closes_at": "2026-06-21T00:00:00Z",
+    "posted_at": "2026-05-20T00:00:00Z",
+    "created_at": "2026-05-20T11:28:34.235440Z",
+    "updated_at": "2026-05-22T10:42:42.484594Z",
+    "experience_min": 5,
+    "experience_avg": 9,
+    "salary_min": 59304.936482469166,
+    "salary_max": 94228.95463325655,
+    "tags_generic": [],
+    "tags_area": [
+      {
+        "pk": 813,
+        "name": "Animal welfare",
+        "is_featured": false,
+        "link": "https://80000hours.org/problem-profiles/factory-farming/"
+      }
+    ],
+    "tags_degree_required": [
+      {
+        "pk": 165,
+        "name": "Undergraduate degree or less",
+        "is_featured": false,
+        "link": ""
+      }
+    ],
+    "tags_country": [
+      {
+        "pk": 488,
+        "name": "Asia",
+        "is_featured": false,
+        "link": ""
+      },
+      {
+        "pk": 1133,
+        "name": "Korea",
+        "is_featured": false,
+        "link": ""
+      }
+    ],
+    "tags_city": [
+      {
+        "pk": 1132,
+        "name": "Remote, Korea",
+        "is_featured": false,
+        "link": ""
+      }
+    ],
+    "tags_role_type": [
+      {
+        "pk": 342,
+        "name": "Full-time",
+        "is_featured": false,
+        "link": ""
+      }
+    ],
+    "tags_location_type": [
+      {
+        "pk": 167,
+        "name": "Remote",
+        "is_featured": false,
+        "link": ""
+      }
+    ],
+    "tags_location_80k": [
+      {
+        "pk": 488,
+        "name": "Asia",
+        "is_featured": false,
+        "link": ""
+      },
+      {
+        "pk": 1132,
+        "name": "Remote, Korea",
+        "is_featured": false,
+        "link": ""
+      },
+      {
+        "pk": 1133,
+        "name": "Korea",
+        "is_featured": false,
+        "link": ""
+      }
+    ],
+    "tags_workload": [],
+    "tags_skill": [
+      {
+        "pk": 176,
+        "name": "Policy",
+        "is_featured": false,
+        "link": ""
+      }
+    ],
+    "tags_immigration": [],
+    "tags_exp_required": [
+      {
+        "pk": 419,
+        "name": "Mid (5-9 years experience)",
+        "is_featured": false,
+        "link": ""
+      },
+      {
+        "pk": 421,
+        "name": "Senior (10+ years experience)",
+        "is_featured": false,
+        "link": ""
+      }
+    ]
+  },
+  {
+    "title": "Partnership Lead, Clinical Trial Abundance",
+    "post": {
+      "company": {
+        "name": "1Day Sooner",
+        "id_external_80_000_hours": "1Day Sooner",
+        "description": "<p><a target=\"_blank\" href=\"https://www.onedaysooner.org/\">1Day Sooner</a> (1Day) is a nonprofit that advocates for people who participate and want to participate in high-impact medical studies. They particularly focus on human challenge trials, where healthy volunteers are infected with a disease to test a vaccine, treatment, or to learn other important information. They also work on advocacy and research for advanced market commitments, indoor air quality, and global health equity.</p>",
+        "logo_url": "https://80000hours.org/wp-content/uploads/2020/08/1day-sooner-160x160.png",
+        "url": "https://www.onedaysooner.org/",
+        "linkedin_url": "",
+        "facebook_url": "",
+        "career_page_url": "https://www.onedaysooner.org/jobs",
+        "created_at": "2025-12-09T00:06:17.596835Z",
+        "updated_at": "2026-05-22T10:42:34.841531Z",
+        "author": null
+      },
+      "id_external_80_000_hours": "recwPViIerXZP6aQb"
+    },
+    "description": "",
+    "description_short": "<ul>\n<li>In this role, you'll build and maintain 1Day's non-government coalition to drive clinical trial reform.</li>\n<li>Develop relationships with academic experts, think tanks, patient advocacy groups, industry, and philanthropists.</li>\n<li>Source and broker opportunities by understanding partner needs and connecting them with support or other partners.</li>\n<li>Recruit partner organisations as signatories and supporters for 1Day's policy campaigns and convenings.</li>\n<li>Represent 1Day publicly at meetings and convenings across the clinical trial reform field.</li>\n</ul>",
+    "url_external": "https://www.1daysooner.org/jobs/?utm_source=80000hours&utm_medium=job-board",
+    "author": null,
+    "closes_at": null,
+    "posted_at": "2026-05-20T00:02:00Z",
+    "created_at": "2026-05-20T11:28:27.898780Z",
+    "updated_at": "2026-05-22T10:42:40.448223Z",
+    "experience_min": 5,
+    "experience_avg": 9,
+    "salary_min": 100000.0,
+    "salary_max": 145000.0,
+    "tags_generic": [],
+    "tags_area": [
+      {
+        "pk": 199,
+        "name": "Biosecurity & pandemic preparedness",
+        "is_featured": true,
+        "link": "https://80000hours.org/problem-profiles/preventing-catastrophic-pandemics/"
+      },
+      {
+        "pk": 455,
+        "name": "Global health & development",
+        "is_featured": false,
+        "link": "https://80000hours.org/problem-profiles/health-in-poor-countries/"
+      }
+    ],
+    "tags_degree_required": [
+      {
+        "pk": 165,
+        "name": "Undergraduate degree or less",
+        "is_featured": false,
+        "link": ""
+      }
+    ],
+    "tags_country": [
+      {
+        "pk": 179,
+        "name": "USA",
+        "is_featured": false,
+        "link": ""
+      }
+    ],
+    "tags_city": [
+      {
+        "pk": 178,
+        "name": "Washington, DC metro area",
+        "is_featured": false,
+        "link": ""
+      },
+      {
+        "pk": 368,
+        "name": "Remote, USA",
+        "is_featured": false,
+        "link": ""
+      }
+    ],
+    "tags_role_type": [
+      {
+        "pk": 342,
+        "name": "Full-time",
+        "is_featured": false,
+        "link": ""
+      }
+    ],
+    "tags_location_type": [
+      {
+        "pk": 167,
+        "name": "Remote",
+        "is_featured": false,
+        "link": ""
+      }
+    ],
+    "tags_location_80k": [
+      {
+        "pk": 178,
+        "name": "Washington, DC metro area",
+        "is_featured": false,
+        "link": ""
+      },
+      {
+        "pk": 179,
+        "name": "USA",
+        "is_featured": false,
+        "link": ""
+      },
+      {
+        "pk": 368,
+        "name": "Remote, USA",
+        "is_featured": false,
+        "link": ""
+      }
+    ],
+    "tags_workload": [],
+    "tags_skill": [
+      {
+        "pk": 176,
+        "name": "Policy",
+        "is_featured": false,
+        "link": ""
+      },
+      {
+        "pk": 180,
+        "name": "Outreach",
+        "is_featured": false,
+        "link": ""
+      }
+    ],
+    "tags_immigration": [],
+    "tags_exp_required": [
+      {
+        "pk": 419,
+        "name": "Mid (5-9 years experience)",
+        "is_featured": false,
+        "link": ""
+      }
+    ]
+  },
+  {
+    "title": "Senior Researcher",
+    "post": {
+      "company": {
+        "name": "GiveWell",
+        "id_external_80_000_hours": "GiveWell",
+        "description": "<p><a target=\"_blank\" href=\"https://www.givewell.org\">GiveWell</a> is a nonprofit dedicated to finding outstanding giving opportunities and publishing the full details of their analysis to help donors decide where to give. On an annual basis, they recommend a shortlist of top charities in global health and development which they believe can save or improve the greatest number of lives per dollar donated. </p>",
+        "logo_url": "https://cdn.80000hours.org/wp-content/uploads/2017/03/GiveWell_square-160x160.jpg",
+        "url": "https://www.givewell.org",
+        "linkedin_url": "",
+        "facebook_url": "",
+        "career_page_url": "http://www.givewell.org/about/jobs",
+        "created_at": "2022-08-22T16:04:51.375562Z",
+        "updated_at": "2026-05-22T10:42:22.052192Z",
+        "author": null
+      },
+      "id_external_80_000_hours": "reciuWp0thykbtSat"
+    },
+    "description": "",
+    "description_short": "<ul>\n<li>Senior Researchers at GiveWell are responsible for finding, researching, and recommending high-impact giving opportunities.</li>\n<li>Lead on conducting research to identify outstanding programs and explore questions that affect program evaluation and prioritization.</li>\n<li>Own complicated questions that inform analysis, such as improving cost-effectiveness modeling and prioritizing different program outcomes.</li>\n<li>Leverage skills in critical research review, empirical analysis, modeling, and logical reasoning to make practical recommendations.</li>\n<li>Communicate findings clearly, ask probing questions, and execute research that withstands scrutiny over time.</li>\n</ul>",
+    "url_external": "https://job-boards.greenhouse.io/givewell/jobs/4253692008?utm_source=80000hours&utm_medium=job-board",
+    "author": null,
+    "closes_at": null,
+    "posted_at": "2022-01-07T00:00:00Z",
+    "created_at": "2022-08-27T04:49:14.145777Z",
+    "updated_at": "2026-05-22T10:44:02.811827Z",
+    "experience_min": 5,
+    "experience_avg": 9,
+    "salary_min": 200000.0,
+    "salary_max": 220600.0,
+    "tags_generic": [],
+    "tags_area": [
+      {
+        "pk": 455,
+        "name": "Global health & development",
+        "is_featured": false,
+        "link": "https://80000hours.org/problem-profiles/health-in-poor-countries/"
+      }
+    ],
+    "tags_degree_required": [
+      {
+        "pk": 165,
+        "name": "Undergraduate degree or less",
+        "is_featured": false,
+        "link": ""
+      }
+    ],
+    "tags_country": [
+      {
+        "pk": 179,
+        "name": "USA",
+        "is_featured": false,
+        "link": ""
+      },
+      {
+        "pk": 365,
+        "name": "Remote, Global",
+        "is_featured": false,
+        "link": ""
+      },
+      {
+        "pk": 839,
+        "name": "USA (Confirmed Visas)",
+        "is_featured": false,
+        "link": ""
+      }
+    ],
+    "tags_city": [
+      {
+        "pk": 196,
+        "name": "San Francisco Bay Area",
+        "is_featured": false,
+        "link": ""
+      },
+      {
+        "pk": 365,
+        "name": "Remote, Global",
+        "is_featured": false,
+        "link": ""
+      }
+    ],
+    "tags_role_type": [
+      {
+        "pk": 342,
+        "name": "Full-time",
+        "is_featured": false,
+        "link": ""
+      },
+      {
+        "pk": 453,
+        "name": "Part-time",
+        "is_featured": false,
+        "link": ""
+      }
+    ],
+    "tags_location_type": [
+      {
+        "pk": 167,
+        "name": "Remote",
+        "is_featured": false,
+        "link": ""
+      }
+    ],
+    "tags_location_80k": [
+      {
+        "pk": 169,
+        "name": "Global",
+        "is_featured": false,
+        "link": ""
+      },
+      {
+        "pk": 179,
+        "name": "USA",
+        "is_featured": false,
+        "link": ""
+      },
+      {
+        "pk": 196,
+        "name": "San Francisco Bay Area",
+        "is_featured": false,
+        "link": ""
+      },
+      {
+        "pk": 365,
+        "name": "Remote, Global",
+        "is_featured": false,
+        "link": ""
+      },
+      {
+        "pk": 839,
+        "name": "USA (Confirmed Visas)",
+        "is_featured": false,
+        "link": ""
+      }
+    ],
+    "tags_workload": [],
+    "tags_skill": [
+      {
+        "pk": 174,
+        "name": "Research",
+        "is_featured": false,
+        "link": ""
+      }
+    ],
+    "tags_immigration": [],
+    "tags_exp_required": [
+      {
+        "pk": 419,
+        "name": "Mid (5-9 years experience)",
+        "is_featured": false,
+        "link": ""
+      }
+    ]
+  },
+  {
+    "title": "Externship / Student Volunteer, Transparency and Regulatory Affairs (Fall 2026 and Spring 2027)",
+    "post": {
+      "company": {
+        "name": "Animal Legal Defense Fund",
+        "id_external_80_000_hours": "Animal Legal Defense Fund",
+        "description": "",
+        "logo_url": "https://80000hours.org/wp-content/uploads/2023/09/animal_legal_defense_fund_aldf_logo-160x160.png",
+        "url": "https://aldf.org/",
+        "linkedin_url": "",
+        "facebook_url": "",
+        "career_page_url": "https://recruiting.paylocity.com/recruiting/jobs/All/3959b1be-c1ea-4572-bd27-94c094a3fc28/Animal-Legal-Defense-Fund",
+        "created_at": "2023-09-26T14:03:53.519762Z",
+        "updated_at": "2026-05-22T10:42:27.381401Z",
+        "author": null
+      },
+      "id_external_80_000_hours": "rec9TjyMWcvK9gUqQ"
+    },
+    "description": "",
+    "description_short": "<ul>\n<li>In this externship, you'll support the Transparency and Regulatory Affairs Program through legal research and regulatory advocacy to protect animals.</li>\n<li>Conduct research and draft memoranda on regulatory matters affecting exploited animals.</li>\n<li>Assist in drafting regulatory comments, petitions for rulemaking, FOIA requests, and appeals.</li>\n<li>Help gather data and create spreadsheets tracking animal-exploiting industries.</li>\n<li>Draft regulatory complaints and support factual research for the program's advocacy work.</li>\n</ul>",
+    "url_external": "https://recruiting.paylocity.com/Recruiting/Jobs/Details/4128402?utm_source=80000hours&utm_medium=job-board",
+    "author": null,
+    "closes_at": "2026-06-15T00:00:00Z",
+    "posted_at": "2026-05-05T00:00:00Z",
+    "created_at": "2026-05-05T10:55:05.453406Z",
+    "updated_at": "2026-05-22T10:43:07.241240Z",
+    "experience_min": 0,
+    "experience_avg": 2,
+    "salary_min": 41600.0,
+    "salary_max": 41600.0,
+    "tags_generic": [],
+    "tags_area": [
+      {
+        "pk": 813,
+        "name": "Animal welfare",
+        "is_featured": false,
+        "link": "https://80000hours.org/problem-profiles/factory-farming/"
+      }
+    ],
+    "tags_degree_required": [
+      {
+        "pk": 165,
+        "name": "Undergraduate degree or less",
+        "is_featured": false,
+        "link": ""
+      }
+    ],
+    "tags_country": [
+      {
+        "pk": 179,
+        "name": "USA",
+        "is_featured": false,
+        "link": ""
+      }
+    ],
+    "tags_city": [
+      {
+        "pk": 368,
+        "name": "Remote, USA",
+        "is_featured": false,
+        "link": ""
+      }
+    ],
+    "tags_role_type": [
+      {
+        "pk": 971,
+        "name": "Volunteering",
+        "is_featured": false,
+        "link": ""
+      },
+      {
+        "pk": 453,
+        "name": "Part-time",
+        "is_featured": false,
+        "link": ""
+      }
+    ],
+    "tags_location_type": [
+      {
+        "pk": 167,
+        "name": "Remote",
+        "is_featured": false,
+        "link": ""
+      }
+    ],
+    "tags_location_80k": [
+      {
+        "pk": 179,
+        "name": "USA",
+        "is_featured": false,
+        "link": ""
+      },
+      {
+        "pk": 368,
+        "name": "Remote, USA",
+        "is_featured": false,
+        "link": ""
+      }
+    ],
+    "tags_workload": [],
+    "tags_skill": [
+      {
+        "pk": 176,
+        "name": "Policy",
+        "is_featured": false,
+        "link": ""
+      },
+      {
+        "pk": 426,
+        "name": "Legal",
+        "is_featured": false,
+        "link": ""
+      }
+    ],
+    "tags_immigration": [],
+    "tags_exp_required": [
+      {
+        "pk": 420,
+        "name": "Entry-level",
+        "is_featured": false,
+        "link": ""
+      }
+    ]
+  }
+]
