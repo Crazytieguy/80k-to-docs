@@ -26,7 +26,7 @@ describe("renderJobFile", () => {
     const md = renderJobFile(aiJob);
     expect(md).toContain(`# ${aiJob.title}`);
     expect(md).toContain("80k job ID");
-    expect(md).toContain("Last updated");
+    expect(md).toContain("Listing synced");
     expect(md).not.toContain("CLOSED");
   });
 

@@ -59,6 +59,14 @@
   }
 
   input.addEventListener("input", apply);
+  // Picks up navigation to /#q=foo while already on the index.
+  window.addEventListener("hashchange", () => {
+    const v = decodeURIComponent(location.hash.replace(/^#q=/, ""));
+    if (v !== input.value) {
+      input.value = v;
+      apply();
+    }
+  });
   // Run once on load (initial filter from URL, plus the "()" count suffix on every heading).
   apply();
 })();

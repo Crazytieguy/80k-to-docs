@@ -46,10 +46,10 @@ describe("renderIndex", () => {
       lastRunUtc: "2026-05-26T10:00:00Z",
       areaTags: ["AI safety & policy"],
     });
-    expect(md).toContain("**Active:** 2");
-    expect(md).toContain("**Closed (archived):** 1");
-    expect(md).toContain("**Filter:** AI safety & policy");
-    expect(md).toContain("**Last run:** 2026-05-26T10:00:00Z");
+    expect(md).toContain("**2** active");
+    expect(md).toContain("**1** closed");
+    expect(md).toContain("filter: AI safety & policy");
+    expect(md).toContain("last synced 2026-05-26 10:00 UTC");
   });
 
   it("only lists 50 most recent closed jobs and links to the folder", () => {

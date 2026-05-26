@@ -1,0 +1,56 @@
+- generic [active] [ref=e1]:
+  - banner [ref=e2]:
+    - generic [ref=e3]:
+      - link "80k AI-Safety Jobs" [ref=e4] [cursor=pointer]:
+        - /url: /80k-to-docs/
+      - link "← All jobs" [ref=e5] [cursor=pointer]:
+        - /url: /80k-to-docs/
+  - main [ref=e6]:
+    - heading "Researcher, Interpretability" [level=1] [ref=e7]
+    - paragraph [ref=e8]:
+      - strong [ref=e9]:
+        - link "EleutherAI" [ref=e10] [cursor=pointer]:
+          - /url: https://www.eleuther.ai/
+    - list [ref=e11]:
+      - listitem [ref=e12]:
+        - strong [ref=e13]: "Location:"
+        - text: Remote, Global
+      - listitem [ref=e14]:
+        - strong [ref=e15]: "Role type:"
+        - text: Full-time
+      - listitem [ref=e16]:
+        - strong [ref=e17]: "Experience:"
+        - text: Multiple experience levels
+      - listitem [ref=e18]:
+        - strong [ref=e19]: "Degree:"
+        - text: Undergraduate degree or less
+      - listitem [ref=e20]:
+        - strong [ref=e21]: "Salary:"
+        - text: $100,000 – $200,000
+      - listitem [ref=e22]:
+        - strong [ref=e23]: "Location type:"
+        - text: Remote
+    - heading "Tags" [level=2] [ref=e24]
+    - paragraph [ref=e25]: AI technical safety, Research
+    - heading "Summary" [level=2] [ref=e26]
+    - list [ref=e27]:
+      - listitem [ref=e28]: This role involves performing cutting-edge research with large language and vision models to improve understanding of deep neural network features.
+      - listitem [ref=e29]: Plan and run interpretability experiments, analysing the results.
+      - listitem [ref=e30]: Implement and maintain open source interpretability tools, such as concept erasure.
+      - listitem [ref=e31]: Review and synthesize academic literature relevant to the interpretability of AI systems.
+      - listitem [ref=e32]: Communicate research findings to the wider AI community through various channels.
+    - paragraph [ref=e33]:
+      - link "Apply →" [ref=e34] [cursor=pointer]:
+        - /url: https://docs.google.com/document/d/1VC3ErFnM5mSu5ZzPrwrurDpxsN5RfYp_mzh3WHI8g4w/mobilebasic
+    - separator [ref=e35]
+    - paragraph [ref=e36]:
+      - emphasis [ref=e37]:
+        - text: Posted 2022-01-05 · Last updated 2026-05-26 · 80k job ID
+        - code [ref=e38]: recKU8tVW5gg9RRsr
+  - contentinfo [ref=e39]:
+    - paragraph [ref=e40]:
+      - link "Source on GitHub" [ref=e41] [cursor=pointer]:
+        - /url: https://github.com/Crazytieguy/80k-to-docs
+      - text: "· auto-updated daily at 06:17 UTC · upstream:"
+      - link "80,000 Hours job board" [ref=e42] [cursor=pointer]:
+        - /url: https://jobs.80000hours.org/

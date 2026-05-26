@@ -41,16 +41,15 @@ export function renderBody(job: Job, opts: RenderOptions = {}): string {
   lines.push(companyUrl ? `**[${companyName}](${companyUrl})**` : `**${companyName}**`);
   lines.push("");
 
-  const meta = buildMetaLines(job);
-  if (meta.length > 0) {
-    for (const line of meta) lines.push(line);
+  const metaHtml = buildMetaHtml(job);
+  if (metaHtml) {
+    lines.push(metaHtml);
     lines.push("");
   }
 
   const tagLine = buildTagLine(job);
   if (tagLine) {
-    lines.push("## Tags");
-    lines.push(tagLine);
+    lines.push(`**Areas & skills:** ${tagLine}`);
     lines.push("");
   }
 
@@ -63,14 +62,14 @@ export function renderBody(job: Job, opts: RenderOptions = {}): string {
 
   const applyUrl = stripUtm(job.url_external);
   if (applyUrl) {
-    lines.push(`[Apply →](${applyUrl})`);
+    lines.push(`<p class="apply-cta"><a href="${escapeAttr(applyUrl)}">Apply →</a></p>`);
     lines.push("");
   }
 
   lines.push("---");
   const footer = [
     job.posted_at ? `Posted ${formatDate(job.posted_at)}` : null,
-    `Last updated ${formatDate(job.updated_at)}`,
+    `Listing synced ${formatDate(job.updated_at)}`,
     `80k job ID \`${jobId(job)}\``,
   ]
     .filter((x): x is string => x !== null)
@@ -80,30 +79,46 @@ export function renderBody(job: Job, opts: RenderOptions = {}): string {
   return lines.join("\n") + "\n";
 }
 
-function buildMetaLines(job: Job): string[] {
-  const lines: string[] = [];
+function buildMetaHtml(job: Job): string {
+  const rows: Array<[string, string]> = [];
   const locations = Array.from(
     new Set([...job.tags_city.map((t) => t.name), ...job.tags_country.map((t) => t.name)]),
   );
-  if (locations.length > 0) lines.push(`- **Location:** ${locations.join(", ")}`);
+  if (locations.length > 0) rows.push(["Location", locations.join(", ")]);
   if (job.tags_role_type.length > 0) {
-    lines.push(`- **Role type:** ${job.tags_role_type.map((t) => t.name).join(", ")}`);
+    rows.push(["Role type", job.tags_role_type.map((t) => t.name).join(", ")]);
   }
   if (job.tags_exp_required.length > 0) {
-    lines.push(`- **Experience:** ${job.tags_exp_required.map((t) => t.name).join(", ")}`);
+    rows.push(["Experience", job.tags_exp_required.map((t) => t.name).join(", ")]);
   }
   if (job.tags_degree_required.length > 0) {
-    lines.push(`- **Degree:** ${job.tags_degree_required.map((t) => t.name).join(", ")}`);
+    rows.push(["Degree", job.tags_degree_required.map((t) => t.name).join(", ")]);
   }
   const salary = formatSalary(job.salary_min, job.salary_max);
-  if (salary) lines.push(`- **Salary:** ${salary}`);
+  if (salary) rows.push(["Salary", salary]);
   if (job.tags_workload.length > 0) {
-    lines.push(`- **Workload:** ${job.tags_workload.map((t) => t.name).join(", ")}`);
+    rows.push(["Workload", job.tags_workload.map((t) => t.name).join(", ")]);
   }
-  if (job.tags_location_type.length > 0) {
-    lines.push(`- **Location type:** ${job.tags_location_type.map((t) => t.name).join(", ")}`);
-  }
-  return lines;
+  // Suppress `tags_location_type` when it duplicates location info we already showed
+  // (the common case — e.g. "Remote" appearing in both lists).
+  const locType = job.tags_location_type
+    .map((t) => t.name)
+    .filter((name) => !locations.some((l) => l.toLowerCase().includes(name.toLowerCase())));
+  if (locType.length > 0) rows.push(["Location type", locType.join(", ")]);
+
+  if (rows.length === 0) return "";
+  const inner = rows
+    .map(([k, v]) => `<dt>${escapeHtml(k)}</dt><dd>${escapeHtml(v)}</dd>`)
+    .join("\n");
+  return `<dl class="job-meta">\n${inner}\n</dl>`;
+}
+
+function escapeHtml(s: string): string {
+  return s.replace(/&/g, "&amp;").replace(/</g, "&lt;").replace(/>/g, "&gt;");
+}
+
+function escapeAttr(s: string): string {
+  return s.replace(/&/g, "&amp;").replace(/"/g, "&quot;");
 }
 
 function buildTagLine(job: Job): string {

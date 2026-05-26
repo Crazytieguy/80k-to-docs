@@ -19,10 +19,15 @@ export function renderIndex(args: {
     `Daily-refreshed mirror of AI-safety job postings from the [80,000 Hours job board](https://jobs.80000hours.org/). One markdown file per job under \`jobs/\`. Closed jobs move to \`jobs/closed/\`.`,
   );
   lines.push("");
-  lines.push(`- **Active:** ${args.active.length}`);
-  lines.push(`- **Closed (archived):** ${args.closed.length}`);
-  lines.push(`- **Filter:** ${args.areaTags.join(", ")}`);
-  lines.push(`- **Last run:** ${args.lastRunUtc}`);
+  const stats = [
+    `**${args.active.length}** active`,
+    args.closed.length > 0 ? `**${args.closed.length}** closed` : null,
+    `filter: ${args.areaTags.join(", ")}`,
+    `last synced ${args.lastRunUtc.slice(0, 16).replace("T", " ")} UTC`,
+  ]
+    .filter((s): s is string => s !== null)
+    .join(" · ");
+  lines.push(stats);
   lines.push("");
   lines.push(
     "_See [README](./README.md) for how this is built. Source: [GitHub repo](https://github.com/Crazytieguy/80k-to-docs)._",
@@ -77,7 +82,9 @@ function groupByArea(entries: IndexEntry[]): Map<string, IndexEntry[]> {
 }
 
 function formatRow(e: IndexEntry): string {
-  const date = e.fm.last_updated.slice(0, 10);
+  // Prefer `posted_at` (the date the role actually went up) over `last_updated`,
+  // which is when 80k re-indexed and is often identical across all current jobs.
+  const date = (e.fm.posted_at ?? e.fm.last_updated).slice(0, 10);
   return `- \`${date}\` · [${escapeMd(e.fm.title)}](./${e.path}) — ${escapeMd(e.fm.employer)}`;
 }
 
