@@ -50,9 +50,9 @@ describe("renderIndex", () => {
       areaTags: [],
     });
     expect(md).toContain('<div class="areas-filter"');
-    expect(md).toContain('data-area="all">All (3)</button>');
-    expect(md).toContain('data-area="AI safety &amp; policy">AI safety &amp; policy (2)</button>');
-    expect(md).toContain('data-area="AI technical safety">AI technical safety (1)</button>');
+    expect(md).toContain('data-area="all" aria-pressed="true">All (3)</button>');
+    expect(md).toContain('data-area="AI safety &amp; policy" aria-pressed="false">AI safety &amp; policy (2)</button>');
+    expect(md).toContain('data-area="AI technical safety" aria-pressed="false">AI technical safety (1)</button>');
   });
 
   it("orders area sections by count (most populated first)", () => {

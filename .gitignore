@@ -10,3 +10,6 @@ state/jobs.json.tmp
 # OS noise
 .DS_Store
 .playwright-cli/
+
+# Ad-hoc screenshots from agent runs
+/*.png

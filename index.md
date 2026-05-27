@@ -2,34 +2,34 @@
 
 Daily-refreshed mirror of every job posting on the [80,000 Hours job board](https://jobs.80000hours.org/). One markdown file per job under `jobs/`. Closed jobs move to `jobs/closed/`.
 
-**820** active · last synced 2026-05-27 02:52 UTC
+**820** active · last synced 2026-05-27 03:01 UTC
 
 _See [README](./README.md) for how this is built. Source: [GitHub repo](https://github.com/Crazytieguy/80k-to-docs)._
 
 <div class="areas-filter" aria-label="Filter by area">
-<button type="button" class="chip is-active" data-area="all">All (820)</button>
-<button type="button" class="chip" data-area="AI safety &amp; policy">AI safety &amp; policy (435)</button>
-<button type="button" class="chip" data-area="Career development: Policy &amp; government">Career development: Policy &amp; government (82)</button>
-<button type="button" class="chip" data-area="Global health &amp; development">Global health &amp; development (73)</button>
-<button type="button" class="chip" data-area="Biosecurity &amp; pandemic preparedness">Biosecurity &amp; pandemic preparedness (61)</button>
-<button type="button" class="chip" data-area="Career development: Technical">Career development: Technical (50)</button>
-<button type="button" class="chip" data-area="Animal welfare">Animal welfare (49)</button>
-<button type="button" class="chip" data-area="Building effective altruism">Building effective altruism (33)</button>
-<button type="button" class="chip" data-area="AI technical safety">AI technical safety (15)</button>
-<button type="button" class="chip" data-area="Macrostrategy">Macrostrategy (15)</button>
-<button type="button" class="chip" data-area="Nuclear security">Nuclear security (11)</button>
-<button type="button" class="chip" data-area="Climate change">Climate change (8)</button>
-<button type="button" class="chip" data-area="Career development">Career development (7)</button>
-<button type="button" class="chip" data-area="Forecasting">Forecasting (4)</button>
-<button type="button" class="chip" data-area="Congressional staffer">Congressional staffer (4)</button>
-<button type="button" class="chip" data-area="AI governance">AI governance (4)</button>
-<button type="button" class="chip" data-area="Science policy and infrastructure">Science policy and infrastructure (3)</button>
-<button type="button" class="chip" data-area="Safeguarding liberal democracy">Safeguarding liberal democracy (3)</button>
-<button type="button" class="chip" data-area="S-risk reduction">S-risk reduction (1)</button>
-<button type="button" class="chip" data-area="Journalism">Journalism (1)</button>
-<button type="button" class="chip" data-area="Civilisation resilience">Civilisation resilience (1)</button>
-<button type="button" class="chip" data-area="(uncategorized)">(uncategorized) (1)</button>
-<button type="button" class="chip" data-area="Space governance">Space governance (1)</button>
+<button type="button" class="chip is-active" data-area="all" aria-pressed="true">All (820)</button>
+<button type="button" class="chip" data-area="AI safety &amp; policy" aria-pressed="false">AI safety &amp; policy (435)</button>
+<button type="button" class="chip" data-area="Career development: Policy &amp; government" aria-pressed="false">Career development: Policy &amp; government (82)</button>
+<button type="button" class="chip" data-area="Global health &amp; development" aria-pressed="false">Global health &amp; development (73)</button>
+<button type="button" class="chip" data-area="Biosecurity &amp; pandemic preparedness" aria-pressed="false">Biosecurity &amp; pandemic preparedness (61)</button>
+<button type="button" class="chip" data-area="Career development: Technical" aria-pressed="false">Career development: Technical (50)</button>
+<button type="button" class="chip" data-area="Animal welfare" aria-pressed="false">Animal welfare (49)</button>
+<button type="button" class="chip" data-area="Building effective altruism" aria-pressed="false">Building effective altruism (33)</button>
+<button type="button" class="chip" data-area="AI technical safety" aria-pressed="false">AI technical safety (15)</button>
+<button type="button" class="chip" data-area="Macrostrategy" aria-pressed="false">Macrostrategy (15)</button>
+<button type="button" class="chip" data-area="Nuclear security" aria-pressed="false">Nuclear security (11)</button>
+<button type="button" class="chip" data-area="Climate change" aria-pressed="false">Climate change (8)</button>
+<button type="button" class="chip" data-area="Career development" aria-pressed="false">Career development (7)</button>
+<button type="button" class="chip" data-area="Forecasting" aria-pressed="false">Forecasting (4)</button>
+<button type="button" class="chip" data-area="Congressional staffer" aria-pressed="false">Congressional staffer (4)</button>
+<button type="button" class="chip" data-area="AI governance" aria-pressed="false">AI governance (4)</button>
+<button type="button" class="chip" data-area="Science policy and infrastructure" aria-pressed="false">Science policy and infrastructure (3)</button>
+<button type="button" class="chip" data-area="Safeguarding liberal democracy" aria-pressed="false">Safeguarding liberal democracy (3)</button>
+<button type="button" class="chip" data-area="S-risk reduction" aria-pressed="false">S-risk reduction (1)</button>
+<button type="button" class="chip" data-area="Journalism" aria-pressed="false">Journalism (1)</button>
+<button type="button" class="chip" data-area="Civilisation resilience" aria-pressed="false">Civilisation resilience (1)</button>
+<button type="button" class="chip" data-area="(uncategorized)" aria-pressed="false">(uncategorized) (1)</button>
+<button type="button" class="chip" data-area="Space governance" aria-pressed="false">Space governance (1)</button>
 </div>
 
 <p class="hint">Click a chip to filter; click again to deselect; combine with the search above.</p>

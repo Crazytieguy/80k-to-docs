@@ -61,11 +61,9 @@
     if (chipsContainer) {
       for (const chip of chipsContainer.querySelectorAll(".chip")) {
         const area = chip.dataset.area;
-        if (area === "all") {
-          chip.classList.toggle("is-active", !areaActive);
-        } else {
-          chip.classList.toggle("is-active", selected.has(area));
-        }
+        const active = area === "all" ? !areaActive : selected.has(area);
+        chip.classList.toggle("is-active", active);
+        chip.setAttribute("aria-pressed", active ? "true" : "false");
       }
     }
 

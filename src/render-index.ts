@@ -92,12 +92,12 @@ function renderAreaChips(
 ): string {
   const out: string[] = [`<div class="areas-filter" aria-label="Filter by area">`];
   out.push(
-    `<button type="button" class="chip is-active" data-area="all">All (${total})</button>`,
+    `<button type="button" class="chip is-active" data-area="all" aria-pressed="true">All (${total})</button>`,
   );
   for (const area of areasSorted) {
     const count = byArea.get(area)!.length;
     out.push(
-      `<button type="button" class="chip" data-area="${escapeAttr(area)}">${escapeHtmlText(area)} (${count})</button>`,
+      `<button type="button" class="chip" data-area="${escapeAttr(area)}" aria-pressed="false">${escapeHtmlText(area)} (${count})</button>`,
     );
   }
   out.push(`</div>`);

@@ -1,5 +1,5 @@
-title: 80k AI-Safety Jobs
-description: Daily-refreshed mirror of AI-safety job postings from the 80,000 Hours job board.
+title: 80,000 Hours Jobs Archive
+description: Daily-refreshed mirror of every job posting from the 80,000 Hours job board.
 
 plugins:
   - jekyll-relative-links
