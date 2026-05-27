@@ -42,9 +42,14 @@ export function renderIndex(args: {
     for (const area of areas) {
       lines.push(`### ${area}`);
       lines.push("");
-      const entries = byArea.get(area)!.sort((a, b) =>
-        b.fm.last_updated.localeCompare(a.fm.last_updated),
-      );
+      // Sort by the same date we display in the row (posted_at, falling back to last_updated),
+      // newest first. Sorting by last_updated alone meant ties on the daily-re-index timestamp,
+      // which produced apparently-random order.
+      const entries = byArea.get(area)!.sort((a, b) => {
+        const ad = a.fm.posted_at ?? a.fm.last_updated;
+        const bd = b.fm.posted_at ?? b.fm.last_updated;
+        return bd.localeCompare(ad);
+      });
       for (const e of entries) lines.push(formatRow(e));
       lines.push("");
     }
