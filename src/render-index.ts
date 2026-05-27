@@ -10,19 +10,20 @@ export function renderIndex(args: {
   active: IndexEntry[];
   closed: IndexEntry[];
   lastRunUtc: string;
+  /** Server-side area filter (env-var driven, usually empty so the UI filter handles everything). */
   areaTags: string[];
 }): string {
   const lines: string[] = [];
-  lines.push("# 80,000 Hours — AI Safety Jobs Archive");
+  lines.push("# 80,000 Hours Jobs Archive");
   lines.push("");
   lines.push(
-    `Daily-refreshed mirror of AI-safety job postings from the [80,000 Hours job board](https://jobs.80000hours.org/). One markdown file per job under \`jobs/\`. Closed jobs move to \`jobs/closed/\`.`,
+    `Daily-refreshed mirror of every job posting on the [80,000 Hours job board](https://jobs.80000hours.org/). One markdown file per job under \`jobs/\`. Closed jobs move to \`jobs/closed/\`.`,
   );
   lines.push("");
   const stats = [
     `**${args.active.length}** active`,
     args.closed.length > 0 ? `**${args.closed.length}** closed` : null,
-    `filter: ${args.areaTags.join(", ")}`,
+    args.areaTags.length > 0 ? `server-filter: ${args.areaTags.join(", ")}` : null,
     `last synced ${args.lastRunUtc.slice(0, 16).replace("T", " ")} UTC`,
   ]
     .filter((s): s is string => s !== null)
@@ -35,16 +36,27 @@ export function renderIndex(args: {
   lines.push("");
 
   if (args.active.length > 0) {
+    const byArea = groupByArea(args.active);
+    // Sort areas by job count (descending) so the most populated areas surface first.
+    const areasSorted = Array.from(byArea.keys()).sort(
+      (a, b) => byArea.get(b)!.length - byArea.get(a)!.length,
+    );
+
+    // Area-filter chips (above the section list). Tip line tells users they can multi-select.
+    lines.push(renderAreaChips(args.active.length, byArea, areasSorted));
+    lines.push("");
+    lines.push(
+      "<p class=\"hint\">Click a chip to filter; click again to deselect; combine with the search above.</p>",
+    );
+    lines.push("");
+
     lines.push("## Active jobs");
     lines.push("");
-    const byArea = groupByArea(args.active);
-    const areas = Array.from(byArea.keys()).sort();
-    for (const area of areas) {
+    for (const area of areasSorted) {
       lines.push(`### ${area}`);
       lines.push("");
       // Sort by the same date we display in the row (posted_at, falling back to last_updated),
-      // newest first. Sorting by last_updated alone meant ties on the daily-re-index timestamp,
-      // which produced apparently-random order.
+      // newest first.
       const entries = byArea.get(area)!.sort((a, b) => {
         const ad = a.fm.posted_at ?? a.fm.last_updated;
         const bd = b.fm.posted_at ?? b.fm.last_updated;
@@ -71,6 +83,33 @@ export function renderIndex(args: {
   }
 
   return lines.join("\n");
+}
+
+function renderAreaChips(
+  total: number,
+  byArea: Map<string, IndexEntry[]>,
+  areasSorted: string[],
+): string {
+  const out: string[] = [`<div class="areas-filter" aria-label="Filter by area">`];
+  out.push(
+    `<button type="button" class="chip is-active" data-area="all">All (${total})</button>`,
+  );
+  for (const area of areasSorted) {
+    const count = byArea.get(area)!.length;
+    out.push(
+      `<button type="button" class="chip" data-area="${escapeAttr(area)}">${escapeHtmlText(area)} (${count})</button>`,
+    );
+  }
+  out.push(`</div>`);
+  return out.join("\n");
+}
+
+function escapeAttr(s: string): string {
+  return s.replace(/&/g, "&amp;").replace(/"/g, "&quot;");
+}
+
+function escapeHtmlText(s: string): string {
+  return s.replace(/&/g, "&amp;").replace(/</g, "&lt;").replace(/>/g, "&gt;");
 }
 
 function groupByArea(entries: IndexEntry[]): Map<string, IndexEntry[]> {

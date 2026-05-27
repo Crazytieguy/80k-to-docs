@@ -21,12 +21,11 @@ interface OnDisk {
 }
 
 async function main(): Promise<void> {
-  // Use `||` (not `??`) so an empty-string env var (e.g. unset GitHub Actions `vars.AREA_TAGS`)
-  // falls back to the default rather than producing an empty filter (which would let everything through).
-  const areaTags = parseAreaTags(
-    process.env.AREA_TAGS || "AI safety & policy,AI technical safety,AI governance",
-  );
-  console.log(`[sync] filter: ${areaTags.join(", ")}`);
+  // Empty / unset AREA_TAGS = include every upstream job. Setting it restricts to those areas
+  // (useful for forks that want a single-area mirror); the default deployment uses the UI
+  // filter on the index page instead.
+  const areaTags = parseAreaTags(process.env.AREA_TAGS || "");
+  console.log(`[sync] filter: ${areaTags.length === 0 ? "(none — all jobs)" : areaTags.join(", ")}`);
 
   await mkdir(JOBS_DIR, { recursive: true });
   await mkdir(CLOSED_DIR, { recursive: true });

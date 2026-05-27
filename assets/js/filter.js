@@ -1,72 +1,113 @@
 (function () {
   const input = document.getElementById("filter");
-  if (!input) return;
-
   const main = document.querySelector("main.content");
   if (!main) return;
 
-  // Persist filter across navigation via the URL hash.
-  const initial = decodeURIComponent(location.hash.replace(/^#q=/, ""));
-  if (initial) input.value = initial;
+  const chipsContainer = main.querySelector(".areas-filter");
 
-  // Each "section" is an <h2> or <h3> followed by a <ul>. Cache them once.
+  // Selected areas state — empty Set means "all areas visible".
+  const selected = new Set();
+
+  // Cache (heading, list, items, baseLabel) for each `### Area` section so the JS doesn't have
+  // to re-walk the DOM on every keystroke.
   const sections = [];
-  for (const heading of main.querySelectorAll("h2, h3")) {
+  for (const heading of main.querySelectorAll("h3")) {
     let el = heading.nextElementSibling;
     while (el && el.tagName !== "UL" && el.tagName !== "H2" && el.tagName !== "H3") {
       el = el.nextElementSibling;
     }
     if (el && el.tagName === "UL") {
       const items = Array.from(el.querySelectorAll(":scope > li"));
-      const baseLabel = heading.firstChild ? heading.firstChild.textContent.trim() : "";
+      const baseLabel = heading.textContent.trim();
       sections.push({ heading, list: el, items, baseLabel, totalCount: items.length });
     }
   }
 
-  // Insert a "no matches" placeholder.
+  // "No matches" message — appended once, toggled via class.
   const noMatches = document.createElement("p");
   noMatches.id = "no-matches";
-  noMatches.textContent = "No jobs match that filter.";
+  noMatches.textContent = "No jobs match the current filters.";
   main.appendChild(noMatches);
 
   function apply() {
-    const q = input.value.trim().toLowerCase();
+    const q = input ? input.value.trim().toLowerCase() : "";
+    const areaActive = selected.size > 0;
     let totalShown = 0;
+
     for (const sec of sections) {
+      const inArea = !areaActive || selected.has(sec.baseLabel);
       let shown = 0;
       for (const li of sec.items) {
+        if (!inArea) {
+          li.classList.add("is-hidden");
+          continue;
+        }
         const haystack = li.textContent.toLowerCase();
         const match = !q || haystack.includes(q);
         li.classList.toggle("is-hidden", !match);
         if (match) shown++;
       }
       totalShown += shown;
-      sec.heading.classList.toggle("is-empty", shown === 0);
-      // Update count label: "AI safety & policy (12 / 435)" when filtering, "(435)" when not.
-      let label = sec.baseLabel;
-      if (q) label += ` (${shown} / ${sec.totalCount})`;
-      else label += ` (${sec.totalCount})`;
-      sec.heading.textContent = label;
+      sec.heading.classList.toggle("is-empty", !inArea || shown === 0);
+      const suffix =
+        q || areaActive ? ` (${shown} / ${sec.totalCount})` : ` (${sec.totalCount})`;
+      sec.heading.textContent = sec.baseLabel + suffix;
     }
-    noMatches.classList.toggle("is-shown", totalShown === 0 && q.length > 0);
+    noMatches.classList.toggle(
+      "is-shown",
+      totalShown === 0 && (q.length > 0 || areaActive),
+    );
 
-    // Persist in URL so the filter survives page refresh / share.
-    if (q) {
-      history.replaceState(null, "", "#q=" + encodeURIComponent(q));
-    } else if (location.hash) {
-      history.replaceState(null, "", location.pathname + location.search);
+    if (chipsContainer) {
+      for (const chip of chipsContainer.querySelectorAll(".chip")) {
+        const area = chip.dataset.area;
+        if (area === "all") {
+          chip.classList.toggle("is-active", !areaActive);
+        } else {
+          chip.classList.toggle("is-active", selected.has(area));
+        }
+      }
     }
+
+    persistHash(q, Array.from(selected));
   }
 
-  input.addEventListener("input", apply);
-  // Picks up navigation to /#q=foo while already on the index.
-  window.addEventListener("hashchange", () => {
-    const v = decodeURIComponent(location.hash.replace(/^#q=/, ""));
-    if (v !== input.value) {
-      input.value = v;
+  function persistHash(q, areas) {
+    const p = new URLSearchParams();
+    if (q) p.set("q", q);
+    if (areas.length) p.set("areas", areas.join("|"));
+    const str = p.toString();
+    history.replaceState(null, "", str ? "#" + str : location.pathname + location.search);
+  }
+
+  function readHash() {
+    const p = new URLSearchParams(location.hash.replace(/^#/, ""));
+    const q = p.get("q") ?? "";
+    const areas = (p.get("areas") || "").split("|").filter(Boolean);
+    if (input) input.value = q;
+    selected.clear();
+    for (const a of areas) selected.add(a);
+    apply();
+  }
+
+  if (input) input.addEventListener("input", apply);
+
+  if (chipsContainer) {
+    chipsContainer.addEventListener("click", (e) => {
+      const chip = e.target.closest(".chip");
+      if (!chip) return;
+      const area = chip.dataset.area;
+      if (area === "all") {
+        selected.clear();
+      } else if (selected.has(area)) {
+        selected.delete(area);
+      } else {
+        selected.add(area);
+      }
       apply();
-    }
-  });
-  // Run once on load (initial filter from URL, plus the "()" count suffix on every heading).
-  apply();
+    });
+  }
+
+  window.addEventListener("hashchange", readHash);
+  readHash();
 })();

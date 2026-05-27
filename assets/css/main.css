@@ -75,6 +75,34 @@ h2 { font-size: 1.3em; margin: 1.4em 0 0.5em; padding-top: 0.2em; border-top: 1p
 h3 { font-size: 1.1em; margin: 1.4em 0 0.4em; color: #2d3748; }
 h3 .count { color: #6b7280; font-weight: 500; font-size: 0.92em; }
 
+/* Area filter chips */
+.areas-filter {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.4em;
+  margin: 1.25em 0 0.5em;
+}
+.chip {
+  font: inherit;
+  font-size: 0.88em;
+  padding: 0.32em 0.78em;
+  border: 1px solid #d0d5dd;
+  background: #ffffff;
+  color: #4a5568;
+  border-radius: 999px;
+  cursor: pointer;
+  white-space: nowrap;
+  transition: background 0.1s, color 0.1s, border-color 0.1s;
+}
+.chip:hover { border-color: #0a58ca; color: #0a58ca; }
+.chip.is-active {
+  background: #0a58ca;
+  color: #ffffff;
+  border-color: #0a58ca;
+}
+.chip.is-active:hover { background: #0846a8; border-color: #0846a8; color: #ffffff; }
+.hint { font-size: 0.88em; color: #6b7280; margin: 0.3em 0 1em; }
+
 /* On the index page, lists are job rows — tighten them up */
 .is-index .content ul { list-style: none; padding-left: 0; margin: 0.25em 0 0.5em; }
 .is-index .content ul li {
