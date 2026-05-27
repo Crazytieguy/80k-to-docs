@@ -2,7 +2,7 @@
 title: "Research Protocol Technician, Non-Biological STEM"
 employer: "Active Site"
 job_id: "recLMcTeUWV0SRGEj"
-last_updated: "2026-05-26T16:24:18.582252Z"
+last_updated: "2026-05-27T05:33:13.635752Z"
 posted_at: "2026-04-23T00:03:00Z"
 status: ready
 apply_url: "https://jobs.ashbyhq.com/activesite/c3b48c63-0126-4995-b931-b09b5a2373f1"
@@ -35,4 +35,4 @@ areas:
 <p class="apply-cta"><a href="https://jobs.ashbyhq.com/activesite/c3b48c63-0126-4995-b931-b09b5a2373f1">Apply →</a></p>
 
 ---
-*Posted 2026-04-23 · Listing synced 2026-05-26 · 80k job ID `recLMcTeUWV0SRGEj`*
+*Posted 2026-04-23 · Listing synced 2026-05-27 · 80k job ID `recLMcTeUWV0SRGEj`*

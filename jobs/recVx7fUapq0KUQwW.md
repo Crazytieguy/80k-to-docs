@@ -2,7 +2,7 @@
 title: "Program Director"
 employer: "Hewlett Foundation"
 job_id: "recVx7fUapq0KUQwW"
-last_updated: "2026-05-26T16:25:54.103094Z"
+last_updated: "2026-05-27T05:34:45.667174Z"
 posted_at: "2022-01-01T00:00:00Z"
 status: ready
 apply_url: "https://hewlett.hrmdirect.com/employment/job-opening.php?req=3566721&req_loc=1112590&nohd=#job"
@@ -34,4 +34,4 @@ areas:
 <p class="apply-cta"><a href="https://hewlett.hrmdirect.com/employment/job-opening.php?req=3566721&amp;req_loc=1112590&amp;nohd=#job">Apply →</a></p>
 
 ---
-*Posted 2022-01-01 · Listing synced 2026-05-26 · 80k job ID `recVx7fUapq0KUQwW`*
+*Posted 2022-01-01 · Listing synced 2026-05-27 · 80k job ID `recVx7fUapq0KUQwW`*

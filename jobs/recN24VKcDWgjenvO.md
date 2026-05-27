@@ -2,7 +2,7 @@
 title: "Chief of Staff"
 employer: "Ansh"
 job_id: "recN24VKcDWgjenvO"
-last_updated: "2026-05-26T16:24:21.174302Z"
+last_updated: "2026-05-27T05:33:16.083174Z"
 posted_at: "2026-04-20T00:00:00Z"
 status: ready
 apply_url: "https://www.ansh.health/chief-of-staff"
@@ -19,7 +19,7 @@ areas:
 <dt>Role type</dt><dd>Full-time</dd>
 <dt>Experience</dt><dd>Junior (1-4 years experience)</dd>
 <dt>Degree</dt><dd>Undergraduate degree or less</dd>
-<dt>Salary</dt><dd>$20,909 – $26,137</dd>
+<dt>Salary</dt><dd>$20,881 – $26,101</dd>
 </dl>
 
 **Areas & skills:** Global health & development, Operations
@@ -34,4 +34,4 @@ areas:
 <p class="apply-cta"><a href="https://www.ansh.health/chief-of-staff">Apply →</a></p>
 
 ---
-*Posted 2026-04-20 · Listing synced 2026-05-26 · 80k job ID `recN24VKcDWgjenvO`*
+*Posted 2026-04-20 · Listing synced 2026-05-27 · 80k job ID `recN24VKcDWgjenvO`*

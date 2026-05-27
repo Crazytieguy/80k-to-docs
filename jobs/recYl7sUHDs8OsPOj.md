@@ -2,7 +2,7 @@
 title: "Technical Officer, Public Health Laboratories"
 employer: "United Nations, World Health Organization"
 job_id: "recYl7sUHDs8OsPOj"
-last_updated: "2026-05-26T16:24:06.433629Z"
+last_updated: "2026-05-27T05:33:01.630828Z"
 posted_at: "2026-05-07T00:00:00Z"
 status: ready
 apply_url: "https://careers.who.int/careersection/ex/jobdetail.ftl?job=2601185&tz=GMT%2B05%3A30&tzname=Asia%2FCalcutta"
@@ -34,4 +34,4 @@ areas:
 <p class="apply-cta"><a href="https://careers.who.int/careersection/ex/jobdetail.ftl?job=2601185&amp;tz=GMT%2B05%3A30&amp;tzname=Asia%2FCalcutta">Apply →</a></p>
 
 ---
-*Posted 2026-05-07 · Listing synced 2026-05-26 · 80k job ID `recYl7sUHDs8OsPOj`*
+*Posted 2026-05-07 · Listing synced 2026-05-27 · 80k job ID `recYl7sUHDs8OsPOj`*

@@ -2,7 +2,7 @@
 title: "Senior Research Scientist / Principal Research Scientist, AI Safety, Biological / Physical Sciences"
 employer: "Lila Sciences"
 job_id: "rec5w4Ep5c2J7E1kw"
-last_updated: "2026-05-26T16:25:30.123281Z"
+last_updated: "2026-05-27T05:34:18.906632Z"
 posted_at: "2022-01-05T00:00:00Z"
 status: ready
 apply_url: "https://job-boards.greenhouse.io/lilasciences/jobs/4111976009"
@@ -34,4 +34,4 @@ areas:
 <p class="apply-cta"><a href="https://job-boards.greenhouse.io/lilasciences/jobs/4111976009">Apply →</a></p>
 
 ---
-*Posted 2022-01-05 · Listing synced 2026-05-26 · 80k job ID `rec5w4Ep5c2J7E1kw`*
+*Posted 2022-01-05 · Listing synced 2026-05-27 · 80k job ID `rec5w4Ep5c2J7E1kw`*

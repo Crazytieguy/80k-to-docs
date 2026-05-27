@@ -2,7 +2,7 @@
 title: "Chief Investment Officer"
 employer: "Malengo"
 job_id: "reccJqdaoUlrkIjnZ"
-last_updated: "2026-05-26T16:25:55.679157Z"
+last_updated: "2026-05-27T05:34:47.385597Z"
 posted_at: "2022-01-01T00:00:00Z"
 status: ready
 apply_url: "https://malengo.org/chief-investment-officer/"
@@ -32,4 +32,4 @@ areas:
 <p class="apply-cta"><a href="https://malengo.org/chief-investment-officer/">Apply →</a></p>
 
 ---
-*Posted 2022-01-01 · Listing synced 2026-05-26 · 80k job ID `reccJqdaoUlrkIjnZ`*
+*Posted 2022-01-01 · Listing synced 2026-05-27 · 80k job ID `reccJqdaoUlrkIjnZ`*

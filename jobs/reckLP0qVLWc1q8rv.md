@@ -2,7 +2,7 @@
 title: "Contributions Manager"
 employer: "Founders Pledge"
 job_id: "reckLP0qVLWc1q8rv"
-last_updated: "2026-05-26T16:23:52.024401Z"
+last_updated: "2026-05-27T05:32:47.000760Z"
 posted_at: "2026-05-18T00:00:00Z"
 status: ready
 apply_url: "https://careers.founderspledge.com/jobs/7726117-contributions-manager"
@@ -15,7 +15,7 @@ areas:
 **[Founders Pledge](https://www.founderspledge.com/)**
 
 <dl class="job-meta">
-<dt>Location</dt><dd>San Francisco Bay Area, New York, NY, Philadelphia, PA, USA</dd>
+<dt>Location</dt><dd>New York, NY, San Francisco Bay Area, Philadelphia, PA, USA</dd>
 <dt>Role type</dt><dd>Full-time</dd>
 <dt>Experience</dt><dd>Junior (1-4 years experience)</dd>
 <dt>Degree</dt><dd>Undergraduate degree or less</dd>
@@ -34,4 +34,4 @@ areas:
 <p class="apply-cta"><a href="https://careers.founderspledge.com/jobs/7726117-contributions-manager">Apply →</a></p>
 
 ---
-*Posted 2026-05-18 · Listing synced 2026-05-26 · 80k job ID `reckLP0qVLWc1q8rv`*
+*Posted 2026-05-18 · Listing synced 2026-05-27 · 80k job ID `reckLP0qVLWc1q8rv`*

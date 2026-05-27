@@ -2,13 +2,13 @@
 title: "List of Staff Opportunities, U.S. House of Representatives"
 employer: "US Government, Congress"
 job_id: "recCtIfjqpK2vH2cM"
-last_updated: "2026-05-26T16:23:50.445126Z"
+last_updated: "2026-05-27T05:32:45.378701Z"
 posted_at: "2026-05-19T00:00:00Z"
 status: ready
 apply_url: "https://drive.google.com/file/d/1m7dqIPTmIdMMM0fG38TV4j0xTFLnM8q5/view?usp=sharing"
 areas:
-  - "Congressional staffer"
   - "Career development: Policy & government"
+  - "Congressional staffer"
 ---
 
 # List of Staff Opportunities, U.S. House of Representatives
@@ -22,7 +22,7 @@ areas:
 <dt>Degree</dt><dd>Undergraduate degree or less</dd>
 </dl>
 
-**Areas & skills:** Congressional staffer, Career development: Policy & government, Policy
+**Areas & skills:** Career development: Policy & government, Congressional staffer, Policy
 
 ## Summary
 - You can find full-time opportunities working in offices within the United States House of Representatives in the following bulletin (which is updated every week).
@@ -31,4 +31,4 @@ areas:
 <p class="apply-cta"><a href="https://drive.google.com/file/d/1m7dqIPTmIdMMM0fG38TV4j0xTFLnM8q5/view?usp=sharing">Apply →</a></p>
 
 ---
-*Posted 2026-05-19 · Listing synced 2026-05-26 · 80k job ID `recCtIfjqpK2vH2cM`*
+*Posted 2026-05-19 · Listing synced 2026-05-27 · 80k job ID `recCtIfjqpK2vH2cM`*

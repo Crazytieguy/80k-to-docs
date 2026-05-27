@@ -2,7 +2,7 @@
 title: "Software Engineer, Infrastructure Security"
 employer: "OpenAI"
 job_id: "recwldYT3YSzZgpvn"
-last_updated: "2026-05-26T16:24:58.150758Z"
+last_updated: "2026-05-27T05:33:50.577941Z"
 posted_at: "2022-01-11T00:00:00Z"
 status: ready
 apply_url: "https://openai.com/careers/software-engineer-infrastructure-security-remote-us/"
@@ -34,4 +34,4 @@ areas:
 <p class="apply-cta"><a href="https://openai.com/careers/software-engineer-infrastructure-security-remote-us/">Apply →</a></p>
 
 ---
-*Posted 2022-01-11 · Listing synced 2026-05-26 · 80k job ID `recwldYT3YSzZgpvn`*
+*Posted 2022-01-11 · Listing synced 2026-05-27 · 80k job ID `recwldYT3YSzZgpvn`*

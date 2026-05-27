@@ -2,7 +2,7 @@
 title: "Policy Accelerator, Global Health and Development"
 employer: "Impactful Policy Careers"
 job_id: "recS8MrGfxCPAjomd"
-last_updated: "2026-05-26T16:25:54.235055Z"
+last_updated: "2026-05-27T05:34:45.802411Z"
 posted_at: "2022-01-01T00:00:00Z"
 status: ready
 apply_url: "https://www.impactfulpolicycareers.com/global-health-cohort"
@@ -33,4 +33,4 @@ areas:
 <p class="apply-cta"><a href="https://www.impactfulpolicycareers.com/global-health-cohort">Apply →</a></p>
 
 ---
-*Posted 2022-01-01 · Listing synced 2026-05-26 · 80k job ID `recS8MrGfxCPAjomd`*
+*Posted 2022-01-01 · Listing synced 2026-05-27 · 80k job ID `recS8MrGfxCPAjomd`*

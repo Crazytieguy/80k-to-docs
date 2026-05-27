@@ -2,7 +2,7 @@
 title: "Engineering Manager, Detection and Response"
 employer: "Anthropic"
 job_id: "recARgp2jK3nxy5Ls"
-last_updated: "2026-05-26T16:24:42.361221Z"
+last_updated: "2026-05-27T05:33:35.235397Z"
 posted_at: "2026-03-16T00:00:00Z"
 status: ready
 apply_url: "https://job-boards.greenhouse.io/anthropic/jobs/5068296008"
@@ -33,4 +33,4 @@ areas:
 <p class="apply-cta"><a href="https://job-boards.greenhouse.io/anthropic/jobs/5068296008">Apply →</a></p>
 
 ---
-*Posted 2026-03-16 · Listing synced 2026-05-26 · 80k job ID `recARgp2jK3nxy5Ls`*
+*Posted 2026-03-16 · Listing synced 2026-05-27 · 80k job ID `recARgp2jK3nxy5Ls`*

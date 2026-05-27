@@ -2,7 +2,7 @@
 title: "Security Engineer, Systems Integrity"
 employer: "Anthropic"
 job_id: "rechOppE2TFBZwjLI"
-last_updated: "2026-05-26T16:24:50.730172Z"
+last_updated: "2026-05-27T05:33:43.397452Z"
 posted_at: "2022-01-11T00:00:00Z"
 status: ready
 apply_url: "https://job-boards.greenhouse.io/anthropic/jobs/4929689008"
@@ -34,4 +34,4 @@ areas:
 <p class="apply-cta"><a href="https://job-boards.greenhouse.io/anthropic/jobs/4929689008">Apply →</a></p>
 
 ---
-*Posted 2022-01-11 · Listing synced 2026-05-26 · 80k job ID `rechOppE2TFBZwjLI`*
+*Posted 2022-01-11 · Listing synced 2026-05-27 · 80k job ID `rechOppE2TFBZwjLI`*

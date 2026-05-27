@@ -2,7 +2,7 @@
 title: "Community and Development Coordinator, Brazil"
 employer: "Sinergia Animal"
 job_id: "recHDFHxEpYavaksV"
-last_updated: "2026-05-26T16:23:57.420137Z"
+last_updated: "2026-05-27T05:32:52.661510Z"
 posted_at: "2026-05-14T00:00:00Z"
 status: ready
 apply_url: "https://www.sinergiaanimalinternational.org/communityanddevelopmentcoordinator-brazil"
@@ -33,4 +33,4 @@ areas:
 <p class="apply-cta"><a href="https://www.sinergiaanimalinternational.org/communityanddevelopmentcoordinator-brazil">Apply →</a></p>
 
 ---
-*Posted 2026-05-14 · Listing synced 2026-05-26 · 80k job ID `recHDFHxEpYavaksV`*
+*Posted 2026-05-14 · Listing synced 2026-05-27 · 80k job ID `recHDFHxEpYavaksV`*

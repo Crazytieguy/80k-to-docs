@@ -4,24 +4,20 @@ employer: "Schmidt Sciences"
 job_id: "recJGPuMO6SoqQXwG"
 last_updated: "2026-05-26T16:24:19.518094Z"
 posted_at: "2026-04-23T00:00:00Z"
-status: ready
+status: closed
+closed_at: "2026-05-27"
 apply_url: "https://schmidtsciences.smapply.io/prog/2026_interpretability_rfp/"
 areas:
   - "AI safety & policy"
 ---
 
+> ⚠️ **CLOSED on 2026-05-27** — this job is no longer listed on the 80,000 Hours board. Archived snapshot below.
+
 # Request for Proposals, AI Interpretability (2026)
 
-**[Schmidt Sciences](https://www.schmidtsciences.org/)**
+**Schmidt Sciences**
 
-<dl class="job-meta">
-<dt>Location</dt><dd>Remote, Global</dd>
-<dt>Role type</dt><dd>Funding</dd>
-<dt>Experience</dt><dd>Multiple experience levels</dd>
-<dt>Degree</dt><dd>Undergraduate degree or less</dd>
-</dl>
-
-**Areas & skills:** AI safety & policy, Research, Strategy
+**Areas & skills:** AI safety & policy
 
 ## Summary
 - Receive funding to develop interpretability methods that detect deceptive behaviours in LLMs and steer their reasoning to eliminate these behaviours.

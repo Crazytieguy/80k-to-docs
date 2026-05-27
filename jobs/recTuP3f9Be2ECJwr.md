@@ -2,7 +2,7 @@
 title: "Research Assistant, Human Influence"
 employer: "UK Government, AI Security Institute"
 job_id: "recTuP3f9Be2ECJwr"
-last_updated: "2026-05-26T16:24:14.552855Z"
+last_updated: "2026-05-27T05:33:09.586831Z"
 posted_at: "2026-04-29T00:05:00Z"
 status: ready
 apply_url: "https://job-boards.eu.greenhouse.io/aisi/jobs/4846804101"
@@ -19,7 +19,7 @@ areas:
 <dt>Role type</dt><dd>Full-time</dd>
 <dt>Experience</dt><dd>Entry-level</dd>
 <dt>Degree</dt><dd>Undergraduate degree or less</dd>
-<dt>Salary</dt><dd>$87,413 – $100,861</dd>
+<dt>Salary</dt><dd>$87,467 – $100,923</dd>
 </dl>
 
 **Areas & skills:** AI safety & policy, Research
@@ -34,4 +34,4 @@ areas:
 <p class="apply-cta"><a href="https://job-boards.eu.greenhouse.io/aisi/jobs/4846804101">Apply →</a></p>
 
 ---
-*Posted 2026-04-29 · Listing synced 2026-05-26 · 80k job ID `recTuP3f9Be2ECJwr`*
+*Posted 2026-04-29 · Listing synced 2026-05-27 · 80k job ID `recTuP3f9Be2ECJwr`*

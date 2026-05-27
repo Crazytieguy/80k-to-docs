@@ -2,7 +2,7 @@
 title: "Researcher, Integrated Analytics"
 employer: "University of Washington, Institute for Health Metrics and Evaluation"
 job_id: "reckmNnjbHKMQ76mV"
-last_updated: "2026-05-26T16:24:31.231655Z"
+last_updated: "2026-05-27T05:33:24.862959Z"
 posted_at: "2026-04-09T00:00:00Z"
 status: ready
 apply_url: "https://www.healthdata.org/about/careers/job-openings/researcher-temporary-integrated-analytics"
@@ -34,4 +34,4 @@ areas:
 <p class="apply-cta"><a href="https://www.healthdata.org/about/careers/job-openings/researcher-temporary-integrated-analytics">Apply →</a></p>
 
 ---
-*Posted 2026-04-09 · Listing synced 2026-05-26 · 80k job ID `reckmNnjbHKMQ76mV`*
+*Posted 2026-04-09 · Listing synced 2026-05-27 · 80k job ID `reckmNnjbHKMQ76mV`*

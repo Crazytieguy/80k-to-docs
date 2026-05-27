@@ -2,7 +2,7 @@
 title: "ML Developer, Applied Research"
 employer: "LawZero"
 job_id: "reckNtbShGYeHfHQj"
-last_updated: "2026-05-26T16:24:37.501259Z"
+last_updated: "2026-05-27T05:33:30.663804Z"
 posted_at: "2026-03-30T00:04:35Z"
 status: ready
 apply_url: "https://job-boards.greenhouse.io/lawzero/jobs/4187500009"
@@ -33,4 +33,4 @@ areas:
 <p class="apply-cta"><a href="https://job-boards.greenhouse.io/lawzero/jobs/4187500009">Apply →</a></p>
 
 ---
-*Posted 2026-03-30 · Listing synced 2026-05-26 · 80k job ID `reckNtbShGYeHfHQj`*
+*Posted 2026-03-30 · Listing synced 2026-05-27 · 80k job ID `reckNtbShGYeHfHQj`*

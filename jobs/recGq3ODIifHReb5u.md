@@ -2,7 +2,7 @@
 title: "Manager of Programs, Thailand"
 employer: "Sinergia Animal"
 job_id: "recGq3ODIifHReb5u"
-last_updated: "2026-05-26T16:24:20.349674Z"
+last_updated: "2026-05-27T05:33:15.255240Z"
 posted_at: "2026-04-22T00:00:00Z"
 status: ready
 apply_url: "https://www.sinergiaanimalinternational.org/jobs/manager-of-programs-thailand"
@@ -33,4 +33,4 @@ areas:
 <p class="apply-cta"><a href="https://www.sinergiaanimalinternational.org/jobs/manager-of-programs-thailand">Apply →</a></p>
 
 ---
-*Posted 2026-04-22 · Listing synced 2026-05-26 · 80k job ID `recGq3ODIifHReb5u`*
+*Posted 2026-04-22 · Listing synced 2026-05-27 · 80k job ID `recGq3ODIifHReb5u`*

@@ -2,7 +2,7 @@
 title: "Postdoctoral Fellow"
 employer: "Fred Hutchinson Cancer Research Center, Bedford Lab"
 job_id: "recvRJ0x7z7aWyE8v"
-last_updated: "2026-05-26T16:25:40.629474Z"
+last_updated: "2026-05-27T05:34:32.234530Z"
 posted_at: "2022-01-02T00:00:00Z"
 status: ready
 apply_url: "https://bedford.io/misc/join/"
@@ -30,4 +30,4 @@ areas:
 <p class="apply-cta"><a href="https://bedford.io/misc/join/">Apply →</a></p>
 
 ---
-*Posted 2022-01-02 · Listing synced 2026-05-26 · 80k job ID `recvRJ0x7z7aWyE8v`*
+*Posted 2022-01-02 · Listing synced 2026-05-27 · 80k job ID `recvRJ0x7z7aWyE8v`*

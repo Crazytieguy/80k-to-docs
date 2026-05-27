@@ -2,7 +2,7 @@
 title: "Threat Modeler, Preparedness"
 employer: "OpenAI"
 job_id: "recbEsGXJJrZQ0u6e"
-last_updated: "2026-05-26T16:24:43.652880Z"
+last_updated: "2026-05-27T05:33:36.573830Z"
 posted_at: "2026-03-13T00:00:00Z"
 status: ready
 apply_url: "https://openai.com/careers/threat-modeler-preparedness-san-francisco/"
@@ -34,4 +34,4 @@ areas:
 <p class="apply-cta"><a href="https://openai.com/careers/threat-modeler-preparedness-san-francisco/">Apply →</a></p>
 
 ---
-*Posted 2026-03-13 · Listing synced 2026-05-26 · 80k job ID `recbEsGXJJrZQ0u6e`*
+*Posted 2026-03-13 · Listing synced 2026-05-27 · 80k job ID `recbEsGXJJrZQ0u6e`*

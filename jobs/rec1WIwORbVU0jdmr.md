@@ -2,7 +2,7 @@
 title: "Associate, AI Security Resident"
 employer: "RAND Corporation"
 job_id: "rec1WIwORbVU0jdmr"
-last_updated: "2026-05-26T16:23:42.977058Z"
+last_updated: "2026-05-27T05:32:38.220679Z"
 posted_at: "2026-05-21T00:04:07Z"
 status: ready
 apply_url: "https://rand.wd5.myworkdayjobs.com/en-US/External_Career_Site/job/Washington-DC-DC-Metro-Area/Associate-AI-Security-Resident_R3537"
@@ -34,4 +34,4 @@ areas:
 <p class="apply-cta"><a href="https://rand.wd5.myworkdayjobs.com/en-US/External_Career_Site/job/Washington-DC-DC-Metro-Area/Associate-AI-Security-Resident_R3537">Apply →</a></p>
 
 ---
-*Posted 2026-05-21 · Listing synced 2026-05-26 · 80k job ID `rec1WIwORbVU0jdmr`*
+*Posted 2026-05-21 · Listing synced 2026-05-27 · 80k job ID `rec1WIwORbVU0jdmr`*

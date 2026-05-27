@@ -2,7 +2,7 @@
 title: "Program Lead, AI Access Initiative"
 employer: "Evidence Action"
 job_id: "rec7l44mV9URKdAJB"
-last_updated: "2026-05-26T16:25:52.602463Z"
+last_updated: "2026-05-27T05:34:44.222426Z"
 posted_at: "2022-01-01T00:00:00Z"
 status: ready
 apply_url: "https://apply.workable.com/evidence-action/j/A94E2AEC5F/"
@@ -34,4 +34,4 @@ areas:
 <p class="apply-cta"><a href="https://apply.workable.com/evidence-action/j/A94E2AEC5F/">Apply →</a></p>
 
 ---
-*Posted 2022-01-01 · Listing synced 2026-05-26 · 80k job ID `rec7l44mV9URKdAJB`*
+*Posted 2022-01-01 · Listing synced 2026-05-27 · 80k job ID `rec7l44mV9URKdAJB`*

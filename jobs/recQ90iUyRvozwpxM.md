@@ -2,7 +2,7 @@
 title: "Expression of Interest, Contractor, Video Programme"
 employer: "80,000 Hours"
 job_id: "recQ90iUyRvozwpxM"
-last_updated: "2026-05-26T16:25:19.296471Z"
+last_updated: "2026-05-27T05:34:10.356486Z"
 posted_at: "2022-01-05T00:00:00Z"
 status: ready
 apply_url: "https://80000hours.org/2025/08/expression-of-interest-contracting-for-video-work/"
@@ -33,4 +33,4 @@ areas:
 <p class="apply-cta"><a href="https://80000hours.org/2025/08/expression-of-interest-contracting-for-video-work/">Apply →</a></p>
 
 ---
-*Posted 2022-01-05 · Listing synced 2026-05-26 · 80k job ID `recQ90iUyRvozwpxM`*
+*Posted 2022-01-05 · Listing synced 2026-05-27 · 80k job ID `recQ90iUyRvozwpxM`*

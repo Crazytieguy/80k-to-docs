@@ -2,7 +2,7 @@
 title: "Program Examiner"
 employer: "US Government, Executive Office of the President"
 job_id: "recY7N8VkFbw9XDo3"
-last_updated: "2026-05-26T16:23:47.673138Z"
+last_updated: "2026-05-27T05:32:42.748293Z"
 posted_at: "2026-05-20T00:00:00Z"
 status: ready
 apply_url: "https://www.usajobs.gov/job/869913400"
@@ -34,4 +34,4 @@ areas:
 <p class="apply-cta"><a href="https://www.usajobs.gov/job/869913400">Apply →</a></p>
 
 ---
-*Posted 2026-05-20 · Listing synced 2026-05-26 · 80k job ID `recY7N8VkFbw9XDo3`*
+*Posted 2026-05-20 · Listing synced 2026-05-27 · 80k job ID `recY7N8VkFbw9XDo3`*

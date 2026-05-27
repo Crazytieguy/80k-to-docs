@@ -2,7 +2,7 @@
 title: "Executive Operations Assistant"
 employer: "FAR AI"
 job_id: "recOwVLAHwet8DR0E"
-last_updated: "2026-05-26T16:25:27.240582Z"
+last_updated: "2026-05-27T05:34:15.802367Z"
 posted_at: "2022-01-05T00:00:00Z"
 status: ready
 apply_url: "https://jobs.ashbyhq.com/far.ai/4cc0053b-9c43-4114-ba4f-47888764aa8c?embed=js"
@@ -34,4 +34,4 @@ areas:
 <p class="apply-cta"><a href="https://jobs.ashbyhq.com/far.ai/4cc0053b-9c43-4114-ba4f-47888764aa8c?embed=js">Apply →</a></p>
 
 ---
-*Posted 2022-01-05 · Listing synced 2026-05-26 · 80k job ID `recOwVLAHwet8DR0E`*
+*Posted 2022-01-05 · Listing synced 2026-05-27 · 80k job ID `recOwVLAHwet8DR0E`*

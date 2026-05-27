@@ -2,7 +2,7 @@
 title: "IT Associate / Senior IT Associate"
 employer: "Coefficient Giving"
 job_id: "recMwL2Y24p9YlwAj"
-last_updated: "2026-05-26T16:24:00.944153Z"
+last_updated: "2026-05-27T05:32:56.789452Z"
 posted_at: "2026-05-11T00:04:04Z"
 status: ready
 apply_url: "https://jobs.ashbyhq.com/coefficientgiving/5d062038-7c3b-46a8-a6db-6806b1495698"
@@ -34,4 +34,4 @@ areas:
 <p class="apply-cta"><a href="https://jobs.ashbyhq.com/coefficientgiving/5d062038-7c3b-46a8-a6db-6806b1495698">Apply →</a></p>
 
 ---
-*Posted 2026-05-11 · Listing synced 2026-05-26 · 80k job ID `recMwL2Y24p9YlwAj`*
+*Posted 2026-05-11 · Listing synced 2026-05-27 · 80k job ID `recMwL2Y24p9YlwAj`*

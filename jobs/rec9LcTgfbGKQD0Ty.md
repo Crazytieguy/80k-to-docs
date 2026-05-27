@@ -2,7 +2,7 @@
 title: "Recruiting Associate / Specialist"
 employer: "80,000 Hours"
 job_id: "rec9LcTgfbGKQD0Ty"
-last_updated: "2026-05-26T16:24:06.926484Z"
+last_updated: "2026-05-27T05:33:02.171017Z"
 posted_at: "2026-05-06T00:03:00Z"
 status: ready
 apply_url: "https://80000hours.org/2026/05/recruiting-associate-specialist-2"
@@ -19,7 +19,7 @@ areas:
 <dt>Role type</dt><dd>Full-time</dd>
 <dt>Experience</dt><dd>Junior (1-4 years experience), Entry-level</dd>
 <dt>Degree</dt><dd>Undergraduate degree or less</dd>
-<dt>Salary</dt><dd>$90,846 – $135,599</dd>
+<dt>Salary</dt><dd>$90,902 – $135,683</dd>
 </dl>
 
 **Areas & skills:** AI safety & policy, Operations
@@ -34,4 +34,4 @@ areas:
 <p class="apply-cta"><a href="https://80000hours.org/2026/05/recruiting-associate-specialist-2">Apply →</a></p>
 
 ---
-*Posted 2026-05-06 · Listing synced 2026-05-26 · 80k job ID `rec9LcTgfbGKQD0Ty`*
+*Posted 2026-05-06 · Listing synced 2026-05-27 · 80k job ID `rec9LcTgfbGKQD0Ty`*

@@ -2,7 +2,7 @@
 title: "General Engineer, Artificial Intelligence Systems"
 employer: "US Government, Bureau of Industry and Security"
 job_id: "rec8KHgb5yxF0cBIG"
-last_updated: "2026-05-26T16:23:38.880820Z"
+last_updated: "2026-05-27T05:32:33.869241Z"
 posted_at: "2026-05-25T00:01:00Z"
 status: ready
 apply_url: "https://www.usajobs.gov/job/870487700"
@@ -34,4 +34,4 @@ areas:
 <p class="apply-cta"><a href="https://www.usajobs.gov/job/870487700">Apply →</a></p>
 
 ---
-*Posted 2026-05-25 · Listing synced 2026-05-26 · 80k job ID `rec8KHgb5yxF0cBIG`*
+*Posted 2026-05-25 · Listing synced 2026-05-27 · 80k job ID `rec8KHgb5yxF0cBIG`*

@@ -2,7 +2,7 @@
 title: "Fellowship, Geopolitics of Artificial Intelligence"
 employer: "Stanford University, Center for International Security and Cooperation"
 job_id: "recfcyVUnGAkc2evG"
-last_updated: "2026-05-26T16:24:05.141799Z"
+last_updated: "2026-05-27T05:33:00.443528Z"
 posted_at: "2026-05-08T00:00:00Z"
 status: ready
 apply_url: "https://cisac.fsi.stanford.edu/content/cisac-fellowship-program"
@@ -33,4 +33,4 @@ areas:
 <p class="apply-cta"><a href="https://cisac.fsi.stanford.edu/content/cisac-fellowship-program">Apply →</a></p>
 
 ---
-*Posted 2026-05-08 · Listing synced 2026-05-26 · 80k job ID `recfcyVUnGAkc2evG`*
+*Posted 2026-05-08 · Listing synced 2026-05-27 · 80k job ID `recfcyVUnGAkc2evG`*

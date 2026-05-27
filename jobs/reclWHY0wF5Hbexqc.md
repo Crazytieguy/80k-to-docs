@@ -2,7 +2,7 @@
 title: "Principal Software Engineer, Infrastructure Security"
 employer: "OpenAI"
 job_id: "reclWHY0wF5Hbexqc"
-last_updated: "2026-05-26T16:24:17.670828Z"
+last_updated: "2026-05-27T05:33:12.680630Z"
 posted_at: "2026-04-27T00:00:00Z"
 status: ready
 apply_url: "https://openai.com/careers/principal-software-engineer-infrastructure-security-remote-us/"
@@ -34,4 +34,4 @@ areas:
 <p class="apply-cta"><a href="https://openai.com/careers/principal-software-engineer-infrastructure-security-remote-us/">Apply →</a></p>
 
 ---
-*Posted 2026-04-27 · Listing synced 2026-05-26 · 80k job ID `reclWHY0wF5Hbexqc`*
+*Posted 2026-04-27 · Listing synced 2026-05-27 · 80k job ID `reclWHY0wF5Hbexqc`*

@@ -2,7 +2,7 @@
 title: "Abuse Investigator, Chemical, Biological, Radiological, and Nuclear"
 employer: "OpenAI"
 job_id: "rec9tFIwT8BYyTesf"
-last_updated: "2026-05-26T16:24:42.814420Z"
+last_updated: "2026-05-27T05:33:35.733076Z"
 posted_at: "2026-03-16T00:00:00Z"
 status: ready
 apply_url: "https://openai.com/careers/abuse-investigator-(cbrn)-remote-us/"
@@ -15,7 +15,7 @@ areas:
 **[OpenAI](https://openai.com/)**
 
 <dl class="job-meta">
-<dt>Location</dt><dd>Washington, DC metro area, San Francisco Bay Area, Remote, USA, USA</dd>
+<dt>Location</dt><dd>Remote, USA, Washington, DC metro area, San Francisco Bay Area, USA</dd>
 <dt>Role type</dt><dd>Full-time</dd>
 <dt>Experience</dt><dd>Mid (5-9 years experience)</dd>
 <dt>Degree</dt><dd>Undergraduate degree or less</dd>
@@ -34,4 +34,4 @@ areas:
 <p class="apply-cta"><a href="https://openai.com/careers/abuse-investigator-(cbrn)-remote-us/">Apply →</a></p>
 
 ---
-*Posted 2026-03-16 · Listing synced 2026-05-26 · 80k job ID `rec9tFIwT8BYyTesf`*
+*Posted 2026-03-16 · Listing synced 2026-05-27 · 80k job ID `rec9tFIwT8BYyTesf`*

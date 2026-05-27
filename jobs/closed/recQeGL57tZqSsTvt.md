@@ -4,24 +4,20 @@ employer: "BlueDot Impact"
 job_id: "recQeGL57tZqSsTvt"
 last_updated: "2026-05-26T16:24:03.356999Z"
 posted_at: "2026-05-08T00:04:25Z"
-status: ready
+status: closed
+closed_at: "2026-05-27"
 apply_url: "https://bluedot.org/programs/incubator-week"
 areas:
   - "AI safety & policy"
 ---
 
+> ⚠️ **CLOSED on 2026-05-27** — this job is no longer listed on the 80,000 Hours board. Archived snapshot below.
+
 # Incubator Week
 
-**[BlueDot Impact](https://www.bluedotimpact.org/)**
+**BlueDot Impact**
 
-<dl class="job-meta">
-<dt>Location</dt><dd>London, UK, San Francisco Bay Area, UK, USA</dd>
-<dt>Role type</dt><dd>Funding</dd>
-<dt>Experience</dt><dd>Multiple experience levels</dd>
-<dt>Degree</dt><dd>Undergraduate degree or less</dd>
-</dl>
-
-**Areas & skills:** AI safety & policy, Strategy
+**Areas & skills:** AI safety & policy
 
 ## Summary
 - In the incubator week, you'll develop your AI safety idea into a fundable organisation over 5 days in London.

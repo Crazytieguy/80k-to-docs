@@ -2,7 +2,7 @@
 title: "Special Program Coordinator, China Engagement"
 employer: "AI Safety Connect"
 job_id: "recuWjFj4eNDJ0Egi"
-last_updated: "2026-05-26T16:23:55.573875Z"
+last_updated: "2026-05-27T05:32:50.743016Z"
 posted_at: "2026-05-14T00:02:00Z"
 status: ready
 apply_url: "https://portal.aisafetyconnect.org/special-program-coordinator-china-engagement"
@@ -34,4 +34,4 @@ areas:
 <p class="apply-cta"><a href="https://portal.aisafetyconnect.org/special-program-coordinator-china-engagement">Apply →</a></p>
 
 ---
-*Posted 2026-05-14 · Listing synced 2026-05-26 · 80k job ID `recuWjFj4eNDJ0Egi`*
+*Posted 2026-05-14 · Listing synced 2026-05-27 · 80k job ID `recuWjFj4eNDJ0Egi`*

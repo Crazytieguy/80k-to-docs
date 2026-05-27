@@ -2,7 +2,7 @@
 title: "Research Engineer, Offensive Security, Safeguards"
 employer: "Anthropic"
 job_id: "recJAlNZ3Qmh3NSnQ"
-last_updated: "2026-05-26T16:24:47.038216Z"
+last_updated: "2026-05-27T05:33:39.722674Z"
 posted_at: "2022-01-12T00:00:00Z"
 status: ready
 apply_url: "https://job-boards.greenhouse.io/anthropic/jobs/5123011008"
@@ -34,4 +34,4 @@ areas:
 <p class="apply-cta"><a href="https://job-boards.greenhouse.io/anthropic/jobs/5123011008">Apply →</a></p>
 
 ---
-*Posted 2022-01-12 · Listing synced 2026-05-26 · 80k job ID `recJAlNZ3Qmh3NSnQ`*
+*Posted 2022-01-12 · Listing synced 2026-05-27 · 80k job ID `recJAlNZ3Qmh3NSnQ`*

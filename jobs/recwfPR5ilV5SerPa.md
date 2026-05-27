@@ -2,7 +2,7 @@
 title: "Externship / Student Volunteer, Legislative Affairs Program (Fall 2026 and Spring 2027)"
 employer: "Animal Legal Defense Fund"
 job_id: "recwfPR5ilV5SerPa"
-last_updated: "2026-05-26T16:24:10.962265Z"
+last_updated: "2026-05-27T05:33:06.011795Z"
 posted_at: "2026-05-05T00:00:00Z"
 status: ready
 apply_url: "https://recruiting.paylocity.com/Recruiting/Jobs/Details/4020084"
@@ -33,4 +33,4 @@ areas:
 <p class="apply-cta"><a href="https://recruiting.paylocity.com/Recruiting/Jobs/Details/4020084">Apply →</a></p>
 
 ---
-*Posted 2026-05-05 · Listing synced 2026-05-26 · 80k job ID `recwfPR5ilV5SerPa`*
+*Posted 2026-05-05 · Listing synced 2026-05-27 · 80k job ID `recwfPR5ilV5SerPa`*

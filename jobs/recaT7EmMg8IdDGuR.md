@@ -2,7 +2,7 @@
 title: "Technical Program Manager, AI Alignment"
 employer: "AE Studio"
 job_id: "recaT7EmMg8IdDGuR"
-last_updated: "2026-05-26T16:25:19.465582Z"
+last_updated: "2026-05-27T05:34:10.539253Z"
 posted_at: "2022-01-05T00:00:00Z"
 status: ready
 apply_url: "https://job-boards.greenhouse.io/aestudio/jobs/5616440004"
@@ -34,4 +34,4 @@ areas:
 <p class="apply-cta"><a href="https://job-boards.greenhouse.io/aestudio/jobs/5616440004">Apply →</a></p>
 
 ---
-*Posted 2022-01-05 · Listing synced 2026-05-26 · 80k job ID `recaT7EmMg8IdDGuR`*
+*Posted 2022-01-05 · Listing synced 2026-05-27 · 80k job ID `recaT7EmMg8IdDGuR`*

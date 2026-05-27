@@ -2,7 +2,7 @@
 title: "Development Director, International"
 employer: "Sinergia Animal"
 job_id: "reczVLwYOUlxlmTkY"
-last_updated: "2026-05-26T16:24:37.651158Z"
+last_updated: "2026-05-27T05:33:30.803811Z"
 posted_at: "2026-03-27T00:00:00Z"
 status: ready
 apply_url: "https://www.sinergiaanimalinternational.org/jobs/development-director-international"
@@ -31,4 +31,4 @@ areas:
 <p class="apply-cta"><a href="https://www.sinergiaanimalinternational.org/jobs/development-director-international">Apply →</a></p>
 
 ---
-*Posted 2026-03-27 · Listing synced 2026-05-26 · 80k job ID `reczVLwYOUlxlmTkY`*
+*Posted 2026-03-27 · Listing synced 2026-05-27 · 80k job ID `reczVLwYOUlxlmTkY`*

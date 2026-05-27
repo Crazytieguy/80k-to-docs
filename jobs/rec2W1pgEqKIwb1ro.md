@@ -2,7 +2,7 @@
 title: "Food Policy Lead, Colombia"
 employer: "Sinergia Animal"
 job_id: "rec2W1pgEqKIwb1ro"
-last_updated: "2026-05-26T16:25:46.791216Z"
+last_updated: "2026-05-27T05:34:38.467810Z"
 posted_at: "2022-01-02T00:00:00Z"
 status: ready
 apply_url: "https://www.sinergiaanimalinternational.org/jobs/public-policy-lead-thailand"
@@ -33,4 +33,4 @@ areas:
 <p class="apply-cta"><a href="https://www.sinergiaanimalinternational.org/jobs/public-policy-lead-thailand">Apply →</a></p>
 
 ---
-*Posted 2022-01-02 · Listing synced 2026-05-26 · 80k job ID `rec2W1pgEqKIwb1ro`*
+*Posted 2022-01-02 · Listing synced 2026-05-27 · 80k job ID `rec2W1pgEqKIwb1ro`*

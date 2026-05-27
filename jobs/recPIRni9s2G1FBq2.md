@@ -2,7 +2,7 @@
 title: "Program Officer"
 employer: "Arthropoda Foundation"
 job_id: "recPIRni9s2G1FBq2"
-last_updated: "2026-05-26T16:23:55.762788Z"
+last_updated: "2026-05-27T05:32:50.938293Z"
 posted_at: "2026-05-14T00:00:00Z"
 status: ready
 apply_url: "https://www.arthropoda.org/work-with-us"
@@ -34,4 +34,4 @@ areas:
 <p class="apply-cta"><a href="https://www.arthropoda.org/work-with-us">Apply →</a></p>
 
 ---
-*Posted 2026-05-14 · Listing synced 2026-05-26 · 80k job ID `recPIRni9s2G1FBq2`*
+*Posted 2026-05-14 · Listing synced 2026-05-27 · 80k job ID `recPIRni9s2G1FBq2`*

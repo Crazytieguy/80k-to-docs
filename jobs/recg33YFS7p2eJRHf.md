@@ -2,7 +2,7 @@
 title: "Research Assistant, Economics of Technological Progress, Innovation, and Artificial Intelligence"
 employer: "Massachusetts Institute of Technology, FutureTech"
 job_id: "recg33YFS7p2eJRHf"
-last_updated: "2026-05-26T16:25:14.374897Z"
+last_updated: "2026-05-27T05:34:05.809677Z"
 posted_at: "2022-01-06T00:00:00Z"
 status: ready
 apply_url: "https://futuretech.mit.edu/opportunities/research-assistant-exploring-the-economics-of-technological-progress-innovation-and-artificial-intelligence"
@@ -34,4 +34,4 @@ areas:
 <p class="apply-cta"><a href="https://futuretech.mit.edu/opportunities/research-assistant-exploring-the-economics-of-technological-progress-innovation-and-artificial-intelligence">Apply →</a></p>
 
 ---
-*Posted 2022-01-06 · Listing synced 2026-05-26 · 80k job ID `recg33YFS7p2eJRHf`*
+*Posted 2022-01-06 · Listing synced 2026-05-27 · 80k job ID `recg33YFS7p2eJRHf`*

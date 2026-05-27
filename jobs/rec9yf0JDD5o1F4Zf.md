@@ -2,13 +2,13 @@
 title: "Hi-Med Career Planning Course"
 employer: "High Impact Medicine"
 job_id: "rec9yf0JDD5o1F4Zf"
-last_updated: "2026-05-26T16:24:14.083582Z"
+last_updated: "2026-05-27T05:33:09.111475Z"
 posted_at: "2026-04-30T00:00:00Z"
 status: ready
 apply_url: "https://www.highimpactmedicine.org/career-planning"
 areas:
-  - "Biosecurity & pandemic preparedness"
   - "Global health & development"
+  - "Biosecurity & pandemic preparedness"
 ---
 
 # Hi-Med Career Planning Course
@@ -22,7 +22,7 @@ areas:
 <dt>Degree</dt><dd>Undergraduate degree or less</dd>
 </dl>
 
-**Areas & skills:** Biosecurity & pandemic preparedness, Global health & development, Research, Strategy
+**Areas & skills:** Global health & development, Biosecurity & pandemic preparedness, Research, Strategy
 
 ## Summary
 - This is a 6-week online career planning course designed to help doctors and medical students chart high-impact career pathways in global health.
@@ -34,4 +34,4 @@ areas:
 <p class="apply-cta"><a href="https://www.highimpactmedicine.org/career-planning">Apply →</a></p>
 
 ---
-*Posted 2026-04-30 · Listing synced 2026-05-26 · 80k job ID `rec9yf0JDD5o1F4Zf`*
+*Posted 2026-04-30 · Listing synced 2026-05-27 · 80k job ID `rec9yf0JDD5o1F4Zf`*

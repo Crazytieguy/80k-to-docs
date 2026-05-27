@@ -2,7 +2,7 @@
 title: "Recruiter"
 employer: "FAR AI"
 job_id: "recminrlfOlrxq2I9"
-last_updated: "2026-05-26T16:24:40.582276Z"
+last_updated: "2026-05-27T05:33:33.595048Z"
 posted_at: "2026-03-17T00:05:00Z"
 status: ready
 apply_url: "https://jobs.ashbyhq.com/far.ai/ee69dd15-b492-48fb-93ce-853e669d2296?embed=js"
@@ -15,7 +15,7 @@ areas:
 **[FAR AI](https://far.ai/)**
 
 <dl class="job-meta">
-<dt>Location</dt><dd>San Francisco Bay Area, Remote, Global, Remote, USA, USA</dd>
+<dt>Location</dt><dd>Remote, USA, Remote, Global, San Francisco Bay Area, USA</dd>
 <dt>Role type</dt><dd>Full-time</dd>
 <dt>Experience</dt><dd>Junior (1-4 years experience), Mid (5-9 years experience)</dd>
 <dt>Degree</dt><dd>Undergraduate degree or less</dd>
@@ -34,4 +34,4 @@ areas:
 <p class="apply-cta"><a href="https://jobs.ashbyhq.com/far.ai/ee69dd15-b492-48fb-93ce-853e669d2296?embed=js">Apply →</a></p>
 
 ---
-*Posted 2026-03-17 · Listing synced 2026-05-26 · 80k job ID `recminrlfOlrxq2I9`*
+*Posted 2026-03-17 · Listing synced 2026-05-27 · 80k job ID `recminrlfOlrxq2I9`*

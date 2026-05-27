@@ -2,7 +2,7 @@
 title: "Residency Program"
 employer: "SandboxAQ"
 job_id: "recDIEtH6rHTmoamT"
-last_updated: "2026-05-26T16:25:46.182863Z"
+last_updated: "2026-05-27T05:34:37.949816Z"
 posted_at: "2022-01-02T00:00:00Z"
 status: ready
 apply_url: "https://www.sandboxaq.com/company/residencies"
@@ -32,4 +32,4 @@ areas:
 <p class="apply-cta"><a href="https://www.sandboxaq.com/company/residencies">Apply →</a></p>
 
 ---
-*Posted 2022-01-02 · Listing synced 2026-05-26 · 80k job ID `recDIEtH6rHTmoamT`*
+*Posted 2022-01-02 · Listing synced 2026-05-27 · 80k job ID `recDIEtH6rHTmoamT`*

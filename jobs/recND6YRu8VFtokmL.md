@@ -2,7 +2,7 @@
 title: "Senior Economist, AI Geostrategic and Economic Mechanisms"
 employer: "Center for AI Risk Management and Alignment"
 job_id: "recND6YRu8VFtokmL"
-last_updated: "2026-05-26T16:25:22.399524Z"
+last_updated: "2026-05-27T05:34:13.525209Z"
 posted_at: "2022-01-05T00:00:00Z"
 status: ready
 apply_url: "https://jobs.lever.co/futureof-life/55ef0ec0-09fa-49f6-98ba-db26f85d2090"
@@ -34,4 +34,4 @@ areas:
 <p class="apply-cta"><a href="https://jobs.lever.co/futureof-life/55ef0ec0-09fa-49f6-98ba-db26f85d2090">Apply →</a></p>
 
 ---
-*Posted 2022-01-05 · Listing synced 2026-05-26 · 80k job ID `recND6YRu8VFtokmL`*
+*Posted 2022-01-05 · Listing synced 2026-05-27 · 80k job ID `recND6YRu8VFtokmL`*

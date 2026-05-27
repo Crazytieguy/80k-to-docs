@@ -2,7 +2,7 @@
 title: "Head of Communications"
 employer: "Omidyar Network"
 job_id: "recP2XtsMXFQTurop"
-last_updated: "2026-05-26T16:25:30.725336Z"
+last_updated: "2026-05-27T05:34:19.455129Z"
 posted_at: "2022-01-05T00:00:00Z"
 status: ready
 apply_url: "https://job-boards.greenhouse.io/omidyarnetwork/jobs/7450399"
@@ -33,4 +33,4 @@ areas:
 <p class="apply-cta"><a href="https://job-boards.greenhouse.io/omidyarnetwork/jobs/7450399">Apply →</a></p>
 
 ---
-*Posted 2022-01-05 · Listing synced 2026-05-26 · 80k job ID `recP2XtsMXFQTurop`*
+*Posted 2022-01-05 · Listing synced 2026-05-27 · 80k job ID `recP2XtsMXFQTurop`*

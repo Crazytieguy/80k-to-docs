@@ -4,25 +4,20 @@ employer: "UK Government, AI Security Institute"
 job_id: "recsvbUTciHo1qZRr"
 last_updated: "2026-05-26T16:23:48.390281Z"
 posted_at: "2026-05-19T00:04:50Z"
-status: ready
+status: closed
+closed_at: "2026-05-27"
 apply_url: "https://www.civilservicejobs.service.gov.uk/csr/jobs.cgi?jcode=1997824"
 areas:
   - "AI safety & policy"
 ---
 
+> ⚠️ **CLOSED on 2026-05-27** — this job is no longer listed on the 80,000 Hours board. Archived snapshot below.
+
 # Operations Associate
 
-**[UK Government, AI Security Institute](https://www.aisi.gov.uk/)**
+**UK Government, AI Security Institute**
 
-<dl class="job-meta">
-<dt>Location</dt><dd>London, UK, Manchester, UK, UK</dd>
-<dt>Role type</dt><dd>Full-time</dd>
-<dt>Experience</dt><dd>Junior (1-4 years experience)</dd>
-<dt>Degree</dt><dd>Undergraduate degree or less</dd>
-<dt>Salary</dt><dd>$49,402 – $57,854</dd>
-</dl>
-
-**Areas & skills:** AI safety & policy, Operations, Finance
+**Areas & skills:** AI safety & policy
 
 ## Summary
 - In this role, you'll support AISI's grants and finance function, ensuring efficient operations and driving improvements.

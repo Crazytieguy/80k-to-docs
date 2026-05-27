@@ -2,7 +2,7 @@
 title: "Foresight Fellowship (2027)"
 employer: "Foresight Institute"
 job_id: "recBL78ninmG9gBdK"
-last_updated: "2026-05-26T16:25:27.592567Z"
+last_updated: "2026-05-27T05:34:16.159156Z"
 posted_at: "2022-01-05T00:00:00Z"
 status: ready
 apply_url: "https://foresight.org/foresight-fellowships/"
@@ -33,4 +33,4 @@ areas:
 <p class="apply-cta"><a href="https://foresight.org/foresight-fellowships/">Apply →</a></p>
 
 ---
-*Posted 2022-01-05 · Listing synced 2026-05-26 · 80k job ID `recBL78ninmG9gBdK`*
+*Posted 2022-01-05 · Listing synced 2026-05-27 · 80k job ID `recBL78ninmG9gBdK`*

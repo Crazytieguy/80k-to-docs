@@ -2,7 +2,7 @@
 title: "Security Engineer Lead, Corporate Security"
 employer: "Anthropic"
 job_id: "recgNCy8fz9GSxNS2"
-last_updated: "2026-05-26T16:24:53.316299Z"
+last_updated: "2026-05-27T05:33:45.883877Z"
 posted_at: "2022-01-11T00:00:00Z"
 status: ready
 apply_url: "https://job-boards.greenhouse.io/anthropic/jobs/5135098008"
@@ -34,4 +34,4 @@ areas:
 <p class="apply-cta"><a href="https://job-boards.greenhouse.io/anthropic/jobs/5135098008">Apply →</a></p>
 
 ---
-*Posted 2022-01-11 · Listing synced 2026-05-26 · 80k job ID `recgNCy8fz9GSxNS2`*
+*Posted 2022-01-11 · Listing synced 2026-05-27 · 80k job ID `recgNCy8fz9GSxNS2`*

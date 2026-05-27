@@ -2,7 +2,7 @@
 title: "Intern, Government Affairs"
 employer: "US-China Business Council"
 job_id: "recczJgHP2pFTjhGE"
-last_updated: "2026-05-26T16:24:20.504441Z"
+last_updated: "2026-05-27T05:33:15.418597Z"
 posted_at: "2026-04-22T00:00:00Z"
 status: ready
 apply_url: "https://www.uschina.org/government-affairs-intern/"
@@ -34,4 +34,4 @@ areas:
 <p class="apply-cta"><a href="https://www.uschina.org/government-affairs-intern/">Apply →</a></p>
 
 ---
-*Posted 2026-04-22 · Listing synced 2026-05-26 · 80k job ID `recczJgHP2pFTjhGE`*
+*Posted 2026-04-22 · Listing synced 2026-05-27 · 80k job ID `recczJgHP2pFTjhGE`*

@@ -2,7 +2,7 @@
 title: "Schuman Traineeships"
 employer: "European Union, Parliament"
 job_id: "recmCcw5BK6k3gnJK"
-last_updated: "2026-05-26T16:24:07.541520Z"
+last_updated: "2026-05-27T05:33:02.769001Z"
 posted_at: "2026-05-06T00:01:00Z"
 status: ready
 apply_url: "https://www.europarl.europa.eu/at-your-service/en/work-with-us/traineeships"
@@ -32,4 +32,4 @@ areas:
 <p class="apply-cta"><a href="https://www.europarl.europa.eu/at-your-service/en/work-with-us/traineeships">Apply →</a></p>
 
 ---
-*Posted 2026-05-06 · Listing synced 2026-05-26 · 80k job ID `recmCcw5BK6k3gnJK`*
+*Posted 2026-05-06 · Listing synced 2026-05-27 · 80k job ID `recmCcw5BK6k3gnJK`*

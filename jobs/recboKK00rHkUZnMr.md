@@ -2,7 +2,7 @@
 title: "Intern, Recruitment and Staff Development"
 employer: "Preparatory Commission for the Comprehensive Nuclear-Test-Ban Treaty Organization"
 job_id: "recboKK00rHkUZnMr"
-last_updated: "2026-05-26T16:23:50.090202Z"
+last_updated: "2026-05-27T05:32:45.023692Z"
 posted_at: "2026-05-19T00:00:00Z"
 status: ready
 apply_url: "https://career2.successfactors.eu/career?career_ns=job_listing&company=ctbtoprepa&navBarLevel=JOB_SEARCH&rcm_site_locale=en_GB&career_job_req_id=2405&selected_lang=en_GB&jobAlertController_jobAlertId=&jobAlertController_jobAlertName=&browserTimeZone=Asia%2FCalcutta&_s.crb=I4fhpFNiK2EEE6407FKtMT9H7YcJgwuT3Ic%2Fxz9hEiY%3D"
@@ -33,4 +33,4 @@ areas:
 <p class="apply-cta"><a href="https://career2.successfactors.eu/career?career_ns=job_listing&amp;company=ctbtoprepa&amp;navBarLevel=JOB_SEARCH&amp;rcm_site_locale=en_GB&amp;career_job_req_id=2405&amp;selected_lang=en_GB&amp;jobAlertController_jobAlertId=&amp;jobAlertController_jobAlertName=&amp;browserTimeZone=Asia%2FCalcutta&amp;_s.crb=I4fhpFNiK2EEE6407FKtMT9H7YcJgwuT3Ic%2Fxz9hEiY%3D">Apply →</a></p>
 
 ---
-*Posted 2026-05-19 · Listing synced 2026-05-26 · 80k job ID `recboKK00rHkUZnMr`*
+*Posted 2026-05-19 · Listing synced 2026-05-27 · 80k job ID `recboKK00rHkUZnMr`*

@@ -2,7 +2,7 @@
 title: "Chief Operating Officer"
 employer: "Kickstarting for Good"
 job_id: "reclgMqCraMBegR2d"
-last_updated: "2026-05-26T16:24:26.269244Z"
+last_updated: "2026-05-27T05:33:18.827693Z"
 posted_at: "2026-04-14T00:00:00Z"
 status: ready
 apply_url: "https://kickstartingforgood.org/chief-operating-officer/"
@@ -33,4 +33,4 @@ areas:
 <p class="apply-cta"><a href="https://kickstartingforgood.org/chief-operating-officer/">Apply →</a></p>
 
 ---
-*Posted 2026-04-14 · Listing synced 2026-05-26 · 80k job ID `reclgMqCraMBegR2d`*
+*Posted 2026-04-14 · Listing synced 2026-05-27 · 80k job ID `reclgMqCraMBegR2d`*

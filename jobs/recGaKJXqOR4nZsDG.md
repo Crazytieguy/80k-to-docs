@@ -2,7 +2,7 @@
 title: "Researcher, AI Cognition Initiative, Economics Focus"
 employer: "Rethink Priorities"
 job_id: "recGaKJXqOR4nZsDG"
-last_updated: "2026-05-26T16:23:36.568604Z"
+last_updated: "2026-05-27T05:32:31.315559Z"
 posted_at: "2026-05-25T00:03:00Z"
 status: ready
 apply_url: "https://careers.rethinkpriorities.org/en/postings/7836fbe0-0798-40f3-b4e0-ad8776591b02"
@@ -34,4 +34,4 @@ areas:
 <p class="apply-cta"><a href="https://careers.rethinkpriorities.org/en/postings/7836fbe0-0798-40f3-b4e0-ad8776591b02">Apply →</a></p>
 
 ---
-*Posted 2026-05-25 · Listing synced 2026-05-26 · 80k job ID `recGaKJXqOR4nZsDG`*
+*Posted 2026-05-25 · Listing synced 2026-05-27 · 80k job ID `recGaKJXqOR4nZsDG`*

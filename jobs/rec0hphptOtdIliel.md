@@ -2,7 +2,7 @@
 title: "Senior System Administrator"
 employer: "LawZero"
 job_id: "rec0hphptOtdIliel"
-last_updated: "2026-05-26T16:23:53.750664Z"
+last_updated: "2026-05-27T05:32:48.854054Z"
 posted_at: "2026-05-15T00:02:00Z"
 status: ready
 apply_url: "https://job-boards.greenhouse.io/lawzero/jobs/4248406009"
@@ -33,4 +33,4 @@ areas:
 <p class="apply-cta"><a href="https://job-boards.greenhouse.io/lawzero/jobs/4248406009">Apply →</a></p>
 
 ---
-*Posted 2026-05-15 · Listing synced 2026-05-26 · 80k job ID `rec0hphptOtdIliel`*
+*Posted 2026-05-15 · Listing synced 2026-05-27 · 80k job ID `rec0hphptOtdIliel`*

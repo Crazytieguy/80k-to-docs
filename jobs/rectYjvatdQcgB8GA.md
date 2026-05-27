@@ -2,7 +2,7 @@
 title: "ACONA Fellowship"
 employer: "Arms Control Negotiation Academy"
 job_id: "rectYjvatdQcgB8GA"
-last_updated: "2026-05-26T16:24:04.219467Z"
+last_updated: "2026-05-27T05:32:59.554670Z"
 posted_at: "2026-05-08T00:01:00Z"
 status: ready
 apply_url: "https://www.armscontrolnegotiationacademy.org/apply"
@@ -33,4 +33,4 @@ areas:
 <p class="apply-cta"><a href="https://www.armscontrolnegotiationacademy.org/apply">Apply →</a></p>
 
 ---
-*Posted 2026-05-08 · Listing synced 2026-05-26 · 80k job ID `rectYjvatdQcgB8GA`*
+*Posted 2026-05-08 · Listing synced 2026-05-27 · 80k job ID `rectYjvatdQcgB8GA`*
