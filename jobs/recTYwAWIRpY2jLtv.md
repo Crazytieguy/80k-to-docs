@@ -2,7 +2,7 @@
 title: "Research Scientist, Frontier Red Team, Emerging Risks"
 employer: "Anthropic"
 job_id: "recTYwAWIRpY2jLtv"
-last_updated: "2026-05-27T05:33:45.308123Z"
+last_updated: "2026-05-28T05:32:49.619740Z"
 posted_at: "2022-01-11T00:00:00Z"
 status: ready
 apply_url: "https://job-boards.greenhouse.io/anthropic/jobs/5103788008"
@@ -34,4 +34,4 @@ areas:
 <p class="apply-cta"><a href="https://job-boards.greenhouse.io/anthropic/jobs/5103788008">Apply →</a></p>
 
 ---
-*Posted 2022-01-11 · Listing synced 2026-05-27 · 80k job ID `recTYwAWIRpY2jLtv`*
+*Posted 2022-01-11 · Listing synced 2026-05-28 · 80k job ID `recTYwAWIRpY2jLtv`*

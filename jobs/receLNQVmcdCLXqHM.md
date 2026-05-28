@@ -2,7 +2,7 @@
 title: "Expression of Interest, Movement Building"
 employer: "Evitable"
 job_id: "receLNQVmcdCLXqHM"
-last_updated: "2026-05-27T05:34:02.170625Z"
+last_updated: "2026-05-28T05:33:06.354756Z"
 posted_at: "2022-01-06T00:00:00Z"
 status: ready
 apply_url: "https://form.jotform.com/252827895601163"
@@ -29,4 +29,4 @@ areas:
 <p class="apply-cta"><a href="https://form.jotform.com/252827895601163">Apply →</a></p>
 
 ---
-*Posted 2022-01-06 · Listing synced 2026-05-27 · 80k job ID `receLNQVmcdCLXqHM`*
+*Posted 2022-01-06 · Listing synced 2026-05-28 · 80k job ID `receLNQVmcdCLXqHM`*

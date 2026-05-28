@@ -2,7 +2,7 @@
 title: "Head of Communications and Development"
 employer: "Rethink Priorities"
 job_id: "recX4wJ9Y7ANpclL4"
-last_updated: "2026-05-27T05:32:32.311380Z"
+last_updated: "2026-05-28T05:31:45.893939Z"
 posted_at: "2026-05-25T00:02:00Z"
 status: ready
 apply_url: "https://careers.rethinkpriorities.org/en/postings/4d291bd9-b542-461d-af31-236c9170b3eb"
@@ -34,4 +34,4 @@ areas:
 <p class="apply-cta"><a href="https://careers.rethinkpriorities.org/en/postings/4d291bd9-b542-461d-af31-236c9170b3eb">Apply →</a></p>
 
 ---
-*Posted 2026-05-25 · Listing synced 2026-05-27 · 80k job ID `recX4wJ9Y7ANpclL4`*
+*Posted 2026-05-25 · Listing synced 2026-05-28 · 80k job ID `recX4wJ9Y7ANpclL4`*

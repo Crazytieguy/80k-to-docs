@@ -2,7 +2,7 @@
 title: "Office Manager"
 employer: "ERA"
 job_id: "recqFXLV0WBvpORFw"
-last_updated: "2026-05-27T05:32:47.991908Z"
+last_updated: "2026-05-28T05:31:58.797131Z"
 posted_at: "2026-05-15T00:04:50Z"
 status: ready
 apply_url: "https://docs.google.com/document/d/146aHIPBkHSCQiIb4IYXHO9SrM4uPE5QTUcj58gMyTjY/edit?tab=t.0#heading=h.ok2ngs8aszvq"
@@ -19,7 +19,7 @@ areas:
 <dt>Role type</dt><dd>Full-time</dd>
 <dt>Experience</dt><dd>Junior (1-4 years experience), Entry-level</dd>
 <dt>Degree</dt><dd>Undergraduate degree or less</dd>
-<dt>Salary</dt><dd>$43,061 – $56,517</dd>
+<dt>Salary</dt><dd>$42,826 – $56,209</dd>
 </dl>
 
 **Areas & skills:** AI safety & policy, Operations
@@ -34,4 +34,4 @@ areas:
 <p class="apply-cta"><a href="https://docs.google.com/document/d/146aHIPBkHSCQiIb4IYXHO9SrM4uPE5QTUcj58gMyTjY/edit?tab=t.0#heading=h.ok2ngs8aszvq">Apply →</a></p>
 
 ---
-*Posted 2026-05-15 · Listing synced 2026-05-27 · 80k job ID `recqFXLV0WBvpORFw`*
+*Posted 2026-05-15 · Listing synced 2026-05-28 · 80k job ID `recqFXLV0WBvpORFw`*

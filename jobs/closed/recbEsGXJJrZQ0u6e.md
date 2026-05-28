@@ -4,25 +4,20 @@ employer: "OpenAI"
 job_id: "recbEsGXJJrZQ0u6e"
 last_updated: "2026-05-27T05:33:36.573830Z"
 posted_at: "2026-03-13T00:00:00Z"
-status: ready
+status: closed
+closed_at: "2026-05-28"
 apply_url: "https://openai.com/careers/threat-modeler-preparedness-san-francisco/"
 areas:
   - "AI safety & policy"
 ---
 
+> ⚠️ **CLOSED on 2026-05-28** — this job is no longer listed on the 80,000 Hours board. Archived snapshot below.
+
 # Threat Modeler, Preparedness
 
-**[OpenAI](https://openai.com/)**
+**OpenAI**
 
-<dl class="job-meta">
-<dt>Location</dt><dd>San Francisco Bay Area, USA</dd>
-<dt>Role type</dt><dd>Full-time</dd>
-<dt>Experience</dt><dd>Mid (5-9 years experience)</dd>
-<dt>Degree</dt><dd>Undergraduate degree or less</dd>
-<dt>Salary</dt><dd>$325,000</dd>
-</dl>
-
-**Areas & skills:** AI safety & policy, Research, Information security
+**Areas & skills:** AI safety & policy
 
 ## Summary
 - In this role, you'll own OpenAI's approach to identifying, modeling, and forecasting frontier AI risks and safeguards.

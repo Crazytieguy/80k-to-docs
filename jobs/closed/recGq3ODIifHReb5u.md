@@ -4,24 +4,20 @@ employer: "Sinergia Animal"
 job_id: "recGq3ODIifHReb5u"
 last_updated: "2026-05-27T05:33:15.255240Z"
 posted_at: "2026-04-22T00:00:00Z"
-status: ready
+status: closed
+closed_at: "2026-05-28"
 apply_url: "https://www.sinergiaanimalinternational.org/jobs/manager-of-programs-thailand"
 areas:
   - "Animal welfare"
 ---
 
+> ⚠️ **CLOSED on 2026-05-28** — this job is no longer listed on the 80,000 Hours board. Archived snapshot below.
+
 # Manager of Programs, Thailand
 
-**[Sinergia Animal](https://www.sinergiaanimal.org/)**
+**Sinergia Animal**
 
-<dl class="job-meta">
-<dt>Location</dt><dd>Bangkok, Thailand, Thailand, Asia</dd>
-<dt>Role type</dt><dd>Full-time</dd>
-<dt>Experience</dt><dd>Mid (5-9 years experience)</dd>
-<dt>Degree</dt><dd>Undergraduate degree or less</dd>
-</dl>
-
-**Areas & skills:** Animal welfare, Management, Strategy
+**Areas & skills:** Animal welfare
 
 ## Summary
 - In this role, you'll lead a program team, ensure strategic execution, and align with organizational goals.

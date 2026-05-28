@@ -2,7 +2,7 @@
 title: "Program Manager, AI Access Initiative (x2)"
 employer: "Evidence Action"
 job_id: "recHKMYDOJuK4JXod"
-last_updated: "2026-05-27T05:34:31.754808Z"
+last_updated: "2026-05-28T05:33:30.127373Z"
 posted_at: "2022-01-02T00:00:00Z"
 status: ready
 apply_url: "https://apply.workable.com/evidence-action/j/423412B7E0/"
@@ -34,4 +34,4 @@ areas:
 <p class="apply-cta"><a href="https://apply.workable.com/evidence-action/j/423412B7E0/">Apply →</a></p>
 
 ---
-*Posted 2022-01-02 · Listing synced 2026-05-27 · 80k job ID `recHKMYDOJuK4JXod`*
+*Posted 2022-01-02 · Listing synced 2026-05-28 · 80k job ID `recHKMYDOJuK4JXod`*

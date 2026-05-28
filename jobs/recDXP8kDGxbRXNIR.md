@@ -2,7 +2,7 @@
 title: "Audit Expert (Pro Bono)"
 employer: "New Incentives"
 job_id: "recDXP8kDGxbRXNIR"
-last_updated: "2026-05-27T05:33:57.210991Z"
+last_updated: "2026-05-28T05:33:01.257893Z"
 posted_at: "2022-01-07T00:00:00Z"
 status: ready
 apply_url: "https://docs.google.com/document/d/1_l46VONWJMmmIvZbTw7TaYbWE9N_Yx54mjkASkYFBzA/edit"
@@ -33,4 +33,4 @@ areas:
 <p class="apply-cta"><a href="https://docs.google.com/document/d/1_l46VONWJMmmIvZbTw7TaYbWE9N_Yx54mjkASkYFBzA/edit">Apply →</a></p>
 
 ---
-*Posted 2022-01-07 · Listing synced 2026-05-27 · 80k job ID `recDXP8kDGxbRXNIR`*
+*Posted 2022-01-07 · Listing synced 2026-05-28 · 80k job ID `recDXP8kDGxbRXNIR`*

@@ -2,7 +2,7 @@
 title: "Senior Writer"
 employer: "The Deep View"
 job_id: "recywkt9PZkgGCgoI"
-last_updated: "2026-05-27T05:34:20.723449Z"
+last_updated: "2026-05-28T05:33:22.966820Z"
 posted_at: "2022-01-05T00:00:00Z"
 status: ready
 apply_url: "https://jobs.ashbyhq.com/tdv/4aa51878-d68a-4b09-a007-9c311ccf3271?trk=feed_main-feed-card_feed-article-content"
@@ -15,7 +15,7 @@ areas:
 **[The Deep View](https://www.thedeepview.co/)**
 
 <dl class="job-meta">
-<dt>Location</dt><dd>New York, NY, San Francisco Bay Area, Los Angeles, CA, USA</dd>
+<dt>Location</dt><dd>San Francisco Bay Area, New York, NY, Los Angeles, CA, USA</dd>
 <dt>Role type</dt><dd>Full-time</dd>
 <dt>Experience</dt><dd>Mid (5-9 years experience)</dd>
 <dt>Degree</dt><dd>Undergraduate degree or less</dd>
@@ -33,4 +33,4 @@ areas:
 <p class="apply-cta"><a href="https://jobs.ashbyhq.com/tdv/4aa51878-d68a-4b09-a007-9c311ccf3271?trk=feed_main-feed-card_feed-article-content">Apply →</a></p>
 
 ---
-*Posted 2022-01-05 · Listing synced 2026-05-27 · 80k job ID `recywkt9PZkgGCgoI`*
+*Posted 2022-01-05 · Listing synced 2026-05-28 · 80k job ID `recywkt9PZkgGCgoI`*

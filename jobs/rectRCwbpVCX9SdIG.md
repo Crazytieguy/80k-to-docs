@@ -2,7 +2,7 @@
 title: "Graduate Professional, Space Security (x2)"
 employer: "United Nations, Institute for Disarmament Research"
 job_id: "rectRCwbpVCX9SdIG"
-last_updated: "2026-05-27T05:32:52.821915Z"
+last_updated: "2026-05-28T05:32:03.457606Z"
 posted_at: "2026-05-14T00:00:00Z"
 status: ready
 apply_url: "https://unidir.org/job/graduate-professional-space-security-2-positions/"
@@ -33,4 +33,4 @@ areas:
 <p class="apply-cta"><a href="https://unidir.org/job/graduate-professional-space-security-2-positions/">Apply →</a></p>
 
 ---
-*Posted 2026-05-14 · Listing synced 2026-05-27 · 80k job ID `rectRCwbpVCX9SdIG`*
+*Posted 2026-05-14 · Listing synced 2026-05-28 · 80k job ID `rectRCwbpVCX9SdIG`*

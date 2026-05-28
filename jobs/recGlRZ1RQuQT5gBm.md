@@ -2,7 +2,7 @@
 title: "Workplace Technology Engineer"
 employer: "UK Government, AI Security Institute"
 job_id: "recGlRZ1RQuQT5gBm"
-last_updated: "2026-05-27T05:32:38.041167Z"
+last_updated: "2026-05-28T05:31:50.787068Z"
 posted_at: "2026-05-21T00:04:11Z"
 status: ready
 apply_url: "https://www.civilservicejobs.service.gov.uk/csr/jobs.cgi?jcode=1998288"
@@ -19,7 +19,7 @@ areas:
 <dt>Role type</dt><dd>Full-time</dd>
 <dt>Experience</dt><dd>Junior (1-4 years experience), Mid (5-9 years experience)</dd>
 <dt>Degree</dt><dd>Undergraduate degree or less</dd>
-<dt>Salary</dt><dd>$76,500 – $92,271</dd>
+<dt>Salary</dt><dd>$76,083 – $91,768</dd>
 </dl>
 
 **Areas & skills:** AI safety & policy, Software engineering
@@ -34,4 +34,4 @@ areas:
 <p class="apply-cta"><a href="https://www.civilservicejobs.service.gov.uk/csr/jobs.cgi?jcode=1998288">Apply →</a></p>
 
 ---
-*Posted 2026-05-21 · Listing synced 2026-05-27 · 80k job ID `recGlRZ1RQuQT5gBm`*
+*Posted 2026-05-21 · Listing synced 2026-05-28 · 80k job ID `recGlRZ1RQuQT5gBm`*

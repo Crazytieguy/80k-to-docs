@@ -2,7 +2,7 @@
 title: "Researcher"
 employer: "Fairer Fields"
 job_id: "recv9aRnEqpoowVAF"
-last_updated: "2026-05-27T05:32:41.470003Z"
+last_updated: "2026-05-28T05:31:53.774622Z"
 posted_at: "2026-05-20T00:00:00Z"
 status: ready
 apply_url: "https://docs.google.com/document/d/1EJ1__BnTsA_-3O5J5CxUEpL6tz4kXMJ2nyKv-sI44Bo/edit?tab=t.0"
@@ -34,4 +34,4 @@ areas:
 <p class="apply-cta"><a href="https://docs.google.com/document/d/1EJ1__BnTsA_-3O5J5CxUEpL6tz4kXMJ2nyKv-sI44Bo/edit?tab=t.0">Apply →</a></p>
 
 ---
-*Posted 2026-05-20 · Listing synced 2026-05-27 · 80k job ID `recv9aRnEqpoowVAF`*
+*Posted 2026-05-20 · Listing synced 2026-05-28 · 80k job ID `recv9aRnEqpoowVAF`*

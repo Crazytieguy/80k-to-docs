@@ -4,25 +4,20 @@ employer: "Omidyar Network"
 job_id: "recP2XtsMXFQTurop"
 last_updated: "2026-05-27T05:34:19.455129Z"
 posted_at: "2022-01-05T00:00:00Z"
-status: ready
+status: closed
+closed_at: "2026-05-28"
 apply_url: "https://job-boards.greenhouse.io/omidyarnetwork/jobs/7450399"
 areas:
   - "AI safety & policy"
 ---
 
+> ⚠️ **CLOSED on 2026-05-28** — this job is no longer listed on the 80,000 Hours board. Archived snapshot below.
+
 # Head of Communications
 
-**[Omidyar Network](https://omidyar.com/)**
+**Omidyar Network**
 
-<dl class="job-meta">
-<dt>Location</dt><dd>San Francisco Bay Area, USA</dd>
-<dt>Role type</dt><dd>Full-time</dd>
-<dt>Experience</dt><dd>Senior (10+ years experience)</dd>
-<dt>Degree</dt><dd>Undergraduate degree or less</dd>
-<dt>Salary</dt><dd>$216,000 – $270,000</dd>
-</dl>
-
-**Areas & skills:** AI safety & policy, Outreach, Management
+**Areas & skills:** AI safety & policy
 
 ## Summary
 - In this role, you'll advance Omidyar Network's impact through strategic communications and narrative storytelling across responsible technology issues.

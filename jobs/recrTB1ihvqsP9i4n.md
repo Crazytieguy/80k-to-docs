@@ -2,7 +2,7 @@
 title: "Operations Associate"
 employer: "Arq Foundation"
 job_id: "recrTB1ihvqsP9i4n"
-last_updated: "2026-05-27T05:32:33.060437Z"
+last_updated: "2026-05-28T05:31:46.597220Z"
 posted_at: "2026-05-25T00:01:00Z"
 status: ready
 apply_url: "https://www.arq.foundation/careers/operations-associate"
@@ -19,7 +19,7 @@ areas:
 <dt>Role type</dt><dd>Full-time</dd>
 <dt>Experience</dt><dd>Junior (1-4 years experience)</dd>
 <dt>Degree</dt><dd>Undergraduate degree or less</dd>
-<dt>Salary</dt><dd>$46,577 – $69,865</dd>
+<dt>Salary</dt><dd>$46,377 – $69,566</dd>
 </dl>
 
 **Areas & skills:** AI safety & policy, Operations, Finance
@@ -34,4 +34,4 @@ areas:
 <p class="apply-cta"><a href="https://www.arq.foundation/careers/operations-associate">Apply →</a></p>
 
 ---
-*Posted 2026-05-25 · Listing synced 2026-05-27 · 80k job ID `recrTB1ihvqsP9i4n`*
+*Posted 2026-05-25 · Listing synced 2026-05-28 · 80k job ID `recrTB1ihvqsP9i4n`*

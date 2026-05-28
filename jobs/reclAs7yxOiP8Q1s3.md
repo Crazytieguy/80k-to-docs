@@ -2,7 +2,7 @@
 title: "Blog-Building Intensive Program (2026)"
 employer: "Roots of Progress Institute"
 job_id: "reclAs7yxOiP8Q1s3"
-last_updated: "2026-05-27T05:33:26.531246Z"
+last_updated: "2026-05-28T05:32:32.339526Z"
 posted_at: "2026-04-08T00:00:00Z"
 status: ready
 apply_url: "https://newsletter.rootsofprogress.org/p/announcing-the-2026-roots-of-progress"
@@ -33,4 +33,4 @@ areas:
 <p class="apply-cta"><a href="https://newsletter.rootsofprogress.org/p/announcing-the-2026-roots-of-progress">Apply →</a></p>
 
 ---
-*Posted 2026-04-08 · Listing synced 2026-05-27 · 80k job ID `reclAs7yxOiP8Q1s3`*
+*Posted 2026-04-08 · Listing synced 2026-05-28 · 80k job ID `reclAs7yxOiP8Q1s3`*

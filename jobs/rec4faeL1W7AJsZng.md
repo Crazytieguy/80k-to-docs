@@ -2,7 +2,7 @@
 title: "Research Engineer"
 employer: "FAR AI"
 job_id: "rec4faeL1W7AJsZng"
-last_updated: "2026-05-27T05:33:10.364990Z"
+last_updated: "2026-05-28T05:32:19.884083Z"
 posted_at: "2026-04-29T00:00:00Z"
 status: ready
 apply_url: "https://jobs.ashbyhq.com/far.ai/52e76732-999b-402f-a908-c4e8b3e7714b?embed=js"
@@ -33,4 +33,4 @@ areas:
 <p class="apply-cta"><a href="https://jobs.ashbyhq.com/far.ai/52e76732-999b-402f-a908-c4e8b3e7714b?embed=js">Apply →</a></p>
 
 ---
-*Posted 2026-04-29 · Listing synced 2026-05-27 · 80k job ID `rec4faeL1W7AJsZng`*
+*Posted 2026-04-29 · Listing synced 2026-05-28 · 80k job ID `rec4faeL1W7AJsZng`*

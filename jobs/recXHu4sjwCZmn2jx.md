@@ -2,7 +2,7 @@
 title: "AI Policy Leaders Programme"
 employer: "Talos Network"
 job_id: "recXHu4sjwCZmn2jx"
-last_updated: "2026-05-27T05:32:43.033586Z"
+last_updated: "2026-05-28T05:31:55.263291Z"
 posted_at: "2026-05-19T00:05:00Z"
 status: ready
 apply_url: "https://www.talosnetwork.org/policy-leaders-programme"
@@ -19,7 +19,7 @@ areas:
 <dt>Role type</dt><dd>Full-time</dd>
 <dt>Experience</dt><dd>Mid (5-9 years experience), Senior (10+ years experience)</dd>
 <dt>Degree</dt><dd>Undergraduate degree or less</dd>
-<dt>Salary</dt><dd>$69,865</dd>
+<dt>Salary</dt><dd>$69,566</dd>
 </dl>
 
 **Areas & skills:** AI safety & policy, Policy
@@ -34,4 +34,4 @@ areas:
 <p class="apply-cta"><a href="https://www.talosnetwork.org/policy-leaders-programme">Apply →</a></p>
 
 ---
-*Posted 2026-05-19 · Listing synced 2026-05-27 · 80k job ID `recXHu4sjwCZmn2jx`*
+*Posted 2026-05-19 · Listing synced 2026-05-28 · 80k job ID `recXHu4sjwCZmn2jx`*

@@ -2,7 +2,7 @@
 title: "Vice President, Operations"
 employer: "The Humane League"
 job_id: "rec4aP3WzRSC2KSW9"
-last_updated: "2026-05-27T05:32:47.421206Z"
+last_updated: "2026-05-28T05:31:58.355837Z"
 posted_at: "2026-05-18T00:00:00Z"
 status: ready
 apply_url: "https://thehumaneleague.org/single-offer-career?gh_jid=7467899"
@@ -33,4 +33,4 @@ areas:
 <p class="apply-cta"><a href="https://thehumaneleague.org/single-offer-career?gh_jid=7467899">Apply →</a></p>
 
 ---
-*Posted 2026-05-18 · Listing synced 2026-05-27 · 80k job ID `rec4aP3WzRSC2KSW9`*
+*Posted 2026-05-18 · Listing synced 2026-05-28 · 80k job ID `rec4aP3WzRSC2KSW9`*

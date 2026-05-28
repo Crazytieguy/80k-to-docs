@@ -2,7 +2,7 @@
 title: "Product Manager, Biosafety"
 employer: "OpenAI"
 job_id: "rech2b6jgThFUWlVq"
-last_updated: "2026-05-27T05:33:34.554169Z"
+last_updated: "2026-05-28T05:32:40.069414Z"
 posted_at: "2026-03-17T00:00:00Z"
 status: ready
 apply_url: "https://openai.com/careers/product-manager-bio-safety-san-francisco/"
@@ -34,4 +34,4 @@ areas:
 <p class="apply-cta"><a href="https://openai.com/careers/product-manager-bio-safety-san-francisco/">Apply →</a></p>
 
 ---
-*Posted 2026-03-17 · Listing synced 2026-05-27 · 80k job ID `rech2b6jgThFUWlVq`*
+*Posted 2026-03-17 · Listing synced 2026-05-28 · 80k job ID `rech2b6jgThFUWlVq`*

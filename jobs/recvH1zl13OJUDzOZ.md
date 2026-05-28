@@ -2,7 +2,7 @@
 title: "Policy Analyst, Economic and Societal Transformation"
 employer: "Americans for Responsible Innovation"
 job_id: "recvH1zl13OJUDzOZ"
-last_updated: "2026-05-27T05:32:58.897012Z"
+last_updated: "2026-05-28T05:32:08.921117Z"
 posted_at: "2026-05-08T00:04:27Z"
 status: ready
 apply_url: "https://ats.rippling.com/en-US/americans-for-responsible-innovation/jobs/d56621ca-17a5-4d0d-9818-d59da56d4459"
@@ -34,4 +34,4 @@ areas:
 <p class="apply-cta"><a href="https://ats.rippling.com/en-US/americans-for-responsible-innovation/jobs/d56621ca-17a5-4d0d-9818-d59da56d4459">Apply →</a></p>
 
 ---
-*Posted 2026-05-08 · Listing synced 2026-05-27 · 80k job ID `recvH1zl13OJUDzOZ`*
+*Posted 2026-05-08 · Listing synced 2026-05-28 · 80k job ID `recvH1zl13OJUDzOZ`*

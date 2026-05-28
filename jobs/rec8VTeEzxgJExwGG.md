@@ -2,7 +2,7 @@
 title: "Research Engineer / Scientist, Societal Impacts"
 employer: "Anthropic"
 job_id: "rec8VTeEzxgJExwGG"
-last_updated: "2026-05-27T05:33:45.149040Z"
+last_updated: "2026-05-28T05:32:49.485059Z"
 posted_at: "2022-01-11T00:00:00Z"
 status: ready
 apply_url: "https://job-boards.greenhouse.io/anthropic/jobs/5076606008"
@@ -34,4 +34,4 @@ areas:
 <p class="apply-cta"><a href="https://job-boards.greenhouse.io/anthropic/jobs/5076606008">Apply →</a></p>
 
 ---
-*Posted 2022-01-11 · Listing synced 2026-05-27 · 80k job ID `rec8VTeEzxgJExwGG`*
+*Posted 2022-01-11 · Listing synced 2026-05-28 · 80k job ID `rec8VTeEzxgJExwGG`*

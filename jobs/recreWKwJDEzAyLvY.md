@@ -2,7 +2,7 @@
 title: "Engagement and Communications Intern"
 employer: "Swiss Tropical and Public Health Institute"
 job_id: "recreWKwJDEzAyLvY"
-last_updated: "2026-05-27T05:32:39.495502Z"
+last_updated: "2026-05-28T05:31:52.009530Z"
 posted_at: "2026-05-21T00:00:00Z"
 status: ready
 apply_url: "https://jobs.swisstph.ch/Vacancies/1159/Description/2"
@@ -33,4 +33,4 @@ areas:
 <p class="apply-cta"><a href="https://jobs.swisstph.ch/Vacancies/1159/Description/2">Apply →</a></p>
 
 ---
-*Posted 2026-05-21 · Listing synced 2026-05-27 · 80k job ID `recreWKwJDEzAyLvY`*
+*Posted 2026-05-21 · Listing synced 2026-05-28 · 80k job ID `recreWKwJDEzAyLvY`*

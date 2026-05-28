@@ -4,24 +4,20 @@ employer: "Sinergia Animal"
 job_id: "reczVLwYOUlxlmTkY"
 last_updated: "2026-05-27T05:33:30.803811Z"
 posted_at: "2026-03-27T00:00:00Z"
-status: ready
+status: closed
+closed_at: "2026-05-28"
 apply_url: "https://www.sinergiaanimalinternational.org/jobs/development-director-international"
 areas:
   - "Animal welfare"
 ---
 
+> ⚠️ **CLOSED on 2026-05-28** — this job is no longer listed on the 80,000 Hours board. Archived snapshot below.
+
 # Development Director, International
 
-**[Sinergia Animal](https://www.sinergiaanimal.org/)**
+**Sinergia Animal**
 
-<dl class="job-meta">
-<dt>Location</dt><dd>Remote, Global</dd>
-<dt>Role type</dt><dd>Full-time</dd>
-<dt>Experience</dt><dd>Mid (5-9 years experience)</dd>
-<dt>Degree</dt><dd>Undergraduate degree or less</dd>
-</dl>
-
-**Areas & skills:** Animal welfare, Outreach
+**Areas & skills:** Animal welfare
 
 ## Summary
 - In this role, you will lead and expand the organization’s global fundraising efforts.

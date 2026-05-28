@@ -2,7 +2,7 @@
 title: "Head of Video"
 employer: "Center for AI Safety"
 job_id: "recGOUppflBEWlEiQ"
-last_updated: "2026-05-27T05:33:46.681968Z"
+last_updated: "2026-05-28T05:32:50.826031Z"
 posted_at: "2022-01-11T00:00:00Z"
 status: ready
 apply_url: "https://jobs.lever.co/aisafety/40eb4a05-5b2a-41af-9c3f-83f6c4118c96"
@@ -34,4 +34,4 @@ areas:
 <p class="apply-cta"><a href="https://jobs.lever.co/aisafety/40eb4a05-5b2a-41af-9c3f-83f6c4118c96">Apply →</a></p>
 
 ---
-*Posted 2022-01-11 · Listing synced 2026-05-27 · 80k job ID `recGOUppflBEWlEiQ`*
+*Posted 2022-01-11 · Listing synced 2026-05-28 · 80k job ID `recGOUppflBEWlEiQ`*

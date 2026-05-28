@@ -2,7 +2,7 @@
 title: "Deputy Director, Policy, Brussels"
 employer: "Arq Foundation"
 job_id: "rech9olTlMcvdyJBy"
-last_updated: "2026-05-27T05:32:32.849452Z"
+last_updated: "2026-05-28T05:31:46.435718Z"
 posted_at: "2026-05-25T00:01:00Z"
 status: ready
 apply_url: "https://www.arq.foundation/careers/deputy-director-policy-brussels"
@@ -19,7 +19,7 @@ areas:
 <dt>Role type</dt><dd>Full-time</dd>
 <dt>Experience</dt><dd>Mid (5-9 years experience), Senior (10+ years experience)</dd>
 <dt>Degree</dt><dd>Undergraduate degree or less</dd>
-<dt>Salary</dt><dd>$104,798 – $116,442</dd>
+<dt>Salary</dt><dd>$104,349 – $115,943</dd>
 </dl>
 
 **Areas & skills:** AI safety & policy, Policy, Outreach
@@ -34,4 +34,4 @@ areas:
 <p class="apply-cta"><a href="https://www.arq.foundation/careers/deputy-director-policy-brussels">Apply →</a></p>
 
 ---
-*Posted 2026-05-25 · Listing synced 2026-05-27 · 80k job ID `rech9olTlMcvdyJBy`*
+*Posted 2026-05-25 · Listing synced 2026-05-28 · 80k job ID `rech9olTlMcvdyJBy`*

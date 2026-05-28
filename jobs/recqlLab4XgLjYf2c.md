@@ -2,7 +2,7 @@
 title: "Summer Humanities Fellow"
 employer: "Active Site"
 job_id: "recqlLab4XgLjYf2c"
-last_updated: "2026-05-27T05:32:59.390687Z"
+last_updated: "2026-05-28T05:32:09.390214Z"
 posted_at: "2026-05-08T00:02:00Z"
 status: ready
 apply_url: "https://jobs.ashbyhq.com/activesite/70cc24fd-19fe-4c57-bccb-ee03eabad14f"
@@ -34,4 +34,4 @@ areas:
 <p class="apply-cta"><a href="https://jobs.ashbyhq.com/activesite/70cc24fd-19fe-4c57-bccb-ee03eabad14f">Apply →</a></p>
 
 ---
-*Posted 2026-05-08 · Listing synced 2026-05-27 · 80k job ID `recqlLab4XgLjYf2c`*
+*Posted 2026-05-08 · Listing synced 2026-05-28 · 80k job ID `recqlLab4XgLjYf2c`*

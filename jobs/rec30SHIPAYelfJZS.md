@@ -2,7 +2,7 @@
 title: "Intern, Security Engineering, London (Summer 2026)"
 employer: "Cloudflare"
 job_id: "rec30SHIPAYelfJZS"
-last_updated: "2026-05-27T05:34:30.121670Z"
+last_updated: "2026-05-28T05:33:28.687166Z"
 posted_at: "2022-01-02T00:00:00Z"
 status: ready
 apply_url: "https://boards.greenhouse.io/cloudflare/jobs/7582169?gh_jid=7582169"
@@ -33,4 +33,4 @@ areas:
 <p class="apply-cta"><a href="https://boards.greenhouse.io/cloudflare/jobs/7582169?gh_jid=7582169">Apply →</a></p>
 
 ---
-*Posted 2022-01-02 · Listing synced 2026-05-27 · 80k job ID `rec30SHIPAYelfJZS`*
+*Posted 2022-01-02 · Listing synced 2026-05-28 · 80k job ID `rec30SHIPAYelfJZS`*

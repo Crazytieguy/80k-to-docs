@@ -4,24 +4,20 @@ employer: "Sinergia Animal"
 job_id: "recHDFHxEpYavaksV"
 last_updated: "2026-05-27T05:32:52.661510Z"
 posted_at: "2026-05-14T00:00:00Z"
-status: ready
+status: closed
+closed_at: "2026-05-28"
 apply_url: "https://www.sinergiaanimalinternational.org/communityanddevelopmentcoordinator-brazil"
 areas:
   - "Animal welfare"
 ---
 
+> ⚠️ **CLOSED on 2026-05-28** — this job is no longer listed on the 80,000 Hours board. Archived snapshot below.
+
 # Community and Development Coordinator, Brazil
 
-**[Sinergia Animal](https://www.sinergiaanimal.org/)**
+**Sinergia Animal**
 
-<dl class="job-meta">
-<dt>Location</dt><dd>Sao Paulo, Brazil, Brazil, South America</dd>
-<dt>Role type</dt><dd>Full-time</dd>
-<dt>Experience</dt><dd>Junior (1-4 years experience)</dd>
-<dt>Degree</dt><dd>Undergraduate degree or less</dd>
-</dl>
-
-**Areas & skills:** Animal welfare, Outreach
+**Areas & skills:** Animal welfare
 
 ## Summary
 - In this role, you'll build and maintain an effective community of ambassadors and activists to reduce animal suffering in Brazil.

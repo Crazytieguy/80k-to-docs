@@ -2,7 +2,7 @@
 title: "Data Scientist, Public Health"
 employer: "Cherokee Federal"
 job_id: "recCZ3YeaW7khpyTD"
-last_updated: "2026-05-27T05:33:01.330085Z"
+last_updated: "2026-05-28T05:32:11.218787Z"
 posted_at: "2026-05-07T00:01:00Z"
 status: ready
 apply_url: "https://ibtcjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/careers/job/42378"
@@ -34,4 +34,4 @@ areas:
 <p class="apply-cta"><a href="https://ibtcjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/careers/job/42378">Apply →</a></p>
 
 ---
-*Posted 2026-05-07 · Listing synced 2026-05-27 · 80k job ID `recCZ3YeaW7khpyTD`*
+*Posted 2026-05-07 · Listing synced 2026-05-28 · 80k job ID `recCZ3YeaW7khpyTD`*

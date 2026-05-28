@@ -2,7 +2,7 @@
 title: "Operations Associate"
 employer: "Institute for Law and AI"
 job_id: "rec7EssVx8o6Nh1rx"
-last_updated: "2026-05-27T05:32:58.551389Z"
+last_updated: "2026-05-28T05:32:08.560495Z"
 posted_at: "2026-05-08T00:05:00Z"
 status: ready
 apply_url: "https://law-ai.org/career/ops-associate/"
@@ -34,4 +34,4 @@ areas:
 <p class="apply-cta"><a href="https://law-ai.org/career/ops-associate/">Apply →</a></p>
 
 ---
-*Posted 2026-05-08 · Listing synced 2026-05-27 · 80k job ID `rec7EssVx8o6Nh1rx`*
+*Posted 2026-05-08 · Listing synced 2026-05-28 · 80k job ID `rec7EssVx8o6Nh1rx`*

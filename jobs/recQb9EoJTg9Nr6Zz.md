@@ -2,7 +2,7 @@
 title: "Research Scientist"
 employer: "Principles of Intelligence"
 job_id: "recQb9EoJTg9Nr6Zz"
-last_updated: "2026-05-27T05:32:33.462210Z"
+last_updated: "2026-05-28T05:31:46.890323Z"
 posted_at: "2026-05-25T00:01:00Z"
 status: ready
 apply_url: "https://princint.ai/now-hiring-research-scientists-at-principles-of-intelligence/"
@@ -15,7 +15,7 @@ areas:
 **[Principles of Intelligence](https://princint.ai/)**
 
 <dl class="job-meta">
-<dt>Location</dt><dd>Remote, Global, London, UK, San Francisco Bay Area, UK, USA, USA (Confirmed Visas), UK (Confirmed Visas)</dd>
+<dt>Location</dt><dd>London, UK, San Francisco Bay Area, Remote, Global, UK, USA, USA (Confirmed Visas), UK (Confirmed Visas)</dd>
 <dt>Role type</dt><dd>Full-time</dd>
 <dt>Experience</dt><dd>Multiple experience levels</dd>
 <dt>Degree</dt><dd>Doctoral degree</dd>
@@ -34,4 +34,4 @@ areas:
 <p class="apply-cta"><a href="https://princint.ai/now-hiring-research-scientists-at-principles-of-intelligence/">Apply →</a></p>
 
 ---
-*Posted 2026-05-25 · Listing synced 2026-05-27 · 80k job ID `recQb9EoJTg9Nr6Zz`*
+*Posted 2026-05-25 · Listing synced 2026-05-28 · 80k job ID `recQb9EoJTg9Nr6Zz`*

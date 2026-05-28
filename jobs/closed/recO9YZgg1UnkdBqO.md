@@ -4,24 +4,20 @@ employer: "Carnegie Mellon University, Software Engineering Institute"
 job_id: "recO9YZgg1UnkdBqO"
 last_updated: "2026-05-27T05:32:35.840228Z"
 posted_at: "2026-05-22T00:00:00Z"
-status: ready
+status: closed
+closed_at: "2026-05-28"
 apply_url: "https://cmu.wd5.myworkdayjobs.com/en-US/SEI/job/Pittsburgh-PA/AI-ML-Vulnerability-Analysis-Intern_2023954-1"
 areas:
   - "Career development: Technical"
 ---
 
+> ⚠️ **CLOSED on 2026-05-28** — this job is no longer listed on the 80,000 Hours board. Archived snapshot below.
+
 # Intern, AI / ML Vulnerability Analysis
 
-**[Carnegie Mellon University, Software Engineering Institute](https://www.sei.cmu.edu/)**
+**Carnegie Mellon University, Software Engineering Institute**
 
-<dl class="job-meta">
-<dt>Location</dt><dd>Pittsburgh, PA, USA</dd>
-<dt>Role type</dt><dd>Internship</dd>
-<dt>Experience</dt><dd>Entry-level</dd>
-<dt>Degree</dt><dd>Undergraduate degree or less</dd>
-</dl>
-
-**Areas & skills:** Career development: Technical, Information security
+**Areas & skills:** Career development: Technical
 
 ## Summary
 - In this role, you'll conduct AI/ML vulnerability analysis and threat assessment to improve AI system security.

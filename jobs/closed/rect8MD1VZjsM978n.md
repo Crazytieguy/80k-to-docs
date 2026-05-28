@@ -4,24 +4,20 @@ employer: "Suvita"
 job_id: "rect8MD1VZjsM978n"
 last_updated: "2026-05-27T05:33:20.055555Z"
 posted_at: "2026-04-14T00:00:00Z"
-status: ready
+status: closed
+closed_at: "2026-05-28"
 apply_url: "https://www.suvita.org/careers/technology-lead"
 areas:
   - "Global health & development"
 ---
 
+> ⚠️ **CLOSED on 2026-05-28** — this job is no longer listed on the 80,000 Hours board. Archived snapshot below.
+
 # Technology Lead
 
-**[Suvita](https://www.suvita.org/)**
+**Suvita**
 
-<dl class="job-meta">
-<dt>Location</dt><dd>Remote, India, Pune, India, Bangalore, India, India, Asia</dd>
-<dt>Role type</dt><dd>Full-time</dd>
-<dt>Experience</dt><dd>Mid (5-9 years experience)</dd>
-<dt>Degree</dt><dd>Undergraduate degree or less</dd>
-</dl>
-
-**Areas & skills:** Global health & development, Software engineering
+**Areas & skills:** Global health & development
 
 ## Summary
 - In this role, you'll build and maintain complex backend systems and pipelines that impact vaccination outreach across India.

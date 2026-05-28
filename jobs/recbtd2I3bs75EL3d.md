@@ -2,7 +2,7 @@
 title: "Research Assistant to Oriana Skylar Mastro, Russian Language"
 employer: "Stanford University, Center for International Security and Cooperation"
 job_id: "recbtd2I3bs75EL3d"
-last_updated: "2026-05-27T05:33:53.930111Z"
+last_updated: "2026-05-28T05:32:58.406921Z"
 posted_at: "2022-01-08T00:00:00Z"
 status: ready
 apply_url: "https://drive.google.com/file/d/1K4lGFeRefwa5IqUwLmOM5Va6jWMCee3H/view"
@@ -33,4 +33,4 @@ areas:
 <p class="apply-cta"><a href="https://drive.google.com/file/d/1K4lGFeRefwa5IqUwLmOM5Va6jWMCee3H/view">Apply →</a></p>
 
 ---
-*Posted 2022-01-08 · Listing synced 2026-05-27 · 80k job ID `recbtd2I3bs75EL3d`*
+*Posted 2022-01-08 · Listing synced 2026-05-28 · 80k job ID `recbtd2I3bs75EL3d`*

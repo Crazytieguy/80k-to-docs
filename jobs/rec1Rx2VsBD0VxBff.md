@@ -2,7 +2,7 @@
 title: "Staff / Principal Research Engineer, AI Safety, Technical Mitigations"
 employer: "Lila Sciences"
 job_id: "rec1Rx2VsBD0VxBff"
-last_updated: "2026-05-27T05:33:26.161625Z"
+last_updated: "2026-05-28T05:32:31.988608Z"
 posted_at: "2026-04-08T00:00:00Z"
 status: ready
 apply_url: "https://job-boards.greenhouse.io/lilasciences/jobs/4210472009"
@@ -15,7 +15,7 @@ areas:
 **[Lila Sciences](https://www.lila.ai/)**
 
 <dl class="job-meta">
-<dt>Location</dt><dd>San Francisco Bay Area, London, UK, Boston metro area, UK, USA</dd>
+<dt>Location</dt><dd>London, UK, San Francisco Bay Area, Boston metro area, UK, USA</dd>
 <dt>Role type</dt><dd>Full-time</dd>
 <dt>Experience</dt><dd>Junior (1-4 years experience), Mid (5-9 years experience)</dd>
 <dt>Degree</dt><dd>Undergraduate degree or less</dd>
@@ -34,4 +34,4 @@ areas:
 <p class="apply-cta"><a href="https://job-boards.greenhouse.io/lilasciences/jobs/4210472009">Apply →</a></p>
 
 ---
-*Posted 2026-04-08 · Listing synced 2026-05-27 · 80k job ID `rec1Rx2VsBD0VxBff`*
+*Posted 2026-04-08 · Listing synced 2026-05-28 · 80k job ID `rec1Rx2VsBD0VxBff`*

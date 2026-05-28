@@ -2,7 +2,7 @@
 title: "Senior Software Engineer, Full Stack"
 employer: "Perimeter"
 job_id: "recLA91Rik5NfiNms"
-last_updated: "2026-05-27T05:33:17.789015Z"
+last_updated: "2026-05-28T05:32:26.347644Z"
 posted_at: "2026-04-15T00:01:00Z"
 status: ready
 apply_url: "https://www.linkedin.com/jobs/view/4400609184/?eBP=NON_CHARGEABLE_CHANNEL&refId=vWpnW3ai%2BkspEebVTpp3zg%3D%3D&trackingId=vZ%2FCoG6uRj1x73djwCbRRw%3D%3D&trk=flagship3_search_srp_jobs"
@@ -33,4 +33,4 @@ areas:
 <p class="apply-cta"><a href="https://www.linkedin.com/jobs/view/4400609184/?eBP=NON_CHARGEABLE_CHANNEL&amp;refId=vWpnW3ai%2BkspEebVTpp3zg%3D%3D&amp;trackingId=vZ%2FCoG6uRj1x73djwCbRRw%3D%3D&amp;trk=flagship3_search_srp_jobs">Apply →</a></p>
 
 ---
-*Posted 2026-04-15 · Listing synced 2026-05-27 · 80k job ID `recLA91Rik5NfiNms`*
+*Posted 2026-04-15 · Listing synced 2026-05-28 · 80k job ID `recLA91Rik5NfiNms`*

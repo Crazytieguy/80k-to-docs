@@ -2,7 +2,7 @@
 title: "Editor in Chief"
 employer: "University of Chicago, Bulletin of the Atomic Scientists"
 job_id: "recRu6bDHhqD99jDf"
-last_updated: "2026-05-27T05:33:05.351505Z"
+last_updated: "2026-05-28T05:32:14.908084Z"
 posted_at: "2026-05-05T00:03:00Z"
 status: ready
 apply_url: "https://thebulletin.org/open-position-editor-in-chief/"
@@ -15,7 +15,7 @@ areas:
 **[University of Chicago, Bulletin of the Atomic Scientists](https://www.thebulletin.org)**
 
 <dl class="job-meta">
-<dt>Location</dt><dd>Washington, DC metro area, Chicago, IL, New York, NY, USA</dd>
+<dt>Location</dt><dd>Washington, DC metro area, New York, NY, Chicago, IL, USA</dd>
 <dt>Role type</dt><dd>Full-time</dd>
 <dt>Experience</dt><dd>Mid (5-9 years experience), Senior (10+ years experience)</dd>
 <dt>Degree</dt><dd>Undergraduate degree or less</dd>
@@ -34,4 +34,4 @@ areas:
 <p class="apply-cta"><a href="https://thebulletin.org/open-position-editor-in-chief/">Apply →</a></p>
 
 ---
-*Posted 2026-05-05 · Listing synced 2026-05-27 · 80k job ID `recRu6bDHhqD99jDf`*
+*Posted 2026-05-05 · Listing synced 2026-05-28 · 80k job ID `recRu6bDHhqD99jDf`*

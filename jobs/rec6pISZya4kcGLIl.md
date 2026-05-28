@@ -2,7 +2,7 @@
 title: "Growth Marketing Specialist"
 employer: "Marketing Growth Lab"
 job_id: "rec6pISZya4kcGLIl"
-last_updated: "2026-05-27T05:33:31.585583Z"
+last_updated: "2026-05-28T05:32:37.258107Z"
 posted_at: "2026-03-26T00:00:00Z"
 status: ready
 apply_url: "https://docs.google.com/document/d/14En9ZhajBHIaM_iwn0m9vbTRIn0-Az-QrnOpjiRM7fc/edit?tab=t.0#heading=h.vzc1qkrp058y"
@@ -19,7 +19,7 @@ areas:
 <dt>Role type</dt><dd>Part-time</dd>
 <dt>Experience</dt><dd>Junior (1-4 years experience)</dd>
 <dt>Degree</dt><dd>Undergraduate degree or less</dd>
-<dt>Salary</dt><dd>$60,248 – $75,310</dd>
+<dt>Salary</dt><dd>$60,022 – $75,028</dd>
 </dl>
 
 **Areas & skills:** Building effective altruism, Outreach
@@ -34,4 +34,4 @@ areas:
 <p class="apply-cta"><a href="https://docs.google.com/document/d/14En9ZhajBHIaM_iwn0m9vbTRIn0-Az-QrnOpjiRM7fc/edit?tab=t.0#heading=h.vzc1qkrp058y">Apply →</a></p>
 
 ---
-*Posted 2026-03-26 · Listing synced 2026-05-27 · 80k job ID `rec6pISZya4kcGLIl`*
+*Posted 2026-03-26 · Listing synced 2026-05-28 · 80k job ID `rec6pISZya4kcGLIl`*

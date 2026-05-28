@@ -2,7 +2,7 @@
 title: "CEO"
 employer: "Meat-Like"
 job_id: "recbvn34jDLdE1sdl"
-last_updated: "2026-05-27T05:34:47.726741Z"
+last_updated: "2026-05-28T05:33:44.033106Z"
 posted_at: "2022-01-01T00:00:00Z"
 status: ready
 apply_url: "https://docs.google.com/document/d/1vHkPK8SMpmbGMoFIZs0E3VeYDj0ZHaE_RRP7pZ5n1KU/edit"
@@ -33,4 +33,4 @@ areas:
 <p class="apply-cta"><a href="https://docs.google.com/document/d/1vHkPK8SMpmbGMoFIZs0E3VeYDj0ZHaE_RRP7pZ5n1KU/edit">Apply →</a></p>
 
 ---
-*Posted 2022-01-01 · Listing synced 2026-05-27 · 80k job ID `recbvn34jDLdE1sdl`*
+*Posted 2022-01-01 · Listing synced 2026-05-28 · 80k job ID `recbvn34jDLdE1sdl`*

@@ -4,24 +4,20 @@ employer: "Coalition for Epidemic Preparedness Innovations"
 job_id: "recebbyyyyuvXR1aq"
 last_updated: "2026-05-27T05:32:31.854889Z"
 posted_at: "2026-05-25T00:02:00Z"
-status: ready
+status: closed
+closed_at: "2026-05-28"
 apply_url: "https://cepi.my.salesforce-sites.com/careers/xcdrecruit__PositionDetails?id=a43P300000EgYEvIAN"
 areas:
   - "Biosecurity & pandemic preparedness"
 ---
 
+> ⚠️ **CLOSED on 2026-05-28** — this job is no longer listed on the 80,000 Hours board. Archived snapshot below.
+
 # Security Intern, Asia Defense Partnerships and Biosecurity
 
-**[Coalition for Epidemic Preparedness Innovations](https://cepi.net/)**
+**Coalition for Epidemic Preparedness Innovations**
 
-<dl class="job-meta">
-<dt>Location</dt><dd>Washington, DC metro area, USA</dd>
-<dt>Role type</dt><dd>Internship</dd>
-<dt>Experience</dt><dd>Entry-level</dd>
-<dt>Degree</dt><dd>Undergraduate degree or less</dd>
-</dl>
-
-**Areas & skills:** Biosecurity & pandemic preparedness, Research, Policy
+**Areas & skills:** Biosecurity & pandemic preparedness
 
 ## Summary
 - In this role, you'll support CEPI's defense and security partnership expansion across Asia by strengthening alignment between vaccine development and security capabilities.

@@ -2,10 +2,10 @@
 title: "People Operations Associate / Specialist"
 employer: "80,000 Hours"
 job_id: "recXXObsrrbz6qncd"
-last_updated: "2026-05-27T05:33:01.807560Z"
+last_updated: "2026-05-28T05:32:11.638780Z"
 posted_at: "2026-05-06T00:03:00Z"
 status: ready
-apply_url: "https://80000hours.org/2026/05/people-operations-associate-specialist-2"
+apply_url: "https://80000hours.org/2026/05/people-operations-associate-specialist-2/"
 areas:
   - "AI safety & policy"
 ---
@@ -19,7 +19,7 @@ areas:
 <dt>Role type</dt><dd>Full-time</dd>
 <dt>Experience</dt><dd>Junior (1-4 years experience), Entry-level</dd>
 <dt>Degree</dt><dd>Undergraduate degree or less</dd>
-<dt>Salary</dt><dd>$90,902 – $135,683</dd>
+<dt>Salary</dt><dd>$90,406 – $134,943</dd>
 </dl>
 
 **Areas & skills:** AI safety & policy, Operations
@@ -31,7 +31,7 @@ areas:
 - Manage international employment, visa sponsorship, and ensure compliance across jurisdictions.
 - Support HR queries, performance processes, and conflict resolution for the People team.
 
-<p class="apply-cta"><a href="https://80000hours.org/2026/05/people-operations-associate-specialist-2">Apply →</a></p>
+<p class="apply-cta"><a href="https://80000hours.org/2026/05/people-operations-associate-specialist-2/">Apply →</a></p>
 
 ---
-*Posted 2026-05-06 · Listing synced 2026-05-27 · 80k job ID `recXXObsrrbz6qncd`*
+*Posted 2026-05-06 · Listing synced 2026-05-28 · 80k job ID `recXXObsrrbz6qncd`*
