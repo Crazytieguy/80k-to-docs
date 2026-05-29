@@ -4,24 +4,20 @@ employer: "Cloudflare"
 job_id: "rec30SHIPAYelfJZS"
 last_updated: "2026-05-28T05:33:28.687166Z"
 posted_at: "2022-01-02T00:00:00Z"
-status: ready
+status: closed
+closed_at: "2026-05-29"
 apply_url: "https://boards.greenhouse.io/cloudflare/jobs/7582169?gh_jid=7582169"
 areas:
   - "Career development: Technical"
 ---
 
+> ⚠️ **CLOSED on 2026-05-29** — this job is no longer listed on the 80,000 Hours board. Archived snapshot below.
+
 # Intern, Security Engineering, London (Summer 2026)
 
-**[Cloudflare](https://www.cloudflare.com/)**
+**Cloudflare**
 
-<dl class="job-meta">
-<dt>Location</dt><dd>London, UK, UK</dd>
-<dt>Role type</dt><dd>Internship</dd>
-<dt>Experience</dt><dd>Entry-level</dd>
-<dt>Degree</dt><dd>Undergraduate degree or less</dd>
-</dl>
-
-**Areas & skills:** Career development: Technical, Software engineering, Information security
+**Areas & skills:** Career development: Technical
 
 ## Summary
 - In this role, you'll work alongside experienced security engineers to identify vulnerabilities, harden infrastructure, and build tools that protect billions of Internet users.

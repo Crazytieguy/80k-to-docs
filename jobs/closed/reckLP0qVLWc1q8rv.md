@@ -4,25 +4,20 @@ employer: "Founders Pledge"
 job_id: "reckLP0qVLWc1q8rv"
 last_updated: "2026-05-28T05:31:58.016393Z"
 posted_at: "2026-05-18T00:00:00Z"
-status: ready
+status: closed
+closed_at: "2026-05-29"
 apply_url: "https://careers.founderspledge.com/jobs/7726117-contributions-manager"
 areas:
   - "Building effective altruism"
 ---
 
+> ⚠️ **CLOSED on 2026-05-29** — this job is no longer listed on the 80,000 Hours board. Archived snapshot below.
+
 # Contributions Manager
 
-**[Founders Pledge](https://www.founderspledge.com/)**
+**Founders Pledge**
 
-<dl class="job-meta">
-<dt>Location</dt><dd>San Francisco Bay Area, New York, NY, Philadelphia, PA, USA</dd>
-<dt>Role type</dt><dd>Full-time</dd>
-<dt>Experience</dt><dd>Junior (1-4 years experience)</dd>
-<dt>Degree</dt><dd>Undergraduate degree or less</dd>
-<dt>Salary</dt><dd>$80,000</dd>
-</dl>
-
-**Areas & skills:** Building effective altruism, Operations, Finance
+**Areas & skills:** Building effective altruism
 
 ## Summary
 - In this role, you'll build contributions infrastructure that's seamless, scalable, and integrated.

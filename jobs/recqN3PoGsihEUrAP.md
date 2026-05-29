@@ -2,7 +2,7 @@
 title: "Full-Stack Engineer"
 employer: "Beneficial AI Foundation"
 job_id: "recqN3PoGsihEUrAP"
-last_updated: "2026-05-28T05:32:01.611094Z"
+last_updated: "2026-05-29T07:20:01.832647Z"
 posted_at: "2026-05-14T00:00:00Z"
 status: ready
 apply_url: "https://docs.google.com/forms/d/e/1FAIpQLSedbqeU4JZQASmnUyUY8ZWSL85opl2K8CUOGkEMiDMx0eqWdQ/viewform"
@@ -34,4 +34,4 @@ areas:
 <p class="apply-cta"><a href="https://docs.google.com/forms/d/e/1FAIpQLSedbqeU4JZQASmnUyUY8ZWSL85opl2K8CUOGkEMiDMx0eqWdQ/viewform">Apply →</a></p>
 
 ---
-*Posted 2026-05-14 · Listing synced 2026-05-28 · 80k job ID `recqN3PoGsihEUrAP`*
+*Posted 2026-05-14 · Listing synced 2026-05-29 · 80k job ID `recqN3PoGsihEUrAP`*

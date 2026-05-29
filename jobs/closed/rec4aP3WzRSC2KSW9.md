@@ -4,25 +4,20 @@ employer: "The Humane League"
 job_id: "rec4aP3WzRSC2KSW9"
 last_updated: "2026-05-28T05:31:58.355837Z"
 posted_at: "2026-05-18T00:00:00Z"
-status: ready
+status: closed
+closed_at: "2026-05-29"
 apply_url: "https://thehumaneleague.org/single-offer-career?gh_jid=7467899"
 areas:
   - "Animal welfare"
 ---
 
+> ⚠️ **CLOSED on 2026-05-29** — this job is no longer listed on the 80,000 Hours board. Archived snapshot below.
+
 # Vice President, Operations
 
-**[The Humane League](https://thehumaneleague.com)**
+**The Humane League**
 
-<dl class="job-meta">
-<dt>Location</dt><dd>Various, Global, Remote, Global</dd>
-<dt>Role type</dt><dd>Full-time</dd>
-<dt>Experience</dt><dd>Senior (10+ years experience)</dd>
-<dt>Degree</dt><dd>Undergraduate degree or less</dd>
-<dt>Salary</dt><dd>$161,242 – $196,466</dd>
-</dl>
-
-**Areas & skills:** Animal welfare, Operations, Management, Strategy
+**Areas & skills:** Animal welfare
 
 ## Summary
 - In this role, you'll provide executive leadership across People, Finance, IT, and Administration functions to align operations with THL's mission.

@@ -2,7 +2,7 @@
 title: "AI Architect, Research and Development"
 employer: "Coalition for Epidemic Preparedness Innovations"
 job_id: "rec5g550FX8lVRhUj"
-last_updated: "2026-05-28T05:31:53.021734Z"
+last_updated: "2026-05-29T07:19:53.307468Z"
 posted_at: "2026-05-20T00:01:00Z"
 status: ready
 apply_url: "https://cepi.my.salesforce-sites.com/careers/xcdrecruit__PositionDetails?id=a43P300000EZFCFIA5"
@@ -33,4 +33,4 @@ areas:
 <p class="apply-cta"><a href="https://cepi.my.salesforce-sites.com/careers/xcdrecruit__PositionDetails?id=a43P300000EZFCFIA5">Apply →</a></p>
 
 ---
-*Posted 2026-05-20 · Listing synced 2026-05-28 · 80k job ID `rec5g550FX8lVRhUj`*
+*Posted 2026-05-20 · Listing synced 2026-05-29 · 80k job ID `rec5g550FX8lVRhUj`*

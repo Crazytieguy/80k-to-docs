@@ -2,7 +2,7 @@
 title: "Events Associate"
 employer: "Arq Foundation"
 job_id: "rec5OIm4oAsj3Otzd"
-last_updated: "2026-05-28T05:31:46.745717Z"
+last_updated: "2026-05-29T07:19:46.633064Z"
 posted_at: "2026-05-25T00:01:00Z"
 status: ready
 apply_url: "https://www.arq.foundation/careers/events-associate"
@@ -19,7 +19,7 @@ areas:
 <dt>Role type</dt><dd>Full-time</dd>
 <dt>Experience</dt><dd>Junior (1-4 years experience)</dd>
 <dt>Degree</dt><dd>Undergraduate degree or less</dd>
-<dt>Salary</dt><dd>$46,377 – $69,566</dd>
+<dt>Salary</dt><dd>$46,593 – $69,889</dd>
 </dl>
 
 **Areas & skills:** AI safety & policy, Operations
@@ -34,4 +34,4 @@ areas:
 <p class="apply-cta"><a href="https://www.arq.foundation/careers/events-associate">Apply →</a></p>
 
 ---
-*Posted 2026-05-25 · Listing synced 2026-05-28 · 80k job ID `rec5OIm4oAsj3Otzd`*
+*Posted 2026-05-25 · Listing synced 2026-05-29 · 80k job ID `rec5OIm4oAsj3Otzd`*

@@ -4,25 +4,20 @@ employer: "Americans for Responsible Innovation"
 job_id: "recvH1zl13OJUDzOZ"
 last_updated: "2026-05-28T05:32:08.921117Z"
 posted_at: "2026-05-08T00:04:27Z"
-status: ready
+status: closed
+closed_at: "2026-05-29"
 apply_url: "https://ats.rippling.com/en-US/americans-for-responsible-innovation/jobs/d56621ca-17a5-4d0d-9818-d59da56d4459"
 areas:
   - "AI safety & policy"
 ---
 
+> ⚠️ **CLOSED on 2026-05-29** — this job is no longer listed on the 80,000 Hours board. Archived snapshot below.
+
 # Policy Analyst, Economic and Societal Transformation
 
-**[Americans for Responsible Innovation](https://responsibleinnovation.org/)**
+**Americans for Responsible Innovation**
 
-<dl class="job-meta">
-<dt>Location</dt><dd>Washington, DC metro area, USA</dd>
-<dt>Role type</dt><dd>Full-time</dd>
-<dt>Experience</dt><dd>Junior (1-4 years experience)</dd>
-<dt>Degree</dt><dd>Undergraduate degree or less</dd>
-<dt>Salary</dt><dd>$80,000 – $100,000</dd>
-</dl>
-
-**Areas & skills:** AI safety & policy, Policy
+**Areas & skills:** AI safety & policy
 
 ## Summary
 - In this role, you'll develop policy analysis and frameworks advancing ARI's AI policy advocacy on economics, labor, education, and sectoral transformation.

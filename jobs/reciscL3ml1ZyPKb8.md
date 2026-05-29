@@ -2,7 +2,7 @@
 title: "Security Labs Engineer"
 employer: "Anthropic"
 job_id: "reciscL3ml1ZyPKb8"
-last_updated: "2026-05-28T05:32:39.493581Z"
+last_updated: "2026-05-29T07:20:40.086078Z"
 posted_at: "2026-03-17T00:00:00Z"
 status: ready
 apply_url: "https://job-boards.greenhouse.io/anthropic/jobs/5153564008"
@@ -34,4 +34,4 @@ areas:
 <p class="apply-cta"><a href="https://job-boards.greenhouse.io/anthropic/jobs/5153564008">Apply →</a></p>
 
 ---
-*Posted 2026-03-17 · Listing synced 2026-05-28 · 80k job ID `reciscL3ml1ZyPKb8`*
+*Posted 2026-03-17 · Listing synced 2026-05-29 · 80k job ID `reciscL3ml1ZyPKb8`*

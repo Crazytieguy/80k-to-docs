@@ -2,7 +2,7 @@
 title: "List of US Policy Fellowships"
 employer: "Various Fellowship Providers"
 job_id: "recF1r6GYQYx62CbI"
-last_updated: "2026-05-28T05:33:47.090306Z"
+last_updated: "2026-05-29T07:21:47.756015Z"
 posted_at: "2022-01-01T00:00:00Z"
 status: ready
 apply_url: "https://airtable.com/app3AlIYjrAVYhvIe/shr1dGfy6WQfJ5mei/tblD3ExDW2P8mtVlj"
@@ -31,4 +31,4 @@ areas:
 <p class="apply-cta"><a href="https://airtable.com/app3AlIYjrAVYhvIe/shr1dGfy6WQfJ5mei/tblD3ExDW2P8mtVlj">Apply →</a></p>
 
 ---
-*Posted 2022-01-01 · Listing synced 2026-05-28 · 80k job ID `recF1r6GYQYx62CbI`*
+*Posted 2022-01-01 · Listing synced 2026-05-29 · 80k job ID `recF1r6GYQYx62CbI`*

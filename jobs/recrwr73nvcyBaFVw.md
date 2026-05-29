@@ -2,7 +2,7 @@
 title: "Fellowship Manager"
 employer: "Singapore AI Safety Hub"
 job_id: "recrwr73nvcyBaFVw"
-last_updated: "2026-05-28T05:32:22.923934Z"
+last_updated: "2026-05-29T07:20:23.855095Z"
 posted_at: "2026-04-23T00:03:00Z"
 status: ready
 apply_url: "https://docs.google.com/document/d/1BIV1vGRUs3xn8CfL6M5f4mFKsIB4sVdRpzgTRjAwiZA/edit?tab=t.0"
@@ -34,4 +34,4 @@ areas:
 <p class="apply-cta"><a href="https://docs.google.com/document/d/1BIV1vGRUs3xn8CfL6M5f4mFKsIB4sVdRpzgTRjAwiZA/edit?tab=t.0">Apply →</a></p>
 
 ---
-*Posted 2026-04-23 · Listing synced 2026-05-28 · 80k job ID `recrwr73nvcyBaFVw`*
+*Posted 2026-04-23 · Listing synced 2026-05-29 · 80k job ID `recrwr73nvcyBaFVw`*

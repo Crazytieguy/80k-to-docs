@@ -4,24 +4,20 @@ employer: "The Royal Society"
 job_id: "recctnLGc94izBk4Q"
 last_updated: "2026-05-28T05:32:10.521250Z"
 posted_at: "2026-05-08T00:00:00Z"
-status: ready
+status: closed
+closed_at: "2026-05-29"
 apply_url: "https://royalsociety.org/grants-schemes-awards/grants/short-industry-fellowship/"
 areas:
   - "Career development: Technical"
 ---
 
+> ⚠️ **CLOSED on 2026-05-29** — this job is no longer listed on the 80,000 Hours board. Archived snapshot below.
+
 # Short Industry Fellowships
 
-**[The Royal Society](https://royalsociety.org/)**
+**The Royal Society**
 
-<dl class="job-meta">
-<dt>Location</dt><dd>UK</dd>
-<dt>Role type</dt><dd>Fellowship</dd>
-<dt>Experience</dt><dd>Multiple experience levels</dd>
-<dt>Degree</dt><dd>Doctoral degree</dd>
-</dl>
-
-**Areas & skills:** Career development: Technical, Research
+**Areas & skills:** Career development: Technical
 
 ## Summary
 - In these fellowships, you'll conduct collaborative research between academia and industry for 3-6 months full-time or 12 months part-time.

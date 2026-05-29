@@ -2,7 +2,7 @@
 title: "Data Centre Security Engineer"
 employer: "OpenAI"
 job_id: "recuhW8vD8L3E9Vq1"
-last_updated: "2026-05-28T05:32:27.554114Z"
+last_updated: "2026-05-29T07:20:28.417088Z"
 posted_at: "2026-04-14T00:00:00Z"
 status: ready
 apply_url: "https://openai.com/careers/data-center-security-engineer-san-francisco/"
@@ -34,4 +34,4 @@ areas:
 <p class="apply-cta"><a href="https://openai.com/careers/data-center-security-engineer-san-francisco/">Apply →</a></p>
 
 ---
-*Posted 2026-04-14 · Listing synced 2026-05-28 · 80k job ID `recuhW8vD8L3E9Vq1`*
+*Posted 2026-04-14 · Listing synced 2026-05-29 · 80k job ID `recuhW8vD8L3E9Vq1`*

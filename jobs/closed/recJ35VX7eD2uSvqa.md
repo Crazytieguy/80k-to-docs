@@ -4,25 +4,20 @@ employer: "The Midas Project"
 job_id: "recJ35VX7eD2uSvqa"
 last_updated: "2026-05-28T05:31:43.195800Z"
 posted_at: "2026-05-26T00:03:00Z"
-status: ready
+status: closed
+closed_at: "2026-05-29"
 apply_url: "https://www.themidasproject.com/careers/communications-specialist"
 areas:
   - "AI safety & policy"
 ---
 
+> ⚠️ **CLOSED on 2026-05-29** — this job is no longer listed on the 80,000 Hours board. Archived snapshot below.
+
 # Communications Specialist
 
-**[The Midas Project](https://www.themidasproject.com/)**
+**The Midas Project**
 
-<dl class="job-meta">
-<dt>Location</dt><dd>Remote, Global</dd>
-<dt>Role type</dt><dd>Full-time</dd>
-<dt>Experience</dt><dd>Junior (1-4 years experience), Mid (5-9 years experience)</dd>
-<dt>Degree</dt><dd>Undergraduate degree or less</dd>
-<dt>Salary</dt><dd>$80,000 – $130,000</dd>
-</dl>
-
-**Areas & skills:** AI safety & policy, Outreach
+**Areas & skills:** AI safety & policy
 
 ## Summary
 - In this role, you'll develop communications strategy to amplify investigations across platforms and reach key audiences in AI policy.

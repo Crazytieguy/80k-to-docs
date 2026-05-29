@@ -2,7 +2,7 @@
 title: "Career Planning Course (Summer 2026)"
 employer: "Scaling Altruism"
 job_id: "reclkeM20vHVqA8p1"
-last_updated: "2026-05-28T05:31:42.007075Z"
+last_updated: "2026-05-29T07:19:42.048670Z"
 posted_at: "2026-05-27T00:00:00Z"
 status: ready
 apply_url: "https://www.scalingaltruism.com/career-planning-course"
@@ -32,4 +32,4 @@ areas:
 <p class="apply-cta"><a href="https://www.scalingaltruism.com/career-planning-course">Apply →</a></p>
 
 ---
-*Posted 2026-05-27 · Listing synced 2026-05-28 · 80k job ID `reclkeM20vHVqA8p1`*
+*Posted 2026-05-27 · Listing synced 2026-05-29 · 80k job ID `reclkeM20vHVqA8p1`*

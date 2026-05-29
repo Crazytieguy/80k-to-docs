@@ -2,7 +2,7 @@
 title: "PRISM AI Safety Research Fellowship"
 employer: "Peer-Vetted Research Initiative for Safety Methodologies"
 job_id: "recmY3FFBrgg6nxDW"
-last_updated: "2026-05-28T05:32:04.230926Z"
+last_updated: "2026-05-29T07:20:04.026637Z"
 posted_at: "2026-05-13T00:01:00Z"
 status: ready
 apply_url: "https://prism-research.org/"
@@ -33,4 +33,4 @@ areas:
 <p class="apply-cta"><a href="https://prism-research.org/">Apply →</a></p>
 
 ---
-*Posted 2026-05-13 · Listing synced 2026-05-28 · 80k job ID `recmY3FFBrgg6nxDW`*
+*Posted 2026-05-13 · Listing synced 2026-05-29 · 80k job ID `recmY3FFBrgg6nxDW`*

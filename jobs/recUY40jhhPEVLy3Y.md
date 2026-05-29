@@ -2,7 +2,7 @@
 title: "Associate Scientist"
 employer: "Perimeter"
 job_id: "recUY40jhhPEVLy3Y"
-last_updated: "2026-05-28T05:32:21.002069Z"
+last_updated: "2026-05-29T07:20:21.725205Z"
 posted_at: "2026-04-28T00:01:00Z"
 status: ready
 apply_url: "https://www.linkedin.com/jobs/view/4407551928/?alternateChannel=search&eBP=NON_CHARGEABLE_CHANNEL&trk=d_flagship3_search_srp_jobs&refId=babyK92OnAGsjxpnV4ZZEg%3D%3D&trackingId=KHDFjZO6gmj5defJiQbXwA%3D%3D"
@@ -33,4 +33,4 @@ areas:
 <p class="apply-cta"><a href="https://www.linkedin.com/jobs/view/4407551928/?alternateChannel=search&amp;eBP=NON_CHARGEABLE_CHANNEL&amp;trk=d_flagship3_search_srp_jobs&amp;refId=babyK92OnAGsjxpnV4ZZEg%3D%3D&amp;trackingId=KHDFjZO6gmj5defJiQbXwA%3D%3D">Apply →</a></p>
 
 ---
-*Posted 2026-04-28 · Listing synced 2026-05-28 · 80k job ID `recUY40jhhPEVLy3Y`*
+*Posted 2026-04-28 · Listing synced 2026-05-29 · 80k job ID `recUY40jhhPEVLy3Y`*

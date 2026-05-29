@@ -2,7 +2,7 @@
 title: "Intern, Peace and Development Research"
 employer: "Stockholm International Peace Research Institute"
 job_id: "recN1AxVVdXUVdsFi"
-last_updated: "2026-05-28T05:32:15.939052Z"
+last_updated: "2026-05-29T07:20:16.636594Z"
 posted_at: "2026-05-05T00:00:00Z"
 status: ready
 apply_url: "https://web103.reachmee.com/ext/I021/1690/job?site=7&lang=UK&validator=9c16162aeec1b1c78db51d0c3e4163a1&job_id=143"
@@ -33,4 +33,4 @@ areas:
 <p class="apply-cta"><a href="https://web103.reachmee.com/ext/I021/1690/job?site=7&amp;lang=UK&amp;validator=9c16162aeec1b1c78db51d0c3e4163a1&amp;job_id=143">Apply →</a></p>
 
 ---
-*Posted 2026-05-05 · Listing synced 2026-05-28 · 80k job ID `recN1AxVVdXUVdsFi`*
+*Posted 2026-05-05 · Listing synced 2026-05-29 · 80k job ID `recN1AxVVdXUVdsFi`*

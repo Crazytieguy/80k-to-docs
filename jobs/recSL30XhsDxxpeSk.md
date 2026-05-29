@@ -2,7 +2,7 @@
 title: "Offensive Security Engineer, Hardware"
 employer: "OpenAI"
 job_id: "recSL30XhsDxxpeSk"
-last_updated: "2026-05-28T05:32:55.741942Z"
+last_updated: "2026-05-29T07:20:54.601005Z"
 posted_at: "2022-01-11T00:00:00Z"
 status: ready
 apply_url: "https://openai.com/careers/offensive-security-engineer-hardware-san-francisco/"
@@ -34,4 +34,4 @@ areas:
 <p class="apply-cta"><a href="https://openai.com/careers/offensive-security-engineer-hardware-san-francisco/">Apply →</a></p>
 
 ---
-*Posted 2022-01-11 · Listing synced 2026-05-28 · 80k job ID `recSL30XhsDxxpeSk`*
+*Posted 2022-01-11 · Listing synced 2026-05-29 · 80k job ID `recSL30XhsDxxpeSk`*

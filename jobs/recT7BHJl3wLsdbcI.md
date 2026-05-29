@@ -2,7 +2,7 @@
 title: "Senior / Principal Policy Specialist"
 employer: "The Good Food Institute"
 job_id: "recT7BHJl3wLsdbcI"
-last_updated: "2026-05-28T05:31:54.623812Z"
+last_updated: "2026-05-29T07:19:55.034580Z"
 posted_at: "2026-05-20T00:00:00Z"
 status: ready
 apply_url: "https://gfi.org/resource/policy-specialist-senior-to-principal-level/"
@@ -19,7 +19,7 @@ areas:
 <dt>Role type</dt><dd>Full-time</dd>
 <dt>Experience</dt><dd>Mid (5-9 years experience), Senior (10+ years experience)</dd>
 <dt>Degree</dt><dd>Undergraduate degree or less</dd>
-<dt>Salary</dt><dd>$59,713 – $94,877</dd>
+<dt>Salary</dt><dd>$59,680 – $94,826</dd>
 </dl>
 
 **Areas & skills:** Animal welfare, Policy
@@ -33,4 +33,4 @@ areas:
 <p class="apply-cta"><a href="https://gfi.org/resource/policy-specialist-senior-to-principal-level/">Apply →</a></p>
 
 ---
-*Posted 2026-05-20 · Listing synced 2026-05-28 · 80k job ID `recT7BHJl3wLsdbcI`*
+*Posted 2026-05-20 · Listing synced 2026-05-29 · 80k job ID `recT7BHJl3wLsdbcI`*

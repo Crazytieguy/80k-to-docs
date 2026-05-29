@@ -2,7 +2,7 @@
 title: "Incubator"
 employer: "Kickstarting for Good"
 job_id: "recJxHrQgO7LPdYAu"
-last_updated: "2026-05-28T05:32:28.802895Z"
+last_updated: "2026-05-29T07:20:29.703324Z"
 posted_at: "2026-04-13T00:00:00Z"
 status: ready
 apply_url: "https://kickstartingforgood.org/social-impact-entrepreneur/"
@@ -33,4 +33,4 @@ areas:
 <p class="apply-cta"><a href="https://kickstartingforgood.org/social-impact-entrepreneur/">Apply →</a></p>
 
 ---
-*Posted 2026-04-13 · Listing synced 2026-05-28 · 80k job ID `recJxHrQgO7LPdYAu`*
+*Posted 2026-04-13 · Listing synced 2026-05-29 · 80k job ID `recJxHrQgO7LPdYAu`*

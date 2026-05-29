@@ -2,7 +2,7 @@
 title: "Sub Team Lead, Red Team, Control"
 employer: "UK Government, AI Security Institute"
 job_id: "recTYsxJr4rEPtBZD"
-last_updated: "2026-05-28T05:32:08.245127Z"
+last_updated: "2026-05-29T07:20:08.100602Z"
 posted_at: "2026-05-11T00:00:00Z"
 status: ready
 apply_url: "https://job-boards.eu.greenhouse.io/aisi/jobs/4784442101"
@@ -19,7 +19,7 @@ areas:
 <dt>Role type</dt><dd>Full-time</dd>
 <dt>Experience</dt><dd>Mid (5-9 years experience)</dd>
 <dt>Degree</dt><dd>Undergraduate degree or less</dd>
-<dt>Salary</dt><dd>$140,522 – $194,054</dd>
+<dt>Salary</dt><dd>$141,030 – $194,755</dd>
 </dl>
 
 **Areas & skills:** AI safety & policy, Research, Information security, Management
@@ -34,4 +34,4 @@ areas:
 <p class="apply-cta"><a href="https://job-boards.eu.greenhouse.io/aisi/jobs/4784442101">Apply →</a></p>
 
 ---
-*Posted 2026-05-11 · Listing synced 2026-05-28 · 80k job ID `recTYsxJr4rEPtBZD`*
+*Posted 2026-05-11 · Listing synced 2026-05-29 · 80k job ID `recTYsxJr4rEPtBZD`*

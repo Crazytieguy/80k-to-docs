@@ -2,7 +2,7 @@
 title: "Software Security Engineer"
 employer: "Anthropic"
 job_id: "recPngzOAP8H5lQy6"
-last_updated: "2026-05-28T05:32:48.720298Z"
+last_updated: "2026-05-29T07:20:48.878683Z"
 posted_at: "2022-01-11T00:00:00Z"
 status: ready
 apply_url: "https://job-boards.greenhouse.io/anthropic/jobs/5022845008"
@@ -19,7 +19,7 @@ areas:
 <dt>Role type</dt><dd>Full-time</dd>
 <dt>Experience</dt><dd>Mid (5-9 years experience), Senior (10+ years experience)</dd>
 <dt>Degree</dt><dd>Undergraduate degree or less</dd>
-<dt>Salary</dt><dd>$321,193 – $434,949</dd>
+<dt>Salary</dt><dd>$322,354 – $436,520</dd>
 </dl>
 
 **Areas & skills:** AI safety & policy, Software engineering, Information security
@@ -34,4 +34,4 @@ areas:
 <p class="apply-cta"><a href="https://job-boards.greenhouse.io/anthropic/jobs/5022845008">Apply →</a></p>
 
 ---
-*Posted 2022-01-11 · Listing synced 2026-05-28 · 80k job ID `recPngzOAP8H5lQy6`*
+*Posted 2022-01-11 · Listing synced 2026-05-29 · 80k job ID `recPngzOAP8H5lQy6`*

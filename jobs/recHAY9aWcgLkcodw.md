@@ -2,7 +2,7 @@
 title: "Internship Program (Spring 2024)"
 employer: "Center for European Policy Analysis"
 job_id: "recHAY9aWcgLkcodw"
-last_updated: "2026-05-28T05:33:28.160199Z"
+last_updated: "2026-05-29T07:21:28.659010Z"
 posted_at: "2022-01-02T00:00:00Z"
 status: ready
 apply_url: "https://cepa.org/about-cepa/work-with-us/cepa-internship-program/"
@@ -33,4 +33,4 @@ areas:
 <p class="apply-cta"><a href="https://cepa.org/about-cepa/work-with-us/cepa-internship-program/">Apply →</a></p>
 
 ---
-*Posted 2022-01-02 · Listing synced 2026-05-28 · 80k job ID `recHAY9aWcgLkcodw`*
+*Posted 2022-01-02 · Listing synced 2026-05-29 · 80k job ID `recHAY9aWcgLkcodw`*

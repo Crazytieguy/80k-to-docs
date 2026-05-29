@@ -2,7 +2,7 @@
 title: "Team Lead, Analytical Development"
 employer: "Vaxxas"
 job_id: "recNPYYTyQ5lsE04i"
-last_updated: "2026-05-28T05:32:08.377812Z"
+last_updated: "2026-05-29T07:20:08.244388Z"
 posted_at: "2026-05-11T00:00:00Z"
 status: ready
 apply_url: "https://au.seek.com/job/91938498"
@@ -33,4 +33,4 @@ areas:
 <p class="apply-cta"><a href="https://au.seek.com/job/91938498">Apply →</a></p>
 
 ---
-*Posted 2026-05-11 · Listing synced 2026-05-28 · 80k job ID `recNPYYTyQ5lsE04i`*
+*Posted 2026-05-11 · Listing synced 2026-05-29 · 80k job ID `recNPYYTyQ5lsE04i`*

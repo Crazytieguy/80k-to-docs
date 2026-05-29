@@ -2,7 +2,7 @@
 title: "Postdocs / Research Staff / Staff Programmers / Interns"
 employer: "University of California, Berkeley, Department of Electrical Engineering and Computer Sciences"
 job_id: "recYiue80Uu8BDDk1"
-last_updated: "2026-05-28T05:33:01.614003Z"
+last_updated: "2026-05-29T07:21:00.786836Z"
 posted_at: "2022-01-07T00:00:00Z"
 status: ready
 apply_url: "https://dawnsong.io/"
@@ -30,4 +30,4 @@ areas:
 <p class="apply-cta"><a href="https://dawnsong.io/">Apply →</a></p>
 
 ---
-*Posted 2022-01-07 · Listing synced 2026-05-28 · 80k job ID `recYiue80Uu8BDDk1`*
+*Posted 2022-01-07 · Listing synced 2026-05-29 · 80k job ID `recYiue80Uu8BDDk1`*

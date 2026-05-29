@@ -2,7 +2,7 @@
 title: "Volunteer"
 employer: "Tien Procent Club"
 job_id: "recEcufPhhN0qxDqE"
-last_updated: "2026-05-28T05:33:36.776014Z"
+last_updated: "2026-05-29T07:21:37.485747Z"
 posted_at: "2022-01-02T00:00:00Z"
 status: ready
 apply_url: "https://www.tienprocent.club/doe-mee"
@@ -33,4 +33,4 @@ areas:
 <p class="apply-cta"><a href="https://www.tienprocent.club/doe-mee">Apply →</a></p>
 
 ---
-*Posted 2022-01-02 · Listing synced 2026-05-28 · 80k job ID `recEcufPhhN0qxDqE`*
+*Posted 2022-01-02 · Listing synced 2026-05-29 · 80k job ID `recEcufPhhN0qxDqE`*

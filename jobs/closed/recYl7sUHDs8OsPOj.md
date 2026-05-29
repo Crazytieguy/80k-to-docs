@@ -4,25 +4,20 @@ employer: "United Nations, World Health Organization"
 job_id: "recYl7sUHDs8OsPOj"
 last_updated: "2026-05-28T05:32:11.490481Z"
 posted_at: "2026-05-07T00:00:00Z"
-status: ready
+status: closed
+closed_at: "2026-05-29"
 apply_url: "https://careers.who.int/careersection/ex/jobdetail.ftl?job=2601185&tz=GMT%2B05%3A30&tzname=Asia%2FCalcutta"
 areas:
   - "Biosecurity & pandemic preparedness"
 ---
 
+> ⚠️ **CLOSED on 2026-05-29** — this job is no longer listed on the 80,000 Hours board. Archived snapshot below.
+
 # Technical Officer, Public Health Laboratories
 
-**[United Nations, World Health Organization](https://www.who.int/)**
+**United Nations, World Health Organization**
 
-<dl class="job-meta">
-<dt>Location</dt><dd>Kathmandu, Nepal, Asia, Nepal</dd>
-<dt>Role type</dt><dd>Full-time</dd>
-<dt>Experience</dt><dd>Junior (1-4 years experience)</dd>
-<dt>Degree</dt><dd>Undergraduate degree or less</dd>
-<dt>Salary</dt><dd>$56,046</dd>
-</dl>
-
-**Areas & skills:** Biosecurity & pandemic preparedness, Management, Strategy
+**Areas & skills:** Biosecurity & pandemic preparedness
 
 ## Summary
 - In this role, you'll strengthen public health laboratory capacity for infectious disease surveillance and pandemic preparedness.

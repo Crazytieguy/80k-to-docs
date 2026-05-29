@@ -2,7 +2,7 @@
 title: "Expression of Interest, Pannu Lab"
 employer: "Johns Hopkins University, Center for Health Security"
 job_id: "rec4yFSYJwM7mFO2P"
-last_updated: "2026-05-28T05:32:43.901868Z"
+last_updated: "2026-05-29T07:20:44.126081Z"
 posted_at: "2022-01-13T00:00:00Z"
 status: ready
 apply_url: "https://forms.gle/q7iwQB2VvurjMiT4A"
@@ -34,4 +34,4 @@ areas:
 <p class="apply-cta"><a href="https://forms.gle/q7iwQB2VvurjMiT4A">Apply →</a></p>
 
 ---
-*Posted 2022-01-13 · Listing synced 2026-05-28 · 80k job ID `rec4yFSYJwM7mFO2P`*
+*Posted 2022-01-13 · Listing synced 2026-05-29 · 80k job ID `rec4yFSYJwM7mFO2P`*

@@ -2,7 +2,7 @@
 title: "Global Program (2027)"
 employer: "Eisenhower Fellowships"
 job_id: "recR0Zs7yRtR232bb"
-last_updated: "2026-05-28T05:32:13.290383Z"
+last_updated: "2026-05-29T07:20:13.933649Z"
 posted_at: "2026-05-06T00:00:00Z"
 status: ready
 apply_url: "https://www.efworld.org/apply-now/"
@@ -33,4 +33,4 @@ areas:
 <p class="apply-cta"><a href="https://www.efworld.org/apply-now/">Apply →</a></p>
 
 ---
-*Posted 2026-05-06 · Listing synced 2026-05-28 · 80k job ID `recR0Zs7yRtR232bb`*
+*Posted 2026-05-06 · Listing synced 2026-05-29 · 80k job ID `recR0Zs7yRtR232bb`*

@@ -2,7 +2,7 @@
 title: "Senior Software Engineer, Chem-Bio"
 employer: "UK Government, AI Security Institute"
 job_id: "rect4dFWZXuMzhHq7"
-last_updated: "2026-05-28T05:32:22.171236Z"
+last_updated: "2026-05-29T07:20:23.133785Z"
 posted_at: "2026-04-24T00:05:00Z"
 status: ready
 apply_url: "https://job-boards.eu.greenhouse.io/aisi/jobs/4847773101"
@@ -20,7 +20,7 @@ areas:
 <dt>Role type</dt><dd>Full-time</dd>
 <dt>Experience</dt><dd>Mid (5-9 years experience)</dd>
 <dt>Degree</dt><dd>Undergraduate degree or less</dd>
-<dt>Salary</dt><dd>$86,990 – $194,054</dd>
+<dt>Salary</dt><dd>$87,304 – $194,755</dd>
 </dl>
 
 **Areas & skills:** AI safety & policy, Biosecurity & pandemic preparedness, Software engineering
@@ -35,4 +35,4 @@ areas:
 <p class="apply-cta"><a href="https://job-boards.eu.greenhouse.io/aisi/jobs/4847773101">Apply →</a></p>
 
 ---
-*Posted 2026-04-24 · Listing synced 2026-05-28 · 80k job ID `rect4dFWZXuMzhHq7`*
+*Posted 2026-04-24 · Listing synced 2026-05-29 · 80k job ID `rect4dFWZXuMzhHq7`*

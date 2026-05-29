@@ -2,7 +2,7 @@
 title: "Intern, Machine Learning Development, Applied Research"
 employer: "LawZero"
 job_id: "rec9WfsfQc6JNfxYd"
-last_updated: "2026-05-28T05:31:58.212994Z"
+last_updated: "2026-05-29T07:19:58.529643Z"
 posted_at: "2026-05-18T00:00:00Z"
 status: ready
 apply_url: "https://job-boards.greenhouse.io/lawzero/jobs/4249793009"
@@ -33,4 +33,4 @@ areas:
 <p class="apply-cta"><a href="https://job-boards.greenhouse.io/lawzero/jobs/4249793009">Apply →</a></p>
 
 ---
-*Posted 2026-05-18 · Listing synced 2026-05-28 · 80k job ID `rec9WfsfQc6JNfxYd`*
+*Posted 2026-05-18 · Listing synced 2026-05-29 · 80k job ID `rec9WfsfQc6JNfxYd`*
