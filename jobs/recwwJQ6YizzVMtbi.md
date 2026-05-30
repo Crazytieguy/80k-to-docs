@@ -2,7 +2,7 @@
 title: "Research Manager"
 employer: "MATS Research"
 job_id: "recwwJQ6YizzVMtbi"
-last_updated: "2026-05-29T07:21:09.403594Z"
+last_updated: "2026-05-30T05:33:37.448885Z"
 posted_at: "2022-01-06T00:00:00Z"
 status: ready
 apply_url: "https://www.matsprogram.org/careers/research-manager-berkeley-london"
@@ -34,4 +34,4 @@ areas:
 <p class="apply-cta"><a href="https://www.matsprogram.org/careers/research-manager-berkeley-london">Apply →</a></p>
 
 ---
-*Posted 2022-01-06 · Listing synced 2026-05-29 · 80k job ID `recwwJQ6YizzVMtbi`*
+*Posted 2022-01-06 · Listing synced 2026-05-30 · 80k job ID `recwwJQ6YizzVMtbi`*

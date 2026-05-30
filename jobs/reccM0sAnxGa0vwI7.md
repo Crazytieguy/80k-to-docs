@@ -2,7 +2,7 @@
 title: "Team Lead / Team Member, EAGxBerlin 2026"
 employer: "Effective Altruism Germany"
 job_id: "reccM0sAnxGa0vwI7"
-last_updated: "2026-05-29T07:20:25.488779Z"
+last_updated: "2026-05-30T05:32:52.894384Z"
 posted_at: "2026-04-21T00:00:00Z"
 status: ready
 apply_url: "https://effektiveraltruismus.de/job-descriptions-eagxberlin-2026/"
@@ -19,7 +19,7 @@ areas:
 <dt>Role type</dt><dd>Full-time</dd>
 <dt>Experience</dt><dd>Multiple experience levels</dd>
 <dt>Degree</dt><dd>Undergraduate degree or less</dd>
-<dt>Salary</dt><dd>$48,457 – $60,571</dd>
+<dt>Salary</dt><dd>$48,506 – $60,632</dd>
 </dl>
 
 **Areas & skills:** Building effective altruism, Operations, Strategy
@@ -34,4 +34,4 @@ areas:
 <p class="apply-cta"><a href="https://effektiveraltruismus.de/job-descriptions-eagxberlin-2026/">Apply →</a></p>
 
 ---
-*Posted 2026-04-21 · Listing synced 2026-05-29 · 80k job ID `reccM0sAnxGa0vwI7`*
+*Posted 2026-04-21 · Listing synced 2026-05-30 · 80k job ID `reccM0sAnxGa0vwI7`*

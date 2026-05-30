@@ -4,24 +4,20 @@ employer: "Eisenhower Fellowships"
 job_id: "recR0Zs7yRtR232bb"
 last_updated: "2026-05-29T07:20:13.933649Z"
 posted_at: "2026-05-06T00:00:00Z"
-status: ready
+status: closed
+closed_at: "2026-05-30"
 apply_url: "https://www.efworld.org/apply-now/"
 areas:
   - "Career development: Policy & government"
 ---
 
+> ⚠️ **CLOSED on 2026-05-30** — this job is no longer listed on the 80,000 Hours board. Archived snapshot below.
+
 # Global Program (2027)
 
-**[Eisenhower Fellowships](https://www.efworld.org/)**
+**Eisenhower Fellowships**
 
-<dl class="job-meta">
-<dt>Location</dt><dd>USA</dd>
-<dt>Role type</dt><dd>Fellowship</dd>
-<dt>Experience</dt><dd>Multiple experience levels</dd>
-<dt>Degree</dt><dd>Undergraduate degree or less</dd>
-</dl>
-
-**Areas & skills:** Career development: Policy & government, Policy
+**Areas & skills:** Career development: Policy & government
 
 ## Summary
 - This is a five-and-a-half week global fellowship programme in the USA developing projects and international relationships.

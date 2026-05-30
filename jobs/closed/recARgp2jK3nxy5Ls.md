@@ -4,24 +4,20 @@ employer: "Anthropic"
 job_id: "recARgp2jK3nxy5Ls"
 last_updated: "2026-05-29T07:20:41.188149Z"
 posted_at: "2026-03-16T00:00:00Z"
-status: ready
+status: closed
+closed_at: "2026-05-30"
 apply_url: "https://job-boards.greenhouse.io/anthropic/jobs/5068296008"
 areas:
   - "AI safety & policy"
 ---
 
+> ⚠️ **CLOSED on 2026-05-30** — this job is no longer listed on the 80,000 Hours board. Archived snapshot below.
+
 # Engineering Manager, Detection and Response
 
-**[Anthropic](https://www.anthropic.com/)**
+**Anthropic**
 
-<dl class="job-meta">
-<dt>Location</dt><dd>Zurich, Switzerland, Switzerland, Europe (ex UK)</dd>
-<dt>Role type</dt><dd>Full-time</dd>
-<dt>Experience</dt><dd>Senior (10+ years experience)</dd>
-<dt>Degree</dt><dd>Undergraduate degree or less</dd>
-</dl>
-
-**Areas & skills:** AI safety & policy, Information security, Management
+**Areas & skills:** AI safety & policy
 
 ## Summary
 - In this role, you'll lead Detection and Response teams building comprehensive security observability and incident response programs.

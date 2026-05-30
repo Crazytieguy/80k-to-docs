@@ -2,7 +2,7 @@
 title: "Senior Manager, Defense Partnerships"
 employer: "Coalition for Epidemic Preparedness Innovations"
 job_id: "reciSBQ8WlnL0Yl7d"
-last_updated: "2026-05-29T07:19:45.630378Z"
+last_updated: "2026-05-30T05:32:15.167503Z"
 posted_at: "2026-05-25T00:02:00Z"
 status: ready
 apply_url: "https://cepi.my.salesforce-sites.com/careers/xcdrecruit__PositionDetails?id=a43P300000Eex2vIAB"
@@ -32,4 +32,4 @@ areas:
 <p class="apply-cta"><a href="https://cepi.my.salesforce-sites.com/careers/xcdrecruit__PositionDetails?id=a43P300000Eex2vIAB">Apply →</a></p>
 
 ---
-*Posted 2026-05-25 · Listing synced 2026-05-29 · 80k job ID `reciSBQ8WlnL0Yl7d`*
+*Posted 2026-05-25 · Listing synced 2026-05-30 · 80k job ID `reciSBQ8WlnL0Yl7d`*

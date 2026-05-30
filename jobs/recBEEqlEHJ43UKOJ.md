@@ -2,7 +2,7 @@
 title: "Research Scientist / Engineer, Evaluations"
 employer: "Apollo Research"
 job_id: "recBEEqlEHJ43UKOJ"
-last_updated: "2026-05-29T07:21:03.126799Z"
+last_updated: "2026-05-30T05:33:30.782344Z"
 posted_at: "2022-01-06T00:00:00Z"
 status: ready
 apply_url: "https://jobs.lever.co/apolloresearch/4a65c6e1-785a-4f88-8998-a97574afb7ee"
@@ -19,7 +19,7 @@ areas:
 <dt>Role type</dt><dd>Full-time</dd>
 <dt>Experience</dt><dd>Junior (1-4 years experience), Mid (5-9 years experience)</dd>
 <dt>Degree</dt><dd>Undergraduate degree or less</dd>
-<dt>Salary</dt><dd>$134,314 – $268,628</dd>
+<dt>Salary</dt><dd>$134,511 – $269,023</dd>
 </dl>
 
 **Areas & skills:** AI safety & policy, Research, Software engineering
@@ -34,4 +34,4 @@ areas:
 <p class="apply-cta"><a href="https://jobs.lever.co/apolloresearch/4a65c6e1-785a-4f88-8998-a97574afb7ee">Apply →</a></p>
 
 ---
-*Posted 2022-01-06 · Listing synced 2026-05-29 · 80k job ID `recBEEqlEHJ43UKOJ`*
+*Posted 2022-01-06 · Listing synced 2026-05-30 · 80k job ID `recBEEqlEHJ43UKOJ`*

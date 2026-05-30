@@ -2,7 +2,7 @@
 title: "Full Stack Engineer, Monitoring"
 employer: "Apollo Research"
 job_id: "rec7pIGaBdyDg2SSA"
-last_updated: "2026-05-29T07:21:02.363576Z"
+last_updated: "2026-05-30T05:33:30.349615Z"
 posted_at: "2022-01-06T00:00:00Z"
 status: ready
 apply_url: "https://jobs.lever.co/apolloresearch/bdc9ea00-6744-4f2a-8f23-06081af3945c"
@@ -19,7 +19,7 @@ areas:
 <dt>Role type</dt><dd>Full-time</dd>
 <dt>Experience</dt><dd>Junior (1-4 years experience)</dd>
 <dt>Degree</dt><dd>Undergraduate degree or less</dd>
-<dt>Salary</dt><dd>$134,314 – $241,765</dd>
+<dt>Salary</dt><dd>$134,511 – $242,121</dd>
 </dl>
 
 **Areas & skills:** AI safety & policy, Software engineering, Information security
@@ -34,4 +34,4 @@ areas:
 <p class="apply-cta"><a href="https://jobs.lever.co/apolloresearch/bdc9ea00-6744-4f2a-8f23-06081af3945c">Apply →</a></p>
 
 ---
-*Posted 2022-01-06 · Listing synced 2026-05-29 · 80k job ID `rec7pIGaBdyDg2SSA`*
+*Posted 2022-01-06 · Listing synced 2026-05-30 · 80k job ID `rec7pIGaBdyDg2SSA`*

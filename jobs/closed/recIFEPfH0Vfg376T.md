@@ -4,24 +4,20 @@ employer: "BlueDot Impact"
 job_id: "recIFEPfH0Vfg376T"
 last_updated: "2026-05-29T07:20:31.420024Z"
 posted_at: "2026-04-09T00:00:00Z"
-status: ready
+status: closed
+closed_at: "2026-05-30"
 apply_url: "https://bluedot.org/join-us/talent"
 areas:
   - "AI safety & policy"
 ---
 
+> ⚠️ **CLOSED on 2026-05-30** — this job is no longer listed on the 80,000 Hours board. Archived snapshot below.
+
 # Exceptional Talent
 
-**[BlueDot Impact](https://www.bluedotimpact.org/)**
+**BlueDot Impact**
 
-<dl class="job-meta">
-<dt>Location</dt><dd>San Francisco Bay Area, USA</dd>
-<dt>Role type</dt><dd>Full-time</dd>
-<dt>Experience</dt><dd>Multiple experience levels</dd>
-<dt>Degree</dt><dd>Undergraduate degree or less</dd>
-</dl>
-
-**Areas & skills:** AI safety & policy, Other
+**Areas & skills:** AI safety & policy
 
 ## Summary
 - Express interest in working at BlueDot Impact.

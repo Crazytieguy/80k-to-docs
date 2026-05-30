@@ -4,25 +4,20 @@ employer: "Anthropic"
 job_id: "recJAlNZ3Qmh3NSnQ"
 last_updated: "2026-05-29T07:20:44.793911Z"
 posted_at: "2022-01-12T00:00:00Z"
-status: ready
+status: closed
+closed_at: "2026-05-30"
 apply_url: "https://job-boards.greenhouse.io/anthropic/jobs/5123011008"
 areas:
   - "AI safety & policy"
 ---
 
+> ⚠️ **CLOSED on 2026-05-30** — this job is no longer listed on the 80,000 Hours board. Archived snapshot below.
+
 # Research Engineer, Offensive Security, Safeguards
 
-**[Anthropic](https://www.anthropic.com/)**
+**Anthropic**
 
-<dl class="job-meta">
-<dt>Location</dt><dd>San Francisco Bay Area, USA, USA (Confirmed Visas)</dd>
-<dt>Role type</dt><dd>Full-time</dd>
-<dt>Experience</dt><dd>Junior (1-4 years experience)</dd>
-<dt>Degree</dt><dd>Undergraduate degree or less</dd>
-<dt>Salary</dt><dd>$320,000 – $405,000</dd>
-</dl>
-
-**Areas & skills:** AI safety & policy, Research, Software engineering, Information security
+**Areas & skills:** AI safety & policy
 
 ## Summary
 - In this role, you'll mitigate risks from LLMs being misused by adversaries to automate cyber attacks at scale.

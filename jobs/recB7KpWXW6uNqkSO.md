@@ -2,7 +2,7 @@
 title: "Financial Controller"
 employer: "Centre for Effective Altruism"
 job_id: "recB7KpWXW6uNqkSO"
-last_updated: "2026-05-29T07:19:44.859242Z"
+last_updated: "2026-05-30T05:32:14.410952Z"
 posted_at: "2026-05-25T00:04:02Z"
 status: ready
 apply_url: "https://www.centreforeffectivealtruism.org/careers?ashby_jid=4367b935-9208-4e78-8fe2-e45cefa6d99f"
@@ -33,4 +33,4 @@ areas:
 <p class="apply-cta"><a href="https://www.centreforeffectivealtruism.org/careers?ashby_jid=4367b935-9208-4e78-8fe2-e45cefa6d99f">Apply →</a></p>
 
 ---
-*Posted 2026-05-25 · Listing synced 2026-05-29 · 80k job ID `recB7KpWXW6uNqkSO`*
+*Posted 2026-05-25 · Listing synced 2026-05-30 · 80k job ID `recB7KpWXW6uNqkSO`*

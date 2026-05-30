@@ -2,7 +2,7 @@
 title: "Director of Policy"
 employer: "CivAI"
 job_id: "recCPFjVDkXPPGcHz"
-last_updated: "2026-05-29T07:20:33.257176Z"
+last_updated: "2026-05-30T05:33:01.762031Z"
 posted_at: "2026-04-07T00:05:00Z"
 status: ready
 apply_url: "https://civai.org/jobs/director-of-policy"
@@ -34,4 +34,4 @@ areas:
 <p class="apply-cta"><a href="https://civai.org/jobs/director-of-policy">Apply →</a></p>
 
 ---
-*Posted 2026-04-07 · Listing synced 2026-05-29 · 80k job ID `recCPFjVDkXPPGcHz`*
+*Posted 2026-04-07 · Listing synced 2026-05-30 · 80k job ID `recCPFjVDkXPPGcHz`*

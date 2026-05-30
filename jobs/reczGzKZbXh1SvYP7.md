@@ -2,7 +2,7 @@
 title: "Intern, East Asia Program"
 employer: "Quincy Institute for Responsible Statecraft"
 job_id: "reczGzKZbXh1SvYP7"
-last_updated: "2026-05-29T07:20:19.570889Z"
+last_updated: "2026-05-30T05:32:46.621259Z"
 posted_at: "2026-04-30T00:00:00Z"
 status: ready
 apply_url: "https://jobs.lever.co/quincyinst/a5793e98-34a2-4a6d-b3cc-162308d9ab61"
@@ -34,4 +34,4 @@ areas:
 <p class="apply-cta"><a href="https://jobs.lever.co/quincyinst/a5793e98-34a2-4a6d-b3cc-162308d9ab61">Apply →</a></p>
 
 ---
-*Posted 2026-04-30 · Listing synced 2026-05-29 · 80k job ID `reczGzKZbXh1SvYP7`*
+*Posted 2026-04-30 · Listing synced 2026-05-30 · 80k job ID `reczGzKZbXh1SvYP7`*

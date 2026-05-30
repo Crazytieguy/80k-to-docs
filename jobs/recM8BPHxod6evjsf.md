@@ -2,7 +2,7 @@
 title: "Philippines Country Lead"
 employer: "Scale Welfare"
 job_id: "recM8BPHxod6evjsf"
-last_updated: "2026-05-29T07:19:41.843943Z"
+last_updated: "2026-05-30T05:32:11.307780Z"
 posted_at: "2026-05-27T00:00:00Z"
 status: ready
 apply_url: "https://docs.google.com/document/d/1oaoOUwR0B9le42QUzua2GZbbsokY8XMvtalagQZcYzk/edit?tab=t.0#heading=h.peuvkyq77pjg"
@@ -19,7 +19,7 @@ areas:
 <dt>Role type</dt><dd>Full-time</dd>
 <dt>Experience</dt><dd>Junior (1-4 years experience)</dd>
 <dt>Degree</dt><dd>Undergraduate degree or less</dd>
-<dt>Salary</dt><dd>$15,583 – $21,426</dd>
+<dt>Salary</dt><dd>$15,594 – $21,442</dd>
 </dl>
 
 **Areas & skills:** Animal welfare, Operations, Strategy
@@ -34,4 +34,4 @@ areas:
 <p class="apply-cta"><a href="https://docs.google.com/document/d/1oaoOUwR0B9le42QUzua2GZbbsokY8XMvtalagQZcYzk/edit?tab=t.0#heading=h.peuvkyq77pjg">Apply →</a></p>
 
 ---
-*Posted 2026-05-27 · Listing synced 2026-05-29 · 80k job ID `recM8BPHxod6evjsf`*
+*Posted 2026-05-27 · Listing synced 2026-05-30 · 80k job ID `recM8BPHxod6evjsf`*

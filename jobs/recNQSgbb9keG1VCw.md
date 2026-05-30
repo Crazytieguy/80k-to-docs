@@ -2,7 +2,7 @@
 title: "Associate Attorney"
 employer: "Richman Law and Policy"
 job_id: "recNQSgbb9keG1VCw"
-last_updated: "2026-05-29T07:21:35.954139Z"
+last_updated: "2026-05-30T05:34:06.242402Z"
 posted_at: "2022-01-02T00:00:00Z"
 status: ready
 apply_url: "https://www.richmanlawpolicy.com/jobs/associate-attorney"
@@ -34,4 +34,4 @@ areas:
 <p class="apply-cta"><a href="https://www.richmanlawpolicy.com/jobs/associate-attorney">Apply →</a></p>
 
 ---
-*Posted 2022-01-02 · Listing synced 2026-05-29 · 80k job ID `recNQSgbb9keG1VCw`*
+*Posted 2022-01-02 · Listing synced 2026-05-30 · 80k job ID `recNQSgbb9keG1VCw`*

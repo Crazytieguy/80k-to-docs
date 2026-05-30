@@ -2,7 +2,7 @@
 title: "Summer Intern"
 employer: "Aspen Institute"
 job_id: "rec6gPXbYWgQEIZOu"
-last_updated: "2026-05-29T07:19:48.808740Z"
+last_updated: "2026-05-30T05:32:18.416305Z"
 posted_at: "2026-05-22T00:00:00Z"
 status: ready
 apply_url: "https://aspeninstitute.hrmdirect.com/employment/job-opening.php?req=3720324&req_loc=1333608#job"
@@ -34,4 +34,4 @@ areas:
 <p class="apply-cta"><a href="https://aspeninstitute.hrmdirect.com/employment/job-opening.php?req=3720324&amp;req_loc=1333608#job">Apply →</a></p>
 
 ---
-*Posted 2026-05-22 · Listing synced 2026-05-29 · 80k job ID `rec6gPXbYWgQEIZOu`*
+*Posted 2026-05-22 · Listing synced 2026-05-30 · 80k job ID `rec6gPXbYWgQEIZOu`*

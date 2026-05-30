@@ -2,7 +2,7 @@
 title: "Director of Programs"
 employer: "Fish Welfare Initiative"
 job_id: "reckz4C72rUPM8JAw"
-last_updated: "2026-05-29T07:19:49.407806Z"
+last_updated: "2026-05-30T05:32:18.941571Z"
 posted_at: "2026-05-22T00:00:00Z"
 status: ready
 apply_url: "https://www.fishwelfareinitiative.org/director-of-programs"
@@ -34,4 +34,4 @@ areas:
 <p class="apply-cta"><a href="https://www.fishwelfareinitiative.org/director-of-programs">Apply →</a></p>
 
 ---
-*Posted 2026-05-22 · Listing synced 2026-05-29 · 80k job ID `reckz4C72rUPM8JAw`*
+*Posted 2026-05-22 · Listing synced 2026-05-30 · 80k job ID `reckz4C72rUPM8JAw`*

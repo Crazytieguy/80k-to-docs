@@ -2,7 +2,7 @@
 title: "Senior ML Engineer"
 employer: "Lakera AI"
 job_id: "recXUy93i1cLLqmro"
-last_updated: "2026-05-29T07:21:20.941883Z"
+last_updated: "2026-05-30T05:33:50.076944Z"
 posted_at: "2022-01-05T00:00:00Z"
 status: ready
 apply_url: "https://www.lakera.ai/careers?ashby_jid=158d9a05-bc1d-49fd-81f1-bf1229e8021f"
@@ -33,4 +33,4 @@ areas:
 <p class="apply-cta"><a href="https://www.lakera.ai/careers?ashby_jid=158d9a05-bc1d-49fd-81f1-bf1229e8021f">Apply →</a></p>
 
 ---
-*Posted 2022-01-05 · Listing synced 2026-05-29 · 80k job ID `recXUy93i1cLLqmro`*
+*Posted 2022-01-05 · Listing synced 2026-05-30 · 80k job ID `recXUy93i1cLLqmro`*

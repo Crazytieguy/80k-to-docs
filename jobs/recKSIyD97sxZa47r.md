@@ -2,7 +2,7 @@
 title: "Web Product Lead"
 employer: "80,000 Hours"
 job_id: "recKSIyD97sxZa47r"
-last_updated: "2026-05-29T07:20:16.963437Z"
+last_updated: "2026-05-30T05:32:44.276107Z"
 posted_at: "2026-05-04T00:03:00Z"
 status: ready
 apply_url: "https://80000hours.org/2026/05/open-position-web-product-lead/"
@@ -34,4 +34,4 @@ areas:
 <p class="apply-cta"><a href="https://80000hours.org/2026/05/open-position-web-product-lead/">Apply →</a></p>
 
 ---
-*Posted 2026-05-04 · Listing synced 2026-05-29 · 80k job ID `recKSIyD97sxZa47r`*
+*Posted 2026-05-04 · Listing synced 2026-05-30 · 80k job ID `recKSIyD97sxZa47r`*

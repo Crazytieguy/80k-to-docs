@@ -2,7 +2,7 @@
 title: "Head of Operations"
 employer: "BlueDot Impact"
 job_id: "recmMKE7R8lLHxSAJ"
-last_updated: "2026-05-29T07:19:59.931113Z"
+last_updated: "2026-05-30T05:32:29.396690Z"
 posted_at: "2026-05-15T00:00:00Z"
 status: ready
 apply_url: "https://bluedot.org/join-us/head-of-operations"
@@ -33,4 +33,4 @@ areas:
 <p class="apply-cta"><a href="https://bluedot.org/join-us/head-of-operations">Apply →</a></p>
 
 ---
-*Posted 2026-05-15 · Listing synced 2026-05-29 · 80k job ID `recmMKE7R8lLHxSAJ`*
+*Posted 2026-05-15 · Listing synced 2026-05-30 · 80k job ID `recmMKE7R8lLHxSAJ`*

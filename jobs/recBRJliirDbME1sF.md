@@ -2,7 +2,7 @@
 title: "Hardware Assurance Programme"
 employer: "Cambridge AI Safety Hub"
 job_id: "recBRJliirDbME1sF"
-last_updated: "2026-05-29T07:20:05.467382Z"
+last_updated: "2026-05-30T05:32:35.032340Z"
 posted_at: "2026-05-12T00:03:00Z"
 status: ready
 apply_url: "https://caish.org/hardware"
@@ -19,7 +19,7 @@ areas:
 <dt>Role type</dt><dd>Other</dd>
 <dt>Experience</dt><dd>Multiple experience levels</dd>
 <dt>Degree</dt><dd>Undergraduate degree or less</dd>
-<dt>Salary</dt><dd>$2,015</dd>
+<dt>Salary</dt><dd>$2,018</dd>
 </dl>
 
 **Areas & skills:** AI safety & policy, Engineering, Research, Information security
@@ -34,4 +34,4 @@ areas:
 <p class="apply-cta"><a href="https://caish.org/hardware">Apply →</a></p>
 
 ---
-*Posted 2026-05-12 · Listing synced 2026-05-29 · 80k job ID `recBRJliirDbME1sF`*
+*Posted 2026-05-12 · Listing synced 2026-05-30 · 80k job ID `recBRJliirDbME1sF`*

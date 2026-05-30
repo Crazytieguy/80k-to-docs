@@ -4,24 +4,20 @@ employer: "LawZero"
 job_id: "rec9WfsfQc6JNfxYd"
 last_updated: "2026-05-29T07:19:58.529643Z"
 posted_at: "2026-05-18T00:00:00Z"
-status: ready
+status: closed
+closed_at: "2026-05-30"
 apply_url: "https://job-boards.greenhouse.io/lawzero/jobs/4249793009"
 areas:
   - "AI safety & policy"
 ---
 
+> ⚠️ **CLOSED on 2026-05-30** — this job is no longer listed on the 80,000 Hours board. Archived snapshot below.
+
 # Intern, Machine Learning Development, Applied Research
 
-**[LawZero](https://lawzero.org/en)**
+**LawZero**
 
-<dl class="job-meta">
-<dt>Location</dt><dd>Montreal, Canada, Canada</dd>
-<dt>Role type</dt><dd>Internship</dd>
-<dt>Experience</dt><dd>Entry-level</dd>
-<dt>Degree</dt><dd>Master's degree</dd>
-</dl>
-
-**Areas & skills:** AI safety & policy, Research, Software engineering
+**Areas & skills:** AI safety & policy
 
 ## Summary
 - In this role, you'll accelerate applied research and develop machine learning solutions by working closely with ML researchers and domain experts.

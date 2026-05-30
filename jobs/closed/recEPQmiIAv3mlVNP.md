@@ -4,24 +4,20 @@ employer: "Sharpen Strategy"
 job_id: "recEPQmiIAv3mlVNP"
 last_updated: "2026-05-29T07:20:38.505206Z"
 posted_at: "2026-03-25T00:00:00Z"
-status: ready
+status: closed
+closed_at: "2026-05-30"
 apply_url: "https://sharpen-strategy.breezy.hr/p/1adf66486ff201-culture-change-indicators-ux-designer"
 areas:
   - "Animal welfare"
 ---
 
+> ⚠️ **CLOSED on 2026-05-30** — this job is no longer listed on the 80,000 Hours board. Archived snapshot below.
+
 # UX Designer, Culture Change Indicators
 
-**[Sharpen Strategy](https://www.sharpenstrategy.org/)**
+**Sharpen Strategy**
 
-<dl class="job-meta">
-<dt>Location</dt><dd>Sheridan, WY, USA</dd>
-<dt>Role type</dt><dd>Full-time</dd>
-<dt>Experience</dt><dd>Mid (5-9 years experience)</dd>
-<dt>Degree</dt><dd>Undergraduate degree or less</dd>
-</dl>
-
-**Areas & skills:** Animal welfare, Other
+**Areas & skills:** Animal welfare
 
 ## Summary
 - In this role, you'll design an improved user experience for a culture change indicators dashboard.

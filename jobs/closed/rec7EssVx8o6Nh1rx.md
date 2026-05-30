@@ -4,25 +4,20 @@ employer: "Institute for Law and AI"
 job_id: "rec7EssVx8o6Nh1rx"
 last_updated: "2026-05-29T07:20:08.379416Z"
 posted_at: "2026-05-08T00:05:00Z"
-status: ready
+status: closed
+closed_at: "2026-05-30"
 apply_url: "https://law-ai.org/career/ops-associate/"
 areas:
   - "AI safety & policy"
 ---
 
+> ⚠️ **CLOSED on 2026-05-30** — this job is no longer listed on the 80,000 Hours board. Archived snapshot below.
+
 # Operations Associate
 
-**[Institute for Law and AI](https://law-ai.org/)**
+**Institute for Law and AI**
 
-<dl class="job-meta">
-<dt>Location</dt><dd>Washington, DC metro area, Cambridge, UK, UK, USA, USA (Confirmed Visas), UK (Confirmed Visas)</dd>
-<dt>Role type</dt><dd>Full-time</dd>
-<dt>Experience</dt><dd>Junior (1-4 years experience), Entry-level</dd>
-<dt>Degree</dt><dd>Undergraduate degree or less</dd>
-<dt>Salary</dt><dd>$75,000 – $100,000</dd>
-</dl>
-
-**Areas & skills:** AI safety & policy, Operations
+**Areas & skills:** AI safety & policy
 
 ## Summary
 - In this role, you'll support LawAI's day-to-day operations managing HR, finance, fellowship logistics, and administrative tasks.

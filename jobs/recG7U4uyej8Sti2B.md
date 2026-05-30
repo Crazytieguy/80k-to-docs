@@ -2,10 +2,10 @@
 title: "PhD Studentship, Monitoring and Increasing LLM Safety"
 employer: "Cambridge University, Department of Engineering"
 job_id: "recG7U4uyej8Sti2B"
-last_updated: "2026-05-29T07:20:18.107505Z"
+last_updated: "2026-05-30T05:32:45.241172Z"
 posted_at: "2026-05-01T00:00:00Z"
 status: ready
-apply_url: "https://www.cam.ac.uk/jobs/phd-studentship-in-monitoring-and-increasing-llm-safety-nm49585"
+apply_url: "https://www.cam.ac.uk/jobs/phd-studentship-in-monitoring-and-increasing-llm-safety-nm49585-0"
 areas:
   - "AI safety & policy"
 ---
@@ -30,7 +30,7 @@ areas:
 - Apply either perturbation techniques to test CoT meaning or train models for transparency using human predictor evaluation.
 - Collaborate with your supervisor to define research direction after completing initial 1.5-year projects.
 
-<p class="apply-cta"><a href="https://www.cam.ac.uk/jobs/phd-studentship-in-monitoring-and-increasing-llm-safety-nm49585">Apply →</a></p>
+<p class="apply-cta"><a href="https://www.cam.ac.uk/jobs/phd-studentship-in-monitoring-and-increasing-llm-safety-nm49585-0">Apply →</a></p>
 
 ---
-*Posted 2026-05-01 · Listing synced 2026-05-29 · 80k job ID `recG7U4uyej8Sti2B`*
+*Posted 2026-05-01 · Listing synced 2026-05-30 · 80k job ID `recG7U4uyej8Sti2B`*

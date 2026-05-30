@@ -2,7 +2,7 @@
 title: "Lead Product Engineer"
 employer: "Collective Intelligence Project"
 job_id: "recbmhIkNj10u1yQz"
-last_updated: "2026-05-29T07:21:04.812198Z"
+last_updated: "2026-05-30T05:33:32.418128Z"
 posted_at: "2022-01-06T00:00:00Z"
 status: ready
 apply_url: "https://www.cip.org/careers/productengineer"
@@ -34,4 +34,4 @@ areas:
 <p class="apply-cta"><a href="https://www.cip.org/careers/productengineer">Apply →</a></p>
 
 ---
-*Posted 2022-01-06 · Listing synced 2026-05-29 · 80k job ID `recbmhIkNj10u1yQz`*
+*Posted 2022-01-06 · Listing synced 2026-05-30 · 80k job ID `recbmhIkNj10u1yQz`*

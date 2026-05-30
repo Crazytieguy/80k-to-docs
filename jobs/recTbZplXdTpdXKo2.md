@@ -2,7 +2,7 @@
 title: "Expression of Interest, Chief of Staff"
 employer: "80,000 Hours"
 job_id: "recTbZplXdTpdXKo2"
-last_updated: "2026-05-29T07:20:08.843130Z"
+last_updated: "2026-05-30T05:32:37.959729Z"
 posted_at: "2026-05-08T00:02:00Z"
 status: ready
 apply_url: "https://80000hours.org/2026/05/expression-of-interest-chief-of-staff-operations-team/"
@@ -19,7 +19,7 @@ areas:
 <dt>Role type</dt><dd>Full-time</dd>
 <dt>Experience</dt><dd>Mid (5-9 years experience)</dd>
 <dt>Degree</dt><dd>Undergraduate degree or less</dd>
-<dt>Salary</dt><dd>$108,794 – $162,520</dd>
+<dt>Salary</dt><dd>$108,954 – $162,759</dd>
 </dl>
 
 **Areas & skills:** AI safety & policy, Operations, Strategy
@@ -34,4 +34,4 @@ areas:
 <p class="apply-cta"><a href="https://80000hours.org/2026/05/expression-of-interest-chief-of-staff-operations-team/">Apply →</a></p>
 
 ---
-*Posted 2026-05-08 · Listing synced 2026-05-29 · 80k job ID `recTbZplXdTpdXKo2`*
+*Posted 2026-05-08 · Listing synced 2026-05-30 · 80k job ID `recTbZplXdTpdXKo2`*
