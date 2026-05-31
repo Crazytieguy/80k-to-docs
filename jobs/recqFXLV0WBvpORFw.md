@@ -2,7 +2,7 @@
 title: "Office Manager"
 employer: "ERA"
 job_id: "recqFXLV0WBvpORFw"
-last_updated: "2026-05-30T05:32:28.450341Z"
+last_updated: "2026-05-31T05:32:35.879169Z"
 posted_at: "2026-05-15T00:04:50Z"
 status: ready
 apply_url: "https://docs.google.com/document/d/146aHIPBkHSCQiIb4IYXHO9SrM4uPE5QTUcj58gMyTjY/edit?tab=t.0#heading=h.ok2ngs8aszvq"
@@ -34,4 +34,4 @@ areas:
 <p class="apply-cta"><a href="https://docs.google.com/document/d/146aHIPBkHSCQiIb4IYXHO9SrM4uPE5QTUcj58gMyTjY/edit?tab=t.0#heading=h.ok2ngs8aszvq">Apply →</a></p>
 
 ---
-*Posted 2026-05-15 · Listing synced 2026-05-30 · 80k job ID `recqFXLV0WBvpORFw`*
+*Posted 2026-05-15 · Listing synced 2026-05-31 · 80k job ID `recqFXLV0WBvpORFw`*

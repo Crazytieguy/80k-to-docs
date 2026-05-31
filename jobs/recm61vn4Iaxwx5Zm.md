@@ -2,7 +2,7 @@
 title: "Fellowship Manager"
 employer: "Safe AI Germany"
 job_id: "recm61vn4Iaxwx5Zm"
-last_updated: "2026-05-30T05:32:15.584971Z"
+last_updated: "2026-05-31T05:32:20.910389Z"
 posted_at: "2026-05-25T00:02:00Z"
 status: ready
 apply_url: "https://docs.google.com/document/d/1btRs4l_iBH34MbQ3LDy3LncrjPN9OWFQamkXRNbFmrI/edit?tab=t.0#heading=h.xegpabdmdlpv"
@@ -34,4 +34,4 @@ areas:
 <p class="apply-cta"><a href="https://docs.google.com/document/d/1btRs4l_iBH34MbQ3LDy3LncrjPN9OWFQamkXRNbFmrI/edit?tab=t.0#heading=h.xegpabdmdlpv">Apply →</a></p>
 
 ---
-*Posted 2026-05-25 · Listing synced 2026-05-30 · 80k job ID `recm61vn4Iaxwx5Zm`*
+*Posted 2026-05-25 · Listing synced 2026-05-31 · 80k job ID `recm61vn4Iaxwx5Zm`*

@@ -2,7 +2,7 @@
 title: "Entrepreneur in Residence, India"
 employer: "Kickstarting for Good"
 job_id: "recpPfcQpFOnvw2qG"
-last_updated: "2026-05-30T05:32:56.753831Z"
+last_updated: "2026-05-31T05:33:05.345824Z"
 posted_at: "2026-04-14T00:00:00Z"
 status: ready
 apply_url: "https://kickstartingforgood.org/entrepreneur-in-residence-india/"
@@ -33,4 +33,4 @@ areas:
 <p class="apply-cta"><a href="https://kickstartingforgood.org/entrepreneur-in-residence-india/">Apply →</a></p>
 
 ---
-*Posted 2026-04-14 · Listing synced 2026-05-30 · 80k job ID `recpPfcQpFOnvw2qG`*
+*Posted 2026-04-14 · Listing synced 2026-05-31 · 80k job ID `recpPfcQpFOnvw2qG`*

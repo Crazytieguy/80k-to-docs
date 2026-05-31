@@ -2,7 +2,7 @@
 title: "Data Engineer, Safeguards"
 employer: "Anthropic"
 job_id: "recH7wqhSNa2xOdfT"
-last_updated: "2026-05-30T05:33:07.926311Z"
+last_updated: "2026-05-31T05:33:18.426044Z"
 posted_at: "2026-03-19T00:00:00Z"
 status: ready
 apply_url: "https://job-boards.greenhouse.io/anthropic/jobs/5156057008"
@@ -34,4 +34,4 @@ areas:
 <p class="apply-cta"><a href="https://job-boards.greenhouse.io/anthropic/jobs/5156057008">Apply →</a></p>
 
 ---
-*Posted 2026-03-19 · Listing synced 2026-05-30 · 80k job ID `recH7wqhSNa2xOdfT`*
+*Posted 2026-03-19 · Listing synced 2026-05-31 · 80k job ID `recH7wqhSNa2xOdfT`*

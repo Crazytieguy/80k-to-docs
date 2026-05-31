@@ -2,7 +2,7 @@
 title: "Lead AI Applications Developer / Senior AI Developer, Safety"
 employer: "Mila"
 job_id: "recp9XnQuITuTRzjs"
-last_updated: "2026-05-30T05:32:54.663064Z"
+last_updated: "2026-05-31T05:33:02.646281Z"
 posted_at: "2026-04-17T00:00:00Z"
 status: ready
 apply_url: "https://apply.workable.com/mila-2/j/B7AF1B04AF/"
@@ -33,4 +33,4 @@ areas:
 <p class="apply-cta"><a href="https://apply.workable.com/mila-2/j/B7AF1B04AF/">Apply →</a></p>
 
 ---
-*Posted 2026-04-17 · Listing synced 2026-05-30 · 80k job ID `recp9XnQuITuTRzjs`*
+*Posted 2026-04-17 · Listing synced 2026-05-31 · 80k job ID `recp9XnQuITuTRzjs`*

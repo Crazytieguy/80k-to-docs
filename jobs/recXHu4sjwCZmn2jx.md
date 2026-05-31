@@ -2,7 +2,7 @@
 title: "AI Policy Leaders Programme"
 employer: "Talos Network"
 job_id: "recXHu4sjwCZmn2jx"
-last_updated: "2026-05-30T05:32:25.133729Z"
+last_updated: "2026-05-31T05:32:32.300857Z"
 posted_at: "2026-05-19T00:05:00Z"
 status: ready
 apply_url: "https://www.talosnetwork.org/policy-leaders-programme"
@@ -34,4 +34,4 @@ areas:
 <p class="apply-cta"><a href="https://www.talosnetwork.org/policy-leaders-programme">Apply →</a></p>
 
 ---
-*Posted 2026-05-19 · Listing synced 2026-05-30 · 80k job ID `recXHu4sjwCZmn2jx`*
+*Posted 2026-05-19 · Listing synced 2026-05-31 · 80k job ID `recXHu4sjwCZmn2jx`*

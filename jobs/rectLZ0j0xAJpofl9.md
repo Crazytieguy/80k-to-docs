@@ -2,7 +2,7 @@
 title: "Research Scientist I / II, AI Safety, Biological / Physical Sciences"
 employer: "Lila Sciences"
 job_id: "rectLZ0j0xAJpofl9"
-last_updated: "2026-05-30T05:33:36.263360Z"
+last_updated: "2026-05-31T05:33:50.126775Z"
 posted_at: "2022-01-06T00:00:00Z"
 status: ready
 apply_url: "https://job-boards.greenhouse.io/lilasciences/jobs/4111818009"
@@ -34,4 +34,4 @@ areas:
 <p class="apply-cta"><a href="https://job-boards.greenhouse.io/lilasciences/jobs/4111818009">Apply →</a></p>
 
 ---
-*Posted 2022-01-06 · Listing synced 2026-05-30 · 80k job ID `rectLZ0j0xAJpofl9`*
+*Posted 2022-01-06 · Listing synced 2026-05-31 · 80k job ID `rectLZ0j0xAJpofl9`*

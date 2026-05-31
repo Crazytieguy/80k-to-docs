@@ -2,7 +2,7 @@
 title: "Epidemiology and Information Analyst"
 employer: "UK Government, Health Security Agency"
 job_id: "recmQguHA6b73VrjN"
-last_updated: "2026-05-30T05:32:11.664755Z"
+last_updated: "2026-05-31T05:32:17.002527Z"
 posted_at: "2026-05-27T00:00:00Z"
 status: ready
 apply_url: "https://www.civilservicejobs.service.gov.uk/csr/jobs.cgi?jcode=1998986&csource=csalerts"
@@ -34,4 +34,4 @@ areas:
 <p class="apply-cta"><a href="https://www.civilservicejobs.service.gov.uk/csr/jobs.cgi?jcode=1998986&amp;csource=csalerts">Apply →</a></p>
 
 ---
-*Posted 2026-05-27 · Listing synced 2026-05-30 · 80k job ID `recmQguHA6b73VrjN`*
+*Posted 2026-05-27 · Listing synced 2026-05-31 · 80k job ID `recmQguHA6b73VrjN`*

@@ -2,7 +2,7 @@
 title: "List of Events for Career Capital"
 employer: "Various Event Organisers"
 job_id: "reczUsUl5CbJ6l6ym"
-last_updated: "2026-05-30T05:32:45.671062Z"
+last_updated: "2026-05-31T05:32:54.104920Z"
 posted_at: "2026-05-01T00:00:00Z"
 status: ready
 apply_url: "https://airtable.com/app53PsYpHxJW61l3/shrjyF9rqLVH2xdTR/tblBeumzf4BGqrc0z"
@@ -30,4 +30,4 @@ areas:
 <p class="apply-cta"><a href="https://airtable.com/app53PsYpHxJW61l3/shrjyF9rqLVH2xdTR/tblBeumzf4BGqrc0z">Apply →</a></p>
 
 ---
-*Posted 2026-05-01 · Listing synced 2026-05-30 · 80k job ID `reczUsUl5CbJ6l6ym`*
+*Posted 2026-05-01 · Listing synced 2026-05-31 · 80k job ID `reczUsUl5CbJ6l6ym`*

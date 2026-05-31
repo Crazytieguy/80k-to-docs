@@ -2,7 +2,7 @@
 title: "Senior Policy and Research Manager"
 employer: "Malaria No More"
 job_id: "rec91SZYoMlzXb4XR"
-last_updated: "2026-05-30T05:32:19.526904Z"
+last_updated: "2026-05-31T05:32:24.898475Z"
 posted_at: "2026-05-22T00:00:00Z"
 status: ready
 apply_url: "https://malarianomore.org.uk/sites/default/files/job_description_senior_policy_and_research_manager_1__2026_05_20_11_58_28_am.pdf"
@@ -33,4 +33,4 @@ areas:
 <p class="apply-cta"><a href="https://malarianomore.org.uk/sites/default/files/job_description_senior_policy_and_research_manager_1__2026_05_20_11_58_28_am.pdf">Apply →</a></p>
 
 ---
-*Posted 2026-05-22 · Listing synced 2026-05-30 · 80k job ID `rec91SZYoMlzXb4XR`*
+*Posted 2026-05-22 · Listing synced 2026-05-31 · 80k job ID `rec91SZYoMlzXb4XR`*

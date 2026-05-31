@@ -2,7 +2,7 @@
 title: "Events Associate"
 employer: "ERA"
 job_id: "rec4ZkcaEAGKKaIAW"
-last_updated: "2026-05-30T05:32:28.770847Z"
+last_updated: "2026-05-31T05:32:36.208999Z"
 posted_at: "2026-05-15T00:04:47Z"
 status: ready
 apply_url: "https://docs.google.com/document/d/146aHIPBkHSCQiIb4IYXHO9SrM4uPE5QTUcj58gMyTjY/edit?tab=t.0#heading=h.xtdxrh6oynny"
@@ -34,4 +34,4 @@ areas:
 <p class="apply-cta"><a href="https://docs.google.com/document/d/146aHIPBkHSCQiIb4IYXHO9SrM4uPE5QTUcj58gMyTjY/edit?tab=t.0#heading=h.xtdxrh6oynny">Apply →</a></p>
 
 ---
-*Posted 2026-05-15 · Listing synced 2026-05-30 · 80k job ID `rec4ZkcaEAGKKaIAW`*
+*Posted 2026-05-15 · Listing synced 2026-05-31 · 80k job ID `rec4ZkcaEAGKKaIAW`*

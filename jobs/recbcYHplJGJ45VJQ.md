@@ -2,7 +2,7 @@
 title: "General Applications"
 employer: "Longview Philanthropy"
 job_id: "recbcYHplJGJ45VJQ"
-last_updated: "2026-05-30T05:33:28.452895Z"
+last_updated: "2026-05-31T05:33:42.132802Z"
 posted_at: "2022-01-07T00:00:00Z"
 status: ready
 apply_url: "https://www.longview.org/careers/general-applications/"
@@ -30,4 +30,4 @@ areas:
 <p class="apply-cta"><a href="https://www.longview.org/careers/general-applications/">Apply →</a></p>
 
 ---
-*Posted 2022-01-07 · Listing synced 2026-05-30 · 80k job ID `recbcYHplJGJ45VJQ`*
+*Posted 2022-01-07 · Listing synced 2026-05-31 · 80k job ID `recbcYHplJGJ45VJQ`*

@@ -2,7 +2,7 @@
 title: "Research Manager, AIxHardware"
 employer: "ERA"
 job_id: "recgs0WqxhCgNktUF"
-last_updated: "2026-05-30T05:32:28.602859Z"
+last_updated: "2026-05-31T05:32:36.033027Z"
 posted_at: "2026-05-15T00:04:50Z"
 status: ready
 apply_url: "https://docs.google.com/document/d/146aHIPBkHSCQiIb4IYXHO9SrM4uPE5QTUcj58gMyTjY/edit?tab=t.0#heading=h.a7tt25lx6qsx"
@@ -34,4 +34,4 @@ areas:
 <p class="apply-cta"><a href="https://docs.google.com/document/d/146aHIPBkHSCQiIb4IYXHO9SrM4uPE5QTUcj58gMyTjY/edit?tab=t.0#heading=h.a7tt25lx6qsx">Apply →</a></p>
 
 ---
-*Posted 2026-05-15 · Listing synced 2026-05-30 · 80k job ID `recgs0WqxhCgNktUF`*
+*Posted 2026-05-15 · Listing synced 2026-05-31 · 80k job ID `recgs0WqxhCgNktUF`*

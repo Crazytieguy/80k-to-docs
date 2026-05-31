@@ -2,7 +2,7 @@
 title: "SciTech Manager"
 employer: "The Good Food Institute"
 job_id: "reclp5wkd4Sf1PxIu"
-last_updated: "2026-05-30T05:33:29.082825Z"
+last_updated: "2026-05-31T05:33:42.770206Z"
 posted_at: "2022-01-07T00:00:00Z"
 status: ready
 apply_url: "https://gfi.org/resource/scitech-manager/"
@@ -34,4 +34,4 @@ areas:
 <p class="apply-cta"><a href="https://gfi.org/resource/scitech-manager/">Apply →</a></p>
 
 ---
-*Posted 2022-01-07 · Listing synced 2026-05-30 · 80k job ID `reclp5wkd4Sf1PxIu`*
+*Posted 2022-01-07 · Listing synced 2026-05-31 · 80k job ID `reclp5wkd4Sf1PxIu`*

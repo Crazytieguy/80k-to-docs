@@ -2,7 +2,7 @@
 title: "PhD Fellowship, Mechanistic Interpretability for Large Language Model Security"
 employer: "University of Copenhagen, Department of Computer Science"
 job_id: "recFcXMpni1trB5oL"
-last_updated: "2026-05-30T05:32:38.417087Z"
+last_updated: "2026-05-31T05:32:46.026243Z"
 posted_at: "2026-05-08T00:01:00Z"
 status: ready
 apply_url: "https://employment.ku.dk/phd/?show=160571"
@@ -33,4 +33,4 @@ areas:
 <p class="apply-cta"><a href="https://employment.ku.dk/phd/?show=160571">Apply →</a></p>
 
 ---
-*Posted 2026-05-08 · Listing synced 2026-05-30 · 80k job ID `recFcXMpni1trB5oL`*
+*Posted 2026-05-08 · Listing synced 2026-05-31 · 80k job ID `recFcXMpni1trB5oL`*

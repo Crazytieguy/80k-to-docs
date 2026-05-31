@@ -2,7 +2,7 @@
 title: "Deputy Director, Policy, Brussels"
 employer: "Arq Foundation"
 job_id: "rech9olTlMcvdyJBy"
-last_updated: "2026-05-30T05:32:15.888212Z"
+last_updated: "2026-05-31T05:32:21.251939Z"
 posted_at: "2026-05-25T00:01:00Z"
 status: ready
 apply_url: "https://www.arq.foundation/careers/deputy-director-policy-brussels"
@@ -34,4 +34,4 @@ areas:
 <p class="apply-cta"><a href="https://www.arq.foundation/careers/deputy-director-policy-brussels">Apply →</a></p>
 
 ---
-*Posted 2026-05-25 · Listing synced 2026-05-30 · 80k job ID `rech9olTlMcvdyJBy`*
+*Posted 2026-05-25 · Listing synced 2026-05-31 · 80k job ID `rech9olTlMcvdyJBy`*

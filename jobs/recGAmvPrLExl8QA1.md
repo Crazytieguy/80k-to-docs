@@ -2,7 +2,7 @@
 title: "Grants and Awards Manager"
 employer: "Pure Earth"
 job_id: "recGAmvPrLExl8QA1"
-last_updated: "2026-05-30T05:33:09.446077Z"
+last_updated: "2026-05-31T05:33:21.738439Z"
 posted_at: "2026-03-17T00:00:00Z"
 status: ready
 apply_url: "https://www.pureearth.org/wp-content/uploads/2026/03/Grants-Awards-Manager.pdf"
@@ -34,4 +34,4 @@ areas:
 <p class="apply-cta"><a href="https://www.pureearth.org/wp-content/uploads/2026/03/Grants-Awards-Manager.pdf">Apply →</a></p>
 
 ---
-*Posted 2026-03-17 · Listing synced 2026-05-30 · 80k job ID `recGAmvPrLExl8QA1`*
+*Posted 2026-03-17 · Listing synced 2026-05-31 · 80k job ID `recGAmvPrLExl8QA1`*

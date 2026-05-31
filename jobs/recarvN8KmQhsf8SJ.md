@@ -2,7 +2,7 @@
 title: "Postdoc, LLM Factuality Detection"
 employer: "University of Copenhagen, Department of Computer Science"
 job_id: "recarvN8KmQhsf8SJ"
-last_updated: "2026-05-30T05:32:39.184643Z"
+last_updated: "2026-05-31T05:32:46.883480Z"
 posted_at: "2026-05-08T00:00:00Z"
 status: ready
 apply_url: "https://ellis.eu/research/jobs/2026-05-07-postdoc-in-llm-factuality-detection"
@@ -33,4 +33,4 @@ areas:
 <p class="apply-cta"><a href="https://ellis.eu/research/jobs/2026-05-07-postdoc-in-llm-factuality-detection">Apply →</a></p>
 
 ---
-*Posted 2026-05-08 · Listing synced 2026-05-30 · 80k job ID `recarvN8KmQhsf8SJ`*
+*Posted 2026-05-08 · Listing synced 2026-05-31 · 80k job ID `recarvN8KmQhsf8SJ`*

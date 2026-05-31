@@ -2,7 +2,7 @@
 title: "Graduate Professional, Middle East Weapons of Mass Destruction-Free Zone"
 employer: "United Nations, Institute for Disarmament Research"
 job_id: "recR4MIw6EhDPAuWU"
-last_updated: "2026-05-30T05:32:07.065231Z"
+last_updated: "2026-05-31T05:32:12.026064Z"
 posted_at: "2026-05-29T00:00:00Z"
 status: ready
 apply_url: "https://unidir.org/job/graduate-professional-middle-east-wmd-free-zone/"
@@ -33,4 +33,4 @@ areas:
 <p class="apply-cta"><a href="https://unidir.org/job/graduate-professional-middle-east-wmd-free-zone/">Apply →</a></p>
 
 ---
-*Posted 2026-05-29 · Listing synced 2026-05-30 · 80k job ID `recR4MIw6EhDPAuWU`*
+*Posted 2026-05-29 · Listing synced 2026-05-31 · 80k job ID `recR4MIw6EhDPAuWU`*

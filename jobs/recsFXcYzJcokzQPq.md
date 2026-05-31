@@ -2,7 +2,7 @@
 title: "Request for Proposals, AI Safety Grant"
 employer: "Foresight Institute"
 job_id: "recsFXcYzJcokzQPq"
-last_updated: "2026-05-30T05:32:49.543167Z"
+last_updated: "2026-05-31T05:32:58.300756Z"
 posted_at: "2026-04-27T00:00:00Z"
 status: ready
 apply_url: "https://foresight.org/request-for-proposals/"
@@ -32,4 +32,4 @@ areas:
 <p class="apply-cta"><a href="https://foresight.org/request-for-proposals/">Apply →</a></p>
 
 ---
-*Posted 2026-04-27 · Listing synced 2026-05-30 · 80k job ID `recsFXcYzJcokzQPq`*
+*Posted 2026-04-27 · Listing synced 2026-05-31 · 80k job ID `recsFXcYzJcokzQPq`*

@@ -2,7 +2,7 @@
 title: "Growth Marketing Specialist"
 employer: "Marketing Growth Lab"
 job_id: "rec6pISZya4kcGLIl"
-last_updated: "2026-05-30T05:33:06.485429Z"
+last_updated: "2026-05-31T05:33:16.786566Z"
 posted_at: "2026-03-26T00:00:00Z"
 status: ready
 apply_url: "https://docs.google.com/document/d/14En9ZhajBHIaM_iwn0m9vbTRIn0-Az-QrnOpjiRM7fc/edit?tab=t.0#heading=h.vzc1qkrp058y"
@@ -34,4 +34,4 @@ areas:
 <p class="apply-cta"><a href="https://docs.google.com/document/d/14En9ZhajBHIaM_iwn0m9vbTRIn0-Az-QrnOpjiRM7fc/edit?tab=t.0#heading=h.vzc1qkrp058y">Apply →</a></p>
 
 ---
-*Posted 2026-03-26 · Listing synced 2026-05-30 · 80k job ID `rec6pISZya4kcGLIl`*
+*Posted 2026-03-26 · Listing synced 2026-05-31 · 80k job ID `rec6pISZya4kcGLIl`*

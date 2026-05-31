@@ -2,7 +2,7 @@
 title: "Security Engineer, Application Security, San Francisco"
 employer: "OpenAI"
 job_id: "recKsu8Ox5kq3iwF4"
-last_updated: "2026-05-30T05:33:21.885942Z"
+last_updated: "2026-05-31T05:33:34.919888Z"
 posted_at: "2022-01-11T00:00:00Z"
 status: ready
 apply_url: "https://openai.com/careers/security-engineer-application-security-san-francisco/"
@@ -33,4 +33,4 @@ areas:
 <p class="apply-cta"><a href="https://openai.com/careers/security-engineer-application-security-san-francisco/">Apply →</a></p>
 
 ---
-*Posted 2022-01-11 · Listing synced 2026-05-30 · 80k job ID `recKsu8Ox5kq3iwF4`*
+*Posted 2022-01-11 · Listing synced 2026-05-31 · 80k job ID `recKsu8Ox5kq3iwF4`*

@@ -2,7 +2,7 @@
 title: "Associate Director, Philanthropy"
 employer: "The Good Food Institute"
 job_id: "recCyVrxqucHxir6Q"
-last_updated: "2026-05-30T05:32:21.890405Z"
+last_updated: "2026-05-31T05:32:28.698678Z"
 posted_at: "2026-05-21T00:00:00Z"
 status: ready
 apply_url: "https://gfi.org/resource/associate-director-philanthropy/"
@@ -34,4 +34,4 @@ areas:
 <p class="apply-cta"><a href="https://gfi.org/resource/associate-director-philanthropy/">Apply →</a></p>
 
 ---
-*Posted 2026-05-21 · Listing synced 2026-05-30 · 80k job ID `recCyVrxqucHxir6Q`*
+*Posted 2026-05-21 · Listing synced 2026-05-31 · 80k job ID `recCyVrxqucHxir6Q`*

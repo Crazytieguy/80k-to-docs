@@ -4,24 +4,20 @@ employer: "United Nations, Institute for Disarmament Research"
 job_id: "rectRCwbpVCX9SdIG"
 last_updated: "2026-05-30T05:32:32.871100Z"
 posted_at: "2026-05-14T00:00:00Z"
-status: ready
+status: closed
+closed_at: "2026-05-31"
 apply_url: "https://unidir.org/job/graduate-professional-space-security-2-positions/"
 areas:
   - "Space governance"
 ---
 
+> ⚠️ **CLOSED on 2026-05-31** — this job is no longer listed on the 80,000 Hours board. Archived snapshot below.
+
 # Graduate Professional, Space Security (x2)
 
-**[United Nations, Institute for Disarmament Research](https://www.un.org/en/)**
+**United Nations, Institute for Disarmament Research**
 
-<dl class="job-meta">
-<dt>Location</dt><dd>Geneva, Switzerland, Switzerland, Europe (ex UK)</dd>
-<dt>Role type</dt><dd>Full-time</dd>
-<dt>Experience</dt><dd>Entry-level</dd>
-<dt>Degree</dt><dd>Undergraduate degree or less</dd>
-</dl>
-
-**Areas & skills:** Space governance, Research, Policy
+**Areas & skills:** Space governance
 
 ## Summary
 - In this role, you'll assist the Space Security Programme with research, event production, and administrative support focused on international space security.

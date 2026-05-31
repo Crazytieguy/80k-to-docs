@@ -2,7 +2,7 @@
 title: "Intern, Operations"
 employer: "Future of Privacy Forum"
 job_id: "recpSKPOywH2v1TDQ"
-last_updated: "2026-05-30T05:34:00.843045Z"
+last_updated: "2026-05-31T05:34:17.219079Z"
 posted_at: "2022-01-02T00:00:00Z"
 status: ready
 apply_url: "https://fpf.org/operations-internships/"
@@ -33,4 +33,4 @@ areas:
 <p class="apply-cta"><a href="https://fpf.org/operations-internships/">Apply →</a></p>
 
 ---
-*Posted 2022-01-02 · Listing synced 2026-05-30 · 80k job ID `recpSKPOywH2v1TDQ`*
+*Posted 2022-01-02 · Listing synced 2026-05-31 · 80k job ID `recpSKPOywH2v1TDQ`*

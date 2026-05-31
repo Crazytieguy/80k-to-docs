@@ -2,7 +2,7 @@
 title: "Generalist, Talent Operations"
 employer: "Kairos"
 job_id: "recTvyoiOEzQh9dF9"
-last_updated: "2026-05-30T05:32:05.524169Z"
+last_updated: "2026-05-31T05:32:10.386644Z"
 posted_at: "2026-05-29T00:03:00Z"
 status: ready
 apply_url: "https://jobs.ashbyhq.com/kairos-project/3ccaf2af-032d-4fcf-9f23-37f88a6366b0"
@@ -34,4 +34,4 @@ areas:
 <p class="apply-cta"><a href="https://jobs.ashbyhq.com/kairos-project/3ccaf2af-032d-4fcf-9f23-37f88a6366b0">Apply →</a></p>
 
 ---
-*Posted 2026-05-29 · Listing synced 2026-05-30 · 80k job ID `recTvyoiOEzQh9dF9`*
+*Posted 2026-05-29 · Listing synced 2026-05-31 · 80k job ID `recTvyoiOEzQh9dF9`*

@@ -2,7 +2,7 @@
 title: "Head of Operations"
 employer: "General-Purpose AI Policy Lab"
 job_id: "recs6EG72AHpBZen6"
-last_updated: "2026-05-30T05:33:09.712725Z"
+last_updated: "2026-05-31T05:33:22.318093Z"
 posted_at: "2026-03-16T00:02:00Z"
 status: ready
 apply_url: "https://docs.google.com/document/d/1p3xwlRfVQcCUAEUxoeZkm8MSJNLCdN7Q-6JHZj98x0Y/edit?tab=t.0#heading=h.2xzr9qd95u9l"
@@ -34,4 +34,4 @@ areas:
 <p class="apply-cta"><a href="https://docs.google.com/document/d/1p3xwlRfVQcCUAEUxoeZkm8MSJNLCdN7Q-6JHZj98x0Y/edit?tab=t.0#heading=h.2xzr9qd95u9l">Apply →</a></p>
 
 ---
-*Posted 2026-03-16 · Listing synced 2026-05-30 · 80k job ID `recs6EG72AHpBZen6`*
+*Posted 2026-03-16 · Listing synced 2026-05-31 · 80k job ID `recs6EG72AHpBZen6`*

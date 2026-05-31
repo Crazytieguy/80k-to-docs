@@ -2,7 +2,7 @@
 title: "Specialist, Institutional Advocacy"
 employer: "Animal Welfare Observatory"
 job_id: "recJBHoAcRf0iRF4u"
-last_updated: "2026-05-30T05:32:07.943999Z"
+last_updated: "2026-05-31T05:32:12.859257Z"
 posted_at: "2026-05-28T00:00:00Z"
 status: ready
 apply_url: "https://observatoriodebienestaranimal.jobs.personio.com/job/2647367"
@@ -34,4 +34,4 @@ areas:
 <p class="apply-cta"><a href="https://observatoriodebienestaranimal.jobs.personio.com/job/2647367">Apply →</a></p>
 
 ---
-*Posted 2026-05-28 · Listing synced 2026-05-30 · 80k job ID `recJBHoAcRf0iRF4u`*
+*Posted 2026-05-28 · Listing synced 2026-05-31 · 80k job ID `recJBHoAcRf0iRF4u`*

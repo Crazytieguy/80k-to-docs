@@ -2,7 +2,7 @@
 title: "Student Internship, Autumn Semester"
 employer: "Egmont Institute"
 job_id: "recripPlGnkISYBly"
-last_updated: "2026-05-30T05:33:59.817957Z"
+last_updated: "2026-05-31T05:34:16.099756Z"
 posted_at: "2022-01-02T00:00:00Z"
 status: ready
 apply_url: "https://www.egmontinstitute.be/jobs-internships-and-opportunities/"
@@ -33,4 +33,4 @@ areas:
 <p class="apply-cta"><a href="https://www.egmontinstitute.be/jobs-internships-and-opportunities/">Apply →</a></p>
 
 ---
-*Posted 2022-01-02 · Listing synced 2026-05-30 · 80k job ID `recripPlGnkISYBly`*
+*Posted 2022-01-02 · Listing synced 2026-05-31 · 80k job ID `recripPlGnkISYBly`*

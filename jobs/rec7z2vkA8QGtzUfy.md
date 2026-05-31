@@ -2,7 +2,7 @@
 title: "List of Short-Term Policy Programs"
 employer: "Horizon Institute for Public Service"
 job_id: "rec7z2vkA8QGtzUfy"
-last_updated: "2026-05-30T05:32:38.667890Z"
+last_updated: "2026-05-31T05:32:46.279606Z"
 posted_at: "2026-05-08T00:00:00Z"
 status: ready
 apply_url: "https://emergingtechpolicy.org/pathways/short-term-policy-programs/"
@@ -32,4 +32,4 @@ areas:
 <p class="apply-cta"><a href="https://emergingtechpolicy.org/pathways/short-term-policy-programs/">Apply →</a></p>
 
 ---
-*Posted 2026-05-08 · Listing synced 2026-05-30 · 80k job ID `rec7z2vkA8QGtzUfy`*
+*Posted 2026-05-08 · Listing synced 2026-05-31 · 80k job ID `rec7z2vkA8QGtzUfy`*

@@ -2,7 +2,7 @@
 title: "Lead, Health Security"
 employer: "World Economic Forum"
 job_id: "recE76eJ9PHkeWpOV"
-last_updated: "2026-05-30T05:32:40.626710Z"
+last_updated: "2026-05-31T05:32:48.593283Z"
 posted_at: "2026-05-06T00:03:00Z"
 status: ready
 apply_url: "https://www.linkedin.com/jobs/view/4410245104/"
@@ -34,4 +34,4 @@ areas:
 <p class="apply-cta"><a href="https://www.linkedin.com/jobs/view/4410245104/">Apply →</a></p>
 
 ---
-*Posted 2026-05-06 · Listing synced 2026-05-30 · 80k job ID `recE76eJ9PHkeWpOV`*
+*Posted 2026-05-06 · Listing synced 2026-05-31 · 80k job ID `recE76eJ9PHkeWpOV`*

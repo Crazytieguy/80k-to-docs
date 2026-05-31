@@ -2,7 +2,7 @@
 title: "Product and Growth Manager"
 employer: "80,000 Hours"
 job_id: "rectxXguo2FXa7nA5"
-last_updated: "2026-05-30T05:32:44.110773Z"
+last_updated: "2026-05-31T05:32:52.280737Z"
 posted_at: "2026-05-04T00:03:00Z"
 status: ready
 apply_url: "https://80000hours.org/2026/05/open-role-product-and-growth-manager/"
@@ -33,4 +33,4 @@ areas:
 <p class="apply-cta"><a href="https://80000hours.org/2026/05/open-role-product-and-growth-manager/">Apply →</a></p>
 
 ---
-*Posted 2026-05-04 · Listing synced 2026-05-30 · 80k job ID `rectxXguo2FXa7nA5`*
+*Posted 2026-05-04 · Listing synced 2026-05-31 · 80k job ID `rectxXguo2FXa7nA5`*

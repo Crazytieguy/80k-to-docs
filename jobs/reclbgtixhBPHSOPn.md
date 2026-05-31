@@ -2,7 +2,7 @@
 title: "Expressions of Interest, Policy and Engineering"
 employer: "AI Verification and Evaluation Research Institute"
 job_id: "reclbgtixhBPHSOPn"
-last_updated: "2026-05-30T05:33:42.072876Z"
+last_updated: "2026-05-31T05:33:56.351500Z"
 posted_at: "2022-01-05T00:00:00Z"
 status: ready
 apply_url: "https://www.averi.org/careers"
@@ -29,4 +29,4 @@ areas:
 <p class="apply-cta"><a href="https://www.averi.org/careers">Apply →</a></p>
 
 ---
-*Posted 2022-01-05 · Listing synced 2026-05-30 · 80k job ID `reclbgtixhBPHSOPn`*
+*Posted 2022-01-05 · Listing synced 2026-05-31 · 80k job ID `reclbgtixhBPHSOPn`*

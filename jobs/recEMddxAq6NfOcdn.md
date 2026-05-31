@@ -2,7 +2,7 @@
 title: "Entrepreneur in Residence, Product and Spinouts"
 employer: "Amodo Design"
 job_id: "recEMddxAq6NfOcdn"
-last_updated: "2026-05-30T05:34:09.353269Z"
+last_updated: "2026-05-31T05:34:26.278494Z"
 posted_at: "2022-01-01T00:00:00Z"
 status: ready
 apply_url: "https://amododesign.com/career/products-spinouts/"
@@ -34,4 +34,4 @@ areas:
 <p class="apply-cta"><a href="https://amododesign.com/career/products-spinouts/">Apply →</a></p>
 
 ---
-*Posted 2022-01-01 · Listing synced 2026-05-30 · 80k job ID `recEMddxAq6NfOcdn`*
+*Posted 2022-01-01 · Listing synced 2026-05-31 · 80k job ID `recEMddxAq6NfOcdn`*

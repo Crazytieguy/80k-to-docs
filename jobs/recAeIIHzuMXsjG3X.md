@@ -2,7 +2,7 @@
 title: "Delivery Manager, AI Safety"
 employer: "Faculty"
 job_id: "recAeIIHzuMXsjG3X"
-last_updated: "2026-05-30T05:33:47.681719Z"
+last_updated: "2026-05-31T05:34:00.386491Z"
 posted_at: "2022-01-05T00:00:00Z"
 status: ready
 apply_url: "https://jobs.ashbyhq.com/faculty/18755194-02f0-4cfc-bd99-cc41c0922f5d"
@@ -33,4 +33,4 @@ areas:
 <p class="apply-cta"><a href="https://jobs.ashbyhq.com/faculty/18755194-02f0-4cfc-bd99-cc41c0922f5d">Apply →</a></p>
 
 ---
-*Posted 2022-01-05 · Listing synced 2026-05-30 · 80k job ID `recAeIIHzuMXsjG3X`*
+*Posted 2022-01-05 · Listing synced 2026-05-31 · 80k job ID `recAeIIHzuMXsjG3X`*

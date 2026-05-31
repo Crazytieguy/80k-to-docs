@@ -2,7 +2,7 @@
 title: "Monitoring and Evaluation Coordinator"
 employer: "Ansh"
 job_id: "rectH6Pw1mslmqP01"
-last_updated: "2026-05-30T05:33:57.122135Z"
+last_updated: "2026-05-31T05:34:11.183858Z"
 posted_at: "2022-01-02T00:00:00Z"
 status: ready
 apply_url: "https://www.ansh.health/monitoring-and-evaluation-coordinator"
@@ -34,4 +34,4 @@ areas:
 <p class="apply-cta"><a href="https://www.ansh.health/monitoring-and-evaluation-coordinator">Apply →</a></p>
 
 ---
-*Posted 2022-01-02 · Listing synced 2026-05-30 · 80k job ID `rectH6Pw1mslmqP01`*
+*Posted 2022-01-02 · Listing synced 2026-05-31 · 80k job ID `rectH6Pw1mslmqP01`*

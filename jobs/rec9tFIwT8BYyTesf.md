@@ -2,7 +2,7 @@
 title: "Abuse Investigator, Chemical, Biological, Radiological, and Nuclear"
 employer: "OpenAI"
 job_id: "rec9tFIwT8BYyTesf"
-last_updated: "2026-05-30T05:33:10.198095Z"
+last_updated: "2026-05-31T05:33:22.882106Z"
 posted_at: "2026-03-16T00:00:00Z"
 status: ready
 apply_url: "https://openai.com/careers/abuse-investigator-(cbrn)-remote-us/"
@@ -34,4 +34,4 @@ areas:
 <p class="apply-cta"><a href="https://openai.com/careers/abuse-investigator-(cbrn)-remote-us/">Apply →</a></p>
 
 ---
-*Posted 2026-03-16 · Listing synced 2026-05-30 · 80k job ID `rec9tFIwT8BYyTesf`*
+*Posted 2026-03-16 · Listing synced 2026-05-31 · 80k job ID `rec9tFIwT8BYyTesf`*

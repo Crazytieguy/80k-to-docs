@@ -2,7 +2,7 @@
 title: "Research Assistant, Human Influence"
 employer: "UK Government, AI Security Institute"
 job_id: "recTuP3f9Be2ECJwr"
-last_updated: "2026-05-30T05:32:46.915041Z"
+last_updated: "2026-05-31T05:32:55.496460Z"
 posted_at: "2026-04-29T00:05:00Z"
 status: ready
 apply_url: "https://job-boards.eu.greenhouse.io/aisi/jobs/4846804101"
@@ -34,4 +34,4 @@ areas:
 <p class="apply-cta"><a href="https://job-boards.eu.greenhouse.io/aisi/jobs/4846804101">Apply →</a></p>
 
 ---
-*Posted 2026-04-29 · Listing synced 2026-05-30 · 80k job ID `recTuP3f9Be2ECJwr`*
+*Posted 2026-04-29 · Listing synced 2026-05-31 · 80k job ID `recTuP3f9Be2ECJwr`*

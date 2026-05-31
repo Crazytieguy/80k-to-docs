@@ -2,7 +2,7 @@
 title: "Intern, Aerospace Security Project (Spring 2026)"
 employer: "Center for Strategic and International Studies"
 job_id: "recMjfEJnBDkExMuL"
-last_updated: "2026-05-30T05:33:58.428809Z"
+last_updated: "2026-05-31T05:34:13.944010Z"
 posted_at: "2022-01-02T00:00:00Z"
 status: ready
 apply_url: "https://careers.csis.org/opportunities/1736"
@@ -34,4 +34,4 @@ areas:
 <p class="apply-cta"><a href="https://careers.csis.org/opportunities/1736">Apply →</a></p>
 
 ---
-*Posted 2022-01-02 · Listing synced 2026-05-30 · 80k job ID `recMjfEJnBDkExMuL`*
+*Posted 2022-01-02 · Listing synced 2026-05-31 · 80k job ID `recMjfEJnBDkExMuL`*

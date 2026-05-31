@@ -2,7 +2,7 @@
 title: "Intern, Critical Minerals Security Program (Summer 2026)"
 employer: "Center for Strategic and International Studies"
 job_id: "recoaulTaj1ooGClY"
-last_updated: "2026-05-30T05:33:06.805346Z"
+last_updated: "2026-05-31T05:33:17.127899Z"
 posted_at: "2026-03-25T00:00:00Z"
 status: ready
 apply_url: "https://careers.csis.org/opportunities/1759"
@@ -34,4 +34,4 @@ areas:
 <p class="apply-cta"><a href="https://careers.csis.org/opportunities/1759">Apply →</a></p>
 
 ---
-*Posted 2026-03-25 · Listing synced 2026-05-30 · 80k job ID `recoaulTaj1ooGClY`*
+*Posted 2026-03-25 · Listing synced 2026-05-31 · 80k job ID `recoaulTaj1ooGClY`*

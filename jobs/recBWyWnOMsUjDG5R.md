@@ -2,7 +2,7 @@
 title: "Computational Biologist"
 employer: "Massachusetts Institute of Technology, Lincoln Laboratory"
 job_id: "recBWyWnOMsUjDG5R"
-last_updated: "2026-05-30T05:33:53.546004Z"
+last_updated: "2026-05-31T05:34:07.129329Z"
 posted_at: "2022-01-04T00:00:00Z"
 status: ready
 apply_url: "https://careers.ll.mit.edu/job/Lexington-Computational-Biologist-MA-02420/1366997300/"
@@ -34,4 +34,4 @@ areas:
 <p class="apply-cta"><a href="https://careers.ll.mit.edu/job/Lexington-Computational-Biologist-MA-02420/1366997300/">Apply →</a></p>
 
 ---
-*Posted 2022-01-04 · Listing synced 2026-05-30 · 80k job ID `recBWyWnOMsUjDG5R`*
+*Posted 2022-01-04 · Listing synced 2026-05-31 · 80k job ID `recBWyWnOMsUjDG5R`*

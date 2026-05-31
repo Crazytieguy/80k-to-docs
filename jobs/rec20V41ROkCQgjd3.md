@@ -2,7 +2,7 @@
 title: "Researcher"
 employer: "GiveWell"
 job_id: "rec20V41ROkCQgjd3"
-last_updated: "2026-05-30T05:33:10.759365Z"
+last_updated: "2026-05-31T05:33:23.585625Z"
 posted_at: "2026-03-13T00:00:00Z"
 status: ready
 apply_url: "https://grnh.se/6i76vvi28us"
@@ -34,4 +34,4 @@ areas:
 <p class="apply-cta"><a href="https://grnh.se/6i76vvi28us">Apply →</a></p>
 
 ---
-*Posted 2026-03-13 · Listing synced 2026-05-30 · 80k job ID `rec20V41ROkCQgjd3`*
+*Posted 2026-03-13 · Listing synced 2026-05-31 · 80k job ID `rec20V41ROkCQgjd3`*

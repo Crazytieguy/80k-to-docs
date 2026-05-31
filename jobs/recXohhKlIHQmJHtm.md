@@ -2,7 +2,7 @@
 title: "Research Manager, Supervised Program for Alignment Research"
 employer: "Kairos"
 job_id: "recXohhKlIHQmJHtm"
-last_updated: "2026-05-30T05:32:05.699013Z"
+last_updated: "2026-05-31T05:32:10.569338Z"
 posted_at: "2026-05-29T00:03:00Z"
 status: ready
 apply_url: "https://jobs.ashbyhq.com/kairos-project/a4e67aac-ee97-46b7-9078-9822fef4683c"
@@ -34,4 +34,4 @@ areas:
 <p class="apply-cta"><a href="https://jobs.ashbyhq.com/kairos-project/a4e67aac-ee97-46b7-9078-9822fef4683c">Apply →</a></p>
 
 ---
-*Posted 2026-05-29 · Listing synced 2026-05-30 · 80k job ID `recXohhKlIHQmJHtm`*
+*Posted 2026-05-29 · Listing synced 2026-05-31 · 80k job ID `recXohhKlIHQmJHtm`*

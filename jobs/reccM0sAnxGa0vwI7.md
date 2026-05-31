@@ -2,7 +2,7 @@
 title: "Team Lead / Team Member, EAGxBerlin 2026"
 employer: "Effective Altruism Germany"
 job_id: "reccM0sAnxGa0vwI7"
-last_updated: "2026-05-30T05:32:52.894384Z"
+last_updated: "2026-05-31T05:33:01.407194Z"
 posted_at: "2026-04-21T00:00:00Z"
 status: ready
 apply_url: "https://effektiveraltruismus.de/job-descriptions-eagxberlin-2026/"
@@ -34,4 +34,4 @@ areas:
 <p class="apply-cta"><a href="https://effektiveraltruismus.de/job-descriptions-eagxberlin-2026/">Apply →</a></p>
 
 ---
-*Posted 2026-04-21 · Listing synced 2026-05-30 · 80k job ID `reccM0sAnxGa0vwI7`*
+*Posted 2026-04-21 · Listing synced 2026-05-31 · 80k job ID `reccM0sAnxGa0vwI7`*

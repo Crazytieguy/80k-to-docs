@@ -2,7 +2,7 @@
 title: "Events Associate"
 employer: "Arq Foundation"
 job_id: "rec5OIm4oAsj3Otzd"
-last_updated: "2026-05-30T05:32:16.182289Z"
+last_updated: "2026-05-31T05:32:21.585145Z"
 posted_at: "2026-05-25T00:01:00Z"
 status: ready
 apply_url: "https://www.arq.foundation/careers/events-associate"
@@ -34,4 +34,4 @@ areas:
 <p class="apply-cta"><a href="https://www.arq.foundation/careers/events-associate">Apply →</a></p>
 
 ---
-*Posted 2026-05-25 · Listing synced 2026-05-30 · 80k job ID `rec5OIm4oAsj3Otzd`*
+*Posted 2026-05-25 · Listing synced 2026-05-31 · 80k job ID `rec5OIm4oAsj3Otzd`*

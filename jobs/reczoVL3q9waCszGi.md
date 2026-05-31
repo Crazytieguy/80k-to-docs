@@ -2,7 +2,7 @@
 title: "AI / Emerging Technology Security Analyst"
 employer: "Alignerr"
 job_id: "reczoVL3q9waCszGi"
-last_updated: "2026-05-30T05:32:23.303531Z"
+last_updated: "2026-05-31T05:32:30.318954Z"
 posted_at: "2026-05-20T00:00:00Z"
 status: ready
 apply_url: "https://www.alignerr.com/jobs/1ad553b6-973d-4463-b4ea-722976f54727?referral-source=linkedin-job"
@@ -34,4 +34,4 @@ areas:
 <p class="apply-cta"><a href="https://www.alignerr.com/jobs/1ad553b6-973d-4463-b4ea-722976f54727?referral-source=linkedin-job">Apply →</a></p>
 
 ---
-*Posted 2026-05-20 · Listing synced 2026-05-30 · 80k job ID `reczoVL3q9waCszGi`*
+*Posted 2026-05-20 · Listing synced 2026-05-31 · 80k job ID `reczoVL3q9waCszGi`*

@@ -4,25 +4,20 @@ employer: "Ansh"
 job_id: "recN24VKcDWgjenvO"
 last_updated: "2026-05-30T05:32:53.736846Z"
 posted_at: "2026-04-20T00:00:00Z"
-status: ready
+status: closed
+closed_at: "2026-05-31"
 apply_url: "https://www.ansh.health/chief-of-staff"
 areas:
   - "Global health & development"
 ---
 
+> ⚠️ **CLOSED on 2026-05-31** — this job is no longer listed on the 80,000 Hours board. Archived snapshot below.
+
 # Chief of Staff
 
-**[Ansh](https://www.ansh.health/)**
+**Ansh**
 
-<dl class="job-meta">
-<dt>Location</dt><dd>Remote, Global</dd>
-<dt>Role type</dt><dd>Full-time</dd>
-<dt>Experience</dt><dd>Junior (1-4 years experience)</dd>
-<dt>Degree</dt><dd>Undergraduate degree or less</dd>
-<dt>Salary</dt><dd>$21,048 – $26,310</dd>
-</dl>
-
-**Areas & skills:** Global health & development, Operations
+**Areas & skills:** Global health & development
 
 ## Summary
 - In this role, you'll support the CEO and CSO by owning diverse operational and strategic projects as Ansh scales.

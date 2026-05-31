@@ -2,7 +2,7 @@
 title: "Philippines Country Lead"
 employer: "Scale Welfare"
 job_id: "recM8BPHxod6evjsf"
-last_updated: "2026-05-30T05:32:11.307780Z"
+last_updated: "2026-05-31T05:32:16.596113Z"
 posted_at: "2026-05-27T00:00:00Z"
 status: ready
 apply_url: "https://docs.google.com/document/d/1oaoOUwR0B9le42QUzua2GZbbsokY8XMvtalagQZcYzk/edit?tab=t.0#heading=h.peuvkyq77pjg"
@@ -34,4 +34,4 @@ areas:
 <p class="apply-cta"><a href="https://docs.google.com/document/d/1oaoOUwR0B9le42QUzua2GZbbsokY8XMvtalagQZcYzk/edit?tab=t.0#heading=h.peuvkyq77pjg">Apply →</a></p>
 
 ---
-*Posted 2026-05-27 · Listing synced 2026-05-30 · 80k job ID `recM8BPHxod6evjsf`*
+*Posted 2026-05-27 · Listing synced 2026-05-31 · 80k job ID `recM8BPHxod6evjsf`*

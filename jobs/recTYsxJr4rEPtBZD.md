@@ -2,7 +2,7 @@
 title: "Sub Team Lead, Red Team, Control"
 employer: "UK Government, AI Security Institute"
 job_id: "recTYsxJr4rEPtBZD"
-last_updated: "2026-05-30T05:32:37.408953Z"
+last_updated: "2026-05-31T05:32:44.867105Z"
 posted_at: "2026-05-11T00:00:00Z"
 status: ready
 apply_url: "https://job-boards.eu.greenhouse.io/aisi/jobs/4784442101"
@@ -34,4 +34,4 @@ areas:
 <p class="apply-cta"><a href="https://job-boards.eu.greenhouse.io/aisi/jobs/4784442101">Apply →</a></p>
 
 ---
-*Posted 2026-05-11 · Listing synced 2026-05-30 · 80k job ID `recTYsxJr4rEPtBZD`*
+*Posted 2026-05-11 · Listing synced 2026-05-31 · 80k job ID `recTYsxJr4rEPtBZD`*

@@ -2,7 +2,7 @@
 title: "Fellowship"
 employer: "Effective Thesis"
 job_id: "recsQkLsJtJ82aznt"
-last_updated: "2026-05-30T05:32:31.736002Z"
+last_updated: "2026-05-31T05:32:39.153656Z"
 posted_at: "2026-05-14T00:00:00Z"
 status: ready
 apply_url: "https://www.effectivethesis.org/key-services/effective-thesis-fellowship"
@@ -33,4 +33,4 @@ areas:
 <p class="apply-cta"><a href="https://www.effectivethesis.org/key-services/effective-thesis-fellowship">Apply →</a></p>
 
 ---
-*Posted 2026-05-14 · Listing synced 2026-05-30 · 80k job ID `recsQkLsJtJ82aznt`*
+*Posted 2026-05-14 · Listing synced 2026-05-31 · 80k job ID `recsQkLsJtJ82aznt`*

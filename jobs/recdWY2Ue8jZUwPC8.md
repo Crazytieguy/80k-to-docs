@@ -2,7 +2,7 @@
 title: "Intern, Machine Learning Engineer"
 employer: "Stripe"
 job_id: "recdWY2Ue8jZUwPC8"
-last_updated: "2026-05-30T05:34:07.333225Z"
+last_updated: "2026-05-31T05:34:24.023760Z"
 posted_at: "2022-01-02T00:00:00Z"
 status: ready
 apply_url: "https://stripe.com/jobs/listing/phd-machine-learning-engineer-intern/7216664"
@@ -34,4 +34,4 @@ areas:
 <p class="apply-cta"><a href="https://stripe.com/jobs/listing/phd-machine-learning-engineer-intern/7216664">Apply →</a></p>
 
 ---
-*Posted 2022-01-02 · Listing synced 2026-05-30 · 80k job ID `recdWY2Ue8jZUwPC8`*
+*Posted 2022-01-02 · Listing synced 2026-05-31 · 80k job ID `recdWY2Ue8jZUwPC8`*

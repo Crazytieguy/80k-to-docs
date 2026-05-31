@@ -2,8 +2,8 @@
 title: "Research Engineer Intern (Fall 2026)"
 employer: "Center for AI Safety"
 job_id: "recU4FPZknbbKuz0v"
-last_updated: "2026-05-30T05:33:10.962063Z"
-posted_at: "2026-03-11T00:05:00Z"
+last_updated: "2026-05-31T05:33:25.892267Z"
+posted_at: "2022-01-12T00:00:00Z"
 status: ready
 apply_url: "https://jobs.lever.co/aisafety/e011814b-9a80-43d6-bb0c-cc153ea4bec4"
 areas:
@@ -34,4 +34,4 @@ areas:
 <p class="apply-cta"><a href="https://jobs.lever.co/aisafety/e011814b-9a80-43d6-bb0c-cc153ea4bec4">Apply →</a></p>
 
 ---
-*Posted 2026-03-11 · Listing synced 2026-05-30 · 80k job ID `recU4FPZknbbKuz0v`*
+*Posted 2022-01-12 · Listing synced 2026-05-31 · 80k job ID `recU4FPZknbbKuz0v`*

@@ -4,25 +4,20 @@ employer: "Amodo Design"
 job_id: "recerUmMmiaExtwQI"
 last_updated: "2026-05-30T05:33:42.734814Z"
 posted_at: "2022-01-05T00:00:00Z"
-status: ready
+status: closed
+closed_at: "2026-05-31"
 apply_url: "https://amododesign.com/career/ai-lead/"
 areas:
   - "AI safety & policy"
 ---
 
+> ⚠️ **CLOSED on 2026-05-31** — this job is no longer listed on the 80,000 Hours board. Archived snapshot below.
+
 # Field Lead, AI Hardware Security and Verification
 
-**[Amodo Design](https://amododesign.com/)**
+**Amodo Design**
 
-<dl class="job-meta">
-<dt>Location</dt><dd>Remote, UK, Sheffield, UK, UK</dd>
-<dt>Role type</dt><dd>Full-time</dd>
-<dt>Experience</dt><dd>Mid (5-9 years experience)</dd>
-<dt>Degree</dt><dd>Undergraduate degree or less</dd>
-<dt>Salary</dt><dd>$67,256 – $100,884</dd>
-</dl>
-
-**Areas & skills:** AI safety & policy, Engineering, Information security
+**Areas & skills:** AI safety & policy
 
 ## Summary
 - In this role, you'll develop hardware architectures that help verify and secure advanced AI systems as the Technical Lead for the AI Security hardware workstream.

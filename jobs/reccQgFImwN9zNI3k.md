@@ -2,7 +2,7 @@
 title: "Intern, Life Sciences"
 employer: "Information Technology and Innovation Foundation"
 job_id: "reccQgFImwN9zNI3k"
-last_updated: "2026-05-30T05:32:29.665272Z"
+last_updated: "2026-05-31T05:32:37.160334Z"
 posted_at: "2026-05-15T00:00:00Z"
 status: ready
 apply_url: "https://itif.org/jobs/?gnk=job&gni=8a7887ac9e2359d7019e27b3b0c91535&lang=en"
@@ -33,4 +33,4 @@ areas:
 <p class="apply-cta"><a href="https://itif.org/jobs/?gnk=job&amp;gni=8a7887ac9e2359d7019e27b3b0c91535&amp;lang=en">Apply →</a></p>
 
 ---
-*Posted 2026-05-15 · Listing synced 2026-05-30 · 80k job ID `reccQgFImwN9zNI3k`*
+*Posted 2026-05-15 · Listing synced 2026-05-31 · 80k job ID `reccQgFImwN9zNI3k`*

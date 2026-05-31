@@ -2,7 +2,7 @@
 title: "Data Scientist"
 employer: "Georgetown University, Center for Security and Emerging Technology"
 job_id: "recO3n0yxyY3QCFmh"
-last_updated: "2026-05-30T05:32:42.568266Z"
+last_updated: "2026-05-31T05:32:50.695798Z"
 posted_at: "2026-05-05T00:05:00Z"
 status: ready
 apply_url: "https://cset.georgetown.edu/job/data-scientist-2/"
@@ -34,4 +34,4 @@ areas:
 <p class="apply-cta"><a href="https://cset.georgetown.edu/job/data-scientist-2/">Apply →</a></p>
 
 ---
-*Posted 2026-05-05 · Listing synced 2026-05-30 · 80k job ID `recO3n0yxyY3QCFmh`*
+*Posted 2026-05-05 · Listing synced 2026-05-31 · 80k job ID `recO3n0yxyY3QCFmh`*

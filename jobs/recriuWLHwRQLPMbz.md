@@ -2,7 +2,7 @@
 title: "Community Manager, London"
 employer: "MATS Research"
 job_id: "recriuWLHwRQLPMbz"
-last_updated: "2026-05-30T05:32:08.382473Z"
+last_updated: "2026-05-31T05:32:13.375681Z"
 posted_at: "2026-05-28T00:00:00Z"
 status: ready
 apply_url: "https://www.matsprogram.org/careers/community-manager-london"
@@ -34,4 +34,4 @@ areas:
 <p class="apply-cta"><a href="https://www.matsprogram.org/careers/community-manager-london">Apply →</a></p>
 
 ---
-*Posted 2026-05-28 · Listing synced 2026-05-30 · 80k job ID `recriuWLHwRQLPMbz`*
+*Posted 2026-05-28 · Listing synced 2026-05-31 · 80k job ID `recriuWLHwRQLPMbz`*

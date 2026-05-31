@@ -2,7 +2,7 @@
 title: "Research Assistant / Associate, Transatlantic Security Program"
 employer: "Center for a New American Security"
 job_id: "recpOnT1M4TJp63oi"
-last_updated: "2026-05-30T05:32:29.531188Z"
+last_updated: "2026-05-31T05:32:37.008171Z"
 posted_at: "2026-05-15T00:00:00Z"
 status: ready
 apply_url: "https://www.cnas.org/careers/research-assistant-associate-transatlantic-security-program"
@@ -32,4 +32,4 @@ areas:
 <p class="apply-cta"><a href="https://www.cnas.org/careers/research-assistant-associate-transatlantic-security-program">Apply →</a></p>
 
 ---
-*Posted 2026-05-15 · Listing synced 2026-05-30 · 80k job ID `recpOnT1M4TJp63oi`*
+*Posted 2026-05-15 · Listing synced 2026-05-31 · 80k job ID `recpOnT1M4TJp63oi`*

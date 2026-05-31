@@ -2,7 +2,7 @@
 title: "Workplace Technology Engineer"
 employer: "UK Government, AI Security Institute"
 job_id: "recGlRZ1RQuQT5gBm"
-last_updated: "2026-05-30T05:32:20.478325Z"
+last_updated: "2026-05-31T05:32:26.097272Z"
 posted_at: "2026-05-21T00:04:11Z"
 status: ready
 apply_url: "https://www.civilservicejobs.service.gov.uk/csr/jobs.cgi?jcode=1998288"
@@ -34,4 +34,4 @@ areas:
 <p class="apply-cta"><a href="https://www.civilservicejobs.service.gov.uk/csr/jobs.cgi?jcode=1998288">Apply →</a></p>
 
 ---
-*Posted 2026-05-21 · Listing synced 2026-05-30 · 80k job ID `recGlRZ1RQuQT5gBm`*
+*Posted 2026-05-21 · Listing synced 2026-05-31 · 80k job ID `recGlRZ1RQuQT5gBm`*
