@@ -2,7 +2,7 @@
 title: "Software Engineer, Full Stack"
 employer: "Haize Labs"
 job_id: "recoRRzCDO9EGaW5w"
-last_updated: "2026-05-31T05:34:02.565929Z"
+last_updated: "2026-06-01T05:34:00.120883Z"
 posted_at: "2022-01-05T00:00:00Z"
 status: ready
 apply_url: "https://job-boards.greenhouse.io/haizelabs/jobs/4627851008"
@@ -34,4 +34,4 @@ areas:
 <p class="apply-cta"><a href="https://job-boards.greenhouse.io/haizelabs/jobs/4627851008">Apply →</a></p>
 
 ---
-*Posted 2022-01-05 · Listing synced 2026-05-31 · 80k job ID `recoRRzCDO9EGaW5w`*
+*Posted 2022-01-05 · Listing synced 2026-06-01 · 80k job ID `recoRRzCDO9EGaW5w`*

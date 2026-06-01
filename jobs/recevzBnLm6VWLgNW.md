@@ -2,7 +2,7 @@
 title: "Head of Marketing"
 employer: "Giving What We Can"
 job_id: "recevzBnLm6VWLgNW"
-last_updated: "2026-05-31T05:33:41.771185Z"
+last_updated: "2026-06-01T05:33:40.360489Z"
 posted_at: "2022-01-07T00:00:00Z"
 status: ready
 apply_url: "https://www.givingwhatwecan.org/head-of-marketing"
@@ -34,4 +34,4 @@ areas:
 <p class="apply-cta"><a href="https://www.givingwhatwecan.org/head-of-marketing">Apply →</a></p>
 
 ---
-*Posted 2022-01-07 · Listing synced 2026-05-31 · 80k job ID `recevzBnLm6VWLgNW`*
+*Posted 2022-01-07 · Listing synced 2026-06-01 · 80k job ID `recevzBnLm6VWLgNW`*

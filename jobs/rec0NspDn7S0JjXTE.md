@@ -2,7 +2,7 @@
 title: "Assistant, Government Relations and Strategic Communications"
 employer: "Sociedade Vegetariana Brasileira"
 job_id: "rec0NspDn7S0JjXTE"
-last_updated: "2026-05-31T05:32:55.330986Z"
+last_updated: "2026-06-01T05:32:59.491231Z"
 posted_at: "2026-04-30T00:00:00Z"
 status: ready
 apply_url: "https://svb.org.br/junte-se-a-nos/trabalhe-com-a-gente/"
@@ -33,4 +33,4 @@ areas:
 <p class="apply-cta"><a href="https://svb.org.br/junte-se-a-nos/trabalhe-com-a-gente/">Apply →</a></p>
 
 ---
-*Posted 2026-04-30 · Listing synced 2026-05-31 · 80k job ID `rec0NspDn7S0JjXTE`*
+*Posted 2026-04-30 · Listing synced 2026-06-01 · 80k job ID `rec0NspDn7S0JjXTE`*

@@ -4,25 +4,20 @@ employer: "Scale Welfare"
 job_id: "recM8BPHxod6evjsf"
 last_updated: "2026-05-31T05:32:16.596113Z"
 posted_at: "2026-05-27T00:00:00Z"
-status: ready
+status: closed
+closed_at: "2026-06-01"
 apply_url: "https://docs.google.com/document/d/1oaoOUwR0B9le42QUzua2GZbbsokY8XMvtalagQZcYzk/edit?tab=t.0#heading=h.peuvkyq77pjg"
 areas:
   - "Animal welfare"
 ---
 
+> ⚠️ **CLOSED on 2026-06-01** — this job is no longer listed on the 80,000 Hours board. Archived snapshot below.
+
 # Philippines Country Lead
 
-**[Scale Welfare](https://www.scalewelfare.org/)**
+**Scale Welfare**
 
-<dl class="job-meta">
-<dt>Location</dt><dd>Luzon, Philippines, Remote, Philippines, Asia, Philippines</dd>
-<dt>Role type</dt><dd>Full-time</dd>
-<dt>Experience</dt><dd>Junior (1-4 years experience)</dd>
-<dt>Degree</dt><dd>Undergraduate degree or less</dd>
-<dt>Salary</dt><dd>$15,594 – $21,442</dd>
-</dl>
-
-**Areas & skills:** Animal welfare, Operations, Strategy
+**Areas & skills:** Animal welfare
 
 ## Summary
 - In this role, you'll serve as Country Lead, bridging animal welfare principles with practical farm implementation in Luzon.

@@ -2,7 +2,7 @@
 title: "AI Science Advisor, California Governor's Office of Emergency Services"
 employer: "California Council on Science and Technology"
 job_id: "recVplNW2pu4t6dir"
-last_updated: "2026-05-31T05:32:22.313687Z"
+last_updated: "2026-06-01T05:32:31.521315Z"
 posted_at: "2026-05-25T00:00:00Z"
 status: ready
 apply_url: "https://ccst.us/ai-advisor-caloes/"
@@ -34,4 +34,4 @@ areas:
 <p class="apply-cta"><a href="https://ccst.us/ai-advisor-caloes/">Apply →</a></p>
 
 ---
-*Posted 2026-05-25 · Listing synced 2026-05-31 · 80k job ID `recVplNW2pu4t6dir`*
+*Posted 2026-05-25 · Listing synced 2026-06-01 · 80k job ID `recVplNW2pu4t6dir`*

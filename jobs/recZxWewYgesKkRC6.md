@@ -2,7 +2,7 @@
 title: "Program Manager"
 employer: "Center for AI Safety"
 job_id: "recZxWewYgesKkRC6"
-last_updated: "2026-05-31T05:33:25.225278Z"
+last_updated: "2026-06-01T05:33:24.465637Z"
 posted_at: "2022-01-12T00:00:00Z"
 status: ready
 apply_url: "https://jobs.lever.co/aisafety/0431d90d-82d9-4f82-b89b-ce51974906e7"
@@ -34,4 +34,4 @@ areas:
 <p class="apply-cta"><a href="https://jobs.lever.co/aisafety/0431d90d-82d9-4f82-b89b-ce51974906e7">Apply →</a></p>
 
 ---
-*Posted 2022-01-12 · Listing synced 2026-05-31 · 80k job ID `recZxWewYgesKkRC6`*
+*Posted 2022-01-12 · Listing synced 2026-06-01 · 80k job ID `recZxWewYgesKkRC6`*

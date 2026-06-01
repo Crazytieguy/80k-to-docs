@@ -4,24 +4,20 @@ employer: "Apart Research"
 job_id: "recR85fO2etiheeZF"
 last_updated: "2026-05-31T05:32:18.062832Z"
 posted_at: "2026-05-26T00:01:00Z"
-status: ready
+status: closed
+closed_at: "2026-06-01"
 apply_url: "https://apartresearch.com/fellowships/the-secure-program-synthesis-fellowship"
 areas:
   - "AI safety & policy"
 ---
 
+> ⚠️ **CLOSED on 2026-06-01** — this job is no longer listed on the 80,000 Hours board. Archived snapshot below.
+
 # Secure Program Synthesis Fellowship
 
-**[Apart Research](https://apartresearch.com/)**
+**Apart Research**
 
-<dl class="job-meta">
-<dt>Location</dt><dd>Remote, Global</dd>
-<dt>Role type</dt><dd>Fellowship</dd>
-<dt>Experience</dt><dd>Multiple experience levels</dd>
-<dt>Degree</dt><dd>Undergraduate degree or less</dd>
-</dl>
-
-**Areas & skills:** AI safety & policy, Research, Software engineering, Information security
+**Areas & skills:** AI safety & policy
 
 ## Summary
 - In this fellowship, you'll conduct research in a small team on secure program synthesis, addressing specification, validation, and adversarial robustness of AI-generated code.

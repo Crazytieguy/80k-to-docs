@@ -2,7 +2,7 @@
 title: "Associate Director, Europe, Open Wing Alliance"
 employer: "The Humane League"
 job_id: "recBBzZD0Um38SHed"
-last_updated: "2026-05-31T05:32:43.532809Z"
+last_updated: "2026-06-01T05:32:50.205982Z"
 posted_at: "2026-05-12T00:00:00Z"
 status: ready
 apply_url: "https://thehumaneleague.org/single-offer-career?gh_jid=7728011"
@@ -19,7 +19,7 @@ areas:
 <dt>Role type</dt><dd>Full-time</dd>
 <dt>Experience</dt><dd>Mid (5-9 years experience)</dd>
 <dt>Degree</dt><dd>Undergraduate degree or less</dd>
-<dt>Salary</dt><dd>$38,810 – $97,003</dd>
+<dt>Salary</dt><dd>$38,781 – $96,931</dd>
 </dl>
 
 **Areas & skills:** Animal welfare, Management, Strategy
@@ -34,4 +34,4 @@ areas:
 <p class="apply-cta"><a href="https://thehumaneleague.org/single-offer-career?gh_jid=7728011">Apply →</a></p>
 
 ---
-*Posted 2026-05-12 · Listing synced 2026-05-31 · 80k job ID `recBBzZD0Um38SHed`*
+*Posted 2026-05-12 · Listing synced 2026-06-01 · 80k job ID `recBBzZD0Um38SHed`*

@@ -2,7 +2,7 @@
 title: "Forward Deployed Research Scientist, Biology"
 employer: "Goodfire"
 job_id: "rec3GVDP0GkdAhaxo"
-last_updated: "2026-05-31T05:34:17.935891Z"
+last_updated: "2026-06-01T05:34:13.610312Z"
 posted_at: "2022-01-02T00:00:00Z"
 status: ready
 apply_url: "https://job-boards.greenhouse.io/goodfire/jobs/4924131008"
@@ -34,4 +34,4 @@ areas:
 <p class="apply-cta"><a href="https://job-boards.greenhouse.io/goodfire/jobs/4924131008">Apply →</a></p>
 
 ---
-*Posted 2022-01-02 · Listing synced 2026-05-31 · 80k job ID `rec3GVDP0GkdAhaxo`*
+*Posted 2022-01-02 · Listing synced 2026-06-01 · 80k job ID `rec3GVDP0GkdAhaxo`*

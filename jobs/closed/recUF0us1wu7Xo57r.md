@@ -4,25 +4,20 @@ employer: "One for the World"
 job_id: "recUF0us1wu7Xo57r"
 last_updated: "2026-05-31T05:32:50.234041Z"
 posted_at: "2026-05-06T00:00:00Z"
-status: ready
+status: closed
+closed_at: "2026-06-01"
 apply_url: "https://drive.google.com/file/d/1-XLR8t_zgHk8-h2BUciHzro-2VVSODSz/view"
 areas:
   - "Building effective altruism"
 ---
 
+> ⚠️ **CLOSED on 2026-06-01** — this job is no longer listed on the 80,000 Hours board. Archived snapshot below.
+
 # Communications Manager
 
-**[One for the World](https://www.1fortheworld.org/)**
+**One for the World**
 
-<dl class="job-meta">
-<dt>Location</dt><dd>Remote, Global, Mexico City, Mexico, Mexico</dd>
-<dt>Role type</dt><dd>Full-time</dd>
-<dt>Experience</dt><dd>Mid (5-9 years experience), Senior (10+ years experience)</dd>
-<dt>Degree</dt><dd>Undergraduate degree or less</dd>
-<dt>Salary</dt><dd>$24,000 – $36,000</dd>
-</dl>
-
-**Areas & skills:** Building effective altruism, Outreach
+**Areas & skills:** Building effective altruism
 
 ## Summary
 - In this role, you'll lead the digital marketing launch of One for the World's refreshed brand, expanding reach among students and young professionals.

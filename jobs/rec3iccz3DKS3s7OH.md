@@ -2,7 +2,7 @@
 title: "Expression of Interest"
 employer: "Center for Reducing Suffering"
 job_id: "rec3iccz3DKS3s7OH"
-last_updated: "2026-05-31T05:34:27.809645Z"
+last_updated: "2026-06-01T05:34:22.859380Z"
 posted_at: "2022-01-01T00:00:00Z"
 status: ready
 apply_url: "https://centerforreducingsuffering.org/get-involved/"
@@ -32,4 +32,4 @@ areas:
 <p class="apply-cta"><a href="https://centerforreducingsuffering.org/get-involved/">Apply →</a></p>
 
 ---
-*Posted 2022-01-01 · Listing synced 2026-05-31 · 80k job ID `rec3iccz3DKS3s7OH`*
+*Posted 2022-01-01 · Listing synced 2026-06-01 · 80k job ID `rec3iccz3DKS3s7OH`*

@@ -4,25 +4,20 @@ employer: "80,000 Hours"
 job_id: "rectxXguo2FXa7nA5"
 last_updated: "2026-05-31T05:32:52.280737Z"
 posted_at: "2026-05-04T00:03:00Z"
-status: ready
+status: closed
+closed_at: "2026-06-01"
 apply_url: "https://80000hours.org/2026/05/open-role-product-and-growth-manager/"
 areas:
   - "AI safety & policy"
 ---
 
+> ⚠️ **CLOSED on 2026-06-01** — this job is no longer listed on the 80,000 Hours board. Archived snapshot below.
+
 # Product and Growth Manager
 
-**[80,000 Hours](https://80000hours.org/)**
+**80,000 Hours**
 
-<dl class="job-meta">
-<dt>Location</dt><dd>Remote, Global</dd>
-<dt>Role type</dt><dd>Full-time</dd>
-<dt>Experience</dt><dd>Junior (1-4 years experience)</dd>
-<dt>Degree</dt><dd>Undergraduate degree or less</dd>
-<dt>Salary</dt><dd>$106,000 – $211,000</dd>
-</dl>
-
-**Areas & skills:** AI safety & policy, Strategy
+**Areas & skills:** AI safety & policy
 
 ## Summary
 - In this role, you'll make online content more helpful and delightful, driving readership and meaningful user engagement with high-impact career paths.

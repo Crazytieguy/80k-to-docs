@@ -4,24 +4,20 @@ employer: "Arms Control Negotiation Academy"
 job_id: "rectYjvatdQcgB8GA"
 last_updated: "2026-05-31T05:32:45.888894Z"
 posted_at: "2026-05-08T00:01:00Z"
-status: ready
+status: closed
+closed_at: "2026-06-01"
 apply_url: "https://www.armscontrolnegotiationacademy.org/apply"
 areas:
   - "Nuclear security"
 ---
 
+> ⚠️ **CLOSED on 2026-06-01** — this job is no longer listed on the 80,000 Hours board. Archived snapshot below.
+
 # ACONA Fellowship
 
-**[Arms Control Negotiation Academy](https://www.armscontrolnegotiationacademy.org/)**
+**Arms Control Negotiation Academy**
 
-<dl class="job-meta">
-<dt>Location</dt><dd>Remote, Global</dd>
-<dt>Role type</dt><dd>Fellowship</dd>
-<dt>Experience</dt><dd>Junior (1-4 years experience), Mid (5-9 years experience)</dd>
-<dt>Degree</dt><dd>Master's degree</dd>
-</dl>
-
-**Areas & skills:** Nuclear security, Policy
+**Areas & skills:** Nuclear security
 
 ## Summary
 - In this intensive 10-month fellowship programme, you'll advance your expertise in arms control, negotiation, and international peace.

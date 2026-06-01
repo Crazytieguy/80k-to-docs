@@ -2,7 +2,7 @@
 title: "Business Operations Associate / Specialist"
 employer: "80,000 Hours"
 job_id: "rec80vAR4qyEQN72n"
-last_updated: "2026-05-31T05:32:48.042833Z"
+last_updated: "2026-06-01T05:32:54.014393Z"
 posted_at: "2026-05-06T00:03:00Z"
 status: ready
 apply_url: "https://80000hours.org/2026/05/business-operations-associate-specialist/"
@@ -19,7 +19,7 @@ areas:
 <dt>Role type</dt><dd>Full-time</dd>
 <dt>Experience</dt><dd>Junior (1-4 years experience), Entry-level</dd>
 <dt>Degree</dt><dd>Undergraduate degree or less</dd>
-<dt>Salary</dt><dd>$90,867 – $135,629</dd>
+<dt>Salary</dt><dd>$90,941 – $135,740</dd>
 </dl>
 
 **Areas & skills:** AI safety & policy, Operations
@@ -34,4 +34,4 @@ areas:
 <p class="apply-cta"><a href="https://80000hours.org/2026/05/business-operations-associate-specialist/">Apply →</a></p>
 
 ---
-*Posted 2026-05-06 · Listing synced 2026-05-31 · 80k job ID `rec80vAR4qyEQN72n`*
+*Posted 2026-05-06 · Listing synced 2026-06-01 · 80k job ID `rec80vAR4qyEQN72n`*

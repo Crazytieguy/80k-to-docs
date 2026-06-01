@@ -4,24 +4,20 @@ employer: "University of Copenhagen, Department of Computer Science"
 job_id: "recarvN8KmQhsf8SJ"
 last_updated: "2026-05-31T05:32:46.883480Z"
 posted_at: "2026-05-08T00:00:00Z"
-status: ready
+status: closed
+closed_at: "2026-06-01"
 apply_url: "https://ellis.eu/research/jobs/2026-05-07-postdoc-in-llm-factuality-detection"
 areas:
   - "AI safety & policy"
 ---
 
+> ⚠️ **CLOSED on 2026-06-01** — this job is no longer listed on the 80,000 Hours board. Archived snapshot below.
+
 # Postdoc, LLM Factuality Detection
 
-**[University of Copenhagen, Department of Computer Science](https://di.ku.dk/english/)**
+**University of Copenhagen, Department of Computer Science**
 
-<dl class="job-meta">
-<dt>Location</dt><dd>Copenhagen, Denmark, Europe (ex UK), Denmark</dd>
-<dt>Role type</dt><dd>Full-time</dd>
-<dt>Experience</dt><dd>Entry-level</dd>
-<dt>Degree</dt><dd>Doctoral degree</dd>
-</dl>
-
-**Areas & skills:** AI safety & policy, Research, Software engineering
+**Areas & skills:** AI safety & policy
 
 ## Summary
 - In this role, you'll develop frameworks and methods to mitigate large language models' susceptibility to false information.

@@ -4,25 +4,20 @@ employer: "Effective Altruism Germany"
 job_id: "reccM0sAnxGa0vwI7"
 last_updated: "2026-05-31T05:33:01.407194Z"
 posted_at: "2026-04-21T00:00:00Z"
-status: ready
+status: closed
+closed_at: "2026-06-01"
 apply_url: "https://effektiveraltruismus.de/job-descriptions-eagxberlin-2026/"
 areas:
   - "Building effective altruism"
 ---
 
+> ⚠️ **CLOSED on 2026-06-01** — this job is no longer listed on the 80,000 Hours board. Archived snapshot below.
+
 # Team Lead / Team Member, EAGxBerlin 2026
 
-**[Effective Altruism Germany](https://www.effektiveraltruismus.de/)**
+**Effective Altruism Germany**
 
-<dl class="job-meta">
-<dt>Location</dt><dd>Berlin, Germany, Germany, Europe (ex UK)</dd>
-<dt>Role type</dt><dd>Full-time</dd>
-<dt>Experience</dt><dd>Multiple experience levels</dd>
-<dt>Degree</dt><dd>Undergraduate degree or less</dd>
-<dt>Salary</dt><dd>$48,506 – $60,632</dd>
-</dl>
-
-**Areas & skills:** Building effective altruism, Operations, Strategy
+**Areas & skills:** Building effective altruism
 
 ## Summary
 - As team lead, manage the entire EAGxBerlin 2026 conference project, overseeing planning and execution.

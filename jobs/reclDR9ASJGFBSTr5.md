@@ -2,7 +2,7 @@
 title: "Small Research Grants"
 employer: "The British Academy"
 job_id: "reclDR9ASJGFBSTr5"
-last_updated: "2026-05-31T05:33:09.487715Z"
+last_updated: "2026-06-01T05:33:11.138611Z"
 posted_at: "2026-04-09T00:00:00Z"
 status: ready
 apply_url: "https://www.thebritishacademy.ac.uk/funding/schemes/ba-leverhulme-small-research-grants/"
@@ -31,4 +31,4 @@ areas:
 <p class="apply-cta"><a href="https://www.thebritishacademy.ac.uk/funding/schemes/ba-leverhulme-small-research-grants/">Apply →</a></p>
 
 ---
-*Posted 2026-04-09 · Listing synced 2026-05-31 · 80k job ID `reclDR9ASJGFBSTr5`*
+*Posted 2026-04-09 · Listing synced 2026-06-01 · 80k job ID `reclDR9ASJGFBSTr5`*

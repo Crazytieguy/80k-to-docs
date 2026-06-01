@@ -4,24 +4,20 @@ employer: "Kickstarting for Good"
 job_id: "recJxHrQgO7LPdYAu"
 last_updated: "2026-05-31T05:33:07.264830Z"
 posted_at: "2026-04-13T00:00:00Z"
-status: ready
+status: closed
+closed_at: "2026-06-01"
 apply_url: "https://kickstartingforgood.org/social-impact-entrepreneur/"
 areas:
   - "Animal welfare"
 ---
 
+> ⚠️ **CLOSED on 2026-06-01** — this job is no longer listed on the 80,000 Hours board. Archived snapshot below.
+
 # Incubator
 
-**[Kickstarting for Good](https://kickstartingforgood.org/)**
+**Kickstarting for Good**
 
-<dl class="job-meta">
-<dt>Location</dt><dd>Berlin, Germany, Remote, Global, Germany, Europe (ex UK)</dd>
-<dt>Role type</dt><dd>Funding</dd>
-<dt>Experience</dt><dd>Multiple experience levels</dd>
-<dt>Degree</dt><dd>Undergraduate degree or less</dd>
-</dl>
-
-**Areas & skills:** Animal welfare, Strategy
+**Areas & skills:** Animal welfare
 
 ## Summary
 - This is an 18-week incubator in which you'll develop your food system initiative with virtual learning and in-person mentorship in Berlin.

@@ -2,7 +2,7 @@
 title: "Senior ML Research Scientist, Probabilistic Inference"
 employer: "LawZero"
 job_id: "reckEB0vvx5oM4BUi"
-last_updated: "2026-05-31T05:33:49.701389Z"
+last_updated: "2026-06-01T05:33:48.487440Z"
 posted_at: "2022-01-06T00:00:00Z"
 status: ready
 apply_url: "https://job-boards.greenhouse.io/lawzero/jobs/4002932009"
@@ -33,4 +33,4 @@ areas:
 <p class="apply-cta"><a href="https://job-boards.greenhouse.io/lawzero/jobs/4002932009">Apply →</a></p>
 
 ---
-*Posted 2022-01-06 · Listing synced 2026-05-31 · 80k job ID `reckEB0vvx5oM4BUi`*
+*Posted 2022-01-06 · Listing synced 2026-06-01 · 80k job ID `reckEB0vvx5oM4BUi`*

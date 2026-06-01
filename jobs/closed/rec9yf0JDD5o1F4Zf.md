@@ -4,25 +4,21 @@ employer: "High Impact Medicine"
 job_id: "rec9yf0JDD5o1F4Zf"
 last_updated: "2026-05-31T05:32:54.951656Z"
 posted_at: "2026-04-30T00:00:00Z"
-status: ready
+status: closed
+closed_at: "2026-06-01"
 apply_url: "https://www.highimpactmedicine.org/career-planning"
 areas:
   - "Biosecurity & pandemic preparedness"
   - "Global health & development"
 ---
 
+> ⚠️ **CLOSED on 2026-06-01** — this job is no longer listed on the 80,000 Hours board. Archived snapshot below.
+
 # Hi-Med Career Planning Course
 
-**[High Impact Medicine](https://www.highimpactmedicine.org/)**
+**High Impact Medicine**
 
-<dl class="job-meta">
-<dt>Location</dt><dd>Remote, Global</dd>
-<dt>Role type</dt><dd>Course</dd>
-<dt>Experience</dt><dd>Entry-level</dd>
-<dt>Degree</dt><dd>Undergraduate degree or less</dd>
-</dl>
-
-**Areas & skills:** Biosecurity & pandemic preparedness, Global health & development, Research, Strategy
+**Areas & skills:** Biosecurity & pandemic preparedness, Global health & development
 
 ## Summary
 - This is a 6-week online career planning course designed to help doctors and medical students chart high-impact career pathways in global health.

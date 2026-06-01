@@ -2,7 +2,7 @@
 title: "Technical Support Engineer"
 employer: "HiddenLayer"
 job_id: "recK7PFHZOBUhSC0L"
-last_updated: "2026-05-31T05:34:18.227657Z"
+last_updated: "2026-06-01T05:34:13.887310Z"
 posted_at: "2022-01-02T00:00:00Z"
 status: ready
 apply_url: "https://job-boards.greenhouse.io/hiddenlayer/jobs/4915355007"
@@ -33,4 +33,4 @@ areas:
 <p class="apply-cta"><a href="https://job-boards.greenhouse.io/hiddenlayer/jobs/4915355007">Apply →</a></p>
 
 ---
-*Posted 2022-01-02 · Listing synced 2026-05-31 · 80k job ID `recK7PFHZOBUhSC0L`*
+*Posted 2022-01-02 · Listing synced 2026-06-01 · 80k job ID `recK7PFHZOBUhSC0L`*

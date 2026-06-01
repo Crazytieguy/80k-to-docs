@@ -4,24 +4,20 @@ employer: "University of Copenhagen, Department of Computer Science"
 job_id: "recFcXMpni1trB5oL"
 last_updated: "2026-05-31T05:32:46.026243Z"
 posted_at: "2026-05-08T00:01:00Z"
-status: ready
+status: closed
+closed_at: "2026-06-01"
 apply_url: "https://employment.ku.dk/phd/?show=160571"
 areas:
   - "AI safety & policy"
 ---
 
+> ⚠️ **CLOSED on 2026-06-01** — this job is no longer listed on the 80,000 Hours board. Archived snapshot below.
+
 # PhD Fellowship, Mechanistic Interpretability for Large Language Model Security
 
-**[University of Copenhagen, Department of Computer Science](https://di.ku.dk/english/)**
+**University of Copenhagen, Department of Computer Science**
 
-<dl class="job-meta">
-<dt>Location</dt><dd>Copenhagen, Denmark, Europe (ex UK), Denmark</dd>
-<dt>Role type</dt><dd>Fellowship</dd>
-<dt>Experience</dt><dd>Entry-level</dd>
-<dt>Degree</dt><dd>Master's degree</dd>
-</dl>
-
-**Areas & skills:** AI safety & policy, Research, Software engineering, Information security
+**Areas & skills:** AI safety & policy
 
 ## Summary
 - In this fellowship, you'll research mechanistic interpretability methods to improve LLM security and mitigate false information attacks.

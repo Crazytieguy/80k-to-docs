@@ -4,24 +4,20 @@ employer: "Impactful Policy Careers"
 job_id: "recS8MrGfxCPAjomd"
 last_updated: "2026-05-31T05:34:31.748777Z"
 posted_at: "2022-01-01T00:00:00Z"
-status: ready
+status: closed
+closed_at: "2026-06-01"
 apply_url: "https://www.impactfulpolicycareers.com/global-health-cohort"
 areas:
   - "Global health & development"
 ---
 
+> ⚠️ **CLOSED on 2026-06-01** — this job is no longer listed on the 80,000 Hours board. Archived snapshot below.
+
 # Policy Accelerator, Global Health and Development
 
-**[Impactful Policy Careers](https://www.impactfulpolicycareers.com/)**
+**Impactful Policy Careers**
 
-<dl class="job-meta">
-<dt>Location</dt><dd>Brussels, Belgium, Belgium, Europe (ex UK)</dd>
-<dt>Role type</dt><dd>Course</dd>
-<dt>Experience</dt><dd>Multiple experience levels</dd>
-<dt>Degree</dt><dd>Undergraduate degree or less</dd>
-</dl>
-
-**Areas & skills:** Global health & development, Policy
+**Areas & skills:** Global health & development
 
 ## Summary
 - In this 1-week intensive accelerator program, you'll develop skills to influence EU global health policy and governance.

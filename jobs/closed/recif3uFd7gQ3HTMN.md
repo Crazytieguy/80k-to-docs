@@ -4,25 +4,20 @@ employer: "Lawrence Livermore National Laboratory"
 job_id: "recif3uFd7gQ3HTMN"
 last_updated: "2026-05-31T05:33:10.876138Z"
 posted_at: "2026-04-08T00:00:00Z"
-status: ready
+status: closed
+closed_at: "2026-06-01"
 apply_url: "https://www.llnl.gov/join-our-team/careers/find-your-job/not-applicable_associate_entry-level_internship_globalsecurity_officeofthedirector/all/3743990012542426"
 areas:
   - "Career development: Policy & government"
 ---
 
+> ⚠️ **CLOSED on 2026-06-01** — this job is no longer listed on the 80,000 Hours board. Archived snapshot below.
+
 # Graduate Research Associate, Center for Global Security Research (Fall 2026)
 
-**[Lawrence Livermore National Laboratory](https://www.llnl.gov/)**
+**Lawrence Livermore National Laboratory**
 
-<dl class="job-meta">
-<dt>Location</dt><dd>Livermore, CA, USA</dd>
-<dt>Role type</dt><dd>Internship</dd>
-<dt>Experience</dt><dd>Entry-level</dd>
-<dt>Degree</dt><dd>Undergraduate degree or less</dd>
-<dt>Salary</dt><dd>$81,024 – $98,412</dd>
-</dl>
-
-**Areas & skills:** Career development: Policy & government, Research, Policy
+**Areas & skills:** Career development: Policy & government
 
 ## Summary
 - In this role, you'll conduct independent research on global security topics aligned with CGSR priorities.

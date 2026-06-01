@@ -4,25 +4,20 @@ employer: "Quincy Institute for Responsible Statecraft"
 job_id: "reczGzKZbXh1SvYP7"
 last_updated: "2026-05-31T05:32:55.167588Z"
 posted_at: "2026-04-30T00:00:00Z"
-status: ready
+status: closed
+closed_at: "2026-06-01"
 apply_url: "https://jobs.lever.co/quincyinst/a5793e98-34a2-4a6d-b3cc-162308d9ab61"
 areas:
   - "Career development: Policy & government"
 ---
 
+> ⚠️ **CLOSED on 2026-06-01** — this job is no longer listed on the 80,000 Hours board. Archived snapshot below.
+
 # Intern, East Asia Program
 
-**[Quincy Institute for Responsible Statecraft](https://quincyinst.org/)**
+**Quincy Institute for Responsible Statecraft**
 
-<dl class="job-meta">
-<dt>Location</dt><dd>Washington, DC metro area, USA</dd>
-<dt>Role type</dt><dd>Internship</dd>
-<dt>Experience</dt><dd>Entry-level</dd>
-<dt>Degree</dt><dd>Undergraduate degree or less</dd>
-<dt>Salary</dt><dd>$37,336</dd>
-</dl>
-
-**Areas & skills:** Career development: Policy & government, Research, Policy
+**Areas & skills:** Career development: Policy & government
 
 ## Summary
 - In this role, you'll support the East Asia Program's research on U.S. strategy centered on diplomatic and economic statecraft.

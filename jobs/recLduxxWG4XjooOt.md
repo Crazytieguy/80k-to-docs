@@ -2,7 +2,7 @@
 title: "Senior Programme Manager, Public Health Emergencies and Pandemics"
 employer: "Gavi"
 job_id: "recLduxxWG4XjooOt"
-last_updated: "2026-05-31T05:32:13.038443Z"
+last_updated: "2026-06-01T05:32:23.047101Z"
 posted_at: "2026-05-28T00:00:00Z"
 status: ready
 apply_url: "https://www.linkedin.com/jobs/view/4419426560/?alternateChannel=search&eBP=NON_CHARGEABLE_CHANNEL&trk=d_flagship3_search_srp_jobs&refId=psZkAP9pRfjnOs%2BViA5WZg%3D%3D&trackingId=5v8k%2FXYF1AcfOHSlFxmrNw%3D%3D"
@@ -33,4 +33,4 @@ areas:
 <p class="apply-cta"><a href="https://www.linkedin.com/jobs/view/4419426560/?alternateChannel=search&amp;eBP=NON_CHARGEABLE_CHANNEL&amp;trk=d_flagship3_search_srp_jobs&amp;refId=psZkAP9pRfjnOs%2BViA5WZg%3D%3D&amp;trackingId=5v8k%2FXYF1AcfOHSlFxmrNw%3D%3D">Apply →</a></p>
 
 ---
-*Posted 2026-05-28 · Listing synced 2026-05-31 · 80k job ID `recLduxxWG4XjooOt`*
+*Posted 2026-05-28 · Listing synced 2026-06-01 · 80k job ID `recLduxxWG4XjooOt`*

@@ -4,25 +4,20 @@ employer: "ML4Good"
 job_id: "recTvjDMsXrbmdH3A"
 last_updated: "2026-05-31T05:32:42.633949Z"
 posted_at: "2026-05-12T00:03:00Z"
-status: ready
+status: closed
+closed_at: "2026-06-01"
 apply_url: "https://ml4good.org/jobs/law-programme-teacher/"
 areas:
   - "AI safety & policy"
 ---
 
+> ⚠️ **CLOSED on 2026-06-01** — this job is no longer listed on the 80,000 Hours board. Archived snapshot below.
+
 # Teacher, Law Programme
 
-**[ML4Good](https://www.ml4good.org/)**
+**ML4Good**
 
-<dl class="job-meta">
-<dt>Location</dt><dd>Prague, Czech Republic, Czech Republic, Europe (ex UK)</dd>
-<dt>Role type</dt><dd>Full-time</dd>
-<dt>Experience</dt><dd>Junior (1-4 years experience)</dd>
-<dt>Degree</dt><dd>Undergraduate degree or less</dd>
-<dt>Salary</dt><dd>$2,193</dd>
-</dl>
-
-**Areas & skills:** AI safety & policy, Other
+**Areas & skills:** AI safety & policy
 
 ## Summary
 - In this role, you'll teach technical AI safety to legal professionals during an intensive 5-day bootcamp in Prague.

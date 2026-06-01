@@ -2,7 +2,7 @@
 title: "Director of Operations"
 employer: "ERA"
 job_id: "recnf4SJoTlRdwW9C"
-last_updated: "2026-05-31T05:32:34.496384Z"
+last_updated: "2026-06-01T05:32:41.678119Z"
 posted_at: "2026-05-18T00:05:00Z"
 status: ready
 apply_url: "https://docs.google.com/document/d/146aHIPBkHSCQiIb4IYXHO9SrM4uPE5QTUcj58gMyTjY/edit?tab=t.0#heading=h.fk3c44ady1v"
@@ -19,7 +19,7 @@ areas:
 <dt>Role type</dt><dd>Full-time</dd>
 <dt>Experience</dt><dd>Mid (5-9 years experience), Senior (10+ years experience)</dd>
 <dt>Degree</dt><dd>Undergraduate degree or less</dd>
-<dt>Salary</dt><dd>$107,609 – $134,511</dd>
+<dt>Salary</dt><dd>$107,697 – $134,622</dd>
 </dl>
 
 **Areas & skills:** AI safety & policy, Operations, Management
@@ -34,4 +34,4 @@ areas:
 <p class="apply-cta"><a href="https://docs.google.com/document/d/146aHIPBkHSCQiIb4IYXHO9SrM4uPE5QTUcj58gMyTjY/edit?tab=t.0#heading=h.fk3c44ady1v">Apply →</a></p>
 
 ---
-*Posted 2026-05-18 · Listing synced 2026-05-31 · 80k job ID `recnf4SJoTlRdwW9C`*
+*Posted 2026-05-18 · Listing synced 2026-06-01 · 80k job ID `recnf4SJoTlRdwW9C`*
