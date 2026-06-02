@@ -2,7 +2,7 @@
 title: "Grant Recipient, Long-Term Future"
 employer: "EA Funds"
 job_id: "recyyi6XzB8q1C4zG"
-last_updated: "2026-06-01T05:34:24.150179Z"
+last_updated: "2026-06-02T05:33:45.780856Z"
 posted_at: "2022-01-01T00:00:00Z"
 status: ready
 apply_url: "https://funds.effectivealtruism.org/funds/far-future"
@@ -30,4 +30,4 @@ areas:
 <p class="apply-cta"><a href="https://funds.effectivealtruism.org/funds/far-future">Apply →</a></p>
 
 ---
-*Posted 2022-01-01 · Listing synced 2026-06-01 · 80k job ID `recyyi6XzB8q1C4zG`*
+*Posted 2022-01-01 · Listing synced 2026-06-02 · 80k job ID `recyyi6XzB8q1C4zG`*

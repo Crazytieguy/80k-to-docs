@@ -2,7 +2,7 @@
 title: "Research Scientist, AI Controls and Monitoring"
 employer: "Scale AI"
 job_id: "recj3v541rfDPATO0"
-last_updated: "2026-06-01T05:33:19.045685Z"
+last_updated: "2026-06-02T05:32:43.155207Z"
 posted_at: "2026-03-25T00:01:00Z"
 status: ready
 apply_url: "https://scale.com/careers/4675694005"
@@ -34,4 +34,4 @@ areas:
 <p class="apply-cta"><a href="https://scale.com/careers/4675694005">Apply →</a></p>
 
 ---
-*Posted 2026-03-25 · Listing synced 2026-06-01 · 80k job ID `recj3v541rfDPATO0`*
+*Posted 2026-03-25 · Listing synced 2026-06-02 · 80k job ID `recj3v541rfDPATO0`*

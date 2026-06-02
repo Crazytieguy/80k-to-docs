@@ -4,25 +4,20 @@ employer: "US Government, Executive Office of the President"
 job_id: "recY7N8VkFbw9XDo3"
 last_updated: "2026-06-01T05:32:39.305721Z"
 posted_at: "2026-05-20T00:00:00Z"
-status: ready
+status: closed
+closed_at: "2026-06-02"
 apply_url: "https://www.usajobs.gov/job/869913400"
 areas:
   - "Career development: Policy & government"
 ---
 
+> ⚠️ **CLOSED on 2026-06-02** — this job is no longer listed on the 80,000 Hours board. Archived snapshot below.
+
 # Program Examiner
 
-**[US Government, Executive Office of the President](https://www.whitehouse.gov/administration/executive-office-of-the-president/)**
+**US Government, Executive Office of the President**
 
-<dl class="job-meta">
-<dt>Location</dt><dd>Washington, DC metro area, USA</dd>
-<dt>Role type</dt><dd>Full-time</dd>
-<dt>Experience</dt><dd>Multiple experience levels</dd>
-<dt>Degree</dt><dd>Undergraduate degree or less</dd>
-<dt>Salary</dt><dd>$70,623 – $197,200</dd>
-</dl>
-
-**Areas & skills:** Career development: Policy & government, Policy
+**Areas & skills:** Career development: Policy & government
 
 ## Summary
 - In this role, you'll conduct analyses and studies to support OMB's budget, legislative, and regulatory policymaking.

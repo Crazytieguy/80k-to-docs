@@ -2,7 +2,7 @@
 title: "Scriptwriter and Storyteller"
 employer: "Kurzgesagt"
 job_id: "recdeAxsZ673T5go2"
-last_updated: "2026-06-01T05:34:27.105615Z"
+last_updated: "2026-06-02T05:33:49.453093Z"
 posted_at: "2022-01-01T00:00:00Z"
 status: ready
 apply_url: "https://kurzgesagt.org/careers/scriptwriter-and-storyteller-all-genders-178141"
@@ -34,4 +34,4 @@ areas:
 <p class="apply-cta"><a href="https://kurzgesagt.org/careers/scriptwriter-and-storyteller-all-genders-178141">Apply →</a></p>
 
 ---
-*Posted 2022-01-01 · Listing synced 2026-06-01 · 80k job ID `recdeAxsZ673T5go2`*
+*Posted 2022-01-01 · Listing synced 2026-06-02 · 80k job ID `recdeAxsZ673T5go2`*

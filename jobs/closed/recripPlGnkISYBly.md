@@ -4,24 +4,20 @@ employer: "Egmont Institute"
 job_id: "recripPlGnkISYBly"
 last_updated: "2026-06-01T05:34:11.969899Z"
 posted_at: "2022-01-02T00:00:00Z"
-status: ready
+status: closed
+closed_at: "2026-06-02"
 apply_url: "https://www.egmontinstitute.be/jobs-internships-and-opportunities/"
 areas:
   - "Career development: Policy & government"
 ---
 
+> ⚠️ **CLOSED on 2026-06-02** — this job is no longer listed on the 80,000 Hours board. Archived snapshot below.
+
 # Student Internship, Autumn Semester
 
-**[Egmont Institute](https://www.egmontinstitute.be/)**
+**Egmont Institute**
 
-<dl class="job-meta">
-<dt>Location</dt><dd>Brussels, Belgium, Belgium, Europe (ex UK)</dd>
-<dt>Role type</dt><dd>Internship</dd>
-<dt>Experience</dt><dd>Entry-level</dd>
-<dt>Degree</dt><dd>Doctoral degree</dd>
-</dl>
-
-**Areas & skills:** Career development: Policy & government, Research, Policy
+**Areas & skills:** Career development: Policy & government
 
 ## Summary
 - In this role, you'll support the European Affairs Programme as an intern, assisting with research activities and events organization.

@@ -4,25 +4,20 @@ employer: "Active Site"
 job_id: "recqlLab4XgLjYf2c"
 last_updated: "2026-06-01T05:32:52.321508Z"
 posted_at: "2026-05-08T00:02:00Z"
-status: ready
+status: closed
+closed_at: "2026-06-02"
 apply_url: "https://jobs.ashbyhq.com/activesite/70cc24fd-19fe-4c57-bccb-ee03eabad14f"
 areas:
   - "Biosecurity & pandemic preparedness"
 ---
 
+> ⚠️ **CLOSED on 2026-06-02** — this job is no longer listed on the 80,000 Hours board. Archived snapshot below.
+
 # Summer Humanities Fellow
 
-**[Active Site](https://activesite.bio/)**
+**Active Site**
 
-<dl class="job-meta">
-<dt>Location</dt><dd>Boston metro area, USA</dd>
-<dt>Role type</dt><dd>Fellowship</dd>
-<dt>Experience</dt><dd>Entry-level</dd>
-<dt>Degree</dt><dd>Undergraduate degree or less</dd>
-<dt>Salary</dt><dd>$54,600</dd>
-</dl>
-
-**Areas & skills:** Biosecurity & pandemic preparedness, Research
+**Areas & skills:** Biosecurity & pandemic preparedness
 
 ## Summary
 - In this role, you'll work independently on cell and molecular biology projects to study how non-experts learn foundational lab techniques.

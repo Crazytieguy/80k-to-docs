@@ -2,7 +2,7 @@
 title: "Security Engineer"
 employer: "10a Labs"
 job_id: "recKtD4mq9hYrXnxR"
-last_updated: "2026-06-01T05:32:22.731866Z"
+last_updated: "2026-06-02T05:31:47.931121Z"
 posted_at: "2026-05-28T00:00:00Z"
 status: ready
 apply_url: "https://job-boards.greenhouse.io/10alabs/jobs/4035575009"
@@ -34,4 +34,4 @@ areas:
 <p class="apply-cta"><a href="https://job-boards.greenhouse.io/10alabs/jobs/4035575009">Apply →</a></p>
 
 ---
-*Posted 2026-05-28 · Listing synced 2026-06-01 · 80k job ID `recKtD4mq9hYrXnxR`*
+*Posted 2026-05-28 · Listing synced 2026-06-02 · 80k job ID `recKtD4mq9hYrXnxR`*

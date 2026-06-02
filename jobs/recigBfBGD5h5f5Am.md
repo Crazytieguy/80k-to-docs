@@ -2,7 +2,7 @@
 title: "Staff ML Engineer"
 employer: "Lakera AI"
 job_id: "recigBfBGD5h5f5Am"
-last_updated: "2026-06-01T05:34:00.860296Z"
+last_updated: "2026-06-02T05:33:24.119562Z"
 posted_at: "2022-01-05T00:00:00Z"
 status: ready
 apply_url: "https://www.lakera.ai/careers?ashby_jid=6f04a898-893e-439f-8601-c25a30418c13"
@@ -33,4 +33,4 @@ areas:
 <p class="apply-cta"><a href="https://www.lakera.ai/careers?ashby_jid=6f04a898-893e-439f-8601-c25a30418c13">Apply →</a></p>
 
 ---
-*Posted 2022-01-05 · Listing synced 2026-06-01 · 80k job ID `recigBfBGD5h5f5Am`*
+*Posted 2022-01-05 · Listing synced 2026-06-02 · 80k job ID `recigBfBGD5h5f5Am`*

@@ -2,7 +2,7 @@
 title: "Exceptional Talent Application"
 employer: "Apart Research"
 job_id: "recwtzLeizGPM6fzs"
-last_updated: "2026-06-01T05:33:55.019857Z"
+last_updated: "2026-06-02T05:33:18.067587Z"
 posted_at: "2022-01-05T00:00:00Z"
 status: ready
 apply_url: "https://apartresearch.notion.site/1acfcfd1de9d8084a7abe3d00c5d2296"
@@ -29,4 +29,4 @@ areas:
 <p class="apply-cta"><a href="https://apartresearch.notion.site/1acfcfd1de9d8084a7abe3d00c5d2296">Apply →</a></p>
 
 ---
-*Posted 2022-01-05 · Listing synced 2026-06-01 · 80k job ID `recwtzLeizGPM6fzs`*
+*Posted 2022-01-05 · Listing synced 2026-06-02 · 80k job ID `recwtzLeizGPM6fzs`*

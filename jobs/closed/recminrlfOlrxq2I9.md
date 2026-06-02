@@ -4,25 +4,20 @@ employer: "FAR AI"
 job_id: "recminrlfOlrxq2I9"
 last_updated: "2026-06-01T05:33:20.911792Z"
 posted_at: "2026-03-17T00:05:00Z"
-status: ready
+status: closed
+closed_at: "2026-06-02"
 apply_url: "https://jobs.ashbyhq.com/far.ai/ee69dd15-b492-48fb-93ce-853e669d2296?embed=js"
 areas:
   - "AI safety & policy"
 ---
 
+> ⚠️ **CLOSED on 2026-06-02** — this job is no longer listed on the 80,000 Hours board. Archived snapshot below.
+
 # Recruiter
 
-**[FAR AI](https://far.ai/)**
+**FAR AI**
 
-<dl class="job-meta">
-<dt>Location</dt><dd>San Francisco Bay Area, Remote, Global, Remote, USA, USA</dd>
-<dt>Role type</dt><dd>Full-time</dd>
-<dt>Experience</dt><dd>Junior (1-4 years experience), Mid (5-9 years experience)</dd>
-<dt>Degree</dt><dd>Undergraduate degree or less</dd>
-<dt>Salary</dt><dd>$110,000 – $140,000</dd>
-</dl>
-
-**Areas & skills:** AI safety & policy, Operations
+**Areas & skills:** AI safety & policy
 
 ## Summary
 - In this role, you'll drive full-cycle recruiting to scale FAR.AI as the organization's first in-house recruiter.

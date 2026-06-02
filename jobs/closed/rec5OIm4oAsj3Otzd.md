@@ -4,25 +4,20 @@ employer: "Arq Foundation"
 job_id: "rec5OIm4oAsj3Otzd"
 last_updated: "2026-06-01T05:32:30.836253Z"
 posted_at: "2026-05-25T00:01:00Z"
-status: ready
+status: closed
+closed_at: "2026-06-02"
 apply_url: "https://www.arq.foundation/careers/events-associate"
 areas:
   - "AI safety & policy"
 ---
 
+> ⚠️ **CLOSED on 2026-06-02** — this job is no longer listed on the 80,000 Hours board. Archived snapshot below.
+
 # Events Associate
 
-**[Arq Foundation](https://www.arq.foundation/)**
+**Arq Foundation**
 
-<dl class="job-meta">
-<dt>Location</dt><dd>Brussels, Belgium, Belgium, Europe (ex UK)</dd>
-<dt>Role type</dt><dd>Full-time</dd>
-<dt>Experience</dt><dd>Junior (1-4 years experience)</dd>
-<dt>Degree</dt><dd>Undergraduate degree or less</dd>
-<dt>Salary</dt><dd>$46,605 – $69,908</dd>
-</dl>
-
-**Areas & skills:** AI safety & policy, Operations
+**Areas & skills:** AI safety & policy
 
 ## Summary
 - In this role, you'll own event logistics for Arq's policy convenings and support the policy team's external engagement.

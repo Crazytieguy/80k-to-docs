@@ -4,25 +4,20 @@ employer: "Apart Research"
 job_id: "rec2LgWaYSCsPrkCV"
 last_updated: "2026-06-01T05:32:22.326952Z"
 posted_at: "2026-05-28T00:04:41Z"
-status: ready
+status: closed
+closed_at: "2026-06-02"
 apply_url: "https://apartresearch.notion.site/Research-Project-Manager-288fcfd1de9d805fbbc2cab9e5544c4e"
 areas:
   - "AI safety & policy"
 ---
 
+> ⚠️ **CLOSED on 2026-06-02** — this job is no longer listed on the 80,000 Hours board. Archived snapshot below.
+
 # Research Project Manager
 
-**[Apart Research](https://apartresearch.com/)**
+**Apart Research**
 
-<dl class="job-meta">
-<dt>Location</dt><dd>Remote, Global</dd>
-<dt>Role type</dt><dd>Full-time</dd>
-<dt>Experience</dt><dd>Junior (1-4 years experience), Mid (5-9 years experience)</dd>
-<dt>Degree</dt><dd>Undergraduate degree or less</dd>
-<dt>Salary</dt><dd>$62,400 – $83,200</dd>
-</dl>
-
-**Areas & skills:** AI safety & policy, Operations
+**Areas & skills:** AI safety & policy
 
 ## Summary
 - In this role, you'll manage globally distributed AI safety research teams, serving as their primary point-of-contact towards peer-reviewed publication.

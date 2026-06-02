@@ -2,7 +2,7 @@
 title: "Intern, TECH Futures"
 employer: "MITRE"
 job_id: "rec7NtOIXAJmK4qrQ"
-last_updated: "2026-06-01T05:34:17.152736Z"
+last_updated: "2026-06-02T05:33:38.132669Z"
 posted_at: "2022-01-02T00:00:00Z"
 status: ready
 apply_url: "https://careers.mitre.org/us/en/job/R115659/TECH-Futures-Intern"
@@ -33,4 +33,4 @@ areas:
 <p class="apply-cta"><a href="https://careers.mitre.org/us/en/job/R115659/TECH-Futures-Intern">Apply →</a></p>
 
 ---
-*Posted 2022-01-02 · Listing synced 2026-06-01 · 80k job ID `rec7NtOIXAJmK4qrQ`*
+*Posted 2022-01-02 · Listing synced 2026-06-02 · 80k job ID `rec7NtOIXAJmK4qrQ`*

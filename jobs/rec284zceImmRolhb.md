@@ -2,7 +2,7 @@
 title: "PhD Student, Forecasting Resistance Spread and Epidemiological Impact"
 employer: "Swiss Tropical and Public Health Institute"
 job_id: "rec284zceImmRolhb"
-last_updated: "2026-06-01T05:32:28.196947Z"
+last_updated: "2026-06-02T05:31:53.457781Z"
 posted_at: "2026-05-26T00:00:00Z"
 status: ready
 apply_url: "https://jobs.swisstph.ch/Vacancies/1181/Description/2"
@@ -33,4 +33,4 @@ areas:
 <p class="apply-cta"><a href="https://jobs.swisstph.ch/Vacancies/1181/Description/2">Apply →</a></p>
 
 ---
-*Posted 2026-05-26 · Listing synced 2026-06-01 · 80k job ID `rec284zceImmRolhb`*
+*Posted 2026-05-26 · Listing synced 2026-06-02 · 80k job ID `rec284zceImmRolhb`*

@@ -2,7 +2,7 @@
 title: "List of Research Assistant Positions"
 employer: "National Bureau of Economic Research"
 job_id: "rec5NqVMrvm8IOtJD"
-last_updated: "2026-06-01T05:32:27.867731Z"
+last_updated: "2026-06-02T05:31:53.164052Z"
 posted_at: "2026-05-26T00:00:00Z"
 status: ready
 apply_url: "https://www.nber.org/career-resources/research-assistant-positions-not-nber"
@@ -30,4 +30,4 @@ areas:
 <p class="apply-cta"><a href="https://www.nber.org/career-resources/research-assistant-positions-not-nber">Apply →</a></p>
 
 ---
-*Posted 2026-05-26 · Listing synced 2026-06-01 · 80k job ID `rec5NqVMrvm8IOtJD`*
+*Posted 2026-05-26 · Listing synced 2026-06-02 · 80k job ID `rec5NqVMrvm8IOtJD`*

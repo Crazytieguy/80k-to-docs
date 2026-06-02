@@ -2,7 +2,7 @@
 title: "Group Facilitator"
 employer: "Rethink Wellbeing"
 job_id: "recA1wTd9fQfF1RuX"
-last_updated: "2026-06-01T05:32:22.037009Z"
+last_updated: "2026-06-02T05:31:47.385973Z"
 posted_at: "2026-05-29T00:00:00Z"
 status: ready
 apply_url: "https://docs.google.com/forms/d/e/1FAIpQLSfzq7OD7T072MUREYs__tAs2L_uCUZnJz0JcuUw-TEoYKqCOg/viewform"
@@ -21,7 +21,7 @@ areas:
 <dt>Degree</dt><dd>Undergraduate degree or less</dd>
 </dl>
 
-**Areas & skills:** Global health & development, Outreach
+**Areas & skills:** Global health & development, Other
 
 ## Summary
 - In this role, you'll facilitate weekly peer support groups to help effective altruism community members improve mental resilience and productivity.
@@ -33,4 +33,4 @@ areas:
 <p class="apply-cta"><a href="https://docs.google.com/forms/d/e/1FAIpQLSfzq7OD7T072MUREYs__tAs2L_uCUZnJz0JcuUw-TEoYKqCOg/viewform">Apply →</a></p>
 
 ---
-*Posted 2026-05-29 · Listing synced 2026-06-01 · 80k job ID `recA1wTd9fQfF1RuX`*
+*Posted 2026-05-29 · Listing synced 2026-06-02 · 80k job ID `recA1wTd9fQfF1RuX`*

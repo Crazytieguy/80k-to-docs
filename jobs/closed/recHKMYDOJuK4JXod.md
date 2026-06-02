@@ -4,25 +4,20 @@ employer: "Evidence Action"
 job_id: "recHKMYDOJuK4JXod"
 last_updated: "2026-06-01T05:34:12.130777Z"
 posted_at: "2022-01-02T00:00:00Z"
-status: ready
+status: closed
+closed_at: "2026-06-02"
 apply_url: "https://apply.workable.com/evidence-action/j/423412B7E0/"
 areas:
   - "Global health & development"
 ---
 
+> ⚠️ **CLOSED on 2026-06-02** — this job is no longer listed on the 80,000 Hours board. Archived snapshot below.
+
 # Program Manager, AI Access Initiative (x2)
 
-**[Evidence Action](https://www.evidenceaction.org/)**
+**Evidence Action**
 
-<dl class="job-meta">
-<dt>Location</dt><dd>Washington, DC metro area, USA</dd>
-<dt>Role type</dt><dd>Full-time</dd>
-<dt>Experience</dt><dd>Junior (1-4 years experience), Mid (5-9 years experience)</dd>
-<dt>Degree</dt><dd>Undergraduate degree or less</dd>
-<dt>Salary</dt><dd>$75,000 – $95,000</dd>
-</dl>
-
-**Areas & skills:** Global health & development, Operations, Strategy
+**Areas & skills:** Global health & development
 
 ## Summary
 - In this role, you'll design and execute AI programs in developing countries, translating research into scalable, government-ready solutions.

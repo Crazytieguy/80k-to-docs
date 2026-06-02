@@ -4,24 +4,20 @@ employer: "Kickstarting for Good"
 job_id: "reclgMqCraMBegR2d"
 last_updated: "2026-06-01T05:33:07.899524Z"
 posted_at: "2026-04-14T00:00:00Z"
-status: ready
+status: closed
+closed_at: "2026-06-02"
 apply_url: "https://kickstartingforgood.org/chief-operating-officer/"
 areas:
   - "Animal welfare"
 ---
 
+> ⚠️ **CLOSED on 2026-06-02** — this job is no longer listed on the 80,000 Hours board. Archived snapshot below.
+
 # Chief Operating Officer
 
-**[Kickstarting for Good](https://kickstartingforgood.org/)**
+**Kickstarting for Good**
 
-<dl class="job-meta">
-<dt>Location</dt><dd>Berlin, Germany, Germany, Europe (ex UK)</dd>
-<dt>Role type</dt><dd>Full-time</dd>
-<dt>Experience</dt><dd>Mid (5-9 years experience)</dd>
-<dt>Degree</dt><dd>Undergraduate degree or less</dd>
-</dl>
-
-**Areas & skills:** Animal welfare, Operations
+**Areas & skills:** Animal welfare
 
 ## Summary
 - In this role, you'll establish well-organised systems and ensure smooth operations for the plant-based food incubator.

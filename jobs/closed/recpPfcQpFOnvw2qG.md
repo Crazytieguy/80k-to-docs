@@ -4,24 +4,20 @@ employer: "Kickstarting for Good"
 job_id: "recpPfcQpFOnvw2qG"
 last_updated: "2026-06-01T05:33:08.046899Z"
 posted_at: "2026-04-14T00:00:00Z"
-status: ready
+status: closed
+closed_at: "2026-06-02"
 apply_url: "https://kickstartingforgood.org/entrepreneur-in-residence-india/"
 areas:
   - "Animal welfare"
 ---
 
+> ⚠️ **CLOSED on 2026-06-02** — this job is no longer listed on the 80,000 Hours board. Archived snapshot below.
+
 # Entrepreneur in Residence, India
 
-**[Kickstarting for Good](https://kickstartingforgood.org/)**
+**Kickstarting for Good**
 
-<dl class="job-meta">
-<dt>Location</dt><dd>India, Asia</dd>
-<dt>Role type</dt><dd>Full-time</dd>
-<dt>Experience</dt><dd>Mid (5-9 years experience)</dd>
-<dt>Degree</dt><dd>Undergraduate degree or less</dd>
-</dl>
-
-**Areas & skills:** Animal welfare, Strategy
+**Areas & skills:** Animal welfare
 
 ## Summary
 - In this role, you'll identify high-impact individuals and initiatives in India's food transformation sector and build the regional movement ecosystem.

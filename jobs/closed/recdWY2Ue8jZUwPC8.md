@@ -4,25 +4,20 @@ employer: "Stripe"
 job_id: "recdWY2Ue8jZUwPC8"
 last_updated: "2026-06-01T05:34:19.492707Z"
 posted_at: "2022-01-02T00:00:00Z"
-status: ready
+status: closed
+closed_at: "2026-06-02"
 apply_url: "https://stripe.com/jobs/listing/phd-machine-learning-engineer-intern/7216664"
 areas:
   - "Career development: Technical"
 ---
 
+> ⚠️ **CLOSED on 2026-06-02** — this job is no longer listed on the 80,000 Hours board. Archived snapshot below.
+
 # Intern, Machine Learning Engineer
 
-**[Stripe](https://stripe.com/gb)**
+**Stripe**
 
-<dl class="job-meta">
-<dt>Location</dt><dd>San Francisco Bay Area, New York, NY, Seattle metro area, USA</dd>
-<dt>Role type</dt><dd>Internship</dd>
-<dt>Experience</dt><dd>Entry-level</dd>
-<dt>Degree</dt><dd>Master's degree</dd>
-<dt>Salary</dt><dd>$123,500 – $161,525</dd>
-</dl>
-
-**Areas & skills:** Career development: Technical, Software engineering
+**Areas & skills:** Career development: Technical
 
 ## Summary
 - In this role, you'll develop and deploy large-scale machine learning systems that drive business value across Stripe's financial infrastructure platform.

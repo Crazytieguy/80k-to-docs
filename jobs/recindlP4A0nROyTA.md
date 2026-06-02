@@ -2,7 +2,7 @@
 title: "Head of People"
 employer: "MATS Research"
 job_id: "recindlP4A0nROyTA"
-last_updated: "2026-06-01T05:32:43.498753Z"
+last_updated: "2026-06-02T05:32:08.684775Z"
 posted_at: "2026-05-15T00:04:42Z"
 status: ready
 apply_url: "https://www.matsprogram.org/careers/head-of-people"
@@ -33,4 +33,4 @@ areas:
 <p class="apply-cta"><a href="https://www.matsprogram.org/careers/head-of-people">Apply →</a></p>
 
 ---
-*Posted 2026-05-15 · Listing synced 2026-06-01 · 80k job ID `recindlP4A0nROyTA`*
+*Posted 2026-05-15 · Listing synced 2026-06-02 · 80k job ID `recindlP4A0nROyTA`*

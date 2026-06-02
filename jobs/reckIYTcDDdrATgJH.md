@@ -2,7 +2,7 @@
 title: "Preclinical Scientist"
 employer: "Vaxxas"
 job_id: "reckIYTcDDdrATgJH"
-last_updated: "2026-06-01T05:32:44.600033Z"
+last_updated: "2026-06-02T05:32:09.899704Z"
 posted_at: "2026-05-15T00:00:00Z"
 status: ready
 apply_url: "https://au.seek.com/job/92110483"
@@ -33,4 +33,4 @@ areas:
 <p class="apply-cta"><a href="https://au.seek.com/job/92110483">Apply →</a></p>
 
 ---
-*Posted 2026-05-15 · Listing synced 2026-06-01 · 80k job ID `reckIYTcDDdrATgJH`*
+*Posted 2026-05-15 · Listing synced 2026-06-02 · 80k job ID `reckIYTcDDdrATgJH`*

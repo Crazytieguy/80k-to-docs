@@ -4,25 +4,20 @@ employer: "Arq Foundation"
 job_id: "recrTB1ihvqsP9i4n"
 last_updated: "2026-06-01T05:32:30.682212Z"
 posted_at: "2026-05-25T00:01:00Z"
-status: ready
+status: closed
+closed_at: "2026-06-02"
 apply_url: "https://www.arq.foundation/careers/operations-associate"
 areas:
   - "AI safety & policy"
 ---
 
+> ⚠️ **CLOSED on 2026-06-02** — this job is no longer listed on the 80,000 Hours board. Archived snapshot below.
+
 # Operations Associate
 
-**[Arq Foundation](https://www.arq.foundation/)**
+**Arq Foundation**
 
-<dl class="job-meta">
-<dt>Location</dt><dd>Brussels, Belgium, Belgium, Europe (ex UK)</dd>
-<dt>Role type</dt><dd>Full-time</dd>
-<dt>Experience</dt><dd>Junior (1-4 years experience)</dd>
-<dt>Degree</dt><dd>Undergraduate degree or less</dd>
-<dt>Salary</dt><dd>$46,605 – $69,908</dd>
-</dl>
-
-**Areas & skills:** AI safety & policy, Operations, Finance
+**Areas & skills:** AI safety & policy
 
 ## Summary
 - In this role, you'll help build and run operational systems across finance, HR, compliance, and IT.

@@ -2,7 +2,7 @@
 title: "Incident Manager, Detection and Response"
 employer: "Anthropic"
 job_id: "rec9F3bi4oBz3wMNw"
-last_updated: "2026-06-01T05:33:10.660614Z"
+last_updated: "2026-06-02T05:32:35.832050Z"
 posted_at: "2026-04-10T00:00:00Z"
 status: ready
 apply_url: "https://job-boards.greenhouse.io/anthropic/jobs/5176481008"
@@ -34,4 +34,4 @@ areas:
 <p class="apply-cta"><a href="https://job-boards.greenhouse.io/anthropic/jobs/5176481008">Apply →</a></p>
 
 ---
-*Posted 2026-04-10 · Listing synced 2026-06-01 · 80k job ID `rec9F3bi4oBz3wMNw`*
+*Posted 2026-04-10 · Listing synced 2026-06-02 · 80k job ID `rec9F3bi4oBz3wMNw`*
