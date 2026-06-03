@@ -2,7 +2,7 @@
 title: "Engineering PhD student (with Dr. David Denkenberger, ALLFED)"
 employer: "University of Canterbury"
 job_id: "recYOH6WjgvTNSiYD"
-last_updated: "2026-06-02T05:33:28.129528Z"
+last_updated: "2026-06-03T05:34:23.194373Z"
 posted_at: "2022-01-04T00:00:00Z"
 status: ready
 apply_url: "https://eahire.notion.site/eahire/Multiple-high-impact-PhD-student-positions-4f539332738a49cc8915aaa8731f9a3e"
@@ -17,7 +17,7 @@ areas:
 **[University of Canterbury](https://www.canterbury.ac.nz/)**
 
 <dl class="job-meta">
-<dt>Location</dt><dd>Christchurch, New Zealand, New Zealand, Oceania</dd>
+<dt>Location</dt><dd>Christchurch, New Zealand, Oceania, New Zealand</dd>
 <dt>Role type</dt><dd>Full-time</dd>
 <dt>Experience</dt><dd>Entry-level</dd>
 <dt>Degree</dt><dd>Undergraduate degree or less</dd>
@@ -35,4 +35,4 @@ areas:
 <p class="apply-cta"><a href="https://eahire.notion.site/eahire/Multiple-high-impact-PhD-student-positions-4f539332738a49cc8915aaa8731f9a3e">Apply →</a></p>
 
 ---
-*Posted 2022-01-04 · Listing synced 2026-06-02 · 80k job ID `recYOH6WjgvTNSiYD`*
+*Posted 2022-01-04 · Listing synced 2026-06-03 · 80k job ID `recYOH6WjgvTNSiYD`*

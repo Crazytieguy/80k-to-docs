@@ -2,7 +2,7 @@
 title: "Full Stack Developer"
 employer: "Animal Equality"
 job_id: "recOMqfbjkuk7ONQ7"
-last_updated: "2026-06-02T05:33:43.053095Z"
+last_updated: "2026-06-03T05:34:38.250463Z"
 posted_at: "2022-01-01T00:00:00Z"
 status: ready
 apply_url: "https://igualdadanimal.org/empleo/programador-full-stack/"
@@ -33,4 +33,4 @@ areas:
 <p class="apply-cta"><a href="https://igualdadanimal.org/empleo/programador-full-stack/">Apply →</a></p>
 
 ---
-*Posted 2022-01-01 · Listing synced 2026-06-02 · 80k job ID `recOMqfbjkuk7ONQ7`*
+*Posted 2022-01-01 · Listing synced 2026-06-03 · 80k job ID `recOMqfbjkuk7ONQ7`*

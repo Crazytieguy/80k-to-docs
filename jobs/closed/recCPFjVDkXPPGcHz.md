@@ -4,25 +4,20 @@ employer: "CivAI"
 job_id: "recCPFjVDkXPPGcHz"
 last_updated: "2026-06-02T05:32:38.142094Z"
 posted_at: "2026-04-07T00:05:00Z"
-status: ready
+status: closed
+closed_at: "2026-06-03"
 apply_url: "https://civai.org/jobs/director-of-policy"
 areas:
   - "AI safety & policy"
 ---
 
+> ⚠️ **CLOSED on 2026-06-03** — this job is no longer listed on the 80,000 Hours board. Archived snapshot below.
+
 # Director of Policy
 
-**[CivAI](https://www.civai.org/)**
+**CivAI**
 
-<dl class="job-meta">
-<dt>Location</dt><dd>Washington, DC metro area, San Francisco Bay Area, USA</dd>
-<dt>Role type</dt><dd>Full-time</dd>
-<dt>Experience</dt><dd>Junior (1-4 years experience)</dd>
-<dt>Degree</dt><dd>Undergraduate degree or less</dd>
-<dt>Salary</dt><dd>$130,000 – $200,000</dd>
-</dl>
-
-**Areas & skills:** AI safety & policy, Policy
+**Areas & skills:** AI safety & policy
 
 ## Summary
 - In this role, you'll lead policy engagement with Congress and the U.S. government to educate policymakers on AI risks.

@@ -4,26 +4,21 @@ employer: "Berkeley Existential Risk Initiative"
 job_id: "recoxnRh7TY3lRNPh"
 last_updated: "2026-06-02T05:32:39.172159Z"
 posted_at: "2026-04-06T00:01:00Z"
-status: ready
+status: closed
+closed_at: "2026-06-03"
 apply_url: "https://www.existence.org/jobs-deputy-director"
 areas:
   - "AI safety & policy"
   - "Biosecurity & pandemic preparedness"
 ---
 
+> ⚠️ **CLOSED on 2026-06-03** — this job is no longer listed on the 80,000 Hours board. Archived snapshot below.
+
 # Deputy Director
 
-**[Berkeley Existential Risk Initiative](https://www.existence.org)**
+**Berkeley Existential Risk Initiative**
 
-<dl class="job-meta">
-<dt>Location</dt><dd>Remote, USA, USA</dd>
-<dt>Role type</dt><dd>Full-time</dd>
-<dt>Experience</dt><dd>Mid (5-9 years experience)</dd>
-<dt>Degree</dt><dd>Undergraduate degree or less</dd>
-<dt>Salary</dt><dd>$110,000 – $150,000</dd>
-</dl>
-
-**Areas & skills:** AI safety & policy, Biosecurity & pandemic preparedness, Operations, Strategy
+**Areas & skills:** AI safety & policy, Biosecurity & pandemic preparedness
 
 ## Summary
 - In this role, you'll manage operations spanning finance, compliance, and external relationships to support BERI's x-risk research globally.

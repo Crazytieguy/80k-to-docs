@@ -2,7 +2,7 @@
 title: "Recruiter"
 employer: "Constellation"
 job_id: "recQ1mZpnTUZZcfnp"
-last_updated: "2026-06-02T05:33:08.343504Z"
+last_updated: "2026-06-03T05:34:01.115893Z"
 posted_at: "2022-01-06T00:00:00Z"
 status: ready
 apply_url: "https://jobs.gem.com/constellation-institute/96e3c041-d342-415c-a89c-049f8c9b9488"
@@ -34,4 +34,4 @@ areas:
 <p class="apply-cta"><a href="https://jobs.gem.com/constellation-institute/96e3c041-d342-415c-a89c-049f8c9b9488">Apply →</a></p>
 
 ---
-*Posted 2022-01-06 · Listing synced 2026-06-02 · 80k job ID `recQ1mZpnTUZZcfnp`*
+*Posted 2022-01-06 · Listing synced 2026-06-03 · 80k job ID `recQ1mZpnTUZZcfnp`*

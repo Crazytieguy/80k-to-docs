@@ -2,22 +2,26 @@
 title: "Frontier AI Governance"
 employer: "BlueDot Impact"
 job_id: "recKweHTEdXQ6Iy7X"
-last_updated: "2026-05-31T05:32:12.589876Z"
+last_updated: "2026-06-03T05:32:34.920365Z"
 posted_at: "2026-05-28T00:02:00Z"
-status: closed
-closed_at: "2026-06-01"
+status: ready
 apply_url: "https://bluedot.org/courses/ai-governance"
 areas:
   - "AI safety & policy"
 ---
 
-> ⚠️ **CLOSED on 2026-06-01** — this job is no longer listed on the 80,000 Hours board. Archived snapshot below.
-
 # Frontier AI Governance
 
-**BlueDot Impact**
+**[BlueDot Impact](https://www.bluedotimpact.org/)**
 
-**Areas & skills:** AI safety & policy
+<dl class="job-meta">
+<dt>Location</dt><dd>Remote, Global</dd>
+<dt>Role type</dt><dd>Course</dd>
+<dt>Experience</dt><dd>Entry-level</dd>
+<dt>Degree</dt><dd>Undergraduate degree or less</dd>
+</dl>
+
+**Areas & skills:** AI safety & policy, Policy
 
 ## Summary
 - This course teaches frontier AI governance to prepare you for government and policy roles.
@@ -28,4 +32,4 @@ areas:
 <p class="apply-cta"><a href="https://bluedot.org/courses/ai-governance">Apply →</a></p>
 
 ---
-*Posted 2026-05-28 · Listing synced 2026-05-31 · 80k job ID `recKweHTEdXQ6Iy7X`*
+*Posted 2026-05-28 · Listing synced 2026-06-03 · 80k job ID `recKweHTEdXQ6Iy7X`*

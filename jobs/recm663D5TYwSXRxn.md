@@ -2,7 +2,7 @@
 title: "Expression of Interest"
 employer: "European Union, AI Office"
 job_id: "recm663D5TYwSXRxn"
-last_updated: "2026-06-02T05:33:20.905762Z"
+last_updated: "2026-06-03T05:34:15.861437Z"
 posted_at: "2022-01-05T00:00:00Z"
 status: ready
 apply_url: "https://ec.europa.eu/eusurvey/runner/AIOffice-Interest-General"
@@ -15,7 +15,7 @@ areas:
 **[European Union, AI Office](https://digital-strategy.ec.europa.eu/en/policies/ai-office)**
 
 <dl class="job-meta">
-<dt>Location</dt><dd>Europe, Europe (ex UK)</dd>
+<dt>Location</dt><dd>Europe (ex UK), Europe</dd>
 <dt>Role type</dt><dd>Full-time</dd>
 <dt>Experience</dt><dd>Multiple experience levels</dd>
 <dt>Degree</dt><dd>Undergraduate degree or less</dd>
@@ -34,4 +34,4 @@ areas:
 <p class="apply-cta"><a href="https://ec.europa.eu/eusurvey/runner/AIOffice-Interest-General">Apply →</a></p>
 
 ---
-*Posted 2022-01-05 · Listing synced 2026-06-02 · 80k job ID `recm663D5TYwSXRxn`*
+*Posted 2022-01-05 · Listing synced 2026-06-03 · 80k job ID `recm663D5TYwSXRxn`*

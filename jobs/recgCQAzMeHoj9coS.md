@@ -2,7 +2,7 @@
 title: "Head of Community Engagement, London"
 employer: "Giving What We Can"
 job_id: "recgCQAzMeHoj9coS"
-last_updated: "2026-06-02T05:32:05.046184Z"
+last_updated: "2026-06-03T05:32:53.012238Z"
 posted_at: "2026-05-19T00:01:00Z"
 status: ready
 apply_url: "https://www.givingwhatwecan.org/head-of-community-uk"
@@ -19,7 +19,7 @@ areas:
 <dt>Role type</dt><dd>Full-time</dd>
 <dt>Experience</dt><dd>Mid (5-9 years experience)</dd>
 <dt>Degree</dt><dd>Undergraduate degree or less</dd>
-<dt>Salary</dt><dd>$103,681 – $119,839</dd>
+<dt>Salary</dt><dd>$103,612 – $119,759</dd>
 </dl>
 
 **Areas & skills:** Building effective altruism, Outreach
@@ -34,4 +34,4 @@ areas:
 <p class="apply-cta"><a href="https://www.givingwhatwecan.org/head-of-community-uk">Apply →</a></p>
 
 ---
-*Posted 2026-05-19 · Listing synced 2026-06-02 · 80k job ID `recgCQAzMeHoj9coS`*
+*Posted 2026-05-19 · Listing synced 2026-06-03 · 80k job ID `recgCQAzMeHoj9coS`*

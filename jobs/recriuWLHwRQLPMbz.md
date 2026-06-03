@@ -2,7 +2,7 @@
 title: "Community Manager, London"
 employer: "MATS Research"
 job_id: "recriuWLHwRQLPMbz"
-last_updated: "2026-06-02T05:31:48.499164Z"
+last_updated: "2026-06-03T05:32:35.823177Z"
 posted_at: "2026-05-28T00:00:00Z"
 status: ready
 apply_url: "https://www.matsprogram.org/careers/community-manager-london"
@@ -19,7 +19,7 @@ areas:
 <dt>Role type</dt><dd>Full-time</dd>
 <dt>Experience</dt><dd>Junior (1-4 years experience), Mid (5-9 years experience)</dd>
 <dt>Degree</dt><dd>Undergraduate degree or less</dd>
-<dt>Salary</dt><dd>$74,058 – $121,185</dd>
+<dt>Salary</dt><dd>$74,008 – $121,104</dd>
 </dl>
 
 **Areas & skills:** AI safety & policy, Outreach, Operations
@@ -34,4 +34,4 @@ areas:
 <p class="apply-cta"><a href="https://www.matsprogram.org/careers/community-manager-london">Apply →</a></p>
 
 ---
-*Posted 2026-05-28 · Listing synced 2026-06-02 · 80k job ID `recriuWLHwRQLPMbz`*
+*Posted 2026-05-28 · Listing synced 2026-06-03 · 80k job ID `recriuWLHwRQLPMbz`*

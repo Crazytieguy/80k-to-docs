@@ -2,7 +2,7 @@
 title: "Local Group Leaders, US"
 employer: "PauseAI"
 job_id: "recmGpeIDroB0DZAI"
-last_updated: "2026-06-02T05:33:14.144352Z"
+last_updated: "2026-06-03T05:34:07.828419Z"
 posted_at: "2022-01-06T00:00:00Z"
 status: ready
 apply_url: "https://www.pauseai-us.org/Apply"
@@ -33,4 +33,4 @@ areas:
 <p class="apply-cta"><a href="https://www.pauseai-us.org/Apply">Apply →</a></p>
 
 ---
-*Posted 2022-01-06 · Listing synced 2026-06-02 · 80k job ID `recmGpeIDroB0DZAI`*
+*Posted 2022-01-06 · Listing synced 2026-06-03 · 80k job ID `recmGpeIDroB0DZAI`*

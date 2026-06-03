@@ -2,7 +2,7 @@
 title: "Expression of Interest, China Program"
 employer: "Fish Welfare Initiative"
 job_id: "recNJMOLsOZfhDrRr"
-last_updated: "2026-06-02T05:33:46.803117Z"
+last_updated: "2026-06-03T05:34:41.244513Z"
 posted_at: "2022-01-01T00:00:00Z"
 status: ready
 apply_url: "https://docs.google.com/forms/d/e/1FAIpQLScIMb7n84YrNQarok5dU5ZnptsB7qbqLvb6Dab0f1FwuvZ7Kg/viewform"
@@ -15,7 +15,7 @@ areas:
 **[Fish Welfare Initiative](https://www.charityentrepreneurship.com/fish-welfare-initiative)**
 
 <dl class="job-meta">
-<dt>Location</dt><dd>China, Asia</dd>
+<dt>Location</dt><dd>Asia, China</dd>
 <dt>Role type</dt><dd>Full-time</dd>
 <dt>Experience</dt><dd>Multiple experience levels</dd>
 <dt>Degree</dt><dd>Undergraduate degree or less</dd>
@@ -33,4 +33,4 @@ areas:
 <p class="apply-cta"><a href="https://docs.google.com/forms/d/e/1FAIpQLScIMb7n84YrNQarok5dU5ZnptsB7qbqLvb6Dab0f1FwuvZ7Kg/viewform">Apply →</a></p>
 
 ---
-*Posted 2022-01-01 · Listing synced 2026-06-02 · 80k job ID `recNJMOLsOZfhDrRr`*
+*Posted 2022-01-01 · Listing synced 2026-06-03 · 80k job ID `recNJMOLsOZfhDrRr`*

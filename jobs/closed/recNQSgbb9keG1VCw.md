@@ -4,25 +4,20 @@ employer: "Richman Law and Policy"
 job_id: "recNQSgbb9keG1VCw"
 last_updated: "2026-06-02T05:33:39.391241Z"
 posted_at: "2022-01-02T00:00:00Z"
-status: ready
+status: closed
+closed_at: "2026-06-03"
 apply_url: "https://www.richmanlawpolicy.com/jobs/associate-attorney"
 areas:
   - "Animal welfare"
 ---
 
+> ⚠️ **CLOSED on 2026-06-03** — this job is no longer listed on the 80,000 Hours board. Archived snapshot below.
+
 # Associate Attorney
 
-**[Richman Law and Policy](https://www.richmanlawpolicy.com/)**
+**Richman Law and Policy**
 
-<dl class="job-meta">
-<dt>Location</dt><dd>New York, NY, USA</dd>
-<dt>Role type</dt><dd>Full-time</dd>
-<dt>Experience</dt><dd>Junior (1-4 years experience)</dd>
-<dt>Degree</dt><dd>Doctoral degree</dd>
-<dt>Salary</dt><dd>$75,000 – $125,000</dd>
-</dl>
-
-**Areas & skills:** Animal welfare, Legal
+**Areas & skills:** Animal welfare
 
 ## Summary
 - In this role, the selected candidate will undertake full-time associate attorney responsibilities with Richman Law.

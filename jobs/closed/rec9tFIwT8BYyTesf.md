@@ -4,25 +4,20 @@ employer: "OpenAI"
 job_id: "rec9tFIwT8BYyTesf"
 last_updated: "2026-06-02T05:32:46.671683Z"
 posted_at: "2026-03-16T00:00:00Z"
-status: ready
+status: closed
+closed_at: "2026-06-03"
 apply_url: "https://openai.com/careers/abuse-investigator-(cbrn)-remote-us/"
 areas:
   - "AI safety & policy"
 ---
 
+> ⚠️ **CLOSED on 2026-06-03** — this job is no longer listed on the 80,000 Hours board. Archived snapshot below.
+
 # Abuse Investigator, Chemical, Biological, Radiological, and Nuclear
 
-**[OpenAI](https://openai.com/)**
+**OpenAI**
 
-<dl class="job-meta">
-<dt>Location</dt><dd>Washington, DC metro area, San Francisco Bay Area, Remote, USA, USA</dd>
-<dt>Role type</dt><dd>Full-time</dd>
-<dt>Experience</dt><dd>Mid (5-9 years experience)</dd>
-<dt>Degree</dt><dd>Undergraduate degree or less</dd>
-<dt>Salary</dt><dd>$230,400 – $425,000</dd>
-</dl>
-
-**Areas & skills:** AI safety & policy, Research, Information security
+**Areas & skills:** AI safety & policy
 
 ## Summary
 - In this role, you'll detect and disrupt misuse of OpenAI products for biological and chemical threats.

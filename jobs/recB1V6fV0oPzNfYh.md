@@ -2,7 +2,7 @@
 title: "Student Assistant, Critical Infrastructures"
 employer: "Technical University of Darmstadt, Science and Technology for Peace and Security"
 job_id: "recB1V6fV0oPzNfYh"
-last_updated: "2026-06-02T05:32:13.832064Z"
+last_updated: "2026-06-03T05:33:03.002975Z"
 posted_at: "2026-05-13T00:00:00Z"
 status: ready
 apply_url: "https://peasec.de/2026/peasec-stellenangebot-studentischer-mitarbeiterin-im-themenbereich-kritische-infrastrukturen-m-w-d-peasec-job-opening-student-assistant-in-the-field-of-critical-infrastructures-m-f-d/"
@@ -33,4 +33,4 @@ areas:
 <p class="apply-cta"><a href="https://peasec.de/2026/peasec-stellenangebot-studentischer-mitarbeiterin-im-themenbereich-kritische-infrastrukturen-m-w-d-peasec-job-opening-student-assistant-in-the-field-of-critical-infrastructures-m-f-d/">Apply →</a></p>
 
 ---
-*Posted 2026-05-13 · Listing synced 2026-06-02 · 80k job ID `recB1V6fV0oPzNfYh`*
+*Posted 2026-05-13 · Listing synced 2026-06-03 · 80k job ID `recB1V6fV0oPzNfYh`*

@@ -1,8 +1,8 @@
 ---
-title: "Head of Supervised Program for Alignment Research"
+title: "Head of SPAR"
 employer: "Kairos"
 job_id: "recnB6j6lzvT9KIYm"
-last_updated: "2026-06-02T05:31:45.600871Z"
+last_updated: "2026-06-03T05:32:32.280787Z"
 posted_at: "2026-05-29T00:03:00Z"
 status: ready
 apply_url: "https://jobs.ashbyhq.com/kairos-project/934e3b41-bfc4-470b-b36b-37115de389f4"
@@ -10,7 +10,7 @@ areas:
   - "AI safety & policy"
 ---
 
-# Head of Supervised Program for Alignment Research
+# Head of SPAR
 
 **[Kairos](https://kairos-project.org/)**
 
@@ -34,4 +34,4 @@ areas:
 <p class="apply-cta"><a href="https://jobs.ashbyhq.com/kairos-project/934e3b41-bfc4-470b-b36b-37115de389f4">Apply →</a></p>
 
 ---
-*Posted 2026-05-29 · Listing synced 2026-06-02 · 80k job ID `recnB6j6lzvT9KIYm`*
+*Posted 2026-05-29 · Listing synced 2026-06-03 · 80k job ID `recnB6j6lzvT9KIYm`*

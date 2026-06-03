@@ -2,7 +2,7 @@
 title: "Fellowship Manager"
 employer: "Safe AI Germany"
 job_id: "recm61vn4Iaxwx5Zm"
-last_updated: "2026-06-02T05:31:55.459052Z"
+last_updated: "2026-06-03T05:32:43.366171Z"
 posted_at: "2026-05-25T00:02:00Z"
 status: ready
 apply_url: "https://docs.google.com/document/d/1btRs4l_iBH34MbQ3LDy3LncrjPN9OWFQamkXRNbFmrI/edit?tab=t.0#heading=h.xegpabdmdlpv"
@@ -19,7 +19,7 @@ areas:
 <dt>Role type</dt><dd>Full-time</dd>
 <dt>Experience</dt><dd>Junior (1-4 years experience)</dd>
 <dt>Degree</dt><dd>Undergraduate degree or less</dd>
-<dt>Salary</dt><dd>$58,189 – $81,464</dd>
+<dt>Salary</dt><dd>$58,110 – $81,355</dd>
 </dl>
 
 **Areas & skills:** AI safety & policy, Operations
@@ -34,4 +34,4 @@ areas:
 <p class="apply-cta"><a href="https://docs.google.com/document/d/1btRs4l_iBH34MbQ3LDy3LncrjPN9OWFQamkXRNbFmrI/edit?tab=t.0#heading=h.xegpabdmdlpv">Apply →</a></p>
 
 ---
-*Posted 2026-05-25 · Listing synced 2026-06-02 · 80k job ID `recm61vn4Iaxwx5Zm`*
+*Posted 2026-05-25 · Listing synced 2026-06-03 · 80k job ID `recm61vn4Iaxwx5Zm`*

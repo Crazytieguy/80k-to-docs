@@ -2,7 +2,7 @@
 title: "Research Engineer"
 employer: "Beneficial AI Foundation"
 job_id: "recdiJgiiIqTPSsf8"
-last_updated: "2026-06-02T05:32:14.332792Z"
+last_updated: "2026-06-03T05:33:03.548224Z"
 posted_at: "2026-05-12T00:03:00Z"
 status: ready
 apply_url: "https://docs.google.com/forms/d/e/1FAIpQLSf4ii8dKotxIr3hpIf5uKGWceEm0kxtlhhjLHYtnzBgB0U8lg/viewform?usp=send_form"
@@ -34,4 +34,4 @@ areas:
 <p class="apply-cta"><a href="https://docs.google.com/forms/d/e/1FAIpQLSf4ii8dKotxIr3hpIf5uKGWceEm0kxtlhhjLHYtnzBgB0U8lg/viewform?usp=send_form">Apply →</a></p>
 
 ---
-*Posted 2026-05-12 · Listing synced 2026-06-02 · 80k job ID `recdiJgiiIqTPSsf8`*
+*Posted 2026-05-12 · Listing synced 2026-06-03 · 80k job ID `recdiJgiiIqTPSsf8`*

@@ -2,7 +2,7 @@
 title: "Research Lead, AI Cyber Testing"
 employer: "RAND Corporation"
 job_id: "rec9SvF6EotUc93V9"
-last_updated: "2026-06-02T05:33:25.322782Z"
+last_updated: "2026-06-03T05:34:20.173637Z"
 posted_at: "2022-01-05T00:00:00Z"
 status: ready
 apply_url: "https://rand.wd5.myworkdayjobs.com/en-US/External_Career_Site/job/Washington-DC-DC-Metro-Area/Research-Lead----AI-Cyber-Testing---Evaluation_R3122"
@@ -34,4 +34,4 @@ areas:
 <p class="apply-cta"><a href="https://rand.wd5.myworkdayjobs.com/en-US/External_Career_Site/job/Washington-DC-DC-Metro-Area/Research-Lead----AI-Cyber-Testing---Evaluation_R3122">Apply →</a></p>
 
 ---
-*Posted 2022-01-05 · Listing synced 2026-06-02 · 80k job ID `rec9SvF6EotUc93V9`*
+*Posted 2022-01-05 · Listing synced 2026-06-03 · 80k job ID `rec9SvF6EotUc93V9`*

@@ -4,25 +4,20 @@ employer: "Lila Sciences"
 job_id: "rec5w4Ep5c2J7E1kw"
 last_updated: "2026-06-02T05:33:24.655188Z"
 posted_at: "2022-01-05T00:00:00Z"
-status: ready
+status: closed
+closed_at: "2026-06-03"
 apply_url: "https://job-boards.greenhouse.io/lilasciences/jobs/4111976009"
 areas:
   - "AI safety & policy"
 ---
 
+> ⚠️ **CLOSED on 2026-06-03** — this job is no longer listed on the 80,000 Hours board. Archived snapshot below.
+
 # Senior Research Scientist / Principal Research Scientist, AI Safety, Biological / Physical Sciences
 
-**[Lila Sciences](https://www.lila.ai/)**
+**Lila Sciences**
 
-<dl class="job-meta">
-<dt>Location</dt><dd>London, UK, San Francisco Bay Area, Boston metro area, UK, USA</dd>
-<dt>Role type</dt><dd>Full-time</dd>
-<dt>Experience</dt><dd>Mid (5-9 years experience)</dd>
-<dt>Degree</dt><dd>Doctoral degree</dd>
-<dt>Salary</dt><dd>$268,000 – $384,000</dd>
-</dl>
-
-**Areas & skills:** AI safety & policy, Research, Strategy
+**Areas & skills:** AI safety & policy
 
 ## Summary
 - In this role, you'll lead Lila's AI safety strategy for biological and physical sciences risks from scientific superintelligence.

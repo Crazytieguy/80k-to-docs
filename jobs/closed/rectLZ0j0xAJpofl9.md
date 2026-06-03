@@ -4,25 +4,20 @@ employer: "Lila Sciences"
 job_id: "rectLZ0j0xAJpofl9"
 last_updated: "2026-06-02T05:33:11.791268Z"
 posted_at: "2022-01-06T00:00:00Z"
-status: ready
+status: closed
+closed_at: "2026-06-03"
 apply_url: "https://job-boards.greenhouse.io/lilasciences/jobs/4111818009"
 areas:
   - "AI safety & policy"
 ---
 
+> ⚠️ **CLOSED on 2026-06-03** — this job is no longer listed on the 80,000 Hours board. Archived snapshot below.
+
 # Research Scientist I / II, AI Safety, Biological / Physical Sciences
 
-**[Lila Sciences](https://www.lila.ai/)**
+**Lila Sciences**
 
-<dl class="job-meta">
-<dt>Location</dt><dd>London, UK, San Francisco Bay Area, Boston metro area, UK, USA</dd>
-<dt>Role type</dt><dd>Full-time</dd>
-<dt>Experience</dt><dd>Junior (1-4 years experience)</dd>
-<dt>Degree</dt><dd>Doctoral degree</dd>
-<dt>Salary</dt><dd>$176,000 – $304,000</dd>
-</dl>
-
-**Areas & skills:** AI safety & policy, Research
+**Areas & skills:** AI safety & policy
 
 ## Summary
 - In this role, you'll design and implement safety strategies for AI systems in biological and physical sciences, preparing for risks from scientific superintelligence.

@@ -4,24 +4,20 @@ employer: "MITRE"
 job_id: "rec7NtOIXAJmK4qrQ"
 last_updated: "2026-06-02T05:33:38.132669Z"
 posted_at: "2022-01-02T00:00:00Z"
-status: ready
+status: closed
+closed_at: "2026-06-03"
 apply_url: "https://careers.mitre.org/us/en/job/R115659/TECH-Futures-Intern"
 areas:
   - "Career development: Technical"
 ---
 
+> ⚠️ **CLOSED on 2026-06-03** — this job is no longer listed on the 80,000 Hours board. Archived snapshot below.
+
 # Intern, TECH Futures
 
-**[MITRE](https://www.mitre.org/)**
+**MITRE**
 
-<dl class="job-meta">
-<dt>Location</dt><dd>Washington, DC metro area, USA</dd>
-<dt>Role type</dt><dd>Internship</dd>
-<dt>Experience</dt><dd>Entry-level</dd>
-<dt>Degree</dt><dd>Undergraduate degree or less</dd>
-</dl>
-
-**Areas & skills:** Career development: Technical, Software engineering, Information security
+**Areas & skills:** Career development: Technical
 
 ## Summary
 - In this role, you'll work alongside engineers on emerging technologies like cybersecurity, AI, and microelectronics to solve critical government challenges.

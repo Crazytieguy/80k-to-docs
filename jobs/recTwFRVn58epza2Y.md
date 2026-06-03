@@ -2,7 +2,7 @@
 title: "Senior Researcher, New Areas"
 employer: "GiveWell"
 job_id: "recTwFRVn58epza2Y"
-last_updated: "2026-06-02T05:31:58.488599Z"
+last_updated: "2026-06-03T05:32:46.660036Z"
 posted_at: "2026-05-22T00:00:00Z"
 status: ready
 apply_url: "https://job-boards.greenhouse.io/givewell/jobs/5228753008"
@@ -34,4 +34,4 @@ areas:
 <p class="apply-cta"><a href="https://job-boards.greenhouse.io/givewell/jobs/5228753008">Apply →</a></p>
 
 ---
-*Posted 2026-05-22 · Listing synced 2026-06-02 · 80k job ID `recTwFRVn58epza2Y`*
+*Posted 2026-05-22 · Listing synced 2026-06-03 · 80k job ID `recTwFRVn58epza2Y`*

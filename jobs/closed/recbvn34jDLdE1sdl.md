@@ -4,24 +4,20 @@ employer: "Meat-Like"
 job_id: "recbvn34jDLdE1sdl"
 last_updated: "2026-06-02T05:33:50.133453Z"
 posted_at: "2022-01-01T00:00:00Z"
-status: ready
+status: closed
+closed_at: "2026-06-03"
 apply_url: "https://docs.google.com/document/d/1vHkPK8SMpmbGMoFIZs0E3VeYDj0ZHaE_RRP7pZ5n1KU/edit"
 areas:
   - "Animal welfare"
 ---
 
+> ⚠️ **CLOSED on 2026-06-03** — this job is no longer listed on the 80,000 Hours board. Archived snapshot below.
+
 # CEO
 
 **Meat-Like**
 
-<dl class="job-meta">
-<dt>Location</dt><dd>Remote, Global</dd>
-<dt>Role type</dt><dd>Full-time</dd>
-<dt>Experience</dt><dd>Mid (5-9 years experience), Senior (10+ years experience)</dd>
-<dt>Degree</dt><dd>Master's degree</dd>
-</dl>
-
-**Areas & skills:** Animal welfare, Outreach, Management, Strategy
+**Areas & skills:** Animal welfare
 
 ## Summary
 - Meat-Like is seeking a co-founder CEO to lead the alternative protein revolution through innovation.

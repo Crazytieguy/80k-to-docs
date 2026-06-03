@@ -1,8 +1,8 @@
 ---
-title: "Research Manager, Supervised Program for Alignment Research"
+title: "Research Manager, SPAR"
 employer: "Kairos"
 job_id: "recXohhKlIHQmJHtm"
-last_updated: "2026-06-02T05:31:46.107611Z"
+last_updated: "2026-06-03T05:32:32.873956Z"
 posted_at: "2026-05-29T00:03:00Z"
 status: ready
 apply_url: "https://jobs.ashbyhq.com/kairos-project/a4e67aac-ee97-46b7-9078-9822fef4683c"
@@ -10,7 +10,7 @@ areas:
   - "AI safety & policy"
 ---
 
-# Research Manager, Supervised Program for Alignment Research
+# Research Manager, SPAR
 
 **[Kairos](https://kairos-project.org/)**
 
@@ -34,4 +34,4 @@ areas:
 <p class="apply-cta"><a href="https://jobs.ashbyhq.com/kairos-project/a4e67aac-ee97-46b7-9078-9822fef4683c">Apply →</a></p>
 
 ---
-*Posted 2026-05-29 · Listing synced 2026-06-02 · 80k job ID `recXohhKlIHQmJHtm`*
+*Posted 2026-05-29 · Listing synced 2026-06-03 · 80k job ID `recXohhKlIHQmJHtm`*

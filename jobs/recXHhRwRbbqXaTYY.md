@@ -2,7 +2,7 @@
 title: "Data Engineer"
 employer: "Forecasting Research Institute"
 job_id: "recXHhRwRbbqXaTYY"
-last_updated: "2026-06-02T05:33:33.712171Z"
+last_updated: "2026-06-03T05:34:29.183772Z"
 posted_at: "2022-01-02T00:00:00Z"
 status: ready
 apply_url: "https://forecastingresearch.org/careers/data-engineer"
@@ -34,4 +34,4 @@ areas:
 <p class="apply-cta"><a href="https://forecastingresearch.org/careers/data-engineer">Apply →</a></p>
 
 ---
-*Posted 2022-01-02 · Listing synced 2026-06-02 · 80k job ID `recXHhRwRbbqXaTYY`*
+*Posted 2022-01-02 · Listing synced 2026-06-03 · 80k job ID `recXHhRwRbbqXaTYY`*

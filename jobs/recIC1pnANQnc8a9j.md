@@ -2,7 +2,7 @@
 title: "AI and Systems Lead / Director / Vice President"
 employer: "Consultants for Impact"
 job_id: "recIC1pnANQnc8a9j"
-last_updated: "2026-06-02T05:31:43.146060Z"
+last_updated: "2026-06-03T05:32:29.605627Z"
 posted_at: "2026-06-01T00:02:00Z"
 status: ready
 apply_url: "https://www.consultantsforimpact.org/job-postings/ai-systems-lead-director-vp"
@@ -34,4 +34,4 @@ areas:
 <p class="apply-cta"><a href="https://www.consultantsforimpact.org/job-postings/ai-systems-lead-director-vp">Apply →</a></p>
 
 ---
-*Posted 2026-06-01 · Listing synced 2026-06-02 · 80k job ID `recIC1pnANQnc8a9j`*
+*Posted 2026-06-01 · Listing synced 2026-06-03 · 80k job ID `recIC1pnANQnc8a9j`*

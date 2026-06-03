@@ -2,7 +2,7 @@
 title: "Suffering-Focused Ethics Course"
 employer: "Center for Reducing Suffering"
 job_id: "recVzuabAwGPo6w2w"
-last_updated: "2026-06-02T05:31:46.483265Z"
+last_updated: "2026-06-03T05:32:33.216892Z"
 posted_at: "2026-05-29T00:00:00Z"
 status: ready
 apply_url: "https://centerforreducingsuffering.org/sfe-course/"
@@ -32,4 +32,4 @@ areas:
 <p class="apply-cta"><a href="https://centerforreducingsuffering.org/sfe-course/">Apply →</a></p>
 
 ---
-*Posted 2026-05-29 · Listing synced 2026-06-02 · 80k job ID `recVzuabAwGPo6w2w`*
+*Posted 2026-05-29 · Listing synced 2026-06-03 · 80k job ID `recVzuabAwGPo6w2w`*

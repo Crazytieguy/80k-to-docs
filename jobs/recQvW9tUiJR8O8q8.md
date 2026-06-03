@@ -2,7 +2,7 @@
 title: "Career Accelerator Program"
 employer: "Horizon Institute for Public Service"
 job_id: "recQvW9tUiJR8O8q8"
-last_updated: "2026-06-02T05:31:49.567169Z"
+last_updated: "2026-06-03T05:32:37.193521Z"
 posted_at: "2026-05-27T00:04:51Z"
 status: ready
 apply_url: "https://horizonpublicservice.org/programs/career-accelerator/"
@@ -33,4 +33,4 @@ areas:
 <p class="apply-cta"><a href="https://horizonpublicservice.org/programs/career-accelerator/">Apply →</a></p>
 
 ---
-*Posted 2026-05-27 · Listing synced 2026-06-02 · 80k job ID `recQvW9tUiJR8O8q8`*
+*Posted 2026-05-27 · Listing synced 2026-06-03 · 80k job ID `recQvW9tUiJR8O8q8`*

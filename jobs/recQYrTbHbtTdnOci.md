@@ -2,7 +2,7 @@
 title: "Project Coordinator, Academic Graduate Appointee"
 employer: "Lawrence Livermore National Laboratory"
 job_id: "recQYrTbHbtTdnOci"
-last_updated: "2026-06-02T05:31:58.696204Z"
+last_updated: "2026-06-03T05:32:46.874515Z"
 posted_at: "2026-05-22T00:00:00Z"
 status: ready
 apply_url: "https://www.llnl.gov/join-our-team/careers/find-your-job/not-applicable_associate_entry-level_internship_globalsecurity_officeofthedirector/all/3743990013264506"
@@ -34,4 +34,4 @@ areas:
 <p class="apply-cta"><a href="https://www.llnl.gov/join-our-team/careers/find-your-job/not-applicable_associate_entry-level_internship_globalsecurity_officeofthedirector/all/3743990013264506">Apply →</a></p>
 
 ---
-*Posted 2026-05-22 · Listing synced 2026-06-02 · 80k job ID `recQYrTbHbtTdnOci`*
+*Posted 2026-05-22 · Listing synced 2026-06-03 · 80k job ID `recQYrTbHbtTdnOci`*

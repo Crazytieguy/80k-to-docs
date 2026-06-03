@@ -4,24 +4,20 @@ employer: "Coalition for Epidemic Preparedness Innovations"
 job_id: "rec5g550FX8lVRhUj"
 last_updated: "2026-06-02T05:32:02.055670Z"
 posted_at: "2026-05-20T00:01:00Z"
-status: ready
+status: closed
+closed_at: "2026-06-03"
 apply_url: "https://cepi.my.salesforce-sites.com/careers/xcdrecruit__PositionDetails?id=a43P300000EZFCFIA5"
 areas:
   - "Biosecurity & pandemic preparedness"
 ---
 
+> ⚠️ **CLOSED on 2026-06-03** — this job is no longer listed on the 80,000 Hours board. Archived snapshot below.
+
 # AI Architect, Research and Development
 
-**[Coalition for Epidemic Preparedness Innovations](https://cepi.net/)**
+**Coalition for Epidemic Preparedness Innovations**
 
-<dl class="job-meta">
-<dt>Location</dt><dd>London, UK, Washington, DC metro area, Oslo, Norway, UK, USA, Norway, Europe (ex UK)</dd>
-<dt>Role type</dt><dd>Full-time</dd>
-<dt>Experience</dt><dd>Junior (1-4 years experience)</dd>
-<dt>Degree</dt><dd>Doctoral degree</dd>
-</dl>
-
-**Areas & skills:** Biosecurity & pandemic preparedness, Software engineering
+**Areas & skills:** Biosecurity & pandemic preparedness
 
 ## Summary
 - In this role, you'll support technical architecture and engineering for CEPI's Pandemic Preparedness Engine (PPX).

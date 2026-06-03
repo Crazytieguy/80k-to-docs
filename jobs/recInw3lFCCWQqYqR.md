@@ -2,7 +2,7 @@
 title: "Research Fellow"
 employer: "National University of Singapore, Saw Swee Hock School of Public Health"
 job_id: "recInw3lFCCWQqYqR"
-last_updated: "2026-06-02T05:33:27.735464Z"
+last_updated: "2026-06-03T05:34:22.755432Z"
 posted_at: "2022-01-04T00:00:00Z"
 status: ready
 apply_url: "https://careers.nus.edu.sg/job/Research-Fellow-%28NUS-Advance-ID%29/29117-en_GB/"
@@ -34,4 +34,4 @@ areas:
 <p class="apply-cta"><a href="https://careers.nus.edu.sg/job/Research-Fellow-%28NUS-Advance-ID%29/29117-en_GB/">Apply →</a></p>
 
 ---
-*Posted 2022-01-04 · Listing synced 2026-06-02 · 80k job ID `recInw3lFCCWQqYqR`*
+*Posted 2022-01-04 · Listing synced 2026-06-03 · 80k job ID `recInw3lFCCWQqYqR`*
