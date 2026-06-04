@@ -2,7 +2,7 @@
 title: "Researcher, Worldview Investigations"
 employer: "Rethink Priorities"
 job_id: "recu4dxkTIk17qLe3"
-last_updated: "2026-06-03T05:32:42.749114Z"
+last_updated: "2026-06-04T05:33:11.011190Z"
 posted_at: "2026-05-25T00:03:00Z"
 status: ready
 apply_url: "https://careers.rethinkpriorities.org/en/postings/698c3c3b-717c-47a5-94fe-cd37ccaa1f34"
@@ -34,4 +34,4 @@ areas:
 <p class="apply-cta"><a href="https://careers.rethinkpriorities.org/en/postings/698c3c3b-717c-47a5-94fe-cd37ccaa1f34">Apply →</a></p>
 
 ---
-*Posted 2026-05-25 · Listing synced 2026-06-03 · 80k job ID `recu4dxkTIk17qLe3`*
+*Posted 2026-05-25 · Listing synced 2026-06-04 · 80k job ID `recu4dxkTIk17qLe3`*

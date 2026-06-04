@@ -2,7 +2,7 @@
 title: "Senior Nuclear Nonproliferation Specialist"
 employer: "Lawrence Livermore National Laboratory"
 job_id: "recr1Njrd9OrvOP8Q"
-last_updated: "2026-06-03T05:32:30.964779Z"
+last_updated: "2026-06-04T05:33:00.649812Z"
 posted_at: "2026-06-01T00:00:00Z"
 status: ready
 apply_url: "https://jobs.smartrecruiters.com/LLNL/3743990013297846-senior-nuclear-nonproliferation-specialist?trid=2d92f286-613b-4daf-9dfa-6340ffbecf73"
@@ -34,4 +34,4 @@ areas:
 <p class="apply-cta"><a href="https://jobs.smartrecruiters.com/LLNL/3743990013297846-senior-nuclear-nonproliferation-specialist?trid=2d92f286-613b-4daf-9dfa-6340ffbecf73">Apply →</a></p>
 
 ---
-*Posted 2026-06-01 · Listing synced 2026-06-03 · 80k job ID `recr1Njrd9OrvOP8Q`*
+*Posted 2026-06-01 · Listing synced 2026-06-04 · 80k job ID `recr1Njrd9OrvOP8Q`*

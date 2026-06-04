@@ -2,7 +2,7 @@
 title: "Tax Expert"
 employer: "Effectief Geven"
 job_id: "recCDyVtZaNCYpmE4"
-last_updated: "2026-06-03T05:34:28.008507Z"
+last_updated: "2026-06-04T05:34:41.903474Z"
 posted_at: "2022-01-02T00:00:00Z"
 status: ready
 apply_url: "https://www.effectiefgeven.be/vacatures/jurist-fiscalist"
@@ -15,7 +15,7 @@ areas:
 **[Effectief Geven](https://www.effectiefgeven.be/)**
 
 <dl class="job-meta">
-<dt>Location</dt><dd>Remote, Belgium, Europe (ex UK), Belgium</dd>
+<dt>Location</dt><dd>Remote, Belgium, Belgium, Europe (ex UK)</dd>
 <dt>Role type</dt><dd>Volunteering</dd>
 <dt>Experience</dt><dd>Junior (1-4 years experience)</dd>
 <dt>Degree</dt><dd>Undergraduate degree or less</dd>
@@ -34,4 +34,4 @@ areas:
 <p class="apply-cta"><a href="https://www.effectiefgeven.be/vacatures/jurist-fiscalist">Apply →</a></p>
 
 ---
-*Posted 2022-01-02 · Listing synced 2026-06-03 · 80k job ID `recCDyVtZaNCYpmE4`*
+*Posted 2022-01-02 · Listing synced 2026-06-04 · 80k job ID `recCDyVtZaNCYpmE4`*

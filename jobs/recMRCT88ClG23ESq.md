@@ -2,7 +2,7 @@
 title: "Summer School, Human-Aligned AI"
 employer: "Alignment of Complex Systems Research"
 job_id: "recMRCT88ClG23ESq"
-last_updated: "2026-06-03T05:32:26.635301Z"
+last_updated: "2026-06-04T05:32:56.865523Z"
 posted_at: "2026-06-02T00:00:00Z"
 status: ready
 apply_url: "https://humanaligned.ai/2026/"
@@ -31,4 +31,4 @@ areas:
 <p class="apply-cta"><a href="https://humanaligned.ai/2026/">Apply →</a></p>
 
 ---
-*Posted 2026-06-02 · Listing synced 2026-06-03 · 80k job ID `recMRCT88ClG23ESq`*
+*Posted 2026-06-02 · Listing synced 2026-06-04 · 80k job ID `recMRCT88ClG23ESq`*

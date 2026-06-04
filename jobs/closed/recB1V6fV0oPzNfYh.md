@@ -4,24 +4,20 @@ employer: "Technical University of Darmstadt, Science and Technology for Peace a
 job_id: "recB1V6fV0oPzNfYh"
 last_updated: "2026-06-03T05:33:03.002975Z"
 posted_at: "2026-05-13T00:00:00Z"
-status: ready
+status: closed
+closed_at: "2026-06-04"
 apply_url: "https://peasec.de/2026/peasec-stellenangebot-studentischer-mitarbeiterin-im-themenbereich-kritische-infrastrukturen-m-w-d-peasec-job-opening-student-assistant-in-the-field-of-critical-infrastructures-m-f-d/"
 areas:
   - "Career development: Policy & government"
 ---
 
+> ⚠️ **CLOSED on 2026-06-04** — this job is no longer listed on the 80,000 Hours board. Archived snapshot below.
+
 # Student Assistant, Critical Infrastructures
 
-**[Technical University of Darmstadt, Science and Technology for Peace and Security](https://peasec.de/)**
+**Technical University of Darmstadt, Science and Technology for Peace and Security**
 
-<dl class="job-meta">
-<dt>Location</dt><dd>Darmstadt, Germany, Germany, Europe (ex UK)</dd>
-<dt>Role type</dt><dd>Part-time</dd>
-<dt>Experience</dt><dd>Entry-level</dd>
-<dt>Degree</dt><dd>Undergraduate degree or less</dd>
-</dl>
-
-**Areas & skills:** Career development: Policy & government, Research, Policy
+**Areas & skills:** Career development: Policy & government
 
 ## Summary
 - In this role, you'll support critical infrastructure research and security studies within the PEASEC research group's SecFOCI project.

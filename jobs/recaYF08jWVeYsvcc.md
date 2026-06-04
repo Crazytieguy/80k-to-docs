@@ -2,7 +2,7 @@
 title: "Assistant Staff, Computational Biologist, Counter Weapons of Mass Destruction"
 employer: "Massachusetts Institute of Technology, Lincoln Laboratory"
 job_id: "recaYF08jWVeYsvcc"
-last_updated: "2026-06-03T05:32:53.906010Z"
+last_updated: "2026-06-04T05:33:21.061133Z"
 posted_at: "2026-05-19T00:00:00Z"
 status: ready
 apply_url: "https://careers.ll.mit.edu/job/Lexington-Computational-Biologist-MA-02420/1389116600/"
@@ -34,4 +34,4 @@ areas:
 <p class="apply-cta"><a href="https://careers.ll.mit.edu/job/Lexington-Computational-Biologist-MA-02420/1389116600/">Apply →</a></p>
 
 ---
-*Posted 2026-05-19 · Listing synced 2026-06-03 · 80k job ID `recaYF08jWVeYsvcc`*
+*Posted 2026-05-19 · Listing synced 2026-06-04 · 80k job ID `recaYF08jWVeYsvcc`*

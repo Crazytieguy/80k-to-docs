@@ -2,7 +2,7 @@
 title: "Senior Policy and Research Manager"
 employer: "Malaria No More"
 job_id: "rec91SZYoMlzXb4XR"
-last_updated: "2026-06-03T05:32:47.028222Z"
+last_updated: "2026-06-04T05:33:14.846853Z"
 posted_at: "2026-05-22T00:00:00Z"
 status: ready
 apply_url: "https://malarianomore.org.uk/sites/default/files/job_description_senior_policy_and_research_manager_1__2026_05_20_11_58_28_am.pdf"
@@ -19,7 +19,7 @@ areas:
 <dt>Role type</dt><dd>Full-time</dd>
 <dt>Experience</dt><dd>Mid (5-9 years experience)</dd>
 <dt>Degree</dt><dd>Undergraduate degree or less</dd>
-<dt>Salary</dt><dd>$68,626 – $76,699</dd>
+<dt>Salary</dt><dd>$68,455 – $76,509</dd>
 </dl>
 
 **Areas & skills:** Global health & development, Research, Policy
@@ -33,4 +33,4 @@ areas:
 <p class="apply-cta"><a href="https://malarianomore.org.uk/sites/default/files/job_description_senior_policy_and_research_manager_1__2026_05_20_11_58_28_am.pdf">Apply →</a></p>
 
 ---
-*Posted 2026-05-22 · Listing synced 2026-06-03 · 80k job ID `rec91SZYoMlzXb4XR`*
+*Posted 2026-05-22 · Listing synced 2026-06-04 · 80k job ID `rec91SZYoMlzXb4XR`*

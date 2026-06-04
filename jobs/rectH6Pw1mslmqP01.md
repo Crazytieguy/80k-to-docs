@@ -2,7 +2,7 @@
 title: "Monitoring and Evaluation Coordinator"
 employer: "Ansh"
 job_id: "rectH6Pw1mslmqP01"
-last_updated: "2026-06-03T05:34:25.889109Z"
+last_updated: "2026-06-04T05:34:39.903456Z"
 posted_at: "2022-01-02T00:00:00Z"
 status: ready
 apply_url: "https://www.ansh.health/monitoring-and-evaluation-coordinator"
@@ -15,11 +15,11 @@ areas:
 **[Ansh](https://www.ansh.health/)**
 
 <dl class="job-meta">
-<dt>Location</dt><dd>Banswara, India, Pratapgarh, India, Asia, India</dd>
+<dt>Location</dt><dd>Banswara, India, Pratapgarh, India, India, Asia</dd>
 <dt>Role type</dt><dd>Full-time</dd>
 <dt>Experience</dt><dd>Junior (1-4 years experience)</dd>
 <dt>Degree</dt><dd>Undergraduate degree or less</dd>
-<dt>Salary</dt><dd>$6,264</dd>
+<dt>Salary</dt><dd>$6,272</dd>
 </dl>
 
 **Areas & skills:** Global health & development, Operations
@@ -34,4 +34,4 @@ areas:
 <p class="apply-cta"><a href="https://www.ansh.health/monitoring-and-evaluation-coordinator">Apply →</a></p>
 
 ---
-*Posted 2022-01-02 · Listing synced 2026-06-03 · 80k job ID `rectH6Pw1mslmqP01`*
+*Posted 2022-01-02 · Listing synced 2026-06-04 · 80k job ID `rectH6Pw1mslmqP01`*

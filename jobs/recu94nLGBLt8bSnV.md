@@ -2,7 +2,7 @@
 title: "Research Scientist, Safety Alignment"
 employer: "Meta"
 job_id: "recu94nLGBLt8bSnV"
-last_updated: "2026-06-03T05:32:33.713966Z"
+last_updated: "2026-06-04T05:33:03.034856Z"
 posted_at: "2026-05-29T00:00:00Z"
 status: ready
 apply_url: "https://www.metacareers.com/profile/job_details/2864638960409054"
@@ -34,4 +34,4 @@ areas:
 <p class="apply-cta"><a href="https://www.metacareers.com/profile/job_details/2864638960409054">Apply →</a></p>
 
 ---
-*Posted 2026-05-29 · Listing synced 2026-06-03 · 80k job ID `recu94nLGBLt8bSnV`*
+*Posted 2026-05-29 · Listing synced 2026-06-04 · 80k job ID `recu94nLGBLt8bSnV`*

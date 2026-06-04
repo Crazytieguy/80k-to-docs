@@ -2,7 +2,7 @@
 title: "Internship, Transatlantic Defence and Security (Fall 2026)"
 employer: "Center for European Policy Analysis"
 job_id: "reclmkyIZZXGTm3nl"
-last_updated: "2026-06-03T05:32:55.325586Z"
+last_updated: "2026-06-04T05:33:22.057309Z"
 posted_at: "2026-05-18T00:00:00Z"
 status: ready
 apply_url: "https://apply.appone.com/job/6a034d30993f3a3fd106b8e6"
@@ -32,4 +32,4 @@ areas:
 <p class="apply-cta"><a href="https://apply.appone.com/job/6a034d30993f3a3fd106b8e6">Apply →</a></p>
 
 ---
-*Posted 2026-05-18 · Listing synced 2026-06-03 · 80k job ID `reclmkyIZZXGTm3nl`*
+*Posted 2026-05-18 · Listing synced 2026-06-04 · 80k job ID `reclmkyIZZXGTm3nl`*

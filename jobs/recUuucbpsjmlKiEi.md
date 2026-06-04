@@ -2,7 +2,7 @@
 title: "Senior Security Engineer, Agentic AI"
 employer: "Trail of Bits"
 job_id: "recUuucbpsjmlKiEi"
-last_updated: "2026-06-03T05:33:31.467712Z"
+last_updated: "2026-06-04T05:33:54.237296Z"
 posted_at: "2026-03-27T00:00:00Z"
 status: ready
 apply_url: "https://apply.workable.com/j/81C6C95E4E"
@@ -33,4 +33,4 @@ areas:
 <p class="apply-cta"><a href="https://apply.workable.com/j/81C6C95E4E">Apply →</a></p>
 
 ---
-*Posted 2026-03-27 · Listing synced 2026-06-03 · 80k job ID `recUuucbpsjmlKiEi`*
+*Posted 2026-03-27 · Listing synced 2026-06-04 · 80k job ID `recUuucbpsjmlKiEi`*

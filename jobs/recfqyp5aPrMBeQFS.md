@@ -2,7 +2,7 @@
 title: "AI Safety Lab Lead, Responsible Compute Oversight"
 employer: "Canadian Government, National Research Council Canada"
 job_id: "recfqyp5aPrMBeQFS"
-last_updated: "2026-06-03T05:32:26.117359Z"
+last_updated: "2026-06-04T05:32:56.405158Z"
 posted_at: "2026-06-02T00:03:00Z"
 status: ready
 apply_url: "https://www.linkedin.com/jobs/view/4418436620/"
@@ -34,4 +34,4 @@ areas:
 <p class="apply-cta"><a href="https://www.linkedin.com/jobs/view/4418436620/">Apply →</a></p>
 
 ---
-*Posted 2026-06-02 · Listing synced 2026-06-03 · 80k job ID `recfqyp5aPrMBeQFS`*
+*Posted 2026-06-02 · Listing synced 2026-06-04 · 80k job ID `recfqyp5aPrMBeQFS`*

@@ -2,7 +2,7 @@
 title: "Co-op, Cyber System Assessments, Malware"
 employer: "Massachusetts Institute of Technology, Lincoln Laboratory"
 job_id: "rec4O05OFEjOD11em"
-last_updated: "2026-06-03T05:34:33.439956Z"
+last_updated: "2026-06-04T05:34:47.720916Z"
 posted_at: "2022-01-02T00:00:00Z"
 status: ready
 apply_url: "https://careers.ll.mit.edu/job/Lexington-Group-05-59-CO-OP-%28RE%29-Cyber-System-Assessments-July-December-2026-MA-02420/1361577000/"
@@ -34,4 +34,4 @@ areas:
 <p class="apply-cta"><a href="https://careers.ll.mit.edu/job/Lexington-Group-05-59-CO-OP-%28RE%29-Cyber-System-Assessments-July-December-2026-MA-02420/1361577000/">Apply →</a></p>
 
 ---
-*Posted 2022-01-02 · Listing synced 2026-06-03 · 80k job ID `rec4O05OFEjOD11em`*
+*Posted 2022-01-02 · Listing synced 2026-06-04 · 80k job ID `rec4O05OFEjOD11em`*

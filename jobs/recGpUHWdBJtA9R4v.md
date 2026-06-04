@@ -2,7 +2,7 @@
 title: "Fellow / Associate Fellow, Economics Program and Scholl Chair in International Business"
 employer: "Center for Strategic and International Studies"
 job_id: "recGpUHWdBJtA9R4v"
-last_updated: "2026-06-03T05:33:34.544079Z"
+last_updated: "2026-06-04T05:33:57.033817Z"
 posted_at: "2026-03-17T00:00:00Z"
 status: ready
 apply_url: "https://careers.csis.org/opportunities/1753"
@@ -34,4 +34,4 @@ areas:
 <p class="apply-cta"><a href="https://careers.csis.org/opportunities/1753">Apply →</a></p>
 
 ---
-*Posted 2026-03-17 · Listing synced 2026-06-03 · 80k job ID `recGpUHWdBJtA9R4v`*
+*Posted 2026-03-17 · Listing synced 2026-06-04 · 80k job ID `recGpUHWdBJtA9R4v`*

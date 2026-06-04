@@ -2,7 +2,7 @@
 title: "Digital Video and Engagement Manager"
 employer: "Humans in Control"
 job_id: "recuCIT4o3iXthAkw"
-last_updated: "2026-06-03T05:33:04.788584Z"
+last_updated: "2026-06-04T05:33:29.363134Z"
 posted_at: "2026-05-11T00:02:00Z"
 status: ready
 apply_url: "https://humansincontrol.org/careers/digital-engagement-manager"
@@ -34,4 +34,4 @@ areas:
 <p class="apply-cta"><a href="https://humansincontrol.org/careers/digital-engagement-manager">Apply →</a></p>
 
 ---
-*Posted 2026-05-11 · Listing synced 2026-06-03 · 80k job ID `recuCIT4o3iXthAkw`*
+*Posted 2026-05-11 · Listing synced 2026-06-04 · 80k job ID `recuCIT4o3iXthAkw`*

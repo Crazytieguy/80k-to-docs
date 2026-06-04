@@ -2,7 +2,7 @@
 title: "General Engineer, Machine Learning Systems"
 employer: "US Government, Bureau of Industry and Security"
 job_id: "recUONNsEqAwAxioN"
-last_updated: "2026-06-03T05:32:44.003236Z"
+last_updated: "2026-06-04T05:33:12.071785Z"
 posted_at: "2026-05-25T00:01:00Z"
 status: ready
 apply_url: "https://www.usajobs.gov/job/870487200"
@@ -34,4 +34,4 @@ areas:
 <p class="apply-cta"><a href="https://www.usajobs.gov/job/870487200">Apply →</a></p>
 
 ---
-*Posted 2026-05-25 · Listing synced 2026-06-03 · 80k job ID `recUONNsEqAwAxioN`*
+*Posted 2026-05-25 · Listing synced 2026-06-04 · 80k job ID `recUONNsEqAwAxioN`*

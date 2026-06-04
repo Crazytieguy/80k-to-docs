@@ -2,7 +2,7 @@
 title: "MATS Programme (Autumn 2026)"
 employer: "MATS Research"
 job_id: "recDmd46ZPgWvW3Vw"
-last_updated: "2026-06-03T05:32:56.874703Z"
+last_updated: "2026-06-04T05:33:22.804193Z"
 posted_at: "2026-05-15T00:05:00Z"
 status: ready
 apply_url: "https://www.matsprogram.org/apply"
@@ -33,4 +33,4 @@ areas:
 <p class="apply-cta"><a href="https://www.matsprogram.org/apply">Apply →</a></p>
 
 ---
-*Posted 2026-05-15 · Listing synced 2026-06-03 · 80k job ID `recDmd46ZPgWvW3Vw`*
+*Posted 2026-05-15 · Listing synced 2026-06-04 · 80k job ID `recDmd46ZPgWvW3Vw`*

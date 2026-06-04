@@ -2,7 +2,7 @@
 title: "Communications Lead, Research Translation"
 employer: "Center for AI Safety"
 job_id: "recrxS4usi2u1pvSc"
-last_updated: "2026-06-03T05:33:37.667131Z"
+last_updated: "2026-06-04T05:33:59.312252Z"
 posted_at: "2022-01-12T00:00:00Z"
 status: ready
 apply_url: "https://jobs.lever.co/aisafety/a495b93a-07be-446e-a221-0694bf7d5ae3"
@@ -34,4 +34,4 @@ areas:
 <p class="apply-cta"><a href="https://jobs.lever.co/aisafety/a495b93a-07be-446e-a221-0694bf7d5ae3">Apply →</a></p>
 
 ---
-*Posted 2022-01-12 · Listing synced 2026-06-03 · 80k job ID `recrxS4usi2u1pvSc`*
+*Posted 2022-01-12 · Listing synced 2026-06-04 · 80k job ID `recrxS4usi2u1pvSc`*

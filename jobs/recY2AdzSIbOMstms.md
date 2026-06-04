@@ -2,7 +2,7 @@
 title: "Data Analyst / Senior Data Analyst"
 employer: "Forecasting Research Institute"
 job_id: "recY2AdzSIbOMstms"
-last_updated: "2026-06-03T05:33:09.533203Z"
+last_updated: "2026-06-04T05:33:33.728472Z"
 posted_at: "2026-05-06T00:00:00Z"
 status: ready
 apply_url: "https://forecastingresearch.org/careers/data-analyst"
@@ -34,4 +34,4 @@ areas:
 <p class="apply-cta"><a href="https://forecastingresearch.org/careers/data-analyst">Apply →</a></p>
 
 ---
-*Posted 2026-05-06 · Listing synced 2026-06-03 · 80k job ID `recY2AdzSIbOMstms`*
+*Posted 2026-05-06 · Listing synced 2026-06-04 · 80k job ID `recY2AdzSIbOMstms`*

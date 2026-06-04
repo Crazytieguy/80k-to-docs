@@ -2,7 +2,7 @@
 title: "Co-Director"
 employer: "Rethink Wellbeing"
 job_id: "reckEFWvTVEHrC8jk"
-last_updated: "2026-06-03T05:34:45.484112Z"
+last_updated: "2026-06-04T05:34:59.392984Z"
 posted_at: "2022-01-01T00:00:00Z"
 status: ready
 apply_url: "https://forms.gle/pVbR2oX6oQemkwvn6"
@@ -33,4 +33,4 @@ areas:
 <p class="apply-cta"><a href="https://forms.gle/pVbR2oX6oQemkwvn6">Apply →</a></p>
 
 ---
-*Posted 2022-01-01 · Listing synced 2026-06-03 · 80k job ID `reckEFWvTVEHrC8jk`*
+*Posted 2022-01-01 · Listing synced 2026-06-04 · 80k job ID `reckEFWvTVEHrC8jk`*

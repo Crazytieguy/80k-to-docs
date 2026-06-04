@@ -4,24 +4,20 @@ employer: "Effective Thesis"
 job_id: "recsQkLsJtJ82aznt"
 last_updated: "2026-06-03T05:33:00.378340Z"
 posted_at: "2026-05-14T00:00:00Z"
-status: ready
+status: closed
+closed_at: "2026-06-04"
 apply_url: "https://www.effectivethesis.org/key-services/effective-thesis-fellowship"
 areas:
   - "Building effective altruism"
 ---
 
+> ⚠️ **CLOSED on 2026-06-04** — this job is no longer listed on the 80,000 Hours board. Archived snapshot below.
+
 # Fellowship
 
-**[Effective Thesis](https://effectivethesis.org/)**
+**Effective Thesis**
 
-<dl class="job-meta">
-<dt>Location</dt><dd>Remote, Global</dd>
-<dt>Role type</dt><dd>Fellowship</dd>
-<dt>Experience</dt><dd>Entry-level</dd>
-<dt>Degree</dt><dd>Undergraduate degree or less</dd>
-</dl>
-
-**Areas & skills:** Building effective altruism, Research
+**Areas & skills:** Building effective altruism
 
 ## Summary
 - In this fellowship, you'll undertake a research project with high-impact organisations while completing your thesis or independent project.

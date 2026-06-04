@@ -2,7 +2,7 @@
 title: "Senior ML Engineer"
 employer: "Lakera AI"
 job_id: "recXUy93i1cLLqmro"
-last_updated: "2026-06-03T05:34:18.946553Z"
+last_updated: "2026-06-04T05:34:32.970495Z"
 posted_at: "2022-01-05T00:00:00Z"
 status: ready
 apply_url: "https://www.lakera.ai/careers?ashby_jid=158d9a05-bc1d-49fd-81f1-bf1229e8021f"
@@ -15,7 +15,7 @@ areas:
 **[Lakera AI](https://www.lakera.ai/)**
 
 <dl class="job-meta">
-<dt>Location</dt><dd>Zurich, Switzerland, Europe (ex UK), Switzerland</dd>
+<dt>Location</dt><dd>Zurich, Switzerland, Switzerland, Europe (ex UK)</dd>
 <dt>Role type</dt><dd>Full-time</dd>
 <dt>Experience</dt><dd>Mid (5-9 years experience)</dd>
 <dt>Degree</dt><dd>Undergraduate degree or less</dd>
@@ -33,4 +33,4 @@ areas:
 <p class="apply-cta"><a href="https://www.lakera.ai/careers?ashby_jid=158d9a05-bc1d-49fd-81f1-bf1229e8021f">Apply →</a></p>
 
 ---
-*Posted 2022-01-05 · Listing synced 2026-06-03 · 80k job ID `recXUy93i1cLLqmro`*
+*Posted 2022-01-05 · Listing synced 2026-06-04 · 80k job ID `recXUy93i1cLLqmro`*

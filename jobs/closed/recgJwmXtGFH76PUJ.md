@@ -4,26 +4,21 @@ employer: "Oxford University, Nuffield Department of Population Health"
 job_id: "recgJwmXtGFH76PUJ"
 last_updated: "2026-06-03T05:33:01.209299Z"
 posted_at: "2026-05-14T00:00:00Z"
-status: ready
+status: closed
+closed_at: "2026-06-04"
 apply_url: "https://my.corehr.com/pls/uoxrecruit/erq_jobspec_version_4.display_form?p_refresh_search=Y&p_recruitment_id=186416&p_form_profile_detail=&p_display_apply_ind=Y&p_process_type=&p_applicant_no=&p_company=10&p_internal_external=E&p_display_in_irish=N"
 areas:
   - "Biosecurity & pandemic preparedness"
   - "Global health & development"
 ---
 
+> ⚠️ **CLOSED on 2026-06-04** — this job is no longer listed on the 80,000 Hours board. Archived snapshot below.
+
 # Senior Programme Manager, Africa Pandemic Sciences Collaborative
 
-**[Oxford University, Nuffield Department of Population Health](https://www.ndph.ox.ac.uk/)**
+**Oxford University, Nuffield Department of Population Health**
 
-<dl class="job-meta">
-<dt>Location</dt><dd>Oxford, UK, UK</dd>
-<dt>Role type</dt><dd>Full-time</dd>
-<dt>Experience</dt><dd>Senior (10+ years experience)</dd>
-<dt>Degree</dt><dd>Undergraduate degree or less</dd>
-<dt>Salary</dt><dd>$76,192 – $95,831</dd>
-</dl>
-
-**Areas & skills:** Biosecurity & pandemic preparedness, Global health & development, Management, Strategy
+**Areas & skills:** Biosecurity & pandemic preparedness, Global health & development
 
 ## Summary
 - In this role, you'll lead the Africa Pandemic Sciences Collaborative, a $72+ million partnership strengthening pandemic sciences across Africa.

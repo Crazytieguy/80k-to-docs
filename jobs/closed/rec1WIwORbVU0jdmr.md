@@ -4,25 +4,20 @@ employer: "RAND Corporation"
 job_id: "rec1WIwORbVU0jdmr"
 last_updated: "2026-06-03T05:32:48.227396Z"
 posted_at: "2026-05-21T00:04:07Z"
-status: ready
+status: closed
+closed_at: "2026-06-04"
 apply_url: "https://rand.wd5.myworkdayjobs.com/en-US/External_Career_Site/job/Washington-DC-DC-Metro-Area/Associate-AI-Security-Resident_R3537"
 areas:
   - "AI safety & policy"
 ---
 
+> ⚠️ **CLOSED on 2026-06-04** — this job is no longer listed on the 80,000 Hours board. Archived snapshot below.
+
 # Associate, AI Security Resident
 
-**[RAND Corporation](https://www.rand.org)**
+**RAND Corporation**
 
-<dl class="job-meta">
-<dt>Location</dt><dd>Remote, USA, Various, USA, USA, USA (Confirmed Visas)</dd>
-<dt>Role type</dt><dd>Full-time</dd>
-<dt>Experience</dt><dd>Junior (1-4 years experience), Entry-level</dd>
-<dt>Degree</dt><dd>Undergraduate degree or less</dd>
-<dt>Salary</dt><dd>$90,400 – $176,500</dd>
-</dl>
-
-**Areas & skills:** AI safety & policy, Research, Policy, Software engineering
+**Areas & skills:** AI safety & policy
 
 ## Summary
 - In this role, you'll lead complex projects on AI security spanning technical research, policy analysis, and infrastructure development.

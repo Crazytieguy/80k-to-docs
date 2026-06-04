@@ -2,22 +2,27 @@
 title: "Frontier Biodefense Fellowship"
 employer: "Pivotal Research"
 job_id: "reclZPVNcjLadROJP"
-last_updated: "2026-06-02T05:32:04.879482Z"
+last_updated: "2026-06-04T05:33:20.030503Z"
 posted_at: "2026-05-19T00:04:00Z"
-status: closed
-closed_at: "2026-06-03"
+status: ready
 apply_url: "https://www.pivotal-research.org/fbf"
 areas:
   - "Biosecurity & pandemic preparedness"
 ---
 
-> ⚠️ **CLOSED on 2026-06-03** — this job is no longer listed on the 80,000 Hours board. Archived snapshot below.
-
 # Frontier Biodefense Fellowship
 
-**Pivotal Research**
+**[Pivotal Research](https://www.pivotal-research.org/)**
 
-**Areas & skills:** Biosecurity & pandemic preparedness
+<dl class="job-meta">
+<dt>Location</dt><dd>London, UK, UK</dd>
+<dt>Role type</dt><dd>Fellowship</dd>
+<dt>Experience</dt><dd>Junior (1-4 years experience), Entry-level</dd>
+<dt>Degree</dt><dd>Undergraduate degree or less</dd>
+<dt>Salary</dt><dd>$8,054 – $10,738</dd>
+</dl>
+
+**Areas & skills:** Biosecurity & pandemic preparedness, Research, Policy
 
 ## Summary
 - In this fellowship, you'll spend 9 weeks in London working on high-impact biodefense projects with expert mentorship.
@@ -29,4 +34,4 @@ areas:
 <p class="apply-cta"><a href="https://www.pivotal-research.org/fbf">Apply →</a></p>
 
 ---
-*Posted 2026-05-19 · Listing synced 2026-06-02 · 80k job ID `reclZPVNcjLadROJP`*
+*Posted 2026-05-19 · Listing synced 2026-06-04 · 80k job ID `reclZPVNcjLadROJP`*

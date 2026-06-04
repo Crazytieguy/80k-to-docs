@@ -2,22 +2,27 @@
 title: "Advisor"
 employer: "80,000 Hours"
 job_id: "reclC02RZUCp4S6rZ"
-last_updated: "2026-06-02T05:32:19.262998Z"
+last_updated: "2026-06-04T05:33:32.750635Z"
 posted_at: "2026-05-06T00:03:00Z"
-status: closed
-closed_at: "2026-06-03"
+status: ready
 apply_url: "https://80000hours.org/2026/05/open-position-advisor-2/"
 areas:
   - "AI safety & policy"
 ---
 
-> ⚠️ **CLOSED on 2026-06-03** — this job is no longer listed on the 80,000 Hours board. Archived snapshot below.
-
 # Advisor
 
-**80,000 Hours**
+**[80,000 Hours](https://80000hours.org/)**
 
-**Areas & skills:** AI safety & policy
+<dl class="job-meta">
+<dt>Location</dt><dd>London, UK, Washington, DC metro area, San Francisco Bay Area, UK, USA, USA (Confirmed Visas), UK (Confirmed Visas)</dd>
+<dt>Role type</dt><dd>Full-time</dd>
+<dt>Experience</dt><dd>Multiple experience levels</dd>
+<dt>Degree</dt><dd>Undergraduate degree or less</dd>
+<dt>Salary</dt><dd>$120,803 – $167,782</dd>
+</dl>
+
+**Areas & skills:** AI safety & policy, Other
 
 ## Summary
 - In this role, you'll conduct 10-12 weekly advising conversations with talented people working on high-impact problems, helping them develop clearer thinking about their career impact.
@@ -29,4 +34,4 @@ areas:
 <p class="apply-cta"><a href="https://80000hours.org/2026/05/open-position-advisor-2/">Apply →</a></p>
 
 ---
-*Posted 2026-05-06 · Listing synced 2026-06-02 · 80k job ID `reclC02RZUCp4S6rZ`*
+*Posted 2026-05-06 · Listing synced 2026-06-04 · 80k job ID `reclC02RZUCp4S6rZ`*

@@ -2,7 +2,7 @@
 title: "Intern, Research and Public Policy, Colombia (x2)"
 employer: "Innovations for Poverty Action"
 job_id: "recR6qsTIMW9O83GB"
-last_updated: "2026-06-03T05:32:35.659036Z"
+last_updated: "2026-06-04T05:33:04.789289Z"
 posted_at: "2026-05-28T00:00:00Z"
 status: ready
 apply_url: "https://poverty-action.org/practicante-en-colombia-2-posiciones-investigacion-y-politicas-publicas"
@@ -33,4 +33,4 @@ areas:
 <p class="apply-cta"><a href="https://poverty-action.org/practicante-en-colombia-2-posiciones-investigacion-y-politicas-publicas">Apply →</a></p>
 
 ---
-*Posted 2026-05-28 · Listing synced 2026-06-03 · 80k job ID `recR6qsTIMW9O83GB`*
+*Posted 2026-05-28 · Listing synced 2026-06-04 · 80k job ID `recR6qsTIMW9O83GB`*

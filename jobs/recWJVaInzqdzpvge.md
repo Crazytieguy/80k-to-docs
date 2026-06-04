@@ -2,7 +2,7 @@
 title: "Security Analyst, Detection and Response"
 employer: "xAI"
 job_id: "recWJVaInzqdzpvge"
-last_updated: "2026-06-03T05:34:10.570588Z"
+last_updated: "2026-06-04T05:34:25.915968Z"
 posted_at: "2022-01-06T00:00:00Z"
 status: ready
 apply_url: "https://job-boards.greenhouse.io/xai/jobs/5008186007?gh_src=xxeoh22m7us"
@@ -34,4 +34,4 @@ areas:
 <p class="apply-cta"><a href="https://job-boards.greenhouse.io/xai/jobs/5008186007?gh_src=xxeoh22m7us">Apply →</a></p>
 
 ---
-*Posted 2022-01-06 · Listing synced 2026-06-03 · 80k job ID `recWJVaInzqdzpvge`*
+*Posted 2022-01-06 · Listing synced 2026-06-04 · 80k job ID `recWJVaInzqdzpvge`*
