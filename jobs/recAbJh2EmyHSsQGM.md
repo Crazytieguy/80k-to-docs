@@ -2,7 +2,7 @@
 title: "Narrative Strategist"
 employer: "Center for AI Safety"
 job_id: "recAbJh2EmyHSsQGM"
-last_updated: "2026-06-04T05:34:04.759264Z"
+last_updated: "2026-06-05T05:33:08.283187Z"
 posted_at: "2022-01-11T00:00:00Z"
 status: ready
 apply_url: "https://jobs.lever.co/aisafety/3565b238-51fe-4023-b34d-dec6f3699f7f"
@@ -34,4 +34,4 @@ areas:
 <p class="apply-cta"><a href="https://jobs.lever.co/aisafety/3565b238-51fe-4023-b34d-dec6f3699f7f">Apply →</a></p>
 
 ---
-*Posted 2022-01-11 · Listing synced 2026-06-04 · 80k job ID `recAbJh2EmyHSsQGM`*
+*Posted 2022-01-11 · Listing synced 2026-06-05 · 80k job ID `recAbJh2EmyHSsQGM`*

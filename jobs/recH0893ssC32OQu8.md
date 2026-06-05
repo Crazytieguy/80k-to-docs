@@ -2,7 +2,7 @@
 title: "Managing Editor"
 employer: "In Development"
 job_id: "recH0893ssC32OQu8"
-last_updated: "2026-06-04T05:33:12.937237Z"
+last_updated: "2026-06-05T05:32:18.334474Z"
 posted_at: "2026-05-25T00:00:00Z"
 status: ready
 apply_url: "https://indevelopmentmag.com/jobs/"
@@ -34,4 +34,4 @@ areas:
 <p class="apply-cta"><a href="https://indevelopmentmag.com/jobs/">Apply →</a></p>
 
 ---
-*Posted 2026-05-25 · Listing synced 2026-06-04 · 80k job ID `recH0893ssC32OQu8`*
+*Posted 2026-05-25 · Listing synced 2026-06-05 · 80k job ID `recH0893ssC32OQu8`*

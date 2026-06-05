@@ -2,7 +2,7 @@
 title: "Request for Proposals, Extreme Power Concentration"
 employer: "Longview Philanthropy"
 job_id: "rec6GDty8e9NbiC8L"
-last_updated: "2026-06-04T05:33:05.754108Z"
+last_updated: "2026-06-05T05:32:10.877771Z"
 posted_at: "2026-05-27T00:04:54Z"
 status: ready
 apply_url: "https://www.longview.org/request-for-proposals-on-extreme-power-concentration/"
@@ -32,4 +32,4 @@ areas:
 <p class="apply-cta"><a href="https://www.longview.org/request-for-proposals-on-extreme-power-concentration/">Apply →</a></p>
 
 ---
-*Posted 2026-05-27 · Listing synced 2026-06-04 · 80k job ID `rec6GDty8e9NbiC8L`*
+*Posted 2026-05-27 · Listing synced 2026-06-05 · 80k job ID `rec6GDty8e9NbiC8L`*

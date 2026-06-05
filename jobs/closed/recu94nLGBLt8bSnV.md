@@ -4,25 +4,20 @@ employer: "Meta"
 job_id: "recu94nLGBLt8bSnV"
 last_updated: "2026-06-04T05:33:03.034856Z"
 posted_at: "2026-05-29T00:00:00Z"
-status: ready
+status: closed
+closed_at: "2026-06-05"
 apply_url: "https://www.metacareers.com/profile/job_details/2864638960409054"
 areas:
   - "AI safety & policy"
 ---
 
+> ⚠️ **CLOSED on 2026-06-05** — this job is no longer listed on the 80,000 Hours board. Archived snapshot below.
+
 # Research Scientist, Safety Alignment
 
-**[Meta](https://www.meta.com/ca/)**
+**Meta**
 
-<dl class="job-meta">
-<dt>Location</dt><dd>San Francisco Bay Area, USA</dd>
-<dt>Role type</dt><dd>Full-time</dd>
-<dt>Experience</dt><dd>Junior (1-4 years experience), Mid (5-9 years experience)</dd>
-<dt>Degree</dt><dd>Doctoral degree</dd>
-<dt>Salary</dt><dd>$184,000 – $257,000</dd>
-</dl>
-
-**Areas & skills:** AI safety & policy, Research
+**Areas & skills:** AI safety & policy
 
 ## Summary
 - In this role, you'll design and implement novel safety alignment techniques for large language models and multimodal AI systems at Meta.

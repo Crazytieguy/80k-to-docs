@@ -2,7 +2,7 @@
 title: "Technical Program Manager, Alignment"
 employer: "Anthropic"
 job_id: "reciTXQ5tizsBMKeR"
-last_updated: "2026-06-04T05:33:45.226711Z"
+last_updated: "2026-06-05T05:32:50.343146Z"
 posted_at: "2026-04-15T00:00:00Z"
 status: ready
 apply_url: "https://job-boards.greenhouse.io/anthropic/jobs/5187208008"
@@ -34,4 +34,4 @@ areas:
 <p class="apply-cta"><a href="https://job-boards.greenhouse.io/anthropic/jobs/5187208008">Apply →</a></p>
 
 ---
-*Posted 2026-04-15 · Listing synced 2026-06-04 · 80k job ID `reciTXQ5tizsBMKeR`*
+*Posted 2026-04-15 · Listing synced 2026-06-05 · 80k job ID `reciTXQ5tizsBMKeR`*

@@ -4,25 +4,20 @@ employer: "10a Labs"
 job_id: "recKtD4mq9hYrXnxR"
 last_updated: "2026-06-04T05:33:04.344318Z"
 posted_at: "2026-05-28T00:00:00Z"
-status: ready
+status: closed
+closed_at: "2026-06-05"
 apply_url: "https://job-boards.greenhouse.io/10alabs/jobs/4035575009"
 areas:
   - "AI safety & policy"
 ---
 
+> ⚠️ **CLOSED on 2026-06-05** — this job is no longer listed on the 80,000 Hours board. Archived snapshot below.
+
 # Security Engineer
 
-**[10a Labs](https://10alabs.com/)**
+**10a Labs**
 
-<dl class="job-meta">
-<dt>Location</dt><dd>New York, NY, USA</dd>
-<dt>Role type</dt><dd>Full-time</dd>
-<dt>Experience</dt><dd>Junior (1-4 years experience)</dd>
-<dt>Degree</dt><dd>Undergraduate degree or less</dd>
-<dt>Salary</dt><dd>$105,000 – $125,000</dd>
-</dl>
-
-**Areas & skills:** AI safety & policy, Software engineering, Information security
+**Areas & skills:** AI safety & policy
 
 ## Summary
 - In this role, you'll secure AI systems by identifying vulnerabilities, building protections, and reducing adversarial risks.

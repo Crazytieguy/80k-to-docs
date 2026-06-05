@@ -2,7 +2,7 @@
 title: "Research Intern, AI Safety and Security"
 employer: "Microsoft"
 job_id: "recZyfptcWR4IuJBl"
-last_updated: "2026-06-04T05:33:07.547709Z"
+last_updated: "2026-06-05T05:32:12.479721Z"
 posted_at: "2026-05-27T00:00:00Z"
 status: ready
 apply_url: "https://apply.careers.microsoft.com/careers/job/1970393556826707?domain=microsoft.com&src=LinkedIn"
@@ -34,4 +34,4 @@ areas:
 <p class="apply-cta"><a href="https://apply.careers.microsoft.com/careers/job/1970393556826707?domain=microsoft.com&amp;src=LinkedIn">Apply →</a></p>
 
 ---
-*Posted 2026-05-27 · Listing synced 2026-06-04 · 80k job ID `recZyfptcWR4IuJBl`*
+*Posted 2026-05-27 · Listing synced 2026-06-05 · 80k job ID `recZyfptcWR4IuJBl`*

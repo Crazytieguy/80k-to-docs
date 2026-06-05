@@ -4,25 +4,20 @@ employer: "Lawrence Livermore National Laboratory"
 job_id: "recr1Njrd9OrvOP8Q"
 last_updated: "2026-06-04T05:33:00.649812Z"
 posted_at: "2026-06-01T00:00:00Z"
-status: ready
+status: closed
+closed_at: "2026-06-05"
 apply_url: "https://jobs.smartrecruiters.com/LLNL/3743990013297846-senior-nuclear-nonproliferation-specialist?trid=2d92f286-613b-4daf-9dfa-6340ffbecf73"
 areas:
   - "Nuclear security"
 ---
 
+> ⚠️ **CLOSED on 2026-06-05** — this job is no longer listed on the 80,000 Hours board. Archived snapshot below.
+
 # Senior Nuclear Nonproliferation Specialist
 
-**[Lawrence Livermore National Laboratory](https://www.llnl.gov/)**
+**Lawrence Livermore National Laboratory**
 
-<dl class="job-meta">
-<dt>Location</dt><dd>Washington, DC metro area, USA</dd>
-<dt>Role type</dt><dd>Full-time</dd>
-<dt>Experience</dt><dd>Senior (10+ years experience)</dd>
-<dt>Degree</dt><dd>Undergraduate degree or less</dd>
-<dt>Salary</dt><dd>$175,530 – $267,060</dd>
-</dl>
-
-**Areas & skills:** Nuclear security, Policy
+**Areas & skills:** Nuclear security
 
 ## Summary
 - In this role, you'll support DOE/NNSA's Office of Defense Nuclear Nonproliferation on policy, safeguards, and civil nuclear cooperation.

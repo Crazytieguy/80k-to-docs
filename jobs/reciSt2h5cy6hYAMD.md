@@ -2,7 +2,7 @@
 title: "Senior Manager, AI Safety"
 employer: "Faculty"
 job_id: "reciSt2h5cy6hYAMD"
-last_updated: "2026-06-04T05:34:30.311295Z"
+last_updated: "2026-06-05T05:33:34.154393Z"
 posted_at: "2022-01-05T00:00:00Z"
 status: ready
 apply_url: "https://jobs.ashbyhq.com/faculty/b4ec2535-7bce-499b-8926-e349413e3325"
@@ -33,4 +33,4 @@ areas:
 <p class="apply-cta"><a href="https://jobs.ashbyhq.com/faculty/b4ec2535-7bce-499b-8926-e349413e3325">Apply →</a></p>
 
 ---
-*Posted 2022-01-05 · Listing synced 2026-06-04 · 80k job ID `reciSt2h5cy6hYAMD`*
+*Posted 2022-01-05 · Listing synced 2026-06-05 · 80k job ID `reciSt2h5cy6hYAMD`*

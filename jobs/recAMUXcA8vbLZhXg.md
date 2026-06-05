@@ -2,7 +2,7 @@
 title: "Grantmaker, US AI Policy"
 employer: "Longview Philanthropy"
 job_id: "recAMUXcA8vbLZhXg"
-last_updated: "2026-06-04T05:32:58.347277Z"
+last_updated: "2026-06-05T05:32:03.733523Z"
 posted_at: "2026-06-01T00:05:00Z"
 status: ready
 apply_url: "https://www.longview.org/careers/us-ai-policy-grantmaker/"
@@ -34,4 +34,4 @@ areas:
 <p class="apply-cta"><a href="https://www.longview.org/careers/us-ai-policy-grantmaker/">Apply →</a></p>
 
 ---
-*Posted 2026-06-01 · Listing synced 2026-06-04 · 80k job ID `recAMUXcA8vbLZhXg`*
+*Posted 2026-06-01 · Listing synced 2026-06-05 · 80k job ID `recAMUXcA8vbLZhXg`*

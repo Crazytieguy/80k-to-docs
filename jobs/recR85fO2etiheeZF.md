@@ -2,8 +2,8 @@
 title: "Secure Program Synthesis Fellowship"
 employer: "Apart Research"
 job_id: "recR85fO2etiheeZF"
-last_updated: "2026-06-04T05:33:08.898461Z"
-posted_at: "2026-05-26T00:01:00Z"
+last_updated: "2026-06-05T05:31:59.221371Z"
+posted_at: "2026-06-04T00:00:00Z"
 status: ready
 apply_url: "https://apartresearch.com/fellowships/the-secure-program-synthesis-fellowship"
 areas:
@@ -33,4 +33,4 @@ areas:
 <p class="apply-cta"><a href="https://apartresearch.com/fellowships/the-secure-program-synthesis-fellowship">Apply →</a></p>
 
 ---
-*Posted 2026-05-26 · Listing synced 2026-06-04 · 80k job ID `recR85fO2etiheeZF`*
+*Posted 2026-06-04 · Listing synced 2026-06-05 · 80k job ID `recR85fO2etiheeZF`*

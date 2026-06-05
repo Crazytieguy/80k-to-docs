@@ -2,7 +2,7 @@
 title: "Various Roles"
 employer: "Theorem"
 job_id: "recTNTn7U9zdXEOpf"
-last_updated: "2026-06-04T05:35:00.134326Z"
+last_updated: "2026-06-05T05:34:04.638572Z"
 posted_at: "2022-01-01T00:00:00Z"
 status: ready
 apply_url: "https://airtable.com/appFXEeK33hqSbnBD/pagmxpM5lUFzjjc8P/form"
@@ -32,4 +32,4 @@ areas:
 <p class="apply-cta"><a href="https://airtable.com/appFXEeK33hqSbnBD/pagmxpM5lUFzjjc8P/form">Apply →</a></p>
 
 ---
-*Posted 2022-01-01 · Listing synced 2026-06-04 · 80k job ID `recTNTn7U9zdXEOpf`*
+*Posted 2022-01-01 · Listing synced 2026-06-05 · 80k job ID `recTNTn7U9zdXEOpf`*

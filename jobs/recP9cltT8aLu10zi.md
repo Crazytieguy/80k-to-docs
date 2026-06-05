@@ -2,7 +2,7 @@
 title: "General Interest"
 employer: "CivAI"
 job_id: "recP9cltT8aLu10zi"
-last_updated: "2026-06-04T05:34:29.567579Z"
+last_updated: "2026-06-05T05:33:33.392287Z"
 posted_at: "2022-01-05T00:00:00Z"
 status: ready
 apply_url: "https://airtable.com/appF2jFyZ4WQn5rd6/pagtXCfyyBEU57tXd/form"
@@ -33,4 +33,4 @@ areas:
 <p class="apply-cta"><a href="https://airtable.com/appF2jFyZ4WQn5rd6/pagtXCfyyBEU57tXd/form">Apply →</a></p>
 
 ---
-*Posted 2022-01-05 · Listing synced 2026-06-04 · 80k job ID `recP9cltT8aLu10zi`*
+*Posted 2022-01-05 · Listing synced 2026-06-05 · 80k job ID `recP9cltT8aLu10zi`*

@@ -4,25 +4,20 @@ employer: "World Economic Forum"
 job_id: "recE76eJ9PHkeWpOV"
 last_updated: "2026-06-04T05:33:33.012790Z"
 posted_at: "2026-05-06T00:03:00Z"
-status: ready
+status: closed
+closed_at: "2026-06-05"
 apply_url: "https://www.linkedin.com/jobs/view/4410245104/"
 areas:
   - "Biosecurity & pandemic preparedness"
 ---
 
+> ⚠️ **CLOSED on 2026-06-05** — this job is no longer listed on the 80,000 Hours board. Archived snapshot below.
+
 # Lead, Health Security
 
-**[World Economic Forum](https://www.weforum.org/)**
+**World Economic Forum**
 
-<dl class="job-meta">
-<dt>Location</dt><dd>New York, NY, USA</dd>
-<dt>Role type</dt><dd>Full-time</dd>
-<dt>Experience</dt><dd>Mid (5-9 years experience), Senior (10+ years experience)</dd>
-<dt>Degree</dt><dd>Master's degree</dd>
-<dt>Salary</dt><dd>$120,000 – $140,000</dd>
-</dl>
-
-**Areas & skills:** Biosecurity & pandemic preparedness, Strategy
+**Areas & skills:** Biosecurity & pandemic preparedness
 
 ## Summary
 - In this role, you'll support the strategic development and positioning of PPX, an AI-enabled platform linking disease intelligence to vaccine development.

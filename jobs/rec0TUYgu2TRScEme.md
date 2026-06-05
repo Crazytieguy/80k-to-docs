@@ -2,7 +2,7 @@
 title: "Grant Recipient, Effective Altruism Infrastructure"
 employer: "EA Funds"
 job_id: "rec0TUYgu2TRScEme"
-last_updated: "2026-06-04T05:34:54.934439Z"
+last_updated: "2026-06-05T05:33:59.428379Z"
 posted_at: "2022-01-01T00:00:00Z"
 status: ready
 apply_url: "https://funds.effectivealtruism.org/funds/ea-community"
@@ -32,4 +32,4 @@ areas:
 <p class="apply-cta"><a href="https://funds.effectivealtruism.org/funds/ea-community">Apply →</a></p>
 
 ---
-*Posted 2022-01-01 · Listing synced 2026-06-04 · 80k job ID `rec0TUYgu2TRScEme`*
+*Posted 2022-01-01 · Listing synced 2026-06-05 · 80k job ID `rec0TUYgu2TRScEme`*

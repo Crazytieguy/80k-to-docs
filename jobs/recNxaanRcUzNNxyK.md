@@ -2,7 +2,7 @@
 title: "Head of Social"
 employer: "Center for AI Safety"
 job_id: "recNxaanRcUzNNxyK"
-last_updated: "2026-06-04T05:34:04.884252Z"
+last_updated: "2026-06-05T05:33:08.403353Z"
 posted_at: "2022-01-11T00:00:00Z"
 status: ready
 apply_url: "https://jobs.lever.co/aisafety/dcf06dac-ee0a-4191-8d71-d44686fbc5d5"
@@ -34,4 +34,4 @@ areas:
 <p class="apply-cta"><a href="https://jobs.lever.co/aisafety/dcf06dac-ee0a-4191-8d71-d44686fbc5d5">Apply →</a></p>
 
 ---
-*Posted 2022-01-11 · Listing synced 2026-06-04 · 80k job ID `recNxaanRcUzNNxyK`*
+*Posted 2022-01-11 · Listing synced 2026-06-05 · 80k job ID `recNxaanRcUzNNxyK`*

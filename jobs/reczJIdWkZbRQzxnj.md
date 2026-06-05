@@ -2,7 +2,7 @@
 title: "Senior Advisor"
 employer: "Founders Pledge"
 job_id: "reczJIdWkZbRQzxnj"
-last_updated: "2026-06-04T05:33:43.290277Z"
+last_updated: "2026-06-05T05:32:48.740437Z"
 posted_at: "2026-04-17T00:00:00Z"
 status: ready
 apply_url: "https://careers.founderspledge.com/jobs/7582146-senior-advisor"
@@ -19,7 +19,7 @@ areas:
 <dt>Role type</dt><dd>Full-time</dd>
 <dt>Experience</dt><dd>Mid (5-9 years experience)</dd>
 <dt>Degree</dt><dd>Undergraduate degree or less</dd>
-<dt>Salary</dt><dd>$114,092</dd>
+<dt>Salary</dt><dd>$114,147</dd>
 </dl>
 
 **Areas & skills:** Building effective altruism, Strategy
@@ -34,4 +34,4 @@ areas:
 <p class="apply-cta"><a href="https://careers.founderspledge.com/jobs/7582146-senior-advisor">Apply →</a></p>
 
 ---
-*Posted 2026-04-17 · Listing synced 2026-06-04 · 80k job ID `reczJIdWkZbRQzxnj`*
+*Posted 2026-04-17 · Listing synced 2026-06-05 · 80k job ID `reczJIdWkZbRQzxnj`*

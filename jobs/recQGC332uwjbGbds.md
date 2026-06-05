@@ -2,7 +2,7 @@
 title: "Program Manager, Malaria"
 employer: "Clinton Health Access Initiative"
 job_id: "recQGC332uwjbGbds"
-last_updated: "2026-06-04T05:34:53.946497Z"
+last_updated: "2026-06-05T05:33:58.444847Z"
 posted_at: "2022-01-01T00:00:00Z"
 status: ready
 apply_url: "https://careers-chai.icims.com/jobs/14150/program-manager%2c-malaria/job?in_iframe=1"
@@ -32,4 +32,4 @@ areas:
 <p class="apply-cta"><a href="https://careers-chai.icims.com/jobs/14150/program-manager%2c-malaria/job?in_iframe=1">Apply →</a></p>
 
 ---
-*Posted 2022-01-01 · Listing synced 2026-06-04 · 80k job ID `recQGC332uwjbGbds`*
+*Posted 2022-01-01 · Listing synced 2026-06-05 · 80k job ID `recQGC332uwjbGbds`*

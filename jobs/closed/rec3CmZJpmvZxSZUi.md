@@ -4,25 +4,20 @@ employer: "Mercy for Animals"
 job_id: "rec3CmZJpmvZxSZUi"
 last_updated: "2026-06-04T05:33:36.056488Z"
 posted_at: "2026-05-04T00:00:00Z"
-status: ready
+status: closed
+closed_at: "2026-06-05"
 apply_url: "https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=9b16364c-5e0e-4e66-be82-8f108b1eb279&ccId=19000101_000003&jwId=SYS%3AJW%3A001&jobId=551866&source=CC3&lang=en_US&_ga=2.32695230.1869831242.1777714195-1965807046.1753674741"
 areas:
   - "Animal welfare"
 ---
 
+> ⚠️ **CLOSED on 2026-06-05** — this job is no longer listed on the 80,000 Hours board. Archived snapshot below.
+
 # Director, Leadership Giving
 
-**[Mercy for Animals](https://www.mercyforanimals.org)**
+**Mercy for Animals**
 
-<dl class="job-meta">
-<dt>Location</dt><dd>Remote, USA, USA</dd>
-<dt>Role type</dt><dd>Full-time</dd>
-<dt>Experience</dt><dd>Mid (5-9 years experience)</dd>
-<dt>Degree</dt><dd>Undergraduate degree or less</dd>
-<dt>Salary</dt><dd>$89,530 – $101,700</dd>
-</dl>
-
-**Areas & skills:** Animal welfare, Outreach
+**Areas & skills:** Animal welfare
 
 ## Summary
 - In this role, you'll manage a portfolio of mid-level donors using moves management to cultivate relationships and advance donors into major giving.

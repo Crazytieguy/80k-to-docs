@@ -2,7 +2,7 @@
 title: "Epidemiology and Information Analyst"
 employer: "UK Government, Health Security Agency"
 job_id: "recmQguHA6b73VrjN"
-last_updated: "2026-06-04T05:33:07.961379Z"
+last_updated: "2026-06-05T05:32:12.885746Z"
 posted_at: "2026-05-27T00:00:00Z"
 status: ready
 apply_url: "https://www.civilservicejobs.service.gov.uk/csr/jobs.cgi?jcode=1998986&csource=csalerts"
@@ -19,7 +19,7 @@ areas:
 <dt>Role type</dt><dd>Full-time</dd>
 <dt>Experience</dt><dd>Entry-level</dd>
 <dt>Degree</dt><dd>Undergraduate degree or less</dd>
-<dt>Salary</dt><dd>$43,790 – $50,653</dd>
+<dt>Salary</dt><dd>$43,811 – $50,677</dd>
 </dl>
 
 **Areas & skills:** Career development, Research
@@ -34,4 +34,4 @@ areas:
 <p class="apply-cta"><a href="https://www.civilservicejobs.service.gov.uk/csr/jobs.cgi?jcode=1998986&amp;csource=csalerts">Apply →</a></p>
 
 ---
-*Posted 2026-05-27 · Listing synced 2026-06-04 · 80k job ID `recmQguHA6b73VrjN`*
+*Posted 2026-05-27 · Listing synced 2026-06-05 · 80k job ID `recmQguHA6b73VrjN`*

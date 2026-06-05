@@ -2,7 +2,7 @@
 title: "Operations Manager"
 employer: "One for the World"
 job_id: "recaJToUV8bbiX8UQ"
-last_updated: "2026-06-04T05:33:03.174566Z"
+last_updated: "2026-06-05T05:32:08.737018Z"
 posted_at: "2026-05-29T00:00:00Z"
 status: ready
 apply_url: "https://drive.google.com/file/d/1ZjBgw5zlFmk4nop-yIuUgnty4FhTofu5/view?usp=drive_link"
@@ -34,4 +34,4 @@ areas:
 <p class="apply-cta"><a href="https://drive.google.com/file/d/1ZjBgw5zlFmk4nop-yIuUgnty4FhTofu5/view?usp=drive_link">Apply →</a></p>
 
 ---
-*Posted 2026-05-29 · Listing synced 2026-06-04 · 80k job ID `recaJToUV8bbiX8UQ`*
+*Posted 2026-05-29 · Listing synced 2026-06-05 · 80k job ID `recaJToUV8bbiX8UQ`*

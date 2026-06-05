@@ -2,7 +2,7 @@
 title: "Research Associate, Viral Genomics Group"
 employer: "The Broad Institute, Sabeti Lab"
 job_id: "rec6oAsrqBmgF87sD"
-last_updated: "2026-06-04T05:33:51.451014Z"
+last_updated: "2026-06-05T05:32:55.731181Z"
 posted_at: "2026-04-06T00:01:00Z"
 status: ready
 apply_url: "https://broadinstitute.avature.net/en_US/careers/JobDetail/Research-Associate-II-Viral-Genomics-Group-Sabeti-Lab/21619"
@@ -34,4 +34,4 @@ areas:
 <p class="apply-cta"><a href="https://broadinstitute.avature.net/en_US/careers/JobDetail/Research-Associate-II-Viral-Genomics-Group-Sabeti-Lab/21619">Apply →</a></p>
 
 ---
-*Posted 2026-04-06 · Listing synced 2026-06-04 · 80k job ID `rec6oAsrqBmgF87sD`*
+*Posted 2026-04-06 · Listing synced 2026-06-05 · 80k job ID `rec6oAsrqBmgF87sD`*

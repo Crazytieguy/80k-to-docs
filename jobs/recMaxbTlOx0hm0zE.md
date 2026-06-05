@@ -2,7 +2,7 @@
 title: "Research Engineer / Research Scientist, Model Transparency"
 employer: "UK Government, AI Security Institute"
 job_id: "recMaxbTlOx0hm0zE"
-last_updated: "2026-06-04T05:33:40.045819Z"
+last_updated: "2026-06-05T05:32:45.503868Z"
 posted_at: "2026-04-27T00:05:00Z"
 status: ready
 apply_url: "https://job-boards.eu.greenhouse.io/aisi/jobs/4848454101"
@@ -19,7 +19,7 @@ areas:
 <dt>Role type</dt><dd>Full-time</dd>
 <dt>Experience</dt><dd>Multiple experience levels</dd>
 <dt>Degree</dt><dd>Undergraduate degree or less</dd>
-<dt>Salary</dt><dd>$87,247 – $194,627</dd>
+<dt>Salary</dt><dd>$87,289 – $194,721</dd>
 </dl>
 
 **Areas & skills:** AI safety & policy, Research, Software engineering
@@ -34,4 +34,4 @@ areas:
 <p class="apply-cta"><a href="https://job-boards.eu.greenhouse.io/aisi/jobs/4848454101">Apply →</a></p>
 
 ---
-*Posted 2026-04-27 · Listing synced 2026-06-04 · 80k job ID `recMaxbTlOx0hm0zE`*
+*Posted 2026-04-27 · Listing synced 2026-06-05 · 80k job ID `recMaxbTlOx0hm0zE`*

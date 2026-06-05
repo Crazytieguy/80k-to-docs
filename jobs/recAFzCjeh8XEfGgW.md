@@ -2,7 +2,7 @@
 title: "General Application"
 employer: "Giving What We Can"
 job_id: "recAFzCjeh8XEfGgW"
-last_updated: "2026-06-04T05:34:13.501713Z"
+last_updated: "2026-06-05T05:33:17.157963Z"
 posted_at: "2022-01-07T00:00:00Z"
 status: ready
 apply_url: "https://airtable.com/appYQIIq3t2Hrq16O/shrW3a9lNXGtFqGpv"
@@ -29,4 +29,4 @@ areas:
 <p class="apply-cta"><a href="https://airtable.com/appYQIIq3t2Hrq16O/shrW3a9lNXGtFqGpv">Apply →</a></p>
 
 ---
-*Posted 2022-01-07 · Listing synced 2026-06-04 · 80k job ID `recAFzCjeh8XEfGgW`*
+*Posted 2022-01-07 · Listing synced 2026-06-05 · 80k job ID `recAFzCjeh8XEfGgW`*

@@ -2,7 +2,7 @@
 title: "Technical Program Manager, AI Safety"
 employer: "Lila Sciences"
 job_id: "recNTRcvaMC1joOId"
-last_updated: "2026-06-04T05:33:40.299398Z"
+last_updated: "2026-06-05T05:32:45.746811Z"
 posted_at: "2026-04-27T00:01:00Z"
 status: ready
 apply_url: "https://job-boards.greenhouse.io/lilasciences/jobs/4229239009"
@@ -34,4 +34,4 @@ areas:
 <p class="apply-cta"><a href="https://job-boards.greenhouse.io/lilasciences/jobs/4229239009">Apply →</a></p>
 
 ---
-*Posted 2026-04-27 · Listing synced 2026-06-04 · 80k job ID `recNTRcvaMC1joOId`*
+*Posted 2026-04-27 · Listing synced 2026-06-05 · 80k job ID `recNTRcvaMC1joOId`*

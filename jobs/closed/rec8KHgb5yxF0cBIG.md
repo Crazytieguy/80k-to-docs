@@ -4,25 +4,20 @@ employer: "US Government, Bureau of Industry and Security"
 job_id: "rec8KHgb5yxF0cBIG"
 last_updated: "2026-06-04T05:33:12.234870Z"
 posted_at: "2026-05-25T00:01:00Z"
-status: ready
+status: closed
+closed_at: "2026-06-05"
 apply_url: "https://www.usajobs.gov/job/870487700"
 areas:
   - "AI safety & policy"
 ---
 
+> ⚠️ **CLOSED on 2026-06-05** — this job is no longer listed on the 80,000 Hours board. Archived snapshot below.
+
 # General Engineer, Artificial Intelligence Systems
 
-**[US Government, Bureau of Industry and Security](https://www.bis.doc.gov/)**
+**US Government, Bureau of Industry and Security**
 
-<dl class="job-meta">
-<dt>Location</dt><dd>Washington, DC metro area, USA</dd>
-<dt>Role type</dt><dd>Full-time</dd>
-<dt>Experience</dt><dd>Senior (10+ years experience)</dd>
-<dt>Degree</dt><dd>Undergraduate degree or less</dd>
-<dt>Salary</dt><dd>$143,913 – $187,093</dd>
-</dl>
-
-**Areas & skills:** AI safety & policy, Engineering, Policy
+**Areas & skills:** AI safety & policy
 
 ## Summary
 - In this role, you'll provide expert engineering leadership on export control and technology transfer analysis for advanced technologies.

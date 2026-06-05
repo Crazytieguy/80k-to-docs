@@ -2,7 +2,7 @@
 title: "Program Management Consultant, Rwanda"
 employer: "Pure Earth"
 job_id: "recfw4EtGbc3FWYDy"
-last_updated: "2026-06-04T05:34:58.778165Z"
+last_updated: "2026-06-05T05:34:03.063491Z"
 posted_at: "2022-01-01T00:00:00Z"
 status: ready
 apply_url: "https://www.pureearth.org/wp-content/uploads/2026/02/Program-Manager-Consultant-Rwanda-.pdf"
@@ -33,4 +33,4 @@ areas:
 <p class="apply-cta"><a href="https://www.pureearth.org/wp-content/uploads/2026/02/Program-Manager-Consultant-Rwanda-.pdf">Apply →</a></p>
 
 ---
-*Posted 2022-01-01 · Listing synced 2026-06-04 · 80k job ID `recfw4EtGbc3FWYDy`*
+*Posted 2022-01-01 · Listing synced 2026-06-05 · 80k job ID `recfw4EtGbc3FWYDy`*

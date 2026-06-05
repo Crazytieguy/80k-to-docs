@@ -2,7 +2,7 @@
 title: "Internship, Democratic Resilience (Fall 2026)"
 employer: "Center for European Policy Analysis"
 job_id: "recjWlwXjypyyM3Uk"
-last_updated: "2026-06-04T05:33:22.312006Z"
+last_updated: "2026-06-05T05:32:27.843790Z"
 posted_at: "2026-05-18T00:00:00Z"
 status: ready
 apply_url: "https://apply.appone.com/job/6a034b42993f3a3fd106b8d8"
@@ -33,4 +33,4 @@ areas:
 <p class="apply-cta"><a href="https://apply.appone.com/job/6a034b42993f3a3fd106b8d8">Apply →</a></p>
 
 ---
-*Posted 2026-05-18 · Listing synced 2026-06-04 · 80k job ID `recjWlwXjypyyM3Uk`*
+*Posted 2026-05-18 · Listing synced 2026-06-05 · 80k job ID `recjWlwXjypyyM3Uk`*

@@ -4,25 +4,20 @@ employer: "US Government, Bureau of Industry and Security"
 job_id: "recUONNsEqAwAxioN"
 last_updated: "2026-06-04T05:33:12.071785Z"
 posted_at: "2026-05-25T00:01:00Z"
-status: ready
+status: closed
+closed_at: "2026-06-05"
 apply_url: "https://www.usajobs.gov/job/870487200"
 areas:
   - "AI safety & policy"
 ---
 
+> ⚠️ **CLOSED on 2026-06-05** — this job is no longer listed on the 80,000 Hours board. Archived snapshot below.
+
 # General Engineer, Machine Learning Systems
 
-**[US Government, Bureau of Industry and Security](https://www.bis.doc.gov/)**
+**US Government, Bureau of Industry and Security**
 
-<dl class="job-meta">
-<dt>Location</dt><dd>Washington, DC metro area, USA</dd>
-<dt>Role type</dt><dd>Full-time</dd>
-<dt>Experience</dt><dd>Senior (10+ years experience)</dd>
-<dt>Degree</dt><dd>Undergraduate degree or less</dd>
-<dt>Salary</dt><dd>$121,785 – $158,322</dd>
-</dl>
-
-**Areas & skills:** AI safety & policy, Engineering, Policy
+**Areas & skills:** AI safety & policy
 
 ## Summary
 - In this role, you'll apply engineering expertise to evaluate ML and emerging technologies for export control purposes.

@@ -4,24 +4,20 @@ employer: "Kurzgesagt"
 job_id: "recdeAxsZ673T5go2"
 last_updated: "2026-06-04T05:34:57.749949Z"
 posted_at: "2022-01-01T00:00:00Z"
-status: ready
+status: closed
+closed_at: "2026-06-05"
 apply_url: "https://kurzgesagt.org/careers/scriptwriter-and-storyteller-all-genders-178141"
 areas:
   - "Building effective altruism"
 ---
 
+> ⚠️ **CLOSED on 2026-06-05** — this job is no longer listed on the 80,000 Hours board. Archived snapshot below.
+
 # Scriptwriter and Storyteller
 
-**[Kurzgesagt](https://kurzgesagt.org/)**
+**Kurzgesagt**
 
-<dl class="job-meta">
-<dt>Location</dt><dd>Remote, Global</dd>
-<dt>Role type</dt><dd>Full-time</dd>
-<dt>Experience</dt><dd>Mid (5-9 years experience), Senior (10+ years experience)</dd>
-<dt>Degree</dt><dd>Doctoral degree</dd>
-</dl>
-
-**Areas & skills:** Building effective altruism, Research, Other
+**Areas & skills:** Building effective altruism
 
 ## Summary
 - In this role, you'll create compelling scripts and narratives as a freelance Scriptwriter and Storyteller in our Research and Writing department.

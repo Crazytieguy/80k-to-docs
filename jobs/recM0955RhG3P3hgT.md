@@ -2,7 +2,7 @@
 title: "Program Manager, Anglophone"
 employer: "Lead Exposure Elimination Project"
 job_id: "recM0955RhG3P3hgT"
-last_updated: "2026-06-04T05:33:01.000743Z"
+last_updated: "2026-06-05T05:32:06.621048Z"
 posted_at: "2026-06-01T00:00:00Z"
 status: ready
 apply_url: "https://docs.google.com/document/d/1RuUmCSiQf9rTiKt_5zQguFfYhTFpwVD7469lbTqLEdQ/preview?tab=t.0#heading=h.jt6jmxp623yt"
@@ -33,4 +33,4 @@ areas:
 <p class="apply-cta"><a href="https://docs.google.com/document/d/1RuUmCSiQf9rTiKt_5zQguFfYhTFpwVD7469lbTqLEdQ/preview?tab=t.0#heading=h.jt6jmxp623yt">Apply →</a></p>
 
 ---
-*Posted 2026-06-01 · Listing synced 2026-06-04 · 80k job ID `recM0955RhG3P3hgT`*
+*Posted 2026-06-01 · Listing synced 2026-06-05 · 80k job ID `recM0955RhG3P3hgT`*

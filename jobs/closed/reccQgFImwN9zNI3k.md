@@ -4,24 +4,20 @@ employer: "Information Technology and Innovation Foundation"
 job_id: "reccQgFImwN9zNI3k"
 last_updated: "2026-06-04T05:33:23.721616Z"
 posted_at: "2026-05-15T00:00:00Z"
-status: ready
+status: closed
+closed_at: "2026-06-05"
 apply_url: "https://itif.org/jobs/?gnk=job&gni=8a7887ac9e2359d7019e27b3b0c91535&lang=en"
 areas:
   - "Career development: Policy & government"
 ---
 
+> ⚠️ **CLOSED on 2026-06-05** — this job is no longer listed on the 80,000 Hours board. Archived snapshot below.
+
 # Intern, Life Sciences
 
-**[Information Technology and Innovation Foundation](https://itif.org/)**
+**Information Technology and Innovation Foundation**
 
-<dl class="job-meta">
-<dt>Location</dt><dd>Washington, DC metro area, USA</dd>
-<dt>Role type</dt><dd>Internship</dd>
-<dt>Experience</dt><dd>Entry-level</dd>
-<dt>Degree</dt><dd>Undergraduate degree or less</dd>
-</dl>
-
-**Areas & skills:** Career development: Policy & government, Research, Policy
+**Areas & skills:** Career development: Policy & government
 
 ## Summary
 - In this role, you'll conduct research on life sciences innovation policy issues.
