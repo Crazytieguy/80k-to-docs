@@ -2,7 +2,7 @@
 title: "Senior Technical Specialist, AI Risk Assessment"
 employer: "Center for AI Risk Management and Alignment"
 job_id: "rec7QrBVExfgfjmCA"
-last_updated: "2026-06-05T05:33:33.077866Z"
+last_updated: "2026-06-06T05:34:01.959708Z"
 posted_at: "2022-01-05T00:00:00Z"
 status: ready
 apply_url: "https://jobs.lever.co/futureof-life/a72cd411-9af3-458a-932b-16cca3ce07dd"
@@ -34,4 +34,4 @@ areas:
 <p class="apply-cta"><a href="https://jobs.lever.co/futureof-life/a72cd411-9af3-458a-932b-16cca3ce07dd">Apply →</a></p>
 
 ---
-*Posted 2022-01-05 · Listing synced 2026-06-05 · 80k job ID `rec7QrBVExfgfjmCA`*
+*Posted 2022-01-05 · Listing synced 2026-06-06 · 80k job ID `rec7QrBVExfgfjmCA`*

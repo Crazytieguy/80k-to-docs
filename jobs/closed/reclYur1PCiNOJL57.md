@@ -4,25 +4,20 @@ employer: "Oxford University, Oxford Martin School"
 job_id: "reclYur1PCiNOJL57"
 last_updated: "2026-06-05T05:32:27.425283Z"
 posted_at: "2026-05-18T00:02:00Z"
-status: ready
+status: closed
+closed_at: "2026-06-06"
 apply_url: "https://my.corehr.com/pls/uoxrecruit/erq_jobspec_version_4.display_form?p_company=10&p_internal_external=E&p_display_in_irish=N&p_process_type=&p_applicant_no=&p_form_profile_detail=&p_display_apply_ind=Y&p_refresh_search=Y&p_recruitment_id=186510"
 areas:
   - "AI safety & policy"
 ---
 
+> ⚠️ **CLOSED on 2026-06-06** — this job is no longer listed on the 80,000 Hours board. Archived snapshot below.
+
 # Postdoctoral Researcher, AI and Geopolitics, AI Governance Initiative
 
-**[Oxford University, Oxford Martin School](https://www.oxfordmartin.ox.ac.uk/)**
+**Oxford University, Oxford Martin School**
 
-<dl class="job-meta">
-<dt>Location</dt><dd>Oxford, UK, UK</dd>
-<dt>Role type</dt><dd>Full-time</dd>
-<dt>Experience</dt><dd>Junior (1-4 years experience), Entry-level</dd>
-<dt>Degree</dt><dd>Doctoral degree</dd>
-<dt>Salary</dt><dd>$52,943 – $64,163</dd>
-</dl>
-
-**Areas & skills:** AI safety & policy, Research, Policy
+**Areas & skills:** AI safety & policy
 
 ## Summary
 - In this role, you'll conduct research on international and geopolitical dimensions of AI governance, including governance frameworks, great-power competition, and national security implications.

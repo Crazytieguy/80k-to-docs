@@ -4,25 +4,20 @@ employer: "Trail of Bits"
 job_id: "recUuucbpsjmlKiEi"
 last_updated: "2026-06-05T05:32:58.627194Z"
 posted_at: "2026-03-27T00:00:00Z"
-status: ready
+status: closed
+closed_at: "2026-06-06"
 apply_url: "https://apply.workable.com/j/81C6C95E4E"
 areas:
   - "Career development: Technical"
 ---
 
+> ⚠️ **CLOSED on 2026-06-06** — this job is no longer listed on the 80,000 Hours board. Archived snapshot below.
+
 # Senior Security Engineer, Agentic AI
 
-**[Trail of Bits](https://www.trailofbits.com/)**
+**Trail of Bits**
 
-<dl class="job-meta">
-<dt>Location</dt><dd>Remote, USA, USA</dd>
-<dt>Role type</dt><dd>Full-time</dd>
-<dt>Experience</dt><dd>Mid (5-9 years experience)</dd>
-<dt>Degree</dt><dd>Undergraduate degree or less</dd>
-<dt>Salary</dt><dd>$100,000 – $200,000</dd>
-</dl>
-
-**Areas & skills:** Career development: Technical, Software engineering, Information security
+**Areas & skills:** Career development: Technical
 
 ## Summary
 - In this role, you will conduct comprehensive security assessments of large language model systems.

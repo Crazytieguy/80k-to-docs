@@ -2,13 +2,13 @@
 title: "Operations, Communications and Research Manager"
 employer: "Legal Advocates for Safe Science and Technology"
 job_id: "recTfMyefrumGwXdc"
-last_updated: "2026-06-05T05:33:14.705590Z"
+last_updated: "2026-06-06T05:33:42.424672Z"
 posted_at: "2022-01-08T00:00:00Z"
 status: ready
 apply_url: "https://docs.google.com/document/d/1xKv6O1kF_-PX0jLedXEXGKMgqgFa5BtLfSy9QO1I8_Q/edit?usp=sharing"
 areas:
-  - "AI safety & policy"
   - "Biosecurity & pandemic preparedness"
+  - "AI safety & policy"
 ---
 
 # Operations, Communications and Research Manager
@@ -23,7 +23,7 @@ areas:
 <dt>Salary</dt><dd>$85,000 – $110,000</dd>
 </dl>
 
-**Areas & skills:** AI safety & policy, Biosecurity & pandemic preparedness, Research, Outreach, Operations
+**Areas & skills:** Biosecurity & pandemic preparedness, AI safety & policy, Research, Outreach, Operations
 
 ## Summary
 - In this role, you'll serve as a generalist keeping LASST running smoothly while supporting its mission to make science and technology safer.
@@ -35,4 +35,4 @@ areas:
 <p class="apply-cta"><a href="https://docs.google.com/document/d/1xKv6O1kF_-PX0jLedXEXGKMgqgFa5BtLfSy9QO1I8_Q/edit?usp=sharing">Apply →</a></p>
 
 ---
-*Posted 2022-01-08 · Listing synced 2026-06-05 · 80k job ID `recTfMyefrumGwXdc`*
+*Posted 2022-01-08 · Listing synced 2026-06-06 · 80k job ID `recTfMyefrumGwXdc`*

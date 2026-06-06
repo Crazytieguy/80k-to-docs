@@ -4,25 +4,20 @@ employer: "Lawrence Livermore National Laboratory"
 job_id: "recQYrTbHbtTdnOci"
 last_updated: "2026-06-05T05:32:20.252269Z"
 posted_at: "2026-05-22T00:00:00Z"
-status: ready
+status: closed
+closed_at: "2026-06-06"
 apply_url: "https://www.llnl.gov/join-our-team/careers/find-your-job/not-applicable_associate_entry-level_internship_globalsecurity_officeofthedirector/all/3743990013264506"
 areas:
   - "Career development: Technical"
 ---
 
+> ⚠️ **CLOSED on 2026-06-06** — this job is no longer listed on the 80,000 Hours board. Archived snapshot below.
+
 # Project Coordinator, Academic Graduate Appointee
 
-**[Lawrence Livermore National Laboratory](https://www.llnl.gov/)**
+**Lawrence Livermore National Laboratory**
 
-<dl class="job-meta">
-<dt>Location</dt><dd>Livermore, CA, USA</dd>
-<dt>Role type</dt><dd>Full-time</dd>
-<dt>Experience</dt><dd>Entry-level</dd>
-<dt>Degree</dt><dd>Undergraduate degree or less</dd>
-<dt>Salary</dt><dd>$70,308 – $111,384</dd>
-</dl>
-
-**Areas & skills:** Career development: Technical, Operations
+**Areas & skills:** Career development: Technical
 
 ## Summary
 - In this role, you'll coordinate projects by tracking budgets, milestones, deliverables, and status reporting.

@@ -2,7 +2,7 @@
 title: "Co-op, Cyber System Assessments, Internet of Things"
 employer: "Massachusetts Institute of Technology, Lincoln Laboratory"
 job_id: "recaloscOKBk5gTBV"
-last_updated: "2026-06-05T05:33:52.403156Z"
+last_updated: "2026-06-06T05:34:19.817824Z"
 posted_at: "2022-01-02T00:00:00Z"
 status: ready
 apply_url: "https://careers.ll.mit.edu/job/Lexington-Group-05-59-CO-OP-%28IoT%29-Cyber-System-Assessments-July-December-2026-MA-02420/1361576300/"
@@ -34,4 +34,4 @@ areas:
 <p class="apply-cta"><a href="https://careers.ll.mit.edu/job/Lexington-Group-05-59-CO-OP-%28IoT%29-Cyber-System-Assessments-July-December-2026-MA-02420/1361576300/">Apply →</a></p>
 
 ---
-*Posted 2022-01-02 · Listing synced 2026-06-05 · 80k job ID `recaloscOKBk5gTBV`*
+*Posted 2022-01-02 · Listing synced 2026-06-06 · 80k job ID `recaloscOKBk5gTBV`*

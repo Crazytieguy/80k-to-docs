@@ -4,24 +4,20 @@ employer: "Evitable"
 job_id: "receLNQVmcdCLXqHM"
 last_updated: "2026-06-05T05:33:22.687206Z"
 posted_at: "2022-01-06T00:00:00Z"
-status: ready
+status: closed
+closed_at: "2026-06-06"
 apply_url: "https://form.jotform.com/252827895601163"
 areas:
   - "AI safety & policy"
 ---
 
+> ⚠️ **CLOSED on 2026-06-06** — this job is no longer listed on the 80,000 Hours board. Archived snapshot below.
+
 # Expression of Interest, Movement Building
 
-**[Evitable](https://evitable.com/)**
+**Evitable**
 
-<dl class="job-meta">
-<dt>Location</dt><dd>San Francisco Bay Area, USA</dd>
-<dt>Role type</dt><dd>Full-time</dd>
-<dt>Experience</dt><dd>Junior (1-4 years experience)</dd>
-<dt>Degree</dt><dd>Undergraduate degree or less</dd>
-</dl>
-
-**Areas & skills:** AI safety & policy, Outreach, Operations
+**Areas & skills:** AI safety & policy
 
 ## Summary
 - Express interest in future roles contributing to movement building strategies and partnerships at Evitable.

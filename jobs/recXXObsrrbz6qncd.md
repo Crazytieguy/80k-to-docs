@@ -2,7 +2,7 @@
 title: "People Operations Associate / Specialist"
 employer: "80,000 Hours"
 job_id: "recXXObsrrbz6qncd"
-last_updated: "2026-06-05T05:32:37.201028Z"
+last_updated: "2026-06-06T05:33:04.829777Z"
 posted_at: "2026-05-06T00:03:00Z"
 status: ready
 apply_url: "https://80000hours.org/2026/05/people-operations-associate-specialist-2/"
@@ -19,7 +19,7 @@ areas:
 <dt>Role type</dt><dd>Full-time</dd>
 <dt>Experience</dt><dd>Junior (1-4 years experience), Entry-level</dd>
 <dt>Degree</dt><dd>Undergraduate degree or less</dd>
-<dt>Salary</dt><dd>$90,717 – $135,406</dd>
+<dt>Salary</dt><dd>$90,122 – $134,518</dd>
 </dl>
 
 **Areas & skills:** AI safety & policy, Operations
@@ -34,4 +34,4 @@ areas:
 <p class="apply-cta"><a href="https://80000hours.org/2026/05/people-operations-associate-specialist-2/">Apply →</a></p>
 
 ---
-*Posted 2026-05-06 · Listing synced 2026-06-05 · 80k job ID `recXXObsrrbz6qncd`*
+*Posted 2026-05-06 · Listing synced 2026-06-06 · 80k job ID `recXXObsrrbz6qncd`*

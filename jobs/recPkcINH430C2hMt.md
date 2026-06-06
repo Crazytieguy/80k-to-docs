@@ -2,7 +2,7 @@
 title: "Intern, Cybersecurity"
 employer: "United Nations, International Computing Centre"
 job_id: "recPkcINH430C2hMt"
-last_updated: "2026-06-05T05:32:00.056353Z"
+last_updated: "2026-06-06T05:32:27.025204Z"
 posted_at: "2026-06-04T00:00:00Z"
 status: ready
 apply_url: "https://www.unicc.org/working-with-icc/cs-intern/"
@@ -33,4 +33,4 @@ areas:
 <p class="apply-cta"><a href="https://www.unicc.org/working-with-icc/cs-intern/">Apply →</a></p>
 
 ---
-*Posted 2026-06-04 · Listing synced 2026-06-05 · 80k job ID `recPkcINH430C2hMt`*
+*Posted 2026-06-04 · Listing synced 2026-06-06 · 80k job ID `recPkcINH430C2hMt`*

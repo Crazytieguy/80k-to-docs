@@ -2,7 +2,7 @@
 title: "Member of Technical Staff"
 employer: "CivAI"
 job_id: "recTz3nGLeNT3xKK6"
-last_updated: "2026-06-05T05:32:55.355707Z"
+last_updated: "2026-06-06T05:33:21.086576Z"
 posted_at: "2026-04-06T00:05:00Z"
 status: ready
 apply_url: "https://civai.org/jobs/member-of-technical-staff"
@@ -17,7 +17,7 @@ areas:
 <dl class="job-meta">
 <dt>Location</dt><dd>San Francisco Bay Area, USA, USA (Confirmed Visas)</dd>
 <dt>Role type</dt><dd>Full-time</dd>
-<dt>Experience</dt><dd>Junior (1-4 years experience)</dd>
+<dt>Experience</dt><dd>Junior (1-4 years experience), Mid (5-9 years experience)</dd>
 <dt>Degree</dt><dd>Undergraduate degree or less</dd>
 <dt>Salary</dt><dd>$125,000 – $200,000</dd>
 </dl>
@@ -34,4 +34,4 @@ areas:
 <p class="apply-cta"><a href="https://civai.org/jobs/member-of-technical-staff">Apply →</a></p>
 
 ---
-*Posted 2026-04-06 · Listing synced 2026-06-05 · 80k job ID `recTz3nGLeNT3xKK6`*
+*Posted 2026-04-06 · Listing synced 2026-06-06 · 80k job ID `recTz3nGLeNT3xKK6`*

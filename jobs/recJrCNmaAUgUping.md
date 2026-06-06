@@ -2,7 +2,7 @@
 title: "Senior Researcher"
 employer: "Forecasting Research Institute"
 job_id: "recJrCNmaAUgUping"
-last_updated: "2026-06-05T05:34:00.290234Z"
+last_updated: "2026-06-06T05:34:27.472273Z"
 posted_at: "2022-01-01T00:00:00Z"
 status: ready
 apply_url: "https://forecastingresearch.org/careers/research-manager"
@@ -34,4 +34,4 @@ areas:
 <p class="apply-cta"><a href="https://forecastingresearch.org/careers/research-manager">Apply →</a></p>
 
 ---
-*Posted 2022-01-01 · Listing synced 2026-06-05 · 80k job ID `recJrCNmaAUgUping`*
+*Posted 2022-01-01 · Listing synced 2026-06-06 · 80k job ID `recJrCNmaAUgUping`*

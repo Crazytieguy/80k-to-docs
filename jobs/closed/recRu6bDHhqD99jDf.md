@@ -4,25 +4,20 @@ employer: "University of Chicago, Bulletin of the Atomic Scientists"
 job_id: "recRu6bDHhqD99jDf"
 last_updated: "2026-06-05T05:32:40.263681Z"
 posted_at: "2026-05-05T00:03:00Z"
-status: ready
+status: closed
+closed_at: "2026-06-06"
 apply_url: "https://thebulletin.org/open-position-editor-in-chief/"
 areas:
   - "Macrostrategy"
 ---
 
+> ⚠️ **CLOSED on 2026-06-06** — this job is no longer listed on the 80,000 Hours board. Archived snapshot below.
+
 # Editor in Chief
 
-**[University of Chicago, Bulletin of the Atomic Scientists](https://www.thebulletin.org)**
+**University of Chicago, Bulletin of the Atomic Scientists**
 
-<dl class="job-meta">
-<dt>Location</dt><dd>Washington, DC metro area, New York, NY, Chicago, IL, USA</dd>
-<dt>Role type</dt><dd>Full-time</dd>
-<dt>Experience</dt><dd>Mid (5-9 years experience), Senior (10+ years experience)</dd>
-<dt>Degree</dt><dd>Undergraduate degree or less</dd>
-<dt>Salary</dt><dd>$140,000 – $160,000</dd>
-</dl>
-
-**Areas & skills:** Macrostrategy, Management, Strategy
+**Areas & skills:** Macrostrategy
 
 ## Summary
 - In this role, you'll lead editorial coverage of nuclear risk, climate change, and disruptive technologies, managing staff and advancing the mission.

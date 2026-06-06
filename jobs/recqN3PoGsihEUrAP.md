@@ -2,7 +2,7 @@
 title: "Full-Stack Engineer"
 employer: "Beneficial AI Foundation"
 job_id: "recqN3PoGsihEUrAP"
-last_updated: "2026-06-05T05:32:30.566601Z"
+last_updated: "2026-06-06T05:32:57.795029Z"
 posted_at: "2026-05-14T00:00:00Z"
 status: ready
 apply_url: "https://docs.google.com/forms/d/e/1FAIpQLSedbqeU4JZQASmnUyUY8ZWSL85opl2K8CUOGkEMiDMx0eqWdQ/viewform"
@@ -15,7 +15,7 @@ areas:
 **[Beneficial AI Foundation](https://www.beneficialaifoundation.org/)**
 
 <dl class="job-meta">
-<dt>Location</dt><dd>Boston metro area, Remote, Global, USA</dd>
+<dt>Location</dt><dd>Remote, Global, Boston metro area, USA</dd>
 <dt>Role type</dt><dd>Full-time</dd>
 <dt>Experience</dt><dd>Junior (1-4 years experience)</dd>
 <dt>Degree</dt><dd>Undergraduate degree or less</dd>
@@ -34,4 +34,4 @@ areas:
 <p class="apply-cta"><a href="https://docs.google.com/forms/d/e/1FAIpQLSedbqeU4JZQASmnUyUY8ZWSL85opl2K8CUOGkEMiDMx0eqWdQ/viewform">Apply →</a></p>
 
 ---
-*Posted 2026-05-14 · Listing synced 2026-06-05 · 80k job ID `recqN3PoGsihEUrAP`*
+*Posted 2026-05-14 · Listing synced 2026-06-06 · 80k job ID `recqN3PoGsihEUrAP`*

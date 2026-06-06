@@ -4,24 +4,20 @@ employer: "CivAI"
 job_id: "recP9cltT8aLu10zi"
 last_updated: "2026-06-05T05:33:33.392287Z"
 posted_at: "2022-01-05T00:00:00Z"
-status: ready
+status: closed
+closed_at: "2026-06-06"
 apply_url: "https://airtable.com/appF2jFyZ4WQn5rd6/pagtXCfyyBEU57tXd/form"
 areas:
   - "AI safety & policy"
 ---
 
+> ⚠️ **CLOSED on 2026-06-06** — this job is no longer listed on the 80,000 Hours board. Archived snapshot below.
+
 # General Interest
 
-**[CivAI](https://www.civai.org/)**
+**CivAI**
 
-<dl class="job-meta">
-<dt>Location</dt><dd>San Francisco Bay Area, USA</dd>
-<dt>Role type</dt><dd>Full-time</dd>
-<dt>Experience</dt><dd>Multiple experience levels</dd>
-<dt>Degree</dt><dd>Undergraduate degree or less</dd>
-</dl>
-
-**Areas & skills:** AI safety & policy, Policy
+**Areas & skills:** AI safety & policy
 
 ## Summary
 - In this role, you'll disseminate knowledge about AI capabilities and dangers through interactive software experiences.

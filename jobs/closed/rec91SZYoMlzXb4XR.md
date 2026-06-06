@@ -4,25 +4,20 @@ employer: "Malaria No More"
 job_id: "rec91SZYoMlzXb4XR"
 last_updated: "2026-06-05T05:32:20.390983Z"
 posted_at: "2026-05-22T00:00:00Z"
-status: ready
+status: closed
+closed_at: "2026-06-06"
 apply_url: "https://malarianomore.org.uk/sites/default/files/job_description_senior_policy_and_research_manager_1__2026_05_20_11_58_28_am.pdf"
 areas:
   - "Global health & development"
 ---
 
+> ⚠️ **CLOSED on 2026-06-06** — this job is no longer listed on the 80,000 Hours board. Archived snapshot below.
+
 # Senior Policy and Research Manager
 
-**[Malaria No More](https://malarianomore.org.uk/)**
+**Malaria No More**
 
-<dl class="job-meta">
-<dt>Location</dt><dd>London, UK, UK</dd>
-<dt>Role type</dt><dd>Full-time</dd>
-<dt>Experience</dt><dd>Mid (5-9 years experience)</dd>
-<dt>Degree</dt><dd>Undergraduate degree or less</dd>
-<dt>Salary</dt><dd>$68,488 – $76,546</dd>
-</dl>
-
-**Areas & skills:** Global health & development, Research, Policy
+**Areas & skills:** Global health & development
 
 ## Summary
 - In this role, you'll lead the development and commissioning of research and policy projects to build advocacy arguments for ending malaria globally and in the UK.

@@ -2,7 +2,7 @@
 title: "Operations and Systems Specialist"
 employer: "Simon Institute for Longterm Governance"
 job_id: "recykxBLEC0rYDXBG"
-last_updated: "2026-06-05T05:32:22.436293Z"
+last_updated: "2026-06-06T05:32:49.972093Z"
 posted_at: "2026-05-20T00:04:45Z"
 status: ready
 apply_url: "https://simoninstitute.ch/jobs/operation-systems-specialist"
@@ -19,7 +19,7 @@ areas:
 <dt>Role type</dt><dd>Full-time</dd>
 <dt>Experience</dt><dd>Multiple experience levels</dd>
 <dt>Degree</dt><dd>Undergraduate degree or less</dd>
-<dt>Salary</dt><dd>$131,826 – $173,880</dd>
+<dt>Salary</dt><dd>$130,657 – $172,338</dd>
 </dl>
 
 **Areas & skills:** AI safety & policy, Operations
@@ -34,4 +34,4 @@ areas:
 <p class="apply-cta"><a href="https://simoninstitute.ch/jobs/operation-systems-specialist">Apply →</a></p>
 
 ---
-*Posted 2026-05-20 · Listing synced 2026-06-05 · 80k job ID `recykxBLEC0rYDXBG`*
+*Posted 2026-05-20 · Listing synced 2026-06-06 · 80k job ID `recykxBLEC0rYDXBG`*

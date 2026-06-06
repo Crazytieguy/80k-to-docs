@@ -2,7 +2,7 @@
 title: "Senior Research Manager"
 employer: "MATS Research"
 job_id: "rec9enXKqMpDioTCF"
-last_updated: "2026-06-05T05:33:26.221899Z"
+last_updated: "2026-06-06T05:33:54.459428Z"
 posted_at: "2022-01-06T00:00:00Z"
 status: ready
 apply_url: "https://www.matsprogram.org/careers/senior-research-manager-berkeley-london"
@@ -15,7 +15,7 @@ areas:
 **[MATS Research](https://www.matsprogram.org/)**
 
 <dl class="job-meta">
-<dt>Location</dt><dd>London, UK, San Francisco Bay Area, UK, USA, USA (Confirmed Visas), UK (Confirmed Visas)</dd>
+<dt>Location</dt><dd>San Francisco Bay Area, London, UK, UK, USA, USA (Confirmed Visas), UK (Confirmed Visas)</dd>
 <dt>Role type</dt><dd>Full-time</dd>
 <dt>Experience</dt><dd>Junior (1-4 years experience), Mid (5-9 years experience)</dd>
 <dt>Degree</dt><dd>Undergraduate degree or less</dd>
@@ -34,4 +34,4 @@ areas:
 <p class="apply-cta"><a href="https://www.matsprogram.org/careers/senior-research-manager-berkeley-london">Apply →</a></p>
 
 ---
-*Posted 2022-01-06 · Listing synced 2026-06-05 · 80k job ID `rec9enXKqMpDioTCF`*
+*Posted 2022-01-06 · Listing synced 2026-06-06 · 80k job ID `rec9enXKqMpDioTCF`*

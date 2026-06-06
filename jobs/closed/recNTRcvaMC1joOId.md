@@ -4,25 +4,20 @@ employer: "Lila Sciences"
 job_id: "recNTRcvaMC1joOId"
 last_updated: "2026-06-05T05:32:45.746811Z"
 posted_at: "2026-04-27T00:01:00Z"
-status: ready
+status: closed
+closed_at: "2026-06-06"
 apply_url: "https://job-boards.greenhouse.io/lilasciences/jobs/4229239009"
 areas:
   - "AI safety & policy"
 ---
 
+> ⚠️ **CLOSED on 2026-06-06** — this job is no longer listed on the 80,000 Hours board. Archived snapshot below.
+
 # Technical Program Manager, AI Safety
 
-**[Lila Sciences](https://www.lila.ai/)**
+**Lila Sciences**
 
-<dl class="job-meta">
-<dt>Location</dt><dd>San Francisco Bay Area, Boston metro area, USA</dd>
-<dt>Role type</dt><dd>Full-time</dd>
-<dt>Experience</dt><dd>Mid (5-9 years experience)</dd>
-<dt>Degree</dt><dd>Undergraduate degree or less</dd>
-<dt>Salary</dt><dd>$192,000 – $272,000</dd>
-</dl>
-
-**Areas & skills:** AI safety & policy, Operations
+**Areas & skills:** AI safety & policy
 
 ## Summary
 - In this role, you'll connect researchers, engineers, and leadership, translating complex AI safety programs into structured execution.

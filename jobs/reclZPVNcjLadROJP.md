@@ -2,7 +2,7 @@
 title: "Frontier Biodefense Fellowship"
 employer: "Pivotal Research"
 job_id: "reclZPVNcjLadROJP"
-last_updated: "2026-06-05T05:32:25.446700Z"
+last_updated: "2026-06-06T05:32:52.915005Z"
 posted_at: "2026-05-19T00:04:00Z"
 status: ready
 apply_url: "https://www.pivotal-research.org/fbf"
@@ -19,7 +19,7 @@ areas:
 <dt>Role type</dt><dd>Fellowship</dd>
 <dt>Experience</dt><dd>Junior (1-4 years experience), Entry-level</dd>
 <dt>Degree</dt><dd>Undergraduate degree or less</dd>
-<dt>Salary</dt><dd>$8,057 – $10,743</dd>
+<dt>Salary</dt><dd>$8,005 – $10,673</dd>
 </dl>
 
 **Areas & skills:** Biosecurity & pandemic preparedness, Research, Policy
@@ -34,4 +34,4 @@ areas:
 <p class="apply-cta"><a href="https://www.pivotal-research.org/fbf">Apply →</a></p>
 
 ---
-*Posted 2026-05-19 · Listing synced 2026-06-05 · 80k job ID `reclZPVNcjLadROJP`*
+*Posted 2026-05-19 · Listing synced 2026-06-06 · 80k job ID `reclZPVNcjLadROJP`*

@@ -2,7 +2,7 @@
 title: "Infrastructure Engineer, Cloud Evals"
 employer: "Model Evaluation and Threat Research"
 job_id: "recqiWRwc5B0TbmDX"
-last_updated: "2026-06-05T05:32:57.667460Z"
+last_updated: "2026-06-06T05:33:23.416484Z"
 posted_at: "2026-03-31T00:05:00Z"
 status: ready
 apply_url: "https://jobs.lever.co/metr/3d81cd86-31ae-498a-aa55-c31e0c532b07"
@@ -34,4 +34,4 @@ areas:
 <p class="apply-cta"><a href="https://jobs.lever.co/metr/3d81cd86-31ae-498a-aa55-c31e0c532b07">Apply →</a></p>
 
 ---
-*Posted 2026-03-31 · Listing synced 2026-06-05 · 80k job ID `recqiWRwc5B0TbmDX`*
+*Posted 2026-03-31 · Listing synced 2026-06-06 · 80k job ID `recqiWRwc5B0TbmDX`*

@@ -2,7 +2,7 @@
 title: "List of Places to Find Roles at Top Startup Companies"
 employer: "Various Venture-backed Startups"
 job_id: "recF5r9JtGtn6MlaX"
-last_updated: "2026-06-05T05:34:06.083954Z"
+last_updated: "2026-06-06T05:34:33.320456Z"
 posted_at: "2022-01-01T00:00:00Z"
 status: ready
 apply_url: "https://airtable.com/app53PsYpHxJW61l3/shr303f0nPKns4n45"
@@ -15,7 +15,7 @@ areas:
 **Various Venture-backed Startups**
 
 <dl class="job-meta">
-<dt>Location</dt><dd>Remote, Global, Various, Global</dd>
+<dt>Location</dt><dd>Various, Global, Remote, Global</dd>
 <dt>Role type</dt><dd>Full-time</dd>
 <dt>Experience</dt><dd>Multiple experience levels</dd>
 <dt>Degree</dt><dd>Undergraduate degree or less</dd>
@@ -32,4 +32,4 @@ areas:
 <p class="apply-cta"><a href="https://airtable.com/app53PsYpHxJW61l3/shr303f0nPKns4n45">Apply →</a></p>
 
 ---
-*Posted 2022-01-01 · Listing synced 2026-06-05 · 80k job ID `recF5r9JtGtn6MlaX`*
+*Posted 2022-01-01 · Listing synced 2026-06-06 · 80k job ID `recF5r9JtGtn6MlaX`*

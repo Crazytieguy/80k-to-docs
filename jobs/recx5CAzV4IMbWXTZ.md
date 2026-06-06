@@ -2,7 +2,7 @@
 title: "AI Policy Fellow, California Department of Technology"
 employer: "California Council on Science and Technology"
 job_id: "recx5CAzV4IMbWXTZ"
-last_updated: "2026-06-05T05:32:39.984998Z"
+last_updated: "2026-06-06T05:33:07.201129Z"
 posted_at: "2026-05-05T00:04:00Z"
 status: ready
 apply_url: "https://ccst.us/ai-policy-fellow-cdt/"
@@ -35,4 +35,4 @@ areas:
 <p class="apply-cta"><a href="https://ccst.us/ai-policy-fellow-cdt/">Apply →</a></p>
 
 ---
-*Posted 2026-05-05 · Listing synced 2026-06-05 · 80k job ID `recx5CAzV4IMbWXTZ`*
+*Posted 2026-05-05 · Listing synced 2026-06-06 · 80k job ID `recx5CAzV4IMbWXTZ`*

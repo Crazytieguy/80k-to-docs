@@ -2,7 +2,7 @@
 title: "Executive and Operations Associate"
 employer: "AI Safety Connect"
 job_id: "recjUWp9NgReNhca5"
-last_updated: "2026-06-05T05:32:52.665888Z"
+last_updated: "2026-06-06T05:33:18.600844Z"
 posted_at: "2026-04-10T00:01:00Z"
 status: ready
 apply_url: "https://portal.aisafetyconnect.org/executive-operations-associate"
@@ -34,4 +34,4 @@ areas:
 <p class="apply-cta"><a href="https://portal.aisafetyconnect.org/executive-operations-associate">Apply →</a></p>
 
 ---
-*Posted 2026-04-10 · Listing synced 2026-06-05 · 80k job ID `recjUWp9NgReNhca5`*
+*Posted 2026-04-10 · Listing synced 2026-06-06 · 80k job ID `recjUWp9NgReNhca5`*
