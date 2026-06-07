@@ -2,7 +2,7 @@
 title: "Volunteer Internship Program"
 employer: "US Government, Congressional Research Service"
 job_id: "recOYJ6G5JmPQeaEQ"
-last_updated: "2026-06-06T05:34:22.940909Z"
+last_updated: "2026-06-07T05:33:43.530187Z"
 posted_at: "2022-01-02T00:00:00Z"
 status: ready
 apply_url: "https://www.loc.gov/crsinfo/opportunities/volunteer.html"
@@ -33,4 +33,4 @@ areas:
 <p class="apply-cta"><a href="https://www.loc.gov/crsinfo/opportunities/volunteer.html">Apply →</a></p>
 
 ---
-*Posted 2022-01-02 · Listing synced 2026-06-06 · 80k job ID `recOYJ6G5JmPQeaEQ`*
+*Posted 2022-01-02 · Listing synced 2026-06-07 · 80k job ID `recOYJ6G5JmPQeaEQ`*

@@ -2,7 +2,7 @@
 title: "Senior Advisor"
 employer: "Founders Pledge"
 job_id: "reczJIdWkZbRQzxnj"
-last_updated: "2026-06-06T05:33:14.694781Z"
+last_updated: "2026-06-07T05:32:37.093031Z"
 posted_at: "2026-04-17T00:00:00Z"
 status: ready
 apply_url: "https://careers.founderspledge.com/jobs/7582146-senior-advisor"
@@ -34,4 +34,4 @@ areas:
 <p class="apply-cta"><a href="https://careers.founderspledge.com/jobs/7582146-senior-advisor">Apply →</a></p>
 
 ---
-*Posted 2026-04-17 · Listing synced 2026-06-06 · 80k job ID `reczJIdWkZbRQzxnj`*
+*Posted 2026-04-17 · Listing synced 2026-06-07 · 80k job ID `reczJIdWkZbRQzxnj`*

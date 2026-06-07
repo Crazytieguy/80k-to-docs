@@ -2,7 +2,7 @@
 title: "Research Engineer, Societal Impacts"
 employer: "UK Government, AI Security Institute"
 job_id: "rec4g6JmKHcdlltP6"
-last_updated: "2026-06-06T05:32:58.881066Z"
+last_updated: "2026-06-07T05:32:21.560812Z"
 posted_at: "2026-05-13T00:04:32Z"
 status: ready
 apply_url: "https://job-boards.eu.greenhouse.io/aisi/jobs/4803652101"
@@ -34,4 +34,4 @@ areas:
 <p class="apply-cta"><a href="https://job-boards.eu.greenhouse.io/aisi/jobs/4803652101">Apply →</a></p>
 
 ---
-*Posted 2026-05-13 · Listing synced 2026-06-06 · 80k job ID `rec4g6JmKHcdlltP6`*
+*Posted 2026-05-13 · Listing synced 2026-06-07 · 80k job ID `rec4g6JmKHcdlltP6`*

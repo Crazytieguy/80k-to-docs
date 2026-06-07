@@ -2,7 +2,7 @@
 title: "Various Opportunities, DLI Fellowships and Programs"
 employer: "Cornell University, Digital Life Initiative"
 job_id: "rec5Qy6Nqq6gaRzFe"
-last_updated: "2026-06-06T05:34:25.714269Z"
+last_updated: "2026-06-07T05:33:46.159065Z"
 posted_at: "2022-01-01T00:00:00Z"
 status: ready
 apply_url: "https://www.dli.tech.cornell.edu/join"
@@ -32,4 +32,4 @@ areas:
 <p class="apply-cta"><a href="https://www.dli.tech.cornell.edu/join">Apply →</a></p>
 
 ---
-*Posted 2022-01-01 · Listing synced 2026-06-06 · 80k job ID `rec5Qy6Nqq6gaRzFe`*
+*Posted 2022-01-01 · Listing synced 2026-06-07 · 80k job ID `rec5Qy6Nqq6gaRzFe`*

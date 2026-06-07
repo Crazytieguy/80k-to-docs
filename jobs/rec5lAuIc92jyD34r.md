@@ -2,7 +2,7 @@
 title: "Senior Lead"
 employer: "Effective Altruism Hong Kong"
 job_id: "rec5lAuIc92jyD34r"
-last_updated: "2026-06-06T05:32:25.733961Z"
+last_updated: "2026-06-07T05:31:49.441295Z"
 posted_at: "2026-06-04T00:01:00Z"
 status: ready
 apply_url: "https://www.eahongkong.org/copy-of-social-media-manager"
@@ -34,4 +34,4 @@ areas:
 <p class="apply-cta"><a href="https://www.eahongkong.org/copy-of-social-media-manager">Apply →</a></p>
 
 ---
-*Posted 2026-06-04 · Listing synced 2026-06-06 · 80k job ID `rec5lAuIc92jyD34r`*
+*Posted 2026-06-04 · Listing synced 2026-06-07 · 80k job ID `rec5lAuIc92jyD34r`*

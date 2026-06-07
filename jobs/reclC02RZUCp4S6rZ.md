@@ -2,7 +2,7 @@
 title: "Advisor"
 employer: "80,000 Hours"
 job_id: "reclC02RZUCp4S6rZ"
-last_updated: "2026-06-06T05:33:05.317901Z"
+last_updated: "2026-06-07T05:32:27.610774Z"
 posted_at: "2026-05-06T00:03:00Z"
 status: ready
 apply_url: "https://80000hours.org/2026/05/open-position-advisor-2/"
@@ -34,4 +34,4 @@ areas:
 <p class="apply-cta"><a href="https://80000hours.org/2026/05/open-position-advisor-2/">Apply →</a></p>
 
 ---
-*Posted 2026-05-06 · Listing synced 2026-06-06 · 80k job ID `reclC02RZUCp4S6rZ`*
+*Posted 2026-05-06 · Listing synced 2026-06-07 · 80k job ID `reclC02RZUCp4S6rZ`*

@@ -2,7 +2,7 @@
 title: "Frontier AI Research Lead"
 employer: "Georgetown University, Center for Security and Emerging Technology"
 job_id: "rec9i3feQTcjF2lA1"
-last_updated: "2026-06-06T05:33:19.844287Z"
+last_updated: "2026-06-07T05:32:42.498361Z"
 posted_at: "2026-04-08T00:04:43Z"
 status: ready
 apply_url: "https://cset.georgetown.edu/job/research-or-senior-fellow-frontier-ai/"
@@ -33,4 +33,4 @@ areas:
 <p class="apply-cta"><a href="https://cset.georgetown.edu/job/research-or-senior-fellow-frontier-ai/">Apply →</a></p>
 
 ---
-*Posted 2026-04-08 · Listing synced 2026-06-06 · 80k job ID `rec9i3feQTcjF2lA1`*
+*Posted 2026-04-08 · Listing synced 2026-06-07 · 80k job ID `rec9i3feQTcjF2lA1`*

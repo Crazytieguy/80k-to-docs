@@ -4,25 +4,20 @@ employer: "Aspen Institute"
 job_id: "rec6gPXbYWgQEIZOu"
 last_updated: "2026-06-06T05:32:47.129404Z"
 posted_at: "2026-05-22T00:00:00Z"
-status: ready
+status: closed
+closed_at: "2026-06-07"
 apply_url: "https://aspeninstitute.hrmdirect.com/employment/job-opening.php?req=3720324&req_loc=1333608#job"
 areas:
   - "Career development: Policy & government"
 ---
 
+> ⚠️ **CLOSED on 2026-06-07** — this job is no longer listed on the 80,000 Hours board. Archived snapshot below.
+
 # Summer Intern
 
-**[Aspen Institute](https://www.aspeninstitute.org/)**
+**Aspen Institute**
 
-<dl class="job-meta">
-<dt>Location</dt><dd>Washington, DC metro area, USA</dd>
-<dt>Role type</dt><dd>Internship</dd>
-<dt>Experience</dt><dd>Entry-level</dd>
-<dt>Degree</dt><dd>Undergraduate degree or less</dd>
-<dt>Salary</dt><dd>$41,600</dd>
-</dl>
-
-**Areas & skills:** Career development: Policy & government, Policy
+**Areas & skills:** Career development: Policy & government
 
 ## Summary
 - In this role, you'll support the Congressional Program team in organizing policy briefings and events for Members of Congress.

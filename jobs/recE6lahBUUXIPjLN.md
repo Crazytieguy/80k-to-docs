@@ -2,7 +2,7 @@
 title: "Program Coordinator, Analysis"
 employer: "Constellation"
 job_id: "recE6lahBUUXIPjLN"
-last_updated: "2026-06-06T05:32:46.851281Z"
+last_updated: "2026-06-07T05:32:09.761310Z"
 posted_at: "2026-05-22T00:05:00Z"
 status: ready
 apply_url: "https://jobs.gem.com/constellation-institute/33543899-0ba8-4a93-9d0f-d37a59796d83"
@@ -33,4 +33,4 @@ areas:
 <p class="apply-cta"><a href="https://jobs.gem.com/constellation-institute/33543899-0ba8-4a93-9d0f-d37a59796d83">Apply →</a></p>
 
 ---
-*Posted 2026-05-22 · Listing synced 2026-06-06 · 80k job ID `recE6lahBUUXIPjLN`*
+*Posted 2026-05-22 · Listing synced 2026-06-07 · 80k job ID `recE6lahBUUXIPjLN`*

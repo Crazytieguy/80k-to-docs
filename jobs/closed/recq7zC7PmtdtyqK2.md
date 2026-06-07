@@ -4,24 +4,20 @@ employer: "Pure Earth"
 job_id: "recq7zC7PmtdtyqK2"
 last_updated: "2026-06-06T05:34:30.330799Z"
 posted_at: "2022-01-01T00:00:00Z"
-status: ready
+status: closed
+closed_at: "2026-06-07"
 apply_url: "https://www.pureearth.org/wp-content/uploads/2026/02/Program-Manager-Consultant-Malawi.pdf"
 areas:
   - "Global health & development"
 ---
 
+> ⚠️ **CLOSED on 2026-06-07** — this job is no longer listed on the 80,000 Hours board. Archived snapshot below.
+
 # Program Management Consultant, Malawi
 
-**[Pure Earth](https://www.pureearth.org/)**
+**Pure Earth**
 
-<dl class="job-meta">
-<dt>Location</dt><dd>Malawi, Africa</dd>
-<dt>Role type</dt><dd>Full-time</dd>
-<dt>Experience</dt><dd>Mid (5-9 years experience)</dd>
-<dt>Degree</dt><dd>Undergraduate degree or less</dd>
-</dl>
-
-**Areas & skills:** Global health & development, Outreach, Strategy
+**Areas & skills:** Global health & development
 
 ## Summary
 - In this role, you'll lead project scoping for lead poisoning prevention and mitigation efforts in Malawi.

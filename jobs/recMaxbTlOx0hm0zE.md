@@ -2,7 +2,7 @@
 title: "Research Engineer / Research Scientist, Model Transparency"
 employer: "UK Government, AI Security Institute"
 job_id: "recMaxbTlOx0hm0zE"
-last_updated: "2026-06-06T05:33:11.673445Z"
+last_updated: "2026-06-07T05:32:33.952985Z"
 posted_at: "2026-04-27T00:05:00Z"
 status: ready
 apply_url: "https://job-boards.eu.greenhouse.io/aisi/jobs/4848454101"
@@ -34,4 +34,4 @@ areas:
 <p class="apply-cta"><a href="https://job-boards.eu.greenhouse.io/aisi/jobs/4848454101">Apply →</a></p>
 
 ---
-*Posted 2026-04-27 · Listing synced 2026-06-06 · 80k job ID `recMaxbTlOx0hm0zE`*
+*Posted 2026-04-27 · Listing synced 2026-06-07 · 80k job ID `recMaxbTlOx0hm0zE`*

@@ -2,7 +2,7 @@
 title: "Technical Director, AI Safety"
 employer: "Faculty"
 job_id: "rec4PUFfskueiFwRZ"
-last_updated: "2026-06-06T05:33:25.993753Z"
+last_updated: "2026-06-07T05:32:48.824680Z"
 posted_at: "2026-03-19T00:02:00Z"
 status: ready
 apply_url: "https://jobs.ashbyhq.com/faculty/7e726de6-6327-40cd-a00d-0e9be34e1cb4"
@@ -33,4 +33,4 @@ areas:
 <p class="apply-cta"><a href="https://jobs.ashbyhq.com/faculty/7e726de6-6327-40cd-a00d-0e9be34e1cb4">Apply →</a></p>
 
 ---
-*Posted 2026-03-19 · Listing synced 2026-06-06 · 80k job ID `rec4PUFfskueiFwRZ`*
+*Posted 2026-03-19 · Listing synced 2026-06-07 · 80k job ID `rec4PUFfskueiFwRZ`*

@@ -2,7 +2,7 @@
 title: "Intern, Nuclear Policy Research"
 employer: "Arms Control Association"
 job_id: "recmZLQY8svHgH16Z"
-last_updated: "2026-06-06T05:34:13.030357Z"
+last_updated: "2026-06-07T05:33:33.309960Z"
 posted_at: "2022-01-02T00:00:00Z"
 status: ready
 apply_url: "https://www.armscontrol.org/internships"
@@ -33,4 +33,4 @@ areas:
 <p class="apply-cta"><a href="https://www.armscontrol.org/internships">Apply →</a></p>
 
 ---
-*Posted 2022-01-02 · Listing synced 2026-06-06 · 80k job ID `recmZLQY8svHgH16Z`*
+*Posted 2022-01-02 · Listing synced 2026-06-07 · 80k job ID `recmZLQY8svHgH16Z`*

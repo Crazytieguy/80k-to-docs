@@ -2,7 +2,7 @@
 title: "Frontier Biodefense Fellowship"
 employer: "Pivotal Research"
 job_id: "reclZPVNcjLadROJP"
-last_updated: "2026-06-06T05:32:52.915005Z"
+last_updated: "2026-06-07T05:32:15.461626Z"
 posted_at: "2026-05-19T00:04:00Z"
 status: ready
 apply_url: "https://www.pivotal-research.org/fbf"
@@ -34,4 +34,4 @@ areas:
 <p class="apply-cta"><a href="https://www.pivotal-research.org/fbf">Apply →</a></p>
 
 ---
-*Posted 2026-05-19 · Listing synced 2026-06-06 · 80k job ID `reclZPVNcjLadROJP`*
+*Posted 2026-05-19 · Listing synced 2026-06-07 · 80k job ID `reclZPVNcjLadROJP`*

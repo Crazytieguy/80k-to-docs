@@ -2,7 +2,7 @@
 title: "Visiting Fellowship"
 employer: "Constellation"
 job_id: "recHBsKkaLOcdQDpE"
-last_updated: "2026-06-06T05:33:02.798038Z"
+last_updated: "2026-06-07T05:32:25.444155Z"
 posted_at: "2026-05-08T00:04:31Z"
 status: ready
 apply_url: "https://www.constellation.org/programs/researcher-program"
@@ -31,4 +31,4 @@ areas:
 <p class="apply-cta"><a href="https://www.constellation.org/programs/researcher-program">Apply →</a></p>
 
 ---
-*Posted 2026-05-08 · Listing synced 2026-06-06 · 80k job ID `recHBsKkaLOcdQDpE`*
+*Posted 2026-05-08 · Listing synced 2026-06-07 · 80k job ID `recHBsKkaLOcdQDpE`*

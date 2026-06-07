@@ -2,7 +2,7 @@
 title: "Frontend Engineer"
 employer: "Elicit"
 job_id: "recgsrW2s9ApTPygf"
-last_updated: "2026-06-06T05:33:28.834709Z"
+last_updated: "2026-06-07T05:32:51.369362Z"
 posted_at: "2022-01-12T00:00:00Z"
 status: ready
 apply_url: "https://elicit.com/careers?ashby_jid=b5e218b8-8730-4254-b026-1fe2fe02c3eb"
@@ -15,7 +15,7 @@ areas:
 **[Elicit](https://elicit.com/)**
 
 <dl class="job-meta">
-<dt>Location</dt><dd>Remote, USA, San Francisco Bay Area, USA</dd>
+<dt>Location</dt><dd>San Francisco Bay Area, Remote, USA, USA</dd>
 <dt>Role type</dt><dd>Full-time</dd>
 <dt>Experience</dt><dd>Junior (1-4 years experience), Mid (5-9 years experience)</dd>
 <dt>Degree</dt><dd>Undergraduate degree or less</dd>
@@ -34,4 +34,4 @@ areas:
 <p class="apply-cta"><a href="https://elicit.com/careers?ashby_jid=b5e218b8-8730-4254-b026-1fe2fe02c3eb">Apply →</a></p>
 
 ---
-*Posted 2022-01-12 · Listing synced 2026-06-06 · 80k job ID `recgsrW2s9ApTPygf`*
+*Posted 2022-01-12 · Listing synced 2026-06-07 · 80k job ID `recgsrW2s9ApTPygf`*

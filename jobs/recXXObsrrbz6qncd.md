@@ -2,7 +2,7 @@
 title: "People Operations Associate / Specialist"
 employer: "80,000 Hours"
 job_id: "recXXObsrrbz6qncd"
-last_updated: "2026-06-06T05:33:04.829777Z"
+last_updated: "2026-06-07T05:32:27.159418Z"
 posted_at: "2026-05-06T00:03:00Z"
 status: ready
 apply_url: "https://80000hours.org/2026/05/people-operations-associate-specialist-2/"
@@ -34,4 +34,4 @@ areas:
 <p class="apply-cta"><a href="https://80000hours.org/2026/05/people-operations-associate-specialist-2/">Apply →</a></p>
 
 ---
-*Posted 2026-05-06 · Listing synced 2026-06-06 · 80k job ID `recXXObsrrbz6qncd`*
+*Posted 2026-05-06 · Listing synced 2026-06-07 · 80k job ID `recXXObsrrbz6qncd`*

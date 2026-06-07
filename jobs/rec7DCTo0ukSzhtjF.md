@@ -2,7 +2,7 @@
 title: "Impact Accelerator Program"
 employer: "High Impact Professionals"
 job_id: "rec7DCTo0ukSzhtjF"
-last_updated: "2026-06-06T05:33:01.268003Z"
+last_updated: "2026-06-07T05:32:24.173378Z"
 posted_at: "2026-05-11T00:03:00Z"
 status: ready
 apply_url: "https://www.highimpactprofessionals.org/impact-accelerator"
@@ -33,4 +33,4 @@ areas:
 <p class="apply-cta"><a href="https://www.highimpactprofessionals.org/impact-accelerator">Apply →</a></p>
 
 ---
-*Posted 2026-05-11 · Listing synced 2026-06-06 · 80k job ID `rec7DCTo0ukSzhtjF`*
+*Posted 2026-05-11 · Listing synced 2026-06-07 · 80k job ID `rec7DCTo0ukSzhtjF`*

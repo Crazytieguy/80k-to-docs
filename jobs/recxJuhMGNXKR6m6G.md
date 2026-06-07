@@ -2,7 +2,7 @@
 title: "PhD Student / Visiting PhD Student, ELLIS Institute Tübingen and Max Planck Institute for Intelligent Systems"
 employer: "Max Planck Society, Institute for Intelligent Systems"
 job_id: "recxJuhMGNXKR6m6G"
-last_updated: "2026-06-06T05:32:37.150873Z"
+last_updated: "2026-06-07T05:31:59.968367Z"
 posted_at: "2026-05-29T00:00:00Z"
 status: ready
 apply_url: "https://docs.google.com/forms/d/e/1FAIpQLSfERP8qmSWHeDLFQ_NAyyaxcznDrzjJZDNbosPgJDJa0d0MKA/viewform"
@@ -16,7 +16,7 @@ areas:
 
 <dl class="job-meta">
 <dt>Location</dt><dd>Tübingen, Germany, Germany, Europe (ex UK)</dd>
-<dt>Role type</dt><dd>Other, Internship</dd>
+<dt>Role type</dt><dd>Internship, Other</dd>
 <dt>Experience</dt><dd>Entry-level</dd>
 <dt>Degree</dt><dd>Master's degree</dd>
 </dl>
@@ -33,4 +33,4 @@ areas:
 <p class="apply-cta"><a href="https://docs.google.com/forms/d/e/1FAIpQLSfERP8qmSWHeDLFQ_NAyyaxcznDrzjJZDNbosPgJDJa0d0MKA/viewform">Apply →</a></p>
 
 ---
-*Posted 2026-05-29 · Listing synced 2026-06-06 · 80k job ID `recxJuhMGNXKR6m6G`*
+*Posted 2026-05-29 · Listing synced 2026-06-07 · 80k job ID `recxJuhMGNXKR6m6G`*

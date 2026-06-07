@@ -2,7 +2,7 @@
 title: "Incident Manager, Detection and Response"
 employer: "Anthropic"
 job_id: "rec9F3bi4oBz3wMNw"
-last_updated: "2026-06-06T05:33:19.124723Z"
+last_updated: "2026-06-07T05:32:41.707704Z"
 posted_at: "2026-04-10T00:00:00Z"
 status: ready
 apply_url: "https://job-boards.greenhouse.io/anthropic/jobs/5176481008"
@@ -15,7 +15,7 @@ areas:
 **[Anthropic](https://www.anthropic.com/)**
 
 <dl class="job-meta">
-<dt>Location</dt><dd>New York, NY, San Francisco Bay Area, USA, USA (Confirmed Visas)</dd>
+<dt>Location</dt><dd>San Francisco Bay Area, New York, NY, USA, USA (Confirmed Visas)</dd>
 <dt>Role type</dt><dd>Full-time</dd>
 <dt>Experience</dt><dd>Mid (5-9 years experience)</dd>
 <dt>Degree</dt><dd>Undergraduate degree or less</dd>
@@ -34,4 +34,4 @@ areas:
 <p class="apply-cta"><a href="https://job-boards.greenhouse.io/anthropic/jobs/5176481008">Apply →</a></p>
 
 ---
-*Posted 2026-04-10 · Listing synced 2026-06-06 · 80k job ID `rec9F3bi4oBz3wMNw`*
+*Posted 2026-04-10 · Listing synced 2026-06-07 · 80k job ID `rec9F3bi4oBz3wMNw`*

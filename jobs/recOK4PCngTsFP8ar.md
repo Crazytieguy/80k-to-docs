@@ -2,7 +2,7 @@
 title: "Internship, Cybersecurity and AI Research, AI and Software Development"
 employer: "Siemens"
 job_id: "recOK4PCngTsFP8ar"
-last_updated: "2026-06-06T05:32:23.242757Z"
+last_updated: "2026-06-07T05:31:46.991896Z"
 posted_at: "2026-06-05T00:00:00Z"
 status: ready
 apply_url: "https://jobs.siemens.com/en_US/externaljobs/JobDetail/506371?source=LinkedIn&sourceType=PREMIUM_POST_SITE"
@@ -34,4 +34,4 @@ areas:
 <p class="apply-cta"><a href="https://jobs.siemens.com/en_US/externaljobs/JobDetail/506371?source=LinkedIn&amp;sourceType=PREMIUM_POST_SITE">Apply →</a></p>
 
 ---
-*Posted 2026-06-05 · Listing synced 2026-06-06 · 80k job ID `recOK4PCngTsFP8ar`*
+*Posted 2026-06-05 · Listing synced 2026-06-07 · 80k job ID `recOK4PCngTsFP8ar`*

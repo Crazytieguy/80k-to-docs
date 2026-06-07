@@ -2,7 +2,7 @@
 title: "Hardware Assurance Programme"
 employer: "Cambridge AI Safety Hub"
 job_id: "recBRJliirDbME1sF"
-last_updated: "2026-06-06T05:32:26.248137Z"
+last_updated: "2026-06-07T05:31:49.890051Z"
 posted_at: "2026-06-04T00:00:00Z"
 status: ready
 apply_url: "https://caish.org/hardware"
@@ -34,4 +34,4 @@ areas:
 <p class="apply-cta"><a href="https://caish.org/hardware">Apply →</a></p>
 
 ---
-*Posted 2026-06-04 · Listing synced 2026-06-06 · 80k job ID `recBRJliirDbME1sF`*
+*Posted 2026-06-04 · Listing synced 2026-06-07 · 80k job ID `recBRJliirDbME1sF`*

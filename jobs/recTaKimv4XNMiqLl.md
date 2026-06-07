@@ -2,7 +2,7 @@
 title: "Lean Proof Contractor"
 employer: "Dovetail"
 job_id: "recTaKimv4XNMiqLl"
-last_updated: "2026-06-06T05:33:14.566818Z"
+last_updated: "2026-06-07T05:32:36.957373Z"
 posted_at: "2026-04-20T00:00:00Z"
 status: ready
 apply_url: "https://dovetailresearch.org/jobs/798cc873-2e07-4716-9c5a-5cbc32992c03/lean-prover"
@@ -34,4 +34,4 @@ areas:
 <p class="apply-cta"><a href="https://dovetailresearch.org/jobs/798cc873-2e07-4716-9c5a-5cbc32992c03/lean-prover">Apply →</a></p>
 
 ---
-*Posted 2026-04-20 · Listing synced 2026-06-06 · 80k job ID `recTaKimv4XNMiqLl`*
+*Posted 2026-04-20 · Listing synced 2026-06-07 · 80k job ID `recTaKimv4XNMiqLl`*

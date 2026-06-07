@@ -2,7 +2,7 @@
 title: "Founding Product Engineer"
 employer: "0Labs"
 job_id: "recrdFEVWv11wy4p2"
-last_updated: "2026-06-06T05:33:13.296649Z"
+last_updated: "2026-06-07T05:32:35.582765Z"
 posted_at: "2026-04-23T00:00:00Z"
 status: ready
 apply_url: "https://www.0labs.ai/careers/founding-product-engineer"
@@ -15,7 +15,7 @@ areas:
 **[0Labs](https://www.0labs.ai/)**
 
 <dl class="job-meta">
-<dt>Location</dt><dd>San Francisco Bay Area, London, UK, UK, USA</dd>
+<dt>Location</dt><dd>London, UK, San Francisco Bay Area, UK, USA</dd>
 <dt>Role type</dt><dd>Full-time</dd>
 <dt>Experience</dt><dd>Mid (5-9 years experience)</dd>
 <dt>Degree</dt><dd>Undergraduate degree or less</dd>
@@ -33,4 +33,4 @@ areas:
 <p class="apply-cta"><a href="https://www.0labs.ai/careers/founding-product-engineer">Apply →</a></p>
 
 ---
-*Posted 2026-04-23 · Listing synced 2026-06-06 · 80k job ID `recrdFEVWv11wy4p2`*
+*Posted 2026-04-23 · Listing synced 2026-06-07 · 80k job ID `recrdFEVWv11wy4p2`*

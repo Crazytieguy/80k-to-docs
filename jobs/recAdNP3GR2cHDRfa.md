@@ -2,10 +2,10 @@
 title: "Generalist, Strategy and Operations"
 employer: "CivAI"
 job_id: "recAdNP3GR2cHDRfa"
-last_updated: "2026-06-06T05:32:24.522813Z"
+last_updated: "2026-06-07T05:31:48.310651Z"
 posted_at: "2026-06-04T00:05:00Z"
 status: ready
-apply_url: "https://civai.org/jobs/generalist-strategy-operations"
+apply_url: "https://civai.org/jobs/generalist"
 areas:
   - "AI safety & policy"
 ---
@@ -31,7 +31,7 @@ areas:
 - Write memos, readouts, and other communications for influential audiences.
 - Plan and coordinate educational events, track outcomes, and build systematic outreach processes.
 
-<p class="apply-cta"><a href="https://civai.org/jobs/generalist-strategy-operations">Apply →</a></p>
+<p class="apply-cta"><a href="https://civai.org/jobs/generalist">Apply →</a></p>
 
 ---
-*Posted 2026-06-04 · Listing synced 2026-06-06 · 80k job ID `recAdNP3GR2cHDRfa`*
+*Posted 2026-06-04 · Listing synced 2026-06-07 · 80k job ID `recAdNP3GR2cHDRfa`*

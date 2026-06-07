@@ -2,7 +2,7 @@
 title: "Science-Policy Visiting Fellow, Emerging Technology and Verification Processes"
 employer: "United Nations University"
 job_id: "recODrEItaBiAJplq"
-last_updated: "2026-06-06T05:32:23.699496Z"
+last_updated: "2026-06-07T05:31:47.467884Z"
 posted_at: "2026-06-05T00:00:00Z"
 status: ready
 apply_url: "https://careers.unu.edu/o/science-policy-visiting-fellow-bwc"
@@ -34,4 +34,4 @@ areas:
 <p class="apply-cta"><a href="https://careers.unu.edu/o/science-policy-visiting-fellow-bwc">Apply →</a></p>
 
 ---
-*Posted 2026-06-05 · Listing synced 2026-06-06 · 80k job ID `recODrEItaBiAJplq`*
+*Posted 2026-06-05 · Listing synced 2026-06-07 · 80k job ID `recODrEItaBiAJplq`*

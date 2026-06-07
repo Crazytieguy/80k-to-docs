@@ -2,7 +2,7 @@
 title: "Data Scientist, Alignment"
 employer: "AE Studio"
 job_id: "recXmAt9hO2Qf3Iqf"
-last_updated: "2026-06-06T05:33:17.760581Z"
+last_updated: "2026-06-07T05:32:40.222225Z"
 posted_at: "2026-04-13T00:00:00Z"
 status: ready
 apply_url: "https://grnh.se/f78074f54us"
@@ -15,7 +15,7 @@ areas:
 **[AE Studio](https://ae.studio/)**
 
 <dl class="job-meta">
-<dt>Location</dt><dd>Remote, USA, Los Angeles, CA, USA</dd>
+<dt>Location</dt><dd>Los Angeles, CA, Remote, USA, USA</dd>
 <dt>Role type</dt><dd>Full-time</dd>
 <dt>Experience</dt><dd>Junior (1-4 years experience), Mid (5-9 years experience)</dd>
 <dt>Degree</dt><dd>Undergraduate degree or less</dd>
@@ -33,4 +33,4 @@ areas:
 <p class="apply-cta"><a href="https://grnh.se/f78074f54us">Apply →</a></p>
 
 ---
-*Posted 2026-04-13 · Listing synced 2026-06-06 · 80k job ID `recXmAt9hO2Qf3Iqf`*
+*Posted 2026-04-13 · Listing synced 2026-06-07 · 80k job ID `recXmAt9hO2Qf3Iqf`*

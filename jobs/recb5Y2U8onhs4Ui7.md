@@ -2,7 +2,7 @@
 title: "List of Climate Technology Roles"
 employer: "Climate Pledge Fund"
 job_id: "recb5Y2U8onhs4Ui7"
-last_updated: "2026-06-06T05:34:25.300591Z"
+last_updated: "2026-06-07T05:33:45.726180Z"
 posted_at: "2022-01-01T00:00:00Z"
 status: ready
 apply_url: "https://portfoliojobs.theclimatepledge.com/jobs"
@@ -30,4 +30,4 @@ areas:
 <p class="apply-cta"><a href="https://portfoliojobs.theclimatepledge.com/jobs">Apply →</a></p>
 
 ---
-*Posted 2022-01-01 · Listing synced 2026-06-06 · 80k job ID `recb5Y2U8onhs4Ui7`*
+*Posted 2022-01-01 · Listing synced 2026-06-07 · 80k job ID `recb5Y2U8onhs4Ui7`*

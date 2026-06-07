@@ -2,7 +2,7 @@
 title: "Research Program Coordinator"
 employer: "Constellation"
 job_id: "recbXPMyUHNb8nS5P"
-last_updated: "2026-06-06T05:33:50.110420Z"
+last_updated: "2026-06-07T05:33:11.551125Z"
 posted_at: "2022-01-06T00:00:00Z"
 status: ready
 apply_url: "https://jobs.gem.com/constellation-institute/64106250-5fb4-4ff5-b562-cc279c57dc57"
@@ -34,4 +34,4 @@ areas:
 <p class="apply-cta"><a href="https://jobs.gem.com/constellation-institute/64106250-5fb4-4ff5-b562-cc279c57dc57">Apply →</a></p>
 
 ---
-*Posted 2022-01-06 · Listing synced 2026-06-06 · 80k job ID `recbXPMyUHNb8nS5P`*
+*Posted 2022-01-06 · Listing synced 2026-06-07 · 80k job ID `recbXPMyUHNb8nS5P`*

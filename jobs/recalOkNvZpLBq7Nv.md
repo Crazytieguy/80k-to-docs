@@ -2,7 +2,7 @@
 title: "Pilot Program"
 employer: "Northeastern University, National Deep Inference Fabric"
 job_id: "recalOkNvZpLBq7Nv"
-last_updated: "2026-06-06T05:34:30.028833Z"
+last_updated: "2026-06-07T05:33:49.968201Z"
 posted_at: "2022-01-01T00:00:00Z"
 status: ready
 apply_url: "https://ndif.us/405b.html"
@@ -33,4 +33,4 @@ areas:
 <p class="apply-cta"><a href="https://ndif.us/405b.html">Apply →</a></p>
 
 ---
-*Posted 2022-01-01 · Listing synced 2026-06-06 · 80k job ID `recalOkNvZpLBq7Nv`*
+*Posted 2022-01-01 · Listing synced 2026-06-07 · 80k job ID `recalOkNvZpLBq7Nv`*

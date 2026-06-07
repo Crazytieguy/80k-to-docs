@@ -2,7 +2,7 @@
 title: "Director of Operations"
 employer: "ERA"
 job_id: "recnf4SJoTlRdwW9C"
-last_updated: "2026-06-06T05:32:54.596739Z"
+last_updated: "2026-06-07T05:32:17.065092Z"
 posted_at: "2026-05-18T00:05:00Z"
 status: ready
 apply_url: "https://docs.google.com/document/d/146aHIPBkHSCQiIb4IYXHO9SrM4uPE5QTUcj58gMyTjY/edit?tab=t.0#heading=h.fk3c44ady1v"
@@ -34,4 +34,4 @@ areas:
 <p class="apply-cta"><a href="https://docs.google.com/document/d/146aHIPBkHSCQiIb4IYXHO9SrM4uPE5QTUcj58gMyTjY/edit?tab=t.0#heading=h.fk3c44ady1v">Apply →</a></p>
 
 ---
-*Posted 2026-05-18 · Listing synced 2026-06-06 · 80k job ID `recnf4SJoTlRdwW9C`*
+*Posted 2026-05-18 · Listing synced 2026-06-07 · 80k job ID `recnf4SJoTlRdwW9C`*
