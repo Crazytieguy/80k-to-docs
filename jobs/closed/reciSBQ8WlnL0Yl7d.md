@@ -4,24 +4,20 @@ employer: "Coalition for Epidemic Preparedness Innovations"
 job_id: "reciSBQ8WlnL0Yl7d"
 last_updated: "2026-06-07T05:32:07.751991Z"
 posted_at: "2026-05-25T00:02:00Z"
-status: ready
+status: closed
+closed_at: "2026-06-08"
 apply_url: "https://cepi.my.salesforce-sites.com/careers/xcdrecruit__PositionDetails?id=a43P300000Eex2vIAB"
 areas:
   - "Biosecurity & pandemic preparedness"
 ---
 
+> ⚠️ **CLOSED on 2026-06-08** — this job is no longer listed on the 80,000 Hours board. Archived snapshot below.
+
 # Senior Manager, Defense Partnerships
 
-**[Coalition for Epidemic Preparedness Innovations](https://cepi.net/)**
+**Coalition for Epidemic Preparedness Innovations**
 
-<dl class="job-meta">
-<dt>Location</dt><dd>Washington, DC metro area, USA</dd>
-<dt>Role type</dt><dd>Full-time</dd>
-<dt>Experience</dt><dd>Mid (5-9 years experience)</dd>
-<dt>Degree</dt><dd>Master's degree</dd>
-</dl>
-
-**Areas & skills:** Biosecurity & pandemic preparedness, Policy, Outreach
+**Areas & skills:** Biosecurity & pandemic preparedness
 
 ## Summary
 - In this role, you'll lead CEPI's defense partnerships to advance biosecurity and accelerate CEPI's goal to develop safe, effective and accessible vaccines against new threats in just 100 days.

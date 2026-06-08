@@ -2,7 +2,7 @@
 title: "Fellowship, Hague Code of Conduct Youth Group"
 employer: "Fondation pour la Recherche Stratégique"
 job_id: "rec6RjEGPhcxxCKzV"
-last_updated: "2026-06-07T05:32:47.544672Z"
+last_updated: "2026-06-08T05:32:49.403894Z"
 posted_at: "2026-03-26T00:00:00Z"
 status: ready
 apply_url: "https://www.nonproliferation.eu/hcoc/hcoc-youth-group-second-edition-call-for-applications-now-open/"
@@ -33,4 +33,4 @@ areas:
 <p class="apply-cta"><a href="https://www.nonproliferation.eu/hcoc/hcoc-youth-group-second-edition-call-for-applications-now-open/">Apply →</a></p>
 
 ---
-*Posted 2026-03-26 · Listing synced 2026-06-07 · 80k job ID `rec6RjEGPhcxxCKzV`*
+*Posted 2026-03-26 · Listing synced 2026-06-08 · 80k job ID `rec6RjEGPhcxxCKzV`*

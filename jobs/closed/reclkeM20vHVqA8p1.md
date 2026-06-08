@@ -4,24 +4,20 @@ employer: "Scaling Altruism"
 job_id: "reclkeM20vHVqA8p1"
 last_updated: "2026-06-07T05:32:04.388081Z"
 posted_at: "2026-05-27T00:00:00Z"
-status: ready
+status: closed
+closed_at: "2026-06-08"
 apply_url: "https://www.scalingaltruism.com/career-planning-course"
 areas:
   - "Building effective altruism"
 ---
 
+> ⚠️ **CLOSED on 2026-06-08** — this job is no longer listed on the 80,000 Hours board. Archived snapshot below.
+
 # Career Planning Course (Summer 2026)
 
-**[Scaling Altruism](https://www.scalingaltruism.com/)**
+**Scaling Altruism**
 
-<dl class="job-meta">
-<dt>Location</dt><dd>Remote, Global</dd>
-<dt>Role type</dt><dd>Course</dd>
-<dt>Experience</dt><dd>Entry-level</dd>
-<dt>Degree</dt><dd>Undergraduate degree or less</dd>
-</dl>
-
-**Areas & skills:** Building effective altruism, Other
+**Areas & skills:** Building effective altruism
 
 ## Summary
 - This course teaches how to use your career to do the most good through structured planning and peer discussion.

@@ -4,24 +4,20 @@ employer: "High Impact Professionals"
 job_id: "rec7DCTo0ukSzhtjF"
 last_updated: "2026-06-07T05:32:24.173378Z"
 posted_at: "2026-05-11T00:03:00Z"
-status: ready
+status: closed
+closed_at: "2026-06-08"
 apply_url: "https://www.highimpactprofessionals.org/impact-accelerator"
 areas:
   - "Building effective altruism"
 ---
 
+> ⚠️ **CLOSED on 2026-06-08** — this job is no longer listed on the 80,000 Hours board. Archived snapshot below.
+
 # Impact Accelerator Program
 
-**[High Impact Professionals](https://www.highimpactprofessionals.org/)**
+**High Impact Professionals**
 
-<dl class="job-meta">
-<dt>Location</dt><dd>Remote, Global</dd>
-<dt>Role type</dt><dd>Full-time</dd>
-<dt>Experience</dt><dd>Mid (5-9 years experience), Senior (10+ years experience)</dd>
-<dt>Degree</dt><dd>Undergraduate degree or less</dd>
-</dl>
-
-**Areas & skills:** Building effective altruism, Other
+**Areas & skills:** Building effective altruism
 
 ## Summary
 - This is a 6-week structured program with cohort support to help you transition into a high-impact career.

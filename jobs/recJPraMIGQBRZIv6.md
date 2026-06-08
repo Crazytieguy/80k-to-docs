@@ -2,7 +2,7 @@
 title: "Head of Operations"
 employer: "Centre for British Progress"
 job_id: "recJPraMIGQBRZIv6"
-last_updated: "2026-06-07T05:32:08.893939Z"
+last_updated: "2026-06-08T05:32:11.006435Z"
 posted_at: "2026-05-25T00:00:00Z"
 status: ready
 apply_url: "https://britishprogress.org/opportunities/head-of-operations"
@@ -19,7 +19,7 @@ areas:
 <dt>Role type</dt><dd>Full-time</dd>
 <dt>Experience</dt><dd>Mid (5-9 years experience)</dd>
 <dt>Degree</dt><dd>Undergraduate degree or less</dd>
-<dt>Salary</dt><dd>$93,387 – $120,069</dd>
+<dt>Salary</dt><dd>$93,413 – $120,102</dd>
 </dl>
 
 **Areas & skills:** Science policy and infrastructure, Operations, Management, Finance
@@ -34,4 +34,4 @@ areas:
 <p class="apply-cta"><a href="https://britishprogress.org/opportunities/head-of-operations">Apply →</a></p>
 
 ---
-*Posted 2026-05-25 · Listing synced 2026-06-07 · 80k job ID `recJPraMIGQBRZIv6`*
+*Posted 2026-05-25 · Listing synced 2026-06-08 · 80k job ID `recJPraMIGQBRZIv6`*

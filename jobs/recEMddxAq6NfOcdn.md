@@ -2,7 +2,7 @@
 title: "Entrepreneur in Residence, Product and Spinouts"
 employer: "Amodo Design"
 job_id: "recEMddxAq6NfOcdn"
-last_updated: "2026-06-07T05:33:44.455818Z"
+last_updated: "2026-06-08T05:33:45.893004Z"
 posted_at: "2022-01-01T00:00:00Z"
 status: ready
 apply_url: "https://amododesign.com/career/products-spinouts/"
@@ -19,7 +19,7 @@ areas:
 <dt>Role type</dt><dd>Full-time</dd>
 <dt>Experience</dt><dd>Mid (5-9 years experience)</dd>
 <dt>Degree</dt><dd>Undergraduate degree or less</dd>
-<dt>Salary</dt><dd>$66,705 – $100,057</dd>
+<dt>Salary</dt><dd>$66,724 – $100,085</dd>
 </dl>
 
 **Areas & skills:** Career development: Technical, Strategy
@@ -34,4 +34,4 @@ areas:
 <p class="apply-cta"><a href="https://amododesign.com/career/products-spinouts/">Apply →</a></p>
 
 ---
-*Posted 2022-01-01 · Listing synced 2026-06-07 · 80k job ID `recEMddxAq6NfOcdn`*
+*Posted 2022-01-01 · Listing synced 2026-06-08 · 80k job ID `recEMddxAq6NfOcdn`*

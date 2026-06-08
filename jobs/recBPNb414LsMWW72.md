@@ -2,7 +2,7 @@
 title: "Member of Staff, AI and Rule of Law"
 employer: "Anthropic"
 job_id: "recBPNb414LsMWW72"
-last_updated: "2026-06-07T05:31:54.039471Z"
+last_updated: "2026-06-08T05:31:57.056888Z"
 posted_at: "2026-06-02T00:00:00Z"
 status: ready
 apply_url: "https://job-boards.greenhouse.io/anthropic/jobs/5232392008"
@@ -33,4 +33,4 @@ areas:
 <p class="apply-cta"><a href="https://job-boards.greenhouse.io/anthropic/jobs/5232392008">Apply →</a></p>
 
 ---
-*Posted 2026-06-02 · Listing synced 2026-06-07 · 80k job ID `recBPNb414LsMWW72`*
+*Posted 2026-06-02 · Listing synced 2026-06-08 · 80k job ID `recBPNb414LsMWW72`*

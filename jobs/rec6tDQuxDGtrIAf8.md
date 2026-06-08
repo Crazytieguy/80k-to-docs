@@ -2,7 +2,7 @@
 title: "Member of Technical Staff"
 employer: "Institute for Progress"
 job_id: "rec6tDQuxDGtrIAf8"
-last_updated: "2026-06-07T05:32:30.350016Z"
+last_updated: "2026-06-08T05:32:31.806719Z"
 posted_at: "2026-05-01T00:01:00Z"
 status: ready
 apply_url: "https://ifp.org/opportunity/member-of-technical-staff/"
@@ -34,4 +34,4 @@ areas:
 <p class="apply-cta"><a href="https://ifp.org/opportunity/member-of-technical-staff/">Apply →</a></p>
 
 ---
-*Posted 2026-05-01 · Listing synced 2026-06-07 · 80k job ID `rec6tDQuxDGtrIAf8`*
+*Posted 2026-05-01 · Listing synced 2026-06-08 · 80k job ID `rec6tDQuxDGtrIAf8`*

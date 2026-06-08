@@ -2,7 +2,7 @@
 title: "Internship (Fall 2026)"
 employer: "Vienna Center for Disarmament and Non-Proliferation"
 job_id: "rec95d1YQ6wsaiUSS"
-last_updated: "2026-06-07T05:32:29.530338Z"
+last_updated: "2026-06-08T05:32:30.970658Z"
 posted_at: "2026-05-05T00:01:00Z"
 status: ready
 apply_url: "https://vcdnp.org/fall-2026-internship/"
@@ -19,7 +19,7 @@ areas:
 <dt>Role type</dt><dd>Internship</dd>
 <dt>Experience</dt><dd>Entry-level</dd>
 <dt>Degree</dt><dd>Undergraduate degree or less</dd>
-<dt>Salary</dt><dd>$13,824</dd>
+<dt>Salary</dt><dd>$13,843</dd>
 </dl>
 
 **Areas & skills:** Nuclear security, Research, Policy
@@ -34,4 +34,4 @@ areas:
 <p class="apply-cta"><a href="https://vcdnp.org/fall-2026-internship/">Apply →</a></p>
 
 ---
-*Posted 2026-05-05 · Listing synced 2026-06-07 · 80k job ID `rec95d1YQ6wsaiUSS`*
+*Posted 2026-05-05 · Listing synced 2026-06-08 · 80k job ID `rec95d1YQ6wsaiUSS`*

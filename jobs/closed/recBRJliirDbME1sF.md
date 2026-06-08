@@ -4,25 +4,20 @@ employer: "Cambridge AI Safety Hub"
 job_id: "recBRJliirDbME1sF"
 last_updated: "2026-06-07T05:31:49.890051Z"
 posted_at: "2026-06-04T00:00:00Z"
-status: ready
+status: closed
+closed_at: "2026-06-08"
 apply_url: "https://caish.org/hardware"
 areas:
   - "AI safety & policy"
 ---
 
+> ⚠️ **CLOSED on 2026-06-08** — this job is no longer listed on the 80,000 Hours board. Archived snapshot below.
+
 # Hardware Assurance Programme
 
-**[Cambridge AI Safety Hub](https://www.cambridgeaisafety.org/)**
+**Cambridge AI Safety Hub**
 
-<dl class="job-meta">
-<dt>Location</dt><dd>Cambridge, UK, UK</dd>
-<dt>Role type</dt><dd>Course</dd>
-<dt>Experience</dt><dd>Multiple experience levels</dd>
-<dt>Degree</dt><dd>Undergraduate degree or less</dd>
-<dt>Salary</dt><dd>$2,001</dd>
-</dl>
-
-**Areas & skills:** AI safety & policy, Engineering, Research, Information security
+**Areas & skills:** AI safety & policy
 
 ## Summary
 - In this six-day programme, you'll build hardware assurance mechanisms to verify AI chip operations.

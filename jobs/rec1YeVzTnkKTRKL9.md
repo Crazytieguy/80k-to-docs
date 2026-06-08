@@ -2,7 +2,7 @@
 title: "Administration Associate"
 employer: "Cooperative AI Foundation"
 job_id: "rec1YeVzTnkKTRKL9"
-last_updated: "2026-06-07T05:31:49.307004Z"
+last_updated: "2026-06-08T05:31:53.189381Z"
 posted_at: "2026-06-04T00:01:00Z"
 status: ready
 apply_url: "https://www.cooperativeai.com/job-listing/administration-associate"
@@ -19,7 +19,7 @@ areas:
 <dt>Role type</dt><dd>Full-time</dd>
 <dt>Experience</dt><dd>Junior (1-4 years experience)</dd>
 <dt>Degree</dt><dd>Undergraduate degree or less</dd>
-<dt>Salary</dt><dd>$66,705 – $73,375</dd>
+<dt>Salary</dt><dd>$66,724 – $73,396</dd>
 </dl>
 
 **Areas & skills:** AI safety & policy, Operations
@@ -34,4 +34,4 @@ areas:
 <p class="apply-cta"><a href="https://www.cooperativeai.com/job-listing/administration-associate">Apply →</a></p>
 
 ---
-*Posted 2026-06-04 · Listing synced 2026-06-07 · 80k job ID `rec1YeVzTnkKTRKL9`*
+*Posted 2026-06-04 · Listing synced 2026-06-08 · 80k job ID `rec1YeVzTnkKTRKL9`*

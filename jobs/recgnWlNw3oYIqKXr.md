@@ -2,7 +2,7 @@
 title: "Designer"
 employer: "Epoch AI"
 job_id: "recgnWlNw3oYIqKXr"
-last_updated: "2026-06-07T05:32:29.242188Z"
+last_updated: "2026-06-08T05:32:30.675452Z"
 posted_at: "2026-05-05T00:04:52Z"
 status: ready
 apply_url: "https://jobs.lever.co/epoch-ai/9ad63519-ec2d-4ae0-b838-3d28972cb62a"
@@ -34,4 +34,4 @@ areas:
 <p class="apply-cta"><a href="https://jobs.lever.co/epoch-ai/9ad63519-ec2d-4ae0-b838-3d28972cb62a">Apply →</a></p>
 
 ---
-*Posted 2026-05-05 · Listing synced 2026-06-07 · 80k job ID `recgnWlNw3oYIqKXr`*
+*Posted 2026-05-05 · Listing synced 2026-06-08 · 80k job ID `recgnWlNw3oYIqKXr`*

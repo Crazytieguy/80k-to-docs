@@ -2,7 +2,7 @@
 title: "William Randolph Hearst Fellow"
 employer: "Aspen Institute"
 job_id: "receAHfcKAm6Epdjq"
-last_updated: "2026-06-07T05:32:46.975444Z"
+last_updated: "2026-06-08T05:32:48.841478Z"
 posted_at: "2026-03-31T00:00:00Z"
 status: ready
 apply_url: "https://aspeninstitute.hrmdirect.com/employment/job-opening.php?req=3671245&req_loc=1270856#job"
@@ -34,4 +34,4 @@ areas:
 <p class="apply-cta"><a href="https://aspeninstitute.hrmdirect.com/employment/job-opening.php?req=3671245&amp;req_loc=1270856#job">Apply →</a></p>
 
 ---
-*Posted 2026-03-31 · Listing synced 2026-06-07 · 80k job ID `receAHfcKAm6Epdjq`*
+*Posted 2026-03-31 · Listing synced 2026-06-08 · 80k job ID `receAHfcKAm6Epdjq`*

@@ -2,7 +2,7 @@
 title: "Research Coordinator"
 employer: "London AI Safety Research Labs"
 job_id: "recDx1S3KgiVztO8z"
-last_updated: "2026-06-07T05:32:12.875478Z"
+last_updated: "2026-06-08T05:32:15.596474Z"
 posted_at: "2026-05-20T00:03:00Z"
 status: ready
 apply_url: "https://www.lasrlabs.org/research-coordinator"
@@ -19,7 +19,7 @@ areas:
 <dt>Role type</dt><dd>Full-time</dd>
 <dt>Experience</dt><dd>Junior (1-4 years experience)</dd>
 <dt>Degree</dt><dd>Undergraduate degree or less</dd>
-<dt>Salary</dt><dd>$66,705 – $80,046</dd>
+<dt>Salary</dt><dd>$66,724 – $80,068</dd>
 </dl>
 
 **Areas & skills:** AI safety & policy, Operations
@@ -34,4 +34,4 @@ areas:
 <p class="apply-cta"><a href="https://www.lasrlabs.org/research-coordinator">Apply →</a></p>
 
 ---
-*Posted 2026-05-20 · Listing synced 2026-06-07 · 80k job ID `recDx1S3KgiVztO8z`*
+*Posted 2026-05-20 · Listing synced 2026-06-08 · 80k job ID `recDx1S3KgiVztO8z`*

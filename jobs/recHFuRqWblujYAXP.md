@@ -2,7 +2,7 @@
 title: "Program Manager"
 employer: "AI Safety Connect"
 job_id: "recHFuRqWblujYAXP"
-last_updated: "2026-06-07T05:32:32.124232Z"
+last_updated: "2026-06-08T05:32:34.392632Z"
 posted_at: "2026-04-29T00:02:00Z"
 status: ready
 apply_url: "https://portal.aisafetyconnect.org/program-manager"
@@ -34,4 +34,4 @@ areas:
 <p class="apply-cta"><a href="https://portal.aisafetyconnect.org/program-manager">Apply →</a></p>
 
 ---
-*Posted 2026-04-29 · Listing synced 2026-06-07 · 80k job ID `recHFuRqWblujYAXP`*
+*Posted 2026-04-29 · Listing synced 2026-06-08 · 80k job ID `recHFuRqWblujYAXP`*

@@ -2,7 +2,7 @@
 title: "Software Engineer, High-Performance Pipelines"
 employer: "SecureBio"
 job_id: "recXrwakcTRQmanFe"
-last_updated: "2026-06-07T05:31:55.804113Z"
+last_updated: "2026-06-08T05:31:58.712799Z"
 posted_at: "2026-06-01T00:05:00Z"
 status: ready
 apply_url: "https://securebio.org/careers/2026-software-engineer-pipelines/"
@@ -34,4 +34,4 @@ areas:
 <p class="apply-cta"><a href="https://securebio.org/careers/2026-software-engineer-pipelines/">Apply →</a></p>
 
 ---
-*Posted 2026-06-01 · Listing synced 2026-06-07 · 80k job ID `recXrwakcTRQmanFe`*
+*Posted 2026-06-01 · Listing synced 2026-06-08 · 80k job ID `recXrwakcTRQmanFe`*

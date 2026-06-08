@@ -2,7 +2,7 @@
 title: "Course Operations Lead"
 employer: "BlueDot Impact"
 job_id: "recbsPw6ch3VRFDWB"
-last_updated: "2026-06-07T05:32:26.606399Z"
+last_updated: "2026-06-08T05:32:28.548679Z"
 posted_at: "2026-05-07T00:05:00Z"
 status: ready
 apply_url: "https://bluedot.org/join-us/course-ops-lead"
@@ -34,4 +34,4 @@ areas:
 <p class="apply-cta"><a href="https://bluedot.org/join-us/course-ops-lead">Apply →</a></p>
 
 ---
-*Posted 2026-05-07 · Listing synced 2026-06-07 · 80k job ID `recbsPw6ch3VRFDWB`*
+*Posted 2026-05-07 · Listing synced 2026-06-08 · 80k job ID `recbsPw6ch3VRFDWB`*

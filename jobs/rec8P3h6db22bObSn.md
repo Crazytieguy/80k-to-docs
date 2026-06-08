@@ -2,7 +2,7 @@
 title: "Head of AI Safety Laboratory"
 employer: "Canadian Government, National Research Council Canada"
 job_id: "rec8P3h6db22bObSn"
-last_updated: "2026-06-07T05:31:45.292067Z"
+last_updated: "2026-06-08T05:31:49.181910Z"
 posted_at: "2026-06-05T00:03:00Z"
 status: ready
 apply_url: "https://www.linkedin.com/jobs/view/4418436620/?eBP=NON_CHARGEABLE_CHANNEL&refId=Z2OKQ3uNdYhuH1xUy58pPA%3D%3D&trackingId=WAJcBCvz2Cw6jsEFHksYaw%3D%3D&trk=flagship3_search_srp_jobs"
@@ -34,4 +34,4 @@ areas:
 <p class="apply-cta"><a href="https://www.linkedin.com/jobs/view/4418436620/?eBP=NON_CHARGEABLE_CHANNEL&amp;refId=Z2OKQ3uNdYhuH1xUy58pPA%3D%3D&amp;trackingId=WAJcBCvz2Cw6jsEFHksYaw%3D%3D&amp;trk=flagship3_search_srp_jobs">Apply →</a></p>
 
 ---
-*Posted 2026-06-05 · Listing synced 2026-06-07 · 80k job ID `rec8P3h6db22bObSn`*
+*Posted 2026-06-05 · Listing synced 2026-06-08 · 80k job ID `rec8P3h6db22bObSn`*

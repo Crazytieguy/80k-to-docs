@@ -4,24 +4,20 @@ employer: "BlueDot Impact"
 job_id: "recZ5UmT0PHIlDjiM"
 last_updated: "2026-06-07T05:31:56.244060Z"
 posted_at: "2026-06-01T00:03:00Z"
-status: ready
+status: closed
+closed_at: "2026-06-08"
 apply_url: "https://bluedot.org/courses/technical-ai-safety-project"
 areas:
   - "AI safety & policy"
 ---
 
+> ⚠️ **CLOSED on 2026-06-08** — this job is no longer listed on the 80,000 Hours board. Archived snapshot below.
+
 # Technical AI Safety Project Sprint
 
-**[BlueDot Impact](https://www.bluedotimpact.org/)**
+**BlueDot Impact**
 
-<dl class="job-meta">
-<dt>Location</dt><dd>Remote, Global</dd>
-<dt>Role type</dt><dd>Course</dd>
-<dt>Experience</dt><dd>Entry-level</dd>
-<dt>Degree</dt><dd>Undergraduate degree or less</dd>
-</dl>
-
-**Areas & skills:** AI safety & policy, Research, Software engineering
+**Areas & skills:** AI safety & policy
 
 ## Summary
 - This course teaches how to make a meaningful contribution to AI safety research or engineering through a structured 30-hour project sprint.

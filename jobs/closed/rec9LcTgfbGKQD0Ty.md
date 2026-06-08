@@ -4,25 +4,20 @@ employer: "80,000 Hours"
 job_id: "rec9LcTgfbGKQD0Ty"
 last_updated: "2026-06-07T05:32:27.464083Z"
 posted_at: "2026-05-06T00:03:00Z"
-status: ready
+status: closed
+closed_at: "2026-06-08"
 apply_url: "https://80000hours.org/2026/05/recruiting-associate-specialist-2/"
 areas:
   - "AI safety & policy"
 ---
 
+> ⚠️ **CLOSED on 2026-06-08** — this job is no longer listed on the 80,000 Hours board. Archived snapshot below.
+
 # Recruiting Associate / Specialist
 
-**[80,000 Hours](https://80000hours.org/)**
+**80,000 Hours**
 
-<dl class="job-meta">
-<dt>Location</dt><dd>London, UK, UK, UK (Confirmed Visas)</dd>
-<dt>Role type</dt><dd>Full-time</dd>
-<dt>Experience</dt><dd>Junior (1-4 years experience), Entry-level</dd>
-<dt>Degree</dt><dd>Undergraduate degree or less</dd>
-<dt>Salary</dt><dd>$90,122 – $134,518</dd>
-</dl>
-
-**Areas & skills:** AI safety & policy, Operations
+**Areas & skills:** AI safety & policy
 
 ## Summary
 - In this role, you'll help scale 80,000 Hours' recruiting function to support the organization's rapid growth.

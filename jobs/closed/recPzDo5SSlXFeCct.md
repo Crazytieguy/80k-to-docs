@@ -4,24 +4,20 @@ employer: "BlueDot Impact"
 job_id: "recPzDo5SSlXFeCct"
 last_updated: "2026-06-07T05:32:00.643116Z"
 posted_at: "2026-05-28T00:02:00Z"
-status: ready
+status: closed
+closed_at: "2026-06-08"
 apply_url: "https://bluedot.org/courses/biosecurity"
 areas:
   - "Biosecurity & pandemic preparedness"
 ---
 
+> ⚠️ **CLOSED on 2026-06-08** — this job is no longer listed on the 80,000 Hours board. Archived snapshot below.
+
 # Biosecurity Course
 
-**[BlueDot Impact](https://www.bluedotimpact.org/)**
+**BlueDot Impact**
 
-<dl class="job-meta">
-<dt>Location</dt><dd>Remote, Global</dd>
-<dt>Role type</dt><dd>Course</dd>
-<dt>Experience</dt><dd>Entry-level</dd>
-<dt>Degree</dt><dd>Undergraduate degree or less</dd>
-</dl>
-
-**Areas & skills:** Biosecurity & pandemic preparedness, Other
+**Areas & skills:** Biosecurity & pandemic preparedness
 
 ## Summary
 - This course teaches how to prevent, detect and respond to pandemic threats and identify where you can contribute.

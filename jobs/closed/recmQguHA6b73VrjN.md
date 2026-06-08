@@ -4,25 +4,20 @@ employer: "UK Government, Health Security Agency"
 job_id: "recmQguHA6b73VrjN"
 last_updated: "2026-06-07T05:32:04.533466Z"
 posted_at: "2026-05-27T00:00:00Z"
-status: ready
+status: closed
+closed_at: "2026-06-08"
 apply_url: "https://www.civilservicejobs.service.gov.uk/csr/jobs.cgi?jcode=1998986&csource=csalerts"
 areas:
   - "Career development"
 ---
 
+> ⚠️ **CLOSED on 2026-06-08** — this job is no longer listed on the 80,000 Hours board. Archived snapshot below.
+
 # Epidemiology and Information Analyst
 
-**[UK Government, Health Security Agency](https://www.gov.uk/)**
+**UK Government, Health Security Agency**
 
-<dl class="job-meta">
-<dt>Location</dt><dd>London, UK, UK</dd>
-<dt>Role type</dt><dd>Full-time</dd>
-<dt>Experience</dt><dd>Entry-level</dd>
-<dt>Degree</dt><dd>Undergraduate degree or less</dd>
-<dt>Salary</dt><dd>$43,524 – $50,345</dd>
-</dl>
-
-**Areas & skills:** Career development, Research
+**Areas & skills:** Career development
 
 ## Summary
 - In this role, you'll analyze data to support infectious disease surveillance and outbreak investigations.

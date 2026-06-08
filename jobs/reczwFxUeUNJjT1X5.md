@@ -2,7 +2,7 @@
 title: "Head of People and Recruitment"
 employer: "Tarbell Center for AI Journalism"
 job_id: "reczwFxUeUNJjT1X5"
-last_updated: "2026-06-07T05:32:06.764213Z"
+last_updated: "2026-06-08T05:32:09.129382Z"
 posted_at: "2026-05-25T00:05:00Z"
 status: ready
 apply_url: "https://www.tarbellcenter.org/careers/head-of-people"
@@ -34,4 +34,4 @@ areas:
 <p class="apply-cta"><a href="https://www.tarbellcenter.org/careers/head-of-people">Apply →</a></p>
 
 ---
-*Posted 2026-05-25 · Listing synced 2026-06-07 · 80k job ID `reczwFxUeUNJjT1X5`*
+*Posted 2026-05-25 · Listing synced 2026-06-08 · 80k job ID `reczwFxUeUNJjT1X5`*

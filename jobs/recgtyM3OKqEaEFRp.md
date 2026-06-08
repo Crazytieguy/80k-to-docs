@@ -2,7 +2,7 @@
 title: "Senior Program Assistant"
 employer: "PATH, Center for Vaccine Innovation and Access"
 job_id: "recgtyM3OKqEaEFRp"
-last_updated: "2026-06-07T05:31:50.459728Z"
+last_updated: "2026-06-08T05:31:54.275204Z"
 posted_at: "2026-06-04T00:00:00Z"
 status: ready
 apply_url: "https://path.wd1.myworkdayjobs.com/en-US/External/job/United-States-Washington-DC-Headquarters-Office/Senior-Program-Assistant--Center-for-Vaccine-Innovation-and-Access_JR2628?q=center+for+vaccine+innovation+and+access"
@@ -34,4 +34,4 @@ areas:
 <p class="apply-cta"><a href="https://path.wd1.myworkdayjobs.com/en-US/External/job/United-States-Washington-DC-Headquarters-Office/Senior-Program-Assistant--Center-for-Vaccine-Innovation-and-Access_JR2628?q=center+for+vaccine+innovation+and+access">Apply →</a></p>
 
 ---
-*Posted 2026-06-04 · Listing synced 2026-06-07 · 80k job ID `recgtyM3OKqEaEFRp`*
+*Posted 2026-06-04 · Listing synced 2026-06-08 · 80k job ID `recgtyM3OKqEaEFRp`*

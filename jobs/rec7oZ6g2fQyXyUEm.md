@@ -2,7 +2,7 @@
 title: "Senior Research Scholar and William J. Perry Lecturer"
 employer: "Stanford University, Center for International Security and Cooperation"
 job_id: "rec7oZ6g2fQyXyUEm"
-last_updated: "2026-06-07T05:33:01.883272Z"
+last_updated: "2026-06-08T05:33:03.584957Z"
 posted_at: "2022-01-09T00:00:00Z"
 status: ready
 apply_url: "https://careersearch.stanford.edu/jobs/senior-research-scholar-william-j-perry-lecturer-29368"
@@ -35,4 +35,4 @@ areas:
 <p class="apply-cta"><a href="https://careersearch.stanford.edu/jobs/senior-research-scholar-william-j-perry-lecturer-29368">Apply →</a></p>
 
 ---
-*Posted 2022-01-09 · Listing synced 2026-06-07 · 80k job ID `rec7oZ6g2fQyXyUEm`*
+*Posted 2022-01-09 · Listing synced 2026-06-08 · 80k job ID `rec7oZ6g2fQyXyUEm`*

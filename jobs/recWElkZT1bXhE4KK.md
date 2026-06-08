@@ -2,7 +2,7 @@
 title: "Manager, Vaccine Forecasting"
 employer: "Gavi"
 job_id: "recWElkZT1bXhE4KK"
-last_updated: "2026-06-07T05:31:52.361627Z"
+last_updated: "2026-06-08T05:31:55.897025Z"
 posted_at: "2026-06-03T00:00:00Z"
 status: ready
 apply_url: "https://www.linkedin.com/jobs/view/4421205917/?alternateChannel=search&eBP=NON_CHARGEABLE_CHANNEL&refId=EBfVZBquuIF7kVgpkIY9Kw%3D%3D&trackingId=6NQ%2BMCId%2FgEU%2FVhScpEsrw%3D%3D&trk=d_flagship3_search_srp_jobs"
@@ -33,4 +33,4 @@ areas:
 <p class="apply-cta"><a href="https://www.linkedin.com/jobs/view/4421205917/?alternateChannel=search&amp;eBP=NON_CHARGEABLE_CHANNEL&amp;refId=EBfVZBquuIF7kVgpkIY9Kw%3D%3D&amp;trackingId=6NQ%2BMCId%2FgEU%2FVhScpEsrw%3D%3D&amp;trk=d_flagship3_search_srp_jobs">Apply →</a></p>
 
 ---
-*Posted 2026-06-03 · Listing synced 2026-06-07 · 80k job ID `recWElkZT1bXhE4KK`*
+*Posted 2026-06-03 · Listing synced 2026-06-08 · 80k job ID `recWElkZT1bXhE4KK`*
