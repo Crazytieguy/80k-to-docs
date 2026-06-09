@@ -2,7 +2,7 @@
 title: "Student Research Assistant"
 employer: "Forecasting Research Institute"
 job_id: "recmbGQzGKBExvsUj"
-last_updated: "2026-06-08T05:33:37.929125Z"
+last_updated: "2026-06-09T05:33:53.852362Z"
 posted_at: "2022-01-02T00:00:00Z"
 status: ready
 apply_url: "https://forecastingresearch.org/careers/student-research-assistant"
@@ -34,4 +34,4 @@ areas:
 <p class="apply-cta"><a href="https://forecastingresearch.org/careers/student-research-assistant">Apply →</a></p>
 
 ---
-*Posted 2022-01-02 · Listing synced 2026-06-08 · 80k job ID `recmbGQzGKBExvsUj`*
+*Posted 2022-01-02 · Listing synced 2026-06-09 · 80k job ID `recmbGQzGKBExvsUj`*

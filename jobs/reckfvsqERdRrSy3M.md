@@ -2,7 +2,7 @@
 title: "Policy Officer, Medical Counter Measures Intelligence and Innovation"
 employer: "European Union, European Commission"
 job_id: "reckfvsqERdRrSy3M"
-last_updated: "2026-06-08T05:31:56.742076Z"
+last_updated: "2026-06-09T05:32:11.022883Z"
 posted_at: "2026-06-02T00:01:00Z"
 status: ready
 apply_url: "https://eu-careers.europa.eu/en/job-opportunities/policy-officer-medical-counter-measures-intelligence-and-innovation/ec-2026-hera"
@@ -33,4 +33,4 @@ areas:
 <p class="apply-cta"><a href="https://eu-careers.europa.eu/en/job-opportunities/policy-officer-medical-counter-measures-intelligence-and-innovation/ec-2026-hera">Apply →</a></p>
 
 ---
-*Posted 2026-06-02 · Listing synced 2026-06-08 · 80k job ID `reckfvsqERdRrSy3M`*
+*Posted 2026-06-02 · Listing synced 2026-06-09 · 80k job ID `reckfvsqERdRrSy3M`*

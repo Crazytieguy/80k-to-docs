@@ -4,24 +4,20 @@ employer: "Stanford University, Center for International Security and Cooperatio
 job_id: "rectGcG2RvcDTZGDB"
 last_updated: "2026-06-08T05:32:28.161969Z"
 posted_at: "2026-05-08T00:00:00Z"
-status: ready
+status: closed
+closed_at: "2026-06-09"
 apply_url: "https://cisac.fsi.stanford.edu/content/cisac-fellowship-program"
 areas:
   - "AI safety & policy"
 ---
 
+> ⚠️ **CLOSED on 2026-06-09** — this job is no longer listed on the 80,000 Hours board. Archived snapshot below.
+
 # Fellowship, Artificial Intelligence in Strategic Stability and Military Competition
 
-**[Stanford University, Center for International Security and Cooperation](https://cisac.fsi.stanford.edu/)**
+**Stanford University, Center for International Security and Cooperation**
 
-<dl class="job-meta">
-<dt>Location</dt><dd>San Francisco Bay Area, USA</dd>
-<dt>Role type</dt><dd>Fellowship</dd>
-<dt>Experience</dt><dd>Entry-level</dd>
-<dt>Degree</dt><dd>Doctoral degree</dd>
-</dl>
-
-**Areas & skills:** AI safety & policy, Research, Policy
+**Areas & skills:** AI safety & policy
 
 ## Summary
 - In this role, you'll conduct research and writing on international security topics in collaboration with leading faculty.

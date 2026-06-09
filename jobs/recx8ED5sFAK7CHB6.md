@@ -2,7 +2,7 @@
 title: "Research Scientist, Reproductive, Genitourinary and Digestive Disease"
 employer: "University of Washington, Institute for Health Metrics and Evaluation"
 job_id: "recx8ED5sFAK7CHB6"
-last_updated: "2026-06-08T05:31:51.488227Z"
+last_updated: "2026-06-09T05:32:05.665749Z"
 posted_at: "2026-06-05T00:00:00Z"
 status: ready
 apply_url: "https://www.healthdata.org/index%2Ephp/about/careers/job-openings/research-scientist-temporary-rgud"
@@ -34,4 +34,4 @@ areas:
 <p class="apply-cta"><a href="https://www.healthdata.org/index%2Ephp/about/careers/job-openings/research-scientist-temporary-rgud">Apply →</a></p>
 
 ---
-*Posted 2026-06-05 · Listing synced 2026-06-08 · 80k job ID `recx8ED5sFAK7CHB6`*
+*Posted 2026-06-05 · Listing synced 2026-06-09 · 80k job ID `recx8ED5sFAK7CHB6`*

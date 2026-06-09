@@ -2,7 +2,7 @@
 title: "Program Manager / Director"
 employer: "Innovate Animal Ag"
 job_id: "recpePOaQE9p2ncx9"
-last_updated: "2026-06-08T05:33:50.083363Z"
+last_updated: "2026-06-09T05:34:06.628372Z"
 posted_at: "2022-01-01T00:00:00Z"
 status: ready
 apply_url: "https://innovateanimalag.org/careers"
@@ -33,4 +33,4 @@ areas:
 <p class="apply-cta"><a href="https://innovateanimalag.org/careers">Apply →</a></p>
 
 ---
-*Posted 2022-01-01 · Listing synced 2026-06-08 · 80k job ID `recpePOaQE9p2ncx9`*
+*Posted 2022-01-01 · Listing synced 2026-06-09 · 80k job ID `recpePOaQE9p2ncx9`*

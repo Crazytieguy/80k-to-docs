@@ -2,7 +2,7 @@
 title: "Expression of Interest, Biosecurity"
 employer: "Coefficient Giving"
 job_id: "recFRRmEamXtFXcXm"
-last_updated: "2026-06-08T05:33:03.450994Z"
+last_updated: "2026-06-09T05:33:18.650916Z"
 posted_at: "2022-01-09T00:00:00Z"
 status: ready
 apply_url: "https://airtable.com/appk4qxUG2dzCJUT2/pagHnnCDjCWQ0tCv9/form"
@@ -29,4 +29,4 @@ areas:
 <p class="apply-cta"><a href="https://airtable.com/appk4qxUG2dzCJUT2/pagHnnCDjCWQ0tCv9/form">Apply →</a></p>
 
 ---
-*Posted 2022-01-09 · Listing synced 2026-06-08 · 80k job ID `recFRRmEamXtFXcXm`*
+*Posted 2022-01-09 · Listing synced 2026-06-09 · 80k job ID `recFRRmEamXtFXcXm`*

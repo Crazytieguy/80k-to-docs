@@ -4,24 +4,20 @@ employer: "United Nations, International Computing Centre"
 job_id: "recPkcINH430C2hMt"
 last_updated: "2026-06-08T05:31:54.442250Z"
 posted_at: "2026-06-04T00:00:00Z"
-status: ready
+status: closed
+closed_at: "2026-06-09"
 apply_url: "https://www.unicc.org/working-with-icc/cs-intern/"
 areas:
   - "Career development: Policy & government"
 ---
 
+> ⚠️ **CLOSED on 2026-06-09** — this job is no longer listed on the 80,000 Hours board. Archived snapshot below.
+
 # Intern, Cybersecurity
 
-**[United Nations, International Computing Centre](https://www.unicc.org/)**
+**United Nations, International Computing Centre**
 
-<dl class="job-meta">
-<dt>Location</dt><dd>Various, Global, Remote, Global</dd>
-<dt>Role type</dt><dd>Internship</dd>
-<dt>Experience</dt><dd>Entry-level</dd>
-<dt>Degree</dt><dd>Undergraduate degree or less</dd>
-</dl>
-
-**Areas & skills:** Career development: Policy & government, Information security
+**Areas & skills:** Career development: Policy & government
 
 ## Summary
 - In this role, you'll support the Cybersecurity team by assisting with operations and technical activities across the UN system.

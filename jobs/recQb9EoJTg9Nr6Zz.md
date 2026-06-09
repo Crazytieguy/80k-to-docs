@@ -2,7 +2,7 @@
 title: "Research Scientist"
 employer: "Principles of Intelligence"
 job_id: "recQb9EoJTg9Nr6Zz"
-last_updated: "2026-06-08T05:32:10.520834Z"
+last_updated: "2026-06-09T05:32:26.548991Z"
 posted_at: "2026-05-25T00:01:00Z"
 status: ready
 apply_url: "https://princint.ai/now-hiring-research-scientists-at-principles-of-intelligence/"
@@ -34,4 +34,4 @@ areas:
 <p class="apply-cta"><a href="https://princint.ai/now-hiring-research-scientists-at-principles-of-intelligence/">Apply →</a></p>
 
 ---
-*Posted 2026-05-25 · Listing synced 2026-06-08 · 80k job ID `recQb9EoJTg9Nr6Zz`*
+*Posted 2026-05-25 · Listing synced 2026-06-09 · 80k job ID `recQb9EoJTg9Nr6Zz`*

@@ -2,7 +2,7 @@
 title: "AI and National Security Lead"
 employer: "Future of Life Institute"
 job_id: "recgxGsjwTqBD18Ex"
-last_updated: "2026-06-08T05:32:09.003819Z"
+last_updated: "2026-06-09T05:32:24.695488Z"
 posted_at: "2026-05-25T00:05:00Z"
 status: ready
 apply_url: "https://jobs.lever.co/futureof-life/64426784-11de-4c92-872f-90925b372e5a"
@@ -34,4 +34,4 @@ areas:
 <p class="apply-cta"><a href="https://jobs.lever.co/futureof-life/64426784-11de-4c92-872f-90925b372e5a">Apply →</a></p>
 
 ---
-*Posted 2026-05-25 · Listing synced 2026-06-08 · 80k job ID `recgxGsjwTqBD18Ex`*
+*Posted 2026-05-25 · Listing synced 2026-06-09 · 80k job ID `recgxGsjwTqBD18Ex`*

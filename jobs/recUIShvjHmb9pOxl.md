@@ -2,7 +2,7 @@
 title: "Researcher, Governance of AI Lab"
 employer: "Hebrew University of Jerusalem, School of Computer Science and Engineering"
 job_id: "recUIShvjHmb9pOxl"
-last_updated: "2026-06-08T05:33:13.563099Z"
+last_updated: "2026-06-09T05:33:28.911777Z"
 posted_at: "2022-01-06T00:00:00Z"
 status: ready
 apply_url: "https://docs.google.com/forms/d/e/1FAIpQLSfwQ7ZkUljz4HPDlLUH2r4KjeRrh8bRTWge3MZgqVEklGd31g/viewform"
@@ -33,4 +33,4 @@ areas:
 <p class="apply-cta"><a href="https://docs.google.com/forms/d/e/1FAIpQLSfwQ7ZkUljz4HPDlLUH2r4KjeRrh8bRTWge3MZgqVEklGd31g/viewform">Apply →</a></p>
 
 ---
-*Posted 2022-01-06 · Listing synced 2026-06-08 · 80k job ID `recUIShvjHmb9pOxl`*
+*Posted 2022-01-06 · Listing synced 2026-06-09 · 80k job ID `recUIShvjHmb9pOxl`*

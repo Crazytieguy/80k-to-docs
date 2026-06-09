@@ -2,7 +2,7 @@
 title: "UX Designer, Culture Change Indicators"
 employer: "Sharpen Strategy"
 job_id: "recEPQmiIAv3mlVNP"
-last_updated: "2026-06-08T05:32:50.093900Z"
+last_updated: "2026-06-09T05:33:05.124188Z"
 posted_at: "2026-03-25T00:00:00Z"
 status: ready
 apply_url: "https://sharpen-strategy.breezy.hr/p/1adf66486ff201-culture-change-indicators-ux-designer"
@@ -33,4 +33,4 @@ areas:
 <p class="apply-cta"><a href="https://sharpen-strategy.breezy.hr/p/1adf66486ff201-culture-change-indicators-ux-designer">Apply →</a></p>
 
 ---
-*Posted 2026-03-25 · Listing synced 2026-06-08 · 80k job ID `recEPQmiIAv3mlVNP`*
+*Posted 2026-03-25 · Listing synced 2026-06-09 · 80k job ID `recEPQmiIAv3mlVNP`*

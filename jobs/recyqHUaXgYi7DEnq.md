@@ -2,7 +2,7 @@
 title: "Externship / Student Volunteer, Pro Bono Program (Fall 2026 and Spring 2027)"
 employer: "Animal Legal Defense Fund"
 job_id: "recyqHUaXgYi7DEnq"
-last_updated: "2026-06-08T05:32:31.574580Z"
+last_updated: "2026-06-09T05:32:47.008973Z"
 posted_at: "2026-05-05T00:00:00Z"
 status: ready
 apply_url: "https://recruiting.paylocity.com/Recruiting/Jobs/Details/4020075"
@@ -33,4 +33,4 @@ areas:
 <p class="apply-cta"><a href="https://recruiting.paylocity.com/Recruiting/Jobs/Details/4020075">Apply →</a></p>
 
 ---
-*Posted 2026-05-05 · Listing synced 2026-06-08 · 80k job ID `recyqHUaXgYi7DEnq`*
+*Posted 2026-05-05 · Listing synced 2026-06-09 · 80k job ID `recyqHUaXgYi7DEnq`*

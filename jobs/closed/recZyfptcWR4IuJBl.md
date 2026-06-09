@@ -4,25 +4,20 @@ employer: "Microsoft"
 job_id: "recZyfptcWR4IuJBl"
 last_updated: "2026-06-08T05:32:06.847779Z"
 posted_at: "2026-05-27T00:00:00Z"
-status: ready
+status: closed
+closed_at: "2026-06-09"
 apply_url: "https://apply.careers.microsoft.com/careers/job/1970393556826707?domain=microsoft.com&src=LinkedIn"
 areas:
   - "Career development: Technical"
 ---
 
+> ⚠️ **CLOSED on 2026-06-09** — this job is no longer listed on the 80,000 Hours board. Archived snapshot below.
+
 # Research Intern, AI Safety and Security
 
-**[Microsoft](https://www.microsoft.com/en-us/about/company)**
+**Microsoft**
 
-<dl class="job-meta">
-<dt>Location</dt><dd>Seattle metro area, USA</dd>
-<dt>Role type</dt><dd>Internship</dd>
-<dt>Experience</dt><dd>Entry-level</dd>
-<dt>Degree</dt><dd>Master's degree</dd>
-<dt>Salary</dt><dd>$80,520 – $172,320</dd>
-</dl>
-
-**Areas & skills:** Career development: Technical, Research, Information security
+**Areas & skills:** Career development: Technical
 
 ## Summary
 - In this role, you'll conduct research on LLM safety and security with Microsoft Research's Deep Learning Team during a 12-week internship.

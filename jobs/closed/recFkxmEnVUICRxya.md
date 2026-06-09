@@ -4,25 +4,20 @@ employer: "Oxford University, Nuffield Department of Population Health"
 job_id: "recFkxmEnVUICRxya"
 last_updated: "2026-06-08T05:32:24.931079Z"
 posted_at: "2026-05-13T00:00:00Z"
-status: ready
+status: closed
+closed_at: "2026-06-09"
 apply_url: "https://my.corehr.com/pls/uoxrecruit/erq_jobspec_version_4.display_form?p_refresh_search=Y&p_recruitment_id=186236&p_form_profile_detail=&p_display_apply_ind=Y&p_process_type=&p_applicant_no=&p_company=10&p_internal_external=E&p_display_in_irish=N"
 areas:
   - "Biosecurity & pandemic preparedness"
 ---
 
+> ⚠️ **CLOSED on 2026-06-09** — this job is no longer listed on the 80,000 Hours board. Archived snapshot below.
+
 # Programme Manager, Pandemic Sciences Institute
 
-**[Oxford University, Nuffield Department of Population Health](https://www.ndph.ox.ac.uk/)**
+**Oxford University, Nuffield Department of Population Health**
 
-<dl class="job-meta">
-<dt>Location</dt><dd>Oxford, UK, UK</dd>
-<dt>Role type</dt><dd>Full-time</dd>
-<dt>Experience</dt><dd>Mid (5-9 years experience)</dd>
-<dt>Degree</dt><dd>Undergraduate degree or less</dd>
-<dt>Salary</dt><dd>$65,548 – $84,724</dd>
-</dl>
-
-**Areas & skills:** Biosecurity & pandemic preparedness, Strategy
+**Areas & skills:** Biosecurity & pandemic preparedness
 
 ## Summary
 - In this role, you'll manage programmes and projects across the Pandemic Sciences Institute Policy and Practice Research Group, particularly GloPID-R and Pandemic PACT.

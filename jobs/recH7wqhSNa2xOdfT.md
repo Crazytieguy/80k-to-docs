@@ -2,7 +2,7 @@
 title: "Data Engineer, Safeguards"
 employer: "Anthropic"
 job_id: "recH7wqhSNa2xOdfT"
-last_updated: "2026-06-08T05:32:51.587321Z"
+last_updated: "2026-06-09T05:33:06.658090Z"
 posted_at: "2022-01-12T00:00:00Z"
 status: ready
 apply_url: "https://job-boards.greenhouse.io/anthropic/jobs/5156057008"
@@ -19,7 +19,7 @@ areas:
 <dt>Role type</dt><dd>Full-time</dd>
 <dt>Experience</dt><dd>Junior (1-4 years experience)</dd>
 <dt>Degree</dt><dd>Undergraduate degree or less</dd>
-<dt>Salary</dt><dd>$226,860 – $293,583</dd>
+<dt>Salary</dt><dd>$227,094 – $293,886</dd>
 </dl>
 
 **Areas & skills:** AI safety & policy, Software engineering
@@ -34,4 +34,4 @@ areas:
 <p class="apply-cta"><a href="https://job-boards.greenhouse.io/anthropic/jobs/5156057008">Apply →</a></p>
 
 ---
-*Posted 2022-01-12 · Listing synced 2026-06-08 · 80k job ID `recH7wqhSNa2xOdfT`*
+*Posted 2022-01-12 · Listing synced 2026-06-09 · 80k job ID `recH7wqhSNa2xOdfT`*

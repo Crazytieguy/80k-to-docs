@@ -4,25 +4,20 @@ employer: "Canadian Government, National Research Council Canada"
 job_id: "rec8P3h6db22bObSn"
 last_updated: "2026-06-08T05:31:49.181910Z"
 posted_at: "2026-06-05T00:03:00Z"
-status: ready
+status: closed
+closed_at: "2026-06-09"
 apply_url: "https://www.linkedin.com/jobs/view/4418436620/?eBP=NON_CHARGEABLE_CHANNEL&refId=Z2OKQ3uNdYhuH1xUy58pPA%3D%3D&trackingId=WAJcBCvz2Cw6jsEFHksYaw%3D%3D&trk=flagship3_search_srp_jobs"
 areas:
   - "AI safety & policy"
 ---
 
+> ⚠️ **CLOSED on 2026-06-09** — this job is no longer listed on the 80,000 Hours board. Archived snapshot below.
+
 # Head of AI Safety Laboratory
 
-**[Canadian Government, National Research Council Canada](https://nrc.canada.ca/en)**
+**Canadian Government, National Research Council Canada**
 
-<dl class="job-meta">
-<dt>Location</dt><dd>Ottawa, Canada, Canada</dd>
-<dt>Role type</dt><dd>Full-time</dd>
-<dt>Experience</dt><dd>Mid (5-9 years experience)</dd>
-<dt>Degree</dt><dd>Undergraduate degree or less</dd>
-<dt>Salary</dt><dd>$119,688 – $168,192</dd>
-</dl>
-
-**Areas & skills:** AI safety & policy, Research, Policy, Management
+**Areas & skills:** AI safety & policy
 
 ## Summary
 - In this role, you'll establish and lead the NRC's AI Safety Lab, conducting rigorous evaluations of frontier AI systems and translating findings into actionable guidance.

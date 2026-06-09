@@ -4,25 +4,20 @@ employer: "AI Safety Connect"
 job_id: "recuWjFj4eNDJ0Egi"
 last_updated: "2026-06-08T05:32:22.656110Z"
 posted_at: "2026-05-14T00:02:00Z"
-status: ready
+status: closed
+closed_at: "2026-06-09"
 apply_url: "https://portal.aisafetyconnect.org/special-program-coordinator-china-engagement"
 areas:
   - "AI safety & policy"
 ---
 
+> ⚠️ **CLOSED on 2026-06-09** — this job is no longer listed on the 80,000 Hours board. Archived snapshot below.
+
 # Special Program Coordinator, China Engagement
 
-**[AI Safety Connect](https://www.aisafetyconnect.org/)**
+**AI Safety Connect**
 
-<dl class="job-meta">
-<dt>Location</dt><dd>Beijing, China, Shanghai, China, China, Asia</dd>
-<dt>Role type</dt><dd>Part-time</dd>
-<dt>Experience</dt><dd>Junior (1-4 years experience)</dd>
-<dt>Degree</dt><dd>Undergraduate degree or less</dd>
-<dt>Salary</dt><dd>$30,000 – $42,000</dd>
-</dl>
-
-**Areas & skills:** AI safety & policy, Operations
+**Areas & skills:** AI safety & policy
 
 ## Summary
 - In this role, you'll coordinate the production and delivery of AISC's conference programme in Shanghai.

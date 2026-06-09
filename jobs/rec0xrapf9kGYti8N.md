@@ -2,7 +2,7 @@
 title: "Managing Director, US / Canada"
 employer: "Mercy for Animals"
 job_id: "rec0xrapf9kGYti8N"
-last_updated: "2026-06-08T05:31:57.631013Z"
+last_updated: "2026-06-09T05:32:11.786988Z"
 posted_at: "2026-06-02T00:00:00Z"
 status: ready
 apply_url: "https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=9b16364c-5e0e-4e66-be82-8f108b1eb279&ccId=19000101_000001&jobId=552441&lang=en_US&source=LR"
@@ -35,4 +35,4 @@ areas:
 <p class="apply-cta"><a href="https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=9b16364c-5e0e-4e66-be82-8f108b1eb279&amp;ccId=19000101_000001&amp;jobId=552441&amp;lang=en_US&amp;source=LR">Apply →</a></p>
 
 ---
-*Posted 2026-06-02 · Listing synced 2026-06-08 · 80k job ID `rec0xrapf9kGYti8N`*
+*Posted 2026-06-02 · Listing synced 2026-06-09 · 80k job ID `rec0xrapf9kGYti8N`*

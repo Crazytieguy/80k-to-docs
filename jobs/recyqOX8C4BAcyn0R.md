@@ -2,7 +2,7 @@
 title: "Junior Marketer"
 employer: "FarmKind"
 job_id: "recyqOX8C4BAcyn0R"
-last_updated: "2026-06-08T05:32:02.747504Z"
+last_updated: "2026-06-09T05:32:17.715465Z"
 posted_at: "2026-05-29T00:00:00Z"
 status: ready
 apply_url: "https://www.farmkind.giving/hiring-june-2026"
@@ -34,4 +34,4 @@ areas:
 <p class="apply-cta"><a href="https://www.farmkind.giving/hiring-june-2026">Apply →</a></p>
 
 ---
-*Posted 2026-05-29 · Listing synced 2026-06-08 · 80k job ID `recyqOX8C4BAcyn0R`*
+*Posted 2026-05-29 · Listing synced 2026-06-09 · 80k job ID `recyqOX8C4BAcyn0R`*

@@ -2,7 +2,7 @@
 title: "Senior Scientist, Research and Development"
 employer: "Perimeter"
 job_id: "recCJOFE0FqQeccY4"
-last_updated: "2026-06-08T05:32:23.799766Z"
+last_updated: "2026-06-09T05:32:39.221669Z"
 posted_at: "2026-05-14T00:00:00Z"
 status: ready
 apply_url: "https://www.linkedin.com/jobs/view/4413999014/?alternateChannel=search&trk=d_flagship3_company&refId=Rvt48cVRjsNsRAv%2B7g0eFA%3D%3D&trackingId=oOVIwe4KkWstutIloktOUg%3D%3D"
@@ -33,4 +33,4 @@ areas:
 <p class="apply-cta"><a href="https://www.linkedin.com/jobs/view/4413999014/?alternateChannel=search&amp;trk=d_flagship3_company&amp;refId=Rvt48cVRjsNsRAv%2B7g0eFA%3D%3D&amp;trackingId=oOVIwe4KkWstutIloktOUg%3D%3D">Apply →</a></p>
 
 ---
-*Posted 2026-05-14 · Listing synced 2026-06-08 · 80k job ID `recCJOFE0FqQeccY4`*
+*Posted 2026-05-14 · Listing synced 2026-06-09 · 80k job ID `recCJOFE0FqQeccY4`*

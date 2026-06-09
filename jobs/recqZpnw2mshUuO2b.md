@@ -2,7 +2,7 @@
 title: "AI Science Advisor, California Department of Technology"
 employer: "California Council on Science and Technology"
 job_id: "recqZpnw2mshUuO2b"
-last_updated: "2026-06-08T05:32:10.871743Z"
+last_updated: "2026-06-09T05:32:26.961786Z"
 posted_at: "2026-05-25T00:00:00Z"
 status: ready
 apply_url: "https://ccst.us/ai-advisor-cdt/"
@@ -34,4 +34,4 @@ areas:
 <p class="apply-cta"><a href="https://ccst.us/ai-advisor-cdt/">Apply →</a></p>
 
 ---
-*Posted 2026-05-25 · Listing synced 2026-06-08 · 80k job ID `recqZpnw2mshUuO2b`*
+*Posted 2026-05-25 · Listing synced 2026-06-09 · 80k job ID `recqZpnw2mshUuO2b`*

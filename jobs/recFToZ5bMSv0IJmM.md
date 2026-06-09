@@ -2,7 +2,7 @@
 title: "Intern, Human Resources"
 employer: "Centre for European Policy Studies"
 job_id: "recFToZ5bMSv0IJmM"
-last_updated: "2026-06-08T05:31:53.823322Z"
+last_updated: "2026-06-09T05:32:08.314500Z"
 posted_at: "2026-06-04T00:00:00Z"
 status: ready
 apply_url: "https://cdn.ceps.eu/2026/06/Job-advert_Intern-HR.pdf"
@@ -33,4 +33,4 @@ areas:
 <p class="apply-cta"><a href="https://cdn.ceps.eu/2026/06/Job-advert_Intern-HR.pdf">Apply →</a></p>
 
 ---
-*Posted 2026-06-04 · Listing synced 2026-06-08 · 80k job ID `recFToZ5bMSv0IJmM`*
+*Posted 2026-06-04 · Listing synced 2026-06-09 · 80k job ID `recFToZ5bMSv0IJmM`*

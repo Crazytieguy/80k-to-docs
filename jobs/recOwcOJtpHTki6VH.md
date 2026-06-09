@@ -2,7 +2,7 @@
 title: "Junior Software Engineer"
 employer: "Against Malaria Foundation"
 job_id: "recOwcOJtpHTki6VH"
-last_updated: "2026-06-08T05:32:33.249963Z"
+last_updated: "2026-06-09T05:32:48.067140Z"
 posted_at: "2026-04-30T00:00:00Z"
 status: ready
 apply_url: "https://www.againstmalaria.com/NewsItem.aspx?newsitem=AMF-is-hiring-Junior-Software-Engineer"
@@ -33,4 +33,4 @@ areas:
 <p class="apply-cta"><a href="https://www.againstmalaria.com/NewsItem.aspx?newsitem=AMF-is-hiring-Junior-Software-Engineer">Apply →</a></p>
 
 ---
-*Posted 2026-04-30 · Listing synced 2026-06-08 · 80k job ID `recOwcOJtpHTki6VH`*
+*Posted 2026-04-30 · Listing synced 2026-06-09 · 80k job ID `recOwcOJtpHTki6VH`*

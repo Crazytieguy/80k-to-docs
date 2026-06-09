@@ -2,7 +2,7 @@
 title: "Junior Associate"
 employer: "The AI Policy Network"
 job_id: "rec5roJBM9Lg5dEc8"
-last_updated: "2026-06-08T05:33:17.677085Z"
+last_updated: "2026-06-09T05:33:33.253688Z"
 posted_at: "2022-01-06T00:00:00Z"
 status: ready
 apply_url: "https://theaipn.org/careers/junior-associate/"
@@ -34,4 +34,4 @@ areas:
 <p class="apply-cta"><a href="https://theaipn.org/careers/junior-associate/">Apply →</a></p>
 
 ---
-*Posted 2022-01-06 · Listing synced 2026-06-08 · 80k job ID `rec5roJBM9Lg5dEc8`*
+*Posted 2022-01-06 · Listing synced 2026-06-09 · 80k job ID `rec5roJBM9Lg5dEc8`*

@@ -2,7 +2,7 @@
 title: "Externship / Student Volunteer, Criminal Justice Program (Fall 2026 and Spring 2027)"
 employer: "Animal Legal Defense Fund"
 job_id: "recZX40466dfpfHmb"
-last_updated: "2026-06-08T05:32:31.274211Z"
+last_updated: "2026-06-09T05:32:46.733101Z"
 posted_at: "2026-05-05T00:00:00Z"
 status: ready
 apply_url: "https://recruiting.paylocity.com/Recruiting/Jobs/Details/4020115"
@@ -33,4 +33,4 @@ areas:
 <p class="apply-cta"><a href="https://recruiting.paylocity.com/Recruiting/Jobs/Details/4020115">Apply →</a></p>
 
 ---
-*Posted 2026-05-05 · Listing synced 2026-06-08 · 80k job ID `recZX40466dfpfHmb`*
+*Posted 2026-05-05 · Listing synced 2026-06-09 · 80k job ID `recZX40466dfpfHmb`*
