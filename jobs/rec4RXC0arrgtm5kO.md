@@ -2,7 +2,7 @@
 title: "Legal Advocacy Intern"
 employer: "Animal Outlook"
 job_id: "rec4RXC0arrgtm5kO"
-last_updated: "2026-06-09T05:33:50.544430Z"
+last_updated: "2026-06-10T05:34:08.003611Z"
 posted_at: "2022-01-02T00:00:00Z"
 status: ready
 apply_url: "https://animaloutlook.org/intern/"
@@ -33,4 +33,4 @@ areas:
 <p class="apply-cta"><a href="https://animaloutlook.org/intern/">Apply →</a></p>
 
 ---
-*Posted 2022-01-02 · Listing synced 2026-06-09 · 80k job ID `rec4RXC0arrgtm5kO`*
+*Posted 2022-01-02 · Listing synced 2026-06-10 · 80k job ID `rec4RXC0arrgtm5kO`*

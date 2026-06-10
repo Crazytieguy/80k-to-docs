@@ -2,7 +2,7 @@
 title: "Expression of Interest"
 employer: "Centre for the Governance of AI"
 job_id: "recb8Ah6jnkaZHiyn"
-last_updated: "2026-06-09T05:33:13.661971Z"
+last_updated: "2026-06-10T05:33:31.483190Z"
 posted_at: "2022-01-11T00:00:00Z"
 status: ready
 apply_url: "https://airtable.com/app28VlpRpSMzRs2Q/pagi6elN7olrBGaUn/form"
@@ -29,4 +29,4 @@ areas:
 <p class="apply-cta"><a href="https://airtable.com/app28VlpRpSMzRs2Q/pagi6elN7olrBGaUn/form">Apply →</a></p>
 
 ---
-*Posted 2022-01-11 · Listing synced 2026-06-09 · 80k job ID `recb8Ah6jnkaZHiyn`*
+*Posted 2022-01-11 · Listing synced 2026-06-10 · 80k job ID `recb8Ah6jnkaZHiyn`*

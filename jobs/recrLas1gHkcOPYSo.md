@@ -2,7 +2,7 @@
 title: "Senior Recruiter"
 employer: "GiveWell"
 job_id: "recrLas1gHkcOPYSo"
-last_updated: "2026-06-09T05:33:04.937631Z"
+last_updated: "2026-06-10T05:33:23.743086Z"
 posted_at: "2026-03-25T00:00:00Z"
 status: ready
 apply_url: "https://grnh.se/vysh3wwe8us"
@@ -34,4 +34,4 @@ areas:
 <p class="apply-cta"><a href="https://grnh.se/vysh3wwe8us">Apply →</a></p>
 
 ---
-*Posted 2026-03-25 · Listing synced 2026-06-09 · 80k job ID `recrLas1gHkcOPYSo`*
+*Posted 2026-03-25 · Listing synced 2026-06-10 · 80k job ID `recrLas1gHkcOPYSo`*

@@ -2,7 +2,7 @@
 title: "Expression of Interest"
 employer: "Harmony Intelligence"
 job_id: "recW5Bs2Pa5SYPKeL"
-last_updated: "2026-06-09T05:33:41.840506Z"
+last_updated: "2026-06-10T05:34:00.806751Z"
 posted_at: "2022-01-05T00:00:00Z"
 status: ready
 apply_url: "https://harmonyintelligence.com/contact"
@@ -29,4 +29,4 @@ areas:
 <p class="apply-cta"><a href="https://harmonyintelligence.com/contact">Apply →</a></p>
 
 ---
-*Posted 2022-01-05 · Listing synced 2026-06-09 · 80k job ID `recW5Bs2Pa5SYPKeL`*
+*Posted 2022-01-05 · Listing synced 2026-06-10 · 80k job ID `recW5Bs2Pa5SYPKeL`*

@@ -2,7 +2,7 @@
 title: "Policy Officer, Artificial Intelligence"
 employer: "European Union, European Commission"
 job_id: "recIXYe4M7Noj1NNv"
-last_updated: "2026-06-09T05:33:27.803438Z"
+last_updated: "2026-06-10T05:33:46.640344Z"
 posted_at: "2022-01-06T00:00:00Z"
 status: ready
 apply_url: "https://international-partnerships.ec.europa.eu/document/download/f6236005-a46a-4e25-9f2e-b2669dccb6bc_en"
@@ -33,4 +33,4 @@ areas:
 <p class="apply-cta"><a href="https://international-partnerships.ec.europa.eu/document/download/f6236005-a46a-4e25-9f2e-b2669dccb6bc_en">Apply →</a></p>
 
 ---
-*Posted 2022-01-06 · Listing synced 2026-06-09 · 80k job ID `recIXYe4M7Noj1NNv`*
+*Posted 2022-01-06 · Listing synced 2026-06-10 · 80k job ID `recIXYe4M7Noj1NNv`*

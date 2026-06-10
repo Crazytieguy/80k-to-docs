@@ -2,7 +2,7 @@
 title: "Sales and Marketing Manager"
 employer: "Fish Welfare Initiative"
 job_id: "recxRU7WObKFYBIxg"
-last_updated: "2026-06-09T05:32:34.628722Z"
+last_updated: "2026-06-10T05:32:55.841069Z"
 posted_at: "2026-05-19T00:00:00Z"
 status: ready
 apply_url: "https://www.fishwelfareinitiative.org/sales-marketing-manager"
@@ -19,7 +19,7 @@ areas:
 <dt>Role type</dt><dd>Full-time</dd>
 <dt>Experience</dt><dd>Junior (1-4 years experience)</dd>
 <dt>Degree</dt><dd>Undergraduate degree or less</dd>
-<dt>Salary</dt><dd>$7,528 – $10,665</dd>
+<dt>Salary</dt><dd>$7,563 – $10,714</dd>
 </dl>
 
 **Areas & skills:** Animal welfare, Outreach
@@ -34,4 +34,4 @@ areas:
 <p class="apply-cta"><a href="https://www.fishwelfareinitiative.org/sales-marketing-manager">Apply →</a></p>
 
 ---
-*Posted 2026-05-19 · Listing synced 2026-06-09 · 80k job ID `recxRU7WObKFYBIxg`*
+*Posted 2026-05-19 · Listing synced 2026-06-10 · 80k job ID `recxRU7WObKFYBIxg`*

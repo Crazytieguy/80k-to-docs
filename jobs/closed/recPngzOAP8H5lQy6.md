@@ -4,25 +4,20 @@ employer: "Anthropic"
 job_id: "recPngzOAP8H5lQy6"
 last_updated: "2026-06-09T05:33:10.944392Z"
 posted_at: "2022-01-11T00:00:00Z"
-status: ready
+status: closed
+closed_at: "2026-06-10"
 apply_url: "https://job-boards.greenhouse.io/anthropic/jobs/5022845008"
 areas:
   - "AI safety & policy"
 ---
 
+> ⚠️ **CLOSED on 2026-06-10** — this job is no longer listed on the 80,000 Hours board. Archived snapshot below.
+
 # Software Security Engineer
 
-**[Anthropic](https://www.anthropic.com/)**
+**Anthropic**
 
-<dl class="job-meta">
-<dt>Location</dt><dd>London, UK, UK, UK (Confirmed Visas)</dd>
-<dt>Role type</dt><dd>Full-time</dd>
-<dt>Experience</dt><dd>Mid (5-9 years experience), Senior (10+ years experience)</dd>
-<dt>Degree</dt><dd>Undergraduate degree or less</dd>
-<dt>Salary</dt><dd>$320,603 – $434,149</dd>
-</dl>
-
-**Areas & skills:** AI safety & policy, Software engineering, Information security
+**Areas & skills:** AI safety & policy
 
 ## Summary
 - In this role, you'll build and maintain security infrastructure for Anthropic's AI systems to safeguard them and maintain user trust.

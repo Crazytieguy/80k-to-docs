@@ -4,25 +4,20 @@ employer: "AE Studio"
 job_id: "recaT7EmMg8IdDGuR"
 last_updated: "2026-06-09T05:33:35.510332Z"
 posted_at: "2022-01-05T00:00:00Z"
-status: ready
+status: closed
+closed_at: "2026-06-10"
 apply_url: "https://job-boards.greenhouse.io/aestudio/jobs/5616440004"
 areas:
   - "AI safety & policy"
 ---
 
+> ⚠️ **CLOSED on 2026-06-10** — this job is no longer listed on the 80,000 Hours board. Archived snapshot below.
+
 # Technical Program Manager, AI Alignment
 
-**[AE Studio](https://ae.studio/)**
+**AE Studio**
 
-<dl class="job-meta">
-<dt>Location</dt><dd>Los Angeles, CA, Remote, USA, USA</dd>
-<dt>Role type</dt><dd>Full-time</dd>
-<dt>Experience</dt><dd>Mid (5-9 years experience)</dd>
-<dt>Degree</dt><dd>Undergraduate degree or less</dd>
-<dt>Salary</dt><dd>$120,000 – $220,000</dd>
-</dl>
-
-**Areas & skills:** AI safety & policy, Management, Strategy
+**Areas & skills:** AI safety & policy
 
 ## Summary
 - In this role, you'll lead execution across AI alignment client projects, research initiatives, and product development efforts.

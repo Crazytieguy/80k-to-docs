@@ -4,24 +4,20 @@ employer: "Faculty"
 job_id: "reciSt2h5cy6hYAMD"
 last_updated: "2026-06-09T05:33:39.515599Z"
 posted_at: "2022-01-05T00:00:00Z"
-status: ready
+status: closed
+closed_at: "2026-06-10"
 apply_url: "https://jobs.ashbyhq.com/faculty/b4ec2535-7bce-499b-8926-e349413e3325"
 areas:
   - "AI safety & policy"
 ---
 
+> ⚠️ **CLOSED on 2026-06-10** — this job is no longer listed on the 80,000 Hours board. Archived snapshot below.
+
 # Senior Manager, AI Safety
 
-**[Faculty](https://faculty.ai/)**
+**Faculty**
 
-<dl class="job-meta">
-<dt>Location</dt><dd>London, UK, UK</dd>
-<dt>Role type</dt><dd>Full-time</dd>
-<dt>Experience</dt><dd>Mid (5-9 years experience), Senior (10+ years experience)</dd>
-<dt>Degree</dt><dd>Undergraduate degree or less</dd>
-</dl>
-
-**Areas & skills:** AI safety & policy, Management, Strategy
+**Areas & skills:** AI safety & policy
 
 ## Summary
 - In this role, you'll lead delivery across an AI Safety portfolio, focusing on frontier model evaluations and strategic implementation in government services.

@@ -2,7 +2,7 @@
 title: "Technical AI Safety Course"
 employer: "BlueDot Impact"
 job_id: "recsK1sqwsB2hL4VL"
-last_updated: "2026-06-09T05:32:16.331748Z"
+last_updated: "2026-06-10T05:32:39.233232Z"
 posted_at: "2026-05-29T00:03:00Z"
 status: ready
 apply_url: "https://bluedot.org/courses/technical-ai-safety"
@@ -31,4 +31,4 @@ areas:
 <p class="apply-cta"><a href="https://bluedot.org/courses/technical-ai-safety">Apply →</a></p>
 
 ---
-*Posted 2026-05-29 · Listing synced 2026-06-09 · 80k job ID `recsK1sqwsB2hL4VL`*
+*Posted 2026-05-29 · Listing synced 2026-06-10 · 80k job ID `recsK1sqwsB2hL4VL`*

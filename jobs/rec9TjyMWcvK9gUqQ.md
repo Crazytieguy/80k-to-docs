@@ -2,7 +2,7 @@
 title: "Externship / Student Volunteer, Transparency and Regulatory Affairs (Fall 2026 and Spring 2027)"
 employer: "Animal Legal Defense Fund"
 job_id: "rec9TjyMWcvK9gUqQ"
-last_updated: "2026-06-09T05:32:46.582912Z"
+last_updated: "2026-06-10T05:33:07.552137Z"
 posted_at: "2026-05-05T00:00:00Z"
 status: ready
 apply_url: "https://recruiting.paylocity.com/Recruiting/Jobs/Details/4128402"
@@ -16,7 +16,7 @@ areas:
 
 <dl class="job-meta">
 <dt>Location</dt><dd>Remote, USA, USA</dd>
-<dt>Role type</dt><dd>Part-time, Volunteering</dd>
+<dt>Role type</dt><dd>Volunteering, Part-time</dd>
 <dt>Experience</dt><dd>Entry-level</dd>
 <dt>Degree</dt><dd>Undergraduate degree or less</dd>
 <dt>Salary</dt><dd>$41,600</dd>
@@ -34,4 +34,4 @@ areas:
 <p class="apply-cta"><a href="https://recruiting.paylocity.com/Recruiting/Jobs/Details/4128402">Apply →</a></p>
 
 ---
-*Posted 2026-05-05 · Listing synced 2026-06-09 · 80k job ID `rec9TjyMWcvK9gUqQ`*
+*Posted 2026-05-05 · Listing synced 2026-06-10 · 80k job ID `rec9TjyMWcvK9gUqQ`*

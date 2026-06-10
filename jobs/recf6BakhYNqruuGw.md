@@ -2,7 +2,7 @@
 title: "Senior Research Lead, AI Security Portfolio"
 employer: "RAND Corporation"
 job_id: "recf6BakhYNqruuGw"
-last_updated: "2026-06-09T05:33:45.258596Z"
+last_updated: "2026-06-10T05:34:02.852929Z"
 posted_at: "2022-01-05T00:00:00Z"
 status: ready
 apply_url: "https://rand.wd5.myworkdayjobs.com/en-US/External_Career_Site/job/San-Francisco-CA/Senior-Research-Lead---AI-Security-Portfolio_R3464-1"
@@ -34,4 +34,4 @@ areas:
 <p class="apply-cta"><a href="https://rand.wd5.myworkdayjobs.com/en-US/External_Career_Site/job/San-Francisco-CA/Senior-Research-Lead---AI-Security-Portfolio_R3464-1">Apply →</a></p>
 
 ---
-*Posted 2022-01-05 · Listing synced 2026-06-09 · 80k job ID `recf6BakhYNqruuGw`*
+*Posted 2022-01-05 · Listing synced 2026-06-10 · 80k job ID `recf6BakhYNqruuGw`*

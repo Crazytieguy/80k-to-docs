@@ -4,24 +4,20 @@ employer: "European Union, European Commission"
 job_id: "reckfvsqERdRrSy3M"
 last_updated: "2026-06-09T05:32:11.022883Z"
 posted_at: "2026-06-02T00:01:00Z"
-status: ready
+status: closed
+closed_at: "2026-06-10"
 apply_url: "https://eu-careers.europa.eu/en/job-opportunities/policy-officer-medical-counter-measures-intelligence-and-innovation/ec-2026-hera"
 areas:
   - "Biosecurity & pandemic preparedness"
 ---
 
+> ⚠️ **CLOSED on 2026-06-10** — this job is no longer listed on the 80,000 Hours board. Archived snapshot below.
+
 # Policy Officer, Medical Counter Measures Intelligence and Innovation
 
-**[European Union, European Commission](https://ec.europa.eu/info/index_en)**
+**European Union, European Commission**
 
-<dl class="job-meta">
-<dt>Location</dt><dd>Brussels, Belgium, Belgium, Europe (ex UK)</dd>
-<dt>Role type</dt><dd>Full-time</dd>
-<dt>Experience</dt><dd>Junior (1-4 years experience), Mid (5-9 years experience)</dd>
-<dt>Degree</dt><dd>Undergraduate degree or less</dd>
-</dl>
-
-**Areas & skills:** Biosecurity & pandemic preparedness, Policy
+**Areas & skills:** Biosecurity & pandemic preparedness
 
 ## Summary
 - In this role, you'll strengthen intelligence gathering and support innovation for medical countermeasures to prepare for and respond to health crises.

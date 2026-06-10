@@ -2,7 +2,7 @@
 title: "Teaching Assistant, Cambridge Bootcamp for Research in Interpretability and Alignment"
 employer: "Cambridge Boston Alignment Initiative"
 job_id: "recmlrhnRzNxDIyus"
-last_updated: "2026-06-09T05:33:04.011177Z"
+last_updated: "2026-06-10T05:33:22.794657Z"
 posted_at: "2026-03-26T00:02:00Z"
 status: ready
 apply_url: "https://airtable.com/appekfFNw7V75LXQn/pagwQRIDaql0hufJI/form"
@@ -34,4 +34,4 @@ areas:
 <p class="apply-cta"><a href="https://airtable.com/appekfFNw7V75LXQn/pagwQRIDaql0hufJI/form">Apply →</a></p>
 
 ---
-*Posted 2026-03-26 · Listing synced 2026-06-09 · 80k job ID `recmlrhnRzNxDIyus`*
+*Posted 2026-03-26 · Listing synced 2026-06-10 · 80k job ID `recmlrhnRzNxDIyus`*

@@ -2,7 +2,7 @@
 title: "Researcher, AI Cognition Initiative, Technical Focus"
 employer: "Rethink Priorities"
 job_id: "recpS4bdVO2hvmCBb"
-last_updated: "2026-06-09T05:32:25.637392Z"
+last_updated: "2026-06-10T05:32:47.635770Z"
 posted_at: "2026-05-25T00:03:00Z"
 status: ready
 apply_url: "https://careers.rethinkpriorities.org/en/postings/18a63b60-7fd9-49da-a345-f26eb300a92e"
@@ -34,4 +34,4 @@ areas:
 <p class="apply-cta"><a href="https://careers.rethinkpriorities.org/en/postings/18a63b60-7fd9-49da-a345-f26eb300a92e">Apply →</a></p>
 
 ---
-*Posted 2026-05-25 · Listing synced 2026-06-09 · 80k job ID `recpS4bdVO2hvmCBb`*
+*Posted 2026-05-25 · Listing synced 2026-06-10 · 80k job ID `recpS4bdVO2hvmCBb`*

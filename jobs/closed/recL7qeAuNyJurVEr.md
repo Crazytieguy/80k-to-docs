@@ -4,24 +4,20 @@ employer: "Cloudflare"
 job_id: "recL7qeAuNyJurVEr"
 last_updated: "2026-06-09T05:31:59.052070Z"
 posted_at: "2026-06-08T00:00:00Z"
-status: ready
+status: closed
+closed_at: "2026-06-10"
 apply_url: "https://boards.greenhouse.io/cloudflare/jobs/7577205?gh_jid=7577205"
 areas:
   - "Career development: Technical"
 ---
 
+> ⚠️ **CLOSED on 2026-06-10** — this job is no longer listed on the 80,000 Hours board. Archived snapshot below.
+
 # Intern, Threat Detection and Incident Response (Summer 2026)
 
-**[Cloudflare](https://www.cloudflare.com/)**
+**Cloudflare**
 
-<dl class="job-meta">
-<dt>Location</dt><dd>Austin, TX, USA</dd>
-<dt>Role type</dt><dd>Internship</dd>
-<dt>Experience</dt><dd>Entry-level</dd>
-<dt>Degree</dt><dd>Undergraduate degree or less</dd>
-</dl>
-
-**Areas & skills:** Career development: Technical, Information security
+**Areas & skills:** Career development: Technical
 
 ## Summary
 - In this role, you'll execute a 12-week security project that strengthens Cloudflare's defensive posture.

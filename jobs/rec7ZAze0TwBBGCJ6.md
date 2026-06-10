@@ -2,7 +2,7 @@
 title: "Marketer"
 employer: "80,000 Hours"
 job_id: "rec7ZAze0TwBBGCJ6"
-last_updated: "2026-06-09T05:32:13.223622Z"
+last_updated: "2026-06-10T05:32:36.677170Z"
 posted_at: "2026-06-01T00:03:00Z"
 status: ready
 apply_url: "https://80000hours.org/2026/05/open-position-marketer-2026/"
@@ -19,7 +19,7 @@ areas:
 <dt>Role type</dt><dd>Full-time</dd>
 <dt>Experience</dt><dd>Multiple experience levels</dd>
 <dt>Degree</dt><dd>Undergraduate degree or less</dd>
-<dt>Salary</dt><dd>$90,170 – $134,653</dd>
+<dt>Salary</dt><dd>$90,353 – $134,927</dd>
 </dl>
 
 **Areas & skills:** AI safety & policy, Outreach
@@ -34,4 +34,4 @@ areas:
 <p class="apply-cta"><a href="https://80000hours.org/2026/05/open-position-marketer-2026/">Apply →</a></p>
 
 ---
-*Posted 2026-06-01 · Listing synced 2026-06-09 · 80k job ID `rec7ZAze0TwBBGCJ6`*
+*Posted 2026-06-01 · Listing synced 2026-06-10 · 80k job ID `rec7ZAze0TwBBGCJ6`*

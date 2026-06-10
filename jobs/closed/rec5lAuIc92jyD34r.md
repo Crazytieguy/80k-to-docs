@@ -4,25 +4,20 @@ employer: "Effective Altruism Hong Kong"
 job_id: "rec5lAuIc92jyD34r"
 last_updated: "2026-06-09T05:32:07.844969Z"
 posted_at: "2026-06-04T00:01:00Z"
-status: ready
+status: closed
+closed_at: "2026-06-10"
 apply_url: "https://www.eahongkong.org/copy-of-social-media-manager"
 areas:
   - "Building effective altruism"
 ---
 
+> ⚠️ **CLOSED on 2026-06-10** — this job is no longer listed on the 80,000 Hours board. Archived snapshot below.
+
 # Senior Lead
 
-**[Effective Altruism Hong Kong](https://www.eahongkong.org/)**
+**Effective Altruism Hong Kong**
 
-<dl class="job-meta">
-<dt>Location</dt><dd>Hong Kong, China, China, Asia</dd>
-<dt>Role type</dt><dd>Part-time</dd>
-<dt>Experience</dt><dd>Mid (5-9 years experience)</dd>
-<dt>Degree</dt><dd>Undergraduate degree or less</dd>
-<dt>Salary</dt><dd>$30,384</dd>
-</dl>
-
-**Areas & skills:** Building effective altruism, Outreach, Management, Strategy
+**Areas & skills:** Building effective altruism
 
 ## Summary
 - In this role, you'll lead EAHK operations and scale GiveWise, setting strategy while managing volunteers.

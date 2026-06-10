@@ -4,24 +4,20 @@ employer: "Innovations for Poverty Action"
 job_id: "recR6qsTIMW9O83GB"
 last_updated: "2026-06-09T05:32:19.460627Z"
 posted_at: "2026-05-28T00:00:00Z"
-status: ready
+status: closed
+closed_at: "2026-06-10"
 apply_url: "https://poverty-action.org/practicante-en-colombia-2-posiciones-investigacion-y-politicas-publicas"
 areas:
   - "Global health & development"
 ---
 
+> ⚠️ **CLOSED on 2026-06-10** — this job is no longer listed on the 80,000 Hours board. Archived snapshot below.
+
 # Intern, Research and Public Policy, Colombia (x2)
 
-**[Innovations for Poverty Action](https://www.poverty-action.org)**
+**Innovations for Poverty Action**
 
-<dl class="job-meta">
-<dt>Location</dt><dd>Colombia, Central America</dd>
-<dt>Role type</dt><dd>Internship</dd>
-<dt>Experience</dt><dd>Entry-level</dd>
-<dt>Degree</dt><dd>Undergraduate degree or less</dd>
-</dl>
-
-**Areas & skills:** Global health & development, Research, Policy
+**Areas & skills:** Global health & development
 
 ## Summary
 - In this role, you'll support IPA Colombia's research and public policy work, connecting development evidence with policy decisions.

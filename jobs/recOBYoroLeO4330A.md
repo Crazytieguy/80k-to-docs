@@ -2,7 +2,7 @@
 title: "Director of Development"
 employer: "Center for AI Safety"
 job_id: "recOBYoroLeO4330A"
-last_updated: "2026-06-09T05:33:13.022900Z"
+last_updated: "2026-06-10T05:33:30.892025Z"
 posted_at: "2022-01-11T00:00:00Z"
 status: ready
 apply_url: "https://jobs.lever.co/aisafety/6c01e3ac-e43a-4186-9a35-a344c1ce1774"
@@ -34,4 +34,4 @@ areas:
 <p class="apply-cta"><a href="https://jobs.lever.co/aisafety/6c01e3ac-e43a-4186-9a35-a344c1ce1774">Apply →</a></p>
 
 ---
-*Posted 2022-01-11 · Listing synced 2026-06-09 · 80k job ID `recOBYoroLeO4330A`*
+*Posted 2022-01-11 · Listing synced 2026-06-10 · 80k job ID `recOBYoroLeO4330A`*

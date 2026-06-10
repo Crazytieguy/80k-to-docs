@@ -2,7 +2,7 @@
 title: "People Operations Manager"
 employer: "Centre for the Governance of AI"
 job_id: "recJJfwHoPKQEmCoj"
-last_updated: "2026-06-09T05:32:10.322104Z"
+last_updated: "2026-06-10T05:32:34.265661Z"
 posted_at: "2026-06-02T00:05:00Z"
 status: ready
 apply_url: "https://www.governance.ai/post/people-operations-manager-2"
@@ -19,7 +19,7 @@ areas:
 <dt>Role type</dt><dd>Full-time</dd>
 <dt>Experience</dt><dd>Junior (1-4 years experience), Mid (5-9 years experience)</dd>
 <dt>Degree</dt><dd>Undergraduate degree or less</dd>
-<dt>Salary</dt><dd>$112,211 – $124,234</dd>
+<dt>Salary</dt><dd>$112,439 – $124,486</dd>
 </dl>
 
 **Areas & skills:** AI safety & policy, Operations, Management
@@ -34,4 +34,4 @@ areas:
 <p class="apply-cta"><a href="https://www.governance.ai/post/people-operations-manager-2">Apply →</a></p>
 
 ---
-*Posted 2026-06-02 · Listing synced 2026-06-09 · 80k job ID `recJJfwHoPKQEmCoj`*
+*Posted 2026-06-02 · Listing synced 2026-06-10 · 80k job ID `recJJfwHoPKQEmCoj`*

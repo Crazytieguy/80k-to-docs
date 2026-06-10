@@ -2,7 +2,7 @@
 title: "Fellow, Technology and Innovation"
 employer: "R Street Institute"
 job_id: "recNnYoDlcDDyKIjV"
-last_updated: "2026-06-09T05:32:03.429881Z"
+last_updated: "2026-06-10T05:32:29.720328Z"
 posted_at: "2026-06-05T00:00:00Z"
 status: ready
 apply_url: "https://street.applytojob.com/apply/iI00hC26NL/Fellow-Technology-And-Innovation?source=lf"
@@ -34,4 +34,4 @@ areas:
 <p class="apply-cta"><a href="https://street.applytojob.com/apply/iI00hC26NL/Fellow-Technology-And-Innovation?source=lf">Apply →</a></p>
 
 ---
-*Posted 2026-06-05 · Listing synced 2026-06-09 · 80k job ID `recNnYoDlcDDyKIjV`*
+*Posted 2026-06-05 · Listing synced 2026-06-10 · 80k job ID `recNnYoDlcDDyKIjV`*

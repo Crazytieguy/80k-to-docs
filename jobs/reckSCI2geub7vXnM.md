@@ -2,7 +2,7 @@
 title: "Special Projects Lead"
 employer: "Consultants for Impact"
 job_id: "reckSCI2geub7vXnM"
-last_updated: "2026-06-09T05:32:14.300124Z"
+last_updated: "2026-06-10T05:32:37.660758Z"
 posted_at: "2026-06-01T00:02:00Z"
 status: ready
 apply_url: "https://www.consultantsforimpact.org/job-postings/special-projects-lead"
@@ -34,4 +34,4 @@ areas:
 <p class="apply-cta"><a href="https://www.consultantsforimpact.org/job-postings/special-projects-lead">Apply →</a></p>
 
 ---
-*Posted 2026-06-01 · Listing synced 2026-06-09 · 80k job ID `reckSCI2geub7vXnM`*
+*Posted 2026-06-01 · Listing synced 2026-06-10 · 80k job ID `reckSCI2geub7vXnM`*

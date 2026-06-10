@@ -2,7 +2,7 @@
 title: "Early-Career Awards"
 employer: "Wellcome Trust"
 job_id: "recWOlSngMSF4PNVs"
-last_updated: "2026-06-09T05:34:01.399867Z"
+last_updated: "2026-06-10T05:34:18.217080Z"
 posted_at: "2022-01-02T00:00:00Z"
 status: ready
 apply_url: "https://wellcome.org/grant-funding/schemes/early-career-awards"
@@ -32,4 +32,4 @@ areas:
 <p class="apply-cta"><a href="https://wellcome.org/grant-funding/schemes/early-career-awards">Apply →</a></p>
 
 ---
-*Posted 2022-01-02 · Listing synced 2026-06-09 · 80k job ID `recWOlSngMSF4PNVs`*
+*Posted 2022-01-02 · Listing synced 2026-06-10 · 80k job ID `recWOlSngMSF4PNVs`*

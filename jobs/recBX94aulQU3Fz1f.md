@@ -2,7 +2,7 @@
 title: "Technical Remediation Manager"
 employer: "Pure Earth"
 job_id: "recBX94aulQU3Fz1f"
-last_updated: "2026-06-09T05:34:08.236307Z"
+last_updated: "2026-06-10T05:34:24.493957Z"
 posted_at: "2022-01-01T00:00:00Z"
 status: ready
 apply_url: "https://www.pureearth.org/wp-content/uploads/2026/02/Technical-Remediation-Manager.pdf"
@@ -34,4 +34,4 @@ areas:
 <p class="apply-cta"><a href="https://www.pureearth.org/wp-content/uploads/2026/02/Technical-Remediation-Manager.pdf">Apply →</a></p>
 
 ---
-*Posted 2022-01-01 · Listing synced 2026-06-09 · 80k job ID `recBX94aulQU3Fz1f`*
+*Posted 2022-01-01 · Listing synced 2026-06-10 · 80k job ID `recBX94aulQU3Fz1f`*

@@ -4,25 +4,20 @@ employer: "Aspen Institute"
 job_id: "receAHfcKAm6Epdjq"
 last_updated: "2026-06-09T05:33:03.547433Z"
 posted_at: "2026-03-31T00:00:00Z"
-status: ready
+status: closed
+closed_at: "2026-06-10"
 apply_url: "https://aspeninstitute.hrmdirect.com/employment/job-opening.php?req=3671245&req_loc=1270856#job"
 areas:
   - "Career development: Policy & government"
 ---
 
+> ⚠️ **CLOSED on 2026-06-10** — this job is no longer listed on the 80,000 Hours board. Archived snapshot below.
+
 # William Randolph Hearst Fellow
 
-**[Aspen Institute](https://www.aspeninstitute.org/)**
+**Aspen Institute**
 
-<dl class="job-meta">
-<dt>Location</dt><dd>Washington, DC metro area, USA</dd>
-<dt>Role type</dt><dd>Fellowship</dd>
-<dt>Experience</dt><dd>Entry-level</dd>
-<dt>Degree</dt><dd>Undergraduate degree or less</dd>
-<dt>Salary</dt><dd>$38,480 – $40,560</dd>
-</dl>
-
-**Areas & skills:** Career development: Policy & government, Policy
+**Areas & skills:** Career development: Policy & government
 
 ## Summary
 - In this role, you'll intern with the Aspen Institute Program on Philanthropy and Social Innovation (PSI), gaining exposure to issues in philanthropy, social enterprise, nonprofit organizations, and the social sector.
