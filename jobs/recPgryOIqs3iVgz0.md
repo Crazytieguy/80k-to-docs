@@ -2,7 +2,7 @@
 title: "Program Assistant, LEAD AI"
 employer: "Council on Foreign Relations"
 job_id: "recPgryOIqs3iVgz0"
-last_updated: "2026-06-10T05:33:08.105516Z"
+last_updated: "2026-06-11T05:33:05.739669Z"
 posted_at: "2026-05-01T00:02:00Z"
 status: ready
 apply_url: "https://careers-cfr.icims.com/jobs/2923/program-assistant%2c-lead-ai/job?in_iframe=1"
@@ -34,4 +34,4 @@ areas:
 <p class="apply-cta"><a href="https://careers-cfr.icims.com/jobs/2923/program-assistant%2c-lead-ai/job?in_iframe=1">Apply →</a></p>
 
 ---
-*Posted 2026-05-01 · Listing synced 2026-06-10 · 80k job ID `recPgryOIqs3iVgz0`*
+*Posted 2026-05-01 · Listing synced 2026-06-11 · 80k job ID `recPgryOIqs3iVgz0`*

@@ -1,8 +1,8 @@
 ---
 title: "GovAI U.S. AI Policy Program"
-employer: "Centre for the Governance of AI"
+employer: "GovAI"
 job_id: "recBAUvzXPuFJimNG"
-last_updated: "2026-06-10T05:32:24.823292Z"
+last_updated: "2026-06-11T05:32:23.280466Z"
 posted_at: "2026-06-08T00:03:00Z"
 status: ready
 apply_url: "https://www.governance.ai/post/govai-u-s-ai-policy-program"
@@ -12,7 +12,7 @@ areas:
 
 # GovAI U.S. AI Policy Program
 
-**[Centre for the Governance of AI](https://www.governance.ai/)**
+**[GovAI](https://www.governance.ai/)**
 
 <dl class="job-meta">
 <dt>Location</dt><dd>Washington, DC metro area, Remote, USA, USA</dd>
@@ -33,4 +33,4 @@ areas:
 <p class="apply-cta"><a href="https://www.governance.ai/post/govai-u-s-ai-policy-program">Apply →</a></p>
 
 ---
-*Posted 2026-06-08 · Listing synced 2026-06-10 · 80k job ID `recBAUvzXPuFJimNG`*
+*Posted 2026-06-08 · Listing synced 2026-06-11 · 80k job ID `recBAUvzXPuFJimNG`*

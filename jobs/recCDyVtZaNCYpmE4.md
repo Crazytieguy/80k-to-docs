@@ -2,7 +2,7 @@
 title: "Tax Expert"
 employer: "Effectief Geven"
 job_id: "recCDyVtZaNCYpmE4"
-last_updated: "2026-06-10T05:34:10.028205Z"
+last_updated: "2026-06-11T05:34:05.692433Z"
 posted_at: "2022-01-02T00:00:00Z"
 status: ready
 apply_url: "https://www.effectiefgeven.be/vacatures/jurist-fiscalist"
@@ -34,4 +34,4 @@ areas:
 <p class="apply-cta"><a href="https://www.effectiefgeven.be/vacatures/jurist-fiscalist">Apply →</a></p>
 
 ---
-*Posted 2022-01-02 · Listing synced 2026-06-10 · 80k job ID `recCDyVtZaNCYpmE4`*
+*Posted 2022-01-02 · Listing synced 2026-06-11 · 80k job ID `recCDyVtZaNCYpmE4`*

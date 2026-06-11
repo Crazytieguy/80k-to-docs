@@ -2,7 +2,7 @@
 title: "Fundraising Manager"
 employer: "Animal Equality"
 job_id: "recYHpl0xbpypR1iK"
-last_updated: "2026-06-10T05:34:19.152526Z"
+last_updated: "2026-06-11T05:34:16.235326Z"
 posted_at: "2022-01-01T00:00:00Z"
 status: ready
 apply_url: "https://animalequality.it/lavora-con-noi/responsabile-raccolta-fondi/"
@@ -32,4 +32,4 @@ areas:
 <p class="apply-cta"><a href="https://animalequality.it/lavora-con-noi/responsabile-raccolta-fondi/">Apply →</a></p>
 
 ---
-*Posted 2022-01-01 · Listing synced 2026-06-10 · 80k job ID `recYHpl0xbpypR1iK`*
+*Posted 2022-01-01 · Listing synced 2026-06-11 · 80k job ID `recYHpl0xbpypR1iK`*

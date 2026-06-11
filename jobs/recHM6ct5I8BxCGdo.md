@@ -2,7 +2,7 @@
 title: "Research Assistant, Arms Control and New Technologies"
 employer: "University of Hamburg, Institute for Peace Research and Security Policy"
 job_id: "recHM6ct5I8BxCGdo"
-last_updated: "2026-06-10T05:32:46.542660Z"
+last_updated: "2026-06-11T05:32:43.354225Z"
 posted_at: "2026-05-26T00:00:00Z"
 status: ready
 apply_url: "https://www.ifsh.de/karriere/details/job/wissenschaftliche-hilfskraft-m-w-d-am-ifsh-im-projekt-ruestungskontrolle-und-neue-technologien-40-stunden-pro-monat-2638781"
@@ -19,7 +19,7 @@ areas:
 <dt>Role type</dt><dd>Part-time</dd>
 <dt>Experience</dt><dd>Entry-level</dd>
 <dt>Degree</dt><dd>Undergraduate degree or less</dd>
-<dt>Salary</dt><dd>$36,179</dd>
+<dt>Salary</dt><dd>$36,180</dd>
 </dl>
 
 **Areas & skills:** Career development: Policy & government, Research, Policy
@@ -34,4 +34,4 @@ areas:
 <p class="apply-cta"><a href="https://www.ifsh.de/karriere/details/job/wissenschaftliche-hilfskraft-m-w-d-am-ifsh-im-projekt-ruestungskontrolle-und-neue-technologien-40-stunden-pro-monat-2638781">Apply →</a></p>
 
 ---
-*Posted 2026-05-26 · Listing synced 2026-06-10 · 80k job ID `recHM6ct5I8BxCGdo`*
+*Posted 2026-05-26 · Listing synced 2026-06-11 · 80k job ID `recHM6ct5I8BxCGdo`*

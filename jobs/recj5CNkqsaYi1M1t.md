@@ -2,7 +2,7 @@
 title: "ML Research Resident (Q1 2025)"
 employer: "Elicit"
 job_id: "recj5CNkqsaYi1M1t"
-last_updated: "2026-06-10T05:33:26.665292Z"
+last_updated: "2026-06-11T05:33:24.603449Z"
 posted_at: "2022-01-12T00:00:00Z"
 status: ready
 apply_url: "https://elicit.com/careers?ashby_jid=e04136b7-57e5-44d5-9a7c-cced3e2cb0f8"
@@ -33,4 +33,4 @@ areas:
 <p class="apply-cta"><a href="https://elicit.com/careers?ashby_jid=e04136b7-57e5-44d5-9a7c-cced3e2cb0f8">Apply →</a></p>
 
 ---
-*Posted 2022-01-12 · Listing synced 2026-06-10 · 80k job ID `recj5CNkqsaYi1M1t`*
+*Posted 2022-01-12 · Listing synced 2026-06-11 · 80k job ID `recj5CNkqsaYi1M1t`*

@@ -2,7 +2,7 @@
 title: "Chief of Staff / Program Operations, Public Engagement"
 employer: "Center for AI Safety"
 job_id: "rectjFzGkd8yXVhqZ"
-last_updated: "2026-06-10T05:33:30.751228Z"
+last_updated: "2026-06-11T05:33:28.531740Z"
 posted_at: "2022-01-11T00:00:00Z"
 status: ready
 apply_url: "https://jobs.lever.co/aisafety/02e2df24-49d8-4d99-970f-4f7e98900133"
@@ -34,4 +34,4 @@ areas:
 <p class="apply-cta"><a href="https://jobs.lever.co/aisafety/02e2df24-49d8-4d99-970f-4f7e98900133">Apply →</a></p>
 
 ---
-*Posted 2022-01-11 · Listing synced 2026-06-10 · 80k job ID `rectjFzGkd8yXVhqZ`*
+*Posted 2022-01-11 · Listing synced 2026-06-11 · 80k job ID `rectjFzGkd8yXVhqZ`*

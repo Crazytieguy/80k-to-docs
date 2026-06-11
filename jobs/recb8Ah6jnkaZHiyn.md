@@ -1,18 +1,18 @@
 ---
 title: "Expression of Interest"
-employer: "Centre for the Governance of AI"
+employer: "GovAI"
 job_id: "recb8Ah6jnkaZHiyn"
-last_updated: "2026-06-10T05:33:31.483190Z"
+last_updated: "2026-06-11T05:33:30.284301Z"
 posted_at: "2022-01-11T00:00:00Z"
 status: ready
 apply_url: "https://airtable.com/app28VlpRpSMzRs2Q/pagi6elN7olrBGaUn/form"
 areas:
-  - "AI governance"
+  - "AI safety & policy"
 ---
 
 # Expression of Interest
 
-**[Centre for the Governance of AI](https://www.governance.ai/)**
+**[GovAI](https://www.governance.ai/)**
 
 <dl class="job-meta">
 <dt>Location</dt><dd>Remote, Global</dd>
@@ -21,7 +21,7 @@ areas:
 <dt>Degree</dt><dd>Undergraduate degree or less</dd>
 </dl>
 
-**Areas & skills:** AI governance, Research, Policy, Operations
+**Areas & skills:** AI safety & policy, Research, Policy, Operations
 
 ## Summary
 - Express interest in upcoming positions at GovAI.
@@ -29,4 +29,4 @@ areas:
 <p class="apply-cta"><a href="https://airtable.com/app28VlpRpSMzRs2Q/pagi6elN7olrBGaUn/form">Apply →</a></p>
 
 ---
-*Posted 2022-01-11 · Listing synced 2026-06-10 · 80k job ID `recb8Ah6jnkaZHiyn`*
+*Posted 2022-01-11 · Listing synced 2026-06-11 · 80k job ID `recb8Ah6jnkaZHiyn`*

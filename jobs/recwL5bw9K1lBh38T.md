@@ -2,7 +2,7 @@
 title: "AGI Legal"
 employer: "DeepSeek"
 job_id: "recwL5bw9K1lBh38T"
-last_updated: "2026-06-10T05:33:46.343419Z"
+last_updated: "2026-06-11T05:33:42.414446Z"
 posted_at: "2022-01-06T00:00:00Z"
 status: ready
 apply_url: "https://app.mokahr.com/social-recruitment/high-flyer/140576#/job/32d4eeeb-c49e-4178-a6a9-4dfdf5432b32"
@@ -32,4 +32,4 @@ areas:
 <p class="apply-cta"><a href="https://app.mokahr.com/social-recruitment/high-flyer/140576#/job/32d4eeeb-c49e-4178-a6a9-4dfdf5432b32">Apply →</a></p>
 
 ---
-*Posted 2022-01-06 · Listing synced 2026-06-10 · 80k job ID `recwL5bw9K1lBh38T`*
+*Posted 2022-01-06 · Listing synced 2026-06-11 · 80k job ID `recwL5bw9K1lBh38T`*

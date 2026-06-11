@@ -2,7 +2,7 @@
 title: "Finance Trainee"
 employer: "One Acre Fund"
 job_id: "rec9Zi6PIMc0niGSl"
-last_updated: "2026-06-10T05:33:19.453341Z"
+last_updated: "2026-06-11T05:33:17.311723Z"
 posted_at: "2026-04-08T00:00:00Z"
 status: ready
 apply_url: "https://oneacrefund.org/vacancies/finance-trainee"
@@ -33,4 +33,4 @@ areas:
 <p class="apply-cta"><a href="https://oneacrefund.org/vacancies/finance-trainee">Apply →</a></p>
 
 ---
-*Posted 2026-04-08 · Listing synced 2026-06-10 · 80k job ID `rec9Zi6PIMc0niGSl`*
+*Posted 2026-04-08 · Listing synced 2026-06-11 · 80k job ID `rec9Zi6PIMc0niGSl`*

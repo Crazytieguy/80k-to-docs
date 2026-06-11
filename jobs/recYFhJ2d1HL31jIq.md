@@ -2,7 +2,7 @@
 title: "AI Security Bootcamp, Vegas"
 employer: "AI Security Bootcamp"
 job_id: "recYFhJ2d1HL31jIq"
-last_updated: "2026-06-10T05:32:24.980923Z"
+last_updated: "2026-06-11T05:32:23.448644Z"
 posted_at: "2026-06-08T00:02:00Z"
 status: ready
 apply_url: "https://aisb.dev/vegas26"
@@ -32,4 +32,4 @@ areas:
 <p class="apply-cta"><a href="https://aisb.dev/vegas26">Apply →</a></p>
 
 ---
-*Posted 2026-06-08 · Listing synced 2026-06-10 · 80k job ID `recYFhJ2d1HL31jIq`*
+*Posted 2026-06-08 · Listing synced 2026-06-11 · 80k job ID `recYFhJ2d1HL31jIq`*

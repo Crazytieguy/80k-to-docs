@@ -4,25 +4,20 @@ employer: "ERA"
 job_id: "recnf4SJoTlRdwW9C"
 last_updated: "2026-06-10T05:32:56.724074Z"
 posted_at: "2026-05-18T00:05:00Z"
-status: ready
+status: closed
+closed_at: "2026-06-11"
 apply_url: "https://docs.google.com/document/d/146aHIPBkHSCQiIb4IYXHO9SrM4uPE5QTUcj58gMyTjY/edit?tab=t.0#heading=h.fk3c44ady1v"
 areas:
   - "AI safety & policy"
 ---
 
+> ⚠️ **CLOSED on 2026-06-11** — this job is no longer listed on the 80,000 Hours board. Archived snapshot below.
+
 # Director of Operations
 
-**[ERA](https://erafellowship.org/)**
+**ERA**
 
-<dl class="job-meta">
-<dt>Location</dt><dd>Cambridge, UK, UK, UK (Confirmed Visas)</dd>
-<dt>Role type</dt><dd>Full-time</dd>
-<dt>Experience</dt><dd>Mid (5-9 years experience), Senior (10+ years experience)</dd>
-<dt>Degree</dt><dd>Undergraduate degree or less</dd>
-<dt>Salary</dt><dd>$107,085 – $133,856</dd>
-</dl>
-
-**Areas & skills:** AI safety & policy, Operations, Management
+**Areas & skills:** AI safety & policy
 
 ## Summary
 - In this role, you'll establish operational strategy and lead ERA's transformation to a structured 15–20 person organisation.

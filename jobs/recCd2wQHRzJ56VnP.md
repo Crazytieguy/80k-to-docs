@@ -2,7 +2,7 @@
 title: "Software Engineer"
 employer: "Amodo Design"
 job_id: "recCd2wQHRzJ56VnP"
-last_updated: "2026-06-10T05:34:07.181922Z"
+last_updated: "2026-06-11T05:34:02.456606Z"
 posted_at: "2022-01-02T00:00:00Z"
 status: ready
 apply_url: "https://amododesign.com/career/software-engineer/"
@@ -19,7 +19,7 @@ areas:
 <dt>Role type</dt><dd>Full-time</dd>
 <dt>Experience</dt><dd>Junior (1-4 years experience)</dd>
 <dt>Degree</dt><dd>Undergraduate degree or less</dd>
-<dt>Salary</dt><dd>$53,542 – $73,621</dd>
+<dt>Salary</dt><dd>$53,540 – $73,617</dd>
 </dl>
 
 **Areas & skills:** Career development: Technical, Software engineering
@@ -34,4 +34,4 @@ areas:
 <p class="apply-cta"><a href="https://amododesign.com/career/software-engineer/">Apply →</a></p>
 
 ---
-*Posted 2022-01-02 · Listing synced 2026-06-10 · 80k job ID `recCd2wQHRzJ56VnP`*
+*Posted 2022-01-02 · Listing synced 2026-06-11 · 80k job ID `recCd2wQHRzJ56VnP`*

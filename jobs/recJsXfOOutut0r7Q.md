@@ -2,13 +2,13 @@
 title: "Deputy Head of Programme, Security and Technology"
 employer: "United Nations, Institute for Disarmament Research"
 job_id: "recJsXfOOutut0r7Q"
-last_updated: "2026-06-10T05:32:27.426345Z"
+last_updated: "2026-06-11T05:32:25.893978Z"
 posted_at: "2026-06-08T00:00:00Z"
 status: ready
 apply_url: "https://unidir.org/job/deputy-head-of-programme-security-and-technology/"
 areas:
-  - "Nuclear security"
   - "AI safety & policy"
+  - "Nuclear security"
 ---
 
 # Deputy Head of Programme, Security and Technology
@@ -22,7 +22,7 @@ areas:
 <dt>Degree</dt><dd>Master's degree</dd>
 </dl>
 
-**Areas & skills:** Nuclear security, AI safety & policy, Policy, Management
+**Areas & skills:** AI safety & policy, Nuclear security, Policy, Management
 
 ## Summary
 - In this role, you'll lead the development, implementation, and evaluation of the Security and Technology Programme while managing team performance.
@@ -33,4 +33,4 @@ areas:
 <p class="apply-cta"><a href="https://unidir.org/job/deputy-head-of-programme-security-and-technology/">Apply →</a></p>
 
 ---
-*Posted 2026-06-08 · Listing synced 2026-06-10 · 80k job ID `recJsXfOOutut0r7Q`*
+*Posted 2026-06-08 · Listing synced 2026-06-11 · 80k job ID `recJsXfOOutut0r7Q`*

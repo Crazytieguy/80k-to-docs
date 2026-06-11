@@ -2,7 +2,7 @@
 title: "Senior Operations, Video Team"
 employer: "80,000 Hours"
 job_id: "recZshYNLEBh5uT0W"
-last_updated: "2026-06-10T05:32:58.993052Z"
+last_updated: "2026-06-11T05:32:55.896753Z"
 posted_at: "2026-05-14T00:03:00Z"
 status: ready
 apply_url: "https://jobs.ashbyhq.com/80000hours/48628878-3ecd-46cb-90dc-436ecdf91a4c/"
@@ -33,4 +33,4 @@ areas:
 <p class="apply-cta"><a href="https://jobs.ashbyhq.com/80000hours/48628878-3ecd-46cb-90dc-436ecdf91a4c/">Apply →</a></p>
 
 ---
-*Posted 2026-05-14 · Listing synced 2026-06-10 · 80k job ID `recZshYNLEBh5uT0W`*
+*Posted 2026-05-14 · Listing synced 2026-06-11 · 80k job ID `recZshYNLEBh5uT0W`*

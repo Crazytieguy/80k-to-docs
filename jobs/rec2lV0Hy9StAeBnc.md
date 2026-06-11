@@ -2,7 +2,7 @@
 title: "Full Stack Cloud Engineer, AI Security Platform"
 employer: "HiddenLayer"
 job_id: "rec2lV0Hy9StAeBnc"
-last_updated: "2026-06-10T05:33:19.745118Z"
+last_updated: "2026-06-11T05:33:17.614974Z"
 posted_at: "2026-04-07T00:00:00Z"
 status: ready
 apply_url: "https://job-boards.greenhouse.io/hiddenlayer/jobs/5100067007"
@@ -33,4 +33,4 @@ areas:
 <p class="apply-cta"><a href="https://job-boards.greenhouse.io/hiddenlayer/jobs/5100067007">Apply →</a></p>
 
 ---
-*Posted 2026-04-07 · Listing synced 2026-06-10 · 80k job ID `rec2lV0Hy9StAeBnc`*
+*Posted 2026-04-07 · Listing synced 2026-06-11 · 80k job ID `rec2lV0Hy9StAeBnc`*

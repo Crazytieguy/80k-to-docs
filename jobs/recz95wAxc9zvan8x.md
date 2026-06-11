@@ -2,7 +2,7 @@
 title: "Senior ML Researcher, Foundation Models, Responsible AI"
 employer: "Apple"
 job_id: "recz95wAxc9zvan8x"
-last_updated: "2026-06-10T05:33:56.408637Z"
+last_updated: "2026-06-11T05:33:51.632725Z"
 posted_at: "2022-01-05T00:00:00Z"
 status: ready
 apply_url: "https://jobs.apple.com/en-gb/details/200647859-0836/aiml-senior-ml-researcher-in-foundation-models-responsible-ai?team=MLAI"
@@ -33,4 +33,4 @@ areas:
 <p class="apply-cta"><a href="https://jobs.apple.com/en-gb/details/200647859-0836/aiml-senior-ml-researcher-in-foundation-models-responsible-ai?team=MLAI">Apply →</a></p>
 
 ---
-*Posted 2022-01-05 · Listing synced 2026-06-10 · 80k job ID `recz95wAxc9zvan8x`*
+*Posted 2022-01-05 · Listing synced 2026-06-11 · 80k job ID `recz95wAxc9zvan8x`*

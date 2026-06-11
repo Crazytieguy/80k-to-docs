@@ -2,7 +2,7 @@
 title: "Research Scientist, Safety Post-Training"
 employer: "Scale AI"
 job_id: "recdnRDEacIbHDVQk"
-last_updated: "2026-06-10T05:32:54.519387Z"
+last_updated: "2026-06-11T05:32:51.455441Z"
 posted_at: "2026-05-20T00:00:00Z"
 status: ready
 apply_url: "https://scale.com/careers/4696595005"
@@ -34,4 +34,4 @@ areas:
 <p class="apply-cta"><a href="https://scale.com/careers/4696595005">Apply →</a></p>
 
 ---
-*Posted 2026-05-20 · Listing synced 2026-06-10 · 80k job ID `recdnRDEacIbHDVQk`*
+*Posted 2026-05-20 · Listing synced 2026-06-11 · 80k job ID `recdnRDEacIbHDVQk`*

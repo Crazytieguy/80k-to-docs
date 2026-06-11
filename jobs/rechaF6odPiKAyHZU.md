@@ -2,7 +2,7 @@
 title: "In-Depth EA Program"
 employer: "Centre for Effective Altruism"
 job_id: "rechaF6odPiKAyHZU"
-last_updated: "2026-06-10T05:32:43.710452Z"
+last_updated: "2026-06-11T05:32:41.326994Z"
 posted_at: "2026-05-27T00:03:00Z"
 status: ready
 apply_url: "https://www.effectivealtruism.org/courses/in-depth-program"
@@ -32,4 +32,4 @@ areas:
 <p class="apply-cta"><a href="https://www.effectivealtruism.org/courses/in-depth-program">Apply →</a></p>
 
 ---
-*Posted 2026-05-27 · Listing synced 2026-06-10 · 80k job ID `rechaF6odPiKAyHZU`*
+*Posted 2026-05-27 · Listing synced 2026-06-11 · 80k job ID `rechaF6odPiKAyHZU`*

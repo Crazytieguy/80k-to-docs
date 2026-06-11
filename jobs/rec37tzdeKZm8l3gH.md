@@ -2,7 +2,7 @@
 title: "Chief Research Officer"
 employer: "UK Government, AI Security Institute"
 job_id: "rec37tzdeKZm8l3gH"
-last_updated: "2026-06-10T05:32:21.009228Z"
+last_updated: "2026-06-11T05:32:19.412144Z"
 posted_at: "2026-06-09T00:05:00Z"
 status: ready
 apply_url: "https://www.civilservicejobs.service.gov.uk/csr/jobs.cgi?jcode=2000139"
@@ -33,4 +33,4 @@ areas:
 <p class="apply-cta"><a href="https://www.civilservicejobs.service.gov.uk/csr/jobs.cgi?jcode=2000139">Apply →</a></p>
 
 ---
-*Posted 2026-06-09 · Listing synced 2026-06-10 · 80k job ID `rec37tzdeKZm8l3gH`*
+*Posted 2026-06-09 · Listing synced 2026-06-11 · 80k job ID `rec37tzdeKZm8l3gH`*

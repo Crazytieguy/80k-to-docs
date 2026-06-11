@@ -2,7 +2,7 @@
 title: "Student Assistant, Communications and Customer Relationship Management"
 employer: "Power for Democracies"
 job_id: "reckqr2oJILjMWu3j"
-last_updated: "2026-06-10T05:32:50.732259Z"
+last_updated: "2026-06-11T05:32:47.726875Z"
 posted_at: "2026-05-22T00:00:00Z"
 status: ready
 apply_url: "https://powerfordemocracies.kenjo.io/student-assistant-m-f-d-communications-and-crm-690840"
@@ -19,7 +19,7 @@ areas:
 <dt>Role type</dt><dd>Part-time</dd>
 <dt>Experience</dt><dd>Entry-level</dd>
 <dt>Degree</dt><dd>Undergraduate degree or less</dd>
-<dt>Salary</dt><dd>$40,839</dd>
+<dt>Salary</dt><dd>$40,841</dd>
 </dl>
 
 **Areas & skills:** Safeguarding liberal democracy, Outreach, Operations
@@ -34,4 +34,4 @@ areas:
 <p class="apply-cta"><a href="https://powerfordemocracies.kenjo.io/student-assistant-m-f-d-communications-and-crm-690840">Apply →</a></p>
 
 ---
-*Posted 2026-05-22 · Listing synced 2026-06-10 · 80k job ID `reckqr2oJILjMWu3j`*
+*Posted 2026-05-22 · Listing synced 2026-06-11 · 80k job ID `reckqr2oJILjMWu3j`*

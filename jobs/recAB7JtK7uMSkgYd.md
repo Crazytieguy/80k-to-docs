@@ -1,8 +1,8 @@
 ---
 title: "People Operations Associate"
-employer: "Centre for the Governance of AI"
+employer: "GovAI"
 job_id: "recAB7JtK7uMSkgYd"
-last_updated: "2026-06-10T05:32:34.468069Z"
+last_updated: "2026-06-11T05:32:32.750739Z"
 posted_at: "2026-06-02T00:05:00Z"
 status: ready
 apply_url: "https://www.governance.ai/post/people-operations-associate-2"
@@ -12,14 +12,14 @@ areas:
 
 # People Operations Associate
 
-**[Centre for the Governance of AI](https://www.governance.ai/)**
+**[GovAI](https://www.governance.ai/)**
 
 <dl class="job-meta">
 <dt>Location</dt><dd>London, UK, Washington, DC metro area, UK, USA, USA (Confirmed Visas), UK (Confirmed Visas)</dd>
 <dt>Role type</dt><dd>Full-time</dd>
 <dt>Experience</dt><dd>Junior (1-4 years experience), Entry-level</dd>
 <dt>Degree</dt><dd>Undergraduate degree or less</dd>
-<dt>Salary</dt><dd>$88,345 – $103,069</dd>
+<dt>Salary</dt><dd>$88,340 – $103,064</dd>
 </dl>
 
 **Areas & skills:** AI safety & policy, Operations
@@ -34,4 +34,4 @@ areas:
 <p class="apply-cta"><a href="https://www.governance.ai/post/people-operations-associate-2">Apply →</a></p>
 
 ---
-*Posted 2026-06-02 · Listing synced 2026-06-10 · 80k job ID `recAB7JtK7uMSkgYd`*
+*Posted 2026-06-02 · Listing synced 2026-06-11 · 80k job ID `recAB7JtK7uMSkgYd`*

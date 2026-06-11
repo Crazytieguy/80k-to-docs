@@ -4,24 +4,20 @@ employer: "Gavi"
 job_id: "recLduxxWG4XjooOt"
 last_updated: "2026-06-10T05:32:41.724371Z"
 posted_at: "2026-05-28T00:00:00Z"
-status: ready
+status: closed
+closed_at: "2026-06-11"
 apply_url: "https://www.linkedin.com/jobs/view/4419426560/?alternateChannel=search&eBP=NON_CHARGEABLE_CHANNEL&trk=d_flagship3_search_srp_jobs&refId=psZkAP9pRfjnOs%2BViA5WZg%3D%3D&trackingId=5v8k%2FXYF1AcfOHSlFxmrNw%3D%3D"
 areas:
   - "Biosecurity & pandemic preparedness"
 ---
 
+> ⚠️ **CLOSED on 2026-06-11** — this job is no longer listed on the 80,000 Hours board. Archived snapshot below.
+
 # Senior Programme Manager, Public Health Emergencies and Pandemics
 
-**[Gavi](https://www.gavi.org/)**
+**Gavi**
 
-<dl class="job-meta">
-<dt>Location</dt><dd>Geneva, Switzerland, Switzerland, Europe (ex UK)</dd>
-<dt>Role type</dt><dd>Full-time</dd>
-<dt>Experience</dt><dd>Mid (5-9 years experience), Senior (10+ years experience)</dd>
-<dt>Degree</dt><dd>Master's degree</dd>
-</dl>
-
-**Areas & skills:** Biosecurity & pandemic preparedness, Operations, Strategy
+**Areas & skills:** Biosecurity & pandemic preparedness
 
 ## Summary
 - In this role, you'll lead Gavi's preparedness and rapid response to vaccine-preventable public health emergencies and pandemics.

@@ -4,25 +4,20 @@ employer: "Founders Pledge"
 job_id: "reczJIdWkZbRQzxnj"
 last_updated: "2026-06-10T05:33:13.911233Z"
 posted_at: "2026-04-17T00:00:00Z"
-status: ready
+status: closed
+closed_at: "2026-06-11"
 apply_url: "https://careers.founderspledge.com/jobs/7582146-senior-advisor"
 areas:
   - "Building effective altruism"
 ---
 
+> ⚠️ **CLOSED on 2026-06-11** — this job is no longer listed on the 80,000 Hours board. Archived snapshot below.
+
 # Senior Advisor
 
-**[Founders Pledge](https://www.founderspledge.com/)**
+**Founders Pledge**
 
-<dl class="job-meta">
-<dt>Location</dt><dd>London, UK, UK</dd>
-<dt>Role type</dt><dd>Full-time</dd>
-<dt>Experience</dt><dd>Mid (5-9 years experience)</dd>
-<dt>Degree</dt><dd>Undergraduate degree or less</dd>
-<dt>Salary</dt><dd>$113,778</dd>
-</dl>
-
-**Areas & skills:** Building effective altruism, Strategy
+**Areas & skills:** Building effective altruism
 
 ## Summary
 - In this role, you'll guide European philanthropists toward high-impact giving through strategic advisory support and expert counsel.

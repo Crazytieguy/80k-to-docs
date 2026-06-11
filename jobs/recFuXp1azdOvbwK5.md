@@ -2,7 +2,7 @@
 title: "Abuse Investigator, AI Self-Improvement Risk"
 employer: "OpenAI"
 job_id: "recFuXp1azdOvbwK5"
-last_updated: "2026-06-10T05:33:14.847561Z"
+last_updated: "2026-06-11T05:33:12.673957Z"
 posted_at: "2026-04-16T00:00:00Z"
 status: ready
 apply_url: "https://openai.com/careers/abuse-investigator-(ai-self-improvement-risk)-san-francisco/"
@@ -34,4 +34,4 @@ areas:
 <p class="apply-cta"><a href="https://openai.com/careers/abuse-investigator-(ai-self-improvement-risk)-san-francisco/">Apply →</a></p>
 
 ---
-*Posted 2026-04-16 · Listing synced 2026-06-10 · 80k job ID `recFuXp1azdOvbwK5`*
+*Posted 2026-04-16 · Listing synced 2026-06-11 · 80k job ID `recFuXp1azdOvbwK5`*
