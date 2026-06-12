@@ -4,25 +4,20 @@ employer: "Anthropic"
 job_id: "recH7wqhSNa2xOdfT"
 last_updated: "2026-06-11T05:33:23.293628Z"
 posted_at: "2022-01-12T00:00:00Z"
-status: ready
+status: closed
+closed_at: "2026-06-12"
 apply_url: "https://job-boards.greenhouse.io/anthropic/jobs/5156057008"
 areas:
   - "AI safety & policy"
 ---
 
+> ⚠️ **CLOSED on 2026-06-12** — this job is no longer listed on the 80,000 Hours board. Archived snapshot below.
+
 # Data Engineer, Safeguards
 
-**[Anthropic](https://www.anthropic.com/)**
+**Anthropic**
 
-<dl class="job-meta">
-<dt>Location</dt><dd>London, UK, UK, UK (Confirmed Visas)</dd>
-<dt>Role type</dt><dd>Full-time</dd>
-<dt>Experience</dt><dd>Junior (1-4 years experience)</dd>
-<dt>Degree</dt><dd>Undergraduate degree or less</dd>
-<dt>Salary</dt><dd>$227,543 – $294,468</dd>
-</dl>
-
-**Areas & skills:** AI safety & policy, Software engineering
+**Areas & skills:** AI safety & policy
 
 ## Summary
 - In this role, you'll design and build scalable data pipelines and warehousing solutions for safety monitoring and abuse detection.

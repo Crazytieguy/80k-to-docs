@@ -2,7 +2,7 @@
 title: "Senior Research Manager"
 employer: "MATS Research"
 job_id: "rec9enXKqMpDioTCF"
-last_updated: "2026-06-11T05:33:46.236252Z"
+last_updated: "2026-06-12T05:33:48.933477Z"
 posted_at: "2022-01-06T00:00:00Z"
 status: ready
 apply_url: "https://www.matsprogram.org/careers/senior-research-manager-berkeley-london"
@@ -34,4 +34,4 @@ areas:
 <p class="apply-cta"><a href="https://www.matsprogram.org/careers/senior-research-manager-berkeley-london">Apply →</a></p>
 
 ---
-*Posted 2022-01-06 · Listing synced 2026-06-11 · 80k job ID `rec9enXKqMpDioTCF`*
+*Posted 2022-01-06 · Listing synced 2026-06-12 · 80k job ID `rec9enXKqMpDioTCF`*

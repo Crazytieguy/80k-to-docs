@@ -2,10 +2,10 @@
 title: "Alignment Research Manager"
 employer: "AE Studio"
 job_id: "rectgPBeAct0elWNZ"
-last_updated: "2026-06-11T05:32:17.728150Z"
+last_updated: "2026-06-12T05:32:16.850158Z"
 posted_at: "2026-06-10T00:00:00Z"
 status: ready
-apply_url: "https://job-boards.greenhouse.io/aestudio/jobs/5616440004"
+apply_url: "https://grnh.se/og92mzxr4us"
 areas:
   - "AI safety & policy"
 ---
@@ -31,7 +31,7 @@ areas:
 - Test, validate, or unblock work as needed and identify dead ends early.
 - Translate fluently between engineers, researchers, clients, and funders to drive execution across complex, high-stakes efforts.
 
-<p class="apply-cta"><a href="https://job-boards.greenhouse.io/aestudio/jobs/5616440004">Apply →</a></p>
+<p class="apply-cta"><a href="https://grnh.se/og92mzxr4us">Apply →</a></p>
 
 ---
-*Posted 2026-06-10 · Listing synced 2026-06-11 · 80k job ID `rectgPBeAct0elWNZ`*
+*Posted 2026-06-10 · Listing synced 2026-06-12 · 80k job ID `rectgPBeAct0elWNZ`*

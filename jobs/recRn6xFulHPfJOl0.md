@@ -2,8 +2,8 @@
 title: "Digital Media Accelerator"
 employer: "Future of Life Institute"
 job_id: "recRn6xFulHPfJOl0"
-last_updated: "2026-06-11T05:33:09.955718Z"
-posted_at: "2026-04-24T00:00:00Z"
+last_updated: "2026-06-12T05:32:14.903562Z"
+posted_at: "2026-06-11T00:00:00Z"
 status: ready
 apply_url: "https://futureoflife.org/project/digital-media-accelerator/"
 areas:
@@ -31,4 +31,4 @@ areas:
 <p class="apply-cta"><a href="https://futureoflife.org/project/digital-media-accelerator/">Apply →</a></p>
 
 ---
-*Posted 2026-04-24 · Listing synced 2026-06-11 · 80k job ID `recRn6xFulHPfJOl0`*
+*Posted 2026-06-11 · Listing synced 2026-06-12 · 80k job ID `recRn6xFulHPfJOl0`*

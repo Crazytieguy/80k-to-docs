@@ -2,7 +2,7 @@
 title: "Donor Experience Specialist"
 employer: "Mercy for Animals"
 job_id: "recBbSB7YHnkZna3V"
-last_updated: "2026-06-11T05:32:25.211593Z"
+last_updated: "2026-06-12T05:32:24.924066Z"
 posted_at: "2026-06-08T00:00:00Z"
 status: ready
 apply_url: "https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=9b16364c-5e0e-4e66-be82-8f108b1eb279&ccId=19000101_000001&jobId=552986&lang=en_US&source=LR"
@@ -34,4 +34,4 @@ areas:
 <p class="apply-cta"><a href="https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=9b16364c-5e0e-4e66-be82-8f108b1eb279&amp;ccId=19000101_000001&amp;jobId=552986&amp;lang=en_US&amp;source=LR">Apply →</a></p>
 
 ---
-*Posted 2026-06-08 · Listing synced 2026-06-11 · 80k job ID `recBbSB7YHnkZna3V`*
+*Posted 2026-06-08 · Listing synced 2026-06-12 · 80k job ID `recBbSB7YHnkZna3V`*

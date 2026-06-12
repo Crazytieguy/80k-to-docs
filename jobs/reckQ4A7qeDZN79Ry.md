@@ -2,7 +2,7 @@
 title: "Used Lead Acid Battery Advisor"
 employer: "Pure Earth"
 job_id: "reckQ4A7qeDZN79Ry"
-last_updated: "2026-06-11T05:34:12.619217Z"
+last_updated: "2026-06-12T05:34:14.792348Z"
 posted_at: "2022-01-02T00:00:00Z"
 status: ready
 apply_url: "https://app.trinethire.com/companies/586876-pure-earth/jobs/116616-used-lead-acid-battery-ulab-advisor"
@@ -32,4 +32,4 @@ areas:
 <p class="apply-cta"><a href="https://app.trinethire.com/companies/586876-pure-earth/jobs/116616-used-lead-acid-battery-ulab-advisor">Apply →</a></p>
 
 ---
-*Posted 2022-01-02 · Listing synced 2026-06-11 · 80k job ID `reckQ4A7qeDZN79Ry`*
+*Posted 2022-01-02 · Listing synced 2026-06-12 · 80k job ID `reckQ4A7qeDZN79Ry`*

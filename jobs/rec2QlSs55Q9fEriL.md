@@ -2,7 +2,7 @@
 title: "Team Member, Model Policy, Chemical and Biological Risk"
 employer: "OpenAI"
 job_id: "rec2QlSs55Q9fEriL"
-last_updated: "2026-06-11T05:32:54.973182Z"
+last_updated: "2026-06-12T05:32:57.434219Z"
 posted_at: "2026-05-15T00:00:00Z"
 status: ready
 apply_url: "https://openai.com/careers/model-policy-chemical-and-biological-risk-san-francisco/"
@@ -35,4 +35,4 @@ areas:
 <p class="apply-cta"><a href="https://openai.com/careers/model-policy-chemical-and-biological-risk-san-francisco/">Apply →</a></p>
 
 ---
-*Posted 2026-05-15 · Listing synced 2026-06-11 · 80k job ID `rec2QlSs55Q9fEriL`*
+*Posted 2026-05-15 · Listing synced 2026-06-12 · 80k job ID `rec2QlSs55Q9fEriL`*

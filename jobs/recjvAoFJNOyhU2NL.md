@@ -2,7 +2,7 @@
 title: "Expression of Interest"
 employer: "Epoch AI"
 job_id: "recjvAoFJNOyhU2NL"
-last_updated: "2026-06-11T05:33:29.984053Z"
+last_updated: "2026-06-12T05:33:30.670271Z"
 posted_at: "2022-01-11T00:00:00Z"
 status: ready
 apply_url: "https://jobs.lever.co/epoch-ai/137cb0dc-03a6-4747-b9dc-8255194daee2"
@@ -34,4 +34,4 @@ areas:
 <p class="apply-cta"><a href="https://jobs.lever.co/epoch-ai/137cb0dc-03a6-4747-b9dc-8255194daee2">Apply →</a></p>
 
 ---
-*Posted 2022-01-11 · Listing synced 2026-06-11 · 80k job ID `recjvAoFJNOyhU2NL`*
+*Posted 2022-01-11 · Listing synced 2026-06-12 · 80k job ID `recjvAoFJNOyhU2NL`*

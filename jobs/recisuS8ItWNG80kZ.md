@@ -2,7 +2,7 @@
 title: "Research Analyst"
 employer: "Georgetown University, Center for Security and Emerging Technology"
 job_id: "recisuS8ItWNG80kZ"
-last_updated: "2026-06-11T05:32:19.267193Z"
+last_updated: "2026-06-12T05:32:18.561925Z"
 posted_at: "2026-06-09T00:05:00Z"
 status: ready
 apply_url: "https://cset.georgetown.edu/job/research-analysts/"
@@ -34,4 +34,4 @@ areas:
 <p class="apply-cta"><a href="https://cset.georgetown.edu/job/research-analysts/">Apply →</a></p>
 
 ---
-*Posted 2026-06-09 · Listing synced 2026-06-11 · 80k job ID `recisuS8ItWNG80kZ`*
+*Posted 2026-06-09 · Listing synced 2026-06-12 · 80k job ID `recisuS8ItWNG80kZ`*

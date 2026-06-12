@@ -2,7 +2,7 @@
 title: "Researcher, AI Security and Privacy"
 employer: "University of South-Eastern Norway"
 job_id: "recivcFmPVnN3nOZT"
-last_updated: "2026-06-11T05:32:21.911370Z"
+last_updated: "2026-06-12T05:32:21.355640Z"
 posted_at: "2026-06-09T00:00:00Z"
 status: ready
 apply_url: "https://www.jobbnorge.no/en/available-jobs/job/302803/researcher-in-ai-security-and-privacy"
@@ -19,7 +19,7 @@ areas:
 <dt>Role type</dt><dd>Full-time</dd>
 <dt>Experience</dt><dd>Junior (1-4 years experience)</dd>
 <dt>Degree</dt><dd>Doctoral degree</dd>
-<dt>Salary</dt><dd>$70,186 – $90,931</dd>
+<dt>Salary</dt><dd>$69,799 – $90,429</dd>
 </dl>
 
 **Areas & skills:** AI safety & policy, Research, Information security
@@ -34,4 +34,4 @@ areas:
 <p class="apply-cta"><a href="https://www.jobbnorge.no/en/available-jobs/job/302803/researcher-in-ai-security-and-privacy">Apply →</a></p>
 
 ---
-*Posted 2026-06-09 · Listing synced 2026-06-11 · 80k job ID `recivcFmPVnN3nOZT`*
+*Posted 2026-06-09 · Listing synced 2026-06-12 · 80k job ID `recivcFmPVnN3nOZT`*

@@ -4,25 +4,20 @@ employer: "R Street Institute"
 job_id: "recNnYoDlcDDyKIjV"
 last_updated: "2026-06-11T05:32:28.137058Z"
 posted_at: "2026-06-05T00:00:00Z"
-status: ready
+status: closed
+closed_at: "2026-06-12"
 apply_url: "https://street.applytojob.com/apply/iI00hC26NL/Fellow-Technology-And-Innovation?source=lf"
 areas:
   - "Career development: Policy & government"
 ---
 
+> ⚠️ **CLOSED on 2026-06-12** — this job is no longer listed on the 80,000 Hours board. Archived snapshot below.
+
 # Fellow, Technology and Innovation
 
-**[R Street Institute](https://www.rstreet.org/about/)**
+**R Street Institute**
 
-<dl class="job-meta">
-<dt>Location</dt><dd>Washington, DC metro area, Remote, Global, USA</dd>
-<dt>Role type</dt><dd>Fellowship</dd>
-<dt>Experience</dt><dd>Junior (1-4 years experience), Entry-level</dd>
-<dt>Degree</dt><dd>Undergraduate degree or less</dd>
-<dt>Salary</dt><dd>$80,000 – $90,000</dd>
-</dl>
-
-**Areas & skills:** Career development: Policy & government, Research, Policy
+**Areas & skills:** Career development: Policy & government
 
 ## Summary
 - In this role, you'll conduct technology policy research and analysis on cybersecurity, artificial intelligence, and emerging technology issues.

@@ -2,7 +2,7 @@
 title: "Specialist, Institutional Advocacy"
 employer: "Animal Welfare Observatory"
 job_id: "recJBHoAcRf0iRF4u"
-last_updated: "2026-06-11T05:32:39.828777Z"
+last_updated: "2026-06-12T05:32:41.971317Z"
 posted_at: "2026-05-28T00:00:00Z"
 status: ready
 apply_url: "https://observatoriodebienestaranimal.jobs.personio.com/job/2647367"
@@ -19,7 +19,7 @@ areas:
 <dt>Role type</dt><dd>Full-time</dd>
 <dt>Experience</dt><dd>Junior (1-4 years experience)</dd>
 <dt>Degree</dt><dd>Undergraduate degree or less</dd>
-<dt>Salary</dt><dd>$36,960</dd>
+<dt>Salary</dt><dd>$37,008</dd>
 </dl>
 
 **Areas & skills:** Animal welfare, Policy
@@ -34,4 +34,4 @@ areas:
 <p class="apply-cta"><a href="https://observatoriodebienestaranimal.jobs.personio.com/job/2647367">Apply →</a></p>
 
 ---
-*Posted 2026-05-28 · Listing synced 2026-06-11 · 80k job ID `recJBHoAcRf0iRF4u`*
+*Posted 2026-05-28 · Listing synced 2026-06-12 · 80k job ID `recJBHoAcRf0iRF4u`*

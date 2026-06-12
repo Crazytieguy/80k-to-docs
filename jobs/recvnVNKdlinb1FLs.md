@@ -2,7 +2,7 @@
 title: "International Knowledge Worker"
 employer: "Fish Welfare Initiative"
 job_id: "recvnVNKdlinb1FLs"
-last_updated: "2026-06-11T05:34:19.031224Z"
+last_updated: "2026-06-12T05:34:20.946943Z"
 posted_at: "2022-01-01T00:00:00Z"
 status: ready
 apply_url: "https://docs.google.com/forms/d/1N6KhdzxQ0TP88b6f0eFMN-HsE1Vw9g01TVswpPmH0Yo/edit"
@@ -29,4 +29,4 @@ areas:
 <p class="apply-cta"><a href="https://docs.google.com/forms/d/1N6KhdzxQ0TP88b6f0eFMN-HsE1Vw9g01TVswpPmH0Yo/edit">Apply →</a></p>
 
 ---
-*Posted 2022-01-01 · Listing synced 2026-06-11 · 80k job ID `recvnVNKdlinb1FLs`*
+*Posted 2022-01-01 · Listing synced 2026-06-12 · 80k job ID `recvnVNKdlinb1FLs`*

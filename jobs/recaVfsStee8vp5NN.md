@@ -2,7 +2,7 @@
 title: "Software Engineer, Systems"
 employer: "Braintrust Data"
 job_id: "recaVfsStee8vp5NN"
-last_updated: "2026-06-11T05:34:03.985157Z"
+last_updated: "2026-06-12T05:34:07.367421Z"
 posted_at: "2022-01-02T00:00:00Z"
 status: ready
 apply_url: "https://www.braintrust.dev/careers?ashby_jid=8b9cfa26-627f-442c-a358-783b0e4ef930"
@@ -33,4 +33,4 @@ areas:
 <p class="apply-cta"><a href="https://www.braintrust.dev/careers?ashby_jid=8b9cfa26-627f-442c-a358-783b0e4ef930">Apply →</a></p>
 
 ---
-*Posted 2022-01-02 · Listing synced 2026-06-11 · 80k job ID `recaVfsStee8vp5NN`*
+*Posted 2022-01-02 · Listing synced 2026-06-12 · 80k job ID `recaVfsStee8vp5NN`*

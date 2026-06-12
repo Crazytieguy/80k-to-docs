@@ -2,7 +2,7 @@
 title: "Biosecurity Course"
 employer: "BlueDot Impact"
 job_id: "recPzDo5SSlXFeCct"
-last_updated: "2026-06-11T05:32:39.574273Z"
+last_updated: "2026-06-12T05:32:41.649193Z"
 posted_at: "2026-05-28T00:02:00Z"
 status: ready
 apply_url: "https://bluedot.org/courses/biosecurity"
@@ -32,4 +32,4 @@ areas:
 <p class="apply-cta"><a href="https://bluedot.org/courses/biosecurity">Apply →</a></p>
 
 ---
-*Posted 2026-05-28 · Listing synced 2026-06-11 · 80k job ID `recPzDo5SSlXFeCct`*
+*Posted 2026-05-28 · Listing synced 2026-06-12 · 80k job ID `recPzDo5SSlXFeCct`*

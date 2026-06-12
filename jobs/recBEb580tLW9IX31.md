@@ -2,7 +2,7 @@
 title: "Senior Communications Associate"
 employer: "Center for Arms Control and Non-Proliferation"
 job_id: "recBEb580tLW9IX31"
-last_updated: "2026-06-11T05:32:32.277138Z"
+last_updated: "2026-06-12T05:32:32.570325Z"
 posted_at: "2026-06-03T00:00:00Z"
 status: ready
 apply_url: "https://armscontrolcenter.org/about/jobs-and-internships/"
@@ -33,4 +33,4 @@ areas:
 <p class="apply-cta"><a href="https://armscontrolcenter.org/about/jobs-and-internships/">Apply →</a></p>
 
 ---
-*Posted 2026-06-03 · Listing synced 2026-06-11 · 80k job ID `recBEb580tLW9IX31`*
+*Posted 2026-06-03 · Listing synced 2026-06-12 · 80k job ID `recBEb580tLW9IX31`*

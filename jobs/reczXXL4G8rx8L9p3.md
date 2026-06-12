@@ -2,7 +2,7 @@
 title: "Research Engineer, Frontier AI Risk Management"
 employer: "SaferAI"
 job_id: "reczXXL4G8rx8L9p3"
-last_updated: "2026-06-11T05:33:20.491635Z"
+last_updated: "2026-06-12T05:33:21.307736Z"
 posted_at: "2026-03-31T00:02:00Z"
 status: ready
 apply_url: "https://www.safer-ai.org/jobs/frontier-ai-risk-management-research-engineer"
@@ -33,4 +33,4 @@ areas:
 <p class="apply-cta"><a href="https://www.safer-ai.org/jobs/frontier-ai-risk-management-research-engineer">Apply →</a></p>
 
 ---
-*Posted 2026-03-31 · Listing synced 2026-06-11 · 80k job ID `reczXXL4G8rx8L9p3`*
+*Posted 2026-03-31 · Listing synced 2026-06-12 · 80k job ID `reczXXL4G8rx8L9p3`*

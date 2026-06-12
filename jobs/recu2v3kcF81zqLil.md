@@ -2,7 +2,7 @@
 title: "Founding Engineer"
 employer: "Guide to Good"
 job_id: "recu2v3kcF81zqLil"
-last_updated: "2026-06-11T05:32:33.353602Z"
+last_updated: "2026-06-12T05:32:34.665432Z"
 posted_at: "2026-06-02T00:00:00Z"
 status: ready
 apply_url: "https://tally.so/r/b561K2"
@@ -34,4 +34,4 @@ areas:
 <p class="apply-cta"><a href="https://tally.so/r/b561K2">Apply →</a></p>
 
 ---
-*Posted 2026-06-02 · Listing synced 2026-06-11 · 80k job ID `recu2v3kcF81zqLil`*
+*Posted 2026-06-02 · Listing synced 2026-06-12 · 80k job ID `recu2v3kcF81zqLil`*

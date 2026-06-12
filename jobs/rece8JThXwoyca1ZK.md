@@ -2,7 +2,7 @@
 title: "Operations Coordinator / Associate"
 employer: "Coefficient Giving"
 job_id: "rece8JThXwoyca1ZK"
-last_updated: "2026-06-11T05:33:36.019315Z"
+last_updated: "2026-06-12T05:33:36.717105Z"
 posted_at: "2022-01-07T00:00:00Z"
 status: ready
 apply_url: "https://jobs.ashbyhq.com/coefficientgiving/61ad9392-f397-42a9-85a2-234ed820b39d"
@@ -34,4 +34,4 @@ areas:
 <p class="apply-cta"><a href="https://jobs.ashbyhq.com/coefficientgiving/61ad9392-f397-42a9-85a2-234ed820b39d">Apply →</a></p>
 
 ---
-*Posted 2022-01-07 · Listing synced 2026-06-11 · 80k job ID `rece8JThXwoyca1ZK`*
+*Posted 2022-01-07 · Listing synced 2026-06-12 · 80k job ID `rece8JThXwoyca1ZK`*

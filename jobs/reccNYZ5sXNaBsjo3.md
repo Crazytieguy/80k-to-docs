@@ -2,7 +2,7 @@
 title: "Project Officer, Artificial Intelligence Applied to Operations Management"
 employer: "European Union, Joint Research Centre"
 job_id: "reccNYZ5sXNaBsjo3"
-last_updated: "2026-06-11T05:32:21.123626Z"
+last_updated: "2026-06-12T05:32:20.486025Z"
 posted_at: "2026-06-09T00:00:00Z"
 status: ready
 apply_url: "https://recruitment.jrc.ec.europa.eu/vacancy/2931"
@@ -19,7 +19,7 @@ areas:
 <dt>Role type</dt><dd>Full-time</dd>
 <dt>Experience</dt><dd>Junior (1-4 years experience)</dd>
 <dt>Degree</dt><dd>Undergraduate degree or less</dd>
-<dt>Salary</dt><dd>$61,664 – $89,315</dd>
+<dt>Salary</dt><dd>$61,743 – $89,430</dd>
 </dl>
 
 **Areas & skills:** Career development, Operations, Software engineering
@@ -34,4 +34,4 @@ areas:
 <p class="apply-cta"><a href="https://recruitment.jrc.ec.europa.eu/vacancy/2931">Apply →</a></p>
 
 ---
-*Posted 2026-06-09 · Listing synced 2026-06-11 · 80k job ID `reccNYZ5sXNaBsjo3`*
+*Posted 2026-06-09 · Listing synced 2026-06-12 · 80k job ID `reccNYZ5sXNaBsjo3`*

@@ -2,7 +2,7 @@
 title: "Finance Associate / Senior Finance Associate"
 employer: "Tarbell Center for AI Journalism"
 job_id: "recBYMWdIRWirPFGQ"
-last_updated: "2026-06-11T05:32:42.372185Z"
+last_updated: "2026-06-12T05:32:44.676084Z"
 posted_at: "2026-05-26T00:05:00Z"
 status: ready
 apply_url: "https://www.tarbellcenter.org/careers/finance-associate"
@@ -34,4 +34,4 @@ areas:
 <p class="apply-cta"><a href="https://www.tarbellcenter.org/careers/finance-associate">Apply →</a></p>
 
 ---
-*Posted 2026-05-26 · Listing synced 2026-06-11 · 80k job ID `recBYMWdIRWirPFGQ`*
+*Posted 2026-05-26 · Listing synced 2026-06-12 · 80k job ID `recBYMWdIRWirPFGQ`*
