@@ -2,7 +2,7 @@
 title: "Hub Builder"
 employer: "London Initiative for Safe AI"
 job_id: "recOYmRzi22tDnCDG"
-last_updated: "2026-06-12T05:32:27.055487Z"
+last_updated: "2026-06-13T05:32:32.896940Z"
 posted_at: "2026-06-05T00:02:00Z"
 status: ready
 apply_url: "https://www.safeai.org.uk/hub-builder"
@@ -33,4 +33,4 @@ areas:
 <p class="apply-cta"><a href="https://www.safeai.org.uk/hub-builder">Apply →</a></p>
 
 ---
-*Posted 2026-06-05 · Listing synced 2026-06-12 · 80k job ID `recOYmRzi22tDnCDG`*
+*Posted 2026-06-05 · Listing synced 2026-06-13 · 80k job ID `recOYmRzi22tDnCDG`*

@@ -2,7 +2,7 @@
 title: "Research Manager, Epidemics and Epidemiology"
 employer: "Wellcome Trust"
 job_id: "rece49ZkkpceXuaXA"
-last_updated: "2026-06-12T05:32:18.412366Z"
+last_updated: "2026-06-13T05:32:25.011057Z"
 posted_at: "2026-06-10T00:00:00Z"
 status: ready
 apply_url: "https://wellcome.wd3.myworkdayjobs.com/en-US/Wellcome/job/London/Research-Manager--Epidemics-and-Epidemiology_R-003341"
@@ -19,7 +19,7 @@ areas:
 <dt>Role type</dt><dd>Full-time</dd>
 <dt>Experience</dt><dd>Junior (1-4 years experience)</dd>
 <dt>Degree</dt><dd>Undergraduate degree or less</dd>
-<dt>Salary</dt><dd>$58,975 – $73,718</dd>
+<dt>Salary</dt><dd>$58,993 – $73,741</dd>
 </dl>
 
 **Areas & skills:** Biosecurity & pandemic preparedness, Operations
@@ -33,4 +33,4 @@ areas:
 <p class="apply-cta"><a href="https://wellcome.wd3.myworkdayjobs.com/en-US/Wellcome/job/London/Research-Manager--Epidemics-and-Epidemiology_R-003341">Apply →</a></p>
 
 ---
-*Posted 2026-06-10 · Listing synced 2026-06-12 · 80k job ID `rece49ZkkpceXuaXA`*
+*Posted 2026-06-10 · Listing synced 2026-06-13 · 80k job ID `rece49ZkkpceXuaXA`*

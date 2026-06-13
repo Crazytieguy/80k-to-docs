@@ -2,7 +2,7 @@
 title: "Federal Internship Finder"
 employer: "Partnership for Public Service"
 job_id: "recqvqiM4Og179k8L"
-last_updated: "2026-06-12T05:34:14.667156Z"
+last_updated: "2026-06-13T05:34:16.880797Z"
 posted_at: "2022-01-02T00:00:00Z"
 status: ready
 apply_url: "https://gogovernment.org/federal-internship-finder/"
@@ -31,4 +31,4 @@ areas:
 <p class="apply-cta"><a href="https://gogovernment.org/federal-internship-finder/">Apply →</a></p>
 
 ---
-*Posted 2022-01-02 · Listing synced 2026-06-12 · 80k job ID `recqvqiM4Og179k8L`*
+*Posted 2022-01-02 · Listing synced 2026-06-13 · 80k job ID `recqvqiM4Og179k8L`*

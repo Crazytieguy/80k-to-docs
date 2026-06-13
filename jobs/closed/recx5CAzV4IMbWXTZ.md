@@ -4,25 +4,20 @@ employer: "California Council on Science and Technology"
 job_id: "recx5CAzV4IMbWXTZ"
 last_updated: "2026-06-12T05:33:06.574825Z"
 posted_at: "2026-05-05T00:04:00Z"
-status: ready
+status: closed
+closed_at: "2026-06-13"
 apply_url: "https://ccst.us/ai-policy-fellow-cdt/"
 areas:
   - "AI safety & policy"
 ---
 
+> ⚠️ **CLOSED on 2026-06-13** — this job is no longer listed on the 80,000 Hours board. Archived snapshot below.
+
 # AI Policy Fellow, California Department of Technology
 
-**[California Council on Science and Technology](https://ccst.us/)**
+**California Council on Science and Technology**
 
-<dl class="job-meta">
-<dt>Location</dt><dd>Sacramento, CA, CA, USA</dd>
-<dt>Role type</dt><dd>Fellowship</dd>
-<dt>Experience</dt><dd>Multiple experience levels</dd>
-<dt>Degree</dt><dd>Undergraduate degree or less</dd>
-<dt>Salary</dt><dd>$90,000 – $110,000</dd>
-</dl>
-
-**Areas & skills:** AI safety & policy, Policy
+**Areas & skills:** AI safety & policy
 
 ## Summary
 - In this role, you'll advise on California's state-level AI policy and governance, particularly frontier AI safety, transparency, and risk management.

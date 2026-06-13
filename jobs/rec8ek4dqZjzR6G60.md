@@ -2,7 +2,7 @@
 title: "Research Assistant"
 employer: "University of Chicago, Development Innovation Lab"
 job_id: "rec8ek4dqZjzR6G60"
-last_updated: "2026-06-12T05:34:16.763585Z"
+last_updated: "2026-06-13T05:34:18.960960Z"
 posted_at: "2022-01-02T00:00:00Z"
 status: ready
 apply_url: "https://dil.uchicago.edu/opportunities/research-assistant-dil/?occurrence_id=0"
@@ -33,4 +33,4 @@ areas:
 <p class="apply-cta"><a href="https://dil.uchicago.edu/opportunities/research-assistant-dil/?occurrence_id=0">Apply →</a></p>
 
 ---
-*Posted 2022-01-02 · Listing synced 2026-06-12 · 80k job ID `rec8ek4dqZjzR6G60`*
+*Posted 2022-01-02 · Listing synced 2026-06-13 · 80k job ID `rec8ek4dqZjzR6G60`*

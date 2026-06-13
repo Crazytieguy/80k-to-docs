@@ -2,7 +2,7 @@
 title: "Advisor"
 employer: "80,000 Hours"
 job_id: "reclC02RZUCp4S6rZ"
-last_updated: "2026-06-12T05:33:04.430253Z"
+last_updated: "2026-06-13T05:33:07.211141Z"
 posted_at: "2026-05-06T00:03:00Z"
 status: ready
 apply_url: "https://80000hours.org/2026/05/open-position-advisor-2/"
@@ -19,7 +19,7 @@ areas:
 <dt>Role type</dt><dd>Full-time</dd>
 <dt>Experience</dt><dd>Multiple experience levels</dd>
 <dt>Degree</dt><dd>Undergraduate degree or less</dd>
-<dt>Salary</dt><dd>$120,630 – $167,542</dd>
+<dt>Salary</dt><dd>$120,668 – $167,594</dd>
 </dl>
 
 **Areas & skills:** AI safety & policy, Other
@@ -34,4 +34,4 @@ areas:
 <p class="apply-cta"><a href="https://80000hours.org/2026/05/open-position-advisor-2/">Apply →</a></p>
 
 ---
-*Posted 2026-05-06 · Listing synced 2026-06-12 · 80k job ID `reclC02RZUCp4S6rZ`*
+*Posted 2026-05-06 · Listing synced 2026-06-13 · 80k job ID `reclC02RZUCp4S6rZ`*

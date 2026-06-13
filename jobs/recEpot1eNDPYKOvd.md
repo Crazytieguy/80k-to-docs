@@ -2,7 +2,7 @@
 title: "Senior Vaccination Researcher"
 employer: "GiveWell"
 job_id: "recEpot1eNDPYKOvd"
-last_updated: "2026-06-12T05:32:59.037355Z"
+last_updated: "2026-06-13T05:33:01.819736Z"
 posted_at: "2026-05-14T00:00:00Z"
 status: ready
 apply_url: "https://job-boards.greenhouse.io/givewell/jobs/5219962008"
@@ -34,4 +34,4 @@ areas:
 <p class="apply-cta"><a href="https://job-boards.greenhouse.io/givewell/jobs/5219962008">Apply →</a></p>
 
 ---
-*Posted 2026-05-14 · Listing synced 2026-06-12 · 80k job ID `recEpot1eNDPYKOvd`*
+*Posted 2026-05-14 · Listing synced 2026-06-13 · 80k job ID `recEpot1eNDPYKOvd`*

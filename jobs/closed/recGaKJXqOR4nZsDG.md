@@ -4,25 +4,20 @@ employer: "Rethink Priorities"
 job_id: "recGaKJXqOR4nZsDG"
 last_updated: "2026-06-12T05:32:46.730127Z"
 posted_at: "2026-05-25T00:03:00Z"
-status: ready
+status: closed
+closed_at: "2026-06-13"
 apply_url: "https://careers.rethinkpriorities.org/en/postings/7836fbe0-0798-40f3-b4e0-ad8776591b02"
 areas:
   - "AI safety & policy"
 ---
 
+> ⚠️ **CLOSED on 2026-06-13** — this job is no longer listed on the 80,000 Hours board. Archived snapshot below.
+
 # Researcher, AI Cognition Initiative, Economics Focus
 
-**[Rethink Priorities](https://www.rethinkpriorities.org/)**
+**Rethink Priorities**
 
-<dl class="job-meta">
-<dt>Location</dt><dd>Remote, Global</dd>
-<dt>Role type</dt><dd>Full-time</dd>
-<dt>Experience</dt><dd>Junior (1-4 years experience), Mid (5-9 years experience)</dd>
-<dt>Degree</dt><dd>Undergraduate degree or less</dd>
-<dt>Salary</dt><dd>$75,900 – $125,400</dd>
-</dl>
-
-**Areas & skills:** AI safety & policy, Research
+**Areas & skills:** AI safety & policy
 
 ## Summary
 - In this role, you'll conduct research to inform policymakers and foundations on complex issues affecting people and animals.

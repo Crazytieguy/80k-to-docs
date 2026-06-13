@@ -2,7 +2,7 @@
 title: "Talent Mobilization Program Coordinator"
 employer: "Constellation"
 job_id: "recg2HAkXXephjoyg"
-last_updated: "2026-06-12T05:33:43.251423Z"
+last_updated: "2026-06-13T05:33:45.422984Z"
 posted_at: "2022-01-06T00:00:00Z"
 status: ready
 apply_url: "https://jobs.gem.com/constellation-institute/79186266-9bd3-4136-ad96-389b388b6af1"
@@ -34,4 +34,4 @@ areas:
 <p class="apply-cta"><a href="https://jobs.gem.com/constellation-institute/79186266-9bd3-4136-ad96-389b388b6af1">Apply →</a></p>
 
 ---
-*Posted 2022-01-06 · Listing synced 2026-06-12 · 80k job ID `recg2HAkXXephjoyg`*
+*Posted 2022-01-06 · Listing synced 2026-06-13 · 80k job ID `recg2HAkXXephjoyg`*

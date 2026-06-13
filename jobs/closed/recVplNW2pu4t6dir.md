@@ -4,25 +4,20 @@ employer: "California Council on Science and Technology"
 job_id: "recVplNW2pu4t6dir"
 last_updated: "2026-06-12T05:32:47.856337Z"
 posted_at: "2026-05-25T00:00:00Z"
-status: ready
+status: closed
+closed_at: "2026-06-13"
 apply_url: "https://ccst.us/ai-advisor-caloes/"
 areas:
   - "AI safety & policy"
 ---
 
+> ⚠️ **CLOSED on 2026-06-13** — this job is no longer listed on the 80,000 Hours board. Archived snapshot below.
+
 # AI Science Advisor, California Governor's Office of Emergency Services
 
-**[California Council on Science and Technology](https://ccst.us/)**
+**California Council on Science and Technology**
 
-<dl class="job-meta">
-<dt>Location</dt><dd>Sacramento, CA, USA</dd>
-<dt>Role type</dt><dd>Full-time</dd>
-<dt>Experience</dt><dd>Senior (10+ years experience)</dd>
-<dt>Degree</dt><dd>Doctoral degree</dd>
-<dt>Salary</dt><dd>$190,000 – $220,000</dd>
-</dl>
-
-**Areas & skills:** AI safety & policy, Policy
+**Areas & skills:** AI safety & policy
 
 ## Summary
 - In this role, you'll serve as California's senior technical advisor on state-level AI policy, safety, governance, and adoption.

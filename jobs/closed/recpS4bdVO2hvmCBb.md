@@ -4,25 +4,20 @@ employer: "Rethink Priorities"
 job_id: "recpS4bdVO2hvmCBb"
 last_updated: "2026-06-12T05:32:46.880317Z"
 posted_at: "2026-05-25T00:03:00Z"
-status: ready
+status: closed
+closed_at: "2026-06-13"
 apply_url: "https://careers.rethinkpriorities.org/en/postings/18a63b60-7fd9-49da-a345-f26eb300a92e"
 areas:
   - "AI safety & policy"
 ---
 
+> ⚠️ **CLOSED on 2026-06-13** — this job is no longer listed on the 80,000 Hours board. Archived snapshot below.
+
 # Researcher, AI Cognition Initiative, Technical Focus
 
-**[Rethink Priorities](https://www.rethinkpriorities.org/)**
+**Rethink Priorities**
 
-<dl class="job-meta">
-<dt>Location</dt><dd>Remote, Global</dd>
-<dt>Role type</dt><dd>Full-time</dd>
-<dt>Experience</dt><dd>Junior (1-4 years experience), Mid (5-9 years experience)</dd>
-<dt>Degree</dt><dd>Undergraduate degree or less</dd>
-<dt>Salary</dt><dd>$75,900 – $125,400</dd>
-</dl>
-
-**Areas & skills:** AI safety & policy, Research
+**Areas & skills:** AI safety & policy
 
 ## Summary
 - In this role, you'll conduct research for the Worldview Investigations department to inform policy and foundation decisions on important global issues.

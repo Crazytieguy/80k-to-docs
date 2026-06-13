@@ -2,7 +2,7 @@
 title: "Field Strategist"
 employer: "Atlas Computing"
 job_id: "recNMoYLeDWCI3rBU"
-last_updated: "2026-06-12T05:33:13.524374Z"
+last_updated: "2026-06-13T05:33:16.437507Z"
 posted_at: "2026-04-16T00:00:00Z"
 status: ready
 apply_url: "https://atlascomputing.org/jobs/field-strategist.pdf"
@@ -34,4 +34,4 @@ areas:
 <p class="apply-cta"><a href="https://atlascomputing.org/jobs/field-strategist.pdf">Apply →</a></p>
 
 ---
-*Posted 2026-04-16 · Listing synced 2026-06-12 · 80k job ID `recNMoYLeDWCI3rBU`*
+*Posted 2026-04-16 · Listing synced 2026-06-13 · 80k job ID `recNMoYLeDWCI3rBU`*

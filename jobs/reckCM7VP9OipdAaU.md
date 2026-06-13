@@ -2,7 +2,7 @@
 title: "Scientist / Senior Scientist, AI Safety"
 employer: "Lila Sciences"
 job_id: "reckCM7VP9OipdAaU"
-last_updated: "2026-06-12T05:34:00.187301Z"
+last_updated: "2026-06-13T05:34:00.936289Z"
 posted_at: "2022-01-05T00:00:00Z"
 status: ready
 apply_url: "https://job-boards.greenhouse.io/lilasciences/jobs/4079014009"
@@ -33,4 +33,4 @@ areas:
 <p class="apply-cta"><a href="https://job-boards.greenhouse.io/lilasciences/jobs/4079014009">Apply →</a></p>
 
 ---
-*Posted 2022-01-05 · Listing synced 2026-06-12 · 80k job ID `reckCM7VP9OipdAaU`*
+*Posted 2022-01-05 · Listing synced 2026-06-13 · 80k job ID `reckCM7VP9OipdAaU`*

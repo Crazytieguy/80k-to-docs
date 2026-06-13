@@ -4,25 +4,20 @@ employer: "Rethink Priorities"
 job_id: "recu4dxkTIk17qLe3"
 last_updated: "2026-06-12T05:32:47.022238Z"
 posted_at: "2026-05-25T00:03:00Z"
-status: ready
+status: closed
+closed_at: "2026-06-13"
 apply_url: "https://careers.rethinkpriorities.org/en/postings/698c3c3b-717c-47a5-94fe-cd37ccaa1f34"
 areas:
   - "AI safety & policy"
 ---
 
+> ⚠️ **CLOSED on 2026-06-13** — this job is no longer listed on the 80,000 Hours board. Archived snapshot below.
+
 # Researcher, Worldview Investigations
 
-**[Rethink Priorities](https://www.rethinkpriorities.org/)**
+**Rethink Priorities**
 
-<dl class="job-meta">
-<dt>Location</dt><dd>Remote, Global</dd>
-<dt>Role type</dt><dd>Full-time</dd>
-<dt>Experience</dt><dd>Mid (5-9 years experience)</dd>
-<dt>Degree</dt><dd>Undergraduate degree or less</dd>
-<dt>Salary</dt><dd>$75,900 – $125,400</dd>
-</dl>
-
-**Areas & skills:** AI safety & policy, Research
+**Areas & skills:** AI safety & policy
 
 ## Summary
 - In this role, you'll conduct research to inform policy decisions on wellbeing and welfare for people and animals.

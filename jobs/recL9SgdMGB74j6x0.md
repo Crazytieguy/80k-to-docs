@@ -2,7 +2,7 @@
 title: "Expression of Interest, Governance Researcher"
 employer: "Apollo Research"
 job_id: "recL9SgdMGB74j6x0"
-last_updated: "2026-06-12T05:32:39.204845Z"
+last_updated: "2026-06-13T05:32:42.835270Z"
 posted_at: "2026-05-29T00:04:24Z"
 status: ready
 apply_url: "https://jobs.lever.co/apolloresearch/c7377abe-39ac-4712-8d2f-b048f363480a"
@@ -33,4 +33,4 @@ areas:
 <p class="apply-cta"><a href="https://jobs.lever.co/apolloresearch/c7377abe-39ac-4712-8d2f-b048f363480a">Apply →</a></p>
 
 ---
-*Posted 2026-05-29 · Listing synced 2026-06-12 · 80k job ID `recL9SgdMGB74j6x0`*
+*Posted 2026-05-29 · Listing synced 2026-06-13 · 80k job ID `recL9SgdMGB74j6x0`*

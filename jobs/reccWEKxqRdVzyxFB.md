@@ -2,7 +2,7 @@
 title: "Software Engineer, Infrastructure"
 employer: "Apollo Research"
 job_id: "reccWEKxqRdVzyxFB"
-last_updated: "2026-06-12T05:32:42.815229Z"
+last_updated: "2026-06-13T05:32:46.346579Z"
 posted_at: "2026-05-27T00:05:00Z"
 status: ready
 apply_url: "https://jobs.lever.co/apolloresearch/28c2a9e5-d018-4cc0-a191-56bc384009e8"
@@ -34,4 +34,4 @@ areas:
 <p class="apply-cta"><a href="https://jobs.lever.co/apolloresearch/28c2a9e5-d018-4cc0-a191-56bc384009e8">Apply →</a></p>
 
 ---
-*Posted 2026-05-27 · Listing synced 2026-06-12 · 80k job ID `reccWEKxqRdVzyxFB`*
+*Posted 2026-05-27 · Listing synced 2026-06-13 · 80k job ID `reccWEKxqRdVzyxFB`*
