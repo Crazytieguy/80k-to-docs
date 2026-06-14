@@ -2,7 +2,7 @@
 title: "Recruiter"
 employer: "Centre for Effective Altruism"
 job_id: "recbDW2EoPimGx4bT"
-last_updated: "2026-06-13T05:32:42.968580Z"
+last_updated: "2026-06-14T05:32:57.246007Z"
 posted_at: "2026-05-29T00:04:05Z"
 status: ready
 apply_url: "https://www.centreforeffectivealtruism.org/careers?ashby_jid=95a01bd4-36a5-40d2-b165-a87ad2b020ae"
@@ -33,4 +33,4 @@ areas:
 <p class="apply-cta"><a href="https://www.centreforeffectivealtruism.org/careers?ashby_jid=95a01bd4-36a5-40d2-b165-a87ad2b020ae">Apply →</a></p>
 
 ---
-*Posted 2026-05-29 · Listing synced 2026-06-13 · 80k job ID `recbDW2EoPimGx4bT`*
+*Posted 2026-05-29 · Listing synced 2026-06-14 · 80k job ID `recbDW2EoPimGx4bT`*

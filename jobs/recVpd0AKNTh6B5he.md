@@ -2,7 +2,7 @@
 title: "Operations Lead, Technical Program and AI Research Systems"
 employer: "Welfare Footprint Project"
 job_id: "recVpd0AKNTh6B5he"
-last_updated: "2026-06-13T05:33:08.625094Z"
+last_updated: "2026-06-14T05:33:24.561468Z"
 posted_at: "2026-05-06T00:00:00Z"
 status: ready
 apply_url: "https://jobs.ashbyhq.com/welfarefootprint/55f53b76-b892-43f2-90ba-986aacceb8da"
@@ -34,4 +34,4 @@ areas:
 <p class="apply-cta"><a href="https://jobs.ashbyhq.com/welfarefootprint/55f53b76-b892-43f2-90ba-986aacceb8da">Apply →</a></p>
 
 ---
-*Posted 2026-05-06 · Listing synced 2026-06-13 · 80k job ID `recVpd0AKNTh6B5he`*
+*Posted 2026-05-06 · Listing synced 2026-06-14 · 80k job ID `recVpd0AKNTh6B5he`*

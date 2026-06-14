@@ -2,7 +2,7 @@
 title: "Senior Recruitment Specialist, AI Safety"
 employer: "Impact Ops"
 job_id: "rec8yeb3Xi2PZ1viO"
-last_updated: "2026-06-13T05:32:27.050528Z"
+last_updated: "2026-06-14T05:32:40.295246Z"
 posted_at: "2026-06-09T00:00:00Z"
 status: ready
 apply_url: "https://impact-ops.org/jobs/senior-recruitment-specialist-ai-safety-focus/"
@@ -34,4 +34,4 @@ areas:
 <p class="apply-cta"><a href="https://impact-ops.org/jobs/senior-recruitment-specialist-ai-safety-focus/">Apply →</a></p>
 
 ---
-*Posted 2026-06-09 · Listing synced 2026-06-13 · 80k job ID `rec8yeb3Xi2PZ1viO`*
+*Posted 2026-06-09 · Listing synced 2026-06-14 · 80k job ID `rec8yeb3Xi2PZ1viO`*

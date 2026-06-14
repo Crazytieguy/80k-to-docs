@@ -2,7 +2,7 @@
 title: "Technical Threat Investigator, Chemical, Biological, Radiological, Nuclear, and Explosives"
 employer: "Anthropic"
 job_id: "recztL2NiEeVe1YLI"
-last_updated: "2026-06-13T05:33:25.211262Z"
+last_updated: "2026-06-14T05:33:40.013240Z"
 posted_at: "2022-01-13T00:00:00Z"
 status: ready
 apply_url: "https://job-boards.greenhouse.io/anthropic/jobs/5066997008"
@@ -35,4 +35,4 @@ areas:
 <p class="apply-cta"><a href="https://job-boards.greenhouse.io/anthropic/jobs/5066997008">Apply →</a></p>
 
 ---
-*Posted 2022-01-13 · Listing synced 2026-06-13 · 80k job ID `recztL2NiEeVe1YLI`*
+*Posted 2022-01-13 · Listing synced 2026-06-14 · 80k job ID `recztL2NiEeVe1YLI`*

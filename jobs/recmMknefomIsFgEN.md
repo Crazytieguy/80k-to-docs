@@ -2,7 +2,7 @@
 title: "Cyber Researcher"
 employer: "Irregular"
 job_id: "recmMknefomIsFgEN"
-last_updated: "2026-06-13T05:34:00.114705Z"
+last_updated: "2026-06-14T05:34:19.303426Z"
 posted_at: "2022-01-05T00:00:00Z"
 status: ready
 apply_url: "https://jobs.ashbyhq.com/Irregular/7a9dde60-14ab-4296-b355-63f2564263e0?embed=js"
@@ -33,4 +33,4 @@ areas:
 <p class="apply-cta"><a href="https://jobs.ashbyhq.com/Irregular/7a9dde60-14ab-4296-b355-63f2564263e0?embed=js">Apply →</a></p>
 
 ---
-*Posted 2022-01-05 · Listing synced 2026-06-13 · 80k job ID `recmMknefomIsFgEN`*
+*Posted 2022-01-05 · Listing synced 2026-06-14 · 80k job ID `recmMknefomIsFgEN`*

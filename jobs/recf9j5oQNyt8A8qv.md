@@ -2,7 +2,7 @@
 title: "Postdocs"
 employer: "University of Texas at Austin, Department of Computer Science"
 job_id: "recf9j5oQNyt8A8qv"
-last_updated: "2026-06-13T05:33:52.637345Z"
+last_updated: "2026-06-14T05:34:11.155388Z"
 posted_at: "2022-01-06T00:00:00Z"
 status: ready
 apply_url: "https://scottaaronson.blog/?p=8790"
@@ -33,4 +33,4 @@ areas:
 <p class="apply-cta"><a href="https://scottaaronson.blog/?p=8790">Apply →</a></p>
 
 ---
-*Posted 2022-01-06 · Listing synced 2026-06-13 · 80k job ID `recf9j5oQNyt8A8qv`*
+*Posted 2022-01-06 · Listing synced 2026-06-14 · 80k job ID `recf9j5oQNyt8A8qv`*

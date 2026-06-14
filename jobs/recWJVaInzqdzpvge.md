@@ -2,10 +2,10 @@
 title: "Security Analyst, Detection and Response"
 employer: "xAI"
 job_id: "recWJVaInzqdzpvge"
-last_updated: "2026-06-13T05:33:53.370708Z"
+last_updated: "2026-06-14T05:34:11.853399Z"
 posted_at: "2022-01-06T00:00:00Z"
 status: ready
-apply_url: "https://job-boards.greenhouse.io/xai/jobs/5008186007?gh_src=xxeoh22m7us"
+apply_url: "https://job-boards.greenhouse.io/xai/jobs/5008186007"
 areas:
   - "AI safety & policy"
 ---
@@ -31,7 +31,7 @@ areas:
 - Develop new detection use cases and lead threat hunting missions to quantify and reduce threats.
 - Manage security systems including log collection, scanning, and intrusion detection infrastructure.
 
-<p class="apply-cta"><a href="https://job-boards.greenhouse.io/xai/jobs/5008186007?gh_src=xxeoh22m7us">Apply →</a></p>
+<p class="apply-cta"><a href="https://job-boards.greenhouse.io/xai/jobs/5008186007">Apply →</a></p>
 
 ---
-*Posted 2022-01-06 · Listing synced 2026-06-13 · 80k job ID `recWJVaInzqdzpvge`*
+*Posted 2022-01-06 · Listing synced 2026-06-14 · 80k job ID `recWJVaInzqdzpvge`*

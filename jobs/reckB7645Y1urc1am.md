@@ -2,7 +2,7 @@
 title: "Legal and Compliance Manager"
 employer: "Apollo Research"
 job_id: "reckB7645Y1urc1am"
-last_updated: "2026-06-13T05:33:55.225445Z"
+last_updated: "2026-06-14T05:34:13.857119Z"
 posted_at: "2022-01-05T00:00:00Z"
 status: ready
 apply_url: "https://jobs.lever.co/apolloresearch/ca84c815-fb72-4694-8de8-535899b28c9f"
@@ -34,4 +34,4 @@ areas:
 <p class="apply-cta"><a href="https://jobs.lever.co/apolloresearch/ca84c815-fb72-4694-8de8-535899b28c9f">Apply →</a></p>
 
 ---
-*Posted 2022-01-05 · Listing synced 2026-06-13 · 80k job ID `reckB7645Y1urc1am`*
+*Posted 2022-01-05 · Listing synced 2026-06-14 · 80k job ID `reckB7645Y1urc1am`*

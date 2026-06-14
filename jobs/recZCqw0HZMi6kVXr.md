@@ -2,7 +2,7 @@
 title: "Principal Research Software Engineer"
 employer: "Northeastern University, National Deep Inference Fabric"
 job_id: "recZCqw0HZMi6kVXr"
-last_updated: "2026-06-13T05:34:01.345339Z"
+last_updated: "2026-06-14T05:34:20.623641Z"
 posted_at: "2022-01-05T00:00:00Z"
 status: ready
 apply_url: "https://ndif.us/start.html#jobs"
@@ -32,4 +32,4 @@ areas:
 <p class="apply-cta"><a href="https://ndif.us/start.html#jobs">Apply →</a></p>
 
 ---
-*Posted 2022-01-05 · Listing synced 2026-06-13 · 80k job ID `recZCqw0HZMi6kVXr`*
+*Posted 2022-01-05 · Listing synced 2026-06-14 · 80k job ID `recZCqw0HZMi6kVXr`*

@@ -2,7 +2,7 @@
 title: "AI Red Team Analyst"
 employer: "Alignerr"
 job_id: "rec8iMNtxZ5pE2lzj"
-last_updated: "2026-06-13T05:32:55.899039Z"
+last_updated: "2026-06-14T05:33:11.385943Z"
 posted_at: "2026-05-20T00:00:00Z"
 status: ready
 apply_url: "https://www.alignerr.com/jobs/b687c780-2b77-4c7a-a546-7feb5af50197?referral-source=linkedin-job"
@@ -34,4 +34,4 @@ areas:
 <p class="apply-cta"><a href="https://www.alignerr.com/jobs/b687c780-2b77-4c7a-a546-7feb5af50197?referral-source=linkedin-job">Apply →</a></p>
 
 ---
-*Posted 2026-05-20 · Listing synced 2026-06-13 · 80k job ID `rec8iMNtxZ5pE2lzj`*
+*Posted 2026-05-20 · Listing synced 2026-06-14 · 80k job ID `rec8iMNtxZ5pE2lzj`*

@@ -4,25 +4,20 @@ employer: "Centre for Effective Altruism"
 job_id: "recB7KpWXW6uNqkSO"
 last_updated: "2026-06-13T05:32:49.901962Z"
 posted_at: "2026-05-25T00:04:02Z"
-status: ready
+status: closed
+closed_at: "2026-06-14"
 apply_url: "https://www.centreforeffectivealtruism.org/careers?ashby_jid=4367b935-9208-4e78-8fe2-e45cefa6d99f"
 areas:
   - "Building effective altruism"
 ---
 
+> ⚠️ **CLOSED on 2026-06-14** — this job is no longer listed on the 80,000 Hours board. Archived snapshot below.
+
 # Financial Controller
 
-**[Centre for Effective Altruism](https://www.centreforeffectivealtruism.org)**
+**Centre for Effective Altruism**
 
-<dl class="job-meta">
-<dt>Location</dt><dd>Remote, Global</dd>
-<dt>Role type</dt><dd>Full-time</dd>
-<dt>Experience</dt><dd>Mid (5-9 years experience), Senior (10+ years experience)</dd>
-<dt>Degree</dt><dd>Undergraduate degree or less</dd>
-<dt>Salary</dt><dd>$99,879 – $119,989</dd>
-</dl>
-
-**Areas & skills:** Building effective altruism, Management, Finance
+**Areas & skills:** Building effective altruism
 
 ## Summary
 - In this role, you'll own financial record integrity and lead accounting, compliance, and payments across CEA's US and UK entities.

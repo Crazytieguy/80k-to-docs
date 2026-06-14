@@ -2,7 +2,7 @@
 title: "Intern, Korea Chair (Spring 2026)"
 employer: "Center for Strategic and International Studies"
 job_id: "recX7auHSN4KBNAPS"
-last_updated: "2026-06-13T05:34:08.863281Z"
+last_updated: "2026-06-14T05:34:27.913941Z"
 posted_at: "2022-01-02T00:00:00Z"
 status: ready
 apply_url: "https://careers.csis.org/opportunities/1703"
@@ -34,4 +34,4 @@ areas:
 <p class="apply-cta"><a href="https://careers.csis.org/opportunities/1703">Apply →</a></p>
 
 ---
-*Posted 2022-01-02 · Listing synced 2026-06-13 · 80k job ID `recX7auHSN4KBNAPS`*
+*Posted 2022-01-02 · Listing synced 2026-06-14 · 80k job ID `recX7auHSN4KBNAPS`*

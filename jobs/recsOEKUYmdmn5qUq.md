@@ -2,7 +2,7 @@
 title: "Research Engineer, Cybersecurity RL"
 employer: "Anthropic"
 job_id: "recsOEKUYmdmn5qUq"
-last_updated: "2026-06-13T05:33:29.730772Z"
+last_updated: "2026-06-14T05:33:44.893985Z"
 posted_at: "2022-01-11T00:00:00Z"
 status: ready
 apply_url: "https://job-boards.greenhouse.io/anthropic/jobs/5025624008"
@@ -34,4 +34,4 @@ areas:
 <p class="apply-cta"><a href="https://job-boards.greenhouse.io/anthropic/jobs/5025624008">Apply →</a></p>
 
 ---
-*Posted 2022-01-11 · Listing synced 2026-06-13 · 80k job ID `recsOEKUYmdmn5qUq`*
+*Posted 2022-01-11 · Listing synced 2026-06-14 · 80k job ID `recsOEKUYmdmn5qUq`*

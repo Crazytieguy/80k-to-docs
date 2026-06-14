@@ -2,7 +2,7 @@
 title: "Head of Research and Development, AI Safety"
 employer: "Faculty"
 job_id: "rechTrSs4GF4QWzJN"
-last_updated: "2026-06-13T05:33:57.964021Z"
+last_updated: "2026-06-14T05:34:16.795429Z"
 posted_at: "2022-01-05T00:00:00Z"
 status: ready
 apply_url: "https://jobs.ashbyhq.com/faculty/6ad13f20-8a65-454f-b7c7-4d5260f306bf"
@@ -33,4 +33,4 @@ areas:
 <p class="apply-cta"><a href="https://jobs.ashbyhq.com/faculty/6ad13f20-8a65-454f-b7c7-4d5260f306bf">Apply →</a></p>
 
 ---
-*Posted 2022-01-05 · Listing synced 2026-06-13 · 80k job ID `rechTrSs4GF4QWzJN`*
+*Posted 2022-01-05 · Listing synced 2026-06-14 · 80k job ID `rechTrSs4GF4QWzJN`*

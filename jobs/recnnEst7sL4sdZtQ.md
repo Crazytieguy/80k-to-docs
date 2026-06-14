@@ -2,7 +2,7 @@
 title: "Junior Software Engineer"
 employer: "Advanced Research and Invention Agency"
 job_id: "recnnEst7sL4sdZtQ"
-last_updated: "2026-06-13T05:32:29.984423Z"
+last_updated: "2026-06-14T05:32:43.603457Z"
 posted_at: "2026-06-08T00:00:00Z"
 status: ready
 apply_url: "https://aria.pinpointhq.com/en/postings/5a8514e6-2712-42e2-9af7-7bb2cdacd263"
@@ -34,4 +34,4 @@ areas:
 <p class="apply-cta"><a href="https://aria.pinpointhq.com/en/postings/5a8514e6-2712-42e2-9af7-7bb2cdacd263">Apply →</a></p>
 
 ---
-*Posted 2026-06-08 · Listing synced 2026-06-13 · 80k job ID `recnnEst7sL4sdZtQ`*
+*Posted 2026-06-08 · Listing synced 2026-06-14 · 80k job ID `recnnEst7sL4sdZtQ`*

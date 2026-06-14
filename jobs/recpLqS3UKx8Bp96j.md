@@ -2,7 +2,7 @@
 title: "International Arms Control Treaties and Agreements Analyst"
 employer: "Anser (US government role)"
 job_id: "recpLqS3UKx8Bp96j"
-last_updated: "2026-06-13T05:32:17.437597Z"
+last_updated: "2026-06-14T05:32:29.818907Z"
 posted_at: "2026-06-12T00:00:00Z"
 status: ready
 apply_url: "https://www.anser.org/job/?id=5252405008"
@@ -34,4 +34,4 @@ areas:
 <p class="apply-cta"><a href="https://www.anser.org/job/?id=5252405008">Apply →</a></p>
 
 ---
-*Posted 2026-06-12 · Listing synced 2026-06-13 · 80k job ID `recpLqS3UKx8Bp96j`*
+*Posted 2026-06-12 · Listing synced 2026-06-14 · 80k job ID `recpLqS3UKx8Bp96j`*

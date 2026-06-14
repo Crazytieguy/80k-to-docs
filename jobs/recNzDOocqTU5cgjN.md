@@ -2,7 +2,7 @@
 title: "Part-Time Contract Developer, GiveWise"
 employer: "Effective Altruism Hong Kong"
 job_id: "recNzDOocqTU5cgjN"
-last_updated: "2026-06-13T05:32:42.189468Z"
+last_updated: "2026-06-14T05:32:56.401415Z"
 posted_at: "2026-06-01T00:00:00Z"
 status: ready
 apply_url: "https://www.eahongkong.org/job-listing-part-time-developer"
@@ -33,4 +33,4 @@ areas:
 <p class="apply-cta"><a href="https://www.eahongkong.org/job-listing-part-time-developer">Apply →</a></p>
 
 ---
-*Posted 2026-06-01 · Listing synced 2026-06-13 · 80k job ID `recNzDOocqTU5cgjN`*
+*Posted 2026-06-01 · Listing synced 2026-06-14 · 80k job ID `recNzDOocqTU5cgjN`*

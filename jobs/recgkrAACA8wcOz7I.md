@@ -2,7 +2,7 @@
 title: "Intern, Legal and Investigations, Rwanda"
 employer: "One Acre Fund"
 job_id: "recgkrAACA8wcOz7I"
-last_updated: "2026-06-13T05:32:48.856465Z"
+last_updated: "2026-06-14T05:33:04.656510Z"
 posted_at: "2026-05-26T00:00:00Z"
 status: ready
 apply_url: "https://oneacrefund.org/vacancies/rwanda-legal-and-investigations-intern"
@@ -33,4 +33,4 @@ areas:
 <p class="apply-cta"><a href="https://oneacrefund.org/vacancies/rwanda-legal-and-investigations-intern">Apply →</a></p>
 
 ---
-*Posted 2026-05-26 · Listing synced 2026-06-13 · 80k job ID `recgkrAACA8wcOz7I`*
+*Posted 2026-05-26 · Listing synced 2026-06-14 · 80k job ID `recgkrAACA8wcOz7I`*

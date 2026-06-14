@@ -2,10 +2,10 @@
 title: "Researcher, AI Security and Privacy"
 employer: "University of South-Eastern Norway"
 job_id: "recivcFmPVnN3nOZT"
-last_updated: "2026-06-13T05:32:27.744581Z"
+last_updated: "2026-06-14T05:32:41.111298Z"
 posted_at: "2026-06-09T00:00:00Z"
 status: ready
-apply_url: "https://www.jobbnorge.no/en/available-jobs/job/302803/researcher-in-ai-security-and-privacy"
+apply_url: "https://ellis.eu/research/jobs/2026-06-26-researcher-in-ai-security-and-privacy"
 areas:
   - "AI safety & policy"
 ---
@@ -31,7 +31,7 @@ areas:
 - Produce academic publications and popular science dissemination of research findings.
 - Collaborate with project partners and participate in conferences and academic activities.
 
-<p class="apply-cta"><a href="https://www.jobbnorge.no/en/available-jobs/job/302803/researcher-in-ai-security-and-privacy">Apply →</a></p>
+<p class="apply-cta"><a href="https://ellis.eu/research/jobs/2026-06-26-researcher-in-ai-security-and-privacy">Apply →</a></p>
 
 ---
-*Posted 2026-06-09 · Listing synced 2026-06-13 · 80k job ID `recivcFmPVnN3nOZT`*
+*Posted 2026-06-09 · Listing synced 2026-06-14 · 80k job ID `recivcFmPVnN3nOZT`*

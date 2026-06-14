@@ -2,7 +2,7 @@
 title: "Research Coordinator"
 employer: "London AI Safety Research Labs"
 job_id: "recDx1S3KgiVztO8z"
-last_updated: "2026-06-13T05:32:55.429504Z"
+last_updated: "2026-06-14T05:33:10.904873Z"
 posted_at: "2026-05-20T00:03:00Z"
 status: ready
 apply_url: "https://www.lasrlabs.org/research-coordinator"
@@ -34,4 +34,4 @@ areas:
 <p class="apply-cta"><a href="https://www.lasrlabs.org/research-coordinator">Apply →</a></p>
 
 ---
-*Posted 2026-05-20 · Listing synced 2026-06-13 · 80k job ID `recDx1S3KgiVztO8z`*
+*Posted 2026-05-20 · Listing synced 2026-06-14 · 80k job ID `recDx1S3KgiVztO8z`*

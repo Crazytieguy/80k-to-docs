@@ -2,7 +2,7 @@
 title: "Expression of Interest, Security Engineer, Research Infrastructure"
 employer: "Sequent"
 job_id: "recJyzNr68FYG9kuA"
-last_updated: "2026-06-13T05:32:20.655137Z"
+last_updated: "2026-06-14T05:32:33.062741Z"
 posted_at: "2026-06-11T00:02:00Z"
 status: ready
 apply_url: "https://www.sequent.org/careers/security-engineer-research"
@@ -33,4 +33,4 @@ areas:
 <p class="apply-cta"><a href="https://www.sequent.org/careers/security-engineer-research">Apply →</a></p>
 
 ---
-*Posted 2026-06-11 · Listing synced 2026-06-13 · 80k job ID `recJyzNr68FYG9kuA`*
+*Posted 2026-06-11 · Listing synced 2026-06-14 · 80k job ID `recJyzNr68FYG9kuA`*

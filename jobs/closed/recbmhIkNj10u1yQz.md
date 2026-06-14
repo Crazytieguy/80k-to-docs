@@ -4,25 +4,20 @@ employer: "Collective Intelligence Project"
 job_id: "recbmhIkNj10u1yQz"
 last_updated: "2026-06-13T05:33:44.760496Z"
 posted_at: "2022-01-06T00:00:00Z"
-status: ready
+status: closed
+closed_at: "2026-06-14"
 apply_url: "https://www.cip.org/careers/productengineer"
 areas:
   - "AI safety & policy"
 ---
 
+> ⚠️ **CLOSED on 2026-06-14** — this job is no longer listed on the 80,000 Hours board. Archived snapshot below.
+
 # Lead Product Engineer
 
-**[Collective Intelligence Project](https://cip.org/)**
+**Collective Intelligence Project**
 
-<dl class="job-meta">
-<dt>Location</dt><dd>San Francisco Bay Area, USA</dd>
-<dt>Role type</dt><dd>Full-time</dd>
-<dt>Experience</dt><dd>Junior (1-4 years experience), Mid (5-9 years experience)</dd>
-<dt>Degree</dt><dd>Undergraduate degree or less</dd>
-<dt>Salary</dt><dd>$150,000</dd>
-</dl>
-
-**Areas & skills:** AI safety & policy, Software engineering, Strategy
+**Areas & skills:** AI safety & policy
 
 ## Summary
 - In this role, you'll build and maintain Weval, a platform making complex AI evaluation data accessible to researchers, policymakers, and governments.

@@ -2,7 +2,7 @@
 title: "Student Assistant, Communications and Customer Relationship Management"
 employer: "Power for Democracies"
 job_id: "reckqr2oJILjMWu3j"
-last_updated: "2026-06-13T05:32:52.886058Z"
+last_updated: "2026-06-14T05:33:08.646728Z"
 posted_at: "2026-05-22T00:00:00Z"
 status: ready
 apply_url: "https://powerfordemocracies.kenjo.io/student-assistant-m-f-d-communications-and-crm-690840"
@@ -34,4 +34,4 @@ areas:
 <p class="apply-cta"><a href="https://powerfordemocracies.kenjo.io/student-assistant-m-f-d-communications-and-crm-690840">Apply →</a></p>
 
 ---
-*Posted 2026-05-22 · Listing synced 2026-06-13 · 80k job ID `reckqr2oJILjMWu3j`*
+*Posted 2026-05-22 · Listing synced 2026-06-14 · 80k job ID `reckqr2oJILjMWu3j`*

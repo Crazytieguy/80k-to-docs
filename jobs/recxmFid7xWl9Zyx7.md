@@ -2,7 +2,7 @@
 title: "Operations and Communications Associate, Alignment Team"
 employer: "Arcadia Impact"
 job_id: "recxmFid7xWl9Zyx7"
-last_updated: "2026-06-13T05:32:29.403254Z"
+last_updated: "2026-06-14T05:32:42.870779Z"
 posted_at: "2026-06-08T00:02:00Z"
 status: ready
 apply_url: "https://www.arcadiaimpact.org/ops-and-comms-associate"
@@ -34,4 +34,4 @@ areas:
 <p class="apply-cta"><a href="https://www.arcadiaimpact.org/ops-and-comms-associate">Apply →</a></p>
 
 ---
-*Posted 2026-06-08 · Listing synced 2026-06-13 · 80k job ID `recxmFid7xWl9Zyx7`*
+*Posted 2026-06-08 · Listing synced 2026-06-14 · 80k job ID `recxmFid7xWl9Zyx7`*

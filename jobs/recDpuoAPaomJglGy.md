@@ -2,7 +2,7 @@
 title: "Backend Engineer, Monitoring"
 employer: "Apollo Research"
 job_id: "recDpuoAPaomJglGy"
-last_updated: "2026-06-13T05:33:43.102170Z"
+last_updated: "2026-06-14T05:33:59.417106Z"
 posted_at: "2022-01-06T00:00:00Z"
 status: ready
 apply_url: "https://jobs.lever.co/apolloresearch/94581287-e3ac-40b6-90e2-438e0ca9064a"
@@ -34,4 +34,4 @@ areas:
 <p class="apply-cta"><a href="https://jobs.lever.co/apolloresearch/94581287-e3ac-40b6-90e2-438e0ca9064a">Apply →</a></p>
 
 ---
-*Posted 2022-01-06 · Listing synced 2026-06-13 · 80k job ID `recDpuoAPaomJglGy`*
+*Posted 2022-01-06 · Listing synced 2026-06-14 · 80k job ID `recDpuoAPaomJglGy`*

@@ -2,7 +2,7 @@
 title: "Research Manager, Epidemics and Epidemiology"
 employer: "Wellcome Trust"
 job_id: "rece49ZkkpceXuaXA"
-last_updated: "2026-06-13T05:32:25.011057Z"
+last_updated: "2026-06-14T05:32:38.114921Z"
 posted_at: "2026-06-10T00:00:00Z"
 status: ready
 apply_url: "https://wellcome.wd3.myworkdayjobs.com/en-US/Wellcome/job/London/Research-Manager--Epidemics-and-Epidemiology_R-003341"
@@ -33,4 +33,4 @@ areas:
 <p class="apply-cta"><a href="https://wellcome.wd3.myworkdayjobs.com/en-US/Wellcome/job/London/Research-Manager--Epidemics-and-Epidemiology_R-003341">Apply →</a></p>
 
 ---
-*Posted 2026-06-10 · Listing synced 2026-06-13 · 80k job ID `rece49ZkkpceXuaXA`*
+*Posted 2026-06-10 · Listing synced 2026-06-14 · 80k job ID `rece49ZkkpceXuaXA`*

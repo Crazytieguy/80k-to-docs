@@ -2,7 +2,7 @@
 title: "Project Officer, Artificial Intelligence Applied to Operations Management"
 employer: "European Union, Joint Research Centre"
 job_id: "reccNYZ5sXNaBsjo3"
-last_updated: "2026-06-13T05:32:26.907141Z"
+last_updated: "2026-06-14T05:32:40.091758Z"
 posted_at: "2026-06-09T00:00:00Z"
 status: ready
 apply_url: "https://recruitment.jrc.ec.europa.eu/vacancy/2931"
@@ -34,4 +34,4 @@ areas:
 <p class="apply-cta"><a href="https://recruitment.jrc.ec.europa.eu/vacancy/2931">Apply →</a></p>
 
 ---
-*Posted 2026-06-09 · Listing synced 2026-06-13 · 80k job ID `reccNYZ5sXNaBsjo3`*
+*Posted 2026-06-09 · Listing synced 2026-06-14 · 80k job ID `reccNYZ5sXNaBsjo3`*

@@ -2,10 +2,10 @@
 title: "PhD Student / Visiting PhD Student, ELLIS Institute Tübingen and Max Planck Institute for Intelligent Systems"
 employer: "Max Planck Society, Institute for Intelligent Systems"
 job_id: "recxJuhMGNXKR6m6G"
-last_updated: "2026-06-13T05:32:44.656114Z"
+last_updated: "2026-06-14T05:32:58.784178Z"
 posted_at: "2026-05-29T00:00:00Z"
 status: ready
-apply_url: "https://docs.google.com/forms/d/e/1FAIpQLSfERP8qmSWHeDLFQ_NAyyaxcznDrzjJZDNbosPgJDJa0d0MKA/viewform"
+apply_url: "https://ellis.eu/research/jobs/2026-05-27-phd-students-and-visiting-phd-students"
 areas:
   - "AI safety & policy"
 ---
@@ -30,7 +30,7 @@ areas:
 - Collaborate with an interdisciplinary team spanning computer science, social science, economics, and cognitive science.
 - Engage in red-teaming, securing real-world systems, and maintaining connections with industry partners.
 
-<p class="apply-cta"><a href="https://docs.google.com/forms/d/e/1FAIpQLSfERP8qmSWHeDLFQ_NAyyaxcznDrzjJZDNbosPgJDJa0d0MKA/viewform">Apply →</a></p>
+<p class="apply-cta"><a href="https://ellis.eu/research/jobs/2026-05-27-phd-students-and-visiting-phd-students">Apply →</a></p>
 
 ---
-*Posted 2026-05-29 · Listing synced 2026-06-13 · 80k job ID `recxJuhMGNXKR6m6G`*
+*Posted 2026-05-29 · Listing synced 2026-06-14 · 80k job ID `recxJuhMGNXKR6m6G`*

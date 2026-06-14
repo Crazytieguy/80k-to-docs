@@ -4,24 +4,20 @@ employer: "Gavi"
 job_id: "recWElkZT1bXhE4KK"
 last_updated: "2026-06-13T05:32:38.030712Z"
 posted_at: "2026-06-03T00:00:00Z"
-status: ready
+status: closed
+closed_at: "2026-06-14"
 apply_url: "https://www.linkedin.com/jobs/view/4421205917/?alternateChannel=search&eBP=NON_CHARGEABLE_CHANNEL&refId=EBfVZBquuIF7kVgpkIY9Kw%3D%3D&trackingId=6NQ%2BMCId%2FgEU%2FVhScpEsrw%3D%3D&trk=d_flagship3_search_srp_jobs"
 areas:
   - "Global health & development"
 ---
 
+> ⚠️ **CLOSED on 2026-06-14** — this job is no longer listed on the 80,000 Hours board. Archived snapshot below.
+
 # Manager, Vaccine Forecasting
 
-**[Gavi](https://www.gavi.org/)**
+**Gavi**
 
-<dl class="job-meta">
-<dt>Location</dt><dd>Geneva, Switzerland, Switzerland, Europe (ex UK)</dd>
-<dt>Role type</dt><dd>Full-time</dd>
-<dt>Experience</dt><dd>Mid (5-9 years experience)</dd>
-<dt>Degree</dt><dd>Undergraduate degree or less</dd>
-</dl>
-
-**Areas & skills:** Global health & development, Research
+**Areas & skills:** Global health & development
 
 ## Summary
 - In this role, you'll lead forecasting for an assigned vaccine portfolio, producing demand, supply, price, and cost projections for decision-making.

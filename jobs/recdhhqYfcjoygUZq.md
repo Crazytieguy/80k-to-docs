@@ -2,7 +2,7 @@
 title: "Senior Cross-Cutting Researcher"
 employer: "GiveWell"
 job_id: "recdhhqYfcjoygUZq"
-last_updated: "2026-06-13T05:33:02.012962Z"
+last_updated: "2026-06-14T05:33:17.861250Z"
 posted_at: "2026-05-14T00:00:00Z"
 status: ready
 apply_url: "https://job-boards.greenhouse.io/givewell/jobs/5219973008"
@@ -34,4 +34,4 @@ areas:
 <p class="apply-cta"><a href="https://job-boards.greenhouse.io/givewell/jobs/5219973008">Apply →</a></p>
 
 ---
-*Posted 2026-05-14 · Listing synced 2026-06-13 · 80k job ID `recdhhqYfcjoygUZq`*
+*Posted 2026-05-14 · Listing synced 2026-06-14 · 80k job ID `recdhhqYfcjoygUZq`*

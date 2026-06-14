@@ -2,7 +2,7 @@
 title: "Community and Operations Coordinator / Manager"
 employer: "Meridian"
 job_id: "recc0s725J1BH6lZO"
-last_updated: "2026-06-13T05:33:40.952766Z"
+last_updated: "2026-06-14T05:33:57.307748Z"
 posted_at: "2022-01-07T00:00:00Z"
 status: ready
 apply_url: "https://www.meridiancambridge.org/community-ops-coordinator"
@@ -34,4 +34,4 @@ areas:
 <p class="apply-cta"><a href="https://www.meridiancambridge.org/community-ops-coordinator">Apply →</a></p>
 
 ---
-*Posted 2022-01-07 · Listing synced 2026-06-13 · 80k job ID `recc0s725J1BH6lZO`*
+*Posted 2022-01-07 · Listing synced 2026-06-14 · 80k job ID `recc0s725J1BH6lZO`*

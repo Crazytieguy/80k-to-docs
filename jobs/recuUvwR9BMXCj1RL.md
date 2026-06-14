@@ -2,7 +2,7 @@
 title: "Research Scientist, Diagnostics"
 employer: "The Broad Institute, Sabeti Lab"
 job_id: "recuUvwR9BMXCj1RL"
-last_updated: "2026-06-13T05:32:23.507263Z"
+last_updated: "2026-06-14T05:32:36.356088Z"
 posted_at: "2026-06-10T00:01:00Z"
 status: ready
 apply_url: "https://broadinstitute.avature.net/en_US/careers/JobDetail/Research-Scientist-I-Sabeti-Lab-Diagnostics-Group/21959"
@@ -34,4 +34,4 @@ areas:
 <p class="apply-cta"><a href="https://broadinstitute.avature.net/en_US/careers/JobDetail/Research-Scientist-I-Sabeti-Lab-Diagnostics-Group/21959">Apply →</a></p>
 
 ---
-*Posted 2026-06-10 · Listing synced 2026-06-13 · 80k job ID `recuUvwR9BMXCj1RL`*
+*Posted 2026-06-10 · Listing synced 2026-06-14 · 80k job ID `recuUvwR9BMXCj1RL`*

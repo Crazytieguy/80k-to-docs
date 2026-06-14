@@ -2,22 +2,26 @@
 title: "Research Assistant / Associate, Transatlantic Security Program"
 employer: "Center for a New American Security"
 job_id: "recpOnT1M4TJp63oi"
-last_updated: "2026-06-09T05:32:37.025110Z"
+last_updated: "2026-06-14T05:33:15.975398Z"
 posted_at: "2026-05-15T00:00:00Z"
-status: closed
-closed_at: "2026-06-10"
+status: ready
 apply_url: "https://www.cnas.org/careers/research-assistant-associate-transatlantic-security-program"
 areas:
   - "Career development: Policy & government"
 ---
 
-> ⚠️ **CLOSED on 2026-06-10** — this job is no longer listed on the 80,000 Hours board. Archived snapshot below.
-
 # Research Assistant / Associate, Transatlantic Security Program
 
-**Center for a New American Security**
+**[Center for a New American Security](https://www.cnas.org/)**
 
-**Areas & skills:** Career development: Policy & government
+<dl class="job-meta">
+<dt>Location</dt><dd>Washington, DC metro area, USA</dd>
+<dt>Role type</dt><dd>Full-time</dd>
+<dt>Experience</dt><dd>Junior (1-4 years experience)</dd>
+<dt>Degree</dt><dd>Undergraduate degree or less</dd>
+</dl>
+
+**Areas & skills:** Career development: Policy & government, Research, Policy
 
 ## Summary
 - In this role, you'll conduct research on European security and transatlantic relations to support national security policymaking.
@@ -28,4 +32,4 @@ areas:
 <p class="apply-cta"><a href="https://www.cnas.org/careers/research-assistant-associate-transatlantic-security-program">Apply →</a></p>
 
 ---
-*Posted 2026-05-15 · Listing synced 2026-06-09 · 80k job ID `recpOnT1M4TJp63oi`*
+*Posted 2026-05-15 · Listing synced 2026-06-14 · 80k job ID `recpOnT1M4TJp63oi`*

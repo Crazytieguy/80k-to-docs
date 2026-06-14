@@ -2,7 +2,7 @@
 title: "Legislative Analyst"
 employer: "US Government, Executive Office of the President"
 job_id: "recpGrHiSizUYFDo2"
-last_updated: "2026-06-13T05:32:36.980728Z"
+last_updated: "2026-06-14T05:32:51.180259Z"
 posted_at: "2026-06-04T00:00:00Z"
 status: ready
 apply_url: "https://www.usajobs.gov/job/871491600"
@@ -33,4 +33,4 @@ areas:
 <p class="apply-cta"><a href="https://www.usajobs.gov/job/871491600">Apply →</a></p>
 
 ---
-*Posted 2026-06-04 · Listing synced 2026-06-13 · 80k job ID `recpGrHiSizUYFDo2`*
+*Posted 2026-06-04 · Listing synced 2026-06-14 · 80k job ID `recpGrHiSizUYFDo2`*

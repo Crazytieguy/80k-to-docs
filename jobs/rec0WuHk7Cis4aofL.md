@@ -2,7 +2,7 @@
 title: "Expression of Interest, Security Engineer, Corporate IT"
 employer: "Sequent"
 job_id: "rec0WuHk7Cis4aofL"
-last_updated: "2026-06-13T05:32:20.830558Z"
+last_updated: "2026-06-14T05:32:33.262263Z"
 posted_at: "2026-06-11T00:02:00Z"
 status: ready
 apply_url: "https://www.sequent.org/careers/security-engineer-corporate"
@@ -33,4 +33,4 @@ areas:
 <p class="apply-cta"><a href="https://www.sequent.org/careers/security-engineer-corporate">Apply →</a></p>
 
 ---
-*Posted 2026-06-11 · Listing synced 2026-06-13 · 80k job ID `rec0WuHk7Cis4aofL`*
+*Posted 2026-06-11 · Listing synced 2026-06-14 · 80k job ID `rec0WuHk7Cis4aofL`*

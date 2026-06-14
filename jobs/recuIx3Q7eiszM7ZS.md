@@ -2,7 +2,7 @@
 title: "Externship (Fall 2026 and Spring 2027)"
 employer: "Center for Democracy and Technology"
 job_id: "recuIx3Q7eiszM7ZS"
-last_updated: "2026-06-13T05:34:08.542642Z"
+last_updated: "2026-06-14T05:34:27.460953Z"
 posted_at: "2022-01-02T00:00:00Z"
 status: ready
 apply_url: "https://cdt.org/careers/#op-685299-fall-2026--spring-2027-academic-year-externship-"
@@ -33,4 +33,4 @@ areas:
 <p class="apply-cta"><a href="https://cdt.org/careers/#op-685299-fall-2026--spring-2027-academic-year-externship-">Apply →</a></p>
 
 ---
-*Posted 2022-01-02 · Listing synced 2026-06-13 · 80k job ID `recuIx3Q7eiszM7ZS`*
+*Posted 2022-01-02 · Listing synced 2026-06-14 · 80k job ID `recuIx3Q7eiszM7ZS`*

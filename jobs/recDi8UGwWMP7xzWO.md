@@ -2,7 +2,7 @@
 title: "Intern, International Trade (Fall 2026)"
 employer: "Asia Society Policy Institute"
 job_id: "recDi8UGwWMP7xzWO"
-last_updated: "2026-06-13T05:32:21.698060Z"
+last_updated: "2026-06-14T05:32:34.336992Z"
 posted_at: "2026-06-11T00:00:00Z"
 status: ready
 apply_url: "https://asiasociety.org/policy-institute/fall-intern-international-trade-washington-dc"
@@ -34,4 +34,4 @@ areas:
 <p class="apply-cta"><a href="https://asiasociety.org/policy-institute/fall-intern-international-trade-washington-dc">Apply →</a></p>
 
 ---
-*Posted 2026-06-11 · Listing synced 2026-06-13 · 80k job ID `recDi8UGwWMP7xzWO`*
+*Posted 2026-06-11 · Listing synced 2026-06-14 · 80k job ID `recDi8UGwWMP7xzWO`*

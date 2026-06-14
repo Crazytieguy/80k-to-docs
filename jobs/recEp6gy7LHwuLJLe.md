@@ -2,7 +2,7 @@
 title: "Research Scientist / Engineer, Science of Scheming"
 employer: "Apollo Research"
 job_id: "recEp6gy7LHwuLJLe"
-last_updated: "2026-06-13T05:33:43.414644Z"
+last_updated: "2026-06-14T05:33:59.765322Z"
 posted_at: "2022-01-06T00:00:00Z"
 status: ready
 apply_url: "https://jobs.lever.co/apolloresearch/271eb45a-3aa9-42bb-8686-9cd1fc5e377e"
@@ -34,4 +34,4 @@ areas:
 <p class="apply-cta"><a href="https://jobs.lever.co/apolloresearch/271eb45a-3aa9-42bb-8686-9cd1fc5e377e">Apply →</a></p>
 
 ---
-*Posted 2022-01-06 · Listing synced 2026-06-13 · 80k job ID `recEp6gy7LHwuLJLe`*
+*Posted 2022-01-06 · Listing synced 2026-06-14 · 80k job ID `recEp6gy7LHwuLJLe`*
