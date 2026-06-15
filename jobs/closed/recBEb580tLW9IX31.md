@@ -4,25 +4,20 @@ employer: "Center for Arms Control and Non-Proliferation"
 job_id: "recBEb580tLW9IX31"
 last_updated: "2026-06-14T05:32:52.058521Z"
 posted_at: "2026-06-03T00:00:00Z"
-status: ready
+status: closed
+closed_at: "2026-06-15"
 apply_url: "https://armscontrolcenter.org/about/jobs-and-internships/"
 areas:
   - "Nuclear security"
 ---
 
+> ⚠️ **CLOSED on 2026-06-15** — this job is no longer listed on the 80,000 Hours board. Archived snapshot below.
+
 # Senior Communications Associate
 
-**[Center for Arms Control and Non-Proliferation](https://armscontrolcenter.org/)**
+**Center for Arms Control and Non-Proliferation**
 
-<dl class="job-meta">
-<dt>Location</dt><dd>Washington, DC metro area, USA</dd>
-<dt>Role type</dt><dd>Full-time</dd>
-<dt>Experience</dt><dd>Junior (1-4 years experience)</dd>
-<dt>Degree</dt><dd>Undergraduate degree or less</dd>
-<dt>Salary</dt><dd>$55,000 – $60,000</dd>
-</dl>
-
-**Areas & skills:** Nuclear security, Outreach
+**Areas & skills:** Nuclear security
 
 ## Summary
 - In this role, you will work closely with the policy team to develop creative and interesting content that informs and urges policymakers and the public to re-engage on nuclear weapons policies.

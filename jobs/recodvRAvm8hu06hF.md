@@ -2,7 +2,7 @@
 title: "Facilitator"
 employer: "BlueDot Impact"
 job_id: "recodvRAvm8hu06hF"
-last_updated: "2026-06-14T05:34:00.232645Z"
+last_updated: "2026-06-15T05:33:49.810246Z"
 posted_at: "2022-01-06T00:00:00Z"
 status: ready
 apply_url: "https://bluedot.org/join-us/facilitate"
@@ -33,4 +33,4 @@ areas:
 <p class="apply-cta"><a href="https://bluedot.org/join-us/facilitate">Apply →</a></p>
 
 ---
-*Posted 2022-01-06 · Listing synced 2026-06-14 · 80k job ID `recodvRAvm8hu06hF`*
+*Posted 2022-01-06 · Listing synced 2026-06-15 · 80k job ID `recodvRAvm8hu06hF`*

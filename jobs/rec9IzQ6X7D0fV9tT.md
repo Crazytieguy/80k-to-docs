@@ -2,7 +2,7 @@
 title: "Research Project Manager"
 employer: "Apart Research"
 job_id: "rec9IzQ6X7D0fV9tT"
-last_updated: "2026-06-14T05:32:42.265492Z"
+last_updated: "2026-06-15T05:32:32.906971Z"
 posted_at: "2026-06-08T00:04:48Z"
 status: ready
 apply_url: "https://apartresearch.notion.site/Research-Project-Manager-288fcfd1de9d805fbbc2cab9e5544c4e"
@@ -34,4 +34,4 @@ areas:
 <p class="apply-cta"><a href="https://apartresearch.notion.site/Research-Project-Manager-288fcfd1de9d805fbbc2cab9e5544c4e">Apply →</a></p>
 
 ---
-*Posted 2026-06-08 · Listing synced 2026-06-14 · 80k job ID `rec9IzQ6X7D0fV9tT`*
+*Posted 2026-06-08 · Listing synced 2026-06-15 · 80k job ID `rec9IzQ6X7D0fV9tT`*

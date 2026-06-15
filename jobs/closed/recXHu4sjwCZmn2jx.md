@@ -4,25 +4,20 @@ employer: "Talos Network"
 job_id: "recXHu4sjwCZmn2jx"
 last_updated: "2026-06-14T05:32:40.923001Z"
 posted_at: "2026-06-09T00:00:00Z"
-status: ready
+status: closed
+closed_at: "2026-06-15"
 apply_url: "https://www.talosnetwork.org/policy-leaders-programme"
 areas:
   - "AI safety & policy"
 ---
 
+> ⚠️ **CLOSED on 2026-06-15** — this job is no longer listed on the 80,000 Hours board. Archived snapshot below.
+
 # AI Policy Leaders Programme
 
-**[Talos Network](https://www.talosnetwork.org/)**
+**Talos Network**
 
-<dl class="job-meta">
-<dt>Location</dt><dd>Brussels, Belgium, Belgium, Europe (ex UK)</dd>
-<dt>Role type</dt><dd>Full-time</dd>
-<dt>Experience</dt><dd>Mid (5-9 years experience), Senior (10+ years experience)</dd>
-<dt>Degree</dt><dd>Undergraduate degree or less</dd>
-<dt>Salary</dt><dd>$69,400</dd>
-</dl>
-
-**Areas & skills:** AI safety & policy, Policy
+**Areas & skills:** AI safety & policy
 
 ## Summary
 - In this programme, you'll transition into AI governance while building your European policy networks and strategic influence.

@@ -2,7 +2,7 @@
 title: "Intern, Monitoring, Evaluation and Learning"
 employer: "Living Goods"
 job_id: "recBsBsUThlTiWPaJ"
-last_updated: "2026-06-14T05:33:04.290364Z"
+last_updated: "2026-06-15T05:32:52.640141Z"
 posted_at: "2026-05-26T00:00:00Z"
 status: ready
 apply_url: "https://livinggoods.applytojob.com/apply/Or3JEgQUuU/Stagiaire-MEL-Suivi-valuation-Et-Apprentissage"
@@ -32,4 +32,4 @@ areas:
 <p class="apply-cta"><a href="https://livinggoods.applytojob.com/apply/Or3JEgQUuU/Stagiaire-MEL-Suivi-valuation-Et-Apprentissage">Apply →</a></p>
 
 ---
-*Posted 2026-05-26 · Listing synced 2026-06-14 · 80k job ID `recBsBsUThlTiWPaJ`*
+*Posted 2026-05-26 · Listing synced 2026-06-15 · 80k job ID `recBsBsUThlTiWPaJ`*

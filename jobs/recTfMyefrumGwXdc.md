@@ -2,7 +2,7 @@
 title: "Operations, Communications and Research Manager"
 employer: "Legal Advocates for Safe Science and Technology"
 job_id: "recTfMyefrumGwXdc"
-last_updated: "2026-06-14T05:33:53.706833Z"
+last_updated: "2026-06-15T05:33:42.647331Z"
 posted_at: "2022-01-08T00:00:00Z"
 status: ready
 apply_url: "https://docs.google.com/document/d/1xKv6O1kF_-PX0jLedXEXGKMgqgFa5BtLfSy9QO1I8_Q/edit?usp=sharing"
@@ -35,4 +35,4 @@ areas:
 <p class="apply-cta"><a href="https://docs.google.com/document/d/1xKv6O1kF_-PX0jLedXEXGKMgqgFa5BtLfSy9QO1I8_Q/edit?usp=sharing">Apply →</a></p>
 
 ---
-*Posted 2022-01-08 · Listing synced 2026-06-14 · 80k job ID `recTfMyefrumGwXdc`*
+*Posted 2022-01-08 · Listing synced 2026-06-15 · 80k job ID `recTfMyefrumGwXdc`*

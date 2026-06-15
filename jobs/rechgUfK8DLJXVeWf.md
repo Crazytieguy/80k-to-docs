@@ -2,7 +2,7 @@
 title: "Research Engineer"
 employer: "Neo Research"
 job_id: "rechgUfK8DLJXVeWf"
-last_updated: "2026-06-14T05:32:51.775322Z"
+last_updated: "2026-06-15T05:32:42.633259Z"
 posted_at: "2026-06-03T00:02:00Z"
 status: ready
 apply_url: "https://neoresearch.ai/careers/research-engineer"
@@ -33,4 +33,4 @@ areas:
 <p class="apply-cta"><a href="https://neoresearch.ai/careers/research-engineer">Apply →</a></p>
 
 ---
-*Posted 2026-06-03 · Listing synced 2026-06-14 · 80k job ID `rechgUfK8DLJXVeWf`*
+*Posted 2026-06-03 · Listing synced 2026-06-15 · 80k job ID `rechgUfK8DLJXVeWf`*

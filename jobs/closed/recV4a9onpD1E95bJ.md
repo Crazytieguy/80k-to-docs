@@ -4,24 +4,20 @@ employer: "Centre for Effective Altruism"
 job_id: "recV4a9onpD1E95bJ"
 last_updated: "2026-06-14T05:33:01.227507Z"
 posted_at: "2026-05-27T00:03:00Z"
-status: ready
+status: closed
+closed_at: "2026-06-15"
 apply_url: "https://www.effectivealtruism.org/courses/introductory-program"
 areas:
   - "Building effective altruism"
 ---
 
+> ⚠️ **CLOSED on 2026-06-15** — this job is no longer listed on the 80,000 Hours board. Archived snapshot below.
+
 # Intro to Effective Altruism
 
-**[Centre for Effective Altruism](https://www.centreforeffectivealtruism.org)**
+**Centre for Effective Altruism**
 
-<dl class="job-meta">
-<dt>Location</dt><dd>Remote, Global, Germany, Europe (ex UK)</dd>
-<dt>Role type</dt><dd>Course</dd>
-<dt>Experience</dt><dd>Entry-level</dd>
-<dt>Degree</dt><dd>Undergraduate degree or less</dd>
-</dl>
-
-**Areas & skills:** Building effective altruism, Other
+**Areas & skills:** Building effective altruism
 
 ## Summary
 - This course teaches the core ideas of effective altruism and explores ways to have more impact with careers and donations.

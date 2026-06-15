@@ -2,7 +2,7 @@
 title: "Genomics Analyst, Biosecurity"
 employer: "Perimeter"
 job_id: "recn9r4K026TUZ5xU"
-last_updated: "2026-06-14T05:33:31.950420Z"
+last_updated: "2026-06-15T05:33:21.797808Z"
 posted_at: "2026-04-15T00:01:00Z"
 status: ready
 apply_url: "https://www.linkedin.com/jobs/view/4400607261/?eBP=NON_CHARGEABLE_CHANNEL&refId=vWpnW3ai%2BkspEebVTpp3zg%3D%3D&trackingId=FG%2BIZVq%2BpxTKvCM7jjg1HA%3D%3D&trk=flagship3_search_srp_jobs"
@@ -33,4 +33,4 @@ areas:
 <p class="apply-cta"><a href="https://www.linkedin.com/jobs/view/4400607261/?eBP=NON_CHARGEABLE_CHANNEL&amp;refId=vWpnW3ai%2BkspEebVTpp3zg%3D%3D&amp;trackingId=FG%2BIZVq%2BpxTKvCM7jjg1HA%3D%3D&amp;trk=flagship3_search_srp_jobs">Apply →</a></p>
 
 ---
-*Posted 2026-04-15 · Listing synced 2026-06-14 · 80k job ID `recn9r4K026TUZ5xU`*
+*Posted 2026-04-15 · Listing synced 2026-06-15 · 80k job ID `recn9r4K026TUZ5xU`*

@@ -2,7 +2,7 @@
 title: "Movement Grants Manager"
 employer: "Animal Charity Evaluators"
 job_id: "recBgf06rCxcM9L0Z"
-last_updated: "2026-06-14T05:33:02.689971Z"
+last_updated: "2026-06-15T05:32:52.104203Z"
 posted_at: "2026-05-27T00:00:00Z"
 status: ready
 apply_url: "https://animalcharityevaluators.org/about/our-team/join-our-team/movement-grants-manager/"
@@ -34,4 +34,4 @@ areas:
 <p class="apply-cta"><a href="https://animalcharityevaluators.org/about/our-team/join-our-team/movement-grants-manager/">Apply →</a></p>
 
 ---
-*Posted 2026-05-27 · Listing synced 2026-06-14 · 80k job ID `recBgf06rCxcM9L0Z`*
+*Posted 2026-05-27 · Listing synced 2026-06-15 · 80k job ID `recBgf06rCxcM9L0Z`*

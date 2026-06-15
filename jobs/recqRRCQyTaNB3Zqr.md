@@ -2,7 +2,7 @@
 title: "Plant Biology / Pathology Methods Consultants"
 employer: "SecureBio"
 job_id: "recqRRCQyTaNB3Zqr"
-last_updated: "2026-06-14T05:34:23.685237Z"
+last_updated: "2026-06-15T05:34:10.237655Z"
 posted_at: "2022-01-04T00:00:00Z"
 status: ready
 apply_url: "https://securebio.org/careers/plant-biology--pathology-methods-consultants-part-time"
@@ -34,4 +34,4 @@ areas:
 <p class="apply-cta"><a href="https://securebio.org/careers/plant-biology--pathology-methods-consultants-part-time">Apply →</a></p>
 
 ---
-*Posted 2022-01-04 · Listing synced 2026-06-14 · 80k job ID `recqRRCQyTaNB3Zqr`*
+*Posted 2022-01-04 · Listing synced 2026-06-15 · 80k job ID `recqRRCQyTaNB3Zqr`*

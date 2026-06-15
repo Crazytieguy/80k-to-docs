@@ -2,7 +2,7 @@
 title: "Harry Frank Guggenheim Fellow for Nuclear Ethics and Security"
 employer: "Carnegie Council for Ethics in International Affairs"
 job_id: "recT0T8E35aMicl40"
-last_updated: "2026-06-14T05:32:43.878368Z"
+last_updated: "2026-06-15T05:32:34.584230Z"
 posted_at: "2026-06-08T00:00:00Z"
 status: ready
 apply_url: "https://www.carnegiecouncil.org/about/jobs/harry-frank-guggenheim-fellow-for-nuclear-ethics-and-security"
@@ -34,4 +34,4 @@ areas:
 <p class="apply-cta"><a href="https://www.carnegiecouncil.org/about/jobs/harry-frank-guggenheim-fellow-for-nuclear-ethics-and-security">Apply →</a></p>
 
 ---
-*Posted 2026-06-08 · Listing synced 2026-06-14 · 80k job ID `recT0T8E35aMicl40`*
+*Posted 2026-06-08 · Listing synced 2026-06-15 · 80k job ID `recT0T8E35aMicl40`*

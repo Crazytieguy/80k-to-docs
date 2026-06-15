@@ -2,7 +2,7 @@
 title: "Manager, Technical Governance Team"
 employer: "Machine Intelligence Research Institute"
 job_id: "recixJawRoI5j5Phm"
-last_updated: "2026-06-14T05:33:48.622164Z"
+last_updated: "2026-06-15T05:33:38.076726Z"
 posted_at: "2022-01-11T00:00:00Z"
 status: ready
 apply_url: "https://jobs.ashbyhq.com/miri/6fe51cba-6143-4445-8b8d-c88645426a49"
@@ -34,4 +34,4 @@ areas:
 <p class="apply-cta"><a href="https://jobs.ashbyhq.com/miri/6fe51cba-6143-4445-8b8d-c88645426a49">Apply →</a></p>
 
 ---
-*Posted 2022-01-11 · Listing synced 2026-06-14 · 80k job ID `recixJawRoI5j5Phm`*
+*Posted 2022-01-11 · Listing synced 2026-06-15 · 80k job ID `recixJawRoI5j5Phm`*

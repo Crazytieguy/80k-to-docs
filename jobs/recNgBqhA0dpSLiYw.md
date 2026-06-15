@@ -2,7 +2,7 @@
 title: "Digital Marketing Coordinator"
 employer: "Animal Equality"
 job_id: "recNgBqhA0dpSLiYw"
-last_updated: "2026-06-14T05:33:23.017330Z"
+last_updated: "2026-06-15T05:33:12.521850Z"
 posted_at: "2026-05-07T00:00:00Z"
 status: ready
 apply_url: "https://igualdadanimal.org/empleo/coordinador-marketing-digital/"
@@ -19,7 +19,7 @@ areas:
 <dt>Role type</dt><dd>Full-time</dd>
 <dt>Experience</dt><dd>Junior (1-4 years experience)</dd>
 <dt>Degree</dt><dd>Undergraduate degree or less</dd>
-<dt>Salary</dt><dd>$34,700 – $43,953</dd>
+<dt>Salary</dt><dd>$34,855 – $44,150</dd>
 </dl>
 
 **Areas & skills:** Animal welfare, Outreach
@@ -34,4 +34,4 @@ areas:
 <p class="apply-cta"><a href="https://igualdadanimal.org/empleo/coordinador-marketing-digital/">Apply →</a></p>
 
 ---
-*Posted 2026-05-07 · Listing synced 2026-06-14 · 80k job ID `recNgBqhA0dpSLiYw`*
+*Posted 2026-05-07 · Listing synced 2026-06-15 · 80k job ID `recNgBqhA0dpSLiYw`*

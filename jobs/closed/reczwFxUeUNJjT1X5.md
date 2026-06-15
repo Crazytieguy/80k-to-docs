@@ -4,25 +4,20 @@ employer: "Tarbell Center for AI Journalism"
 job_id: "reczwFxUeUNJjT1X5"
 last_updated: "2026-06-14T05:33:05.601948Z"
 posted_at: "2026-05-25T00:05:00Z"
-status: ready
+status: closed
+closed_at: "2026-06-15"
 apply_url: "https://www.tarbellcenter.org/careers/head-of-people"
 areas:
   - "AI safety & policy"
 ---
 
+> ⚠️ **CLOSED on 2026-06-15** — this job is no longer listed on the 80,000 Hours board. Archived snapshot below.
+
 # Head of People and Recruitment
 
-**[Tarbell Center for AI Journalism](https://www.tarbellcenter.org/)**
+**Tarbell Center for AI Journalism**
 
-<dl class="job-meta">
-<dt>Location</dt><dd>London, UK, Washington, DC metro area, San Francisco Bay Area, New York, NY, UK, USA</dd>
-<dt>Role type</dt><dd>Full-time</dd>
-<dt>Experience</dt><dd>Junior (1-4 years experience), Mid (5-9 years experience)</dd>
-<dt>Degree</dt><dd>Undergraduate degree or less</dd>
-<dt>Salary</dt><dd>$118,000 – $164,000</dd>
-</dl>
-
-**Areas & skills:** AI safety & policy, Operations
+**Areas & skills:** AI safety & policy
 
 ## Summary
 - In this role, you'll be in charge of people and recruitment end-to-end, managing 35 new hires annually while building systems for rapid growth.

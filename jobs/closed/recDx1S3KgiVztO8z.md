@@ -4,25 +4,20 @@ employer: "London AI Safety Research Labs"
 job_id: "recDx1S3KgiVztO8z"
 last_updated: "2026-06-14T05:33:10.904873Z"
 posted_at: "2026-05-20T00:03:00Z"
-status: ready
+status: closed
+closed_at: "2026-06-15"
 apply_url: "https://www.lasrlabs.org/research-coordinator"
 areas:
   - "AI safety & policy"
 ---
 
+> ⚠️ **CLOSED on 2026-06-15** — this job is no longer listed on the 80,000 Hours board. Archived snapshot below.
+
 # Research Coordinator
 
 **London AI Safety Research Labs**
 
-<dl class="job-meta">
-<dt>Location</dt><dd>London, UK, UK, UK (Confirmed Visas)</dd>
-<dt>Role type</dt><dd>Full-time</dd>
-<dt>Experience</dt><dd>Junior (1-4 years experience)</dd>
-<dt>Degree</dt><dd>Undergraduate degree or less</dd>
-<dt>Salary</dt><dd>$67,038 – $80,445</dd>
-</dl>
-
-**Areas & skills:** AI safety & policy, Operations
+**Areas & skills:** AI safety & policy
 
 ## Summary
 - In this role, you'll facilitate research meetings, serve as primary technical resource, and help participants succeed in the AI safety research programme.

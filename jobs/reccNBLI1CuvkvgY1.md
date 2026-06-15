@@ -2,7 +2,7 @@
 title: "Chief of Staff"
 employer: "Active Site"
 job_id: "reccNBLI1CuvkvgY1"
-last_updated: "2026-06-14T05:33:22.733478Z"
+last_updated: "2026-06-15T05:33:12.273981Z"
 posted_at: "2026-05-07T00:03:00Z"
 status: ready
 apply_url: "https://jobs.ashbyhq.com/activesite/76cbb5a1-291d-424e-bbb3-fd18ca624a0f"
@@ -34,4 +34,4 @@ areas:
 <p class="apply-cta"><a href="https://jobs.ashbyhq.com/activesite/76cbb5a1-291d-424e-bbb3-fd18ca624a0f">Apply →</a></p>
 
 ---
-*Posted 2026-05-07 · Listing synced 2026-06-14 · 80k job ID `reccNBLI1CuvkvgY1`*
+*Posted 2026-05-07 · Listing synced 2026-06-15 · 80k job ID `reccNBLI1CuvkvgY1`*

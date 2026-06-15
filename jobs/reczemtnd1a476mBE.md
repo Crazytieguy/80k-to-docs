@@ -2,7 +2,7 @@
 title: "AI Policy Research Resident, Associate / Specialist, Center on AI, Security, and Technology"
 employer: "RAND Corporation"
 job_id: "reczemtnd1a476mBE"
-last_updated: "2026-06-14T05:32:42.083230Z"
+last_updated: "2026-06-15T05:32:32.746086Z"
 posted_at: "2026-06-08T00:05:00Z"
 status: ready
 apply_url: "https://rand.wd5.myworkdayjobs.com/en-US/External_Career_Site/job/Washington-DC-DC-Metro-Area/AI-Policy-Research-Resident--Associate---Specialist_R3554"
@@ -34,4 +34,4 @@ areas:
 <p class="apply-cta"><a href="https://rand.wd5.myworkdayjobs.com/en-US/External_Career_Site/job/Washington-DC-DC-Metro-Area/AI-Policy-Research-Resident--Associate---Specialist_R3554">Apply →</a></p>
 
 ---
-*Posted 2026-06-08 · Listing synced 2026-06-14 · 80k job ID `reczemtnd1a476mBE`*
+*Posted 2026-06-08 · Listing synced 2026-06-15 · 80k job ID `reczemtnd1a476mBE`*

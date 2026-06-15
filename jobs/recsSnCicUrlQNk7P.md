@@ -2,7 +2,7 @@
 title: "Research Engineer, Frontier Safety Risk Assessment"
 employer: "Google DeepMind"
 job_id: "recsSnCicUrlQNk7P"
-last_updated: "2026-06-14T05:33:48.324460Z"
+last_updated: "2026-06-15T05:33:37.767644Z"
 posted_at: "2022-01-11T00:00:00Z"
 status: ready
 apply_url: "https://job-boards.greenhouse.io/deepmind/jobs/7493360"
@@ -34,4 +34,4 @@ areas:
 <p class="apply-cta"><a href="https://job-boards.greenhouse.io/deepmind/jobs/7493360">Apply →</a></p>
 
 ---
-*Posted 2022-01-11 · Listing synced 2026-06-14 · 80k job ID `recsSnCicUrlQNk7P`*
+*Posted 2022-01-11 · Listing synced 2026-06-15 · 80k job ID `recsSnCicUrlQNk7P`*

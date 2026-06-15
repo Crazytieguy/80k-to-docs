@@ -2,7 +2,7 @@
 title: "Senior Researcher, Water"
 employer: "GiveWell"
 job_id: "recub7pLm3v9derHw"
-last_updated: "2026-06-14T05:33:21.751026Z"
+last_updated: "2026-06-15T05:33:11.331079Z"
 posted_at: "2026-05-11T00:00:00Z"
 status: ready
 apply_url: "https://job-boards.greenhouse.io/givewell/jobs/5215182008"
@@ -34,4 +34,4 @@ areas:
 <p class="apply-cta"><a href="https://job-boards.greenhouse.io/givewell/jobs/5215182008">Apply →</a></p>
 
 ---
-*Posted 2026-05-11 · Listing synced 2026-06-14 · 80k job ID `recub7pLm3v9derHw`*
+*Posted 2026-05-11 · Listing synced 2026-06-15 · 80k job ID `recub7pLm3v9derHw`*

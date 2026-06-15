@@ -2,7 +2,7 @@
 title: "AI Engineer"
 employer: "Armilla"
 job_id: "recia9YMB4pIKJv7v"
-last_updated: "2026-06-14T05:33:59.935261Z"
+last_updated: "2026-06-15T05:33:49.530793Z"
 posted_at: "2022-01-06T00:00:00Z"
 status: ready
 apply_url: "https://www.armilla.ai/careers"
@@ -33,4 +33,4 @@ areas:
 <p class="apply-cta"><a href="https://www.armilla.ai/careers">Apply →</a></p>
 
 ---
-*Posted 2022-01-06 · Listing synced 2026-06-14 · 80k job ID `recia9YMB4pIKJv7v`*
+*Posted 2022-01-06 · Listing synced 2026-06-15 · 80k job ID `recia9YMB4pIKJv7v`*

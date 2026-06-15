@@ -2,7 +2,7 @@
 title: "Expression of Interest"
 employer: "Mirror Biology Dialogues Fund"
 job_id: "recVtIhIQG176bUSP"
-last_updated: "2026-06-14T05:34:24.610314Z"
+last_updated: "2026-06-15T05:34:11.087341Z"
 posted_at: "2022-01-03T00:00:00Z"
 status: ready
 apply_url: "https://www.mbdialogues.org/jobs#:~:text=Expressions%20of%20interest"
@@ -33,4 +33,4 @@ areas:
 <p class="apply-cta"><a href="https://www.mbdialogues.org/jobs#:~:text=Expressions%20of%20interest">Apply →</a></p>
 
 ---
-*Posted 2022-01-03 · Listing synced 2026-06-14 · 80k job ID `recVtIhIQG176bUSP`*
+*Posted 2022-01-03 · Listing synced 2026-06-15 · 80k job ID `recVtIhIQG176bUSP`*

@@ -2,7 +2,7 @@
 title: "Fellowship, Science, Technology and Policy Program, Office of Policy"
 employer: "US Government, Department of Energy"
 job_id: "recKMkQ27CEJRSp0J"
-last_updated: "2026-06-14T05:34:25.041511Z"
+last_updated: "2026-06-15T05:34:11.487104Z"
 posted_at: "2022-01-03T00:00:00Z"
 status: ready
 apply_url: "https://www.zintellect.com/Opportunity/Details/DOE-STP-OP-2025-0001"
@@ -32,4 +32,4 @@ areas:
 <p class="apply-cta"><a href="https://www.zintellect.com/Opportunity/Details/DOE-STP-OP-2025-0001">Apply →</a></p>
 
 ---
-*Posted 2022-01-03 · Listing synced 2026-06-14 · 80k job ID `recKMkQ27CEJRSp0J`*
+*Posted 2022-01-03 · Listing synced 2026-06-15 · 80k job ID `recKMkQ27CEJRSp0J`*

@@ -2,7 +2,7 @@
 title: "Strategic Partnerships and Philanthropy Manager"
 employer: "Centre for Long-Term Resilience"
 job_id: "recR0WCiXo0nh3ktr"
-last_updated: "2026-06-14T05:32:48.895227Z"
+last_updated: "2026-06-15T05:32:39.928048Z"
 posted_at: "2026-06-04T00:05:00Z"
 status: ready
 apply_url: "https://www.longtermresilience.org/were-hiring-strategic-partnerships-and-philanthropy-manager/"
@@ -20,7 +20,7 @@ areas:
 <dt>Role type</dt><dd>Full-time</dd>
 <dt>Experience</dt><dd>Mid (5-9 years experience)</dd>
 <dt>Degree</dt><dd>Undergraduate degree or less</dd>
-<dt>Salary</dt><dd>$87,149 – $100,556</dd>
+<dt>Salary</dt><dd>$87,475 – $100,933</dd>
 </dl>
 
 **Areas & skills:** AI safety & policy, Biosecurity & pandemic preparedness, Outreach
@@ -35,4 +35,4 @@ areas:
 <p class="apply-cta"><a href="https://www.longtermresilience.org/were-hiring-strategic-partnerships-and-philanthropy-manager/">Apply →</a></p>
 
 ---
-*Posted 2026-06-04 · Listing synced 2026-06-14 · 80k job ID `recR0WCiXo0nh3ktr`*
+*Posted 2026-06-04 · Listing synced 2026-06-15 · 80k job ID `recR0WCiXo0nh3ktr`*

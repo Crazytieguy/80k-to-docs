@@ -4,25 +4,20 @@ employer: "Tarbell Center for AI Journalism"
 job_id: "recBYMWdIRWirPFGQ"
 last_updated: "2026-06-14T05:33:03.575669Z"
 posted_at: "2026-05-26T00:05:00Z"
-status: ready
+status: closed
+closed_at: "2026-06-15"
 apply_url: "https://www.tarbellcenter.org/careers/finance-associate"
 areas:
   - "AI safety & policy"
 ---
 
+> ⚠️ **CLOSED on 2026-06-15** — this job is no longer listed on the 80,000 Hours board. Archived snapshot below.
+
 # Finance Associate / Senior Finance Associate
 
-**[Tarbell Center for AI Journalism](https://www.tarbellcenter.org/)**
+**Tarbell Center for AI Journalism**
 
-<dl class="job-meta">
-<dt>Location</dt><dd>London, UK, Washington, DC metro area, San Francisco Bay Area, New York, NY, UK, USA</dd>
-<dt>Role type</dt><dd>Full-time</dd>
-<dt>Experience</dt><dd>Junior (1-4 years experience)</dd>
-<dt>Degree</dt><dd>Undergraduate degree or less</dd>
-<dt>Salary</dt><dd>$72,000 – $128,000</dd>
-</dl>
-
-**Areas & skills:** AI safety & policy, Finance
+**Areas & skills:** AI safety & policy
 
 ## Summary
 - In this role, you'll manage financial operations and build scalable systems to support budget growth from $4M to $14M over two years.

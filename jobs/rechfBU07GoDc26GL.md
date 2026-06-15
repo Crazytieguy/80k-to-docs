@@ -2,7 +2,7 @@
 title: "Special Projects Manager"
 employer: "Center for AI Safety"
 job_id: "rechfBU07GoDc26GL"
-last_updated: "2026-06-14T05:33:41.720350Z"
+last_updated: "2026-06-15T05:33:31.124047Z"
 posted_at: "2022-01-12T00:00:00Z"
 status: ready
 apply_url: "https://jobs.lever.co/aisafety/a510a964-6425-405d-b757-cb7bfd19c994"
@@ -34,4 +34,4 @@ areas:
 <p class="apply-cta"><a href="https://jobs.lever.co/aisafety/a510a964-6425-405d-b757-cb7bfd19c994">Apply →</a></p>
 
 ---
-*Posted 2022-01-12 · Listing synced 2026-06-14 · 80k job ID `rechfBU07GoDc26GL`*
+*Posted 2022-01-12 · Listing synced 2026-06-15 · 80k job ID `rechfBU07GoDc26GL`*

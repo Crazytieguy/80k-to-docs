@@ -2,7 +2,7 @@
 title: "Principal, Programs and Policy"
 employer: "Omidyar Network"
 job_id: "recOVu3cGOMxqyB0h"
-last_updated: "2026-06-14T05:33:01.980692Z"
+last_updated: "2026-06-15T05:32:51.694801Z"
 posted_at: "2026-05-27T00:02:00Z"
 status: ready
 apply_url: "https://job-boards.greenhouse.io/omidyarnetwork/jobs/7958194"
@@ -34,4 +34,4 @@ areas:
 <p class="apply-cta"><a href="https://job-boards.greenhouse.io/omidyarnetwork/jobs/7958194">Apply →</a></p>
 
 ---
-*Posted 2026-05-27 · Listing synced 2026-06-14 · 80k job ID `recOVu3cGOMxqyB0h`*
+*Posted 2026-05-27 · Listing synced 2026-06-15 · 80k job ID `recOVu3cGOMxqyB0h`*

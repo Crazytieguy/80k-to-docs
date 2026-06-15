@@ -2,7 +2,7 @@
 title: "Research Program Associate, AI Safety"
 employer: "Cambridge Boston Alignment Initiative"
 job_id: "rectF9UpNmf05fnfu"
-last_updated: "2026-06-14T05:33:37.953196Z"
+last_updated: "2026-06-15T05:33:27.764932Z"
 posted_at: "2026-04-02T00:02:00Z"
 status: ready
 apply_url: "https://jobs.ashbyhq.com/cbai/005ca9cd-8e31-42c9-9778-c4286f7d50df"
@@ -34,4 +34,4 @@ areas:
 <p class="apply-cta"><a href="https://jobs.ashbyhq.com/cbai/005ca9cd-8e31-42c9-9778-c4286f7d50df">Apply →</a></p>
 
 ---
-*Posted 2026-04-02 · Listing synced 2026-06-14 · 80k job ID `rectF9UpNmf05fnfu`*
+*Posted 2026-04-02 · Listing synced 2026-06-15 · 80k job ID `rectF9UpNmf05fnfu`*

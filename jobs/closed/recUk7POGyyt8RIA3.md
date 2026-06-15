@@ -4,25 +4,20 @@ employer: "Brookings Institution"
 job_id: "recUk7POGyyt8RIA3"
 last_updated: "2026-06-14T05:33:02.906776Z"
 posted_at: "2026-05-27T00:00:00Z"
-status: ready
+status: closed
+closed_at: "2026-06-15"
 apply_url: "https://interns-brookings.icims.com/jobs/3864/fall-2026%2c-artificial-intelligence-internship%2c-brookings-metro-%28job-id%3a-2026-3864%29/job?mode=job&iis=Job+Posting&iisn=LinkedIn&mobile=false&width=890&height=500&bga=true&needsRedirect=false&jan1offset=-360&jun1offset=-300"
 areas:
   - "Career development: Policy & government"
 ---
 
+> ⚠️ **CLOSED on 2026-06-15** — this job is no longer listed on the 80,000 Hours board. Archived snapshot below.
+
 # Internship, Artificial Intelligence, Brookings Metro (Fall 2026)
 
-**[Brookings Institution](https://www.brookings.edu/)**
+**Brookings Institution**
 
-<dl class="job-meta">
-<dt>Location</dt><dd>Washington, DC metro area, USA</dd>
-<dt>Role type</dt><dd>Internship</dd>
-<dt>Experience</dt><dd>Entry-level</dd>
-<dt>Degree</dt><dd>Undergraduate degree or less</dd>
-<dt>Salary</dt><dd>$38,272</dd>
-</dl>
-
-**Areas & skills:** Career development: Policy & government, Research, Policy
+**Areas & skills:** Career development: Policy & government
 
 ## Summary
 - In this role, you'll assist with research, data analysis, and writing tasks for projects examining how AI is reshaping local economies and labor markets.

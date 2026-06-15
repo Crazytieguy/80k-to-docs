@@ -2,7 +2,7 @@
 title: "People Operations Manager"
 employer: "GovAI"
 job_id: "recJJfwHoPKQEmCoj"
-last_updated: "2026-06-14T05:32:52.207411Z"
+last_updated: "2026-06-15T05:32:42.903040Z"
 posted_at: "2026-06-02T00:05:00Z"
 status: ready
 apply_url: "https://www.governance.ai/post/people-operations-manager-2"
@@ -19,7 +19,7 @@ areas:
 <dt>Role type</dt><dd>Full-time</dd>
 <dt>Experience</dt><dd>Junior (1-4 years experience), Mid (5-9 years experience)</dd>
 <dt>Degree</dt><dd>Undergraduate degree or less</dd>
-<dt>Salary</dt><dd>$112,623 – $124,690</dd>
+<dt>Salary</dt><dd>$113,045 – $125,157</dd>
 </dl>
 
 **Areas & skills:** AI safety & policy, Operations, Management
@@ -34,4 +34,4 @@ areas:
 <p class="apply-cta"><a href="https://www.governance.ai/post/people-operations-manager-2">Apply →</a></p>
 
 ---
-*Posted 2026-06-02 · Listing synced 2026-06-14 · 80k job ID `recJJfwHoPKQEmCoj`*
+*Posted 2026-06-02 · Listing synced 2026-06-15 · 80k job ID `recJJfwHoPKQEmCoj`*

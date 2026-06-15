@@ -2,7 +2,7 @@
 title: "Research Analyst / Senior Research Analyst"
 employer: "Forecasting Research Institute"
 job_id: "rec6DOESCw6fxAXhI"
-last_updated: "2026-06-14T05:33:24.029842Z"
+last_updated: "2026-06-15T05:33:13.384628Z"
 posted_at: "2026-05-06T00:00:00Z"
 status: ready
 apply_url: "https://forecastingresearch.org/careers/research-analyst"
@@ -34,4 +34,4 @@ areas:
 <p class="apply-cta"><a href="https://forecastingresearch.org/careers/research-analyst">Apply →</a></p>
 
 ---
-*Posted 2026-05-06 · Listing synced 2026-06-14 · 80k job ID `rec6DOESCw6fxAXhI`*
+*Posted 2026-05-06 · Listing synced 2026-06-15 · 80k job ID `rec6DOESCw6fxAXhI`*

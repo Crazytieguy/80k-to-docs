@@ -2,7 +2,7 @@
 title: "Research Associate"
 employer: "Claryx"
 job_id: "rec6aPMta7sM89Os6"
-last_updated: "2026-06-14T05:34:22.543672Z"
+last_updated: "2026-06-15T05:34:09.126921Z"
 posted_at: "2022-01-04T00:00:00Z"
 status: ready
 apply_url: "https://static1.squarespace.com/static/68924fd1cb448a62bf39f107/t/694360a7be6fc705faf20292/1766023335818/Claryx+-+Research+Associate+Job+Description+%28Dec-25%29_vF.pdf"
@@ -34,4 +34,4 @@ areas:
 <p class="apply-cta"><a href="https://static1.squarespace.com/static/68924fd1cb448a62bf39f107/t/694360a7be6fc705faf20292/1766023335818/Claryx+-+Research+Associate+Job+Description+%28Dec-25%29_vF.pdf">Apply →</a></p>
 
 ---
-*Posted 2022-01-04 · Listing synced 2026-06-14 · 80k job ID `rec6aPMta7sM89Os6`*
+*Posted 2022-01-04 · Listing synced 2026-06-15 · 80k job ID `rec6aPMta7sM89Os6`*

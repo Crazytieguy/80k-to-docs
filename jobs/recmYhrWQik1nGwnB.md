@@ -2,7 +2,7 @@
 title: "Policy Analyst / Director"
 employer: "Encode"
 job_id: "recmYhrWQik1nGwnB"
-last_updated: "2026-06-14T05:34:02.103381Z"
+last_updated: "2026-06-15T05:33:51.610088Z"
 posted_at: "2022-01-06T00:00:00Z"
 status: ready
 apply_url: "https://docs.google.com/document/d/1UxruiF1jo5s956wbyRZp_SNrE1y4SNE0MF3-MkM5sqQ/edit?tab=t.0#heading=h.oqz3pmpx7801"
@@ -34,4 +34,4 @@ areas:
 <p class="apply-cta"><a href="https://docs.google.com/document/d/1UxruiF1jo5s956wbyRZp_SNrE1y4SNE0MF3-MkM5sqQ/edit?tab=t.0#heading=h.oqz3pmpx7801">Apply →</a></p>
 
 ---
-*Posted 2022-01-06 · Listing synced 2026-06-14 · 80k job ID `recmYhrWQik1nGwnB`*
+*Posted 2022-01-06 · Listing synced 2026-06-15 · 80k job ID `recmYhrWQik1nGwnB`*

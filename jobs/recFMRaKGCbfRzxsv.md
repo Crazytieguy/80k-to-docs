@@ -2,7 +2,7 @@
 title: "Computational Biologist"
 employer: "Gordian Biotechnology"
 job_id: "recFMRaKGCbfRzxsv"
-last_updated: "2026-06-14T05:34:31.245666Z"
+last_updated: "2026-06-15T05:34:18.747365Z"
 posted_at: "2022-01-02T00:00:00Z"
 status: ready
 apply_url: "https://ats.rippling.com/gordian-biotechnology/jobs/e41b3008-73fb-41b6-b22d-bf94e927128d"
@@ -33,4 +33,4 @@ areas:
 <p class="apply-cta"><a href="https://ats.rippling.com/gordian-biotechnology/jobs/e41b3008-73fb-41b6-b22d-bf94e927128d">Apply →</a></p>
 
 ---
-*Posted 2022-01-02 · Listing synced 2026-06-14 · 80k job ID `recFMRaKGCbfRzxsv`*
+*Posted 2022-01-02 · Listing synced 2026-06-15 · 80k job ID `recFMRaKGCbfRzxsv`*

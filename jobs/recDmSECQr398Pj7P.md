@@ -2,7 +2,7 @@
 title: "Deputy Chief of Party, USAID Feed the Future, Farming for Nutrition Activity"
 employer: "Semilla Nueva"
 job_id: "recDmSECQr398Pj7P"
-last_updated: "2026-06-14T05:34:45.095182Z"
+last_updated: "2026-06-15T05:34:31.975295Z"
 posted_at: "2022-01-01T00:00:00Z"
 status: ready
 apply_url: "https://semillanueva.org/deputy-chief-of-party-usaid-feed-the-future-farming-for-nutrition-activity/"
@@ -34,4 +34,4 @@ areas:
 <p class="apply-cta"><a href="https://semillanueva.org/deputy-chief-of-party-usaid-feed-the-future-farming-for-nutrition-activity/">Apply →</a></p>
 
 ---
-*Posted 2022-01-01 · Listing synced 2026-06-14 · 80k job ID `recDmSECQr398Pj7P`*
+*Posted 2022-01-01 · Listing synced 2026-06-15 · 80k job ID `recDmSECQr398Pj7P`*

@@ -2,7 +2,7 @@
 title: "Head of Technology"
 employer: "Suvita"
 job_id: "reczuEMUYeISUALhA"
-last_updated: "2026-06-14T05:33:32.538453Z"
+last_updated: "2026-06-15T05:33:22.423690Z"
 posted_at: "2026-04-14T00:00:00Z"
 status: ready
 apply_url: "https://www.suvita.org/careers/head-of-technology"
@@ -32,4 +32,4 @@ areas:
 <p class="apply-cta"><a href="https://www.suvita.org/careers/head-of-technology">Apply →</a></p>
 
 ---
-*Posted 2026-04-14 · Listing synced 2026-06-14 · 80k job ID `reczuEMUYeISUALhA`*
+*Posted 2026-04-14 · Listing synced 2026-06-15 · 80k job ID `reczuEMUYeISUALhA`*

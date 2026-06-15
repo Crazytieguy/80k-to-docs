@@ -2,7 +2,7 @@
 title: "Research Associate, Deep Generative Modelling for Infectious Diseases"
 employer: "Imperial College London, Faculty of Medicine"
 job_id: "recGXzPbFOD2J4Dhl"
-last_updated: "2026-06-14T05:32:30.939259Z"
+last_updated: "2026-06-15T05:32:22.106812Z"
 posted_at: "2026-06-12T00:00:00Z"
 status: ready
 apply_url: "https://www.imperial.ac.uk/jobs/search-jobs/description/index.php?nPostingID=17744&nPostingTargetID=28158&ID=PMMFK026203F3VBQB8NLOV4CQ"
@@ -19,7 +19,7 @@ areas:
 <dt>Role type</dt><dd>Full-time</dd>
 <dt>Experience</dt><dd>Entry-level</dd>
 <dt>Degree</dt><dd>Doctoral degree</dd>
-<dt>Salary</dt><dd>$65,720 – $77,056</dd>
+<dt>Salary</dt><dd>$65,966 – $77,344</dd>
 </dl>
 
 **Areas & skills:** Global health & development, Research, Software engineering
@@ -34,4 +34,4 @@ areas:
 <p class="apply-cta"><a href="https://www.imperial.ac.uk/jobs/search-jobs/description/index.php?nPostingID=17744&amp;nPostingTargetID=28158&amp;ID=PMMFK026203F3VBQB8NLOV4CQ">Apply →</a></p>
 
 ---
-*Posted 2026-06-12 · Listing synced 2026-06-14 · 80k job ID `recGXzPbFOD2J4Dhl`*
+*Posted 2026-06-12 · Listing synced 2026-06-15 · 80k job ID `recGXzPbFOD2J4Dhl`*
