@@ -4,25 +4,20 @@ employer: "Fairer Fields"
 job_id: "recv9aRnEqpoowVAF"
 last_updated: "2026-06-15T05:32:59.728361Z"
 posted_at: "2026-05-20T00:00:00Z"
-status: ready
+status: closed
+closed_at: "2026-06-16"
 apply_url: "https://docs.google.com/document/d/1EJ1__BnTsA_-3O5J5CxUEpL6tz4kXMJ2nyKv-sI44Bo/edit?tab=t.0"
 areas:
   - "Animal welfare"
 ---
 
+> ⚠️ **CLOSED on 2026-06-16** — this job is no longer listed on the 80,000 Hours board. Archived snapshot below.
+
 # Researcher
 
-**[Fairer Fields](https://fairerfields.org/)**
+**Fairer Fields**
 
-<dl class="job-meta">
-<dt>Location</dt><dd>Remote, USA, USA</dd>
-<dt>Role type</dt><dd>Full-time</dd>
-<dt>Experience</dt><dd>Junior (1-4 years experience)</dd>
-<dt>Degree</dt><dd>Undergraduate degree or less</dd>
-<dt>Salary</dt><dd>$75,000 – $110,000</dd>
-</dl>
-
-**Areas & skills:** Animal welfare, Research
+**Areas & skills:** Animal welfare
 
 ## Summary
 - In this role, you'll coordinate external research and desk research on insecticides and insect anesthetics for humane agriculture.

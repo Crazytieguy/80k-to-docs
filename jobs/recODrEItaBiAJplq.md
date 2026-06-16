@@ -2,7 +2,7 @@
 title: "Science-Policy Visiting Fellow, Emerging Technology and Verification Processes"
 employer: "United Nations University"
 job_id: "recODrEItaBiAJplq"
-last_updated: "2026-06-15T05:32:39.231128Z"
+last_updated: "2026-06-16T05:32:46.157963Z"
 posted_at: "2026-06-05T00:00:00Z"
 status: ready
 apply_url: "https://careers.unu.edu/o/science-policy-visiting-fellow-bwc"
@@ -19,7 +19,7 @@ areas:
 <dt>Role type</dt><dd>Fellowship</dd>
 <dt>Experience</dt><dd>Junior (1-4 years experience)</dd>
 <dt>Degree</dt><dd>Doctoral degree</dd>
-<dt>Salary</dt><dd>$83,240</dd>
+<dt>Salary</dt><dd>$82,971</dd>
 </dl>
 
 **Areas & skills:** Biosecurity & pandemic preparedness, Research, Policy
@@ -34,4 +34,4 @@ areas:
 <p class="apply-cta"><a href="https://careers.unu.edu/o/science-policy-visiting-fellow-bwc">Apply →</a></p>
 
 ---
-*Posted 2026-06-05 · Listing synced 2026-06-15 · 80k job ID `recODrEItaBiAJplq`*
+*Posted 2026-06-05 · Listing synced 2026-06-16 · 80k job ID `recODrEItaBiAJplq`*

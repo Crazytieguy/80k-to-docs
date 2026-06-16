@@ -4,25 +4,20 @@ employer: "University of Hamburg, Institute for Peace Research and Security Poli
 job_id: "recHM6ct5I8BxCGdo"
 last_updated: "2026-06-15T05:32:53.198023Z"
 posted_at: "2026-05-26T00:00:00Z"
-status: ready
+status: closed
+closed_at: "2026-06-16"
 apply_url: "https://www.ifsh.de/karriere/details/job/wissenschaftliche-hilfskraft-m-w-d-am-ifsh-im-projekt-ruestungskontrolle-und-neue-technologien-40-stunden-pro-monat-2638781"
 areas:
   - "Career development: Policy & government"
 ---
 
+> ⚠️ **CLOSED on 2026-06-16** — this job is no longer listed on the 80,000 Hours board. Archived snapshot below.
+
 # Research Assistant, Arms Control and New Technologies
 
-**[University of Hamburg, Institute for Peace Research and Security Policy](https://ifsh.de/)**
+**University of Hamburg, Institute for Peace Research and Security Policy**
 
-<dl class="job-meta">
-<dt>Location</dt><dd>Remote, Global</dd>
-<dt>Role type</dt><dd>Part-time</dd>
-<dt>Experience</dt><dd>Entry-level</dd>
-<dt>Degree</dt><dd>Undergraduate degree or less</dd>
-<dt>Salary</dt><dd>$36,395</dd>
-</dl>
-
-**Areas & skills:** Career development: Policy & government, Research, Policy
+**Areas & skills:** Career development: Policy & government
 
 ## Summary
 - In this role, you'll support research activities on arms control and emerging technologies through literature research and data analysis.

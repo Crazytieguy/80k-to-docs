@@ -4,25 +4,20 @@ employer: "Anser (US government role)"
 job_id: "recpLqS3UKx8Bp96j"
 last_updated: "2026-06-15T05:32:21.012951Z"
 posted_at: "2026-06-12T00:00:00Z"
-status: ready
+status: closed
+closed_at: "2026-06-16"
 apply_url: "https://www.anser.org/job/?id=5252405008"
 areas:
   - "Nuclear security"
 ---
 
+> ⚠️ **CLOSED on 2026-06-16** — this job is no longer listed on the 80,000 Hours board. Archived snapshot below.
+
 # International Arms Control Treaties and Agreements Analyst
 
-**[Anser (US government role)](http://www.anser.org/)**
+**Anser (US government role)**
 
-<dl class="job-meta">
-<dt>Location</dt><dd>Washington, DC metro area, USA</dd>
-<dt>Role type</dt><dd>Full-time</dd>
-<dt>Experience</dt><dd>Junior (1-4 years experience), Mid (5-9 years experience)</dd>
-<dt>Degree</dt><dd>Undergraduate degree or less</dd>
-<dt>Salary</dt><dd>$80,000 – $110,000</dd>
-</dl>
-
-**Areas & skills:** Nuclear security, Policy
+**Areas & skills:** Nuclear security
 
 ## Summary
 - In this role, you'll provide expertise in arms control treaty implementation, compliance, and training for the Department of the Air Force.

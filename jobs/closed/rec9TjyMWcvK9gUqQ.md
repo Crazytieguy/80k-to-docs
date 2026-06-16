@@ -4,25 +4,20 @@ employer: "Animal Legal Defense Fund"
 job_id: "rec9TjyMWcvK9gUqQ"
 last_updated: "2026-06-15T05:33:14.646343Z"
 posted_at: "2026-05-05T00:00:00Z"
-status: ready
+status: closed
+closed_at: "2026-06-16"
 apply_url: "https://recruiting.paylocity.com/Recruiting/Jobs/Details/4128402"
 areas:
   - "Animal welfare"
 ---
 
+> ⚠️ **CLOSED on 2026-06-16** — this job is no longer listed on the 80,000 Hours board. Archived snapshot below.
+
 # Externship / Student Volunteer, Transparency and Regulatory Affairs (Fall 2026 and Spring 2027)
 
-**[Animal Legal Defense Fund](https://aldf.org/)**
+**Animal Legal Defense Fund**
 
-<dl class="job-meta">
-<dt>Location</dt><dd>Remote, USA, USA</dd>
-<dt>Role type</dt><dd>Part-time, Volunteering</dd>
-<dt>Experience</dt><dd>Entry-level</dd>
-<dt>Degree</dt><dd>Undergraduate degree or less</dd>
-<dt>Salary</dt><dd>$41,600</dd>
-</dl>
-
-**Areas & skills:** Animal welfare, Policy, Legal
+**Areas & skills:** Animal welfare
 
 ## Summary
 - In this externship, you'll support the Transparency and Regulatory Affairs Program through legal research and regulatory advocacy to protect animals.

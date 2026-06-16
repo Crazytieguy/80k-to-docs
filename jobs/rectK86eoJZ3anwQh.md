@@ -2,7 +2,7 @@
 title: "Research Scientist, Manipulation Evaluations"
 employer: "Apart Research"
 job_id: "rectK86eoJZ3anwQh"
-last_updated: "2026-06-15T05:32:20.221424Z"
+last_updated: "2026-06-16T05:32:28.238129Z"
 posted_at: "2026-06-12T00:04:11Z"
 status: ready
 apply_url: "https://apartresearch.notion.site/research-scientist-manipulation-evals"
@@ -17,7 +17,7 @@ areas:
 <dl class="job-meta">
 <dt>Location</dt><dd>Remote, Europe, Europe, Europe (ex UK)</dd>
 <dt>Role type</dt><dd>Full-time</dd>
-<dt>Experience</dt><dd>Junior (1-4 years experience), Mid (5-9 years experience)</dd>
+<dt>Experience</dt><dd>Mid (5-9 years experience)</dd>
 <dt>Degree</dt><dd>Undergraduate degree or less</dd>
 <dt>Salary</dt><dd>$130,000 – $200,000</dd>
 </dl>
@@ -34,4 +34,4 @@ areas:
 <p class="apply-cta"><a href="https://apartresearch.notion.site/research-scientist-manipulation-evals">Apply →</a></p>
 
 ---
-*Posted 2026-06-12 · Listing synced 2026-06-15 · 80k job ID `rectK86eoJZ3anwQh`*
+*Posted 2026-06-12 · Listing synced 2026-06-16 · 80k job ID `rectK86eoJZ3anwQh`*

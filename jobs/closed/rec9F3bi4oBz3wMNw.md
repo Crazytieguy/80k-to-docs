@@ -4,25 +4,20 @@ employer: "Anthropic"
 job_id: "rec9F3bi4oBz3wMNw"
 last_updated: "2026-06-15T05:33:24.267807Z"
 posted_at: "2026-04-10T00:00:00Z"
-status: ready
+status: closed
+closed_at: "2026-06-16"
 apply_url: "https://job-boards.greenhouse.io/anthropic/jobs/5176481008"
 areas:
   - "AI safety & policy"
 ---
 
+> ⚠️ **CLOSED on 2026-06-16** — this job is no longer listed on the 80,000 Hours board. Archived snapshot below.
+
 # Incident Manager, Detection and Response
 
-**[Anthropic](https://www.anthropic.com/)**
+**Anthropic**
 
-<dl class="job-meta">
-<dt>Location</dt><dd>San Francisco Bay Area, New York, NY, USA, USA (Confirmed Visas)</dd>
-<dt>Role type</dt><dd>Full-time</dd>
-<dt>Experience</dt><dd>Mid (5-9 years experience)</dd>
-<dt>Degree</dt><dd>Undergraduate degree or less</dd>
-<dt>Salary</dt><dd>$320,000 – $405,000</dd>
-</dl>
-
-**Areas & skills:** AI safety & policy, Information security
+**Areas & skills:** AI safety & policy
 
 ## Summary
 - In this role, you'll own the end-to-end incident management program and drive post-incident improvements.

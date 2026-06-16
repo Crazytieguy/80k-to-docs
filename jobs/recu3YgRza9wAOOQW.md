@@ -2,7 +2,7 @@
 title: "Head of Operations"
 employer: "Kairos"
 job_id: "recu3YgRza9wAOOQW"
-last_updated: "2026-06-15T05:32:23.418809Z"
+last_updated: "2026-06-16T05:32:31.483233Z"
 posted_at: "2026-06-11T00:03:00Z"
 status: ready
 apply_url: "https://jobs.ashbyhq.com/kairos-project/11e789b2-5024-42d8-9312-966d301ac0db"
@@ -34,4 +34,4 @@ areas:
 <p class="apply-cta"><a href="https://jobs.ashbyhq.com/kairos-project/11e789b2-5024-42d8-9312-966d301ac0db">Apply →</a></p>
 
 ---
-*Posted 2026-06-11 · Listing synced 2026-06-15 · 80k job ID `recu3YgRza9wAOOQW`*
+*Posted 2026-06-11 · Listing synced 2026-06-16 · 80k job ID `recu3YgRza9wAOOQW`*

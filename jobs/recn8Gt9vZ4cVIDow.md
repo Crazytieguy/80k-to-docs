@@ -2,7 +2,7 @@
 title: "Navigators Incubator, AI Security"
 employer: "Coefficient Giving"
 job_id: "recn8Gt9vZ4cVIDow"
-last_updated: "2026-06-15T05:33:09.310211Z"
+last_updated: "2026-06-16T05:33:14.078445Z"
 posted_at: "2026-05-12T00:04:56Z"
 status: ready
 apply_url: "https://coefficientgiving.org/funds/navigating-transformative-ai/navigators-incubator/"
@@ -32,4 +32,4 @@ areas:
 <p class="apply-cta"><a href="https://coefficientgiving.org/funds/navigating-transformative-ai/navigators-incubator/">Apply →</a></p>
 
 ---
-*Posted 2026-05-12 · Listing synced 2026-06-15 · 80k job ID `recn8Gt9vZ4cVIDow`*
+*Posted 2026-05-12 · Listing synced 2026-06-16 · 80k job ID `recn8Gt9vZ4cVIDow`*

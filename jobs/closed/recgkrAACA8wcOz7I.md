@@ -4,24 +4,20 @@ employer: "One Acre Fund"
 job_id: "recgkrAACA8wcOz7I"
 last_updated: "2026-06-15T05:32:52.906023Z"
 posted_at: "2026-05-26T00:00:00Z"
-status: ready
+status: closed
+closed_at: "2026-06-16"
 apply_url: "https://oneacrefund.org/vacancies/rwanda-legal-and-investigations-intern"
 areas:
   - "Global health & development"
 ---
 
+> ⚠️ **CLOSED on 2026-06-16** — this job is no longer listed on the 80,000 Hours board. Archived snapshot below.
+
 # Intern, Legal and Investigations, Rwanda
 
-**[One Acre Fund](https://oneacrefund.org/)**
+**One Acre Fund**
 
-<dl class="job-meta">
-<dt>Location</dt><dd>Kigali, Rwanda, Africa, Rwanda</dd>
-<dt>Role type</dt><dd>Internship</dd>
-<dt>Experience</dt><dd>Entry-level</dd>
-<dt>Degree</dt><dd>Undergraduate degree or less</dd>
-</dl>
-
-**Areas & skills:** Global health & development, Operations, Legal
+**Areas & skills:** Global health & development
 
 ## Summary
 - In this role, you'll gain hands-on experience in legal research, investigations, evidence review, and professional drafting in a fast-paced environment.

@@ -2,7 +2,7 @@
 title: "Senior Communications Advisor"
 employer: "LawZero"
 job_id: "recBVrw5cMHI9SeQP"
-last_updated: "2026-06-15T05:33:18.175100Z"
+last_updated: "2026-06-16T05:33:21.507005Z"
 posted_at: "2026-04-27T00:00:00Z"
 status: ready
 apply_url: "https://job-boards.greenhouse.io/lawzero/jobs/4232206009"
@@ -33,4 +33,4 @@ areas:
 <p class="apply-cta"><a href="https://job-boards.greenhouse.io/lawzero/jobs/4232206009">Apply →</a></p>
 
 ---
-*Posted 2026-04-27 · Listing synced 2026-06-15 · 80k job ID `recBVrw5cMHI9SeQP`*
+*Posted 2026-04-27 · Listing synced 2026-06-16 · 80k job ID `recBVrw5cMHI9SeQP`*

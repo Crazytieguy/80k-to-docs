@@ -4,25 +4,20 @@ employer: "In Development"
 job_id: "recH0893ssC32OQu8"
 last_updated: "2026-06-15T05:32:54.850997Z"
 posted_at: "2026-05-25T00:00:00Z"
-status: ready
+status: closed
+closed_at: "2026-06-16"
 apply_url: "https://indevelopmentmag.com/jobs/"
 areas:
   - "Global health & development"
 ---
 
+> ⚠️ **CLOSED on 2026-06-16** — this job is no longer listed on the 80,000 Hours board. Archived snapshot below.
+
 # Managing Editor
 
-**[In Development](https://indevelopmentmag.com/)**
+**In Development**
 
-<dl class="job-meta">
-<dt>Location</dt><dd>Remote, Global</dd>
-<dt>Role type</dt><dd>Full-time</dd>
-<dt>Experience</dt><dd>Junior (1-4 years experience), Mid (5-9 years experience)</dd>
-<dt>Degree</dt><dd>Undergraduate degree or less</dd>
-<dt>Salary</dt><dd>$100,000</dd>
-</dl>
-
-**Areas & skills:** Global health & development, Other, Management
+**Areas & skills:** Global health & development
 
 ## Summary
 - In this role, you'll commission and edit longform articles for a development magazine, shepherding pieces from conception to publication with the Editor-in-Chief.

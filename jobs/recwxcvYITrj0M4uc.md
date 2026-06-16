@@ -2,7 +2,7 @@
 title: "Policy Advisor, Coalitions"
 employer: "Encode"
 job_id: "recwxcvYITrj0M4uc"
-last_updated: "2026-06-15T05:32:43.681951Z"
+last_updated: "2026-06-16T05:32:50.568672Z"
 posted_at: "2026-06-02T00:00:00Z"
 status: ready
 apply_url: "https://docs.google.com/document/d/1R1jCGo4_oPzCUuvGd-TSO6QkLC5SnHkHFktmLj4tGIU/edit?tab=t.0"
@@ -34,4 +34,4 @@ areas:
 <p class="apply-cta"><a href="https://docs.google.com/document/d/1R1jCGo4_oPzCUuvGd-TSO6QkLC5SnHkHFktmLj4tGIU/edit?tab=t.0">Apply →</a></p>
 
 ---
-*Posted 2026-06-02 · Listing synced 2026-06-15 · 80k job ID `recwxcvYITrj0M4uc`*
+*Posted 2026-06-02 · Listing synced 2026-06-16 · 80k job ID `recwxcvYITrj0M4uc`*

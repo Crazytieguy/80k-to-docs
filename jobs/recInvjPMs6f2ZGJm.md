@@ -2,7 +2,7 @@
 title: "Program Manager, Alignment Team"
 employer: "Arcadia Impact"
 job_id: "recInvjPMs6f2ZGJm"
-last_updated: "2026-06-15T05:32:33.754499Z"
+last_updated: "2026-06-16T05:32:41.274089Z"
 posted_at: "2026-06-08T00:02:00Z"
 status: ready
 apply_url: "https://www.arcadiaimpact.org/alignment-programme-manager"
@@ -19,7 +19,7 @@ areas:
 <dt>Role type</dt><dd>Full-time</dd>
 <dt>Experience</dt><dd>Junior (1-4 years experience), Mid (5-9 years experience)</dd>
 <dt>Degree</dt><dd>Undergraduate degree or less</dd>
-<dt>Salary</dt><dd>$107,662 – $134,577</dd>
+<dt>Salary</dt><dd>$107,196 – $133,995</dd>
 </dl>
 
 **Areas & skills:** AI safety & policy, Outreach, Management, Strategy
@@ -34,4 +34,4 @@ areas:
 <p class="apply-cta"><a href="https://www.arcadiaimpact.org/alignment-programme-manager">Apply →</a></p>
 
 ---
-*Posted 2026-06-08 · Listing synced 2026-06-15 · 80k job ID `recInvjPMs6f2ZGJm`*
+*Posted 2026-06-08 · Listing synced 2026-06-16 · 80k job ID `recInvjPMs6f2ZGJm`*

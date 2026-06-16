@@ -2,7 +2,7 @@
 title: "Head of Community Engagement, San Francisco"
 employer: "Giving What We Can"
 job_id: "recCHVeLPzboswDin"
-last_updated: "2026-06-15T05:33:02.309250Z"
+last_updated: "2026-06-16T05:33:07.030390Z"
 posted_at: "2026-05-19T00:01:00Z"
 status: ready
 apply_url: "https://www.givingwhatwecan.org/head-of-community-us"
@@ -34,4 +34,4 @@ areas:
 <p class="apply-cta"><a href="https://www.givingwhatwecan.org/head-of-community-us">Apply →</a></p>
 
 ---
-*Posted 2026-05-19 · Listing synced 2026-06-15 · 80k job ID `recCHVeLPzboswDin`*
+*Posted 2026-05-19 · Listing synced 2026-06-16 · 80k job ID `recCHVeLPzboswDin`*

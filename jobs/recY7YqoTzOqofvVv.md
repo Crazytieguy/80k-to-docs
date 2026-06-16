@@ -2,7 +2,7 @@
 title: "Director, Federal Affairs"
 employer: "Encode"
 job_id: "recY7YqoTzOqofvVv"
-last_updated: "2026-06-15T05:32:22.872357Z"
+last_updated: "2026-06-16T05:32:30.952340Z"
 posted_at: "2026-06-11T00:05:00Z"
 status: ready
 apply_url: "https://encode-careers.vercel.app/federal-affairs"
@@ -17,7 +17,7 @@ areas:
 <dl class="job-meta">
 <dt>Location</dt><dd>Washington, DC metro area, USA</dd>
 <dt>Role type</dt><dd>Full-time</dd>
-<dt>Experience</dt><dd>Multiple experience levels</dd>
+<dt>Experience</dt><dd>Mid (5-9 years experience), Senior (10+ years experience)</dd>
 <dt>Degree</dt><dd>Undergraduate degree or less</dd>
 <dt>Salary</dt><dd>$175,000 – $210,000</dd>
 </dl>
@@ -34,4 +34,4 @@ areas:
 <p class="apply-cta"><a href="https://encode-careers.vercel.app/federal-affairs">Apply →</a></p>
 
 ---
-*Posted 2026-06-11 · Listing synced 2026-06-15 · 80k job ID `recY7YqoTzOqofvVv`*
+*Posted 2026-06-11 · Listing synced 2026-06-16 · 80k job ID `recY7YqoTzOqofvVv`*

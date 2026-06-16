@@ -2,7 +2,7 @@
 title: "Fellowship (Fall 2026)"
 employer: "Black in AI Safety & Ethics"
 job_id: "recJ3XExwvYp2o44c"
-last_updated: "2026-06-15T05:32:37.277295Z"
+last_updated: "2026-06-16T05:32:44.292251Z"
 posted_at: "2026-06-05T00:02:00Z"
 status: ready
 apply_url: "https://www.baseresearch.org/base-fellowship-f26"
@@ -33,4 +33,4 @@ areas:
 <p class="apply-cta"><a href="https://www.baseresearch.org/base-fellowship-f26">Apply →</a></p>
 
 ---
-*Posted 2026-06-05 · Listing synced 2026-06-15 · 80k job ID `recJ3XExwvYp2o44c`*
+*Posted 2026-06-05 · Listing synced 2026-06-16 · 80k job ID `recJ3XExwvYp2o44c`*

@@ -4,25 +4,20 @@ employer: "OpenAI"
 job_id: "recze5BK2oITZs7Ut"
 last_updated: "2026-06-15T05:33:10.374092Z"
 posted_at: "2026-05-12T00:00:00Z"
-status: ready
+status: closed
+closed_at: "2026-06-16"
 apply_url: "https://openai.com/careers/researcher-recursive-self-improvement-preparedness-san-francisco/"
 areas:
   - "AI safety & policy"
 ---
 
+> ⚠️ **CLOSED on 2026-06-16** — this job is no longer listed on the 80,000 Hours board. Archived snapshot below.
+
 # Researcher, Recursive Self-Improvement Preparedness
 
-**[OpenAI](https://openai.com/)**
+**OpenAI**
 
-<dl class="job-meta">
-<dt>Location</dt><dd>San Francisco Bay Area, USA</dd>
-<dt>Role type</dt><dd>Full-time</dd>
-<dt>Experience</dt><dd>Mid (5-9 years experience), Senior (10+ years experience)</dd>
-<dt>Degree</dt><dd>Undergraduate degree or less</dd>
-<dt>Salary</dt><dd>$295,000 – $445,000</dd>
-</dl>
-
-**Areas & skills:** AI safety & policy, Research, Strategy
+**Areas & skills:** AI safety & policy
 
 ## Summary
 - In this role, you'll support preparations for recursive self-improvement through technical research on future-focused problems.

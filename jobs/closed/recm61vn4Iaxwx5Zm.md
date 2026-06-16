@@ -4,25 +4,20 @@ employer: "Safe AI Germany"
 job_id: "recm61vn4Iaxwx5Zm"
 last_updated: "2026-06-15T05:32:53.973880Z"
 posted_at: "2026-05-25T00:02:00Z"
-status: ready
+status: closed
+closed_at: "2026-06-16"
 apply_url: "https://docs.google.com/document/d/1btRs4l_iBH34MbQ3LDy3LncrjPN9OWFQamkXRNbFmrI/edit?tab=t.0#heading=h.xegpabdmdlpv"
 areas:
   - "AI safety & policy"
 ---
 
+> ⚠️ **CLOSED on 2026-06-16** — this job is no longer listed on the 80,000 Hours board. Archived snapshot below.
+
 # Fellowship Manager
 
-**[Safe AI Germany](https://safeaigermany.org/)**
+**Safe AI Germany**
 
-<dl class="job-meta">
-<dt>Location</dt><dd>Berlin, Germany, Germany, Europe (ex UK)</dd>
-<dt>Role type</dt><dd>Full-time</dd>
-<dt>Experience</dt><dd>Junior (1-4 years experience)</dd>
-<dt>Degree</dt><dd>Undergraduate degree or less</dd>
-<dt>Salary</dt><dd>$58,092 – $81,329</dd>
-</dl>
-
-**Areas & skills:** AI safety & policy, Operations
+**Areas & skills:** AI safety & policy
 
 ## Summary
 - In this role, you'll lead the design and execution of SAIGE's inaugural residential fellowship in Berlin for emerging European AI safety researchers.

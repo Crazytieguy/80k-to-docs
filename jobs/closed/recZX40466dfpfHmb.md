@@ -4,24 +4,20 @@ employer: "Animal Legal Defense Fund"
 job_id: "recZX40466dfpfHmb"
 last_updated: "2026-06-15T05:33:14.777181Z"
 posted_at: "2026-05-05T00:00:00Z"
-status: ready
+status: closed
+closed_at: "2026-06-16"
 apply_url: "https://recruiting.paylocity.com/Recruiting/Jobs/Details/4020115"
 areas:
   - "Animal welfare"
 ---
 
+> ⚠️ **CLOSED on 2026-06-16** — this job is no longer listed on the 80,000 Hours board. Archived snapshot below.
+
 # Externship / Student Volunteer, Criminal Justice Program (Fall 2026 and Spring 2027)
 
-**[Animal Legal Defense Fund](https://aldf.org/)**
+**Animal Legal Defense Fund**
 
-<dl class="job-meta">
-<dt>Location</dt><dd>Remote, USA, USA</dd>
-<dt>Role type</dt><dd>Volunteering</dd>
-<dt>Experience</dt><dd>Entry-level</dd>
-<dt>Degree</dt><dd>Undergraduate degree or less</dd>
-</dl>
-
-**Areas & skills:** Animal welfare, Policy, Legal
+**Areas & skills:** Animal welfare
 
 ## Summary
 - In this externship, you'll conduct legal research and prepare written work products to advance animal protection within the criminal justice system.

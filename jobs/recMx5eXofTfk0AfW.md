@@ -2,7 +2,7 @@
 title: "Head of Communications"
 employer: "Evitable"
 job_id: "recMx5eXofTfk0AfW"
-last_updated: "2026-06-15T05:32:34.163129Z"
+last_updated: "2026-06-16T05:32:41.599789Z"
 posted_at: "2026-06-08T00:01:00Z"
 status: ready
 apply_url: "https://evitable.com/head-of-communications"
@@ -34,4 +34,4 @@ areas:
 <p class="apply-cta"><a href="https://evitable.com/head-of-communications">Apply →</a></p>
 
 ---
-*Posted 2026-06-08 · Listing synced 2026-06-15 · 80k job ID `recMx5eXofTfk0AfW`*
+*Posted 2026-06-08 · Listing synced 2026-06-16 · 80k job ID `recMx5eXofTfk0AfW`*

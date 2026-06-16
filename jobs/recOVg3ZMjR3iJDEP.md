@@ -2,7 +2,7 @@
 title: "Senior Research Engineer"
 employer: "Center for AI Safety"
 job_id: "recOVg3ZMjR3iJDEP"
-last_updated: "2026-06-15T05:33:28.323044Z"
+last_updated: "2026-06-16T05:33:31.660927Z"
 posted_at: "2026-04-01T00:04:06Z"
 status: ready
 apply_url: "https://jobs.lever.co/aisafety/e8167e84-8669-4644-961c-e5fd5b5f4318"
@@ -34,4 +34,4 @@ areas:
 <p class="apply-cta"><a href="https://jobs.lever.co/aisafety/e8167e84-8669-4644-961c-e5fd5b5f4318">Apply →</a></p>
 
 ---
-*Posted 2026-04-01 · Listing synced 2026-06-15 · 80k job ID `recOVg3ZMjR3iJDEP`*
+*Posted 2026-04-01 · Listing synced 2026-06-16 · 80k job ID `recOVg3ZMjR3iJDEP`*

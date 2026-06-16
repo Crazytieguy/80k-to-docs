@@ -2,10 +2,10 @@
 title: "Researcher, Integrated Analytics"
 employer: "University of Washington, Institute for Health Metrics and Evaluation"
 job_id: "reckmNnjbHKMQ76mV"
-last_updated: "2026-06-15T05:33:24.715738Z"
+last_updated: "2026-06-16T05:33:28.123604Z"
 posted_at: "2026-04-09T00:00:00Z"
 status: ready
-apply_url: "https://www.healthdata.org/about/careers/job-openings/researcher-temporary-integrated-analytics"
+apply_url: "https://www.healthdata.org/index%2Ephp/about/careers/job-openings/researcher-temporary-integrated-analytics"
 areas:
   - "Global health & development"
 ---
@@ -31,7 +31,7 @@ areas:
 - Lead discussions in research meetings to review and improve results with scientists and external collaborators.
 - Contribute to manuscripts, presentations, and funding proposals while coauthoring scientific publications.
 
-<p class="apply-cta"><a href="https://www.healthdata.org/about/careers/job-openings/researcher-temporary-integrated-analytics">Apply →</a></p>
+<p class="apply-cta"><a href="https://www.healthdata.org/index%2Ephp/about/careers/job-openings/researcher-temporary-integrated-analytics">Apply →</a></p>
 
 ---
-*Posted 2026-04-09 · Listing synced 2026-06-15 · 80k job ID `reckmNnjbHKMQ76mV`*
+*Posted 2026-04-09 · Listing synced 2026-06-16 · 80k job ID `reckmNnjbHKMQ76mV`*

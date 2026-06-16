@@ -4,24 +4,20 @@ employer: "Rackspace Technology"
 job_id: "recVSR7Q8yJhKQyyl"
 last_updated: "2026-06-15T05:32:50.975679Z"
 posted_at: "2026-05-28T00:00:00Z"
-status: ready
+status: closed
+closed_at: "2026-06-16"
 apply_url: "https://rackspace.wd1.myworkdayjobs.com/External/job/US-TX-San-Antonio-SAT8/Cyber---AI-Intern_R-23359?source=LinkedIn"
 areas:
   - "Career development: Technical"
 ---
 
+> ⚠️ **CLOSED on 2026-06-16** — this job is no longer listed on the 80,000 Hours board. Archived snapshot below.
+
 # Intern, Cyber and AI
 
-**[Rackspace Technology](https://www.rackspace.com/en-gb)**
+**Rackspace Technology**
 
-<dl class="job-meta">
-<dt>Location</dt><dd>San Antonio, TX, USA</dd>
-<dt>Role type</dt><dd>Internship</dd>
-<dt>Experience</dt><dd>Entry-level</dd>
-<dt>Degree</dt><dd>Undergraduate degree or less</dd>
-</dl>
-
-**Areas & skills:** Career development: Technical, Software engineering, Information security
+**Areas & skills:** Career development: Technical
 
 ## Summary
 - In this role, you'll apply AI and automation to improve security operations, building tools to reduce manual work and enhance detection capabilities.

@@ -2,7 +2,7 @@
 title: "Computational Biologist"
 employer: "Claryx"
 job_id: "recqRqqyDS958NhBs"
-last_updated: "2026-06-15T05:34:09.260314Z"
+last_updated: "2026-06-16T05:34:13.977687Z"
 posted_at: "2022-01-04T00:00:00Z"
 status: ready
 apply_url: "https://static1.squarespace.com/static/68924fd1cb448a62bf39f107/t/69436142fb12c57bdafe518c/1766023490793/Claryx+-+Computational+Biologist+Job+Description+%28Dec-25%29_vF.pdf"
@@ -34,4 +34,4 @@ areas:
 <p class="apply-cta"><a href="https://static1.squarespace.com/static/68924fd1cb448a62bf39f107/t/69436142fb12c57bdafe518c/1766023490793/Claryx+-+Computational+Biologist+Job+Description+%28Dec-25%29_vF.pdf">Apply →</a></p>
 
 ---
-*Posted 2022-01-04 · Listing synced 2026-06-15 · 80k job ID `recqRqqyDS958NhBs`*
+*Posted 2022-01-04 · Listing synced 2026-06-16 · 80k job ID `recqRqqyDS958NhBs`*

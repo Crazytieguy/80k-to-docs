@@ -2,7 +2,7 @@
 title: "Senior Nutrition Researcher"
 employer: "GiveWell"
 job_id: "recM9q2FpCFHS6MJx"
-last_updated: "2026-06-15T05:32:54.662768Z"
+last_updated: "2026-06-16T05:33:00.503058Z"
 posted_at: "2026-05-25T00:00:00Z"
 status: ready
 apply_url: "https://job-boards.greenhouse.io/givewell/jobs/5228750008"
@@ -34,4 +34,4 @@ areas:
 <p class="apply-cta"><a href="https://job-boards.greenhouse.io/givewell/jobs/5228750008">Apply →</a></p>
 
 ---
-*Posted 2026-05-25 · Listing synced 2026-06-15 · 80k job ID `recM9q2FpCFHS6MJx`*
+*Posted 2026-05-25 · Listing synced 2026-06-16 · 80k job ID `recM9q2FpCFHS6MJx`*
