@@ -2,7 +2,7 @@
 title: "Senior Malaria Researcher"
 employer: "GiveWell"
 job_id: "rec6H4bLpew9m6KzV"
-last_updated: "2026-06-16T05:33:48.653655Z"
+last_updated: "2026-06-17T05:34:37.326136Z"
 posted_at: "2022-01-07T00:00:00Z"
 status: ready
 apply_url: "https://job-boards.greenhouse.io/givewell/jobs/4255140008"
@@ -34,4 +34,4 @@ areas:
 <p class="apply-cta"><a href="https://job-boards.greenhouse.io/givewell/jobs/4255140008">Apply →</a></p>
 
 ---
-*Posted 2022-01-07 · Listing synced 2026-06-16 · 80k job ID `rec6H4bLpew9m6KzV`*
+*Posted 2022-01-07 · Listing synced 2026-06-17 · 80k job ID `rec6H4bLpew9m6KzV`*

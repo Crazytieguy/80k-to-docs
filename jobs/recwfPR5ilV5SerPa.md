@@ -2,22 +2,26 @@
 title: "Externship / Student Volunteer, Legislative Affairs Program (Fall 2026 and Spring 2027)"
 employer: "Animal Legal Defense Fund"
 job_id: "recwfPR5ilV5SerPa"
-last_updated: "2026-06-15T05:33:14.916289Z"
+last_updated: "2026-06-17T05:34:06.565630Z"
 posted_at: "2026-05-05T00:00:00Z"
-status: closed
-closed_at: "2026-06-16"
+status: ready
 apply_url: "https://recruiting.paylocity.com/Recruiting/Jobs/Details/4020084"
 areas:
   - "Animal welfare"
 ---
 
-> ⚠️ **CLOSED on 2026-06-16** — this job is no longer listed on the 80,000 Hours board. Archived snapshot below.
-
 # Externship / Student Volunteer, Legislative Affairs Program (Fall 2026 and Spring 2027)
 
-**Animal Legal Defense Fund**
+**[Animal Legal Defense Fund](https://aldf.org/)**
 
-**Areas & skills:** Animal welfare
+<dl class="job-meta">
+<dt>Location</dt><dd>Remote, USA, USA</dd>
+<dt>Role type</dt><dd>Volunteering</dd>
+<dt>Experience</dt><dd>Entry-level</dd>
+<dt>Degree</dt><dd>Undergraduate degree or less</dd>
+</dl>
+
+**Areas & skills:** Animal welfare, Policy
 
 ## Summary
 - In this externship, you'll support animal protection campaigns and legislative advocacy with the Animal Legal Defense Fund's Legislative Affairs team.
@@ -29,4 +33,4 @@ areas:
 <p class="apply-cta"><a href="https://recruiting.paylocity.com/Recruiting/Jobs/Details/4020084">Apply →</a></p>
 
 ---
-*Posted 2026-05-05 · Listing synced 2026-06-15 · 80k job ID `recwfPR5ilV5SerPa`*
+*Posted 2026-05-05 · Listing synced 2026-06-17 · 80k job ID `recwfPR5ilV5SerPa`*

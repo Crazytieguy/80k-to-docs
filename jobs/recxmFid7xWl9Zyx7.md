@@ -2,7 +2,7 @@
 title: "Operations and Communications Associate, Alignment Team"
 employer: "Arcadia Impact"
 job_id: "recxmFid7xWl9Zyx7"
-last_updated: "2026-06-16T05:32:41.111806Z"
+last_updated: "2026-06-17T05:33:30.212710Z"
 posted_at: "2026-06-08T00:02:00Z"
 status: ready
 apply_url: "https://www.arcadiaimpact.org/ops-and-comms-associate"
@@ -19,7 +19,7 @@ areas:
 <dt>Role type</dt><dd>Full-time</dd>
 <dt>Experience</dt><dd>Junior (1-4 years experience)</dd>
 <dt>Degree</dt><dd>Undergraduate degree or less</dd>
-<dt>Salary</dt><dd>$66,998 – $93,797</dd>
+<dt>Salary</dt><dd>$67,151 – $94,011</dd>
 </dl>
 
 **Areas & skills:** AI safety & policy, Outreach, Operations
@@ -34,4 +34,4 @@ areas:
 <p class="apply-cta"><a href="https://www.arcadiaimpact.org/ops-and-comms-associate">Apply →</a></p>
 
 ---
-*Posted 2026-06-08 · Listing synced 2026-06-16 · 80k job ID `recxmFid7xWl9Zyx7`*
+*Posted 2026-06-08 · Listing synced 2026-06-17 · 80k job ID `recxmFid7xWl9Zyx7`*

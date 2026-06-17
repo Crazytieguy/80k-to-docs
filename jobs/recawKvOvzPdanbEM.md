@@ -2,7 +2,7 @@
 title: "Legal Counsel"
 employer: "LawZero"
 job_id: "recawKvOvzPdanbEM"
-last_updated: "2026-06-16T05:33:23.988357Z"
+last_updated: "2026-06-17T05:34:12.808047Z"
 posted_at: "2026-04-17T00:00:00Z"
 status: ready
 apply_url: "https://job-boards.greenhouse.io/lawzero/jobs/4223904009"
@@ -33,4 +33,4 @@ areas:
 <p class="apply-cta"><a href="https://job-boards.greenhouse.io/lawzero/jobs/4223904009">Apply →</a></p>
 
 ---
-*Posted 2026-04-17 · Listing synced 2026-06-16 · 80k job ID `recawKvOvzPdanbEM`*
+*Posted 2026-04-17 · Listing synced 2026-06-17 · 80k job ID `recawKvOvzPdanbEM`*

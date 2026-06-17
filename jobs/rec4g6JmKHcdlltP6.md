@@ -2,7 +2,7 @@
 title: "Research Engineer, Societal Impacts"
 employer: "UK Government, AI Security Institute"
 job_id: "rec4g6JmKHcdlltP6"
-last_updated: "2026-06-16T05:33:12.873897Z"
+last_updated: "2026-06-17T05:33:59.621470Z"
 posted_at: "2026-05-13T00:04:32Z"
 status: ready
 apply_url: "https://job-boards.eu.greenhouse.io/aisi/jobs/4803652101"
@@ -19,7 +19,7 @@ areas:
 <dt>Role type</dt><dd>Full-time</dd>
 <dt>Experience</dt><dd>Junior (1-4 years experience)</dd>
 <dt>Degree</dt><dd>Undergraduate degree or less</dd>
-<dt>Salary</dt><dd>$87,097 – $194,293</dd>
+<dt>Salary</dt><dd>$87,296 – $194,738</dd>
 </dl>
 
 **Areas & skills:** AI safety & policy, Research, Software engineering
@@ -34,4 +34,4 @@ areas:
 <p class="apply-cta"><a href="https://job-boards.eu.greenhouse.io/aisi/jobs/4803652101">Apply →</a></p>
 
 ---
-*Posted 2026-05-13 · Listing synced 2026-06-16 · 80k job ID `rec4g6JmKHcdlltP6`*
+*Posted 2026-05-13 · Listing synced 2026-06-17 · 80k job ID `rec4g6JmKHcdlltP6`*

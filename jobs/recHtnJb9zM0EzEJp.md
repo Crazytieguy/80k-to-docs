@@ -2,7 +2,7 @@
 title: "AI Infrastructure Engineer, Events"
 employer: "Apart Research"
 job_id: "recHtnJb9zM0EzEJp"
-last_updated: "2026-06-16T05:33:10.856795Z"
+last_updated: "2026-06-17T05:33:58.193451Z"
 posted_at: "2026-05-14T00:04:27Z"
 status: ready
 apply_url: "https://careers.apartresearch.com/infra"
@@ -34,4 +34,4 @@ areas:
 <p class="apply-cta"><a href="https://careers.apartresearch.com/infra">Apply →</a></p>
 
 ---
-*Posted 2026-05-14 · Listing synced 2026-06-16 · 80k job ID `recHtnJb9zM0EzEJp`*
+*Posted 2026-05-14 · Listing synced 2026-06-17 · 80k job ID `recHtnJb9zM0EzEJp`*

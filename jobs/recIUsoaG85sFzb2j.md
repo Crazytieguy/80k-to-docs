@@ -2,7 +2,7 @@
 title: "Program Assistant, Bangladesh"
 employer: "Pure Earth"
 job_id: "recIUsoaG85sFzb2j"
-last_updated: "2026-06-16T05:32:51.533684Z"
+last_updated: "2026-06-17T05:33:40.119189Z"
 posted_at: "2026-06-02T00:00:00Z"
 status: ready
 apply_url: "https://www.pureearth.org/wp-content/uploads/2026/05/Program-Assistant-Job-Description-BD.pdf"
@@ -19,7 +19,7 @@ areas:
 <dt>Role type</dt><dd>Full-time</dd>
 <dt>Experience</dt><dd>Junior (1-4 years experience)</dd>
 <dt>Degree</dt><dd>Undergraduate degree or less</dd>
-<dt>Salary</dt><dd>$5,861</dd>
+<dt>Salary</dt><dd>$5,857</dd>
 </dl>
 
 **Areas & skills:** Global health & development, Operations
@@ -34,4 +34,4 @@ areas:
 <p class="apply-cta"><a href="https://www.pureearth.org/wp-content/uploads/2026/05/Program-Assistant-Job-Description-BD.pdf">Apply →</a></p>
 
 ---
-*Posted 2026-06-02 · Listing synced 2026-06-16 · 80k job ID `recIUsoaG85sFzb2j`*
+*Posted 2026-06-02 · Listing synced 2026-06-17 · 80k job ID `recIUsoaG85sFzb2j`*

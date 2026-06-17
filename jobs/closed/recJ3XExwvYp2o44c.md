@@ -4,24 +4,20 @@ employer: "Black in AI Safety & Ethics"
 job_id: "recJ3XExwvYp2o44c"
 last_updated: "2026-06-16T05:32:44.292251Z"
 posted_at: "2026-06-05T00:02:00Z"
-status: ready
+status: closed
+closed_at: "2026-06-17"
 apply_url: "https://www.baseresearch.org/base-fellowship-f26"
 areas:
   - "AI safety & policy"
 ---
 
+> ⚠️ **CLOSED on 2026-06-17** — this job is no longer listed on the 80,000 Hours board. Archived snapshot below.
+
 # Fellowship (Fall 2026)
 
-**[Black in AI Safety & Ethics](https://www.baseresearch.org/)**
+**Black in AI Safety & Ethics**
 
-<dl class="job-meta">
-<dt>Location</dt><dd>Remote, Global</dd>
-<dt>Role type</dt><dd>Fellowship</dd>
-<dt>Experience</dt><dd>Entry-level</dd>
-<dt>Degree</dt><dd>Undergraduate degree or less</dd>
-</dl>
-
-**Areas & skills:** AI safety & policy, Research
+**Areas & skills:** AI safety & policy
 
 ## Summary
 - In this fellowship, you'll develop expertise in AI Safety, Security, or Governance through a 13-week remote program combining foundational training and hands-on research.

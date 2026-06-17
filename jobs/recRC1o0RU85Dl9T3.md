@@ -2,7 +2,7 @@
 title: "Member of Technical Staff, Security / Engineering / Research"
 employer: "SL5 Task Force"
 job_id: "recRC1o0RU85Dl9T3"
-last_updated: "2026-06-16T05:32:59.959566Z"
+last_updated: "2026-06-17T05:33:48.657586Z"
 posted_at: "2026-05-25T00:02:00Z"
 status: ready
 apply_url: "https://sl5.org/careers"
@@ -34,4 +34,4 @@ areas:
 <p class="apply-cta"><a href="https://sl5.org/careers">Apply →</a></p>
 
 ---
-*Posted 2026-05-25 · Listing synced 2026-06-16 · 80k job ID `recRC1o0RU85Dl9T3`*
+*Posted 2026-05-25 · Listing synced 2026-06-17 · 80k job ID `recRC1o0RU85Dl9T3`*

@@ -2,7 +2,7 @@
 title: "Intern, Center for China Analysis, Domestic Politics"
 employer: "Asia Society Policy Institute"
 job_id: "recsRJGk6UtPldcra"
-last_updated: "2026-06-16T05:33:17.473563Z"
+last_updated: "2026-06-17T05:34:03.709341Z"
 posted_at: "2026-05-06T00:00:00Z"
 status: ready
 apply_url: "https://asiasociety.org/policy-institute/intern-asia-society-policy-institute-center-china-analysis-domestic-politics"
@@ -34,4 +34,4 @@ areas:
 <p class="apply-cta"><a href="https://asiasociety.org/policy-institute/intern-asia-society-policy-institute-center-china-analysis-domestic-politics">Apply →</a></p>
 
 ---
-*Posted 2026-05-06 · Listing synced 2026-06-16 · 80k job ID `recsRJGk6UtPldcra`*
+*Posted 2026-05-06 · Listing synced 2026-06-17 · 80k job ID `recsRJGk6UtPldcra`*

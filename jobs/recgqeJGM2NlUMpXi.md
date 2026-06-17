@@ -2,7 +2,7 @@
 title: "Senior Epidemiologist"
 employer: "Coalition for Epidemic Preparedness Innovations"
 job_id: "recgqeJGM2NlUMpXi"
-last_updated: "2026-06-16T05:32:42.265707Z"
+last_updated: "2026-06-17T05:33:31.364198Z"
 posted_at: "2026-06-08T00:00:00Z"
 status: ready
 apply_url: "https://cepi.my.salesforce-sites.com/careers/xcdrecruit__PositionDetails?id=a43P300000F514UIAR"
@@ -32,4 +32,4 @@ areas:
 <p class="apply-cta"><a href="https://cepi.my.salesforce-sites.com/careers/xcdrecruit__PositionDetails?id=a43P300000F514UIAR">Apply →</a></p>
 
 ---
-*Posted 2026-06-08 · Listing synced 2026-06-16 · 80k job ID `recgqeJGM2NlUMpXi`*
+*Posted 2026-06-08 · Listing synced 2026-06-17 · 80k job ID `recgqeJGM2NlUMpXi`*

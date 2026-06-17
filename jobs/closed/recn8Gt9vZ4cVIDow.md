@@ -4,24 +4,20 @@ employer: "Coefficient Giving"
 job_id: "recn8Gt9vZ4cVIDow"
 last_updated: "2026-06-16T05:33:14.078445Z"
 posted_at: "2026-05-12T00:04:56Z"
-status: ready
+status: closed
+closed_at: "2026-06-17"
 apply_url: "https://coefficientgiving.org/funds/navigating-transformative-ai/navigators-incubator/"
 areas:
   - "AI safety & policy"
 ---
 
+> ⚠️ **CLOSED on 2026-06-17** — this job is no longer listed on the 80,000 Hours board. Archived snapshot below.
+
 # Navigators Incubator, AI Security
 
-**[Coefficient Giving](https://coefficientgiving.org/)**
+**Coefficient Giving**
 
-<dl class="job-meta">
-<dt>Location</dt><dd>London, UK, Washington, DC metro area, San Francisco Bay Area, Remote, Global, Tel Aviv, Israel, UK, USA, Middle-East, Israel</dd>
-<dt>Role type</dt><dd>Funding</dd>
-<dt>Experience</dt><dd>Multiple experience levels</dd>
-<dt>Degree</dt><dd>Undergraduate degree or less</dd>
-</dl>
-
-**Areas & skills:** AI safety & policy, Research, Information security, Strategy
+**Areas & skills:** AI safety & policy
 
 ## Summary
 - A leadership incubator for people who want to solve key problems in catastrophic risk, with a focus on AI security.

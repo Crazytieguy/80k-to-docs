@@ -2,7 +2,7 @@
 title: "Research Scientist / Engineer, Science of Scheming"
 employer: "Apollo Research"
 job_id: "recEp6gy7LHwuLJLe"
-last_updated: "2026-06-16T05:33:52.606687Z"
+last_updated: "2026-06-17T05:34:40.929149Z"
 posted_at: "2022-01-06T00:00:00Z"
 status: ready
 apply_url: "https://jobs.lever.co/apolloresearch/271eb45a-3aa9-42bb-8686-9cd1fc5e377e"
@@ -19,7 +19,7 @@ areas:
 <dt>Role type</dt><dd>Full-time</dd>
 <dt>Experience</dt><dd>Junior (1-4 years experience), Mid (5-9 years experience)</dd>
 <dt>Degree</dt><dd>Undergraduate degree or less</dd>
-<dt>Salary</dt><dd>$133,995 – $267,991</dd>
+<dt>Salary</dt><dd>$134,302 – $268,604</dd>
 </dl>
 
 **Areas & skills:** AI safety & policy, Research, Software engineering
@@ -34,4 +34,4 @@ areas:
 <p class="apply-cta"><a href="https://jobs.lever.co/apolloresearch/271eb45a-3aa9-42bb-8686-9cd1fc5e377e">Apply →</a></p>
 
 ---
-*Posted 2022-01-06 · Listing synced 2026-06-16 · 80k job ID `recEp6gy7LHwuLJLe`*
+*Posted 2022-01-06 · Listing synced 2026-06-17 · 80k job ID `recEp6gy7LHwuLJLe`*

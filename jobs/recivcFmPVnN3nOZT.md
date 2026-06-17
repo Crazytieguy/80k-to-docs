@@ -2,7 +2,7 @@
 title: "Researcher, AI Security and Privacy"
 employer: "University of South-Eastern Norway"
 job_id: "recivcFmPVnN3nOZT"
-last_updated: "2026-06-16T05:32:39.318554Z"
+last_updated: "2026-06-17T05:33:29.215078Z"
 posted_at: "2026-06-09T00:00:00Z"
 status: ready
 apply_url: "https://ellis.eu/research/jobs/2026-06-26-researcher-in-ai-security-and-privacy"
@@ -19,7 +19,7 @@ areas:
 <dt>Role type</dt><dd>Full-time</dd>
 <dt>Experience</dt><dd>Junior (1-4 years experience)</dd>
 <dt>Degree</dt><dd>Doctoral degree</dd>
-<dt>Salary</dt><dd>$69,403 – $89,916</dd>
+<dt>Salary</dt><dd>$70,089 – $90,805</dd>
 </dl>
 
 **Areas & skills:** AI safety & policy, Research, Information security
@@ -34,4 +34,4 @@ areas:
 <p class="apply-cta"><a href="https://ellis.eu/research/jobs/2026-06-26-researcher-in-ai-security-and-privacy">Apply →</a></p>
 
 ---
-*Posted 2026-06-09 · Listing synced 2026-06-16 · 80k job ID `recivcFmPVnN3nOZT`*
+*Posted 2026-06-09 · Listing synced 2026-06-17 · 80k job ID `recivcFmPVnN3nOZT`*
