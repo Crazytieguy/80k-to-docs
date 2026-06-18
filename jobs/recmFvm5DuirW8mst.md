@@ -2,7 +2,7 @@
 title: "Audacious Project"
 employer: "The Audacious Project"
 job_id: "recmFvm5DuirW8mst"
-last_updated: "2026-06-17T05:35:24.532808Z"
+last_updated: "2026-06-18T05:34:00.995182Z"
 posted_at: "2022-01-01T00:00:00Z"
 status: ready
 apply_url: "https://www.audaciousproject.org/apply"
@@ -34,4 +34,4 @@ areas:
 <p class="apply-cta"><a href="https://www.audaciousproject.org/apply">Apply →</a></p>
 
 ---
-*Posted 2022-01-01 · Listing synced 2026-06-17 · 80k job ID `recmFvm5DuirW8mst`*
+*Posted 2022-01-01 · Listing synced 2026-06-18 · 80k job ID `recmFvm5DuirW8mst`*

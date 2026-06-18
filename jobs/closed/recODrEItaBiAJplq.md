@@ -4,25 +4,20 @@ employer: "United Nations University"
 job_id: "recODrEItaBiAJplq"
 last_updated: "2026-06-17T05:33:35.139118Z"
 posted_at: "2026-06-05T00:00:00Z"
-status: ready
+status: closed
+closed_at: "2026-06-18"
 apply_url: "https://careers.unu.edu/o/science-policy-visiting-fellow-bwc"
 areas:
   - "Biosecurity & pandemic preparedness"
 ---
 
+> ⚠️ **CLOSED on 2026-06-18** — this job is no longer listed on the 80,000 Hours board. Archived snapshot below.
+
 # Science-Policy Visiting Fellow, Emerging Technology and Verification Processes
 
-**[United Nations University](https://unu.edu/)**
+**United Nations University**
 
-<dl class="job-meta">
-<dt>Location</dt><dd>Geneva, Switzerland, Switzerland, Europe (ex UK)</dd>
-<dt>Role type</dt><dd>Fellowship</dd>
-<dt>Experience</dt><dd>Junior (1-4 years experience)</dd>
-<dt>Degree</dt><dd>Doctoral degree</dd>
-<dt>Salary</dt><dd>$83,340</dd>
-</dl>
-
-**Areas & skills:** Biosecurity & pandemic preparedness, Research, Policy
+**Areas & skills:** Biosecurity & pandemic preparedness
 
 ## Summary
 - In this role, you'll research how emerging technologies could enhance compliance and verification for the Biological Weapons Convention.

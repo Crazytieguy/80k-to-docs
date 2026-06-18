@@ -4,25 +4,20 @@ employer: "US Government, Executive Office of the President"
 job_id: "recpGrHiSizUYFDo2"
 last_updated: "2026-06-17T05:33:37.659904Z"
 posted_at: "2026-06-04T00:00:00Z"
-status: ready
+status: closed
+closed_at: "2026-06-18"
 apply_url: "https://www.usajobs.gov/job/871491600"
 areas:
   - "Career development: Policy & government"
 ---
 
+> ⚠️ **CLOSED on 2026-06-18** — this job is no longer listed on the 80,000 Hours board. Archived snapshot below.
+
 # Legislative Analyst
 
-**[US Government, Executive Office of the President](https://www.whitehouse.gov/administration/executive-office-of-the-president/)**
+**US Government, Executive Office of the President**
 
-<dl class="job-meta">
-<dt>Location</dt><dd>Washington, DC metro area, USA</dd>
-<dt>Role type</dt><dd>Full-time</dd>
-<dt>Experience</dt><dd>Mid (5-9 years experience), Senior (10+ years experience)</dd>
-<dt>Degree</dt><dd>Undergraduate degree or less</dd>
-<dt>Salary</dt><dd>$102,415 – $187,093</dd>
-</dl>
-
-**Areas & skills:** Career development: Policy & government, Policy
+**Areas & skills:** Career development: Policy & government
 
 ## Summary
 - In this role, you will carry out the office's legislative oversight functions covering a broad range of government programs and activities.

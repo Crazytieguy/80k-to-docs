@@ -2,7 +2,7 @@
 title: "Senior Software Engineer, Full Stack"
 employer: "Ginkgo Bioworks"
 job_id: "recbUXTb9zb1nj7Ob"
-last_updated: "2026-06-17T05:35:02.633947Z"
+last_updated: "2026-06-18T05:33:40.406420Z"
 posted_at: "2022-01-03T00:00:00Z"
 status: ready
 apply_url: "https://job-boards.greenhouse.io/ginkgobioworks/jobs/5047518007"
@@ -34,4 +34,4 @@ areas:
 <p class="apply-cta"><a href="https://job-boards.greenhouse.io/ginkgobioworks/jobs/5047518007">Apply →</a></p>
 
 ---
-*Posted 2022-01-03 · Listing synced 2026-06-17 · 80k job ID `recbUXTb9zb1nj7Ob`*
+*Posted 2022-01-03 · Listing synced 2026-06-18 · 80k job ID `recbUXTb9zb1nj7Ob`*

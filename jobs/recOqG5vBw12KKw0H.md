@@ -2,7 +2,7 @@
 title: "AI Postdoctoral Research Fellow"
 employer: "Princeton University, Laboratory for Artificial Intelligence"
 job_id: "recOqG5vBw12KKw0H"
-last_updated: "2026-06-17T05:33:39.984882Z"
+last_updated: "2026-06-18T05:32:17.515778Z"
 posted_at: "2026-06-02T00:00:00Z"
 status: ready
 apply_url: "https://apply.interfolio.com/187001"
@@ -34,4 +34,4 @@ areas:
 <p class="apply-cta"><a href="https://apply.interfolio.com/187001">Apply →</a></p>
 
 ---
-*Posted 2026-06-02 · Listing synced 2026-06-17 · 80k job ID `recOqG5vBw12KKw0H`*
+*Posted 2026-06-02 · Listing synced 2026-06-18 · 80k job ID `recOqG5vBw12KKw0H`*

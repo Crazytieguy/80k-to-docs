@@ -2,7 +2,7 @@
 title: "Legal and Compliance Manager"
 employer: "Apollo Research"
 job_id: "reckB7645Y1urc1am"
-last_updated: "2026-06-17T05:34:52.535662Z"
+last_updated: "2026-06-18T05:33:30.901878Z"
 posted_at: "2022-01-05T00:00:00Z"
 status: ready
 apply_url: "https://jobs.lever.co/apolloresearch/ca84c815-fb72-4694-8de8-535899b28c9f"
@@ -19,7 +19,7 @@ areas:
 <dt>Role type</dt><dd>Full-time</dd>
 <dt>Experience</dt><dd>Mid (5-9 years experience), Senior (10+ years experience)</dd>
 <dt>Degree</dt><dd>Undergraduate degree or less</dd>
-<dt>Salary</dt><dd>$134,302 – $201,453</dd>
+<dt>Salary</dt><dd>$133,080 – $199,621</dd>
 </dl>
 
 **Areas & skills:** AI safety & policy, Legal
@@ -34,4 +34,4 @@ areas:
 <p class="apply-cta"><a href="https://jobs.lever.co/apolloresearch/ca84c815-fb72-4694-8de8-535899b28c9f">Apply →</a></p>
 
 ---
-*Posted 2022-01-05 · Listing synced 2026-06-17 · 80k job ID `reckB7645Y1urc1am`*
+*Posted 2022-01-05 · Listing synced 2026-06-18 · 80k job ID `reckB7645Y1urc1am`*

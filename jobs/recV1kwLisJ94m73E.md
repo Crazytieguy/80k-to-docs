@@ -2,7 +2,7 @@
 title: "OpenAI Cybersecurity Grant Program"
 employer: "OpenAI"
 job_id: "recV1kwLisJ94m73E"
-last_updated: "2026-06-17T05:33:23.489324Z"
+last_updated: "2026-06-18T05:32:01.147600Z"
 posted_at: "2026-06-11T00:00:00Z"
 status: ready
 apply_url: "https://openai.com/blog/openai-cybersecurity-grant-program"
@@ -33,4 +33,4 @@ areas:
 <p class="apply-cta"><a href="https://openai.com/blog/openai-cybersecurity-grant-program">Apply →</a></p>
 
 ---
-*Posted 2026-06-11 · Listing synced 2026-06-17 · 80k job ID `recV1kwLisJ94m73E`*
+*Posted 2026-06-11 · Listing synced 2026-06-18 · 80k job ID `recV1kwLisJ94m73E`*

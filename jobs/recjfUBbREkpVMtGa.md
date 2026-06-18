@@ -2,7 +2,7 @@
 title: "eLearning Course, EU Non-Proliferation and Disarmament"
 employer: "Peace Research Institute Frankfurt"
 job_id: "recjfUBbREkpVMtGa"
-last_updated: "2026-06-17T05:33:45.893423Z"
+last_updated: "2026-06-18T05:32:24.397200Z"
 posted_at: "2026-05-28T00:00:00Z"
 status: ready
 apply_url: "https://nonproliferation-elearning.eu/"
@@ -31,4 +31,4 @@ areas:
 <p class="apply-cta"><a href="https://nonproliferation-elearning.eu/">Apply →</a></p>
 
 ---
-*Posted 2026-05-28 · Listing synced 2026-06-17 · 80k job ID `recjfUBbREkpVMtGa`*
+*Posted 2026-05-28 · Listing synced 2026-06-18 · 80k job ID `recjfUBbREkpVMtGa`*

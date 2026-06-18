@@ -2,7 +2,7 @@
 title: "Senior Operations Manager"
 employer: "Encode"
 job_id: "recY5obdJtsXEBxEj"
-last_updated: "2026-06-17T05:33:20.996247Z"
+last_updated: "2026-06-18T05:31:58.744018Z"
 posted_at: "2026-06-11T00:05:00Z"
 status: ready
 apply_url: "https://encode-careers.vercel.app/senior-operations-manager"
@@ -34,4 +34,4 @@ areas:
 <p class="apply-cta"><a href="https://encode-careers.vercel.app/senior-operations-manager">Apply →</a></p>
 
 ---
-*Posted 2026-06-11 · Listing synced 2026-06-17 · 80k job ID `recY5obdJtsXEBxEj`*
+*Posted 2026-06-11 · Listing synced 2026-06-18 · 80k job ID `recY5obdJtsXEBxEj`*

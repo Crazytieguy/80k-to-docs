@@ -2,7 +2,7 @@
 title: "Undergraduate Intern, Software Developer (Spring 2027)"
 employer: "Blue Origin"
 job_id: "recVGB3nsldTQMs68"
-last_updated: "2026-06-17T05:33:19.565947Z"
+last_updated: "2026-06-18T05:31:57.289395Z"
 posted_at: "2026-06-12T00:00:00Z"
 status: ready
 apply_url: "https://blueorigin.wd5.myworkdayjobs.com/BlueOrigin/job/Greater-Seattle-Area/Spring-2027--Software-Developer-Internship---Undergraduate_R66216"
@@ -34,4 +34,4 @@ areas:
 <p class="apply-cta"><a href="https://blueorigin.wd5.myworkdayjobs.com/BlueOrigin/job/Greater-Seattle-Area/Spring-2027--Software-Developer-Internship---Undergraduate_R66216">Apply →</a></p>
 
 ---
-*Posted 2026-06-12 · Listing synced 2026-06-17 · 80k job ID `recVGB3nsldTQMs68`*
+*Posted 2026-06-12 · Listing synced 2026-06-18 · 80k job ID `recVGB3nsldTQMs68`*

@@ -2,7 +2,7 @@
 title: "Research Manager / Research Managers, AIxCyber"
 employer: "ERA"
 job_id: "reclHr9NkXaUq3mI1"
-last_updated: "2026-06-17T05:33:23.894091Z"
+last_updated: "2026-06-18T05:32:01.562336Z"
 posted_at: "2026-06-10T00:05:00Z"
 status: ready
 apply_url: "https://docs.google.com/document/d/146aHIPBkHSCQiIb4IYXHO9SrM4uPE5QTUcj58gMyTjY/edit?tab=t.0#heading=h.tpq2eg5mx4yb"
@@ -19,7 +19,7 @@ areas:
 <dt>Role type</dt><dd>Full-time</dd>
 <dt>Experience</dt><dd>Mid (5-9 years experience)</dd>
 <dt>Degree</dt><dd>Undergraduate degree or less</dd>
-<dt>Salary</dt><dd>$83,267 – $100,726</dd>
+<dt>Salary</dt><dd>$82,510 – $99,810</dd>
 </dl>
 
 **Areas & skills:** AI safety & policy, Information security, Management, Strategy
@@ -34,4 +34,4 @@ areas:
 <p class="apply-cta"><a href="https://docs.google.com/document/d/146aHIPBkHSCQiIb4IYXHO9SrM4uPE5QTUcj58gMyTjY/edit?tab=t.0#heading=h.tpq2eg5mx4yb">Apply →</a></p>
 
 ---
-*Posted 2026-06-10 · Listing synced 2026-06-17 · 80k job ID `reclHr9NkXaUq3mI1`*
+*Posted 2026-06-10 · Listing synced 2026-06-18 · 80k job ID `reclHr9NkXaUq3mI1`*

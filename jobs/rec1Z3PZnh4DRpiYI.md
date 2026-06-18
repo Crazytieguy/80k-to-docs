@@ -2,7 +2,7 @@
 title: "Request for Proposals, Research Assistant"
 employer: "Pax Sapiens"
 job_id: "rec1Z3PZnh4DRpiYI"
-last_updated: "2026-06-17T05:33:39.856392Z"
+last_updated: "2026-06-18T05:32:17.379667Z"
 posted_at: "2026-06-02T00:00:00Z"
 status: ready
 apply_url: "https://paxsapiens.bamboohr.com/careers/55"
@@ -34,4 +34,4 @@ areas:
 <p class="apply-cta"><a href="https://paxsapiens.bamboohr.com/careers/55">Apply →</a></p>
 
 ---
-*Posted 2026-06-02 · Listing synced 2026-06-17 · 80k job ID `rec1Z3PZnh4DRpiYI`*
+*Posted 2026-06-02 · Listing synced 2026-06-18 · 80k job ID `rec1Z3PZnh4DRpiYI`*

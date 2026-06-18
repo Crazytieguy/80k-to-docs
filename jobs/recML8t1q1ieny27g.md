@@ -2,7 +2,7 @@
 title: "Manager, Transformational Giving Strategy"
 employer: "Mercy for Animals"
 job_id: "recML8t1q1ieny27g"
-last_updated: "2026-06-17T05:33:34.527479Z"
+last_updated: "2026-06-18T05:32:12.416184Z"
 posted_at: "2026-06-05T00:00:00Z"
 status: ready
 apply_url: "https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=9b16364c-5e0e-4e66-be82-8f108b1eb279&ccId=19000101_000001&jobId=552902&lang=en_US&source=LR"
@@ -34,4 +34,4 @@ areas:
 <p class="apply-cta"><a href="https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=9b16364c-5e0e-4e66-be82-8f108b1eb279&amp;ccId=19000101_000001&amp;jobId=552902&amp;lang=en_US&amp;source=LR">Apply →</a></p>
 
 ---
-*Posted 2026-06-05 · Listing synced 2026-06-17 · 80k job ID `recML8t1q1ieny27g`*
+*Posted 2026-06-05 · Listing synced 2026-06-18 · 80k job ID `recML8t1q1ieny27g`*

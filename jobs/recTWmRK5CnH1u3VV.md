@@ -2,7 +2,7 @@
 title: "Lead Organiser"
 employer: "Effective Altruism San Francisco"
 job_id: "recTWmRK5CnH1u3VV"
-last_updated: "2026-06-17T05:35:08.591805Z"
+last_updated: "2026-06-18T05:33:45.595708Z"
 posted_at: "2022-01-02T00:00:00Z"
 status: ready
 apply_url: "https://forum.effectivealtruism.org/posts/mQoq3RXtwhgNwLBGN/ea-san-francisco-needs-a-new-lead-organizer"
@@ -33,4 +33,4 @@ areas:
 <p class="apply-cta"><a href="https://forum.effectivealtruism.org/posts/mQoq3RXtwhgNwLBGN/ea-san-francisco-needs-a-new-lead-organizer">Apply →</a></p>
 
 ---
-*Posted 2022-01-02 · Listing synced 2026-06-17 · 80k job ID `recTWmRK5CnH1u3VV`*
+*Posted 2022-01-02 · Listing synced 2026-06-18 · 80k job ID `recTWmRK5CnH1u3VV`*

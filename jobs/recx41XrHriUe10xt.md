@@ -2,7 +2,7 @@
 title: "Internship, Artificial Intelligence Research (Fall 2026)"
 employer: "Partnership for Public Service"
 job_id: "recx41XrHriUe10xt"
-last_updated: "2026-06-17T05:33:23.627280Z"
+last_updated: "2026-06-18T05:32:01.293782Z"
 posted_at: "2026-06-11T00:00:00Z"
 status: ready
 apply_url: "https://job-boards.greenhouse.io/partnershipforpublicservice/jobs/4281590009"
@@ -34,4 +34,4 @@ areas:
 <p class="apply-cta"><a href="https://job-boards.greenhouse.io/partnershipforpublicservice/jobs/4281590009">Apply →</a></p>
 
 ---
-*Posted 2026-06-11 · Listing synced 2026-06-17 · 80k job ID `recx41XrHriUe10xt`*
+*Posted 2026-06-11 · Listing synced 2026-06-18 · 80k job ID `recx41XrHriUe10xt`*

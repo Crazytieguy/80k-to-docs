@@ -2,7 +2,7 @@
 title: "Principal, Special Projects"
 employer: "Center for AI Safety"
 job_id: "rec5uiAFtb0uqt3mv"
-last_updated: "2026-06-17T05:34:28.720182Z"
+last_updated: "2026-06-18T05:33:05.647588Z"
 posted_at: "2022-01-11T00:00:00Z"
 status: ready
 apply_url: "https://jobs.lever.co/aisafety/1d294768-31cd-4d00-a238-a3eded93c695"
@@ -34,4 +34,4 @@ areas:
 <p class="apply-cta"><a href="https://jobs.lever.co/aisafety/1d294768-31cd-4d00-a238-a3eded93c695">Apply →</a></p>
 
 ---
-*Posted 2022-01-11 · Listing synced 2026-06-17 · 80k job ID `rec5uiAFtb0uqt3mv`*
+*Posted 2022-01-11 · Listing synced 2026-06-18 · 80k job ID `rec5uiAFtb0uqt3mv`*

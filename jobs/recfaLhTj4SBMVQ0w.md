@@ -2,7 +2,7 @@
 title: "Member of Technical Staff, Forward Deployed Engineer"
 employer: "Valthos"
 job_id: "recfaLhTj4SBMVQ0w"
-last_updated: "2026-06-17T05:34:20.268047Z"
+last_updated: "2026-06-18T05:32:56.598583Z"
 posted_at: "2026-04-02T00:03:00Z"
 status: ready
 apply_url: "https://jobs.ashbyhq.com/valthos/6f460b05-94b1-457a-ac7d-17af48425ca2"
@@ -34,4 +34,4 @@ areas:
 <p class="apply-cta"><a href="https://jobs.ashbyhq.com/valthos/6f460b05-94b1-457a-ac7d-17af48425ca2">Apply →</a></p>
 
 ---
-*Posted 2026-04-02 · Listing synced 2026-06-17 · 80k job ID `recfaLhTj4SBMVQ0w`*
+*Posted 2026-04-02 · Listing synced 2026-06-18 · 80k job ID `recfaLhTj4SBMVQ0w`*

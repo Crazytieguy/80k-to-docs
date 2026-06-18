@@ -2,7 +2,7 @@
 title: "Postdoctoral Researcher, Technology and Regulation"
 employer: "Hasso Plattner Institute"
 job_id: "recqCZrG1fm3dQlan"
-last_updated: "2026-06-17T05:34:01.761164Z"
+last_updated: "2026-06-18T05:32:40.561098Z"
 posted_at: "2026-05-11T00:01:00Z"
 status: ready
 apply_url: "https://jobs.plattnerfoundation.org/HPI/job/Potsdam-Postdoctoral-Researcher-%28mfx%29-in-Technology-and-Regulation-14482/1351473055/"
@@ -33,4 +33,4 @@ areas:
 <p class="apply-cta"><a href="https://jobs.plattnerfoundation.org/HPI/job/Potsdam-Postdoctoral-Researcher-%28mfx%29-in-Technology-and-Regulation-14482/1351473055/">Apply →</a></p>
 
 ---
-*Posted 2026-05-11 · Listing synced 2026-06-17 · 80k job ID `recqCZrG1fm3dQlan`*
+*Posted 2026-05-11 · Listing synced 2026-06-18 · 80k job ID `recqCZrG1fm3dQlan`*

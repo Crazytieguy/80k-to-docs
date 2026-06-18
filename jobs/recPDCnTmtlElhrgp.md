@@ -2,7 +2,7 @@
 title: "Technical Program Manager, Security"
 employer: "Anthropic"
 job_id: "recPDCnTmtlElhrgp"
-last_updated: "2026-06-17T05:34:26.550315Z"
+last_updated: "2026-06-18T05:33:03.551461Z"
 posted_at: "2022-01-11T00:00:00Z"
 status: ready
 apply_url: "https://job-boards.greenhouse.io/anthropic/jobs/4989788008"
@@ -33,4 +33,4 @@ areas:
 <p class="apply-cta"><a href="https://job-boards.greenhouse.io/anthropic/jobs/4989788008">Apply →</a></p>
 
 ---
-*Posted 2022-01-11 · Listing synced 2026-06-17 · 80k job ID `recPDCnTmtlElhrgp`*
+*Posted 2022-01-11 · Listing synced 2026-06-18 · 80k job ID `recPDCnTmtlElhrgp`*

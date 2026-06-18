@@ -2,7 +2,7 @@
 title: "Lean Proof Contractor"
 employer: "Dovetail"
 job_id: "recTaKimv4XNMiqLl"
-last_updated: "2026-06-17T05:34:12.674857Z"
+last_updated: "2026-06-18T05:32:49.631967Z"
 posted_at: "2026-04-20T00:00:00Z"
 status: ready
 apply_url: "https://dovetailresearch.org/jobs/798cc873-2e07-4716-9c5a-5cbc32992c03/lean-prover"
@@ -19,7 +19,7 @@ areas:
 <dt>Role type</dt><dd>Full-time</dd>
 <dt>Experience</dt><dd>Junior (1-4 years experience)</dd>
 <dt>Degree</dt><dd>Undergraduate degree or less</dd>
-<dt>Salary</dt><dd>$139,674</dd>
+<dt>Salary</dt><dd>$138,404</dd>
 </dl>
 
 **Areas & skills:** AI safety & policy, Research
@@ -34,4 +34,4 @@ areas:
 <p class="apply-cta"><a href="https://dovetailresearch.org/jobs/798cc873-2e07-4716-9c5a-5cbc32992c03/lean-prover">Apply →</a></p>
 
 ---
-*Posted 2026-04-20 · Listing synced 2026-06-17 · 80k job ID `recTaKimv4XNMiqLl`*
+*Posted 2026-04-20 · Listing synced 2026-06-18 · 80k job ID `recTaKimv4XNMiqLl`*

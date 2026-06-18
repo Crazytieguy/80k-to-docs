@@ -4,25 +4,20 @@ employer: "SecureBio"
 job_id: "recqRRCQyTaNB3Zqr"
 last_updated: "2026-06-17T05:35:01.883657Z"
 posted_at: "2022-01-04T00:00:00Z"
-status: ready
+status: closed
+closed_at: "2026-06-18"
 apply_url: "https://securebio.org/careers/plant-biology--pathology-methods-consultants-part-time"
 areas:
   - "Biosecurity & pandemic preparedness"
 ---
 
+> ⚠️ **CLOSED on 2026-06-18** — this job is no longer listed on the 80,000 Hours board. Archived snapshot below.
+
 # Plant Biology / Pathology Methods Consultants
 
-**[SecureBio](https://securebio.org/)**
+**SecureBio**
 
-<dl class="job-meta">
-<dt>Location</dt><dd>Remote, Global</dd>
-<dt>Role type</dt><dd>Part-time</dd>
-<dt>Experience</dt><dd>Entry-level</dd>
-<dt>Degree</dt><dd>Doctoral degree</dd>
-<dt>Salary</dt><dd>$166,400 – $312,000</dd>
-</dl>
-
-**Areas & skills:** Biosecurity & pandemic preparedness, Research
+**Areas & skills:** Biosecurity & pandemic preparedness
 
 ## Summary
 - In this role, you'll assess whether AI assistants can provide useful assistance in plant molecular biology and plant pathology lab work.

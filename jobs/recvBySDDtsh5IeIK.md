@@ -2,7 +2,7 @@
 title: "Junior Research Scientists"
 employer: "Massachusetts Institute of Technology, FutureTech"
 job_id: "recvBySDDtsh5IeIK"
-last_updated: "2026-06-17T05:34:45.645062Z"
+last_updated: "2026-06-18T05:33:23.922877Z"
 posted_at: "2022-01-06T00:00:00Z"
 status: ready
 apply_url: "https://futuretech.mit.edu/opportunities/phds-and-junior-research-scientists"
@@ -33,4 +33,4 @@ areas:
 <p class="apply-cta"><a href="https://futuretech.mit.edu/opportunities/phds-and-junior-research-scientists">Apply →</a></p>
 
 ---
-*Posted 2022-01-06 · Listing synced 2026-06-17 · 80k job ID `recvBySDDtsh5IeIK`*
+*Posted 2022-01-06 · Listing synced 2026-06-18 · 80k job ID `recvBySDDtsh5IeIK`*

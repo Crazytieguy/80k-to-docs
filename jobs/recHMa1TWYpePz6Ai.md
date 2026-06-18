@@ -2,7 +2,7 @@
 title: "Extension Program Manager"
 employer: "MATS Research"
 job_id: "recHMa1TWYpePz6Ai"
-last_updated: "2026-06-17T05:33:40.390890Z"
+last_updated: "2026-06-18T05:32:18.028469Z"
 posted_at: "2026-06-01T00:05:00Z"
 status: ready
 apply_url: "https://www.matsprogram.org/careers/ext-prog-manager-london"
@@ -19,7 +19,7 @@ areas:
 <dt>Role type</dt><dd>Full-time</dd>
 <dt>Experience</dt><dd>Junior (1-4 years experience)</dd>
 <dt>Degree</dt><dd>Undergraduate degree or less</dd>
-<dt>Salary</dt><dd>$100,726 – $174,592</dd>
+<dt>Salary</dt><dd>$99,810 – $173,005</dd>
 </dl>
 
 **Areas & skills:** AI safety & policy, Operations, Strategy
@@ -34,4 +34,4 @@ areas:
 <p class="apply-cta"><a href="https://www.matsprogram.org/careers/ext-prog-manager-london">Apply →</a></p>
 
 ---
-*Posted 2026-06-01 · Listing synced 2026-06-17 · 80k job ID `recHMa1TWYpePz6Ai`*
+*Posted 2026-06-01 · Listing synced 2026-06-18 · 80k job ID `recHMa1TWYpePz6Ai`*

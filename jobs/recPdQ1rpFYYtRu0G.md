@@ -2,7 +2,7 @@
 title: "Policy Affairs Program Specialist"
 employer: "Humánny Pokrok"
 job_id: "recPdQ1rpFYYtRu0G"
-last_updated: "2026-06-17T05:33:54.099765Z"
+last_updated: "2026-06-18T05:32:32.783142Z"
 posted_at: "2026-05-20T00:00:00Z"
 status: ready
 apply_url: "https://humannypokrok.sk/programova-specialistka/"
@@ -33,4 +33,4 @@ areas:
 <p class="apply-cta"><a href="https://humannypokrok.sk/programova-specialistka/">Apply →</a></p>
 
 ---
-*Posted 2026-05-20 · Listing synced 2026-06-17 · 80k job ID `recPdQ1rpFYYtRu0G`*
+*Posted 2026-05-20 · Listing synced 2026-06-18 · 80k job ID `recPdQ1rpFYYtRu0G`*

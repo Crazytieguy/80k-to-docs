@@ -2,7 +2,7 @@
 title: "Freelancer, Biology Expert, GenAI Prompts Review"
 employer: "Alice"
 job_id: "recsFQ1aDS65d7wRD"
-last_updated: "2026-06-17T05:34:51.991939Z"
+last_updated: "2026-06-18T05:33:30.306289Z"
 posted_at: "2022-01-05T00:00:00Z"
 status: ready
 apply_url: "https://alice.io/positions/position-DD_067"
@@ -33,4 +33,4 @@ areas:
 <p class="apply-cta"><a href="https://alice.io/positions/position-DD_067">Apply →</a></p>
 
 ---
-*Posted 2022-01-05 · Listing synced 2026-06-17 · 80k job ID `recsFQ1aDS65d7wRD`*
+*Posted 2022-01-05 · Listing synced 2026-06-18 · 80k job ID `recsFQ1aDS65d7wRD`*
