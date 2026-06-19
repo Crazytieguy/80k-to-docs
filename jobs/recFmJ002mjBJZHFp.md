@@ -2,7 +2,7 @@
 title: "Intern, Asia-Pacific Office"
 employer: "Future of Privacy Forum"
 job_id: "recFmJ002mjBJZHFp"
-last_updated: "2026-06-18T05:33:46.309453Z"
+last_updated: "2026-06-19T05:33:45.503871Z"
 posted_at: "2022-01-02T00:00:00Z"
 status: ready
 apply_url: "https://fpf.org/asia-pacific-office-internship-fpf-apac/"
@@ -19,7 +19,7 @@ areas:
 <dt>Role type</dt><dd>Internship</dd>
 <dt>Experience</dt><dd>Entry-level</dd>
 <dt>Degree</dt><dd>Undergraduate degree or less</dd>
-<dt>Salary</dt><dd>$9,324</dd>
+<dt>Salary</dt><dd>$9,278</dd>
 </dl>
 
 **Areas & skills:** Career development: Policy & government, Research, Policy
@@ -33,4 +33,4 @@ areas:
 <p class="apply-cta"><a href="https://fpf.org/asia-pacific-office-internship-fpf-apac/">Apply →</a></p>
 
 ---
-*Posted 2022-01-02 · Listing synced 2026-06-18 · 80k job ID `recFmJ002mjBJZHFp`*
+*Posted 2022-01-02 · Listing synced 2026-06-19 · 80k job ID `recFmJ002mjBJZHFp`*

@@ -2,7 +2,7 @@
 title: "Program Manager, Francophone"
 employer: "Lead Exposure Elimination Project"
 job_id: "recrjuDdBxY8ZK01C"
-last_updated: "2026-06-18T05:32:21.360366Z"
+last_updated: "2026-06-19T05:32:22.438732Z"
 posted_at: "2026-06-01T00:00:00Z"
 status: ready
 apply_url: "https://docs.google.com/document/d/1eH1FlHYTXqt2pTReuPg0yU0MF9o_tTOIWwFANYbtQ_U/preview?tab=t.0#heading=h.jt6jmxp623yt"
@@ -19,7 +19,7 @@ areas:
 <dt>Role type</dt><dd>Full-time</dd>
 <dt>Experience</dt><dd>Junior (1-4 years experience), Mid (5-9 years experience)</dd>
 <dt>Degree</dt><dd>Undergraduate degree or less</dd>
-<dt>Salary</dt><dd>$53,908 – $57,502</dd>
+<dt>Salary</dt><dd>$53,466 – $57,030</dd>
 </dl>
 
 **Areas & skills:** Global health & development, Policy, Outreach
@@ -34,4 +34,4 @@ areas:
 <p class="apply-cta"><a href="https://docs.google.com/document/d/1eH1FlHYTXqt2pTReuPg0yU0MF9o_tTOIWwFANYbtQ_U/preview?tab=t.0#heading=h.jt6jmxp623yt">Apply →</a></p>
 
 ---
-*Posted 2026-06-01 · Listing synced 2026-06-18 · 80k job ID `recrjuDdBxY8ZK01C`*
+*Posted 2026-06-01 · Listing synced 2026-06-19 · 80k job ID `recrjuDdBxY8ZK01C`*

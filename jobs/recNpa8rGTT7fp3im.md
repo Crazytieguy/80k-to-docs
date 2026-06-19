@@ -2,7 +2,7 @@
 title: "Expression of Interest"
 employer: "SecureBio"
 job_id: "recNpa8rGTT7fp3im"
-last_updated: "2026-06-18T05:33:40.706127Z"
+last_updated: "2026-06-19T05:33:40.335481Z"
 posted_at: "2022-01-03T00:00:00Z"
 status: ready
 apply_url: "https://securebio.org/careers/general-application"
@@ -29,4 +29,4 @@ areas:
 <p class="apply-cta"><a href="https://securebio.org/careers/general-application">Apply →</a></p>
 
 ---
-*Posted 2022-01-03 · Listing synced 2026-06-18 · 80k job ID `recNpa8rGTT7fp3im`*
+*Posted 2022-01-03 · Listing synced 2026-06-19 · 80k job ID `recNpa8rGTT7fp3im`*

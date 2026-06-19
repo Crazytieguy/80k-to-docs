@@ -4,25 +4,20 @@ employer: "Apollo Research"
 job_id: "reckB7645Y1urc1am"
 last_updated: "2026-06-18T05:33:30.901878Z"
 posted_at: "2022-01-05T00:00:00Z"
-status: ready
+status: closed
+closed_at: "2026-06-19"
 apply_url: "https://jobs.lever.co/apolloresearch/ca84c815-fb72-4694-8de8-535899b28c9f"
 areas:
   - "AI safety & policy"
 ---
 
+> ⚠️ **CLOSED on 2026-06-19** — this job is no longer listed on the 80,000 Hours board. Archived snapshot below.
+
 # Legal and Compliance Manager
 
-**[Apollo Research](https://www.apolloresearch.ai/)**
+**Apollo Research**
 
-<dl class="job-meta">
-<dt>Location</dt><dd>London, UK, UK, UK (Confirmed Visas)</dd>
-<dt>Role type</dt><dd>Full-time</dd>
-<dt>Experience</dt><dd>Mid (5-9 years experience), Senior (10+ years experience)</dd>
-<dt>Degree</dt><dd>Undergraduate degree or less</dd>
-<dt>Salary</dt><dd>$133,080 – $199,621</dd>
-</dl>
-
-**Areas & skills:** AI safety & policy, Legal
+**Areas & skills:** AI safety & policy
 
 ## Summary
 - In this role, you'll build and lead Apollo's legal and compliance functions across UK, US, and EU jurisdictions, balancing strategy and execution.

@@ -2,7 +2,7 @@
 title: "Assistant Professor / Associate Professor / Professor"
 employer: "National University of Singapore, Asia Centre for Health Security"
 job_id: "recdw3z9ZBuvBr7By"
-last_updated: "2026-06-18T05:33:39.027276Z"
+last_updated: "2026-06-19T05:33:38.657581Z"
 posted_at: "2022-01-04T00:00:00Z"
 status: ready
 apply_url: "https://sph.nus.edu.sg/about/careers/"
@@ -34,4 +34,4 @@ areas:
 <p class="apply-cta"><a href="https://sph.nus.edu.sg/about/careers/">Apply →</a></p>
 
 ---
-*Posted 2022-01-04 · Listing synced 2026-06-18 · 80k job ID `recdw3z9ZBuvBr7By`*
+*Posted 2022-01-04 · Listing synced 2026-06-19 · 80k job ID `recdw3z9ZBuvBr7By`*

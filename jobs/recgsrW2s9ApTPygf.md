@@ -2,7 +2,7 @@
 title: "Frontend Engineer"
 employer: "Elicit"
 job_id: "recgsrW2s9ApTPygf"
-last_updated: "2026-06-18T05:33:00.691664Z"
+last_updated: "2026-06-19T05:32:59.314267Z"
 posted_at: "2022-01-12T00:00:00Z"
 status: ready
 apply_url: "https://elicit.com/careers?ashby_jid=b5e218b8-8730-4254-b026-1fe2fe02c3eb"
@@ -34,4 +34,4 @@ areas:
 <p class="apply-cta"><a href="https://elicit.com/careers?ashby_jid=b5e218b8-8730-4254-b026-1fe2fe02c3eb">Apply →</a></p>
 
 ---
-*Posted 2022-01-12 · Listing synced 2026-06-18 · 80k job ID `recgsrW2s9ApTPygf`*
+*Posted 2022-01-12 · Listing synced 2026-06-19 · 80k job ID `recgsrW2s9ApTPygf`*

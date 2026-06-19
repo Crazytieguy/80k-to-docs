@@ -2,7 +2,7 @@
 title: "Cyber Resilience and Operations Assistant Researcher"
 employer: "Massachusetts Institute of Technology, Lincoln Laboratory"
 job_id: "recFOswdUUSYxdoom"
-last_updated: "2026-06-18T05:31:58.227099Z"
+last_updated: "2026-06-19T05:31:59.003707Z"
 posted_at: "2026-06-12T00:00:00Z"
 status: ready
 apply_url: "https://careers.ll.mit.edu/job/Lexington-Cyber-Resilience-and-Operations-Assistant-Researcher-MA-02420/1380589700/"
@@ -34,4 +34,4 @@ areas:
 <p class="apply-cta"><a href="https://careers.ll.mit.edu/job/Lexington-Cyber-Resilience-and-Operations-Assistant-Researcher-MA-02420/1380589700/">Apply →</a></p>
 
 ---
-*Posted 2026-06-12 · Listing synced 2026-06-18 · 80k job ID `recFOswdUUSYxdoom`*
+*Posted 2026-06-12 · Listing synced 2026-06-19 · 80k job ID `recFOswdUUSYxdoom`*

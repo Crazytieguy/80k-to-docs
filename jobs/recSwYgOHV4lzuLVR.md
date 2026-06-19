@@ -2,7 +2,7 @@
 title: "Jailbreaking Lead, Red Team"
 employer: "FAR AI"
 job_id: "recSwYgOHV4lzuLVR"
-last_updated: "2026-06-18T05:32:36.631515Z"
+last_updated: "2026-06-19T05:32:37.226565Z"
 posted_at: "2026-05-14T00:05:00Z"
 status: ready
 apply_url: "https://jobs.ashbyhq.com/far.ai/9b4eded1-8b20-4238-9259-549bea94607c?embed=js"
@@ -34,4 +34,4 @@ areas:
 <p class="apply-cta"><a href="https://jobs.ashbyhq.com/far.ai/9b4eded1-8b20-4238-9259-549bea94607c?embed=js">Apply →</a></p>
 
 ---
-*Posted 2026-05-14 · Listing synced 2026-06-18 · 80k job ID `recSwYgOHV4lzuLVR`*
+*Posted 2026-05-14 · Listing synced 2026-06-19 · 80k job ID `recSwYgOHV4lzuLVR`*

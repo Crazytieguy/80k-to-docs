@@ -2,7 +2,7 @@
 title: "Expression of Interest, Generalist Communications Contractor"
 employer: "Rethink Priorities"
 job_id: "recUaNdGGqm3WbeIi"
-last_updated: "2026-06-18T05:31:49.934600Z"
+last_updated: "2026-06-19T05:31:50.464463Z"
 posted_at: "2026-06-17T00:00:00Z"
 status: ready
 apply_url: "https://forms.gle/Atvna6C4NqMnk3J76"
@@ -33,4 +33,4 @@ areas:
 <p class="apply-cta"><a href="https://forms.gle/Atvna6C4NqMnk3J76">Apply →</a></p>
 
 ---
-*Posted 2026-06-17 · Listing synced 2026-06-18 · 80k job ID `recUaNdGGqm3WbeIi`*
+*Posted 2026-06-17 · Listing synced 2026-06-19 · 80k job ID `recUaNdGGqm3WbeIi`*

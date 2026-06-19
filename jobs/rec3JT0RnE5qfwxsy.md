@@ -2,7 +2,7 @@
 title: "Program Officer / Senior Program Officer, Health Aid Transition"
 employer: "Coefficient Giving"
 job_id: "rec3JT0RnE5qfwxsy"
-last_updated: "2026-06-18T05:31:57.508579Z"
+last_updated: "2026-06-19T05:31:58.221406Z"
 posted_at: "2026-06-12T00:00:00Z"
 status: ready
 apply_url: "https://jobs.ashbyhq.com/coefficientgiving/2458cd52-9dd7-4e10-8af3-999ae3418562"
@@ -34,4 +34,4 @@ areas:
 <p class="apply-cta"><a href="https://jobs.ashbyhq.com/coefficientgiving/2458cd52-9dd7-4e10-8af3-999ae3418562">Apply →</a></p>
 
 ---
-*Posted 2026-06-12 · Listing synced 2026-06-18 · 80k job ID `rec3JT0RnE5qfwxsy`*
+*Posted 2026-06-12 · Listing synced 2026-06-19 · 80k job ID `rec3JT0RnE5qfwxsy`*

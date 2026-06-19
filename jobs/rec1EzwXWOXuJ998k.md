@@ -2,7 +2,7 @@
 title: "Security Engineer, Detection and Response"
 employer: "Anthropic"
 job_id: "rec1EzwXWOXuJ998k"
-last_updated: "2026-06-18T05:33:03.286030Z"
+last_updated: "2026-06-19T05:33:01.864111Z"
 posted_at: "2022-01-11T00:00:00Z"
 status: ready
 apply_url: "https://job-boards.greenhouse.io/anthropic/jobs/4982193008"
@@ -34,4 +34,4 @@ areas:
 <p class="apply-cta"><a href="https://job-boards.greenhouse.io/anthropic/jobs/4982193008">Apply →</a></p>
 
 ---
-*Posted 2022-01-11 · Listing synced 2026-06-18 · 80k job ID `rec1EzwXWOXuJ998k`*
+*Posted 2022-01-11 · Listing synced 2026-06-19 · 80k job ID `rec1EzwXWOXuJ998k`*

@@ -4,24 +4,20 @@ employer: "Hasso Plattner Institute"
 job_id: "recqCZrG1fm3dQlan"
 last_updated: "2026-06-18T05:32:40.561098Z"
 posted_at: "2026-05-11T00:01:00Z"
-status: ready
+status: closed
+closed_at: "2026-06-19"
 apply_url: "https://jobs.plattnerfoundation.org/HPI/job/Potsdam-Postdoctoral-Researcher-%28mfx%29-in-Technology-and-Regulation-14482/1351473055/"
 areas:
   - "AI safety & policy"
 ---
 
+> ⚠️ **CLOSED on 2026-06-19** — this job is no longer listed on the 80,000 Hours board. Archived snapshot below.
+
 # Postdoctoral Researcher, Technology and Regulation
 
-**[Hasso Plattner Institute](https://hpi.de/)**
+**Hasso Plattner Institute**
 
-<dl class="job-meta">
-<dt>Location</dt><dd>Potsdam, Germany, Germany, Europe (ex UK)</dd>
-<dt>Role type</dt><dd>Full-time</dd>
-<dt>Experience</dt><dd>Entry-level</dd>
-<dt>Degree</dt><dd>Doctoral degree</dd>
-</dl>
-
-**Areas & skills:** AI safety & policy, Research, Policy, Legal
+**Areas & skills:** AI safety & policy
 
 ## Summary
 - In this role, you'll conduct interdisciplinary research on technology regulation, AI ethics, and societal impacts of emerging technologies.

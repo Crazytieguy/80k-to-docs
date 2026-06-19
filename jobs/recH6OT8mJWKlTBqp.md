@@ -2,7 +2,7 @@
 title: "Externship and Volunteer Program (Fall 2026 and Spring 2027)"
 employer: "Animal Legal Defense Fund"
 job_id: "recH6OT8mJWKlTBqp"
-last_updated: "2026-06-18T05:32:00.728631Z"
+last_updated: "2026-06-19T05:32:01.678226Z"
 posted_at: "2026-06-11T00:00:00Z"
 status: ready
 apply_url: "https://recruiting.paylocity.com/Recruiting/Jobs/Details/4236492"
@@ -33,4 +33,4 @@ areas:
 <p class="apply-cta"><a href="https://recruiting.paylocity.com/Recruiting/Jobs/Details/4236492">Apply →</a></p>
 
 ---
-*Posted 2026-06-11 · Listing synced 2026-06-18 · 80k job ID `recH6OT8mJWKlTBqp`*
+*Posted 2026-06-11 · Listing synced 2026-06-19 · 80k job ID `recH6OT8mJWKlTBqp`*

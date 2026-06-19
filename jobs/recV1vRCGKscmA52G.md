@@ -2,7 +2,7 @@
 title: "List of Places to Find Biosecurity Roles"
 employer: "biosecurity.world"
 job_id: "recV1vRCGKscmA52G"
-last_updated: "2026-06-18T05:32:08.681988Z"
+last_updated: "2026-06-19T05:32:10.997330Z"
 posted_at: "2026-06-08T00:00:00Z"
 status: ready
 apply_url: "https://biosecurityworld.notion.site/24326cc06be04b34a48076a260482c7b?v=1335ef216bed477f930de7c35d5a36e9"
@@ -31,4 +31,4 @@ areas:
 <p class="apply-cta"><a href="https://biosecurityworld.notion.site/24326cc06be04b34a48076a260482c7b?v=1335ef216bed477f930de7c35d5a36e9">Apply →</a></p>
 
 ---
-*Posted 2026-06-08 · Listing synced 2026-06-18 · 80k job ID `recV1vRCGKscmA52G`*
+*Posted 2026-06-08 · Listing synced 2026-06-19 · 80k job ID `recV1vRCGKscmA52G`*

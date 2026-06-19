@@ -2,7 +2,7 @@
 title: "Staff Software Security Engineer"
 employer: "Anthropic"
 job_id: "recqabCW8NA7McMul"
-last_updated: "2026-06-18T05:33:04.671800Z"
+last_updated: "2026-06-19T05:33:03.213477Z"
 posted_at: "2022-01-11T00:00:00Z"
 status: ready
 apply_url: "https://job-boards.greenhouse.io/anthropic/jobs/5120512008"
@@ -34,4 +34,4 @@ areas:
 <p class="apply-cta"><a href="https://job-boards.greenhouse.io/anthropic/jobs/5120512008">Apply →</a></p>
 
 ---
-*Posted 2022-01-11 · Listing synced 2026-06-18 · 80k job ID `recqabCW8NA7McMul`*
+*Posted 2022-01-11 · Listing synced 2026-06-19 · 80k job ID `recqabCW8NA7McMul`*

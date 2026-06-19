@@ -2,7 +2,7 @@
 title: "Program Manager, SparkWell"
 employer: "Anti Entropy"
 job_id: "recqRLRV8eQICiZRS"
-last_updated: "2026-06-18T05:31:52.397070Z"
+last_updated: "2026-06-19T05:31:52.921398Z"
 posted_at: "2026-06-16T00:00:00Z"
 status: ready
 apply_url: "https://docs.google.com/document/d/1VLlsJD3bPaGzT351HHaBN7Dmk0kVmMGrkE2SqXyXTPE/edit?tab=t.0"
@@ -34,4 +34,4 @@ areas:
 <p class="apply-cta"><a href="https://docs.google.com/document/d/1VLlsJD3bPaGzT351HHaBN7Dmk0kVmMGrkE2SqXyXTPE/edit?tab=t.0">Apply →</a></p>
 
 ---
-*Posted 2026-06-16 · Listing synced 2026-06-18 · 80k job ID `recqRLRV8eQICiZRS`*
+*Posted 2026-06-16 · Listing synced 2026-06-19 · 80k job ID `recqRLRV8eQICiZRS`*

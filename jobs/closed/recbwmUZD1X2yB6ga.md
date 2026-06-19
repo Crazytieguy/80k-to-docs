@@ -4,25 +4,20 @@ employer: "Apollo Research"
 job_id: "recbwmUZD1X2yB6ga"
 last_updated: "2026-06-18T05:32:52.842885Z"
 posted_at: "2026-04-10T00:05:00Z"
-status: ready
+status: closed
+closed_at: "2026-06-19"
 apply_url: "https://jobs.lever.co/apolloresearch/8bcc07d0-ddbd-4f42-a377-a2ef95d8c366"
 areas:
   - "AI safety & policy"
 ---
 
+> ⚠️ **CLOSED on 2026-06-19** — this job is no longer listed on the 80,000 Hours board. Archived snapshot below.
+
 # Finance Associate
 
-**[Apollo Research](https://www.apolloresearch.ai/)**
+**Apollo Research**
 
-<dl class="job-meta">
-<dt>Location</dt><dd>London, UK, UK</dd>
-<dt>Role type</dt><dd>Part-time</dd>
-<dt>Experience</dt><dd>Junior (1-4 years experience)</dd>
-<dt>Degree</dt><dd>Undergraduate degree or less</dd>
-<dt>Salary</dt><dd>$53,232 – $66,540</dd>
-</dl>
-
-**Areas & skills:** AI safety & policy, Finance
+**Areas & skills:** AI safety & policy
 
 ## Summary
 - In this role, you'll execute day-to-day finance operations and convert business activity into trusted numbers for management and investors.

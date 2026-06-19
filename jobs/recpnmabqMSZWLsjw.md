@@ -2,7 +2,7 @@
 title: "Legal Counsel"
 employer: "Coalition for Epidemic Preparedness Innovations"
 job_id: "recpnmabqMSZWLsjw"
-last_updated: "2026-06-18T05:32:03.498647Z"
+last_updated: "2026-06-19T05:32:05.946568Z"
 posted_at: "2026-06-10T00:00:00Z"
 status: ready
 apply_url: "https://cepi.my.salesforce-sites.com/careers/xcdrecruit__PositionDetails?id=a43P300000FC2wfIAD"
@@ -33,4 +33,4 @@ areas:
 <p class="apply-cta"><a href="https://cepi.my.salesforce-sites.com/careers/xcdrecruit__PositionDetails?id=a43P300000FC2wfIAD">Apply →</a></p>
 
 ---
-*Posted 2026-06-10 · Listing synced 2026-06-18 · 80k job ID `recpnmabqMSZWLsjw`*
+*Posted 2026-06-10 · Listing synced 2026-06-19 · 80k job ID `recpnmabqMSZWLsjw`*
