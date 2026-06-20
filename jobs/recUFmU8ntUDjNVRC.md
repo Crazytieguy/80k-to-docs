@@ -2,7 +2,7 @@
 title: "Volunteer"
 employer: "Taimaka"
 job_id: "recUFmU8ntUDjNVRC"
-last_updated: "2026-06-19T05:33:51.532716Z"
+last_updated: "2026-06-20T05:34:21.549480Z"
 posted_at: "2022-01-02T00:00:00Z"
 status: ready
 apply_url: "https://taimaka.org/work-with-us"
@@ -30,4 +30,4 @@ areas:
 <p class="apply-cta"><a href="https://taimaka.org/work-with-us">Apply →</a></p>
 
 ---
-*Posted 2022-01-02 · Listing synced 2026-06-19 · 80k job ID `recUFmU8ntUDjNVRC`*
+*Posted 2022-01-02 · Listing synced 2026-06-20 · 80k job ID `recUFmU8ntUDjNVRC`*

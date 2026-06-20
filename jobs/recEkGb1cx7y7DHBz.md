@@ -2,7 +2,7 @@
 title: "European Campaigns Communications Manager"
 employer: "Animal Equality"
 job_id: "recEkGb1cx7y7DHBz"
-last_updated: "2026-06-19T05:33:41.389056Z"
+last_updated: "2026-06-20T05:34:11.370225Z"
 posted_at: "2022-01-02T00:00:00Z"
 status: ready
 apply_url: "https://igualdadanimal.org/empleo/european-campaigns-communications-manager/"
@@ -33,4 +33,4 @@ areas:
 <p class="apply-cta"><a href="https://igualdadanimal.org/empleo/european-campaigns-communications-manager/">Apply →</a></p>
 
 ---
-*Posted 2022-01-02 · Listing synced 2026-06-19 · 80k job ID `recEkGb1cx7y7DHBz`*
+*Posted 2022-01-02 · Listing synced 2026-06-20 · 80k job ID `recEkGb1cx7y7DHBz`*

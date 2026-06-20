@@ -2,8 +2,8 @@
 title: "Head of Finance"
 employer: "Giving What We Can"
 job_id: "recLGKfjMlfZ7XBDU"
-last_updated: "2026-06-19T05:32:56.795770Z"
-posted_at: "2026-04-01T00:00:00Z"
+last_updated: "2026-06-20T05:33:44.320132Z"
+posted_at: "2022-01-07T00:00:00Z"
 status: ready
 apply_url: "https://www.givingwhatwecan.org/head-of-finance"
 areas:
@@ -34,4 +34,4 @@ areas:
 <p class="apply-cta"><a href="https://www.givingwhatwecan.org/head-of-finance">Apply →</a></p>
 
 ---
-*Posted 2026-04-01 · Listing synced 2026-06-19 · 80k job ID `recLGKfjMlfZ7XBDU`*
+*Posted 2022-01-07 · Listing synced 2026-06-20 · 80k job ID `recLGKfjMlfZ7XBDU`*

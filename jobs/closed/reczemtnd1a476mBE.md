@@ -4,25 +4,20 @@ employer: "RAND Corporation"
 job_id: "reczemtnd1a476mBE"
 last_updated: "2026-06-19T05:32:09.430304Z"
 posted_at: "2026-06-08T00:05:00Z"
-status: ready
+status: closed
+closed_at: "2026-06-20"
 apply_url: "https://rand.wd5.myworkdayjobs.com/en-US/External_Career_Site/job/Washington-DC-DC-Metro-Area/AI-Policy-Research-Resident--Associate---Specialist_R3554"
 areas:
   - "AI safety & policy"
 ---
 
+> ⚠️ **CLOSED on 2026-06-20** — this job is no longer listed on the 80,000 Hours board. Archived snapshot below.
+
 # AI Policy Research Resident, Associate / Specialist, Center on AI, Security, and Technology
 
-**[RAND Corporation](https://www.rand.org)**
+**RAND Corporation**
 
-<dl class="job-meta">
-<dt>Location</dt><dd>Remote, USA, Various, USA, USA</dd>
-<dt>Role type</dt><dd>Full-time</dd>
-<dt>Experience</dt><dd>Multiple experience levels</dd>
-<dt>Degree</dt><dd>Undergraduate degree or less</dd>
-<dt>Salary</dt><dd>$110,900 – $183,300</dd>
-</dl>
-
-**Areas & skills:** AI safety & policy, Research, Policy
+**Areas & skills:** AI safety & policy
 
 ## Summary
 - In this role, you'll contribute to AI policy research projects by conducting analysis, drafting written products, and owning significant project components.

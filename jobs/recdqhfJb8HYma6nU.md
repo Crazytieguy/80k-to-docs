@@ -2,7 +2,7 @@
 title: "Technical AI Governance Researcher"
 employer: "Centre for AI Security and Access"
 job_id: "recdqhfJb8HYma6nU"
-last_updated: "2026-06-19T05:31:49.266115Z"
+last_updated: "2026-06-20T05:32:20.515165Z"
 posted_at: "2026-06-17T00:00:00Z"
 status: ready
 apply_url: "https://www.casa-ai.org/careers"
@@ -34,4 +34,4 @@ areas:
 <p class="apply-cta"><a href="https://www.casa-ai.org/careers">Apply →</a></p>
 
 ---
-*Posted 2026-06-17 · Listing synced 2026-06-19 · 80k job ID `recdqhfJb8HYma6nU`*
+*Posted 2026-06-17 · Listing synced 2026-06-20 · 80k job ID `recdqhfJb8HYma6nU`*

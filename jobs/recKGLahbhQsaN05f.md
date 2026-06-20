@@ -2,7 +2,7 @@
 title: "U.S. Policy Engagement Specialist"
 employer: "Alliance to Feed the Earth in Disasters"
 job_id: "recKGLahbhQsaN05f"
-last_updated: "2026-06-19T05:32:20.974424Z"
+last_updated: "2026-06-20T05:32:49.898109Z"
 posted_at: "2026-06-01T00:02:00Z"
 status: ready
 apply_url: "https://allfed.info/join-us?view=article&id=457%3Au-s-policy-engagement-specialist&catid=39"
@@ -34,4 +34,4 @@ areas:
 <p class="apply-cta"><a href="https://allfed.info/join-us?view=article&amp;id=457%3Au-s-policy-engagement-specialist&amp;catid=39">Apply →</a></p>
 
 ---
-*Posted 2026-06-01 · Listing synced 2026-06-19 · 80k job ID `recKGLahbhQsaN05f`*
+*Posted 2026-06-01 · Listing synced 2026-06-20 · 80k job ID `recKGLahbhQsaN05f`*

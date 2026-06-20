@@ -2,7 +2,7 @@
 title: "Director"
 employer: "UK Government, AI Security Institute"
 job_id: "rec2i1hSS0aBQUlDw"
-last_updated: "2026-06-19T05:32:07.019142Z"
+last_updated: "2026-06-20T05:32:35.917254Z"
 posted_at: "2026-06-09T00:05:00Z"
 status: ready
 apply_url: "https://www.civilservicejobs.service.gov.uk/csr/jobs.cgi?jcode=2000145"
@@ -33,4 +33,4 @@ areas:
 <p class="apply-cta"><a href="https://www.civilservicejobs.service.gov.uk/csr/jobs.cgi?jcode=2000145">Apply →</a></p>
 
 ---
-*Posted 2026-06-09 · Listing synced 2026-06-19 · 80k job ID `rec2i1hSS0aBQUlDw`*
+*Posted 2026-06-09 · Listing synced 2026-06-20 · 80k job ID `rec2i1hSS0aBQUlDw`*

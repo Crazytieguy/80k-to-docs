@@ -2,7 +2,7 @@
 title: "Research Scientist / Engineer, Honesty"
 employer: "Anthropic"
 job_id: "rec26yWRs3CFZBpzw"
-last_updated: "2026-06-19T05:32:58.089057Z"
+last_updated: "2026-06-20T05:33:27.891912Z"
 posted_at: "2022-01-12T00:00:00Z"
 status: ready
 apply_url: "https://job-boards.greenhouse.io/anthropic/jobs/4532887008"
@@ -33,4 +33,4 @@ areas:
 <p class="apply-cta"><a href="https://job-boards.greenhouse.io/anthropic/jobs/4532887008">Apply →</a></p>
 
 ---
-*Posted 2022-01-12 · Listing synced 2026-06-19 · 80k job ID `rec26yWRs3CFZBpzw`*
+*Posted 2022-01-12 · Listing synced 2026-06-20 · 80k job ID `rec26yWRs3CFZBpzw`*

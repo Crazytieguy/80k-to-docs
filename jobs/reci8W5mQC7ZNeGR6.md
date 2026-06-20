@@ -2,7 +2,7 @@
 title: "Expression of Interest, Research Engineer"
 employer: "Sequent"
 job_id: "reci8W5mQC7ZNeGR6"
-last_updated: "2026-06-19T05:32:00.527087Z"
+last_updated: "2026-06-20T05:32:31.107129Z"
 posted_at: "2026-06-11T00:02:00Z"
 status: ready
 apply_url: "https://www.sequent.org/careers/research-engineer"
@@ -33,4 +33,4 @@ areas:
 <p class="apply-cta"><a href="https://www.sequent.org/careers/research-engineer">Apply →</a></p>
 
 ---
-*Posted 2026-06-11 · Listing synced 2026-06-19 · 80k job ID `reci8W5mQC7ZNeGR6`*
+*Posted 2026-06-11 · Listing synced 2026-06-20 · 80k job ID `reci8W5mQC7ZNeGR6`*

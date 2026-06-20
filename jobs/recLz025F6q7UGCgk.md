@@ -2,7 +2,7 @@
 title: "Research Intern, China Center"
 employer: "Hudson Institute"
 job_id: "recLz025F6q7UGCgk"
-last_updated: "2026-06-19T05:33:47.430756Z"
+last_updated: "2026-06-20T05:34:17.628887Z"
 posted_at: "2022-01-02T00:00:00Z"
 status: ready
 apply_url: "https://recruiting.paylocity.com/Recruiting/Jobs/Details/2256692"
@@ -33,4 +33,4 @@ areas:
 <p class="apply-cta"><a href="https://recruiting.paylocity.com/Recruiting/Jobs/Details/2256692">Apply →</a></p>
 
 ---
-*Posted 2022-01-02 · Listing synced 2026-06-19 · 80k job ID `recLz025F6q7UGCgk`*
+*Posted 2022-01-02 · Listing synced 2026-06-20 · 80k job ID `recLz025F6q7UGCgk`*

@@ -2,7 +2,7 @@
 title: "People Operations Associate"
 employer: "GovAI"
 job_id: "recAB7JtK7uMSkgYd"
-last_updated: "2026-06-19T05:32:18.569633Z"
+last_updated: "2026-06-20T05:32:47.340322Z"
 posted_at: "2026-06-02T00:05:00Z"
 status: ready
 apply_url: "https://www.governance.ai/post/people-operations-associate-2"
@@ -19,7 +19,7 @@ areas:
 <dt>Role type</dt><dd>Full-time</dd>
 <dt>Experience</dt><dd>Junior (1-4 years experience), Entry-level</dd>
 <dt>Degree</dt><dd>Undergraduate degree or less</dd>
-<dt>Salary</dt><dd>$86,894 – $101,377</dd>
+<dt>Salary</dt><dd>$87,341 – $101,898</dd>
 </dl>
 
 **Areas & skills:** AI safety & policy, Operations
@@ -34,4 +34,4 @@ areas:
 <p class="apply-cta"><a href="https://www.governance.ai/post/people-operations-associate-2">Apply →</a></p>
 
 ---
-*Posted 2026-06-02 · Listing synced 2026-06-19 · 80k job ID `recAB7JtK7uMSkgYd`*
+*Posted 2026-06-02 · Listing synced 2026-06-20 · 80k job ID `recAB7JtK7uMSkgYd`*

@@ -2,7 +2,7 @@
 title: "Software Engineer, Cybersecurity Products"
 employer: "Anthropic"
 job_id: "recJPxzXSR5HXS8vo"
-last_updated: "2026-06-19T05:33:02.678702Z"
+last_updated: "2026-06-20T05:33:32.745735Z"
 posted_at: "2022-01-11T00:00:00Z"
 status: ready
 apply_url: "https://job-boards.greenhouse.io/anthropic/jobs/5063007008"
@@ -34,4 +34,4 @@ areas:
 <p class="apply-cta"><a href="https://job-boards.greenhouse.io/anthropic/jobs/5063007008">Apply →</a></p>
 
 ---
-*Posted 2022-01-11 · Listing synced 2026-06-19 · 80k job ID `recJPxzXSR5HXS8vo`*
+*Posted 2022-01-11 · Listing synced 2026-06-20 · 80k job ID `recJPxzXSR5HXS8vo`*

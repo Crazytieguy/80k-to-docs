@@ -2,7 +2,7 @@
 title: "Recruiter"
 employer: "The AI Policy Network"
 job_id: "recMW0vtMowpQ9L9Q"
-last_updated: "2026-06-19T05:32:01.043383Z"
+last_updated: "2026-06-20T05:32:31.579460Z"
 posted_at: "2026-06-11T00:02:00Z"
 status: ready
 apply_url: "https://theaipn.org/careers/recruiter/"
@@ -34,4 +34,4 @@ areas:
 <p class="apply-cta"><a href="https://theaipn.org/careers/recruiter/">Apply →</a></p>
 
 ---
-*Posted 2026-06-11 · Listing synced 2026-06-19 · 80k job ID `recMW0vtMowpQ9L9Q`*
+*Posted 2026-06-11 · Listing synced 2026-06-20 · 80k job ID `recMW0vtMowpQ9L9Q`*

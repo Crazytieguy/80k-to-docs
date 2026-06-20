@@ -4,24 +4,20 @@ employer: "Swiss Tropical and Public Health Institute"
 job_id: "rec284zceImmRolhb"
 last_updated: "2026-06-19T05:32:27.519847Z"
 posted_at: "2026-05-26T00:00:00Z"
-status: ready
+status: closed
+closed_at: "2026-06-20"
 apply_url: "https://jobs.swisstph.ch/Vacancies/1181/Description/2"
 areas:
   - "Global health & development"
 ---
 
+> ⚠️ **CLOSED on 2026-06-20** — this job is no longer listed on the 80,000 Hours board. Archived snapshot below.
+
 # PhD Student, Forecasting Resistance Spread and Epidemiological Impact
 
-**[Swiss Tropical and Public Health Institute](https://www.swisstph.ch/en/)**
+**Swiss Tropical and Public Health Institute**
 
-<dl class="job-meta">
-<dt>Location</dt><dd>Basel, Switzerland, Switzerland, Europe (ex UK)</dd>
-<dt>Role type</dt><dd>Other</dd>
-<dt>Experience</dt><dd>Entry-level</dd>
-<dt>Degree</dt><dd>Master's degree</dd>
-</dl>
-
-**Areas & skills:** Global health & development, Research, Software engineering
+**Areas & skills:** Global health & development
 
 ## Summary
 - In this role, you'll develop mechanistic models forecasting insecticide resistance spread using Bayesian and mathematical methods.

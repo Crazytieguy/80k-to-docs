@@ -2,10 +2,10 @@
 title: "Head of Communications"
 employer: "Evitable"
 job_id: "recMx5eXofTfk0AfW"
-last_updated: "2026-06-19T05:32:10.701059Z"
+last_updated: "2026-06-20T05:32:39.442767Z"
 posted_at: "2026-06-08T00:01:00Z"
 status: ready
-apply_url: "https://evitable.com/head-of-communications"
+apply_url: "https://evitable.com/communications-director"
 areas:
   - "AI safety & policy"
 ---
@@ -31,7 +31,7 @@ areas:
 - Develop public communications aligned with movement organising strategy and create materials for partners.
 - Manage brand identity and digital presence, coordinating production of video, written, and special content.
 
-<p class="apply-cta"><a href="https://evitable.com/head-of-communications">Apply →</a></p>
+<p class="apply-cta"><a href="https://evitable.com/communications-director">Apply →</a></p>
 
 ---
-*Posted 2026-06-08 · Listing synced 2026-06-19 · 80k job ID `recMx5eXofTfk0AfW`*
+*Posted 2026-06-08 · Listing synced 2026-06-20 · 80k job ID `recMx5eXofTfk0AfW`*

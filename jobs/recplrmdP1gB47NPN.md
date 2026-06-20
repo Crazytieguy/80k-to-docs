@@ -2,10 +2,10 @@
 title: "Senior Cloud Infrastructure Engineer"
 employer: "SecureBio"
 job_id: "recplrmdP1gB47NPN"
-last_updated: "2026-06-19T05:32:16.177130Z"
+last_updated: "2026-06-20T05:32:44.860171Z"
 posted_at: "2026-06-04T00:05:00Z"
 status: ready
-apply_url: "https://securebio.org/careers/2026-cloud-infra-engineer/"
+apply_url: "https://securebio.org/careers/2026-cloud-infra-engineer"
 areas:
   - "Biosecurity & pandemic preparedness"
 ---
@@ -31,7 +31,7 @@ areas:
 - Manage GitHub administration, CI/CD configuration, and DevOps while optimizing for cost and speed.
 - Collaborate with scientists and engineers to translate requirements into scalable infrastructure solutions.
 
-<p class="apply-cta"><a href="https://securebio.org/careers/2026-cloud-infra-engineer/">Apply →</a></p>
+<p class="apply-cta"><a href="https://securebio.org/careers/2026-cloud-infra-engineer">Apply →</a></p>
 
 ---
-*Posted 2026-06-04 · Listing synced 2026-06-19 · 80k job ID `recplrmdP1gB47NPN`*
+*Posted 2026-06-04 · Listing synced 2026-06-20 · 80k job ID `recplrmdP1gB47NPN`*

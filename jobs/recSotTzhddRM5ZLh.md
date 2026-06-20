@@ -2,7 +2,7 @@
 title: "Fellowship Operations Associate"
 employer: "Cambridge Boston Alignment Initiative"
 job_id: "recSotTzhddRM5ZLh"
-last_updated: "2026-06-19T05:32:55.243352Z"
+last_updated: "2026-06-20T05:33:25.049980Z"
 posted_at: "2026-04-02T00:03:00Z"
 status: ready
 apply_url: "https://jobs.ashbyhq.com/cbai/00ad32ab-f657-4239-9e92-e53232dc66a0"
@@ -34,4 +34,4 @@ areas:
 <p class="apply-cta"><a href="https://jobs.ashbyhq.com/cbai/00ad32ab-f657-4239-9e92-e53232dc66a0">Apply →</a></p>
 
 ---
-*Posted 2026-04-02 · Listing synced 2026-06-19 · 80k job ID `recSotTzhddRM5ZLh`*
+*Posted 2026-04-02 · Listing synced 2026-06-20 · 80k job ID `recSotTzhddRM5ZLh`*

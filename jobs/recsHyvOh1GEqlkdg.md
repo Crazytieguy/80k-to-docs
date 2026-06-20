@@ -2,7 +2,7 @@
 title: "CyberFirst University Bursary"
 employer: "UK Government, GCHQ"
 job_id: "recsHyvOh1GEqlkdg"
-last_updated: "2026-06-19T05:33:51.980759Z"
+last_updated: "2026-06-20T05:34:21.926870Z"
 posted_at: "2022-01-02T00:00:00Z"
 status: ready
 apply_url: "https://www.gchq-careers.co.uk/our-careers/early-careers/student-bursary.html"
@@ -29,4 +29,4 @@ areas:
 <p class="apply-cta"><a href="https://www.gchq-careers.co.uk/our-careers/early-careers/student-bursary.html">Apply →</a></p>
 
 ---
-*Posted 2022-01-02 · Listing synced 2026-06-19 · 80k job ID `recsHyvOh1GEqlkdg`*
+*Posted 2022-01-02 · Listing synced 2026-06-20 · 80k job ID `recsHyvOh1GEqlkdg`*

@@ -4,25 +4,20 @@ employer: "One for the World"
 job_id: "recaJToUV8bbiX8UQ"
 last_updated: "2026-06-19T05:32:24.413720Z"
 posted_at: "2026-05-29T00:00:00Z"
-status: ready
+status: closed
+closed_at: "2026-06-20"
 apply_url: "https://drive.google.com/file/d/1ZjBgw5zlFmk4nop-yIuUgnty4FhTofu5/view?usp=drive_link"
 areas:
   - "Building effective altruism"
 ---
 
+> ⚠️ **CLOSED on 2026-06-20** — this job is no longer listed on the 80,000 Hours board. Archived snapshot below.
+
 # Operations Manager
 
-**[One for the World](https://www.1fortheworld.org/)**
+**One for the World**
 
-<dl class="job-meta">
-<dt>Location</dt><dd>Mexico City, Mexico, Mexico</dd>
-<dt>Role type</dt><dd>Full-time</dd>
-<dt>Experience</dt><dd>Mid (5-9 years experience), Senior (10+ years experience)</dd>
-<dt>Degree</dt><dd>Undergraduate degree or less</dd>
-<dt>Salary</dt><dd>$24,000 – $36,000</dd>
-</dl>
-
-**Areas & skills:** Building effective altruism, Operations, Finance
+**Areas & skills:** Building effective altruism
 
 ## Summary
 - In this role, you'll manage operations infrastructure including compliance, finance, HR, and vendor relationships.

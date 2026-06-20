@@ -4,25 +4,20 @@ employer: "Power for Democracies"
 job_id: "reckqr2oJILjMWu3j"
 last_updated: "2026-06-19T05:32:30.324378Z"
 posted_at: "2026-05-22T00:00:00Z"
-status: ready
+status: closed
+closed_at: "2026-06-20"
 apply_url: "https://powerfordemocracies.kenjo.io/student-assistant-m-f-d-communications-and-crm-690840"
 areas:
   - "Safeguarding liberal democracy"
 ---
 
+> ⚠️ **CLOSED on 2026-06-20** — this job is no longer listed on the 80,000 Hours board. Archived snapshot below.
+
 # Student Assistant, Communications and Customer Relationship Management
 
-**[Power for Democracies](https://powerfordemocracies.org/)**
+**Power for Democracies**
 
-<dl class="job-meta">
-<dt>Location</dt><dd>Berlin, Germany, Germany, Europe (ex UK)</dd>
-<dt>Role type</dt><dd>Part-time</dd>
-<dt>Experience</dt><dd>Entry-level</dd>
-<dt>Degree</dt><dd>Undergraduate degree or less</dd>
-<dt>Salary</dt><dd>$40,381</dd>
-</dl>
-
-**Areas & skills:** Safeguarding liberal democracy, Outreach, Operations
+**Areas & skills:** Safeguarding liberal democracy
 
 ## Summary
 - In this role, you'll support communications and CRM operations for a pro-democracy organisation.

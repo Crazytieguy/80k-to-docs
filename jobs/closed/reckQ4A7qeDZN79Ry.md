@@ -4,24 +4,20 @@ employer: "Pure Earth"
 job_id: "reckQ4A7qeDZN79Ry"
 last_updated: "2026-06-19T05:33:50.213029Z"
 posted_at: "2022-01-02T00:00:00Z"
-status: ready
+status: closed
+closed_at: "2026-06-20"
 apply_url: "https://app.trinethire.com/companies/586876-pure-earth/jobs/116616-used-lead-acid-battery-ulab-advisor"
 areas:
   - "Global health & development"
 ---
 
+> ⚠️ **CLOSED on 2026-06-20** — this job is no longer listed on the 80,000 Hours board. Archived snapshot below.
+
 # Used Lead Acid Battery Advisor
 
-**[Pure Earth](https://www.pureearth.org/)**
+**Pure Earth**
 
-<dl class="job-meta">
-<dt>Location</dt><dd>New York, NY, USA</dd>
-<dt>Role type</dt><dd>Full-time</dd>
-<dt>Experience</dt><dd>Junior (1-4 years experience), Mid (5-9 years experience)</dd>
-<dt>Degree</dt><dd>Master's degree</dd>
-</dl>
-
-**Areas & skills:** Global health & development, Research, Policy
+**Areas & skills:** Global health & development
 
 ## Summary
 - In this role, you'll serve as Pure Earth's focal person for the lead acid battery industry, developing evidence-based policy recommendations for ULAB recycling in low-income countries.

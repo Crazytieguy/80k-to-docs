@@ -2,7 +2,7 @@
 title: "TB Shield Lead, Sindh"
 employer: "Spiro"
 job_id: "recD4s1x1lG5WVchb"
-last_updated: "2026-06-19T05:32:12.124847Z"
+last_updated: "2026-06-20T05:32:40.862184Z"
 posted_at: "2026-06-08T00:00:00Z"
 status: ready
 apply_url: "https://www.spiro.ngo/join-us"
@@ -19,7 +19,7 @@ areas:
 <dt>Role type</dt><dd>Full-time</dd>
 <dt>Experience</dt><dd>Junior (1-4 years experience)</dd>
 <dt>Degree</dt><dd>Undergraduate degree or less</dd>
-<dt>Salary</dt><dd>$10,778 – $15,090</dd>
+<dt>Salary</dt><dd>$10,788 – $15,104</dd>
 </dl>
 
 **Areas & skills:** Global health & development, Operations, Management
@@ -34,4 +34,4 @@ areas:
 <p class="apply-cta"><a href="https://www.spiro.ngo/join-us">Apply →</a></p>
 
 ---
-*Posted 2026-06-08 · Listing synced 2026-06-19 · 80k job ID `recD4s1x1lG5WVchb`*
+*Posted 2026-06-08 · Listing synced 2026-06-20 · 80k job ID `recD4s1x1lG5WVchb`*

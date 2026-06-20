@@ -2,10 +2,10 @@
 title: "Software Engineer, High-Performance Pipelines"
 employer: "SecureBio"
 job_id: "recXrwakcTRQmanFe"
-last_updated: "2026-06-19T05:32:20.364794Z"
+last_updated: "2026-06-20T05:32:49.323162Z"
 posted_at: "2026-06-01T00:05:00Z"
 status: ready
-apply_url: "https://securebio.org/careers/2026-software-engineer-pipelines/"
+apply_url: "https://securebio.org/careers/2026-software-engineer-pipelines"
 areas:
   - "Biosecurity & pandemic preparedness"
 ---
@@ -31,7 +31,7 @@ areas:
 - Deploy cloud infrastructure, monitor performance, and optimise cost and reliability.
 - Implement observability tools, expand test coverage, and leverage AI to accelerate development.
 
-<p class="apply-cta"><a href="https://securebio.org/careers/2026-software-engineer-pipelines/">Apply →</a></p>
+<p class="apply-cta"><a href="https://securebio.org/careers/2026-software-engineer-pipelines">Apply →</a></p>
 
 ---
-*Posted 2026-06-01 · Listing synced 2026-06-19 · 80k job ID `recXrwakcTRQmanFe`*
+*Posted 2026-06-01 · Listing synced 2026-06-20 · 80k job ID `recXrwakcTRQmanFe`*

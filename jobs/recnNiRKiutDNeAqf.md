@@ -2,7 +2,7 @@
 title: "Fellowship (January 2027)"
 employer: "TechCongress"
 job_id: "recnNiRKiutDNeAqf"
-last_updated: "2026-06-19T05:32:16.456112Z"
+last_updated: "2026-06-20T05:32:45.210915Z"
 posted_at: "2026-06-04T00:02:00Z"
 status: ready
 apply_url: "https://techcongress.forms.fm/january-2027-fellowship/forms/10111"
@@ -34,4 +34,4 @@ areas:
 <p class="apply-cta"><a href="https://techcongress.forms.fm/january-2027-fellowship/forms/10111">Apply →</a></p>
 
 ---
-*Posted 2026-06-04 · Listing synced 2026-06-19 · 80k job ID `recnNiRKiutDNeAqf`*
+*Posted 2026-06-04 · Listing synced 2026-06-20 · 80k job ID `recnNiRKiutDNeAqf`*

@@ -2,7 +2,7 @@
 title: "Co-op, Large Language Models for Decision Making"
 employer: "Lila Sciences"
 job_id: "rec0rDZg6yd8KUlAz"
-last_updated: "2026-06-19T05:31:56.276906Z"
+last_updated: "2026-06-20T05:32:27.089871Z"
 posted_at: "2026-06-15T00:00:00Z"
 status: ready
 apply_url: "https://job-boards.greenhouse.io/lilasciences/jobs/4280808009"
@@ -33,4 +33,4 @@ areas:
 <p class="apply-cta"><a href="https://job-boards.greenhouse.io/lilasciences/jobs/4280808009">Apply →</a></p>
 
 ---
-*Posted 2026-06-15 · Listing synced 2026-06-19 · 80k job ID `rec0rDZg6yd8KUlAz`*
+*Posted 2026-06-15 · Listing synced 2026-06-20 · 80k job ID `rec0rDZg6yd8KUlAz`*

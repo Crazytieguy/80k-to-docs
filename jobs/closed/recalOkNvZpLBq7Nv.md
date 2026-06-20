@@ -4,24 +4,20 @@ employer: "Northeastern University, National Deep Inference Fabric"
 job_id: "recalOkNvZpLBq7Nv"
 last_updated: "2026-06-19T05:33:59.270266Z"
 posted_at: "2022-01-01T00:00:00Z"
-status: ready
+status: closed
+closed_at: "2026-06-20"
 apply_url: "https://ndif.us/405b.html"
 areas:
   - "Career development: Technical"
 ---
 
+> ⚠️ **CLOSED on 2026-06-20** — this job is no longer listed on the 80,000 Hours board. Archived snapshot below.
+
 # Pilot Program
 
-**[Northeastern University, National Deep Inference Fabric](https://ndif.us/)**
+**Northeastern University, National Deep Inference Fabric**
 
-<dl class="job-meta">
-<dt>Location</dt><dd>Remote, USA, USA</dd>
-<dt>Role type</dt><dd>Other</dd>
-<dt>Experience</dt><dd>Multiple experience levels</dd>
-<dt>Degree</dt><dd>Undergraduate degree or less</dd>
-</dl>
-
-**Areas & skills:** Career development: Technical, Research
+**Areas & skills:** Career development: Technical
 
 ## Summary
 - In this role, you'll conduct groundbreaking experiments on the Llama 3.1 405b model while helping test new research infrastructure.

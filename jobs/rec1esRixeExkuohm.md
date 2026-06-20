@@ -2,7 +2,7 @@
 title: "Research Associate"
 employer: "The Broad Institute, Sabeti Lab"
 job_id: "rec1esRixeExkuohm"
-last_updated: "2026-06-19T05:32:16.578119Z"
+last_updated: "2026-06-20T05:32:45.350215Z"
 posted_at: "2026-06-04T00:02:00Z"
 status: ready
 apply_url: "https://broadinstitute.avature.net/en_US/careers/JobDetail/Research-Associate-II-The-Sabeti-Lab/21695"
@@ -34,4 +34,4 @@ areas:
 <p class="apply-cta"><a href="https://broadinstitute.avature.net/en_US/careers/JobDetail/Research-Associate-II-The-Sabeti-Lab/21695">Apply →</a></p>
 
 ---
-*Posted 2026-06-04 · Listing synced 2026-06-19 · 80k job ID `rec1esRixeExkuohm`*
+*Posted 2026-06-04 · Listing synced 2026-06-20 · 80k job ID `rec1esRixeExkuohm`*

@@ -4,25 +4,20 @@ employer: "Welfare Footprint Project"
 job_id: "recVpd0AKNTh6B5he"
 last_updated: "2026-06-19T05:32:43.685567Z"
 posted_at: "2026-05-06T00:00:00Z"
-status: ready
+status: closed
+closed_at: "2026-06-20"
 apply_url: "https://jobs.ashbyhq.com/welfarefootprint/55f53b76-b892-43f2-90ba-986aacceb8da"
 areas:
   - "Animal welfare"
 ---
 
+> ⚠️ **CLOSED on 2026-06-20** — this job is no longer listed on the 80,000 Hours board. Archived snapshot below.
+
 # Operations Lead, Technical Program and AI Research Systems
 
-**[Welfare Footprint Project](https://welfarefootprint.org/)**
+**Welfare Footprint Project**
 
-<dl class="job-meta">
-<dt>Location</dt><dd>Remote, Global</dd>
-<dt>Role type</dt><dd>Part-time</dd>
-<dt>Experience</dt><dd>Mid (5-9 years experience)</dd>
-<dt>Degree</dt><dd>Undergraduate degree or less</dd>
-<dt>Salary</dt><dd>$83,200 – $166,400</dd>
-</dl>
-
-**Areas & skills:** Animal welfare, Operations, Management
+**Areas & skills:** Animal welfare
 
 ## Summary
 - In this role, you'll drive execution of technical projects, translating scientific frameworks into technical requirements.
