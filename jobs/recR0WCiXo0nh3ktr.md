@@ -2,7 +2,7 @@
 title: "Strategic Partnerships and Philanthropy Manager"
 employer: "Centre for Long-Term Resilience"
 job_id: "recR0WCiXo0nh3ktr"
-last_updated: "2026-06-20T05:32:44.440334Z"
+last_updated: "2026-06-21T05:32:40.541825Z"
 posted_at: "2026-06-04T00:05:00Z"
 status: ready
 apply_url: "https://www.longtermresilience.org/were-hiring-strategic-partnerships-and-philanthropy-manager/"
@@ -35,4 +35,4 @@ areas:
 <p class="apply-cta"><a href="https://www.longtermresilience.org/were-hiring-strategic-partnerships-and-philanthropy-manager/">Apply →</a></p>
 
 ---
-*Posted 2026-06-04 · Listing synced 2026-06-20 · 80k job ID `recR0WCiXo0nh3ktr`*
+*Posted 2026-06-04 · Listing synced 2026-06-21 · 80k job ID `recR0WCiXo0nh3ktr`*

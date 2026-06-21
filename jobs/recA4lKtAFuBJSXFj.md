@@ -2,7 +2,7 @@
 title: "Director, Genomics"
 employer: "Perimeter"
 job_id: "recA4lKtAFuBJSXFj"
-last_updated: "2026-06-20T05:32:35.045128Z"
+last_updated: "2026-06-21T05:32:31.390315Z"
 posted_at: "2026-06-10T00:00:00Z"
 status: ready
 apply_url: "https://www.linkedin.com/jobs/view/4426376479/?alternateChannel=search&trk=d_flagship3_company&refId=QkqCoZEEe7braCU25ZZG3g%3D%3D&trackingId=GoIG4%2BTv0mjDj2y6JvmI6A%3D%3D"
@@ -33,4 +33,4 @@ areas:
 <p class="apply-cta"><a href="https://www.linkedin.com/jobs/view/4426376479/?alternateChannel=search&amp;trk=d_flagship3_company&amp;refId=QkqCoZEEe7braCU25ZZG3g%3D%3D&amp;trackingId=GoIG4%2BTv0mjDj2y6JvmI6A%3D%3D">Apply →</a></p>
 
 ---
-*Posted 2026-06-10 · Listing synced 2026-06-20 · 80k job ID `recA4lKtAFuBJSXFj`*
+*Posted 2026-06-10 · Listing synced 2026-06-21 · 80k job ID `recA4lKtAFuBJSXFj`*

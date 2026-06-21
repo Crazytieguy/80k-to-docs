@@ -2,7 +2,7 @@
 title: "Newsletter Editor"
 employer: "Center for AI Safety"
 job_id: "recHCLziTk9zO6RUz"
-last_updated: "2026-06-20T05:33:28.722006Z"
+last_updated: "2026-06-21T05:33:22.829020Z"
 posted_at: "2022-01-12T00:00:00Z"
 status: ready
 apply_url: "https://jobs.lever.co/aisafety/0c6be5ff-b04e-49eb-92bd-d11c7c81ae6e"
@@ -34,4 +34,4 @@ areas:
 <p class="apply-cta"><a href="https://jobs.lever.co/aisafety/0c6be5ff-b04e-49eb-92bd-d11c7c81ae6e">Apply →</a></p>
 
 ---
-*Posted 2022-01-12 · Listing synced 2026-06-20 · 80k job ID `recHCLziTk9zO6RUz`*
+*Posted 2022-01-12 · Listing synced 2026-06-21 · 80k job ID `recHCLziTk9zO6RUz`*

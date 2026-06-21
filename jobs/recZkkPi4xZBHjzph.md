@@ -2,7 +2,7 @@
 title: "Operations Coordinator"
 employer: "Constellation"
 job_id: "recZkkPi4xZBHjzph"
-last_updated: "2026-06-20T05:33:17.609695Z"
+last_updated: "2026-06-21T05:33:13.263413Z"
 posted_at: "2026-04-22T00:04:35Z"
 status: ready
 apply_url: "https://jobs.gem.com/constellation-institute/am9icG9zdDpmiz2izZrL3aKPl8bzx-yv"
@@ -34,4 +34,4 @@ areas:
 <p class="apply-cta"><a href="https://jobs.gem.com/constellation-institute/am9icG9zdDpmiz2izZrL3aKPl8bzx-yv">Apply →</a></p>
 
 ---
-*Posted 2026-04-22 · Listing synced 2026-06-20 · 80k job ID `recZkkPi4xZBHjzph`*
+*Posted 2026-04-22 · Listing synced 2026-06-21 · 80k job ID `recZkkPi4xZBHjzph`*

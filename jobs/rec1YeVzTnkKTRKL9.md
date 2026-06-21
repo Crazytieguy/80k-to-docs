@@ -2,7 +2,7 @@
 title: "Administration Associate"
 employer: "Cooperative AI Foundation"
 job_id: "rec1YeVzTnkKTRKL9"
-last_updated: "2026-06-20T05:32:45.482040Z"
+last_updated: "2026-06-21T05:32:41.556356Z"
 posted_at: "2026-06-04T00:01:00Z"
 status: ready
 apply_url: "https://www.cooperativeai.com/job-listing/administration-associate"
@@ -34,4 +34,4 @@ areas:
 <p class="apply-cta"><a href="https://www.cooperativeai.com/job-listing/administration-associate">Apply →</a></p>
 
 ---
-*Posted 2026-06-04 · Listing synced 2026-06-20 · 80k job ID `rec1YeVzTnkKTRKL9`*
+*Posted 2026-06-04 · Listing synced 2026-06-21 · 80k job ID `rec1YeVzTnkKTRKL9`*

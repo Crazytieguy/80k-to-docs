@@ -2,7 +2,7 @@
 title: "Full Stack Engineer, Monitoring"
 employer: "Apollo Research"
 job_id: "rec7pIGaBdyDg2SSA"
-last_updated: "2026-06-20T05:33:46.643172Z"
+last_updated: "2026-06-21T05:33:40.990203Z"
 posted_at: "2022-01-06T00:00:00Z"
 status: ready
 apply_url: "https://jobs.lever.co/apolloresearch/bdc9ea00-6744-4f2a-8f23-06081af3945c"
@@ -34,4 +34,4 @@ areas:
 <p class="apply-cta"><a href="https://jobs.lever.co/apolloresearch/bdc9ea00-6744-4f2a-8f23-06081af3945c">Apply →</a></p>
 
 ---
-*Posted 2022-01-06 · Listing synced 2026-06-20 · 80k job ID `rec7pIGaBdyDg2SSA`*
+*Posted 2022-01-06 · Listing synced 2026-06-21 · 80k job ID `rec7pIGaBdyDg2SSA`*

@@ -2,7 +2,7 @@
 title: "Full-Stack Software Engineer, S-Process"
 employer: "Survival and Flourishing"
 job_id: "rec6nOL5EaSPWO1m9"
-last_updated: "2026-06-20T05:33:55.660153Z"
+last_updated: "2026-06-21T05:33:49.673833Z"
 posted_at: "2022-01-06T00:00:00Z"
 status: ready
 apply_url: "https://survivalandflourishing.com/full-stack-engineer"
@@ -34,4 +34,4 @@ areas:
 <p class="apply-cta"><a href="https://survivalandflourishing.com/full-stack-engineer">Apply →</a></p>
 
 ---
-*Posted 2022-01-06 · Listing synced 2026-06-20 · 80k job ID `rec6nOL5EaSPWO1m9`*
+*Posted 2022-01-06 · Listing synced 2026-06-21 · 80k job ID `rec6nOL5EaSPWO1m9`*

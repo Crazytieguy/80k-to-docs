@@ -2,7 +2,7 @@
 title: "Research Intern, AI Security"
 employer: "Fujitsu"
 job_id: "recf354iNAUHbbq6V"
-last_updated: "2026-06-20T05:32:19.408592Z"
+last_updated: "2026-06-21T05:32:14.597873Z"
 posted_at: "2026-06-18T00:00:00Z"
 status: ready
 apply_url: "https://www.jobs.global.fujitsu.com/job/Research-Intern%2C-AI-Security/4694-en_US/"
@@ -34,4 +34,4 @@ areas:
 <p class="apply-cta"><a href="https://www.jobs.global.fujitsu.com/job/Research-Intern%2C-AI-Security/4694-en_US/">Apply →</a></p>
 
 ---
-*Posted 2026-06-18 · Listing synced 2026-06-20 · 80k job ID `recf354iNAUHbbq6V`*
+*Posted 2026-06-18 · Listing synced 2026-06-21 · 80k job ID `recf354iNAUHbbq6V`*

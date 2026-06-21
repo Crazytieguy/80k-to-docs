@@ -2,7 +2,7 @@
 title: "Director of Talent Discovery"
 employer: "SteadRise"
 job_id: "recfG7Ztc12823Nyv"
-last_updated: "2026-06-20T05:32:23.529875Z"
+last_updated: "2026-06-21T05:32:18.743045Z"
 posted_at: "2026-06-16T00:01:00Z"
 status: ready
 apply_url: "https://steadrise.notion.site/Director-of-Talent-Discovery-36d20e14e1b780a7864bfa5ae04ace93"
@@ -34,4 +34,4 @@ areas:
 <p class="apply-cta"><a href="https://steadrise.notion.site/Director-of-Talent-Discovery-36d20e14e1b780a7864bfa5ae04ace93">Apply →</a></p>
 
 ---
-*Posted 2026-06-16 · Listing synced 2026-06-20 · 80k job ID `recfG7Ztc12823Nyv`*
+*Posted 2026-06-16 · Listing synced 2026-06-21 · 80k job ID `recfG7Ztc12823Nyv`*

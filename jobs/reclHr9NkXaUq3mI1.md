@@ -2,7 +2,7 @@
 title: "Research Manager / Research Managers, AIxCyber"
 employer: "ERA"
 job_id: "reclHr9NkXaUq3mI1"
-last_updated: "2026-06-20T05:32:32.955587Z"
+last_updated: "2026-06-21T05:32:29.325580Z"
 posted_at: "2026-06-10T00:05:00Z"
 status: ready
 apply_url: "https://docs.google.com/document/d/146aHIPBkHSCQiIb4IYXHO9SrM4uPE5QTUcj58gMyTjY/edit?tab=t.0#heading=h.tpq2eg5mx4yb"
@@ -34,4 +34,4 @@ areas:
 <p class="apply-cta"><a href="https://docs.google.com/document/d/146aHIPBkHSCQiIb4IYXHO9SrM4uPE5QTUcj58gMyTjY/edit?tab=t.0#heading=h.tpq2eg5mx4yb">Apply →</a></p>
 
 ---
-*Posted 2026-06-10 · Listing synced 2026-06-20 · 80k job ID `reclHr9NkXaUq3mI1`*
+*Posted 2026-06-10 · Listing synced 2026-06-21 · 80k job ID `reclHr9NkXaUq3mI1`*

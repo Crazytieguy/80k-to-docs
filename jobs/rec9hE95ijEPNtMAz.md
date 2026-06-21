@@ -2,7 +2,7 @@
 title: "Founding Operations Lead"
 employer: "Institute for Responsible Superintelligence Studies"
 job_id: "rec9hE95ijEPNtMAz"
-last_updated: "2026-06-20T05:32:57.601504Z"
+last_updated: "2026-06-21T05:32:53.557471Z"
 posted_at: "2026-05-25T00:00:00Z"
 status: ready
 apply_url: "https://docs.google.com/document/d/1F_9_BjUxZX7uo2lXRCnbcfAYv5SSs06dGT0WAPIZrdM/edit?tab=t.0#heading=h.h3e5133ifcen"
@@ -34,4 +34,4 @@ areas:
 <p class="apply-cta"><a href="https://docs.google.com/document/d/1F_9_BjUxZX7uo2lXRCnbcfAYv5SSs06dGT0WAPIZrdM/edit?tab=t.0#heading=h.h3e5133ifcen">Apply →</a></p>
 
 ---
-*Posted 2026-05-25 · Listing synced 2026-06-20 · 80k job ID `rec9hE95ijEPNtMAz`*
+*Posted 2026-05-25 · Listing synced 2026-06-21 · 80k job ID `rec9hE95ijEPNtMAz`*

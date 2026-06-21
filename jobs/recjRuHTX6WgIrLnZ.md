@@ -2,7 +2,7 @@
 title: "Research Collaborators"
 employer: "University of California, Center for Human-Compatible Artificial Intelligence"
 job_id: "recjRuHTX6WgIrLnZ"
-last_updated: "2026-06-20T05:33:39.629364Z"
+last_updated: "2026-06-21T05:33:34.596969Z"
 posted_at: "2022-01-11T00:00:00Z"
 status: ready
 apply_url: "https://humancompatible.ai/jobs#research-collaborators"
@@ -33,4 +33,4 @@ areas:
 <p class="apply-cta"><a href="https://humancompatible.ai/jobs#research-collaborators">Apply →</a></p>
 
 ---
-*Posted 2022-01-11 · Listing synced 2026-06-20 · 80k job ID `recjRuHTX6WgIrLnZ`*
+*Posted 2022-01-11 · Listing synced 2026-06-21 · 80k job ID `recjRuHTX6WgIrLnZ`*

@@ -2,7 +2,7 @@
 title: "People Operations Associate"
 employer: "GovAI"
 job_id: "recAB7JtK7uMSkgYd"
-last_updated: "2026-06-20T05:32:47.340322Z"
+last_updated: "2026-06-21T05:32:43.339283Z"
 posted_at: "2026-06-02T00:05:00Z"
 status: ready
 apply_url: "https://www.governance.ai/post/people-operations-associate-2"
@@ -34,4 +34,4 @@ areas:
 <p class="apply-cta"><a href="https://www.governance.ai/post/people-operations-associate-2">Apply →</a></p>
 
 ---
-*Posted 2026-06-02 · Listing synced 2026-06-20 · 80k job ID `recAB7JtK7uMSkgYd`*
+*Posted 2026-06-02 · Listing synced 2026-06-21 · 80k job ID `recAB7JtK7uMSkgYd`*

@@ -2,7 +2,7 @@
 title: "Physical Scientist"
 employer: "US Government, Defense Threat Reduction Agency"
 job_id: "recYNyxDTgBG9KYYx"
-last_updated: "2026-06-20T05:32:18.569522Z"
+last_updated: "2026-06-21T05:32:13.798664Z"
 posted_at: "2026-06-19T00:00:00Z"
 status: ready
 apply_url: "https://www.usajobs.gov/job/873138800"
@@ -34,4 +34,4 @@ areas:
 <p class="apply-cta"><a href="https://www.usajobs.gov/job/873138800">Apply →</a></p>
 
 ---
-*Posted 2026-06-19 · Listing synced 2026-06-20 · 80k job ID `recYNyxDTgBG9KYYx`*
+*Posted 2026-06-19 · Listing synced 2026-06-21 · 80k job ID `recYNyxDTgBG9KYYx`*

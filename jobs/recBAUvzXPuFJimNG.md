@@ -2,7 +2,7 @@
 title: "GovAI U.S. AI Policy Program"
 employer: "GovAI"
 job_id: "recBAUvzXPuFJimNG"
-last_updated: "2026-06-20T05:32:38.661334Z"
+last_updated: "2026-06-21T05:32:34.833498Z"
 posted_at: "2026-06-08T00:03:00Z"
 status: ready
 apply_url: "https://www.governance.ai/post/govai-u-s-ai-policy-program"
@@ -33,4 +33,4 @@ areas:
 <p class="apply-cta"><a href="https://www.governance.ai/post/govai-u-s-ai-policy-program">Apply →</a></p>
 
 ---
-*Posted 2026-06-08 · Listing synced 2026-06-20 · 80k job ID `recBAUvzXPuFJimNG`*
+*Posted 2026-06-08 · Listing synced 2026-06-21 · 80k job ID `recBAUvzXPuFJimNG`*

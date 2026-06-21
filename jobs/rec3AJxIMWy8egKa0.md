@@ -2,7 +2,7 @@
 title: "Operations Manager"
 employer: "Lead-Acid Battery Recycling Initiative"
 job_id: "rec3AJxIMWy8egKa0"
-last_updated: "2026-06-20T05:32:24.389309Z"
+last_updated: "2026-06-21T05:32:19.552779Z"
 posted_at: "2026-06-16T00:00:00Z"
 status: ready
 apply_url: "https://docs.google.com/document/d/1NVVaWQagjQ9gF8Bqtp5f1iJmI-5J7RXAD6L7B7i4P0c/edit?tab=t.0#heading=h.v5ojjjsy5ox8"
@@ -34,4 +34,4 @@ areas:
 <p class="apply-cta"><a href="https://docs.google.com/document/d/1NVVaWQagjQ9gF8Bqtp5f1iJmI-5J7RXAD6L7B7i4P0c/edit?tab=t.0#heading=h.v5ojjjsy5ox8">Apply →</a></p>
 
 ---
-*Posted 2026-06-16 · Listing synced 2026-06-20 · 80k job ID `rec3AJxIMWy8egKa0`*
+*Posted 2026-06-16 · Listing synced 2026-06-21 · 80k job ID `rec3AJxIMWy8egKa0`*

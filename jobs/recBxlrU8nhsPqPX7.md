@@ -2,7 +2,7 @@
 title: "Funding, Programs and Events on Global Catastrophic Risk, Effective Altruism, and Other Topics"
 employer: "Coefficient Giving"
 job_id: "recBxlrU8nhsPqPX7"
-last_updated: "2026-06-20T05:33:42.161238Z"
+last_updated: "2026-06-21T05:33:36.944818Z"
 posted_at: "2022-01-07T00:00:00Z"
 status: ready
 apply_url: "https://www.openphilanthropy.org/funding-for-programs-and-events-on-global-catastrophic-risk-effective-altruism-and-other-topics/"
@@ -33,4 +33,4 @@ areas:
 <p class="apply-cta"><a href="https://www.openphilanthropy.org/funding-for-programs-and-events-on-global-catastrophic-risk-effective-altruism-and-other-topics/">Apply →</a></p>
 
 ---
-*Posted 2022-01-07 · Listing synced 2026-06-20 · 80k job ID `recBxlrU8nhsPqPX7`*
+*Posted 2022-01-07 · Listing synced 2026-06-21 · 80k job ID `recBxlrU8nhsPqPX7`*

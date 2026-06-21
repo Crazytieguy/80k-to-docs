@@ -2,7 +2,7 @@
 title: "Senior Analyst / Counsel, AI Governance"
 employer: "Future of Privacy Forum"
 job_id: "recRuqvgp3rTFLL3o"
-last_updated: "2026-06-20T05:33:50.019150Z"
+last_updated: "2026-06-21T05:33:44.204213Z"
 posted_at: "2022-01-06T00:00:00Z"
 status: ready
 apply_url: "https://fpf.org/analyst-counsel-ai-governance/?message=pantheon-cleared-url-cache"
@@ -34,4 +34,4 @@ areas:
 <p class="apply-cta"><a href="https://fpf.org/analyst-counsel-ai-governance/?message=pantheon-cleared-url-cache">Apply →</a></p>
 
 ---
-*Posted 2022-01-06 · Listing synced 2026-06-20 · 80k job ID `recRuqvgp3rTFLL3o`*
+*Posted 2022-01-06 · Listing synced 2026-06-21 · 80k job ID `recRuqvgp3rTFLL3o`*

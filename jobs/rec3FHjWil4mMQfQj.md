@@ -2,8 +2,8 @@
 title: "Senior Research Scientist"
 employer: "Center for AI Safety"
 job_id: "rec3FHjWil4mMQfQj"
-last_updated: "2026-06-20T05:33:26.663654Z"
-posted_at: "2026-04-01T00:04:09Z"
+last_updated: "2026-06-21T05:33:29.606327Z"
+posted_at: "2022-01-11T00:00:00Z"
 status: ready
 apply_url: "https://jobs.lever.co/aisafety/9c3ca73c-958b-4307-85f5-1daa445ca97e"
 areas:
@@ -34,4 +34,4 @@ areas:
 <p class="apply-cta"><a href="https://jobs.lever.co/aisafety/9c3ca73c-958b-4307-85f5-1daa445ca97e">Apply →</a></p>
 
 ---
-*Posted 2026-04-01 · Listing synced 2026-06-20 · 80k job ID `rec3FHjWil4mMQfQj`*
+*Posted 2022-01-11 · Listing synced 2026-06-21 · 80k job ID `rec3FHjWil4mMQfQj`*

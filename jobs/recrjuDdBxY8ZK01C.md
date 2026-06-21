@@ -2,7 +2,7 @@
 title: "Program Manager, Francophone"
 employer: "Lead Exposure Elimination Project"
 job_id: "recrjuDdBxY8ZK01C"
-last_updated: "2026-06-20T05:32:51.475907Z"
+last_updated: "2026-06-21T05:32:47.397384Z"
 posted_at: "2026-06-01T00:00:00Z"
 status: ready
 apply_url: "https://docs.google.com/document/d/1eH1FlHYTXqt2pTReuPg0yU0MF9o_tTOIWwFANYbtQ_U/preview?tab=t.0#heading=h.jt6jmxp623yt"
@@ -34,4 +34,4 @@ areas:
 <p class="apply-cta"><a href="https://docs.google.com/document/d/1eH1FlHYTXqt2pTReuPg0yU0MF9o_tTOIWwFANYbtQ_U/preview?tab=t.0#heading=h.jt6jmxp623yt">Apply →</a></p>
 
 ---
-*Posted 2026-06-01 · Listing synced 2026-06-20 · 80k job ID `recrjuDdBxY8ZK01C`*
+*Posted 2026-06-01 · Listing synced 2026-06-21 · 80k job ID `recrjuDdBxY8ZK01C`*

@@ -2,7 +2,7 @@
 title: "Internship (Fall 2026)"
 employer: "Vienna Center for Disarmament and Non-Proliferation"
 job_id: "rec95d1YQ6wsaiUSS"
-last_updated: "2026-06-20T05:33:12.969523Z"
+last_updated: "2026-06-21T05:33:08.628710Z"
 posted_at: "2026-05-05T00:01:00Z"
 status: ready
 apply_url: "https://vcdnp.org/fall-2026-internship/"
@@ -34,4 +34,4 @@ areas:
 <p class="apply-cta"><a href="https://vcdnp.org/fall-2026-internship/">Apply →</a></p>
 
 ---
-*Posted 2026-05-05 · Listing synced 2026-06-20 · 80k job ID `rec95d1YQ6wsaiUSS`*
+*Posted 2026-05-05 · Listing synced 2026-06-21 · 80k job ID `rec95d1YQ6wsaiUSS`*

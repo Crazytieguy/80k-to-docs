@@ -2,7 +2,7 @@
 title: "Governance and Policy Fellow"
 employer: "Transluce"
 job_id: "reccCcsYpa2wE0u2X"
-last_updated: "2026-06-20T05:33:20.301817Z"
+last_updated: "2026-06-21T05:33:15.955192Z"
 posted_at: "2026-04-15T00:00:00Z"
 status: ready
 apply_url: "https://jobs.gem.com/transluce/am9icG9zdDpVz8DJmgMdoy_WaOqlBt2o"
@@ -34,4 +34,4 @@ areas:
 <p class="apply-cta"><a href="https://jobs.gem.com/transluce/am9icG9zdDpVz8DJmgMdoy_WaOqlBt2o">Apply →</a></p>
 
 ---
-*Posted 2026-04-15 · Listing synced 2026-06-20 · 80k job ID `reccCcsYpa2wE0u2X`*
+*Posted 2026-04-15 · Listing synced 2026-06-21 · 80k job ID `reccCcsYpa2wE0u2X`*

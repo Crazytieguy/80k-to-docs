@@ -2,7 +2,7 @@
 title: "Volunteer"
 employer: "Mercy for Animals"
 job_id: "recv8a5rcUTyo1NNO"
-last_updated: "2026-06-20T05:34:19.318113Z"
+last_updated: "2026-06-21T05:34:11.941012Z"
 posted_at: "2022-01-02T00:00:00Z"
 status: ready
 apply_url: "https://mercyforanimals.lat/empleos/"
@@ -29,4 +29,4 @@ areas:
 <p class="apply-cta"><a href="https://mercyforanimals.lat/empleos/">Apply →</a></p>
 
 ---
-*Posted 2022-01-02 · Listing synced 2026-06-20 · 80k job ID `recv8a5rcUTyo1NNO`*
+*Posted 2022-01-02 · Listing synced 2026-06-21 · 80k job ID `recv8a5rcUTyo1NNO`*

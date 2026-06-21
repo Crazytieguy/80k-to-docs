@@ -2,7 +2,7 @@
 title: "Marketer"
 employer: "80,000 Hours"
 job_id: "rec7ZAze0TwBBGCJ6"
-last_updated: "2026-06-20T05:32:49.576877Z"
+last_updated: "2026-06-21T05:32:45.519772Z"
 posted_at: "2026-06-01T00:03:00Z"
 status: ready
 apply_url: "https://80000hours.org/2026/05/open-position-marketer-2026/"
@@ -34,4 +34,4 @@ areas:
 <p class="apply-cta"><a href="https://80000hours.org/2026/05/open-position-marketer-2026/">Apply →</a></p>
 
 ---
-*Posted 2026-06-01 · Listing synced 2026-06-20 · 80k job ID `rec7ZAze0TwBBGCJ6`*
+*Posted 2026-06-01 · Listing synced 2026-06-21 · 80k job ID `rec7ZAze0TwBBGCJ6`*

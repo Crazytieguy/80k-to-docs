@@ -2,7 +2,7 @@
 title: "Operations Manager"
 employer: "Centre for Long-Term Resilience"
 job_id: "recG2ExYTTjYZBzbu"
-last_updated: "2026-06-20T05:32:44.305738Z"
+last_updated: "2026-06-21T05:32:40.409199Z"
 posted_at: "2026-06-04T00:05:00Z"
 status: ready
 apply_url: "https://www.longtermresilience.org/were-hiring-operations-manager/"
@@ -35,4 +35,4 @@ areas:
 <p class="apply-cta"><a href="https://www.longtermresilience.org/were-hiring-operations-manager/">Apply →</a></p>
 
 ---
-*Posted 2026-06-04 · Listing synced 2026-06-20 · 80k job ID `recG2ExYTTjYZBzbu`*
+*Posted 2026-06-04 · Listing synced 2026-06-21 · 80k job ID `recG2ExYTTjYZBzbu`*

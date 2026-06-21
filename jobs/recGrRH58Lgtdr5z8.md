@@ -2,7 +2,7 @@
 title: "Senior Front-End Engineer"
 employer: "Meridian Labs"
 job_id: "recGrRH58Lgtdr5z8"
-last_updated: "2026-06-20T05:33:08.442057Z"
+last_updated: "2026-06-21T05:33:03.521226Z"
 posted_at: "2026-05-13T00:01:00Z"
 status: ready
 apply_url: "https://meridianlabs.ai/careers/senior-fe"
@@ -34,4 +34,4 @@ areas:
 <p class="apply-cta"><a href="https://meridianlabs.ai/careers/senior-fe">Apply →</a></p>
 
 ---
-*Posted 2026-05-13 · Listing synced 2026-06-20 · 80k job ID `recGrRH58Lgtdr5z8`*
+*Posted 2026-05-13 · Listing synced 2026-06-21 · 80k job ID `recGrRH58Lgtdr5z8`*

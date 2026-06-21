@@ -2,12 +2,12 @@
 
 Daily-refreshed mirror of every job posting on the [80,000 Hours job board](https://jobs.80000hours.org/). One markdown file per job under `jobs/`. Closed jobs move to `jobs/closed/`.
 
-**865** active · **242** closed · last synced 2026-06-20 07:38 UTC
+**866** active · **241** closed · last synced 2026-06-21 07:59 UTC
 
 _See [README](./README.md) for how this is built. Source: [GitHub repo](https://github.com/Crazytieguy/80k-to-docs)._
 
 <div class="areas-filter" aria-label="Filter by area">
-<button type="button" class="chip is-active" data-area="all" aria-pressed="true">All (865)</button>
+<button type="button" class="chip is-active" data-area="all" aria-pressed="true">All (866)</button>
 <button type="button" class="chip" data-area="AI safety &amp; policy" aria-pressed="false">AI safety &amp; policy (468)</button>
 <button type="button" class="chip" data-area="Global health &amp; development" aria-pressed="false">Global health &amp; development (76)</button>
 <button type="button" class="chip" data-area="Career development: Policy &amp; government" aria-pressed="false">Career development: Policy &amp; government (73)</button>
@@ -20,9 +20,9 @@ _See [README](./README.md) for how this is built. Source: [GitHub repo](https://
 <button type="button" class="chip" data-area="AI technical safety" aria-pressed="false">AI technical safety (15)</button>
 <button type="button" class="chip" data-area="Career development" aria-pressed="false">Career development (8)</button>
 <button type="button" class="chip" data-area="Climate change" aria-pressed="false">Climate change (8)</button>
+<button type="button" class="chip" data-area="Safeguarding liberal democracy" aria-pressed="false">Safeguarding liberal democracy (5)</button>
 <button type="button" class="chip" data-area="Forecasting" aria-pressed="false">Forecasting (4)</button>
 <button type="button" class="chip" data-area="Congressional staffer" aria-pressed="false">Congressional staffer (4)</button>
-<button type="button" class="chip" data-area="Safeguarding liberal democracy" aria-pressed="false">Safeguarding liberal democracy (4)</button>
 <button type="button" class="chip" data-area="AI governance" aria-pressed="false">AI governance (3)</button>
 <button type="button" class="chip" data-area="Science policy and infrastructure" aria-pressed="false">Science policy and infrastructure (2)</button>
 <button type="button" class="chip" data-area="Civilisation resilience" aria-pressed="false">Civilisation resilience (2)</button>
@@ -292,9 +292,6 @@ _See [README](./README.md) for how this is built. Source: [GitHub repo](https://
 - `2026-04-02` · [Workshops and Events Lead](./jobs/recULuY0WUspClS3u.md) — Cambridge Boston Alignment Initiative
 - `2026-04-02` · [Research Program Associate, AI Safety](./jobs/rectF9UpNmf05fnfu.md) — Cambridge Boston Alignment Initiative
 - `2026-04-02` · [Program Lead, AIxBio](./jobs/recyQnNZxKVPEl2C7.md) — Cambridge Boston Alignment Initiative
-- `2026-04-02` · [Applied Research Scientist, AI Security](./jobs/rechcLaPOtqNOherB.md) — Mila
-- `2026-04-01` · [Senior Research Scientist](./jobs/rec3FHjWil4mMQfQj.md) — Center for AI Safety
-- `2026-04-01` · [Senior Research Engineer](./jobs/recOVg3ZMjR3iJDEP.md) — Center for AI Safety
 - `2022-01-13` · [Expression of Interest, Pannu Lab](./jobs/rec4yFSYJwM7mFO2P.md) — Johns Hopkins University, Center for Health Security
 - `2022-01-13` · [General Application](./jobs/recgK4Kc5ag6YQN4f.md) — Coefficient Giving
 - `2022-01-13` · [Research Scientist, Biological Safety](./jobs/recmS88tRE8gce5eD.md) — Anthropic
@@ -303,6 +300,7 @@ _See [README](./README.md) for how this is built. Source: [GitHub repo](https://
 - `2022-01-12` · [Research Engineer](./jobs/rec9H92Na3jiI0nP2.md) — Center for AI Safety
 - `2022-01-12` · [Data Scientist](./jobs/recBJDXwlEjPxReQM.md) — Epoch AI
 - `2022-01-12` · [Newsletter Editor](./jobs/recHCLziTk9zO6RUz.md) — Center for AI Safety
+- `2022-01-12` · [Senior Research Engineer](./jobs/recOVg3ZMjR3iJDEP.md) — Center for AI Safety
 - `2022-01-12` · [Research Manager, Interpretability](./jobs/recR5v7E0vhMJF7M5.md) — Anthropic
 - `2022-01-12` · [Research Engineer Intern (Fall 2026)](./jobs/recU4FPZknbbKuz0v.md) — Center for AI Safety
 - `2022-01-12` · [Researcher, Trustworthy AI](./jobs/recZX6VGmAZCADXgN.md) — OpenAI
@@ -316,6 +314,7 @@ _See [README](./README.md) for how this is built. Source: [GitHub repo](https://
 - `2022-01-11` · [ML Infrastructure Engineer, Safeguards](./jobs/rec0JPd7APPV7LTpi.md) — Anthropic
 - `2022-01-11` · [Grantee](./jobs/rec0UyW1dWdj2JCm3.md) — Center on Long-Term Risk
 - `2022-01-11` · [Security Engineer, Detection and Response](./jobs/rec1EzwXWOXuJ998k.md) — Anthropic
+- `2022-01-11` · [Senior Research Scientist](./jobs/rec3FHjWil4mMQfQj.md) — Center for AI Safety
 - `2022-01-11` · [Security Engineer, Application Security](./jobs/rec4MOwwIEW88lT14.md) — OpenAI
 - `2022-01-11` · [Principal, Special Projects](./jobs/rec5uiAFtb0uqt3mv.md) — Center for AI Safety
 - `2022-01-11` · [Application Security Engineer](./jobs/rec6yXtxKxc4NukKl.md) — Anthropic
@@ -485,6 +484,7 @@ _See [README](./README.md) for how this is built. Source: [GitHub repo](https://
 - `2022-01-05` · [Senior Research Lead, AI Security Portfolio](./jobs/recf6BakhYNqruuGw.md) — RAND Corporation
 - `2022-01-05` · [Research Engineer](./jobs/recfyvnXuWtw53oNP.md) — Haize Labs
 - `2022-01-05` · [Head of Research and Development, AI Safety](./jobs/rechTrSs4GF4QWzJN.md) — Faculty
+- `2022-01-05` · [Applied Research Scientist, AI Security](./jobs/rechcLaPOtqNOherB.md) — Mila
 - `2022-01-05` · [Staff ML Engineer](./jobs/recigBfBGD5h5f5Am.md) — Lakera AI
 - `2022-01-05` · [Scientist / Senior Scientist, AI Safety](./jobs/reckCM7VP9OipdAaU.md) — Lila Sciences
 - `2022-01-05` · [Expressions of Interest, Policy and Engineering](./jobs/reclbgtixhBPHSOPn.md) — AI Verification and Evaluation Research Institute
@@ -962,6 +962,14 @@ _See [README](./README.md) for how this is built. Source: [GitHub repo](https://
 - `2022-01-01` · [Audacious Project](./jobs/recmFvm5DuirW8mst.md) — The Audacious Project
 - `2022-01-01` · [Jobs and Opportunities in Nuclear Fusion Energy Development](./jobs/recv0ReOVAJSLeXsg.md) — US Fusion Energy
 
+### Safeguarding liberal democracy
+
+- `2026-05-29` · [Tech Counsel, AI for Democracy Action Lab](./jobs/recDwTKDq9fvy0IZ6.md) — Protect Democracy
+- `2026-05-28` · [Tech Policy Strategist, AI for Democracy Action Lab](./jobs/recXBkuPlSBlayKxi.md) — Protect Democracy
+- `2026-05-22` · [Student Assistant, Communications and Customer Relationship Management](./jobs/reckqr2oJILjMWu3j.md) — Power for Democracies
+- `2026-05-18` · [Internship, Democratic Resilience (Fall 2026)](./jobs/recjWlwXjypyyM3Uk.md) — Center for European Policy Analysis
+- `2022-01-01` · [Program Director](./jobs/recVx7fUapq0KUQwW.md) — Hewlett Foundation
+
 ### Forecasting
 
 - `2022-01-05` · [Strategy Fellow](./jobs/recFwYkHcKTgY4U9d.md) — Forecasting Research Institute
@@ -975,13 +983,6 @@ _See [README](./README.md) for how this is built. Source: [GitHub repo](https://
 - `2026-06-16` · [List of Internship Opportunities, U.S. Senate](./jobs/recCtbgPE9WeKcvl7.md) — US Government, Senate
 - `2026-06-16` · [List of Staff Opportunities, U.S. Senate](./jobs/recFZtf6iBYl56gII.md) — US Government, Senate
 - `2026-06-16` · [List of Internship Opportunities, U.S. House of Representatives](./jobs/reczKcUpaW7OS0Yfl.md) — US Government, Congress
-
-### Safeguarding liberal democracy
-
-- `2026-05-29` · [Tech Counsel, AI for Democracy Action Lab](./jobs/recDwTKDq9fvy0IZ6.md) — Protect Democracy
-- `2026-05-28` · [Tech Policy Strategist, AI for Democracy Action Lab](./jobs/recXBkuPlSBlayKxi.md) — Protect Democracy
-- `2026-05-18` · [Internship, Democratic Resilience (Fall 2026)](./jobs/recjWlwXjypyyM3Uk.md) — Center for European Policy Analysis
-- `2022-01-01` · [Program Director](./jobs/recVx7fUapq0KUQwW.md) — Hewlett Foundation
 
 ### AI governance
 
@@ -1025,7 +1026,6 @@ _See [README](./README.md) for how this is built. Source: [GitHub repo](https://
 - `2026-06-20` · [Operations Manager](./jobs/closed/recaJToUV8bbiX8UQ.md) — One for the World
 - `2026-06-20` · [Pilot Program](./jobs/closed/recalOkNvZpLBq7Nv.md) — Northeastern University, National Deep Inference Fabric
 - `2026-06-20` · [Used Lead Acid Battery Advisor](./jobs/closed/reckQ4A7qeDZN79Ry.md) — Pure Earth
-- `2026-06-20` · [Student Assistant, Communications and Customer Relationship Management](./jobs/closed/reckqr2oJILjMWu3j.md) — Power for Democracies
 - `2026-06-20` · [Program Manager, SparkWell](./jobs/closed/recqRLRV8eQICiZRS.md) — Anti Entropy
 - `2026-06-20` · [Research Scientist, Diagnostics](./jobs/closed/recuUvwR9BMXCj1RL.md) — The Broad Institute, Sabeti Lab
 - `2026-06-20` · [AI Policy Research Resident, Associate / Specialist, Center on AI, Security, and Technology](./jobs/closed/reczemtnd1a476mBE.md) — RAND Corporation
@@ -1067,5 +1067,6 @@ _See [README](./README.md) for how this is built. Source: [GitHub repo](https://
 - `2026-06-15` · [AI Policy Leaders Programme](./jobs/closed/recXHu4sjwCZmn2jx.md) — Talos Network
 - `2026-06-15` · [In-Depth EA Program](./jobs/closed/rechaF6odPiKAyHZU.md) — Centre for Effective Altruism
 - `2026-06-15` · [Advisor](./jobs/closed/reclC02RZUCp4S6rZ.md) — 80,000 Hours
+- `2026-06-15` · [Sales and Marketing Manager](./jobs/closed/recxRU7WObKFYBIxg.md) — Fish Welfare Initiative
 
 _Browse the rest in [`jobs/closed/`](./jobs/closed/)._

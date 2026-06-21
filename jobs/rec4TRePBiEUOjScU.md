@@ -2,7 +2,7 @@
 title: "AI Red Teamer, Frontier AI Safety"
 employer: "July AI"
 job_id: "rec4TRePBiEUOjScU"
-last_updated: "2026-06-20T05:34:18.165972Z"
+last_updated: "2026-06-21T05:34:10.814067Z"
 posted_at: "2022-01-02T00:00:00Z"
 status: ready
 apply_url: "https://www.notion.so/Use-Your-Creativity-to-Make-a-Frontier-AI-Model-Safer-AI-Red-Teaming-298c6fc4dec280ee956dcb78897f323b"
@@ -34,4 +34,4 @@ areas:
 <p class="apply-cta"><a href="https://www.notion.so/Use-Your-Creativity-to-Make-a-Frontier-AI-Model-Safer-AI-Red-Teaming-298c6fc4dec280ee956dcb78897f323b">Apply →</a></p>
 
 ---
-*Posted 2022-01-02 · Listing synced 2026-06-20 · 80k job ID `rec4TRePBiEUOjScU`*
+*Posted 2022-01-02 · Listing synced 2026-06-21 · 80k job ID `rec4TRePBiEUOjScU`*

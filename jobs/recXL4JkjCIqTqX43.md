@@ -2,7 +2,7 @@
 title: "Red Teaming Fellowship"
 employer: "10a Labs"
 job_id: "recXL4JkjCIqTqX43"
-last_updated: "2026-06-20T05:32:42.915358Z"
+last_updated: "2026-06-21T05:32:39.102949Z"
 posted_at: "2026-06-05T00:00:00Z"
 status: ready
 apply_url: "https://job-boards.greenhouse.io/10alabs/jobs/4273684009"
@@ -34,4 +34,4 @@ areas:
 <p class="apply-cta"><a href="https://job-boards.greenhouse.io/10alabs/jobs/4273684009">Apply →</a></p>
 
 ---
-*Posted 2026-06-05 · Listing synced 2026-06-20 · 80k job ID `recXL4JkjCIqTqX43`*
+*Posted 2026-06-05 · Listing synced 2026-06-21 · 80k job ID `recXL4JkjCIqTqX43`*
