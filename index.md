@@ -2,7 +2,7 @@
 
 Daily-refreshed mirror of every job posting on the [80,000 Hours job board](https://jobs.80000hours.org/). One markdown file per job under `jobs/`. Closed jobs move to `jobs/closed/`.
 
-**866** active · **241** closed · last synced 2026-06-21 07:59 UTC
+**866** active · **241** closed · last synced 2026-06-22 08:31 UTC
 
 _See [README](./README.md) for how this is built. Source: [GitHub repo](https://github.com/Crazytieguy/80k-to-docs)._
 
