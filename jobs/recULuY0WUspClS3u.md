@@ -2,8 +2,8 @@
 title: "Workshops and Events Lead"
 employer: "Cambridge Boston Alignment Initiative"
 job_id: "recULuY0WUspClS3u"
-last_updated: "2026-06-21T05:33:21.260376Z"
-posted_at: "2026-04-02T00:02:00Z"
+last_updated: "2026-06-23T05:33:37.749410Z"
+posted_at: "2022-01-06T00:00:00Z"
 status: ready
 apply_url: "https://jobs.ashbyhq.com/cbai/404d4d26-760e-41a7-9bf2-b0da235246b3"
 areas:
@@ -34,4 +34,4 @@ areas:
 <p class="apply-cta"><a href="https://jobs.ashbyhq.com/cbai/404d4d26-760e-41a7-9bf2-b0da235246b3">Apply →</a></p>
 
 ---
-*Posted 2026-04-02 · Listing synced 2026-06-21 · 80k job ID `recULuY0WUspClS3u`*
+*Posted 2022-01-06 · Listing synced 2026-06-23 · 80k job ID `recULuY0WUspClS3u`*

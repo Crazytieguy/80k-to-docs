@@ -2,7 +2,7 @@
 title: "Research Fellowship, Evolution of AI Capabilities at the Frontier and Thresholds of Human Performance"
 employer: "General-Purpose AI Policy Lab"
 job_id: "reclu0SWEUIrb9eZ6"
-last_updated: "2026-06-21T05:32:41.685966Z"
+last_updated: "2026-06-23T05:32:41.405070Z"
 posted_at: "2026-06-04T00:01:00Z"
 status: ready
 apply_url: "https://docs.google.com/document/d/1fQur5Ag-xhPX1r6NVuQhzw9jrVJCdwbrIOAUah-Mg60/edit?tab=t.0#heading=h.t68xvssya9g"
@@ -33,4 +33,4 @@ areas:
 <p class="apply-cta"><a href="https://docs.google.com/document/d/1fQur5Ag-xhPX1r6NVuQhzw9jrVJCdwbrIOAUah-Mg60/edit?tab=t.0#heading=h.t68xvssya9g">Apply →</a></p>
 
 ---
-*Posted 2026-06-04 · Listing synced 2026-06-21 · 80k job ID `reclu0SWEUIrb9eZ6`*
+*Posted 2026-06-04 · Listing synced 2026-06-23 · 80k job ID `reclu0SWEUIrb9eZ6`*

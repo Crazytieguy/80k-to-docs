@@ -2,7 +2,7 @@
 title: "Director, Regional Public Policy"
 employer: "Semilla Nueva"
 job_id: "recPtB8ZrVebkXgKn"
-last_updated: "2026-06-21T05:34:22.312272Z"
+last_updated: "2026-06-23T05:34:16.391592Z"
 posted_at: "2022-01-01T00:00:00Z"
 status: ready
 apply_url: "https://semillanueva.org/join-our-team/director-de-politica-publica-regional/"
@@ -32,4 +32,4 @@ areas:
 <p class="apply-cta"><a href="https://semillanueva.org/join-our-team/director-de-politica-publica-regional/">Apply →</a></p>
 
 ---
-*Posted 2022-01-01 · Listing synced 2026-06-21 · 80k job ID `recPtB8ZrVebkXgKn`*
+*Posted 2022-01-01 · Listing synced 2026-06-23 · 80k job ID `recPtB8ZrVebkXgKn`*

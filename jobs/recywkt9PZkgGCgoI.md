@@ -2,7 +2,7 @@
 title: "Senior Writer"
 employer: "The Deep View"
 job_id: "recywkt9PZkgGCgoI"
-last_updated: "2026-06-21T05:34:00.436394Z"
+last_updated: "2026-06-23T05:33:54.964543Z"
 posted_at: "2022-01-05T00:00:00Z"
 status: ready
 apply_url: "https://jobs.ashbyhq.com/tdv/4aa51878-d68a-4b09-a007-9c311ccf3271?trk=feed_main-feed-card_feed-article-content"
@@ -33,4 +33,4 @@ areas:
 <p class="apply-cta"><a href="https://jobs.ashbyhq.com/tdv/4aa51878-d68a-4b09-a007-9c311ccf3271?trk=feed_main-feed-card_feed-article-content">Apply →</a></p>
 
 ---
-*Posted 2022-01-05 · Listing synced 2026-06-21 · 80k job ID `recywkt9PZkgGCgoI`*
+*Posted 2022-01-05 · Listing synced 2026-06-23 · 80k job ID `recywkt9PZkgGCgoI`*

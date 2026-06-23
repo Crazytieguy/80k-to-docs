@@ -2,7 +2,7 @@
 title: "Research Project Grants"
 employer: "Leverhulme Trust"
 job_id: "recl303jsliD9x7Sc"
-last_updated: "2026-06-21T05:34:21.212865Z"
+last_updated: "2026-06-23T05:34:15.360611Z"
 posted_at: "2022-01-01T00:00:00Z"
 status: ready
 apply_url: "https://www.leverhulme.ac.uk/research-project-grants"
@@ -33,4 +33,4 @@ areas:
 <p class="apply-cta"><a href="https://www.leverhulme.ac.uk/research-project-grants">Apply →</a></p>
 
 ---
-*Posted 2022-01-01 · Listing synced 2026-06-21 · 80k job ID `recl303jsliD9x7Sc`*
+*Posted 2022-01-01 · Listing synced 2026-06-23 · 80k job ID `recl303jsliD9x7Sc`*

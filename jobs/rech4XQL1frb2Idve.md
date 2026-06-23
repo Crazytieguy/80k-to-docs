@@ -2,7 +2,7 @@
 title: "Finance Associate, UK and US"
 employer: "Impact Ops"
 job_id: "rech4XQL1frb2Idve"
-last_updated: "2026-06-21T05:32:33.924509Z"
+last_updated: "2026-06-23T05:32:34.336295Z"
 posted_at: "2026-06-09T00:00:00Z"
 status: ready
 apply_url: "https://impact-ops.org/jobs/finance-associate-2/"
@@ -19,7 +19,7 @@ areas:
 <dt>Role type</dt><dd>Full-time</dd>
 <dt>Experience</dt><dd>Junior (1-4 years experience)</dd>
 <dt>Degree</dt><dd>Undergraduate degree or less</dd>
-<dt>Salary</dt><dd>$55,581 – $63,521</dd>
+<dt>Salary</dt><dd>$55,596 – $63,538</dd>
 </dl>
 
 **Areas & skills:** Building effective altruism, Finance
@@ -34,4 +34,4 @@ areas:
 <p class="apply-cta"><a href="https://impact-ops.org/jobs/finance-associate-2/">Apply →</a></p>
 
 ---
-*Posted 2026-06-09 · Listing synced 2026-06-21 · 80k job ID `rech4XQL1frb2Idve`*
+*Posted 2026-06-09 · Listing synced 2026-06-23 · 80k job ID `rech4XQL1frb2Idve`*

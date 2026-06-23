@@ -2,7 +2,7 @@
 title: "Technical Product Marketing Manager"
 employer: "Goodfire"
 job_id: "recHmnTC6c5Z0VXEB"
-last_updated: "2026-06-21T05:33:56.786754Z"
+last_updated: "2026-06-23T05:33:51.516902Z"
 posted_at: "2022-01-05T00:00:00Z"
 status: ready
 apply_url: "https://job-boards.greenhouse.io/goodfire/jobs/4988062008"
@@ -34,4 +34,4 @@ areas:
 <p class="apply-cta"><a href="https://job-boards.greenhouse.io/goodfire/jobs/4988062008">Apply →</a></p>
 
 ---
-*Posted 2022-01-05 · Listing synced 2026-06-21 · 80k job ID `recHmnTC6c5Z0VXEB`*
+*Posted 2022-01-05 · Listing synced 2026-06-23 · 80k job ID `recHmnTC6c5Z0VXEB`*

@@ -2,7 +2,7 @@
 title: "Research Scientist, AI Safety"
 employer: "Beneficial AI Foundation"
 job_id: "recnim14y4vNEZ2Ti"
-last_updated: "2026-06-21T05:33:02.402149Z"
+last_updated: "2026-06-23T05:32:59.162269Z"
 posted_at: "2026-05-14T00:00:00Z"
 status: ready
 apply_url: "https://docs.google.com/forms/d/1K1sSJQXK0nNmCSu_j54G0jl-XVPMTJSHtBVzSzaXEjQ/viewform?edit_requested=true"
@@ -34,4 +34,4 @@ areas:
 <p class="apply-cta"><a href="https://docs.google.com/forms/d/1K1sSJQXK0nNmCSu_j54G0jl-XVPMTJSHtBVzSzaXEjQ/viewform?edit_requested=true">Apply →</a></p>
 
 ---
-*Posted 2026-05-14 · Listing synced 2026-06-21 · 80k job ID `recnim14y4vNEZ2Ti`*
+*Posted 2026-05-14 · Listing synced 2026-06-23 · 80k job ID `recnim14y4vNEZ2Ti`*

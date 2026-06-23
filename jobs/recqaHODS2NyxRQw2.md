@@ -2,7 +2,7 @@
 title: "Postdoctoral Fellow, AI/ML Applications for Vaccine"
 employer: "Pfizer"
 job_id: "recqaHODS2NyxRQw2"
-last_updated: "2026-06-21T05:32:16.728726Z"
+last_updated: "2026-06-23T05:32:17.640344Z"
 posted_at: "2026-06-17T00:00:00Z"
 status: ready
 apply_url: "https://pfizer.wd1.myworkdayjobs.com/en-US/PfizerCareers/job/Postdoctoral-Fellow--AI-ML-Applications-for-Vaccine_4954934-1"
@@ -34,4 +34,4 @@ areas:
 <p class="apply-cta"><a href="https://pfizer.wd1.myworkdayjobs.com/en-US/PfizerCareers/job/Postdoctoral-Fellow--AI-ML-Applications-for-Vaccine_4954934-1">Apply →</a></p>
 
 ---
-*Posted 2026-06-17 · Listing synced 2026-06-21 · 80k job ID `recqaHODS2NyxRQw2`*
+*Posted 2026-06-17 · Listing synced 2026-06-23 · 80k job ID `recqaHODS2NyxRQw2`*

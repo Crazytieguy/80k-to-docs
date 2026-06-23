@@ -2,7 +2,7 @@
 title: "Technical Project Manager"
 employer: "Apart Research"
 job_id: "recCdIQHp4I955kwg"
-last_updated: "2026-06-21T05:32:22.926515Z"
+last_updated: "2026-06-23T05:32:23.471008Z"
 posted_at: "2026-06-12T00:04:55Z"
 status: ready
 apply_url: "https://apartresearch.notion.site/technical-project-manager"
@@ -34,4 +34,4 @@ areas:
 <p class="apply-cta"><a href="https://apartresearch.notion.site/technical-project-manager">Apply →</a></p>
 
 ---
-*Posted 2026-06-12 · Listing synced 2026-06-21 · 80k job ID `recCdIQHp4I955kwg`*
+*Posted 2026-06-12 · Listing synced 2026-06-23 · 80k job ID `recCdIQHp4I955kwg`*

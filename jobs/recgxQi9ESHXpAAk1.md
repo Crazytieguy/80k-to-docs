@@ -2,7 +2,7 @@
 title: "Kitchen Support, Dishwasher and Prep"
 employer: "Constellation"
 job_id: "recgxQi9ESHXpAAk1"
-last_updated: "2026-06-21T05:32:41.965402Z"
+last_updated: "2026-06-23T05:32:41.546485Z"
 posted_at: "2026-06-04T00:00:00Z"
 status: ready
 apply_url: "https://jobs.gem.com/constellation-institute/am9icG9zdDqDb0JHSbCpnj2EWguHuJxF"
@@ -34,4 +34,4 @@ areas:
 <p class="apply-cta"><a href="https://jobs.gem.com/constellation-institute/am9icG9zdDqDb0JHSbCpnj2EWguHuJxF">Apply →</a></p>
 
 ---
-*Posted 2026-06-04 · Listing synced 2026-06-21 · 80k job ID `recgxQi9ESHXpAAk1`*
+*Posted 2026-06-04 · Listing synced 2026-06-23 · 80k job ID `recgxQi9ESHXpAAk1`*

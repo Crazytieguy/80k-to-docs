@@ -2,7 +2,7 @@
 title: "Internship, Tech Policy (Fall 2026)"
 employer: "Center for European Policy Analysis"
 job_id: "recQYHWiwM6sW79mL"
-last_updated: "2026-06-21T05:33:00.411688Z"
+last_updated: "2026-06-23T05:32:57.174512Z"
 posted_at: "2026-05-18T00:00:00Z"
 status: ready
 apply_url: "https://apply.appone.com/job/6a034c48993f3a3fd106b8e0"
@@ -33,4 +33,4 @@ areas:
 <p class="apply-cta"><a href="https://apply.appone.com/job/6a034c48993f3a3fd106b8e0">Apply →</a></p>
 
 ---
-*Posted 2026-05-18 · Listing synced 2026-06-21 · 80k job ID `recQYHWiwM6sW79mL`*
+*Posted 2026-05-18 · Listing synced 2026-06-23 · 80k job ID `recQYHWiwM6sW79mL`*

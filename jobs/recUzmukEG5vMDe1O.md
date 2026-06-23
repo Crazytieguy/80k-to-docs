@@ -2,7 +2,7 @@
 title: "Fellowship, Emerging Voices in AI and Society (x3)"
 employer: "Center for Humane Technology"
 job_id: "recUzmukEG5vMDe1O"
-last_updated: "2026-06-21T05:32:15.646864Z"
+last_updated: "2026-06-23T05:32:16.474266Z"
 posted_at: "2026-06-17T00:00:00Z"
 status: ready
 apply_url: "https://jobs.pcdn.global/jobs/cht-s-emerging-voices-in-ai-and-society-fellowship-81da49a0"
@@ -35,4 +35,4 @@ areas:
 <p class="apply-cta"><a href="https://jobs.pcdn.global/jobs/cht-s-emerging-voices-in-ai-and-society-fellowship-81da49a0">Apply →</a></p>
 
 ---
-*Posted 2026-06-17 · Listing synced 2026-06-21 · 80k job ID `recUzmukEG5vMDe1O`*
+*Posted 2026-06-17 · Listing synced 2026-06-23 · 80k job ID `recUzmukEG5vMDe1O`*

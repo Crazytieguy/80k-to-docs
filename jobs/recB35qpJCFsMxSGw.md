@@ -2,7 +2,7 @@
 title: "Research Scientist, AI Safety, ML Focus"
 employer: "LawZero"
 job_id: "recB35qpJCFsMxSGw"
-last_updated: "2026-06-21T05:33:46.223643Z"
+last_updated: "2026-06-23T05:33:41.444157Z"
 posted_at: "2022-01-06T00:00:00Z"
 status: ready
 apply_url: "https://job-boards.greenhouse.io/lawzero/jobs/4008813009"
@@ -33,4 +33,4 @@ areas:
 <p class="apply-cta"><a href="https://job-boards.greenhouse.io/lawzero/jobs/4008813009">Apply →</a></p>
 
 ---
-*Posted 2022-01-06 · Listing synced 2026-06-21 · 80k job ID `recB35qpJCFsMxSGw`*
+*Posted 2022-01-06 · Listing synced 2026-06-23 · 80k job ID `recB35qpJCFsMxSGw`*

@@ -2,7 +2,7 @@
 title: "Surplus Incubator"
 employer: "Surplus"
 job_id: "recLYJX8Y4mOAKgSn"
-last_updated: "2026-06-21T05:32:11.805728Z"
+last_updated: "2026-06-23T05:32:12.647598Z"
 posted_at: "2026-06-19T00:05:00Z"
 status: ready
 apply_url: "https://surplus.dev/"
@@ -33,4 +33,4 @@ areas:
 <p class="apply-cta"><a href="https://surplus.dev/">Apply →</a></p>
 
 ---
-*Posted 2026-06-19 · Listing synced 2026-06-21 · 80k job ID `recLYJX8Y4mOAKgSn`*
+*Posted 2026-06-19 · Listing synced 2026-06-23 · 80k job ID `recLYJX8Y4mOAKgSn`*
