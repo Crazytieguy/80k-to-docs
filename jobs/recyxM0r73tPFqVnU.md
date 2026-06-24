@@ -2,7 +2,7 @@
 title: "Researcher"
 employer: "Animal Charity Evaluators"
 job_id: "recyxM0r73tPFqVnU"
-last_updated: "2026-06-23T05:32:42.404184Z"
+last_updated: "2026-06-24T05:32:45.402981Z"
 posted_at: "2026-06-03T00:00:00Z"
 status: ready
 apply_url: "https://animalcharityevaluators.org/about/our-team/join-our-team/researcher/"
@@ -34,4 +34,4 @@ areas:
 <p class="apply-cta"><a href="https://animalcharityevaluators.org/about/our-team/join-our-team/researcher/">Apply →</a></p>
 
 ---
-*Posted 2026-06-03 · Listing synced 2026-06-23 · 80k job ID `recyxM0r73tPFqVnU`*
+*Posted 2026-06-03 · Listing synced 2026-06-24 · 80k job ID `recyxM0r73tPFqVnU`*

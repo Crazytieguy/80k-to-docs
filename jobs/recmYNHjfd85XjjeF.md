@@ -2,7 +2,7 @@
 title: "Founders For New Effective Giving Organisations (Expression of Interest)"
 employer: "Giving What We Can"
 job_id: "recmYNHjfd85XjjeF"
-last_updated: "2026-06-23T05:33:32.638716Z"
+last_updated: "2026-06-24T05:33:34.597270Z"
 posted_at: "2022-01-07T00:00:00Z"
 status: ready
 apply_url: "https://www.givingwhatwecan.org/seeking-founders-for-new-effective-giving-organisations"
@@ -33,4 +33,4 @@ areas:
 <p class="apply-cta"><a href="https://www.givingwhatwecan.org/seeking-founders-for-new-effective-giving-organisations">Apply →</a></p>
 
 ---
-*Posted 2022-01-07 · Listing synced 2026-06-23 · 80k job ID `recmYNHjfd85XjjeF`*
+*Posted 2022-01-07 · Listing synced 2026-06-24 · 80k job ID `recmYNHjfd85XjjeF`*

@@ -4,24 +4,20 @@ employer: "Center for European Policy Analysis"
 job_id: "recHAY9aWcgLkcodw"
 last_updated: "2026-06-23T05:34:00.332227Z"
 posted_at: "2022-01-02T00:00:00Z"
-status: ready
+status: closed
+closed_at: "2026-06-24"
 apply_url: "https://cepa.org/about-cepa/work-with-us/cepa-internship-program/"
 areas:
   - "Career development: Policy & government"
 ---
 
+> ⚠️ **CLOSED on 2026-06-24** — this job is no longer listed on the 80,000 Hours board. Archived snapshot below.
+
 # Internship Program (Spring 2024)
 
-**[Center for European Policy Analysis](https://cepa.org/)**
+**Center for European Policy Analysis**
 
-<dl class="job-meta">
-<dt>Location</dt><dd>Washington, DC metro area, USA</dd>
-<dt>Role type</dt><dd>Internship</dd>
-<dt>Experience</dt><dd>Entry-level</dd>
-<dt>Degree</dt><dd>Undergraduate degree or less</dd>
-</dl>
-
-**Areas & skills:** Career development: Policy & government, Policy
+**Areas & skills:** Career development: Policy & government
 
 ## Summary
 - The internship is available for Spring 2024.

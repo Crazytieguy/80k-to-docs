@@ -2,7 +2,7 @@
 title: "Full-Stack Product Engineer"
 employer: "Transluce"
 job_id: "recRNBLtqTNDiA1Sr"
-last_updated: "2026-06-23T05:33:45.623339Z"
+last_updated: "2026-06-24T05:33:47.384884Z"
 posted_at: "2022-01-06T00:00:00Z"
 status: ready
 apply_url: "https://jobs.gem.com/transluce/am9icG9zdDqnxHh0KGF4UP1n5BMwIsso"
@@ -34,4 +34,4 @@ areas:
 <p class="apply-cta"><a href="https://jobs.gem.com/transluce/am9icG9zdDqnxHh0KGF4UP1n5BMwIsso">Apply →</a></p>
 
 ---
-*Posted 2022-01-06 · Listing synced 2026-06-23 · 80k job ID `recRNBLtqTNDiA1Sr`*
+*Posted 2022-01-06 · Listing synced 2026-06-24 · 80k job ID `recRNBLtqTNDiA1Sr`*

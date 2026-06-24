@@ -4,24 +4,20 @@ employer: "Lakera AI"
 job_id: "recXUy93i1cLLqmro"
 last_updated: "2026-06-23T05:33:52.818528Z"
 posted_at: "2022-01-05T00:00:00Z"
-status: ready
+status: closed
+closed_at: "2026-06-24"
 apply_url: "https://www.lakera.ai/careers?ashby_jid=158d9a05-bc1d-49fd-81f1-bf1229e8021f"
 areas:
   - "AI safety & policy"
 ---
 
+> ⚠️ **CLOSED on 2026-06-24** — this job is no longer listed on the 80,000 Hours board. Archived snapshot below.
+
 # Senior ML Engineer
 
-**[Lakera AI](https://www.lakera.ai/)**
+**Lakera AI**
 
-<dl class="job-meta">
-<dt>Location</dt><dd>Zurich, Switzerland, Switzerland, Europe (ex UK)</dd>
-<dt>Role type</dt><dd>Full-time</dd>
-<dt>Experience</dt><dd>Mid (5-9 years experience)</dd>
-<dt>Degree</dt><dd>Undergraduate degree or less</dd>
-</dl>
-
-**Areas & skills:** AI safety & policy, Software engineering
+**Areas & skills:** AI safety & policy
 
 ## Summary
 - This role involves operating at the cutting edge of AI to build strong defenses in the AI cybersecurity market.

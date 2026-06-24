@@ -2,7 +2,7 @@
 title: "Intern, AI and Cybersecurity Automation (Summer 2026)"
 employer: "Careful Security"
 job_id: "recHGxDgJbdxBGBx0"
-last_updated: "2026-06-23T05:32:11.157642Z"
+last_updated: "2026-06-24T05:32:16.949984Z"
 posted_at: "2026-06-22T00:00:00Z"
 status: ready
 apply_url: "https://www.linkedin.com/jobs/view/4426165884/?trk=eml-email_job_alert_digest_01-primary_job_list-0-jobcard_body_0_jobid_4426165884_ssid_15933931892_fmid_t150k6%7Emqa5y26k%7Eqv&refId=KlzfeZqTwxDUUmt%2FuMG76g%3D%3D&trackingId=sM0aFuW4T2iWEqA%2FhzGe%2Bw%3D%3D"
@@ -34,4 +34,4 @@ areas:
 <p class="apply-cta"><a href="https://www.linkedin.com/jobs/view/4426165884/?trk=eml-email_job_alert_digest_01-primary_job_list-0-jobcard_body_0_jobid_4426165884_ssid_15933931892_fmid_t150k6%7Emqa5y26k%7Eqv&amp;refId=KlzfeZqTwxDUUmt%2FuMG76g%3D%3D&amp;trackingId=sM0aFuW4T2iWEqA%2FhzGe%2Bw%3D%3D">Apply →</a></p>
 
 ---
-*Posted 2026-06-22 · Listing synced 2026-06-23 · 80k job ID `recHGxDgJbdxBGBx0`*
+*Posted 2026-06-22 · Listing synced 2026-06-24 · 80k job ID `recHGxDgJbdxBGBx0`*

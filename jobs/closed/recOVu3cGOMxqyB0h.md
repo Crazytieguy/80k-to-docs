@@ -4,25 +4,20 @@ employer: "Omidyar Network"
 job_id: "recOVu3cGOMxqyB0h"
 last_updated: "2026-06-23T05:32:49.048022Z"
 posted_at: "2026-05-27T00:02:00Z"
-status: ready
+status: closed
+closed_at: "2026-06-24"
 apply_url: "https://job-boards.greenhouse.io/omidyarnetwork/jobs/7958194"
 areas:
   - "AI safety & policy"
 ---
 
+> ⚠️ **CLOSED on 2026-06-24** — this job is no longer listed on the 80,000 Hours board. Archived snapshot below.
+
 # Principal, Programs and Policy
 
-**[Omidyar Network](https://omidyar.com/)**
+**Omidyar Network**
 
-<dl class="job-meta">
-<dt>Location</dt><dd>San Francisco Bay Area, USA</dd>
-<dt>Role type</dt><dd>Full-time</dd>
-<dt>Experience</dt><dd>Mid (5-9 years experience)</dd>
-<dt>Degree</dt><dd>Undergraduate degree or less</dd>
-<dt>Salary</dt><dd>$171,400 – $214,200</dd>
-</dl>
-
-**Areas & skills:** AI safety & policy, Policy, Strategy
+**Areas & skills:** AI safety & policy
 
 ## Summary
 - In this role, you'll help shape frontier technology development across investments, grants, and thought leadership.

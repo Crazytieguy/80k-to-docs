@@ -4,25 +4,20 @@ employer: "Apart Research"
 job_id: "recHtnJb9zM0EzEJp"
 last_updated: "2026-06-23T05:32:58.715821Z"
 posted_at: "2026-05-14T00:04:27Z"
-status: ready
+status: closed
+closed_at: "2026-06-24"
 apply_url: "https://careers.apartresearch.com/infra"
 areas:
   - "AI safety & policy"
 ---
 
+> ⚠️ **CLOSED on 2026-06-24** — this job is no longer listed on the 80,000 Hours board. Archived snapshot below.
+
 # AI Infrastructure Engineer, Events
 
-**[Apart Research](https://apartresearch.com/)**
+**Apart Research**
 
-<dl class="job-meta">
-<dt>Location</dt><dd>Remote, Global</dd>
-<dt>Role type</dt><dd>Full-time</dd>
-<dt>Experience</dt><dd>Mid (5-9 years experience)</dd>
-<dt>Degree</dt><dd>Undergraduate degree or less</dd>
-<dt>Salary</dt><dd>$70,000 – $100,000</dd>
-</dl>
-
-**Areas & skills:** AI safety & policy, Operations, Software engineering
+**Areas & skills:** AI safety & policy
 
 ## Summary
 - In this role, you'll build AI tooling and infrastructure that scales Apart's hackathons and fellowship programs.

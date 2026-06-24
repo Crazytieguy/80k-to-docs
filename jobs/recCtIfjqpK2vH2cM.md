@@ -2,10 +2,10 @@
 title: "List of Staff Opportunities, U.S. House of Representatives"
 employer: "US Government, Congress"
 job_id: "recCtIfjqpK2vH2cM"
-last_updated: "2026-06-23T05:32:21.436614Z"
-posted_at: "2026-06-16T00:00:00Z"
+last_updated: "2026-06-24T05:32:15.339073Z"
+posted_at: "2026-06-23T00:00:00Z"
 status: ready
-apply_url: "https://drive.google.com/file/d/1nRFdWR3j5zwpzgGstqgdjdaEZHE20_CZ/view?usp=sharing"
+apply_url: "https://drive.google.com/file/d/1rIKtaO7ERmxAHM7Zo5HS9ydIEmuk-O6K/view?usp=sharing"
 areas:
   - "Congressional staffer"
   - "Career development: Policy & government"
@@ -28,7 +28,7 @@ areas:
 - You can find full-time opportunities working in offices within the United States House of Representatives in the following bulletin (which is updated every week).
 - Click "View Full List" to go to the listings, or you can [subscribe directly to the bulletin](https://www.house.gov/employment/positions-with-members-and-committees/subscribe-to-the-house-employment-bulletin).
 
-<p class="apply-cta"><a href="https://drive.google.com/file/d/1nRFdWR3j5zwpzgGstqgdjdaEZHE20_CZ/view?usp=sharing">Apply →</a></p>
+<p class="apply-cta"><a href="https://drive.google.com/file/d/1rIKtaO7ERmxAHM7Zo5HS9ydIEmuk-O6K/view?usp=sharing">Apply →</a></p>
 
 ---
-*Posted 2026-06-16 · Listing synced 2026-06-23 · 80k job ID `recCtIfjqpK2vH2cM`*
+*Posted 2026-06-23 · Listing synced 2026-06-24 · 80k job ID `recCtIfjqpK2vH2cM`*

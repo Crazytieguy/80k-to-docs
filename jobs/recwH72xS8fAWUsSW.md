@@ -2,7 +2,7 @@
 title: "List of Pathways Recent Graduate Placements"
 employer: "Various US Federal Government Departments"
 job_id: "recwH72xS8fAWUsSW"
-last_updated: "2026-06-23T05:33:12.205761Z"
+last_updated: "2026-06-24T05:33:15.812055Z"
 posted_at: "2026-04-13T00:00:00Z"
 status: ready
 apply_url: "https://www.usajobs.gov/Search/Results?wt=15326&hp=graduates"
@@ -32,4 +32,4 @@ areas:
 <p class="apply-cta"><a href="https://www.usajobs.gov/Search/Results?wt=15326&amp;hp=graduates">Apply →</a></p>
 
 ---
-*Posted 2026-04-13 · Listing synced 2026-06-23 · 80k job ID `recwH72xS8fAWUsSW`*
+*Posted 2026-04-13 · Listing synced 2026-06-24 · 80k job ID `recwH72xS8fAWUsSW`*

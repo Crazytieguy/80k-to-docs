@@ -2,7 +2,7 @@
 title: "General Expression of Interest"
 employer: "Constellation"
 job_id: "reczdSqVUXIUZjKBM"
-last_updated: "2026-06-23T05:33:38.303453Z"
+last_updated: "2026-06-24T05:33:40.185792Z"
 posted_at: "2022-01-06T00:00:00Z"
 status: ready
 apply_url: "https://jobs.gem.com/constellation-institute/474153dd-332b-4b03-9f66-cdfc758bebb5"
@@ -34,4 +34,4 @@ areas:
 <p class="apply-cta"><a href="https://jobs.gem.com/constellation-institute/474153dd-332b-4b03-9f66-cdfc758bebb5">Apply →</a></p>
 
 ---
-*Posted 2022-01-06 · Listing synced 2026-06-23 · 80k job ID `reczdSqVUXIUZjKBM`*
+*Posted 2022-01-06 · Listing synced 2026-06-24 · 80k job ID `reczdSqVUXIUZjKBM`*

@@ -2,7 +2,7 @@
 title: "Researcher, Misalignment Research"
 employer: "OpenAI"
 job_id: "recrvlKxvRhHP4Dno"
-last_updated: "2026-06-23T05:33:06.608430Z"
+last_updated: "2026-06-24T05:33:10.433603Z"
 posted_at: "2026-04-29T00:00:00Z"
 status: ready
 apply_url: "https://openai.com/careers/researcher-misalignment-research-san-francisco/"
@@ -34,4 +34,4 @@ areas:
 <p class="apply-cta"><a href="https://openai.com/careers/researcher-misalignment-research-san-francisco/">Apply →</a></p>
 
 ---
-*Posted 2026-04-29 · Listing synced 2026-06-23 · 80k job ID `recrvlKxvRhHP4Dno`*
+*Posted 2026-04-29 · Listing synced 2026-06-24 · 80k job ID `recrvlKxvRhHP4Dno`*

@@ -2,7 +2,7 @@
 title: "Innovation Fellowship"
 employer: "US Government, Defense Advanced Research Projects Agency"
 job_id: "recZe3can1fUFI9mZ"
-last_updated: "2026-06-23T05:34:17.715735Z"
+last_updated: "2026-06-24T05:34:21.296129Z"
 posted_at: "2022-01-01T00:00:00Z"
 status: ready
 apply_url: "https://www.darpa.mil/careers/innovation-fellowship#apply"
@@ -32,4 +32,4 @@ areas:
 <p class="apply-cta"><a href="https://www.darpa.mil/careers/innovation-fellowship#apply">Apply →</a></p>
 
 ---
-*Posted 2022-01-01 · Listing synced 2026-06-23 · 80k job ID `recZe3can1fUFI9mZ`*
+*Posted 2022-01-01 · Listing synced 2026-06-24 · 80k job ID `recZe3can1fUFI9mZ`*

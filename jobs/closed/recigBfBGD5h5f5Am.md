@@ -4,24 +4,20 @@ employer: "Lakera AI"
 job_id: "recigBfBGD5h5f5Am"
 last_updated: "2026-06-23T05:33:52.960392Z"
 posted_at: "2022-01-05T00:00:00Z"
-status: ready
+status: closed
+closed_at: "2026-06-24"
 apply_url: "https://www.lakera.ai/careers?ashby_jid=6f04a898-893e-439f-8601-c25a30418c13"
 areas:
   - "AI safety & policy"
 ---
 
+> ⚠️ **CLOSED on 2026-06-24** — this job is no longer listed on the 80,000 Hours board. Archived snapshot below.
+
 # Staff ML Engineer
 
-**[Lakera AI](https://www.lakera.ai/)**
+**Lakera AI**
 
-<dl class="job-meta">
-<dt>Location</dt><dd>Zurich, Switzerland, Switzerland, Europe (ex UK)</dd>
-<dt>Role type</dt><dd>Full-time</dd>
-<dt>Experience</dt><dd>Mid (5-9 years experience)</dd>
-<dt>Degree</dt><dd>Undergraduate degree or less</dd>
-</dl>
-
-**Areas & skills:** AI safety & policy, Software engineering
+**Areas & skills:** AI safety & policy
 
 ## Summary
 - In this role, you'll operate at the cutting edge of AI, building strong defenses in the AI cybersecurity market.

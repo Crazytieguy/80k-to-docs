@@ -4,25 +4,20 @@ employer: "Arcadia Impact"
 job_id: "recInvjPMs6f2ZGJm"
 last_updated: "2026-06-23T05:32:35.637175Z"
 posted_at: "2026-06-08T00:02:00Z"
-status: ready
+status: closed
+closed_at: "2026-06-24"
 apply_url: "https://www.arcadiaimpact.org/alignment-programme-manager"
 areas:
   - "AI safety & policy"
 ---
 
+> ⚠️ **CLOSED on 2026-06-24** — this job is no longer listed on the 80,000 Hours board. Archived snapshot below.
+
 # Program Manager, Alignment Team
 
-**[Arcadia Impact](https://www.arcadiaimpact.org/)**
+**Arcadia Impact**
 
-<dl class="job-meta">
-<dt>Location</dt><dd>London, UK, UK, UK (Confirmed Visas)</dd>
-<dt>Role type</dt><dd>Full-time</dd>
-<dt>Experience</dt><dd>Junior (1-4 years experience), Mid (5-9 years experience)</dd>
-<dt>Degree</dt><dd>Undergraduate degree or less</dd>
-<dt>Salary</dt><dd>$105,897 – $132,371</dd>
-</dl>
-
-**Areas & skills:** AI safety & policy, Outreach, Management, Strategy
+**Areas & skills:** AI safety & policy
 
 ## Summary
 - In this role, you'll help build and run the new Alignment Research Team, providing leadership across strategy, hiring, and operations.

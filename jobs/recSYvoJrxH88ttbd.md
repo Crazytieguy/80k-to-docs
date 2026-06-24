@@ -2,7 +2,7 @@
 title: "Senior Product Designer"
 employer: "Epoch AI"
 job_id: "recSYvoJrxH88ttbd"
-last_updated: "2026-06-23T05:32:19.005244Z"
+last_updated: "2026-06-24T05:32:24.470977Z"
 posted_at: "2026-06-16T00:04:09Z"
 status: ready
 apply_url: "https://jobs.lever.co/epoch-ai/b71cd010-d3cf-446c-80fa-fa5737573e82"
@@ -34,4 +34,4 @@ areas:
 <p class="apply-cta"><a href="https://jobs.lever.co/epoch-ai/b71cd010-d3cf-446c-80fa-fa5737573e82">Apply →</a></p>
 
 ---
-*Posted 2026-06-16 · Listing synced 2026-06-23 · 80k job ID `recSYvoJrxH88ttbd`*
+*Posted 2026-06-16 · Listing synced 2026-06-24 · 80k job ID `recSYvoJrxH88ttbd`*

@@ -2,7 +2,7 @@
 title: "Program Director, Clinical Trial Abundance"
 employer: "1Day Sooner"
 job_id: "recGBbgTLMik6E3MT"
-last_updated: "2026-06-23T05:32:22.448148Z"
+last_updated: "2026-06-24T05:32:27.150166Z"
 posted_at: "2026-06-15T00:00:00Z"
 status: ready
 apply_url: "https://www.1daysooner.org/jobs/"
@@ -35,4 +35,4 @@ areas:
 <p class="apply-cta"><a href="https://www.1daysooner.org/jobs/">Apply →</a></p>
 
 ---
-*Posted 2026-06-15 · Listing synced 2026-06-23 · 80k job ID `recGBbgTLMik6E3MT`*
+*Posted 2026-06-15 · Listing synced 2026-06-24 · 80k job ID `recGBbgTLMik6E3MT`*

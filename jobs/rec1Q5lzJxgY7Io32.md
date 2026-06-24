@@ -2,7 +2,7 @@
 title: "Senior Program Officer, Biosecurity Chokepoints"
 employer: "Sentinel Bio"
 job_id: "rec1Q5lzJxgY7Io32"
-last_updated: "2026-06-23T05:32:27.560284Z"
+last_updated: "2026-06-24T05:32:31.371735Z"
 posted_at: "2026-06-11T00:03:00Z"
 status: ready
 apply_url: "https://sentinelbio.org/senior-program-officer-physical-biosecurity-chokepoints/"
@@ -34,4 +34,4 @@ areas:
 <p class="apply-cta"><a href="https://sentinelbio.org/senior-program-officer-physical-biosecurity-chokepoints/">Apply →</a></p>
 
 ---
-*Posted 2026-06-11 · Listing synced 2026-06-23 · 80k job ID `rec1Q5lzJxgY7Io32`*
+*Posted 2026-06-11 · Listing synced 2026-06-24 · 80k job ID `rec1Q5lzJxgY7Io32`*

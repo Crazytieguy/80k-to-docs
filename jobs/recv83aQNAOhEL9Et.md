@@ -2,7 +2,7 @@
 title: "Research Internship, Fellow Bill Drexel (Summer 2026)"
 employer: "Hudson Institute"
 job_id: "recv83aQNAOhEL9Et"
-last_updated: "2026-06-23T05:34:04.968407Z"
+last_updated: "2026-06-24T05:34:08.236138Z"
 posted_at: "2022-01-02T00:00:00Z"
 status: ready
 apply_url: "https://recruiting.paylocity.com/Recruiting/Jobs/Details/3736833"
@@ -33,4 +33,4 @@ areas:
 <p class="apply-cta"><a href="https://recruiting.paylocity.com/Recruiting/Jobs/Details/3736833">Apply →</a></p>
 
 ---
-*Posted 2022-01-02 · Listing synced 2026-06-23 · 80k job ID `recv83aQNAOhEL9Et`*
+*Posted 2022-01-02 · Listing synced 2026-06-24 · 80k job ID `recv83aQNAOhEL9Et`*

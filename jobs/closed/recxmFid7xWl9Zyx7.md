@@ -4,25 +4,20 @@ employer: "Arcadia Impact"
 job_id: "recxmFid7xWl9Zyx7"
 last_updated: "2026-06-23T05:32:35.478318Z"
 posted_at: "2026-06-08T00:02:00Z"
-status: ready
+status: closed
+closed_at: "2026-06-24"
 apply_url: "https://www.arcadiaimpact.org/ops-and-comms-associate"
 areas:
   - "AI safety & policy"
 ---
 
+> ⚠️ **CLOSED on 2026-06-24** — this job is no longer listed on the 80,000 Hours board. Archived snapshot below.
+
 # Operations and Communications Associate, Alignment Team
 
-**[Arcadia Impact](https://www.arcadiaimpact.org/)**
+**Arcadia Impact**
 
-<dl class="job-meta">
-<dt>Location</dt><dd>London, UK, UK, UK (Confirmed Visas)</dd>
-<dt>Role type</dt><dd>Full-time</dd>
-<dt>Experience</dt><dd>Junior (1-4 years experience)</dd>
-<dt>Degree</dt><dd>Undergraduate degree or less</dd>
-<dt>Salary</dt><dd>$66,186 – $92,660</dd>
-</dl>
-
-**Areas & skills:** AI safety & policy, Outreach, Operations
+**Areas & skills:** AI safety & policy
 
 ## Summary
 - In this role, you'll manage communications strategy and research operations for the Alignment Research Team.

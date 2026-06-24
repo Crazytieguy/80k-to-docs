@@ -2,7 +2,7 @@
 title: "Students / Research Interns / Post-Docs"
 employer: "European Laboratory for Learning and Intelligent Systems"
 job_id: "recGyBOxtId4X4dw3"
-last_updated: "2026-06-23T05:33:31.433156Z"
+last_updated: "2026-06-24T05:33:33.373608Z"
 posted_at: "2022-01-07T00:00:00Z"
 status: ready
 apply_url: "https://docs.google.com/forms/d/e/1FAIpQLSfERP8qmSWHeDLFQ_NAyyaxcznDrzjJZDNbosPgJDJa0d0MKA/viewform"
@@ -33,4 +33,4 @@ areas:
 <p class="apply-cta"><a href="https://docs.google.com/forms/d/e/1FAIpQLSfERP8qmSWHeDLFQ_NAyyaxcznDrzjJZDNbosPgJDJa0d0MKA/viewform">Apply →</a></p>
 
 ---
-*Posted 2022-01-07 · Listing synced 2026-06-23 · 80k job ID `recGyBOxtId4X4dw3`*
+*Posted 2022-01-07 · Listing synced 2026-06-24 · 80k job ID `recGyBOxtId4X4dw3`*

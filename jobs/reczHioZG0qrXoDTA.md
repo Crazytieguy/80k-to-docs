@@ -2,7 +2,7 @@
 title: "Researcher, Pretraining Safety"
 employer: "OpenAI"
 job_id: "reczHioZG0qrXoDTA"
-last_updated: "2026-06-23T05:33:18.616588Z"
+last_updated: "2026-06-24T05:33:21.863888Z"
 posted_at: "2022-01-12T00:00:00Z"
 status: ready
 apply_url: "https://openai.com/careers/researcher-pretraining-safety-san-francisco/"
@@ -34,4 +34,4 @@ areas:
 <p class="apply-cta"><a href="https://openai.com/careers/researcher-pretraining-safety-san-francisco/">Apply →</a></p>
 
 ---
-*Posted 2022-01-12 · Listing synced 2026-06-23 · 80k job ID `reczHioZG0qrXoDTA`*
+*Posted 2022-01-12 · Listing synced 2026-06-24 · 80k job ID `reczHioZG0qrXoDTA`*

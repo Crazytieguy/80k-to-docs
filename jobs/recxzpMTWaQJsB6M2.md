@@ -2,7 +2,7 @@
 title: "Coordinator, Talent and Culture"
 employer: "LawZero"
 job_id: "recxzpMTWaQJsB6M2"
-last_updated: "2026-06-23T05:32:57.909217Z"
+last_updated: "2026-06-24T05:33:01.903822Z"
 posted_at: "2026-05-15T00:02:00Z"
 status: ready
 apply_url: "https://job-boards.greenhouse.io/lawzero/jobs/4248433009"
@@ -33,4 +33,4 @@ areas:
 <p class="apply-cta"><a href="https://job-boards.greenhouse.io/lawzero/jobs/4248433009">Apply →</a></p>
 
 ---
-*Posted 2026-05-15 · Listing synced 2026-06-23 · 80k job ID `recxzpMTWaQJsB6M2`*
+*Posted 2026-05-15 · Listing synced 2026-06-24 · 80k job ID `recxzpMTWaQJsB6M2`*

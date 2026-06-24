@@ -2,7 +2,7 @@
 title: "Contractor, Outreach and Onboarding"
 employer: "Secure DNA Project"
 job_id: "recWbAk6QVpzWEOF8"
-last_updated: "2026-06-23T05:32:10.763410Z"
+last_updated: "2026-06-24T05:32:16.591282Z"
 posted_at: "2026-06-22T00:03:00Z"
 status: ready
 apply_url: "https://securedna.org/careers/"
@@ -33,4 +33,4 @@ areas:
 <p class="apply-cta"><a href="https://securedna.org/careers/">Apply →</a></p>
 
 ---
-*Posted 2026-06-22 · Listing synced 2026-06-23 · 80k job ID `recWbAk6QVpzWEOF8`*
+*Posted 2026-06-22 · Listing synced 2026-06-24 · 80k job ID `recWbAk6QVpzWEOF8`*

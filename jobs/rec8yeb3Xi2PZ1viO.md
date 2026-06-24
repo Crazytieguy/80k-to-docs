@@ -2,7 +2,7 @@
 title: "Senior Recruitment Specialist, AI Safety"
 employer: "Impact Ops"
 job_id: "rec8yeb3Xi2PZ1viO"
-last_updated: "2026-06-23T05:32:34.204494Z"
+last_updated: "2026-06-24T05:32:37.723512Z"
 posted_at: "2026-06-09T00:00:00Z"
 status: ready
 apply_url: "https://impact-ops.org/jobs/senior-recruitment-specialist-ai-safety-focus/"
@@ -19,7 +19,7 @@ areas:
 <dt>Role type</dt><dd>Full-time</dd>
 <dt>Experience</dt><dd>Mid (5-9 years experience)</dd>
 <dt>Degree</dt><dd>Undergraduate degree or less</dd>
-<dt>Salary</dt><dd>$72,804 – $99,279</dd>
+<dt>Salary</dt><dd>$72,571 – $98,960</dd>
 </dl>
 
 **Areas & skills:** AI safety & policy, Operations
@@ -34,4 +34,4 @@ areas:
 <p class="apply-cta"><a href="https://impact-ops.org/jobs/senior-recruitment-specialist-ai-safety-focus/">Apply →</a></p>
 
 ---
-*Posted 2026-06-09 · Listing synced 2026-06-23 · 80k job ID `rec8yeb3Xi2PZ1viO`*
+*Posted 2026-06-09 · Listing synced 2026-06-24 · 80k job ID `rec8yeb3Xi2PZ1viO`*

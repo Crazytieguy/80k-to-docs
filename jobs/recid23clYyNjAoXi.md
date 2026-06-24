@@ -2,7 +2,7 @@
 title: "Staff Applied Research and Machine Learning, Responsible AI and Safety"
 employer: "Apple"
 job_id: "recid23clYyNjAoXi"
-last_updated: "2026-06-23T05:34:10.994331Z"
+last_updated: "2026-06-24T05:34:14.364003Z"
 posted_at: "2022-01-01T00:00:00Z"
 status: ready
 apply_url: "https://jobs.apple.com/en-gb/details/200650850-0836/staff-applied-research-and-ml-responsible-ai-and-safety?team=MLAI"
@@ -34,4 +34,4 @@ areas:
 <p class="apply-cta"><a href="https://jobs.apple.com/en-gb/details/200650850-0836/staff-applied-research-and-ml-responsible-ai-and-safety?team=MLAI">Apply →</a></p>
 
 ---
-*Posted 2022-01-01 · Listing synced 2026-06-23 · 80k job ID `recid23clYyNjAoXi`*
+*Posted 2022-01-01 · Listing synced 2026-06-24 · 80k job ID `recid23clYyNjAoXi`*

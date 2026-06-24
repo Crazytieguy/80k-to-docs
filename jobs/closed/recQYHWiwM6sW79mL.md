@@ -4,24 +4,20 @@ employer: "Center for European Policy Analysis"
 job_id: "recQYHWiwM6sW79mL"
 last_updated: "2026-06-23T05:32:57.174512Z"
 posted_at: "2026-05-18T00:00:00Z"
-status: ready
+status: closed
+closed_at: "2026-06-24"
 apply_url: "https://apply.appone.com/job/6a034c48993f3a3fd106b8e0"
 areas:
   - "Career development: Policy & government"
 ---
 
+> ⚠️ **CLOSED on 2026-06-24** — this job is no longer listed on the 80,000 Hours board. Archived snapshot below.
+
 # Internship, Tech Policy (Fall 2026)
 
-**[Center for European Policy Analysis](https://cepa.org/)**
+**Center for European Policy Analysis**
 
-<dl class="job-meta">
-<dt>Location</dt><dd>Washington, DC metro area, USA</dd>
-<dt>Role type</dt><dd>Internship</dd>
-<dt>Experience</dt><dd>Entry-level</dd>
-<dt>Degree</dt><dd>Undergraduate degree or less</dd>
-</dl>
-
-**Areas & skills:** Career development: Policy & government, Research, Policy
+**Areas & skills:** Career development: Policy & government
 
 ## Summary
 - In this role, you'll research and support initiatives exploring how technology reshapes geopolitics and advance a transatlantic tech agenda.

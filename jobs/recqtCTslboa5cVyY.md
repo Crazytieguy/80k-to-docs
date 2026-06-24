@@ -2,7 +2,7 @@
 title: "Internship"
 employer: "US Government, White House Office of Science and Technology Policy"
 job_id: "recqtCTslboa5cVyY"
-last_updated: "2026-06-23T05:33:30.516766Z"
+last_updated: "2026-06-24T05:33:32.466748Z"
 posted_at: "2022-01-08T00:00:00Z"
 status: ready
 apply_url: "https://www.whitehouse.gov/ostp/internships/"
@@ -33,4 +33,4 @@ areas:
 <p class="apply-cta"><a href="https://www.whitehouse.gov/ostp/internships/">Apply →</a></p>
 
 ---
-*Posted 2022-01-08 · Listing synced 2026-06-23 · 80k job ID `recqtCTslboa5cVyY`*
+*Posted 2022-01-08 · Listing synced 2026-06-24 · 80k job ID `recqtCTslboa5cVyY`*

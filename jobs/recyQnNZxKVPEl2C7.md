@@ -2,7 +2,7 @@
 title: "Program Lead, AIxBio"
 employer: "Cambridge Boston Alignment Initiative"
 job_id: "recyQnNZxKVPEl2C7"
-last_updated: "2026-06-23T05:33:37.049216Z"
+last_updated: "2026-06-24T05:33:38.978113Z"
 posted_at: "2022-01-06T00:00:00Z"
 status: ready
 apply_url: "https://jobs.ashbyhq.com/cbai/916b0bc0-02c7-4358-af8f-dcdd4af1f2f9"
@@ -34,4 +34,4 @@ areas:
 <p class="apply-cta"><a href="https://jobs.ashbyhq.com/cbai/916b0bc0-02c7-4358-af8f-dcdd4af1f2f9">Apply →</a></p>
 
 ---
-*Posted 2022-01-06 · Listing synced 2026-06-23 · 80k job ID `recyQnNZxKVPEl2C7`*
+*Posted 2022-01-06 · Listing synced 2026-06-24 · 80k job ID `recyQnNZxKVPEl2C7`*

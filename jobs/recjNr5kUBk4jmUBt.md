@@ -2,7 +2,7 @@
 title: "Research Intern, AI Evaluation and Alignment"
 employer: "Microsoft"
 job_id: "recjNr5kUBk4jmUBt"
-last_updated: "2026-06-23T05:32:17.490224Z"
+last_updated: "2026-06-24T05:32:23.046287Z"
 posted_at: "2026-06-17T00:00:00Z"
 status: ready
 apply_url: "https://apply.careers.microsoft.com/careers/job/1970393556735254?domain=microsoft.com&src=LinkedIn"
@@ -34,4 +34,4 @@ areas:
 <p class="apply-cta"><a href="https://apply.careers.microsoft.com/careers/job/1970393556735254?domain=microsoft.com&amp;src=LinkedIn">Apply →</a></p>
 
 ---
-*Posted 2026-06-17 · Listing synced 2026-06-23 · 80k job ID `recjNr5kUBk4jmUBt`*
+*Posted 2026-06-17 · Listing synced 2026-06-24 · 80k job ID `recjNr5kUBk4jmUBt`*

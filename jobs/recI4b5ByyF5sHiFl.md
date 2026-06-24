@@ -2,7 +2,7 @@
 title: "Senior Machine Learning Data Platform Developer"
 employer: "LawZero"
 job_id: "recI4b5ByyF5sHiFl"
-last_updated: "2026-06-23T05:32:11.023277Z"
+last_updated: "2026-06-24T05:32:16.830521Z"
 posted_at: "2026-06-22T00:01:00Z"
 status: ready
 apply_url: "https://job-boards.greenhouse.io/lawzero/jobs/4290183009"
@@ -33,4 +33,4 @@ areas:
 <p class="apply-cta"><a href="https://job-boards.greenhouse.io/lawzero/jobs/4290183009">Apply →</a></p>
 
 ---
-*Posted 2026-06-22 · Listing synced 2026-06-23 · 80k job ID `recI4b5ByyF5sHiFl`*
+*Posted 2026-06-22 · Listing synced 2026-06-24 · 80k job ID `recI4b5ByyF5sHiFl`*

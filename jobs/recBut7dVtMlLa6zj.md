@@ -2,7 +2,7 @@
 title: "Machine Learning Engineer, Secure AI Lab"
 employer: "Carnegie Mellon University, Software Engineering Institute"
 job_id: "recBut7dVtMlLa6zj"
-last_updated: "2026-06-23T05:33:07.882729Z"
+last_updated: "2026-06-24T05:33:11.591745Z"
 posted_at: "2026-04-24T00:00:00Z"
 status: ready
 apply_url: "https://cmu.wd5.myworkdayjobs.com/en-US/SEI/job/Pittsburgh-PA/Machine-Learning-Engineer---Secure-AI-Lab_2024338-2"
@@ -33,4 +33,4 @@ areas:
 <p class="apply-cta"><a href="https://cmu.wd5.myworkdayjobs.com/en-US/SEI/job/Pittsburgh-PA/Machine-Learning-Engineer---Secure-AI-Lab_2024338-2">Apply →</a></p>
 
 ---
-*Posted 2026-04-24 · Listing synced 2026-06-23 · 80k job ID `recBut7dVtMlLa6zj`*
+*Posted 2026-04-24 · Listing synced 2026-06-24 · 80k job ID `recBut7dVtMlLa6zj`*

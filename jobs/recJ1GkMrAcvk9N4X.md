@@ -2,7 +2,7 @@
 title: "Head of People"
 employer: "Lead Exposure Elimination Project"
 job_id: "recJ1GkMrAcvk9N4X"
-last_updated: "2026-06-23T05:33:05.377436Z"
+last_updated: "2026-06-24T05:33:09.256309Z"
 posted_at: "2026-05-01T00:00:00Z"
 status: ready
 apply_url: "https://docs.google.com/document/d/1-qJsinftqqj2iQplCANNRc8SVVdgMQsANt7yIcfX0LI/preview?tab=t.0#heading=h.jt6jmxp623yt"
@@ -34,4 +34,4 @@ areas:
 <p class="apply-cta"><a href="https://docs.google.com/document/d/1-qJsinftqqj2iQplCANNRc8SVVdgMQsANt7yIcfX0LI/preview?tab=t.0#heading=h.jt6jmxp623yt">Apply →</a></p>
 
 ---
-*Posted 2026-05-01 · Listing synced 2026-06-23 · 80k job ID `recJ1GkMrAcvk9N4X`*
+*Posted 2026-05-01 · Listing synced 2026-06-24 · 80k job ID `recJ1GkMrAcvk9N4X`*

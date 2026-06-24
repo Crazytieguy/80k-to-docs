@@ -2,7 +2,7 @@
 title: "Operations Manager"
 employer: "Lead-Acid Battery Recycling Initiative"
 job_id: "rec3AJxIMWy8egKa0"
-last_updated: "2026-06-23T05:32:20.376704Z"
+last_updated: "2026-06-24T05:32:25.774556Z"
 posted_at: "2026-06-16T00:00:00Z"
 status: ready
 apply_url: "https://docs.google.com/document/d/1NVVaWQagjQ9gF8Bqtp5f1iJmI-5J7RXAD6L7B7i4P0c/edit?tab=t.0#heading=h.v5ojjjsy5ox8"
@@ -19,7 +19,7 @@ areas:
 <dt>Role type</dt><dd>Full-time</dd>
 <dt>Experience</dt><dd>Junior (1-4 years experience)</dd>
 <dt>Degree</dt><dd>Undergraduate degree or less</dd>
-<dt>Salary</dt><dd>$43,683 – $59,567</dd>
+<dt>Salary</dt><dd>$43,543 – $59,376</dd>
 </dl>
 
 **Areas & skills:** Global health & development, Operations, Finance
@@ -34,4 +34,4 @@ areas:
 <p class="apply-cta"><a href="https://docs.google.com/document/d/1NVVaWQagjQ9gF8Bqtp5f1iJmI-5J7RXAD6L7B7i4P0c/edit?tab=t.0#heading=h.v5ojjjsy5ox8">Apply →</a></p>
 
 ---
-*Posted 2026-06-16 · Listing synced 2026-06-23 · 80k job ID `rec3AJxIMWy8egKa0`*
+*Posted 2026-06-16 · Listing synced 2026-06-24 · 80k job ID `rec3AJxIMWy8egKa0`*
