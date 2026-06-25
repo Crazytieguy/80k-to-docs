@@ -2,7 +2,7 @@
 title: "Research Scientist, Viral Genomics Group"
 employer: "The Broad Institute, Sabeti Lab"
 job_id: "recURwSd3YrvYksWP"
-last_updated: "2026-06-24T05:33:18.557042Z"
+last_updated: "2026-06-25T05:33:14.867990Z"
 posted_at: "2026-04-06T00:01:00Z"
 status: ready
 apply_url: "https://broadinstitute.avature.net/en_US/careers/JobDetail/Research-Scientist-I-Viral-Genomics-Group-Sabeti-Lab/21632"
@@ -34,4 +34,4 @@ areas:
 <p class="apply-cta"><a href="https://broadinstitute.avature.net/en_US/careers/JobDetail/Research-Scientist-I-Viral-Genomics-Group-Sabeti-Lab/21632">Apply →</a></p>
 
 ---
-*Posted 2026-04-06 · Listing synced 2026-06-24 · 80k job ID `recURwSd3YrvYksWP`*
+*Posted 2026-04-06 · Listing synced 2026-06-25 · 80k job ID `recURwSd3YrvYksWP`*

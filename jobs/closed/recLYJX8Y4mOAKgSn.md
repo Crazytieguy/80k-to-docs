@@ -4,24 +4,20 @@ employer: "Surplus"
 job_id: "recLYJX8Y4mOAKgSn"
 last_updated: "2026-06-24T05:32:18.397347Z"
 posted_at: "2026-06-19T00:05:00Z"
-status: ready
+status: closed
+closed_at: "2026-06-25"
 apply_url: "https://surplus.dev/"
 areas:
   - "AI safety & policy"
 ---
 
+> ⚠️ **CLOSED on 2026-06-25** — this job is no longer listed on the 80,000 Hours board. Archived snapshot below.
+
 # Surplus Incubator
 
-**[Surplus](https://surplus.dev/)**
+**Surplus**
 
-<dl class="job-meta">
-<dt>Location</dt><dd>San Francisco Bay Area, USA, USA (Confirmed Visas)</dd>
-<dt>Role type</dt><dd>Funding</dd>
-<dt>Experience</dt><dd>Multiple experience levels</dd>
-<dt>Degree</dt><dd>Undergraduate degree or less</dd>
-</dl>
-
-**Areas & skills:** AI safety & policy, Software engineering, Strategy
+**Areas & skills:** AI safety & policy
 
 ## Summary
 - This is a 3 month program that provides seed funding, advice, peers, intros, and space to focus for software startups to create massive public good in the age of transformative AI.

@@ -4,25 +4,20 @@ employer: "Cherokee Federal"
 job_id: "recCZ3YeaW7khpyTD"
 last_updated: "2026-06-24T05:33:07.245218Z"
 posted_at: "2026-05-07T00:01:00Z"
-status: ready
+status: closed
+closed_at: "2026-06-25"
 apply_url: "https://ibtcjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/careers/job/42378"
 areas:
   - "Biosecurity & pandemic preparedness"
 ---
 
+> ⚠️ **CLOSED on 2026-06-25** — this job is no longer listed on the 80,000 Hours board. Archived snapshot below.
+
 # Data Scientist, Public Health
 
-**[Cherokee Federal](https://www.cherokee-federal.com/)**
+**Cherokee Federal**
 
-<dl class="job-meta">
-<dt>Location</dt><dd>Atlanta, GA, USA</dd>
-<dt>Role type</dt><dd>Full-time</dd>
-<dt>Experience</dt><dd>Junior (1-4 years experience)</dd>
-<dt>Degree</dt><dd>Master's degree</dd>
-<dt>Salary</dt><dd>$90,000 – $105,000</dd>
-</dl>
-
-**Areas & skills:** Biosecurity & pandemic preparedness, Software engineering
+**Areas & skills:** Biosecurity & pandemic preparedness
 
 ## Summary
 - In this role, you'll build and maintain data pipelines while performing analytics to support public health surveillance and decision-making.

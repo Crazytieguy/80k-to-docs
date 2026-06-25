@@ -2,8 +2,8 @@
 title: "Intro to Effective Altruism"
 employer: "Centre for Effective Altruism"
 job_id: "recV4a9onpD1E95bJ"
-last_updated: "2026-06-24T05:32:53.057506Z"
-posted_at: "2026-05-27T00:03:00Z"
+last_updated: "2026-06-25T05:32:10.131080Z"
+posted_at: "2026-06-24T00:00:00Z"
 status: ready
 apply_url: "https://www.effectivealtruism.org/courses/introductory-program"
 areas:
@@ -32,4 +32,4 @@ areas:
 <p class="apply-cta"><a href="https://www.effectivealtruism.org/courses/introductory-program">Apply →</a></p>
 
 ---
-*Posted 2026-05-27 · Listing synced 2026-06-24 · 80k job ID `recV4a9onpD1E95bJ`*
+*Posted 2026-06-24 · Listing synced 2026-06-25 · 80k job ID `recV4a9onpD1E95bJ`*

@@ -2,7 +2,7 @@
 title: "Honors Attorney Program"
 employer: "US Government, Congressional Research Service"
 job_id: "recgUO2VI2Q2VHfmV"
-last_updated: "2026-06-24T05:34:00.842103Z"
+last_updated: "2026-06-25T05:33:59.268999Z"
 posted_at: "2022-01-03T00:00:00Z"
 status: ready
 apply_url: "https://www.loc.gov/crsinfo/opportunities/honors-attorney-program.html"
@@ -33,4 +33,4 @@ areas:
 <p class="apply-cta"><a href="https://www.loc.gov/crsinfo/opportunities/honors-attorney-program.html">Apply →</a></p>
 
 ---
-*Posted 2022-01-03 · Listing synced 2026-06-24 · 80k job ID `recgUO2VI2Q2VHfmV`*
+*Posted 2022-01-03 · Listing synced 2026-06-25 · 80k job ID `recgUO2VI2Q2VHfmV`*

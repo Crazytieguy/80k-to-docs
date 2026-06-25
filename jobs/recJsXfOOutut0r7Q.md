@@ -2,7 +2,7 @@
 title: "Deputy Head of Programme, Security and Technology"
 employer: "United Nations, Institute for Disarmament Research"
 job_id: "recJsXfOOutut0r7Q"
-last_updated: "2026-06-24T05:32:40.715104Z"
+last_updated: "2026-06-25T05:32:38.881201Z"
 posted_at: "2026-06-08T00:00:00Z"
 status: ready
 apply_url: "https://unidir.org/job/deputy-head-of-programme-security-and-technology/"
@@ -33,4 +33,4 @@ areas:
 <p class="apply-cta"><a href="https://unidir.org/job/deputy-head-of-programme-security-and-technology/">Apply →</a></p>
 
 ---
-*Posted 2026-06-08 · Listing synced 2026-06-24 · 80k job ID `recJsXfOOutut0r7Q`*
+*Posted 2026-06-08 · Listing synced 2026-06-25 · 80k job ID `recJsXfOOutut0r7Q`*

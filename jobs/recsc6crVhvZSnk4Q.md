@@ -2,7 +2,7 @@
 title: "Finance Associate / Staff Accountant"
 employer: "Rethink Priorities"
 job_id: "recsc6crVhvZSnk4Q"
-last_updated: "2026-06-24T05:32:27.003149Z"
+last_updated: "2026-06-25T05:32:23.466072Z"
 posted_at: "2026-06-15T00:01:00Z"
 status: ready
 apply_url: "https://careers.rethinkpriorities.org/en/postings/9cd02f35-f9fa-4bff-a9aa-4e3e9db33d12"
@@ -34,4 +34,4 @@ areas:
 <p class="apply-cta"><a href="https://careers.rethinkpriorities.org/en/postings/9cd02f35-f9fa-4bff-a9aa-4e3e9db33d12">Apply →</a></p>
 
 ---
-*Posted 2026-06-15 · Listing synced 2026-06-24 · 80k job ID `recsc6crVhvZSnk4Q`*
+*Posted 2026-06-15 · Listing synced 2026-06-25 · 80k job ID `recsc6crVhvZSnk4Q`*

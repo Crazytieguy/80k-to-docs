@@ -2,7 +2,7 @@
 title: "Expression of Interest"
 employer: "European Union, AI Office"
 job_id: "recm663D5TYwSXRxn"
-last_updated: "2026-06-24T05:33:52.701235Z"
+last_updated: "2026-06-25T05:33:51.961261Z"
 posted_at: "2022-01-05T00:00:00Z"
 status: ready
 apply_url: "https://ec.europa.eu/eusurvey/runner/AIOffice-Interest-General"
@@ -34,4 +34,4 @@ areas:
 <p class="apply-cta"><a href="https://ec.europa.eu/eusurvey/runner/AIOffice-Interest-General">Apply →</a></p>
 
 ---
-*Posted 2022-01-05 · Listing synced 2026-06-24 · 80k job ID `recm663D5TYwSXRxn`*
+*Posted 2022-01-05 · Listing synced 2026-06-25 · 80k job ID `recm663D5TYwSXRxn`*

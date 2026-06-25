@@ -4,25 +4,20 @@ employer: "Giving What We Can"
 job_id: "recLGKfjMlfZ7XBDU"
 last_updated: "2026-06-24T05:33:35.074794Z"
 posted_at: "2022-01-07T00:00:00Z"
-status: ready
+status: closed
+closed_at: "2026-06-25"
 apply_url: "https://www.givingwhatwecan.org/head-of-finance"
 areas:
   - "Building effective altruism"
 ---
 
+> ⚠️ **CLOSED on 2026-06-25** — this job is no longer listed on the 80,000 Hours board. Archived snapshot below.
+
 # Head of Finance
 
-**[Giving What We Can](https://www.givingwhatwecan.org/)**
+**Giving What We Can**
 
-<dl class="job-meta">
-<dt>Location</dt><dd>Remote, Global</dd>
-<dt>Role type</dt><dd>Full-time</dd>
-<dt>Experience</dt><dd>Mid (5-9 years experience), Senior (10+ years experience)</dd>
-<dt>Degree</dt><dd>Undergraduate degree or less</dd>
-<dt>Salary</dt><dd>$60,000 – $160,000</dd>
-</dl>
-
-**Areas & skills:** Building effective altruism, Operations, Management, Finance
+**Areas & skills:** Building effective altruism
 
 ## Summary
 - In this role, you'll build financial infrastructure and systems to scale a multi-entity grantmaking organization from $40M to $3B in annual donations.

@@ -2,7 +2,7 @@
 title: "Senior ML Product Manager"
 employer: "Elicit"
 job_id: "recbAatkIsx0uAdmQ"
-last_updated: "2026-06-24T05:33:26.654160Z"
+last_updated: "2026-06-25T05:33:23.167131Z"
 posted_at: "2022-01-11T00:00:00Z"
 status: ready
 apply_url: "https://elicit.com/careers?ashby_jid=2c18fbc6-2e1a-4ba1-a1b2-73db54bc95ca"
@@ -33,4 +33,4 @@ areas:
 <p class="apply-cta"><a href="https://elicit.com/careers?ashby_jid=2c18fbc6-2e1a-4ba1-a1b2-73db54bc95ca">Apply →</a></p>
 
 ---
-*Posted 2022-01-11 · Listing synced 2026-06-24 · 80k job ID `recbAatkIsx0uAdmQ`*
+*Posted 2022-01-11 · Listing synced 2026-06-25 · 80k job ID `recbAatkIsx0uAdmQ`*

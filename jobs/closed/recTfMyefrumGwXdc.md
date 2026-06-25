@@ -4,26 +4,21 @@ employer: "Legal Advocates for Safe Science and Technology"
 job_id: "recTfMyefrumGwXdc"
 last_updated: "2026-06-24T05:33:32.011970Z"
 posted_at: "2022-01-08T00:00:00Z"
-status: ready
+status: closed
+closed_at: "2026-06-25"
 apply_url: "https://docs.google.com/document/d/1xKv6O1kF_-PX0jLedXEXGKMgqgFa5BtLfSy9QO1I8_Q/edit?usp=sharing"
 areas:
   - "AI safety & policy"
   - "Biosecurity & pandemic preparedness"
 ---
 
+> ⚠️ **CLOSED on 2026-06-25** — this job is no longer listed on the 80,000 Hours board. Archived snapshot below.
+
 # Operations, Communications and Research Manager
 
-**[Legal Advocates for Safe Science and Technology](https://lasst.org/)**
+**Legal Advocates for Safe Science and Technology**
 
-<dl class="job-meta">
-<dt>Location</dt><dd>Remote, USA, USA, USA (Confirmed Visas)</dd>
-<dt>Role type</dt><dd>Full-time</dd>
-<dt>Experience</dt><dd>Junior (1-4 years experience)</dd>
-<dt>Degree</dt><dd>Undergraduate degree or less</dd>
-<dt>Salary</dt><dd>$85,000 – $110,000</dd>
-</dl>
-
-**Areas & skills:** AI safety & policy, Biosecurity & pandemic preparedness, Research, Outreach, Operations
+**Areas & skills:** AI safety & policy, Biosecurity & pandemic preparedness
 
 ## Summary
 - In this role, you'll serve as a generalist keeping LASST running smoothly while supporting its mission to make science and technology safer.

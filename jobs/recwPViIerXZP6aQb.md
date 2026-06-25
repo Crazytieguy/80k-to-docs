@@ -2,7 +2,7 @@
 title: "Partnership Lead, Clinical Trial Abundance"
 employer: "1Day Sooner"
 job_id: "recwPViIerXZP6aQb"
-last_updated: "2026-06-24T05:32:58.481243Z"
+last_updated: "2026-06-25T05:32:55.026771Z"
 posted_at: "2026-05-20T00:02:00Z"
 status: ready
 apply_url: "https://www.1daysooner.org/jobs/"
@@ -35,4 +35,4 @@ areas:
 <p class="apply-cta"><a href="https://www.1daysooner.org/jobs/">Apply →</a></p>
 
 ---
-*Posted 2026-05-20 · Listing synced 2026-06-24 · 80k job ID `recwPViIerXZP6aQb`*
+*Posted 2026-05-20 · Listing synced 2026-06-25 · 80k job ID `recwPViIerXZP6aQb`*

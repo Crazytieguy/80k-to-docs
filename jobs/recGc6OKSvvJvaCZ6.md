@@ -2,7 +2,7 @@
 title: "Teacher, Technical AI Safety / AI Governance and Strategy"
 employer: "ML4Good"
 job_id: "recGc6OKSvvJvaCZ6"
-last_updated: "2026-06-24T05:32:48.404580Z"
+last_updated: "2026-06-25T05:32:46.374610Z"
 posted_at: "2026-06-01T00:01:00Z"
 status: ready
 apply_url: "https://ml4good.org/jobs/ml4good-teacher/"
@@ -19,7 +19,7 @@ areas:
 <dt>Role type</dt><dd>Part-time</dd>
 <dt>Experience</dt><dd>Junior (1-4 years experience)</dd>
 <dt>Degree</dt><dd>Undergraduate degree or less</dd>
-<dt>Salary</dt><dd>$3,431</dd>
+<dt>Salary</dt><dd>$3,427</dd>
 </dl>
 
 **Areas & skills:** AI safety & policy, Other
@@ -34,4 +34,4 @@ areas:
 <p class="apply-cta"><a href="https://ml4good.org/jobs/ml4good-teacher/">Apply →</a></p>
 
 ---
-*Posted 2026-06-01 · Listing synced 2026-06-24 · 80k job ID `recGc6OKSvvJvaCZ6`*
+*Posted 2026-06-01 · Listing synced 2026-06-25 · 80k job ID `recGc6OKSvvJvaCZ6`*

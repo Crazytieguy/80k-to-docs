@@ -2,7 +2,7 @@
 title: "Associate / Senior Associate, Events Team"
 employer: "Centre for Effective Altruism"
 job_id: "recDH7uavVrsIbFMD"
-last_updated: "2026-06-24T05:32:47.225753Z"
+last_updated: "2026-06-25T05:32:45.233429Z"
 posted_at: "2026-06-01T00:04:06Z"
 status: ready
 apply_url: "https://www.centreforeffectivealtruism.org/careers?ashby_jid=8a2d8402-ba7f-41de-8551-8a3afa2d5de3"
@@ -33,4 +33,4 @@ areas:
 <p class="apply-cta"><a href="https://www.centreforeffectivealtruism.org/careers?ashby_jid=8a2d8402-ba7f-41de-8551-8a3afa2d5de3">Apply →</a></p>
 
 ---
-*Posted 2026-06-01 · Listing synced 2026-06-24 · 80k job ID `recDH7uavVrsIbFMD`*
+*Posted 2026-06-01 · Listing synced 2026-06-25 · 80k job ID `recDH7uavVrsIbFMD`*
