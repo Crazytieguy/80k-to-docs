@@ -4,25 +4,20 @@ employer: "Center for AI Safety"
 job_id: "recHCLziTk9zO6RUz"
 last_updated: "2026-06-25T05:33:16.493343Z"
 posted_at: "2022-01-12T00:00:00Z"
-status: ready
+status: closed
+closed_at: "2026-06-26"
 apply_url: "https://jobs.lever.co/aisafety/0c6be5ff-b04e-49eb-92bd-d11c7c81ae6e"
 areas:
   - "AI safety & policy"
 ---
 
+> ⚠️ **CLOSED on 2026-06-26** — this job is no longer listed on the 80,000 Hours board. Archived snapshot below.
+
 # Newsletter Editor
 
-**[Center for AI Safety](https://www.cais.ai/)**
+**Center for AI Safety**
 
-<dl class="job-meta">
-<dt>Location</dt><dd>San Francisco Bay Area, USA</dd>
-<dt>Role type</dt><dd>Full-time, Part-time</dd>
-<dt>Experience</dt><dd>Junior (1-4 years experience)</dd>
-<dt>Degree</dt><dd>Undergraduate degree or less</dd>
-<dt>Salary</dt><dd>$80,000 – $110,000</dd>
-</dl>
-
-**Areas & skills:** AI safety & policy, Outreach, Other
+**Areas & skills:** AI safety & policy
 
 ## Summary
 - In this role, you'll edit and publish a weekly newsletter covering AI safety developments for a diverse audience.

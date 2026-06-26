@@ -2,7 +2,7 @@
 title: "Supervisory Program Analyst, Artificial Intelligence"
 employer: "US Government, Office of Management and Budget"
 job_id: "recWtWQAzGX2J4aHd"
-last_updated: "2026-06-25T05:32:10.815581Z"
+last_updated: "2026-06-26T05:32:08.989188Z"
 posted_at: "2026-06-23T00:03:00Z"
 status: ready
 apply_url: "https://www.usajobs.gov/job/873842400"
@@ -34,4 +34,4 @@ areas:
 <p class="apply-cta"><a href="https://www.usajobs.gov/job/873842400">Apply →</a></p>
 
 ---
-*Posted 2026-06-23 · Listing synced 2026-06-25 · 80k job ID `recWtWQAzGX2J4aHd`*
+*Posted 2026-06-23 · Listing synced 2026-06-26 · 80k job ID `recWtWQAzGX2J4aHd`*

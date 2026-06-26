@@ -2,7 +2,7 @@
 title: "Expression of Interest, Research Scientist"
 employer: "Sequent"
 job_id: "rechNjmLbCXay50en"
-last_updated: "2026-06-25T05:32:28.083028Z"
+last_updated: "2026-06-26T05:32:26.925674Z"
 posted_at: "2026-06-11T00:02:00Z"
 status: ready
 apply_url: "https://www.sequent.org/careers/research-scientist"
@@ -32,4 +32,4 @@ areas:
 <p class="apply-cta"><a href="https://www.sequent.org/careers/research-scientist">Apply →</a></p>
 
 ---
-*Posted 2026-06-11 · Listing synced 2026-06-25 · 80k job ID `rechNjmLbCXay50en`*
+*Posted 2026-06-11 · Listing synced 2026-06-26 · 80k job ID `rechNjmLbCXay50en`*

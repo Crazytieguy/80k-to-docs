@@ -2,7 +2,7 @@
 title: "Associate Director, Philanthropy"
 employer: "The Good Food Institute"
 job_id: "recCyVrxqucHxir6Q"
-last_updated: "2026-06-25T05:32:54.668487Z"
+last_updated: "2026-06-26T05:32:50.999208Z"
 posted_at: "2026-05-21T00:00:00Z"
 status: ready
 apply_url: "https://gfi.org/resource/associate-director-philanthropy/"
@@ -19,7 +19,7 @@ areas:
 <dt>Role type</dt><dd>Full-time</dd>
 <dt>Experience</dt><dd>Mid (5-9 years experience)</dd>
 <dt>Degree</dt><dd>Undergraduate degree or less</dd>
-<dt>Salary</dt><dd>$96,402 – $111,827</dd>
+<dt>Salary</dt><dd>$96,464 – $111,898</dd>
 </dl>
 
 **Areas & skills:** Animal welfare, Outreach
@@ -34,4 +34,4 @@ areas:
 <p class="apply-cta"><a href="https://gfi.org/resource/associate-director-philanthropy/">Apply →</a></p>
 
 ---
-*Posted 2026-05-21 · Listing synced 2026-06-25 · 80k job ID `recCyVrxqucHxir6Q`*
+*Posted 2026-05-21 · Listing synced 2026-06-26 · 80k job ID `recCyVrxqucHxir6Q`*

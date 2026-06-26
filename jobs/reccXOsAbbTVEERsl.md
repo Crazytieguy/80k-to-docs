@@ -2,7 +2,7 @@
 title: "Contractor, AI Innovation Lab"
 employer: "US Government, National Institute of Standards and Technology"
 job_id: "reccXOsAbbTVEERsl"
-last_updated: "2026-06-25T05:33:56.865766Z"
+last_updated: "2026-06-26T05:33:49.190322Z"
 posted_at: "2022-01-05T00:00:00Z"
 status: ready
 apply_url: "https://www.linkedin.com/posts/jessedunietz_ai-nerds-come-support-my-team-at-nist-on-activity-7240864161662930945-WN-M/"
@@ -31,4 +31,4 @@ areas:
 <p class="apply-cta"><a href="https://www.linkedin.com/posts/jessedunietz_ai-nerds-come-support-my-team-at-nist-on-activity-7240864161662930945-WN-M/">Apply →</a></p>
 
 ---
-*Posted 2022-01-05 · Listing synced 2026-06-25 · 80k job ID `reccXOsAbbTVEERsl`*
+*Posted 2022-01-05 · Listing synced 2026-06-26 · 80k job ID `reccXOsAbbTVEERsl`*

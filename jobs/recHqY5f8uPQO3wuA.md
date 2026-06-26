@@ -2,7 +2,7 @@
 title: "Iliad Intensive and Iliad Fellowship"
 employer: "Iliad"
 job_id: "recHqY5f8uPQO3wuA"
-last_updated: "2026-06-25T05:32:19.311967Z"
+last_updated: "2026-06-26T05:32:17.629635Z"
 posted_at: "2026-06-17T00:00:00Z"
 status: ready
 apply_url: "https://www.iliad.ac/programs.html"
@@ -34,4 +34,4 @@ areas:
 <p class="apply-cta"><a href="https://www.iliad.ac/programs.html">Apply →</a></p>
 
 ---
-*Posted 2026-06-17 · Listing synced 2026-06-25 · 80k job ID `recHqY5f8uPQO3wuA`*
+*Posted 2026-06-17 · Listing synced 2026-06-26 · 80k job ID `recHqY5f8uPQO3wuA`*

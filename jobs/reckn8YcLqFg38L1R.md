@@ -2,7 +2,7 @@
 title: "Research Scientists"
 employer: "Principia"
 job_id: "reckn8YcLqFg38L1R"
-last_updated: "2026-06-25T05:32:22.701618Z"
+last_updated: "2026-06-26T05:32:21.763291Z"
 posted_at: "2026-06-16T00:00:00Z"
 status: ready
 apply_url: "https://principia-ai.org/opportunities/research-scientist"
@@ -34,4 +34,4 @@ areas:
 <p class="apply-cta"><a href="https://principia-ai.org/opportunities/research-scientist">Apply →</a></p>
 
 ---
-*Posted 2026-06-16 · Listing synced 2026-06-25 · 80k job ID `reckn8YcLqFg38L1R`*
+*Posted 2026-06-16 · Listing synced 2026-06-26 · 80k job ID `reckn8YcLqFg38L1R`*

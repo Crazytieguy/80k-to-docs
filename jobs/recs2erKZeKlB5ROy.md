@@ -2,7 +2,7 @@
 title: "Researcher, Robustness and Safety Training, Safety Systems"
 employer: "OpenAI"
 job_id: "recs2erKZeKlB5ROy"
-last_updated: "2026-06-25T05:33:26.028834Z"
+last_updated: "2026-06-26T05:33:20.467155Z"
 posted_at: "2022-01-11T00:00:00Z"
 status: ready
 apply_url: "https://openai.com/careers/researcher-robustness-and-safety-training-san-francisco/"
@@ -34,4 +34,4 @@ areas:
 <p class="apply-cta"><a href="https://openai.com/careers/researcher-robustness-and-safety-training-san-francisco/">Apply →</a></p>
 
 ---
-*Posted 2022-01-11 · Listing synced 2026-06-25 · 80k job ID `recs2erKZeKlB5ROy`*
+*Posted 2022-01-11 · Listing synced 2026-06-26 · 80k job ID `recs2erKZeKlB5ROy`*

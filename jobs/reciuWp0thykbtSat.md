@@ -2,7 +2,7 @@
 title: "Senior Researcher"
 employer: "GiveWell"
 job_id: "reciuWp0thykbtSat"
-last_updated: "2026-06-25T05:33:30.605632Z"
+last_updated: "2026-06-26T05:33:25.069891Z"
 posted_at: "2022-01-07T00:00:00Z"
 status: ready
 apply_url: "https://job-boards.greenhouse.io/givewell/jobs/4253692008"
@@ -34,4 +34,4 @@ areas:
 <p class="apply-cta"><a href="https://job-boards.greenhouse.io/givewell/jobs/4253692008">Apply →</a></p>
 
 ---
-*Posted 2022-01-07 · Listing synced 2026-06-25 · 80k job ID `reciuWp0thykbtSat`*
+*Posted 2022-01-07 · Listing synced 2026-06-26 · 80k job ID `reciuWp0thykbtSat`*

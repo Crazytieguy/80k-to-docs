@@ -4,25 +4,20 @@ employer: "Center for AI Safety"
 job_id: "recZxWewYgesKkRC6"
 last_updated: "2026-06-25T05:33:16.187712Z"
 posted_at: "2022-01-12T00:00:00Z"
-status: ready
+status: closed
+closed_at: "2026-06-26"
 apply_url: "https://jobs.lever.co/aisafety/0431d90d-82d9-4f82-b89b-ce51974906e7"
 areas:
   - "AI safety & policy"
 ---
 
+> ⚠️ **CLOSED on 2026-06-26** — this job is no longer listed on the 80,000 Hours board. Archived snapshot below.
+
 # Program Manager
 
-**[Center for AI Safety](https://www.cais.ai/)**
+**Center for AI Safety**
 
-<dl class="job-meta">
-<dt>Location</dt><dd>San Francisco Bay Area, USA</dd>
-<dt>Role type</dt><dd>Full-time</dd>
-<dt>Experience</dt><dd>Junior (1-4 years experience)</dd>
-<dt>Degree</dt><dd>Undergraduate degree or less</dd>
-<dt>Salary</dt><dd>$110,000 – $150,000</dd>
-</dl>
-
-**Areas & skills:** AI safety & policy, Strategy
+**Areas & skills:** AI safety & policy
 
 ## Summary
 - In this role, you'll lead AI safety initiatives including fellowships, workshops, publications, and policy projects at the Center for AI Safety.

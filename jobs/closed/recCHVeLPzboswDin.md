@@ -4,25 +4,20 @@ employer: "Giving What We Can"
 job_id: "recCHVeLPzboswDin"
 last_updated: "2026-06-25T05:32:56.968864Z"
 posted_at: "2026-05-19T00:01:00Z"
-status: ready
+status: closed
+closed_at: "2026-06-26"
 apply_url: "https://www.givingwhatwecan.org/head-of-community-us"
 areas:
   - "Building effective altruism"
 ---
 
+> ⚠️ **CLOSED on 2026-06-26** — this job is no longer listed on the 80,000 Hours board. Archived snapshot below.
+
 # Head of Community Engagement, San Francisco
 
-**[Giving What We Can](https://www.givingwhatwecan.org/)**
+**Giving What We Can**
 
-<dl class="job-meta">
-<dt>Location</dt><dd>San Francisco Bay Area, USA</dd>
-<dt>Role type</dt><dd>Full-time</dd>
-<dt>Experience</dt><dd>Senior (10+ years experience)</dd>
-<dt>Degree</dt><dd>Undergraduate degree or less</dd>
-<dt>Salary</dt><dd>$104,000 – $120,000</dd>
-</dl>
-
-**Areas & skills:** Building effective altruism, Outreach
+**Areas & skills:** Building effective altruism
 
 ## Summary
 - In this role, you'll build a new community engagement function dedicated to deepening relationships with high-impact philanthropists.

@@ -4,25 +4,21 @@ employer: "United Nations, Institute for Disarmament Research"
 job_id: "recJsXfOOutut0r7Q"
 last_updated: "2026-06-25T05:32:38.881201Z"
 posted_at: "2026-06-08T00:00:00Z"
-status: ready
+status: closed
+closed_at: "2026-06-26"
 apply_url: "https://unidir.org/job/deputy-head-of-programme-security-and-technology/"
 areas:
   - "AI safety & policy"
   - "Nuclear security"
 ---
 
+> ⚠️ **CLOSED on 2026-06-26** — this job is no longer listed on the 80,000 Hours board. Archived snapshot below.
+
 # Deputy Head of Programme, Security and Technology
 
-**[United Nations, Institute for Disarmament Research](https://www.un.org/en/)**
+**United Nations, Institute for Disarmament Research**
 
-<dl class="job-meta">
-<dt>Location</dt><dd>Geneva, Switzerland, Switzerland, Europe (ex UK)</dd>
-<dt>Role type</dt><dd>Full-time</dd>
-<dt>Experience</dt><dd>Mid (5-9 years experience)</dd>
-<dt>Degree</dt><dd>Master's degree</dd>
-</dl>
-
-**Areas & skills:** AI safety & policy, Nuclear security, Policy, Management
+**Areas & skills:** AI safety & policy, Nuclear security
 
 ## Summary
 - In this role, you'll lead the development, implementation, and evaluation of the Security and Technology Programme while managing team performance.

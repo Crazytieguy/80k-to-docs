@@ -2,8 +2,8 @@
 title: "Operations Manager"
 employer: "Center for AI Safety"
 job_id: "rec0rJCQNTSHzcsp3"
-last_updated: "2026-06-25T05:33:14.578835Z"
-posted_at: "2026-04-06T00:04:52Z"
+last_updated: "2026-06-26T05:33:11.747867Z"
+posted_at: "2022-01-12T00:00:00Z"
 status: ready
 apply_url: "https://jobs.lever.co/aisafety/f0218805-28e2-4da5-a002-dddb8dfce7fd"
 areas:
@@ -34,4 +34,4 @@ areas:
 <p class="apply-cta"><a href="https://jobs.lever.co/aisafety/f0218805-28e2-4da5-a002-dddb8dfce7fd">Apply →</a></p>
 
 ---
-*Posted 2026-04-06 · Listing synced 2026-06-25 · 80k job ID `rec0rJCQNTSHzcsp3`*
+*Posted 2022-01-12 · Listing synced 2026-06-26 · 80k job ID `rec0rJCQNTSHzcsp3`*

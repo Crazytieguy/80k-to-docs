@@ -4,24 +4,20 @@ employer: "Secure DNA Project"
 job_id: "recWbAk6QVpzWEOF8"
 last_updated: "2026-06-25T05:32:13.065078Z"
 posted_at: "2026-06-22T00:03:00Z"
-status: ready
+status: closed
+closed_at: "2026-06-26"
 apply_url: "https://securedna.org/careers/"
 areas:
   - "Biosecurity & pandemic preparedness"
 ---
 
+> ⚠️ **CLOSED on 2026-06-26** — this job is no longer listed on the 80,000 Hours board. Archived snapshot below.
+
 # Contractor, Outreach and Onboarding
 
-**[Secure DNA Project](https://securedna.org/)**
+**Secure DNA Project**
 
-<dl class="job-meta">
-<dt>Location</dt><dd>Boston metro area, USA</dd>
-<dt>Role type</dt><dd>Part-time</dd>
-<dt>Experience</dt><dd>Entry-level</dd>
-<dt>Degree</dt><dd>Undergraduate degree or less</dd>
-</dl>
-
-**Areas & skills:** Biosecurity & pandemic preparedness, Outreach
+**Areas & skills:** Biosecurity & pandemic preparedness
 
 ## Summary
 - In this role, you'll support outreach, onboarding, and stakeholder engagement to grow adoption of the SecureDNA screening system.

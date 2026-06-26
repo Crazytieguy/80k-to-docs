@@ -2,7 +2,7 @@
 title: "Technical Operator, Kenya"
 employer: "Essential"
 job_id: "recYnKtqxlwoA5y9J"
-last_updated: "2026-06-25T05:34:14.658705Z"
+last_updated: "2026-06-26T05:34:06.726811Z"
 posted_at: "2022-01-01T00:00:00Z"
 status: ready
 apply_url: "https://drive.google.com/file/d/12DKjjH_y5pfVkwJVG79Yu_MsmXteiQKF/view"
@@ -33,4 +33,4 @@ areas:
 <p class="apply-cta"><a href="https://drive.google.com/file/d/12DKjjH_y5pfVkwJVG79Yu_MsmXteiQKF/view">Apply →</a></p>
 
 ---
-*Posted 2022-01-01 · Listing synced 2026-06-25 · 80k job ID `recYnKtqxlwoA5y9J`*
+*Posted 2022-01-01 · Listing synced 2026-06-26 · 80k job ID `recYnKtqxlwoA5y9J`*

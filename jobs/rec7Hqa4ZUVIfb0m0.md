@@ -2,7 +2,7 @@
 title: "Senior Software Engineer"
 employer: "Against Malaria Foundation"
 job_id: "rec7Hqa4ZUVIfb0m0"
-last_updated: "2026-06-25T05:33:05.641733Z"
+last_updated: "2026-06-26T05:33:01.534771Z"
 posted_at: "2026-04-30T00:00:00Z"
 status: ready
 apply_url: "https://www.againstmalaria.com/NewsItem.aspx?newsitem=AMF-is-hiring-Senior-Software-Engineer"
@@ -33,4 +33,4 @@ areas:
 <p class="apply-cta"><a href="https://www.againstmalaria.com/NewsItem.aspx?newsitem=AMF-is-hiring-Senior-Software-Engineer">Apply →</a></p>
 
 ---
-*Posted 2026-04-30 · Listing synced 2026-06-25 · 80k job ID `rec7Hqa4ZUVIfb0m0`*
+*Posted 2026-04-30 · Listing synced 2026-06-26 · 80k job ID `rec7Hqa4ZUVIfb0m0`*

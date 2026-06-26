@@ -4,25 +4,20 @@ employer: "Humans in Control"
 job_id: "recuCIT4o3iXthAkw"
 last_updated: "2026-06-25T05:33:02.102833Z"
 posted_at: "2026-05-11T00:02:00Z"
-status: ready
+status: closed
+closed_at: "2026-06-26"
 apply_url: "https://humansincontrol.org/careers/digital-engagement-manager"
 areas:
   - "AI safety & policy"
 ---
 
+> ⚠️ **CLOSED on 2026-06-26** — this job is no longer listed on the 80,000 Hours board. Archived snapshot below.
+
 # Digital Video and Engagement Manager
 
-**[Humans in Control](https://humansincontrol.org/)**
+**Humans in Control**
 
-<dl class="job-meta">
-<dt>Location</dt><dd>Remote, USA, USA</dd>
-<dt>Role type</dt><dd>Full-time</dd>
-<dt>Experience</dt><dd>Junior (1-4 years experience)</dd>
-<dt>Degree</dt><dd>Undergraduate degree or less</dd>
-<dt>Salary</dt><dd>$75,000 – $95,000</dd>
-</dl>
-
-**Areas & skills:** AI safety & policy, Outreach
+**Areas & skills:** AI safety & policy
 
 ## Summary
 - In this role, you'll create short-form video and digital campaigns to build HIC's supporter base and drive grassroots action.

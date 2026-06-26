@@ -4,25 +4,20 @@ employer: "Center for AI Safety"
 job_id: "rectjFzGkd8yXVhqZ"
 last_updated: "2026-06-25T05:33:21.703652Z"
 posted_at: "2022-01-11T00:00:00Z"
-status: ready
+status: closed
+closed_at: "2026-06-26"
 apply_url: "https://jobs.lever.co/aisafety/02e2df24-49d8-4d99-970f-4f7e98900133"
 areas:
   - "AI safety & policy"
 ---
 
+> ⚠️ **CLOSED on 2026-06-26** — this job is no longer listed on the 80,000 Hours board. Archived snapshot below.
+
 # Chief of Staff / Program Operations, Public Engagement
 
-**[Center for AI Safety](https://www.cais.ai/)**
+**Center for AI Safety**
 
-<dl class="job-meta">
-<dt>Location</dt><dd>San Francisco Bay Area, USA</dd>
-<dt>Role type</dt><dd>Full-time</dd>
-<dt>Experience</dt><dd>Mid (5-9 years experience), Senior (10+ years experience)</dd>
-<dt>Degree</dt><dd>Undergraduate degree or less</dd>
-<dt>Salary</dt><dd>$90,000 – $150,000</dd>
-</dl>
-
-**Areas & skills:** AI safety & policy, Operations
+**Areas & skills:** AI safety & policy
 
 ## Summary
 - In this role, you'll serve as the operational backbone of the Public Engagement team, managing workflows and metrics to enable strategic execution.

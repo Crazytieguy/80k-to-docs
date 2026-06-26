@@ -4,25 +4,20 @@ employer: "Google DeepMind"
 job_id: "recsSnCicUrlQNk7P"
 last_updated: "2026-06-25T05:33:23.459241Z"
 posted_at: "2022-01-11T00:00:00Z"
-status: ready
+status: closed
+closed_at: "2026-06-26"
 apply_url: "https://job-boards.greenhouse.io/deepmind/jobs/7493360"
 areas:
   - "AI safety & policy"
 ---
 
+> ⚠️ **CLOSED on 2026-06-26** — this job is no longer listed on the 80,000 Hours board. Archived snapshot below.
+
 # Research Engineer, Frontier Safety Risk Assessment
 
-**[Google DeepMind](https://www.deepmind.com)**
+**Google DeepMind**
 
-<dl class="job-meta">
-<dt>Location</dt><dd>San Francisco Bay Area, USA, USA (Confirmed Visas)</dd>
-<dt>Role type</dt><dd>Full-time</dd>
-<dt>Experience</dt><dd>Multiple experience levels</dd>
-<dt>Degree</dt><dd>Undergraduate degree or less</dd>
-<dt>Salary</dt><dd>$136,000 – $245,000</dd>
-</dl>
-
-**Areas & skills:** AI safety & policy, Research, Software engineering
+**Areas & skills:** AI safety & policy
 
 ## Summary
 - In this role, you'll design and validate approaches to assess and mitigate catastrophic risks from frontier AI systems.

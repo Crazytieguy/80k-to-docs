@@ -2,7 +2,7 @@
 title: "Director, Country Expansion"
 employer: "Lafiya"
 job_id: "reckz5bnKDqlEfbQX"
-last_updated: "2026-06-25T05:32:42.855652Z"
+last_updated: "2026-06-26T05:32:39.272000Z"
 posted_at: "2026-06-04T00:00:00Z"
 status: ready
 apply_url: "https://docs.google.com/document/d/1tAjr7VnQ0vK_bWX9KyuXZfyZ0bx5Ua8PUrCpKBsAP2k/edit?usp=sharing"
@@ -34,4 +34,4 @@ areas:
 <p class="apply-cta"><a href="https://docs.google.com/document/d/1tAjr7VnQ0vK_bWX9KyuXZfyZ0bx5Ua8PUrCpKBsAP2k/edit?usp=sharing">Apply →</a></p>
 
 ---
-*Posted 2026-06-04 · Listing synced 2026-06-25 · 80k job ID `reckz5bnKDqlEfbQX`*
+*Posted 2026-06-04 · Listing synced 2026-06-26 · 80k job ID `reckz5bnKDqlEfbQX`*

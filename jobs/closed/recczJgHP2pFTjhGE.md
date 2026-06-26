@@ -4,25 +4,20 @@ employer: "US-China Business Council"
 job_id: "recczJgHP2pFTjhGE"
 last_updated: "2026-06-25T05:33:09.109373Z"
 posted_at: "2026-04-22T00:00:00Z"
-status: ready
+status: closed
+closed_at: "2026-06-26"
 apply_url: "https://www.uschina.org/government-affairs-intern/"
 areas:
   - "Career development: Policy & government"
 ---
 
+> ⚠️ **CLOSED on 2026-06-26** — this job is no longer listed on the 80,000 Hours board. Archived snapshot below.
+
 # Intern, Government Affairs
 
-**[US-China Business Council](https://www.uschina.org/)**
+**US-China Business Council**
 
-<dl class="job-meta">
-<dt>Location</dt><dd>Washington, DC metro area, USA</dd>
-<dt>Role type</dt><dd>Internship</dd>
-<dt>Experience</dt><dd>Entry-level</dd>
-<dt>Degree</dt><dd>Undergraduate degree or less</dd>
-<dt>Salary</dt><dd>$37,440 – $45,760</dd>
-</dl>
-
-**Areas & skills:** Career development: Policy & government, Research, Policy
+**Areas & skills:** Career development: Policy & government
 
 ## Summary
 - In this role, you'll support the Government Affairs team in monitoring China-related developments in US government branches.
