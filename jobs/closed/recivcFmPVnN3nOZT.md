@@ -4,25 +4,20 @@ employer: "University of South-Eastern Norway"
 job_id: "recivcFmPVnN3nOZT"
 last_updated: "2026-06-26T05:32:33.092791Z"
 posted_at: "2026-06-09T00:00:00Z"
-status: ready
+status: closed
+closed_at: "2026-06-27"
 apply_url: "https://ellis.eu/research/jobs/2026-06-26-researcher-in-ai-security-and-privacy"
 areas:
   - "AI safety & policy"
 ---
 
+> ⚠️ **CLOSED on 2026-06-27** — this job is no longer listed on the 80,000 Hours board. Archived snapshot below.
+
 # Researcher, AI Security and Privacy
 
-**[University of South-Eastern Norway](https://www.usn.no/english/)**
+**University of South-Eastern Norway**
 
-<dl class="job-meta">
-<dt>Location</dt><dd>Kongsberg, Norway, Norway, Europe (ex UK)</dd>
-<dt>Role type</dt><dd>Full-time</dd>
-<dt>Experience</dt><dd>Junior (1-4 years experience)</dd>
-<dt>Degree</dt><dd>Doctoral degree</dd>
-<dt>Salary</dt><dd>$67,189 – $87,048</dd>
-</dl>
-
-**Areas & skills:** AI safety & policy, Research, Information security
+**Areas & skills:** AI safety & policy
 
 ## Summary
 - In this role, you'll conduct research on privacy and security threats to AI systems, including threat modeling and robustness evaluation.

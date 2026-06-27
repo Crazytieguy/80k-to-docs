@@ -2,7 +2,7 @@
 title: "Director, Federal Affairs"
 employer: "Encode"
 job_id: "recY7YqoTzOqofvVv"
-last_updated: "2026-06-26T05:32:25.996867Z"
+last_updated: "2026-06-27T05:32:28.274494Z"
 posted_at: "2026-06-11T00:05:00Z"
 status: ready
 apply_url: "https://encode-careers.vercel.app/federal-affairs"
@@ -34,4 +34,4 @@ areas:
 <p class="apply-cta"><a href="https://encode-careers.vercel.app/federal-affairs">Apply →</a></p>
 
 ---
-*Posted 2026-06-11 · Listing synced 2026-06-26 · 80k job ID `recY7YqoTzOqofvVv`*
+*Posted 2026-06-11 · Listing synced 2026-06-27 · 80k job ID `recY7YqoTzOqofvVv`*

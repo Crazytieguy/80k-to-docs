@@ -4,25 +4,20 @@ employer: "TechCongress"
 job_id: "recnNiRKiutDNeAqf"
 last_updated: "2026-06-26T05:32:38.613033Z"
 posted_at: "2026-06-04T00:02:00Z"
-status: ready
+status: closed
+closed_at: "2026-06-27"
 apply_url: "https://techcongress.forms.fm/january-2027-fellowship/forms/10111"
 areas:
   - "Career development: Policy & government"
 ---
 
+> ⚠️ **CLOSED on 2026-06-27** — this job is no longer listed on the 80,000 Hours board. Archived snapshot below.
+
 # Fellowship (January 2027)
 
-**[TechCongress](https://www.techcongress.io)**
+**TechCongress**
 
-<dl class="job-meta">
-<dt>Location</dt><dd>Washington, DC metro area, USA</dd>
-<dt>Role type</dt><dd>Fellowship</dd>
-<dt>Experience</dt><dd>Multiple experience levels</dd>
-<dt>Degree</dt><dd>Undergraduate degree or less</dd>
-<dt>Salary</dt><dd>$78,000 – $100,600</dd>
-</dl>
-
-**Areas & skills:** Career development: Policy & government, Research, Policy
+**Areas & skills:** Career development: Policy & government
 
 ## Summary
 - In this fellowship, you'll work in a Congressional office applying technical expertise to help Members and staff navigate technology policy issues.

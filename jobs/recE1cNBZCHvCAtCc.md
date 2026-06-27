@@ -2,7 +2,7 @@
 title: "Expressions of Interest, Fund Development Officer / Manager / Director"
 employer: "EA Funds"
 job_id: "recE1cNBZCHvCAtCc"
-last_updated: "2026-06-26T05:34:06.597815Z"
+last_updated: "2026-06-27T05:34:09.921769Z"
 posted_at: "2022-01-01T00:00:00Z"
 status: ready
 apply_url: "https://toothsome-truffle-ec7.notion.site/Expression-of-interest-at-EA-Animal-Welfare-Fund-AWF-Fund-Development-Officer-Manager-Director-15192498bf4d80cbb382ddc7a9299747?pvs=4"
@@ -31,4 +31,4 @@ areas:
 <p class="apply-cta"><a href="https://toothsome-truffle-ec7.notion.site/Expression-of-interest-at-EA-Animal-Welfare-Fund-AWF-Fund-Development-Officer-Manager-Director-15192498bf4d80cbb382ddc7a9299747?pvs=4">Apply →</a></p>
 
 ---
-*Posted 2022-01-01 · Listing synced 2026-06-26 · 80k job ID `recE1cNBZCHvCAtCc`*
+*Posted 2022-01-01 · Listing synced 2026-06-27 · 80k job ID `recE1cNBZCHvCAtCc`*

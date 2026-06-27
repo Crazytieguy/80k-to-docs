@@ -2,7 +2,7 @@
 title: "Vice President of Engineering"
 employer: "Transluce"
 job_id: "recqV1ixjKEAoQgJC"
-last_updated: "2026-06-26T05:32:52.825115Z"
+last_updated: "2026-06-27T05:32:56.135237Z"
 posted_at: "2026-05-20T00:00:00Z"
 status: ready
 apply_url: "https://jobs.gem.com/transluce/am9icG9zdDr-Pg6BHWC21IpVDjuSH3Ez"
@@ -34,4 +34,4 @@ areas:
 <p class="apply-cta"><a href="https://jobs.gem.com/transluce/am9icG9zdDr-Pg6BHWC21IpVDjuSH3Ez">Apply →</a></p>
 
 ---
-*Posted 2026-05-20 · Listing synced 2026-06-26 · 80k job ID `recqV1ixjKEAoQgJC`*
+*Posted 2026-05-20 · Listing synced 2026-06-27 · 80k job ID `recqV1ixjKEAoQgJC`*

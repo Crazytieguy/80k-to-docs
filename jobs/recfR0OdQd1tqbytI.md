@@ -2,8 +2,8 @@
 title: "Product Designer"
 employer: "CivAI"
 job_id: "recfR0OdQd1tqbytI"
-last_updated: "2026-06-26T05:33:09.754458Z"
-posted_at: "2026-04-07T00:05:00Z"
+last_updated: "2026-06-27T05:33:32.448546Z"
+posted_at: "2022-01-06T00:00:00Z"
 status: ready
 apply_url: "https://civai.org/jobs/product-designer"
 areas:
@@ -34,4 +34,4 @@ areas:
 <p class="apply-cta"><a href="https://civai.org/jobs/product-designer">Apply →</a></p>
 
 ---
-*Posted 2026-04-07 · Listing synced 2026-06-26 · 80k job ID `recfR0OdQd1tqbytI`*
+*Posted 2022-01-06 · Listing synced 2026-06-27 · 80k job ID `recfR0OdQd1tqbytI`*

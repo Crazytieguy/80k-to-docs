@@ -2,10 +2,10 @@
 title: "Founding Video and Social Lead"
 employer: "Humans in Control"
 job_id: "rec7HMgENcEI26M5N"
-last_updated: "2026-06-26T05:32:06.754655Z"
+last_updated: "2026-06-27T05:32:09.675090Z"
 posted_at: "2026-06-25T00:03:00Z"
 status: ready
-apply_url: "https://humansincontrol.org/careers/founding-video-digital-lead"
+apply_url: "https://humansincontrol.org/careers/social-media-content-producer/"
 areas:
   - "AI safety & policy"
 ---
@@ -31,7 +31,7 @@ areas:
 - Own the digital activation funnel using email, SMS, and campaigns to drive event signups, calls to reps, and supporter recruitment.
 - Develop on-camera voices, test content performance across channels, and help lead digital strategy.
 
-<p class="apply-cta"><a href="https://humansincontrol.org/careers/founding-video-digital-lead">Apply →</a></p>
+<p class="apply-cta"><a href="https://humansincontrol.org/careers/social-media-content-producer/">Apply →</a></p>
 
 ---
-*Posted 2026-06-25 · Listing synced 2026-06-26 · 80k job ID `rec7HMgENcEI26M5N`*
+*Posted 2026-06-25 · Listing synced 2026-06-27 · 80k job ID `rec7HMgENcEI26M5N`*

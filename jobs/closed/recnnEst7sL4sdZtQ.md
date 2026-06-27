@@ -4,25 +4,20 @@ employer: "Advanced Research and Invention Agency"
 job_id: "recnnEst7sL4sdZtQ"
 last_updated: "2026-06-26T05:32:33.945036Z"
 posted_at: "2026-06-08T00:00:00Z"
-status: ready
+status: closed
+closed_at: "2026-06-27"
 apply_url: "https://aria.pinpointhq.com/en/postings/5a8514e6-2712-42e2-9af7-7bb2cdacd263"
 areas:
   - "Career development: Technical"
 ---
 
+> ⚠️ **CLOSED on 2026-06-27** — this job is no longer listed on the 80,000 Hours board. Archived snapshot below.
+
 # Junior Software Engineer
 
-**[Advanced Research and Invention Agency](https://www.aria.org.uk/)**
+**Advanced Research and Invention Agency**
 
-<dl class="job-meta">
-<dt>Location</dt><dd>London, UK, UK</dd>
-<dt>Role type</dt><dd>Full-time</dd>
-<dt>Experience</dt><dd>Junior (1-4 years experience)</dd>
-<dt>Degree</dt><dd>Undergraduate degree or less</dd>
-<dt>Salary</dt><dd>$66,019</dd>
-</dl>
-
-**Areas & skills:** Career development: Technical, Software engineering
+**Areas & skills:** Career development: Technical
 
 ## Summary
 - In this role, you'll build AI-driven workflow automation solutions to replace manual processes and increase operational efficiency.

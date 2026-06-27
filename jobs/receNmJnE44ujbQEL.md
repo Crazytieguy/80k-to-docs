@@ -2,7 +2,7 @@
 title: "Research and Program Associate, Nuclear Information Project"
 employer: "Federation of American Scientists"
 job_id: "receNmJnE44ujbQEL"
-last_updated: "2026-06-26T05:32:36.322409Z"
+last_updated: "2026-06-27T05:32:38.555893Z"
 posted_at: "2026-06-05T00:02:00Z"
 status: ready
 apply_url: "https://fas.org/career/research-and-program-associate-nuclear-information-project/"
@@ -34,4 +34,4 @@ areas:
 <p class="apply-cta"><a href="https://fas.org/career/research-and-program-associate-nuclear-information-project/">Apply →</a></p>
 
 ---
-*Posted 2026-06-05 · Listing synced 2026-06-26 · 80k job ID `receNmJnE44ujbQEL`*
+*Posted 2026-06-05 · Listing synced 2026-06-27 · 80k job ID `receNmJnE44ujbQEL`*

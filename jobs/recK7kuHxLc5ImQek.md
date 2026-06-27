@@ -2,7 +2,7 @@
 title: "Intern, Agent Safety and Security"
 employer: "AIM Intelligence"
 job_id: "recK7kuHxLc5ImQek"
-last_updated: "2026-06-26T05:32:09.419431Z"
+last_updated: "2026-06-27T05:32:12.303345Z"
 posted_at: "2026-06-23T00:00:00Z"
 status: ready
 apply_url: "https://career.aim-intelligence.com/ko/o/220466"
@@ -33,4 +33,4 @@ areas:
 <p class="apply-cta"><a href="https://career.aim-intelligence.com/ko/o/220466">Apply →</a></p>
 
 ---
-*Posted 2026-06-23 · Listing synced 2026-06-26 · 80k job ID `recK7kuHxLc5ImQek`*
+*Posted 2026-06-23 · Listing synced 2026-06-27 · 80k job ID `recK7kuHxLc5ImQek`*

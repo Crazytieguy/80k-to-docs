@@ -2,7 +2,7 @@
 title: "Director of Programs"
 employer: "SteadRise"
 job_id: "rec5NGp3eCE41U6Do"
-last_updated: "2026-06-26T05:32:20.174233Z"
+last_updated: "2026-06-27T05:32:22.446223Z"
 posted_at: "2026-06-16T00:01:00Z"
 status: ready
 apply_url: "https://steadrise.notion.site/Director-of-Programs-36d20e14e1b780a5baf5d84bc65d1571"
@@ -19,7 +19,7 @@ areas:
 <dt>Role type</dt><dd>Full-time</dd>
 <dt>Experience</dt><dd>Mid (5-9 years experience)</dd>
 <dt>Degree</dt><dd>Undergraduate degree or less</dd>
-<dt>Salary</dt><dd>$112,233 – $132,038</dd>
+<dt>Salary</dt><dd>$112,189 – $131,987</dd>
 </dl>
 
 **Areas & skills:** AI safety & policy, Operations, Management, Strategy
@@ -34,4 +34,4 @@ areas:
 <p class="apply-cta"><a href="https://steadrise.notion.site/Director-of-Programs-36d20e14e1b780a5baf5d84bc65d1571">Apply →</a></p>
 
 ---
-*Posted 2026-06-16 · Listing synced 2026-06-26 · 80k job ID `rec5NGp3eCE41U6Do`*
+*Posted 2026-06-16 · Listing synced 2026-06-27 · 80k job ID `rec5NGp3eCE41U6Do`*

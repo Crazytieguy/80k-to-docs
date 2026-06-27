@@ -4,25 +4,20 @@ employer: "OpenAI"
 job_id: "recFuXp1azdOvbwK5"
 last_updated: "2026-06-26T05:33:06.134309Z"
 posted_at: "2026-04-16T00:00:00Z"
-status: ready
+status: closed
+closed_at: "2026-06-27"
 apply_url: "https://openai.com/careers/abuse-investigator-(ai-self-improvement-risk)-san-francisco/"
 areas:
   - "AI safety & policy"
 ---
 
+> ⚠️ **CLOSED on 2026-06-27** — this job is no longer listed on the 80,000 Hours board. Archived snapshot below.
+
 # Abuse Investigator, AI Self-Improvement Risk
 
-**[OpenAI](https://openai.com/)**
+**OpenAI**
 
-<dl class="job-meta">
-<dt>Location</dt><dd>San Francisco Bay Area, USA</dd>
-<dt>Role type</dt><dd>Full-time</dd>
-<dt>Experience</dt><dd>Mid (5-9 years experience)</dd>
-<dt>Degree</dt><dd>Undergraduate degree or less</dd>
-<dt>Salary</dt><dd>$288,000 – $320,000</dd>
-</dl>
-
-**Areas & skills:** AI safety & policy, Research, Information security
+**Areas & skills:** AI safety & policy
 
 ## Summary
 - In this role, you'll investigate model behavior to identify agentic or autonomous patterns that introduce safety risks.

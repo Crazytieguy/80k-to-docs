@@ -2,7 +2,7 @@
 title: "Governance and Strategy Bootcamp (Fall 2026)"
 employer: "ML4Good"
 job_id: "recwlSgYXDrc5wudE"
-last_updated: "2026-06-26T05:32:24.189548Z"
+last_updated: "2026-06-27T05:32:26.414866Z"
 posted_at: "2026-06-12T00:03:00Z"
 status: ready
 apply_url: "https://ml4good.org/governance-track/"
@@ -32,4 +32,4 @@ areas:
 <p class="apply-cta"><a href="https://ml4good.org/governance-track/">Apply →</a></p>
 
 ---
-*Posted 2026-06-12 · Listing synced 2026-06-26 · 80k job ID `recwlSgYXDrc5wudE`*
+*Posted 2026-06-12 · Listing synced 2026-06-27 · 80k job ID `recwlSgYXDrc5wudE`*

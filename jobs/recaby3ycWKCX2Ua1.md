@@ -2,7 +2,7 @@
 title: "Research Intern, Japan Chair (Summer 2026)"
 employer: "Hudson Institute"
 job_id: "recaby3ycWKCX2Ua1"
-last_updated: "2026-06-26T05:33:58.549402Z"
+last_updated: "2026-06-27T05:34:01.552100Z"
 posted_at: "2022-01-02T00:00:00Z"
 status: ready
 apply_url: "https://recruiting.paylocity.com/Recruiting/Jobs/Details/3698593"
@@ -33,4 +33,4 @@ areas:
 <p class="apply-cta"><a href="https://recruiting.paylocity.com/Recruiting/Jobs/Details/3698593">Apply →</a></p>
 
 ---
-*Posted 2022-01-02 · Listing synced 2026-06-26 · 80k job ID `recaby3ycWKCX2Ua1`*
+*Posted 2022-01-02 · Listing synced 2026-06-27 · 80k job ID `recaby3ycWKCX2Ua1`*

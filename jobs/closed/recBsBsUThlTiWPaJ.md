@@ -4,24 +4,20 @@ employer: "Living Goods"
 job_id: "recBsBsUThlTiWPaJ"
 last_updated: "2026-06-26T05:32:47.048870Z"
 posted_at: "2026-05-26T00:00:00Z"
-status: ready
+status: closed
+closed_at: "2026-06-27"
 apply_url: "https://livinggoods.applytojob.com/apply/Or3JEgQUuU/Stagiaire-MEL-Suivi-valuation-Et-Apprentissage"
 areas:
   - "Global health & development"
 ---
 
+> ⚠️ **CLOSED on 2026-06-27** — this job is no longer listed on the 80,000 Hours board. Archived snapshot below.
+
 # Intern, Monitoring, Evaluation and Learning
 
-**[Living Goods](https://livinggoods.org)**
+**Living Goods**
 
-<dl class="job-meta">
-<dt>Location</dt><dd>Burkina Faso, Africa</dd>
-<dt>Role type</dt><dd>Internship</dd>
-<dt>Experience</dt><dd>Entry-level</dd>
-<dt>Degree</dt><dd>Undergraduate degree or less</dd>
-</dl>
-
-**Areas & skills:** Global health & development, Operations
+**Areas & skills:** Global health & development
 
 ## Summary
 - In this role, you'll support M&E framework implementation, tracking progress against project targets and results in assigned districts.

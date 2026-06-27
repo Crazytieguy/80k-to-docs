@@ -2,7 +2,7 @@
 title: "Operations Associate"
 employer: "Centre for Long-Term Resilience"
 job_id: "recNSP3OL0WwMp7tl"
-last_updated: "2026-06-26T05:32:10.611509Z"
+last_updated: "2026-06-27T05:32:13.554260Z"
 posted_at: "2026-06-22T00:05:00Z"
 status: ready
 apply_url: "https://www.longtermresilience.org/were-hiring-operations-associate-ai-or-biosecurity-unit/"
@@ -20,7 +20,7 @@ areas:
 <dt>Role type</dt><dd>Full-time</dd>
 <dt>Experience</dt><dd>Junior (1-4 years experience)</dd>
 <dt>Degree</dt><dd>Undergraduate degree or less</dd>
-<dt>Salary</dt><dd>$72,621</dd>
+<dt>Salary</dt><dd>$72,593</dd>
 </dl>
 
 **Areas & skills:** AI safety & policy, Biosecurity & pandemic preparedness, Operations
@@ -35,4 +35,4 @@ areas:
 <p class="apply-cta"><a href="https://www.longtermresilience.org/were-hiring-operations-associate-ai-or-biosecurity-unit/">Apply →</a></p>
 
 ---
-*Posted 2026-06-22 · Listing synced 2026-06-26 · 80k job ID `recNSP3OL0WwMp7tl`*
+*Posted 2026-06-22 · Listing synced 2026-06-27 · 80k job ID `recNSP3OL0WwMp7tl`*

@@ -4,25 +4,20 @@ employer: "Dovetail"
 job_id: "recTaKimv4XNMiqLl"
 last_updated: "2026-06-26T05:33:05.146811Z"
 posted_at: "2026-04-20T00:00:00Z"
-status: ready
+status: closed
+closed_at: "2026-06-27"
 apply_url: "https://dovetailresearch.org/jobs/798cc873-2e07-4716-9c5a-5cbc32992c03/lean-prover"
 areas:
   - "AI safety & policy"
 ---
 
+> ⚠️ **CLOSED on 2026-06-27** — this job is no longer listed on the 80,000 Hours board. Archived snapshot below.
+
 # Lean Proof Contractor
 
-**[Dovetail](https://dovetailresearch.org/)**
+**Dovetail**
 
-<dl class="job-meta">
-<dt>Location</dt><dd>Remote, UK, UK</dd>
-<dt>Role type</dt><dd>Full-time</dd>
-<dt>Experience</dt><dd>Junior (1-4 years experience)</dd>
-<dt>Degree</dt><dd>Undergraduate degree or less</dd>
-<dt>Salary</dt><dd>$137,320</dd>
-</dl>
-
-**Areas & skills:** AI safety & policy, Research
+**Areas & skills:** AI safety & policy
 
 ## Summary
 - In this role, you'll write proofs in Lean for mathematical AI safety research.

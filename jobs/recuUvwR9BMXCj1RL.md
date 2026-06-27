@@ -2,22 +2,27 @@
 title: "Research Scientist, Diagnostics"
 employer: "The Broad Institute, Sabeti Lab"
 job_id: "recuUvwR9BMXCj1RL"
-last_updated: "2026-06-19T05:32:04.559676Z"
+last_updated: "2026-06-27T05:32:32.383117Z"
 posted_at: "2026-06-10T00:01:00Z"
-status: closed
-closed_at: "2026-06-20"
+status: ready
 apply_url: "https://broadinstitute.avature.net/en_US/careers/JobDetail/Research-Scientist-I-Sabeti-Lab-Diagnostics-Group/21959"
 areas:
   - "Biosecurity & pandemic preparedness"
 ---
 
-> ⚠️ **CLOSED on 2026-06-20** — this job is no longer listed on the 80,000 Hours board. Archived snapshot below.
-
 # Research Scientist, Diagnostics
 
-**The Broad Institute, Sabeti Lab**
+**[The Broad Institute, Sabeti Lab](https://www.sabetilab.org/)**
 
-**Areas & skills:** Biosecurity & pandemic preparedness
+<dl class="job-meta">
+<dt>Location</dt><dd>Boston metro area, USA</dd>
+<dt>Role type</dt><dd>Full-time</dd>
+<dt>Experience</dt><dd>Entry-level</dd>
+<dt>Degree</dt><dd>Doctoral degree</dd>
+<dt>Salary</dt><dd>$88,000 – $124,000</dd>
+</dl>
+
+**Areas & skills:** Biosecurity & pandemic preparedness, Research
 
 ## Summary
 - In this role, you'll develop and test PCR and CRISPR-based diagnostic assays for infectious disease detection and point-of-care deployment.
@@ -29,4 +34,4 @@ areas:
 <p class="apply-cta"><a href="https://broadinstitute.avature.net/en_US/careers/JobDetail/Research-Scientist-I-Sabeti-Lab-Diagnostics-Group/21959">Apply →</a></p>
 
 ---
-*Posted 2026-06-10 · Listing synced 2026-06-19 · 80k job ID `recuUvwR9BMXCj1RL`*
+*Posted 2026-06-10 · Listing synced 2026-06-27 · 80k job ID `recuUvwR9BMXCj1RL`*

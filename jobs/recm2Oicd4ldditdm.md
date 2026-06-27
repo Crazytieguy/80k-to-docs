@@ -2,12 +2,12 @@
 title: "Request for Proposal: Checks and Balances to Empower Citizens in an Automated Society"
 employer: "Effective Institutions Project"
 job_id: "recm2Oicd4ldditdm"
-last_updated: "2026-06-26T05:32:06.888525Z"
+last_updated: "2026-06-27T05:32:09.804006Z"
 posted_at: "2026-06-25T00:02:00Z"
 status: ready
 apply_url: "https://checks-and-balances.ai/"
 areas:
-  - "Career development: Policy & government"
+  - "Safeguarding liberal democracy"
 ---
 
 # Request for Proposal: Checks and Balances to Empower Citizens in an Automated Society
@@ -21,7 +21,7 @@ areas:
 <dt>Degree</dt><dd>Undergraduate degree or less</dd>
 </dl>
 
-**Areas & skills:** Career development: Policy & government, Strategy
+**Areas & skills:** Safeguarding liberal democracy, Strategy
 
 ## Summary
 - Provides funding for designing the institutional infrastructure of an AI-era democracy.
@@ -32,4 +32,4 @@ areas:
 <p class="apply-cta"><a href="https://checks-and-balances.ai/">Apply →</a></p>
 
 ---
-*Posted 2026-06-25 · Listing synced 2026-06-26 · 80k job ID `recm2Oicd4ldditdm`*
+*Posted 2026-06-25 · Listing synced 2026-06-27 · 80k job ID `recm2Oicd4ldditdm`*
