@@ -2,7 +2,7 @@
 title: "Research Assistant, Malaria Vaccine"
 employer: "Oxford University, Nuffield Department of Population Health"
 job_id: "recD6fCifR5eSbxt1"
-last_updated: "2026-06-27T05:32:15.098041Z"
+last_updated: "2026-06-28T05:32:12.930260Z"
 posted_at: "2026-06-22T00:00:00Z"
 status: ready
 apply_url: "https://my.corehr.com/pls/uoxrecruit/erq_jobspec_version_4.display_form?p_refresh_search=Y&p_recruitment_id=187002&p_form_profile_detail=&p_display_apply_ind=Y&p_process_type=&p_applicant_no=&p_company=10&p_internal_external=E&p_display_in_irish=N"
@@ -34,4 +34,4 @@ areas:
 <p class="apply-cta"><a href="https://my.corehr.com/pls/uoxrecruit/erq_jobspec_version_4.display_form?p_refresh_search=Y&amp;p_recruitment_id=187002&amp;p_form_profile_detail=&amp;p_display_apply_ind=Y&amp;p_process_type=&amp;p_applicant_no=&amp;p_company=10&amp;p_internal_external=E&amp;p_display_in_irish=N">Apply →</a></p>
 
 ---
-*Posted 2026-06-22 · Listing synced 2026-06-27 · 80k job ID `recD6fCifR5eSbxt1`*
+*Posted 2026-06-22 · Listing synced 2026-06-28 · 80k job ID `recD6fCifR5eSbxt1`*

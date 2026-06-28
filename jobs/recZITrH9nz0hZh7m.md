@@ -2,7 +2,7 @@
 title: "Singapore AI Safety Fellowship"
 employer: "Singapore AI Safety Hub"
 job_id: "recZITrH9nz0hZh7m"
-last_updated: "2026-06-27T05:32:08.314154Z"
+last_updated: "2026-06-28T05:32:05.903881Z"
 posted_at: "2026-06-26T00:03:00Z"
 status: ready
 apply_url: "https://www.aisafety.sg/programs/singapore-ai-safety-fellowship"
@@ -34,4 +34,4 @@ areas:
 <p class="apply-cta"><a href="https://www.aisafety.sg/programs/singapore-ai-safety-fellowship">Apply →</a></p>
 
 ---
-*Posted 2026-06-26 · Listing synced 2026-06-27 · 80k job ID `recZITrH9nz0hZh7m`*
+*Posted 2026-06-26 · Listing synced 2026-06-28 · 80k job ID `recZITrH9nz0hZh7m`*

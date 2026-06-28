@@ -2,7 +2,7 @@
 title: "Co-Director"
 employer: "Rethink Wellbeing"
 job_id: "reckEFWvTVEHrC8jk"
-last_updated: "2026-06-27T05:34:13.106593Z"
+last_updated: "2026-06-28T05:34:10.503357Z"
 posted_at: "2022-01-01T00:00:00Z"
 status: ready
 apply_url: "https://forms.gle/pVbR2oX6oQemkwvn6"
@@ -21,7 +21,7 @@ areas:
 <dt>Degree</dt><dd>Undergraduate degree or less</dd>
 </dl>
 
-**Areas & skills:** Global health & development, Operations, Management, Strategy
+**Areas & skills:** Global health & development, Strategy, Management, Operations
 
 ## Summary
 - In this role, you'll co-lead a global mental health nonprofit, shaping strategic direction during a pivotal growth phase.
@@ -33,4 +33,4 @@ areas:
 <p class="apply-cta"><a href="https://forms.gle/pVbR2oX6oQemkwvn6">Apply →</a></p>
 
 ---
-*Posted 2022-01-01 · Listing synced 2026-06-27 · 80k job ID `reckEFWvTVEHrC8jk`*
+*Posted 2022-01-01 · Listing synced 2026-06-28 · 80k job ID `reckEFWvTVEHrC8jk`*

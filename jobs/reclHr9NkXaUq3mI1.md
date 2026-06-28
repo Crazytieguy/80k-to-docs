@@ -2,7 +2,7 @@
 title: "Research Manager / Research Managers, AIxCyber"
 employer: "ERA"
 job_id: "reclHr9NkXaUq3mI1"
-last_updated: "2026-06-27T05:32:31.372931Z"
+last_updated: "2026-06-28T05:32:28.624757Z"
 posted_at: "2026-06-10T00:05:00Z"
 status: ready
 apply_url: "https://docs.google.com/document/d/146aHIPBkHSCQiIb4IYXHO9SrM4uPE5QTUcj58gMyTjY/edit?tab=t.0#heading=h.tpq2eg5mx4yb"
@@ -22,7 +22,7 @@ areas:
 <dt>Salary</dt><dd>$81,832 – $98,990</dd>
 </dl>
 
-**Areas & skills:** AI safety & policy, Information security, Management, Strategy
+**Areas & skills:** AI safety & policy, Management, Strategy, Information security
 
 ## Summary
 - In this role, you'll lead the execution of ERA's AIxCyber Research Fellowship, supporting research fellows in developing and delivering their projects.
@@ -34,4 +34,4 @@ areas:
 <p class="apply-cta"><a href="https://docs.google.com/document/d/146aHIPBkHSCQiIb4IYXHO9SrM4uPE5QTUcj58gMyTjY/edit?tab=t.0#heading=h.tpq2eg5mx4yb">Apply →</a></p>
 
 ---
-*Posted 2026-06-10 · Listing synced 2026-06-27 · 80k job ID `reclHr9NkXaUq3mI1`*
+*Posted 2026-06-10 · Listing synced 2026-06-28 · 80k job ID `reclHr9NkXaUq3mI1`*

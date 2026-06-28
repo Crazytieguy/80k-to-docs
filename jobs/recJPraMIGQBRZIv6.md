@@ -2,7 +2,7 @@
 title: "Head of Operations"
 employer: "Centre for British Progress"
 job_id: "recJPraMIGQBRZIv6"
-last_updated: "2026-06-27T05:32:50.318361Z"
+last_updated: "2026-06-28T05:32:48.233505Z"
 posted_at: "2026-05-25T00:00:00Z"
 status: ready
 apply_url: "https://britishprogress.org/opportunities/head-of-operations"
@@ -22,7 +22,7 @@ areas:
 <dt>Salary</dt><dd>$92,391 – $118,788</dd>
 </dl>
 
-**Areas & skills:** Science policy and infrastructure, Operations, Management, Finance
+**Areas & skills:** Science policy and infrastructure, Operations, Finance, Management
 
 ## Summary
 - In this role, you'll set and execute operations, finance and HR strategy for a growing think tank, working alongside the Co-chief Executives.
@@ -34,4 +34,4 @@ areas:
 <p class="apply-cta"><a href="https://britishprogress.org/opportunities/head-of-operations">Apply →</a></p>
 
 ---
-*Posted 2026-05-25 · Listing synced 2026-06-27 · 80k job ID `recJPraMIGQBRZIv6`*
+*Posted 2026-05-25 · Listing synced 2026-06-28 · 80k job ID `recJPraMIGQBRZIv6`*

@@ -2,7 +2,7 @@
 title: "Head of People"
 employer: "Lead Exposure Elimination Project"
 job_id: "recJ1GkMrAcvk9N4X"
-last_updated: "2026-06-27T05:33:04.428320Z"
+last_updated: "2026-06-28T05:33:01.309915Z"
 posted_at: "2026-05-01T00:00:00Z"
 status: ready
 apply_url: "https://docs.google.com/document/d/1-qJsinftqqj2iQplCANNRc8SVVdgMQsANt7yIcfX0LI/preview?tab=t.0#heading=h.jt6jmxp623yt"
@@ -22,7 +22,7 @@ areas:
 <dt>Salary</dt><dd>$97,829 – $107,914</dd>
 </dl>
 
-**Areas & skills:** Global health & development, Operations, Management, Strategy
+**Areas & skills:** Global health & development, Operations, Strategy, Management
 
 ## Summary
 - In this role, you'll design LEEP's people strategy and organisational development to support rapid global scaling.
@@ -34,4 +34,4 @@ areas:
 <p class="apply-cta"><a href="https://docs.google.com/document/d/1-qJsinftqqj2iQplCANNRc8SVVdgMQsANt7yIcfX0LI/preview?tab=t.0#heading=h.jt6jmxp623yt">Apply →</a></p>
 
 ---
-*Posted 2026-05-01 · Listing synced 2026-06-27 · 80k job ID `recJ1GkMrAcvk9N4X`*
+*Posted 2026-05-01 · Listing synced 2026-06-28 · 80k job ID `recJ1GkMrAcvk9N4X`*

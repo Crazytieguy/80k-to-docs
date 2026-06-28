@@ -2,7 +2,7 @@
 title: "Research Engineer / Scientist, Frontier Red Team, Cyber"
 employer: "Anthropic"
 job_id: "rechYBXXtGJliHt7D"
-last_updated: "2026-06-27T05:33:17.399968Z"
+last_updated: "2026-06-28T05:33:13.914312Z"
 posted_at: "2022-01-11T00:00:00Z"
 status: ready
 apply_url: "https://job-boards.greenhouse.io/anthropic/jobs/5076477008"
@@ -22,7 +22,7 @@ areas:
 <dt>Salary</dt><dd>$350,000 – $850,000</dd>
 </dl>
 
-**Areas & skills:** AI safety & policy, Research, Software engineering, Information security
+**Areas & skills:** AI safety & policy, Research, Information security, Software engineering
 
 ## Summary
 - In this role, you'll build tools and frameworks to defend against advanced AI-enabled cyber threats.
@@ -34,4 +34,4 @@ areas:
 <p class="apply-cta"><a href="https://job-boards.greenhouse.io/anthropic/jobs/5076477008">Apply →</a></p>
 
 ---
-*Posted 2022-01-11 · Listing synced 2026-06-27 · 80k job ID `rechYBXXtGJliHt7D`*
+*Posted 2022-01-11 · Listing synced 2026-06-28 · 80k job ID `rechYBXXtGJliHt7D`*

@@ -2,7 +2,7 @@
 title: "Head of Community Engagement, London"
 employer: "Giving What We Can"
 job_id: "recgCQAzMeHoj9coS"
-last_updated: "2026-06-27T05:32:56.472644Z"
+last_updated: "2026-06-28T05:32:53.405018Z"
 posted_at: "2026-05-19T00:01:00Z"
 status: ready
 apply_url: "https://www.givingwhatwecan.org/head-of-community-uk"
@@ -34,4 +34,4 @@ areas:
 <p class="apply-cta"><a href="https://www.givingwhatwecan.org/head-of-community-uk">Apply →</a></p>
 
 ---
-*Posted 2026-05-19 · Listing synced 2026-06-27 · 80k job ID `recgCQAzMeHoj9coS`*
+*Posted 2026-05-19 · Listing synced 2026-06-28 · 80k job ID `recgCQAzMeHoj9coS`*

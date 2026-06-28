@@ -2,7 +2,7 @@
 title: "Grant Recipient, Effective Altruism Infrastructure"
 employer: "EA Funds"
 job_id: "rec0TUYgu2TRScEme"
-last_updated: "2026-06-27T05:34:09.786928Z"
+last_updated: "2026-06-28T05:34:06.959549Z"
 posted_at: "2022-01-01T00:00:00Z"
 status: ready
 apply_url: "https://funds.effectivealtruism.org/funds/ea-community"
@@ -21,7 +21,7 @@ areas:
 <dt>Degree</dt><dd>Undergraduate degree or less</dd>
 </dl>
 
-**Areas & skills:** Building effective altruism, Research, Policy, Other
+**Areas & skills:** Building effective altruism, Other, Policy, Research
 
 ## Summary
 - Grants that aim to improve the work of projects that use the principles of effective altruism, by increasing their access to talent, capital, and knowledge.
@@ -32,4 +32,4 @@ areas:
 <p class="apply-cta"><a href="https://funds.effectivealtruism.org/funds/ea-community">Apply →</a></p>
 
 ---
-*Posted 2022-01-01 · Listing synced 2026-06-27 · 80k job ID `rec0TUYgu2TRScEme`*
+*Posted 2022-01-01 · Listing synced 2026-06-28 · 80k job ID `rec0TUYgu2TRScEme`*

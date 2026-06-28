@@ -2,7 +2,7 @@
 title: "Research Lead"
 employer: "FAR AI"
 job_id: "recBEUCtiQt9mzEzY"
-last_updated: "2026-06-27T05:33:05.973806Z"
+last_updated: "2026-06-28T05:33:02.973647Z"
 posted_at: "2026-04-28T00:05:00Z"
 status: ready
 apply_url: "https://jobs.ashbyhq.com/far.ai/a7b0dbea-e1ac-45c3-9e74-e400f65913c6?embed=js"
@@ -22,7 +22,7 @@ areas:
 <dt>Salary</dt><dd>$170,000 – $250,000</dd>
 </dl>
 
-**Areas & skills:** AI safety & policy, Research, Management, Strategy
+**Areas & skills:** AI safety & policy, Research, Strategy, Management
 
 ## Summary
 - In this role, you'll develop and lead a research agenda to reduce catastrophic risks from advanced AI.
@@ -34,4 +34,4 @@ areas:
 <p class="apply-cta"><a href="https://jobs.ashbyhq.com/far.ai/a7b0dbea-e1ac-45c3-9e74-e400f65913c6?embed=js">Apply →</a></p>
 
 ---
-*Posted 2026-04-28 · Listing synced 2026-06-27 · 80k job ID `recBEUCtiQt9mzEzY`*
+*Posted 2026-04-28 · Listing synced 2026-06-28 · 80k job ID `recBEUCtiQt9mzEzY`*

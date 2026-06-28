@@ -2,7 +2,7 @@
 title: "Application Scorer"
 employer: "Successif"
 job_id: "reckqMjiaRldWjm2I"
-last_updated: "2026-06-27T05:33:10.146805Z"
+last_updated: "2026-06-28T05:33:07.060958Z"
 posted_at: "2026-04-13T00:01:00Z"
 status: ready
 apply_url: "https://www.successif.org/application-scorer"
@@ -34,4 +34,4 @@ areas:
 <p class="apply-cta"><a href="https://www.successif.org/application-scorer">Apply →</a></p>
 
 ---
-*Posted 2026-04-13 · Listing synced 2026-06-27 · 80k job ID `reckqMjiaRldWjm2I`*
+*Posted 2026-04-13 · Listing synced 2026-06-28 · 80k job ID `reckqMjiaRldWjm2I`*

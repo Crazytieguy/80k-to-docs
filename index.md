@@ -2,13 +2,13 @@
 
 Daily-refreshed mirror of every job posting on the [80,000 Hours job board](https://jobs.80000hours.org/). One markdown file per job under `jobs/`. Closed jobs move to `jobs/closed/`.
 
-**845** active · **306** closed · last synced 2026-06-27 07:25 UTC
+**844** active · **307** closed · last synced 2026-06-28 07:39 UTC
 
 _See [README](./README.md) for how this is built. Source: [GitHub repo](https://github.com/Crazytieguy/80k-to-docs)._
 
 <div class="areas-filter" aria-label="Filter by area">
-<button type="button" class="chip is-active" data-area="all" aria-pressed="true">All (845)</button>
-<button type="button" class="chip" data-area="AI safety &amp; policy" aria-pressed="false">AI safety &amp; policy (457)</button>
+<button type="button" class="chip is-active" data-area="all" aria-pressed="true">All (844)</button>
+<button type="button" class="chip" data-area="AI safety &amp; policy" aria-pressed="false">AI safety &amp; policy (456)</button>
 <button type="button" class="chip" data-area="Global health &amp; development" aria-pressed="false">Global health &amp; development (77)</button>
 <button type="button" class="chip" data-area="Career development: Policy &amp; government" aria-pressed="false">Career development: Policy &amp; government (68)</button>
 <button type="button" class="chip" data-area="Career development: Technical" aria-pressed="false">Career development: Technical (64)</button>
@@ -134,7 +134,6 @@ _See [README](./README.md) for how this is built. Source: [GitHub repo](https://
 - `2026-06-09` · [Research Analyst](./jobs/recisuS8ItWNG80kZ.md) — Georgetown University, Center for Security and Emerging Technology
 - `2026-06-09` · [Social and Community Manager](./jobs/recVDRSYDe9HkR2yu.md) — Center for AI Safety
 - `2026-06-09` · [Associate Machine Learning Engineer, Secure AI Lab](./jobs/recelLOOiYo9ldL0I.md) — Carnegie Mellon University, Software Engineering Institute
-- `2026-06-09` · [Senior Recruitment Specialist, AI Safety](./jobs/rec8yeb3Xi2PZ1viO.md) — Impact Ops
 - `2026-06-09` · [Product Policy Manager, Biosecurity](./jobs/recG60IscfVSHZIln.md) — OpenAI
 - `2026-06-09` · [Security Controls Assurance Lead](./jobs/recJceMJJ97j5cD1f.md) — Anthropic
 - `2026-06-09` · [Regional Research Economist, Economic Research, Singapore](./jobs/recibJcttahQSFMmD.md) — Anthropic
@@ -271,9 +270,6 @@ _See [README](./README.md) for how this is built. Source: [GitHub repo](https://
 - `2026-04-10` · [Fellows Program, AI Safety](./jobs/rechF5YCsmNiyNj8A.md) — Anthropic
 - `2026-04-10` · [Project Manager, AI Governance Training](./jobs/rechI65EPot3fXFRJ.md) — AI Safety Asia
 - `2026-04-09` · [Director, Research Strategy](./jobs/recNsAjl8jEQvD3za.md) — Atlas Computing
-- `2026-04-09` · [Exceptional Talent](./jobs/recIFEPfH0Vfg376T.md) — BlueDot Impact
-- `2026-04-08` · [Senior Engineering Lead, Chemical and Biological](./jobs/recHoPgVWmHJwzB8Q.md) — UK Government, AI Security Institute
-- `2026-04-08` · [Frontier AI Research Lead](./jobs/rec9i3feQTcjF2lA1.md) — Georgetown University, Center for Security and Emerging Technology
 - `2022-01-13` · [Expression of Interest, Pannu Lab](./jobs/rec4yFSYJwM7mFO2P.md) — Johns Hopkins University, Center for Health Security
 - `2022-01-13` · [General Application](./jobs/recgK4Kc5ag6YQN4f.md) — Coefficient Giving
 - `2022-01-13` · [Research Scientist, Biological Safety](./jobs/recmS88tRE8gce5eD.md) — Anthropic
@@ -301,6 +297,7 @@ _See [README](./README.md) for how this is built. Source: [GitHub repo](https://
 - `2022-01-11` · [Application Security Engineer](./jobs/rec6yXtxKxc4NukKl.md) — Anthropic
 - `2022-01-11` · [General Expression of Interest](./jobs/rec75An15dkea2hUe.md) — Model Evaluation and Threat Research
 - `2022-01-11` · [Expression of Interest](./jobs/rec8EgM6xCuobgH3G.md) — Concordia AI
+- `2022-01-11` · [Frontier AI Research Lead](./jobs/rec9i3feQTcjF2lA1.md) — Georgetown University, Center for Security and Emerging Technology
 - `2022-01-11` · [Security Engineer, Application Security, Seattle](./jobs/recA1g3MVlRWnIMO2.md) — OpenAI
 - `2022-01-11` · [Researcher, Safety Oversight](./jobs/recAurL0kSCGOSRJe.md) — OpenAI
 - `2022-01-11` · [Technical Lead, Safety Research](./jobs/recBCfddcjQlQv5eb.md) — OpenAI
@@ -342,6 +339,7 @@ _See [README](./README.md) for how this is built. Source: [GitHub repo](https://
 - `2022-01-08` · [Applied AI Engineer](./jobs/reczNaYeGg4R25Pz2.md) — Valthos
 - `2022-01-07` · [Software Engineer](./jobs/rec3VSqou2ls9J7vC.md) — Valthos
 - `2022-01-07` · [Students / Research Interns / Post-Docs](./jobs/recGyBOxtId4X4dw3.md) — European Laboratory for Learning and Intelligent Systems
+- `2022-01-07` · [Senior Engineering Lead, Chemical and Biological](./jobs/recHoPgVWmHJwzB8Q.md) — UK Government, AI Security Institute
 - `2022-01-07` · [Postdoc, Mechanism Design for Robust AI Alignment](./jobs/recS92DBrfjMFq2JW.md) — King's College London, Department of Informatics
 - `2022-01-07` · [Young Scientist / Young Researcher, Large-Scale Model Attack and Defense](./jobs/recXhmurwBWkp952v.md) — Shanghai Artificial Intelligence Laboratory
 - `2022-01-07` · [Postdocs / Research Staff / Staff Programmers / Interns](./jobs/recYiue80Uu8BDDk1.md) — University of California, Berkeley, Department of Electrical Engineering and Computer Sciences
@@ -453,6 +451,7 @@ _See [README](./README.md) for how this is built. Source: [GitHub repo](https://
 - `2022-01-05` · [Head of Movement Building](./jobs/recE9s25fuO3DOvB6.md) — Evitable
 - `2022-01-05` · [Technical Product Marketing Manager](./jobs/recHmnTC6c5Z0VXEB.md) — Goodfire
 - `2022-01-05` · [Software Engineer, Full-Stack](./jobs/recI9yqfBL6zXCD5S.md) — Apollo Research
+- `2022-01-05` · [Exceptional Talent](./jobs/recIFEPfH0Vfg376T.md) — BlueDot Impact
 - `2022-01-05` · [Applied Scientist, AI Risk](./jobs/recIm8YhoGgKcMFeu.md) — Armilla
 - `2022-01-05` · [Senior Actuarial Data Scientist, AI Risk](./jobs/recKobuPy57I5pGYJ.md) — Armilla
 - `2022-01-05` · [Senior Founding Recruiter](./jobs/recLZi3RjNie4NNX8.md) — Goodfire
@@ -533,7 +532,6 @@ _See [README](./README.md) for how this is built. Source: [GitHub repo](https://
 - `2026-04-30` · [Junior Software Engineer](./jobs/recOwcOJtpHTki6VH.md) — Against Malaria Foundation
 - `2026-04-17` · [Recruiter, Hiring and Talent Operations](./jobs/recBAqm0HRWgVN1v9.md) — Outcapped
 - `2026-04-14` · [Head of Technology](./jobs/reczuEMUYeISUALhA.md) — Suvita
-- `2026-04-09` · [Researcher, Integrated Analytics](./jobs/reckmNnjbHKMQ76mV.md) — University of Washington, Institute for Health Metrics and Evaluation
 - `2022-01-13` · [General Application](./jobs/recgK4Kc5ag6YQN4f.md) — Coefficient Giving
 - `2022-01-08` · [Research Analyst, Commons](./jobs/rec1ljJ8MMmHRGDQ2.md) — GiveWell
 - `2022-01-08` · [Researcher](./jobs/rec20V41ROkCQgjd3.md) — GiveWell
@@ -557,6 +555,7 @@ _See [README](./README.md) for how this is built. Source: [GitHub repo](https://
 - `2022-01-02` · [Executive and Operations Assistant, CEO Office](./jobs/recRwvZ9FQbFOKV0H.md) — Rethink Wellbeing
 - `2022-01-02` · [Volunteer](./jobs/recUFmU8ntUDjNVRC.md) — Taimaka
 - `2022-01-02` · [Research Associate / Research Fellow](./jobs/recfj6614Md9idlgg.md) — National University of Singapore, Saw Swee Hock School of Public Health
+- `2022-01-02` · [Researcher, Integrated Analytics](./jobs/reckmNnjbHKMQ76mV.md) — University of Washington, Institute for Health Metrics and Evaluation
 - `2022-01-02` · [Monitoring and Evaluation Coordinator](./jobs/rectH6Pw1mslmqP01.md) — Ansh
 - `2022-01-01` · [Global Rice Leadership Awards](./jobs/rec1SIHGsRPYoWpMX.md) — Global Rice Research Foundation
 - `2022-01-01` · [Manager, Maximum Impact Incubator](./jobs/recDDPVT4IlqpSutE.md) — Clinton Health Access Initiative
@@ -749,7 +748,6 @@ _See [README](./README.md) for how this is built. Source: [GitHub repo](https://
 - `2026-04-23` · [Member of Technical Staff, Product Engineer](./jobs/reci4I8ozApB384cP.md) — Valthos
 - `2026-04-16` · [Senior Research Fellow, Infectious Disease Modelling and AI for Public Health](./jobs/recr5aYJjFGUjZh7x.md) — National University of Singapore, Saw Swee Hock School of Public Health
 - `2026-04-15` · [Senior Software Engineer, Full Stack](./jobs/recLA91Rik5NfiNms.md) — Perimeter
-- `2026-04-08` · [Senior Engineering Lead, Chemical and Biological](./jobs/recHoPgVWmHJwzB8Q.md) — UK Government, AI Security Institute
 - `2022-01-13` · [Expression of Interest, Pannu Lab](./jobs/rec4yFSYJwM7mFO2P.md) — Johns Hopkins University, Center for Health Security
 - `2022-01-13` · [General Application](./jobs/recgK4Kc5ag6YQN4f.md) — Coefficient Giving
 - `2022-01-13` · [Research Scientist, Biological Safety](./jobs/recmS88tRE8gce5eD.md) — Anthropic
@@ -760,6 +758,7 @@ _See [README](./README.md) for how this is built. Source: [GitHub repo](https://
 - `2022-01-08` · [Member of Technical Staff, Forward Deployed Engineer](./jobs/recfaLhTj4SBMVQ0w.md) — Valthos
 - `2022-01-08` · [Applied AI Engineer](./jobs/reczNaYeGg4R25Pz2.md) — Valthos
 - `2022-01-07` · [Software Engineer](./jobs/rec3VSqou2ls9J7vC.md) — Valthos
+- `2022-01-07` · [Senior Engineering Lead, Chemical and Biological](./jobs/recHoPgVWmHJwzB8Q.md) — UK Government, AI Security Institute
 - `2022-01-07` · [General Applications](./jobs/recucu4E9plS7Ealy.md) — Future of Life Institute
 - `2022-01-04` · [Research Associate](./jobs/rec6aPMta7sM89Os6.md) — Claryx
 - `2022-01-04` · [Computational Biologist](./jobs/recBWyWnOMsUjDG5R.md) — Massachusetts Institute of Technology, Lincoln Laboratory
@@ -995,6 +994,7 @@ _See [README](./README.md) for how this is built. Source: [GitHub repo](https://
 
 ## Recently closed
 
+- `2026-06-28` · [Senior Recruitment Specialist, AI Safety](./jobs/closed/rec8yeb3Xi2PZ1viO.md) — Impact Ops
 - `2026-06-27` · [Intern, Monitoring, Evaluation and Learning](./jobs/closed/recBsBsUThlTiWPaJ.md) — Living Goods
 - `2026-06-27` · [Abuse Investigator, AI Self-Improvement Risk](./jobs/closed/recFuXp1azdOvbwK5.md) — OpenAI
 - `2026-06-27` · [Lean Proof Contractor](./jobs/closed/recTaKimv4XNMiqLl.md) — Dovetail
@@ -1044,6 +1044,5 @@ _See [README](./README.md) for how this is built. Source: [GitHub repo](https://
 - `2026-06-23` · [People Operations Associate](./jobs/closed/recAB7JtK7uMSkgYd.md) — GovAI
 - `2026-06-23` · [Movement Grants Manager](./jobs/closed/recBgf06rCxcM9L0Z.md) — Animal Charity Evaluators
 - `2026-06-23` · [TB Shield Lead, Sindh](./jobs/closed/recD4s1x1lG5WVchb.md) — Spiro
-- `2026-06-23` · [Intern, Human Resources](./jobs/closed/recFToZ5bMSv0IJmM.md) — Centre for European Policy Studies
 
 _Browse the rest in [`jobs/closed/`](./jobs/closed/)._

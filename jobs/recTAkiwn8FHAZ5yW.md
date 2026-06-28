@@ -2,7 +2,7 @@
 title: "Participant, Arena 9.0"
 employer: "ARENA"
 job_id: "recTAkiwn8FHAZ5yW"
-last_updated: "2026-06-27T05:32:08.168015Z"
+last_updated: "2026-06-28T05:32:05.743926Z"
 posted_at: "2026-06-26T00:04:29Z"
 status: ready
 apply_url: "https://airtable.com/appZIMMH3ywSxS0A9/pagnvd5oNoOjApQQN/form"
@@ -32,4 +32,4 @@ areas:
 <p class="apply-cta"><a href="https://airtable.com/appZIMMH3ywSxS0A9/pagnvd5oNoOjApQQN/form">Apply →</a></p>
 
 ---
-*Posted 2026-06-26 · Listing synced 2026-06-27 · 80k job ID `recTAkiwn8FHAZ5yW`*
+*Posted 2026-06-26 · Listing synced 2026-06-28 · 80k job ID `recTAkiwn8FHAZ5yW`*

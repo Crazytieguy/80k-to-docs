@@ -2,7 +2,7 @@
 title: "AI Innovation and Security Policy Workshop"
 employer: "Horizon Institute for Public Service"
 job_id: "recCWrNc77CcuzXxx"
-last_updated: "2026-06-27T05:32:45.919615Z"
+last_updated: "2026-06-28T05:32:44.139105Z"
 posted_at: "2026-05-29T00:03:00Z"
 status: ready
 apply_url: "https://horizonpublicservice.org/apply-for-the-ai-innovation-security-policy-workshop/"
@@ -32,4 +32,4 @@ areas:
 <p class="apply-cta"><a href="https://horizonpublicservice.org/apply-for-the-ai-innovation-security-policy-workshop/">Apply →</a></p>
 
 ---
-*Posted 2026-05-29 · Listing synced 2026-06-27 · 80k job ID `recCWrNc77CcuzXxx`*
+*Posted 2026-05-29 · Listing synced 2026-06-28 · 80k job ID `recCWrNc77CcuzXxx`*

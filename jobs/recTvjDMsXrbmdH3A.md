@@ -2,7 +2,7 @@
 title: "Teacher, Law Programme"
 employer: "ML4Good"
 job_id: "recTvjDMsXrbmdH3A"
-last_updated: "2026-06-27T05:33:00.905913Z"
+last_updated: "2026-06-28T05:32:57.798911Z"
 posted_at: "2026-05-12T00:03:00Z"
 status: ready
 apply_url: "https://ml4good.org/jobs/law-programme-teacher/"
@@ -34,4 +34,4 @@ areas:
 <p class="apply-cta"><a href="https://ml4good.org/jobs/law-programme-teacher/">Apply →</a></p>
 
 ---
-*Posted 2026-05-12 · Listing synced 2026-06-27 · 80k job ID `recTvjDMsXrbmdH3A`*
+*Posted 2026-05-12 · Listing synced 2026-06-28 · 80k job ID `recTvjDMsXrbmdH3A`*

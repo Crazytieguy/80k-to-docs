@@ -2,7 +2,7 @@
 title: "Finance Associate, UK and US"
 employer: "Impact Ops"
 job_id: "rech4XQL1frb2Idve"
-last_updated: "2026-06-27T05:32:35.467232Z"
+last_updated: "2026-06-28T05:32:32.738630Z"
 posted_at: "2026-06-09T00:00:00Z"
 status: ready
 apply_url: "https://impact-ops.org/jobs/finance-associate-2/"
@@ -34,4 +34,4 @@ areas:
 <p class="apply-cta"><a href="https://impact-ops.org/jobs/finance-associate-2/">Apply →</a></p>
 
 ---
-*Posted 2026-06-09 · Listing synced 2026-06-27 · 80k job ID `rech4XQL1frb2Idve`*
+*Posted 2026-06-09 · Listing synced 2026-06-28 · 80k job ID `rech4XQL1frb2Idve`*

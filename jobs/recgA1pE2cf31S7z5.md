@@ -2,7 +2,7 @@
 title: "Founder in Residence, Priming Plant Resilience for Climate Risks"
 employer: "Deep Science Ventures"
 job_id: "recgA1pE2cf31S7z5"
-last_updated: "2026-06-27T05:34:09.357259Z"
+last_updated: "2026-06-28T05:34:06.486552Z"
 posted_at: "2022-01-01T00:00:00Z"
 status: ready
 apply_url: "https://apply.workable.com/deep-science-ventures/j/E4DDEF7F2F"
@@ -33,4 +33,4 @@ areas:
 <p class="apply-cta"><a href="https://apply.workable.com/deep-science-ventures/j/E4DDEF7F2F">Apply →</a></p>
 
 ---
-*Posted 2022-01-01 · Listing synced 2026-06-27 · 80k job ID `recgA1pE2cf31S7z5`*
+*Posted 2022-01-01 · Listing synced 2026-06-28 · 80k job ID `recgA1pE2cf31S7z5`*

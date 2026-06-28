@@ -4,25 +4,20 @@ employer: "Impact Ops"
 job_id: "rec8yeb3Xi2PZ1viO"
 last_updated: "2026-06-27T05:32:35.330315Z"
 posted_at: "2026-06-09T00:00:00Z"
-status: ready
+status: closed
+closed_at: "2026-06-28"
 apply_url: "https://impact-ops.org/jobs/senior-recruitment-specialist-ai-safety-focus/"
 areas:
   - "AI safety & policy"
 ---
 
+> ⚠️ **CLOSED on 2026-06-28** — this job is no longer listed on the 80,000 Hours board. Archived snapshot below.
+
 # Senior Recruitment Specialist, AI Safety
 
-**[Impact Ops](https://impact-ops.org/)**
+**Impact Ops**
 
-<dl class="job-meta">
-<dt>Location</dt><dd>Remote, Global</dd>
-<dt>Role type</dt><dd>Full-time</dd>
-<dt>Experience</dt><dd>Mid (5-9 years experience)</dd>
-<dt>Degree</dt><dd>Undergraduate degree or less</dd>
-<dt>Salary</dt><dd>$72,593 – $98,990</dd>
-</dl>
-
-**Areas & skills:** AI safety & policy, Operations
+**Areas & skills:** AI safety & policy
 
 ## Summary
 - In this role, you'll manage recruitment operations for AI safety organizations, sourcing talent across research labs, governance bodies, and nonprofits.

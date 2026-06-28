@@ -2,7 +2,7 @@
 title: "Software Engineer, Core Technology"
 employer: "UK Government, AI Security Institute"
 job_id: "recSIkKQjRLCdd9Bm"
-last_updated: "2026-06-27T05:32:24.366138Z"
+last_updated: "2026-06-28T05:32:21.791205Z"
 posted_at: "2026-06-15T00:05:00Z"
 status: ready
 apply_url: "https://job-boards.eu.greenhouse.io/aisi/jobs/4386112101"
@@ -34,4 +34,4 @@ areas:
 <p class="apply-cta"><a href="https://job-boards.eu.greenhouse.io/aisi/jobs/4386112101">Apply →</a></p>
 
 ---
-*Posted 2026-06-15 · Listing synced 2026-06-27 · 80k job ID `recSIkKQjRLCdd9Bm`*
+*Posted 2026-06-15 · Listing synced 2026-06-28 · 80k job ID `recSIkKQjRLCdd9Bm`*

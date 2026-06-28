@@ -2,7 +2,7 @@
 title: "Extension Program Manager"
 employer: "MATS Research"
 job_id: "recHMa1TWYpePz6Ai"
-last_updated: "2026-06-27T05:32:43.561484Z"
+last_updated: "2026-06-28T05:32:41.452524Z"
 posted_at: "2026-06-01T00:05:00Z"
 status: ready
 apply_url: "https://www.matsprogram.org/careers/ext-prog-manager-london"
@@ -34,4 +34,4 @@ areas:
 <p class="apply-cta"><a href="https://www.matsprogram.org/careers/ext-prog-manager-london">Apply →</a></p>
 
 ---
-*Posted 2026-06-01 · Listing synced 2026-06-27 · 80k job ID `recHMa1TWYpePz6Ai`*
+*Posted 2026-06-01 · Listing synced 2026-06-28 · 80k job ID `recHMa1TWYpePz6Ai`*

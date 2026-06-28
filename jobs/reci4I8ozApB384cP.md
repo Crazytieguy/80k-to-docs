@@ -2,13 +2,13 @@
 title: "Member of Technical Staff, Product Engineer"
 employer: "Valthos"
 job_id: "reci4I8ozApB384cP"
-last_updated: "2026-06-27T05:33:07.183278Z"
+last_updated: "2026-06-28T05:33:04.139794Z"
 posted_at: "2026-04-23T00:02:00Z"
 status: ready
 apply_url: "https://jobs.ashbyhq.com/valthos/704787e6-2b49-4282-8648-faaf106e7d78"
 areas:
-  - "AI safety & policy"
   - "Biosecurity & pandemic preparedness"
+  - "AI safety & policy"
 ---
 
 # Member of Technical Staff, Product Engineer
@@ -22,7 +22,7 @@ areas:
 <dt>Degree</dt><dd>Undergraduate degree or less</dd>
 </dl>
 
-**Areas & skills:** AI safety & policy, Biosecurity & pandemic preparedness, Software engineering, Strategy
+**Areas & skills:** Biosecurity & pandemic preparedness, AI safety & policy, Software engineering, Strategy
 
 ## Summary
 - In this role, you'll design and develop the user-facing layer of a biodefense operating system, creating intuitive interfaces that surface anomalies and insights from biological data.
@@ -33,4 +33,4 @@ areas:
 <p class="apply-cta"><a href="https://jobs.ashbyhq.com/valthos/704787e6-2b49-4282-8648-faaf106e7d78">Apply →</a></p>
 
 ---
-*Posted 2026-04-23 · Listing synced 2026-06-27 · 80k job ID `reci4I8ozApB384cP`*
+*Posted 2026-04-23 · Listing synced 2026-06-28 · 80k job ID `reci4I8ozApB384cP`*

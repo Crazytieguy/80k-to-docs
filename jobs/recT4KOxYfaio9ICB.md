@@ -2,7 +2,7 @@
 title: "Opportunities, Latin America"
 employer: "Innovations for Poverty Action"
 job_id: "recT4KOxYfaio9ICB"
-last_updated: "2026-06-27T05:34:12.145793Z"
+last_updated: "2026-06-28T05:34:09.482009Z"
 posted_at: "2022-01-01T00:00:00Z"
 status: ready
 apply_url: "https://poverty-action.org/current-opportunities#:~:text=Latin%20America,-and%20North%20America"
@@ -21,7 +21,7 @@ areas:
 <dt>Degree</dt><dd>Undergraduate degree or less</dd>
 </dl>
 
-**Areas & skills:** Global health & development, Research, Policy, Operations
+**Areas & skills:** Global health & development, Policy, Operations, Research
 
 ## Summary
 - IPA is hiring for additional roles in Latin America.
@@ -30,4 +30,4 @@ areas:
 <p class="apply-cta"><a href="https://poverty-action.org/current-opportunities#:~:text=Latin%20America,-and%20North%20America">Apply →</a></p>
 
 ---
-*Posted 2022-01-01 · Listing synced 2026-06-27 · 80k job ID `recT4KOxYfaio9ICB`*
+*Posted 2022-01-01 · Listing synced 2026-06-28 · 80k job ID `recT4KOxYfaio9ICB`*

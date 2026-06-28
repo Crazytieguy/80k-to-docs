@@ -2,7 +2,7 @@
 title: "Field Lead, Biosecurity"
 employer: "Amodo Design"
 job_id: "recvyKkRgSrRVab42"
-last_updated: "2026-06-27T05:33:53.581269Z"
+last_updated: "2026-06-28T05:33:50.528949Z"
 posted_at: "2022-01-03T00:00:00Z"
 status: ready
 apply_url: "https://amododesign.com/career/biosec-lead/"
@@ -34,4 +34,4 @@ areas:
 <p class="apply-cta"><a href="https://amododesign.com/career/biosec-lead/">Apply →</a></p>
 
 ---
-*Posted 2022-01-03 · Listing synced 2026-06-27 · 80k job ID `recvyKkRgSrRVab42`*
+*Posted 2022-01-03 · Listing synced 2026-06-28 · 80k job ID `recvyKkRgSrRVab42`*

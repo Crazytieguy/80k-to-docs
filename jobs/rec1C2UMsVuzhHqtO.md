@@ -2,7 +2,7 @@
 title: "Communications Intern / Community Intern"
 employer: "The School for Moral Ambition"
 job_id: "rec1C2UMsVuzhHqtO"
-last_updated: "2026-06-27T05:32:09.408355Z"
+last_updated: "2026-06-28T05:32:07.118853Z"
 posted_at: "2026-06-26T00:00:00Z"
 status: ready
 apply_url: "https://www.moralambition.org/jobs/communications-intern-community-intern"
@@ -34,4 +34,4 @@ areas:
 <p class="apply-cta"><a href="https://www.moralambition.org/jobs/communications-intern-community-intern">Apply →</a></p>
 
 ---
-*Posted 2026-06-26 · Listing synced 2026-06-27 · 80k job ID `rec1C2UMsVuzhHqtO`*
+*Posted 2026-06-26 · Listing synced 2026-06-28 · 80k job ID `rec1C2UMsVuzhHqtO`*

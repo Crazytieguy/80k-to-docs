@@ -2,7 +2,7 @@
 title: "Chief Investment Officer"
 employer: "Malengo"
 job_id: "reccJqdaoUlrkIjnZ"
-last_updated: "2026-06-27T05:34:12.487064Z"
+last_updated: "2026-06-28T05:34:09.882537Z"
 posted_at: "2022-01-01T00:00:00Z"
 status: ready
 apply_url: "https://malengo.org/chief-investment-officer/"
@@ -21,7 +21,7 @@ areas:
 <dt>Degree</dt><dd>Undergraduate degree or less</dd>
 </dl>
 
-**Areas & skills:** Global health & development, Management, Finance, Strategy
+**Areas & skills:** Global health & development, Strategy, Finance, Management
 
 ## Summary
 - In this role, you'll lead Malengo's investment strategy and financial performance, overseeing fund structuring and investor engagement.
@@ -32,4 +32,4 @@ areas:
 <p class="apply-cta"><a href="https://malengo.org/chief-investment-officer/">Apply →</a></p>
 
 ---
-*Posted 2022-01-01 · Listing synced 2026-06-27 · 80k job ID `reccJqdaoUlrkIjnZ`*
+*Posted 2022-01-01 · Listing synced 2026-06-28 · 80k job ID `reccJqdaoUlrkIjnZ`*

@@ -2,7 +2,7 @@
 title: "AI Security Researcher"
 employer: "Carnegie Mellon University, Software Engineering Institute"
 job_id: "recizwZRH3qtQGJEt"
-last_updated: "2026-06-27T05:33:31.771058Z"
+last_updated: "2026-06-28T05:33:28.651703Z"
 posted_at: "2022-01-06T00:00:00Z"
 status: ready
 apply_url: "https://cmu.wd5.myworkdayjobs.com/en-US/SEI/job/Pittsburgh-PA/AI-Security-Researcher_2024057-1"
@@ -21,7 +21,7 @@ areas:
 <dt>Degree</dt><dd>Undergraduate degree or less</dd>
 </dl>
 
-**Areas & skills:** AI safety & policy, Research, Software engineering, Information security
+**Areas & skills:** AI safety & policy, Research, Information security, Software engineering
 
 ## Summary
 - In this role, you'll advance the state of the art in AI security by researching vulnerabilities and defenses for AI systems.
@@ -33,4 +33,4 @@ areas:
 <p class="apply-cta"><a href="https://cmu.wd5.myworkdayjobs.com/en-US/SEI/job/Pittsburgh-PA/AI-Security-Researcher_2024057-1">Apply →</a></p>
 
 ---
-*Posted 2022-01-06 · Listing synced 2026-06-27 · 80k job ID `recizwZRH3qtQGJEt`*
+*Posted 2022-01-06 · Listing synced 2026-06-28 · 80k job ID `recizwZRH3qtQGJEt`*

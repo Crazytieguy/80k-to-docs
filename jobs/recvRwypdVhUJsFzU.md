@@ -2,7 +2,7 @@
 title: "AI / ML Intern, Machine Learning (2026)"
 employer: "Adobe"
 job_id: "recvRwypdVhUJsFzU"
-last_updated: "2026-06-27T05:33:54.776151Z"
+last_updated: "2026-06-28T05:33:51.727103Z"
 posted_at: "2022-01-02T00:00:00Z"
 status: ready
 apply_url: "https://careers.adobe.com/us/en/job/R158493/2026-AI-ML-Intern-Machine-Learning-Engineer"
@@ -33,4 +33,4 @@ areas:
 <p class="apply-cta"><a href="https://careers.adobe.com/us/en/job/R158493/2026-AI-ML-Intern-Machine-Learning-Engineer">Apply →</a></p>
 
 ---
-*Posted 2022-01-02 · Listing synced 2026-06-27 · 80k job ID `recvRwypdVhUJsFzU`*
+*Posted 2022-01-02 · Listing synced 2026-06-28 · 80k job ID `recvRwypdVhUJsFzU`*

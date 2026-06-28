@@ -2,7 +2,7 @@
 title: "Expressions of Interest, Director of Operations"
 employer: "GovAI"
 job_id: "recQ2wqXJ2oksJ1Or"
-last_updated: "2026-06-27T05:32:52.606357Z"
+last_updated: "2026-06-28T05:32:49.647807Z"
 posted_at: "2026-05-22T00:00:00Z"
 status: ready
 apply_url: "https://www.governance.ai/post/doo-eoi-2026"
@@ -22,7 +22,7 @@ areas:
 <dt>Salary</dt><dd>$155,000 – $190,000</dd>
 </dl>
 
-**Areas & skills:** AI safety & policy, Operations, Management, Strategy
+**Areas & skills:** AI safety & policy, Operations, Strategy, Management
 
 ## Summary
 - In this role, you'll lead the operations team supporting GovAI's programmes, people, and growth into its next phase.
@@ -34,4 +34,4 @@ areas:
 <p class="apply-cta"><a href="https://www.governance.ai/post/doo-eoi-2026">Apply →</a></p>
 
 ---
-*Posted 2026-05-22 · Listing synced 2026-06-27 · 80k job ID `recQ2wqXJ2oksJ1Or`*
+*Posted 2026-05-22 · Listing synced 2026-06-28 · 80k job ID `recQ2wqXJ2oksJ1Or`*

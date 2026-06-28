@@ -2,7 +2,7 @@
 title: "Standards Researcher"
 employer: "SaferAI"
 job_id: "recvBOzapGYV00iyW"
-last_updated: "2026-06-27T05:33:09.954081Z"
+last_updated: "2026-06-28T05:33:06.891586Z"
 posted_at: "2026-04-13T00:02:00Z"
 status: ready
 apply_url: "https://www.safer-ai.org/jobs/standards-researcher"
@@ -33,4 +33,4 @@ areas:
 <p class="apply-cta"><a href="https://www.safer-ai.org/jobs/standards-researcher">Apply →</a></p>
 
 ---
-*Posted 2026-04-13 · Listing synced 2026-06-27 · 80k job ID `recvBOzapGYV00iyW`*
+*Posted 2026-04-13 · Listing synced 2026-06-28 · 80k job ID `recvBOzapGYV00iyW`*

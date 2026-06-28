@@ -2,7 +2,7 @@
 title: "Research Intern"
 employer: "Wisconsin Project on Nuclear Arms Control"
 job_id: "recmfa3TNI8NxbjzY"
-last_updated: "2026-06-27T05:34:06.841845Z"
+last_updated: "2026-06-28T05:34:03.729001Z"
 posted_at: "2022-01-02T00:00:00Z"
 status: ready
 apply_url: "https://www.wisconsinproject.org/about-us/employment/"
@@ -30,4 +30,4 @@ areas:
 <p class="apply-cta"><a href="https://www.wisconsinproject.org/about-us/employment/">Apply →</a></p>
 
 ---
-*Posted 2022-01-02 · Listing synced 2026-06-27 · 80k job ID `recmfa3TNI8NxbjzY`*
+*Posted 2022-01-02 · Listing synced 2026-06-28 · 80k job ID `recmfa3TNI8NxbjzY`*

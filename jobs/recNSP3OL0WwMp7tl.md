@@ -2,7 +2,7 @@
 title: "Operations Associate"
 employer: "Centre for Long-Term Resilience"
 job_id: "recNSP3OL0WwMp7tl"
-last_updated: "2026-06-27T05:32:13.554260Z"
+last_updated: "2026-06-28T05:32:11.513051Z"
 posted_at: "2026-06-22T00:05:00Z"
 status: ready
 apply_url: "https://www.longtermresilience.org/were-hiring-operations-associate-ai-or-biosecurity-unit/"
@@ -35,4 +35,4 @@ areas:
 <p class="apply-cta"><a href="https://www.longtermresilience.org/were-hiring-operations-associate-ai-or-biosecurity-unit/">Apply →</a></p>
 
 ---
-*Posted 2026-06-22 · Listing synced 2026-06-27 · 80k job ID `recNSP3OL0WwMp7tl`*
+*Posted 2026-06-22 · Listing synced 2026-06-28 · 80k job ID `recNSP3OL0WwMp7tl`*

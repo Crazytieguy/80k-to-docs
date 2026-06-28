@@ -2,7 +2,7 @@
 title: "Federal Internship Finder"
 employer: "Partnership for Public Service"
 job_id: "recqvqiM4Og179k8L"
-last_updated: "2026-06-27T05:34:04.154481Z"
+last_updated: "2026-06-28T05:34:01.029530Z"
 posted_at: "2022-01-02T00:00:00Z"
 status: ready
 apply_url: "https://gogovernment.org/federal-internship-finder/"
@@ -21,7 +21,7 @@ areas:
 <dt>Degree</dt><dd>Undergraduate degree or less</dd>
 </dl>
 
-**Areas & skills:** Career development: Policy & government, Research, Policy, Operations
+**Areas & skills:** Career development: Policy & government, Policy, Research, Operations
 
 ## Summary
 - The federal government offers many job opportunities, but they can be difficult to find, track and navigate, complicated by short application windows and information scattered across hundreds of different webpages.
@@ -31,4 +31,4 @@ areas:
 <p class="apply-cta"><a href="https://gogovernment.org/federal-internship-finder/">Apply →</a></p>
 
 ---
-*Posted 2022-01-02 · Listing synced 2026-06-27 · 80k job ID `recqvqiM4Og179k8L`*
+*Posted 2022-01-02 · Listing synced 2026-06-28 · 80k job ID `recqvqiM4Og179k8L`*

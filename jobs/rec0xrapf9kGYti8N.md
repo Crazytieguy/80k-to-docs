@@ -2,7 +2,7 @@
 title: "Managing Director, US / Canada"
 employer: "Mercy for Animals"
 job_id: "rec0xrapf9kGYti8N"
-last_updated: "2026-06-27T05:32:42.819135Z"
+last_updated: "2026-06-28T05:32:40.225766Z"
 posted_at: "2026-06-02T00:00:00Z"
 status: ready
 apply_url: "https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=9b16364c-5e0e-4e66-be82-8f108b1eb279&ccId=19000101_000001&jobId=552441&lang=en_US&source=LR"
@@ -22,7 +22,7 @@ areas:
 <dt>Salary</dt><dd>$154,530 – $171,700</dd>
 </dl>
 
-**Areas & skills:** Animal welfare, Outreach, Management, Strategy
+**Areas & skills:** Animal welfare, Strategy, Management, Outreach
 
 ## Summary
 - In this role, you'll provide senior leadership for MFA's US and Canada operations, architecting high-impact regional strategies and campaigns.
@@ -35,4 +35,4 @@ areas:
 <p class="apply-cta"><a href="https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=9b16364c-5e0e-4e66-be82-8f108b1eb279&amp;ccId=19000101_000001&amp;jobId=552441&amp;lang=en_US&amp;source=LR">Apply →</a></p>
 
 ---
-*Posted 2026-06-02 · Listing synced 2026-06-27 · 80k job ID `rec0xrapf9kGYti8N`*
+*Posted 2026-06-02 · Listing synced 2026-06-28 · 80k job ID `rec0xrapf9kGYti8N`*

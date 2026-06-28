@@ -2,7 +2,7 @@
 title: "Head of People"
 employer: "MATS Research"
 job_id: "recindlP4A0nROyTA"
-last_updated: "2026-06-27T05:32:57.785493Z"
+last_updated: "2026-06-28T05:32:54.695152Z"
 posted_at: "2026-05-15T00:04:42Z"
 status: ready
 apply_url: "https://www.matsprogram.org/careers/head-of-people"
@@ -22,7 +22,7 @@ areas:
 <dt>Salary</dt><dd>$160,000 – $240,000</dd>
 </dl>
 
-**Areas & skills:** AI safety & policy, Operations, Management, Strategy
+**Areas & skills:** AI safety & policy, Operations, Strategy, Management
 
 ## Summary
 - In this role, you'll build MATS's People function from scratch, establishing HR systems that enable scaling from 45 to 90 employees across two countries.
@@ -33,4 +33,4 @@ areas:
 <p class="apply-cta"><a href="https://www.matsprogram.org/careers/head-of-people">Apply →</a></p>
 
 ---
-*Posted 2026-05-15 · Listing synced 2026-06-27 · 80k job ID `recindlP4A0nROyTA`*
+*Posted 2026-05-15 · Listing synced 2026-06-28 · 80k job ID `recindlP4A0nROyTA`*

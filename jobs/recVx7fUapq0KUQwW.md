@@ -2,7 +2,7 @@
 title: "Program Director"
 employer: "Hewlett Foundation"
 job_id: "recVx7fUapq0KUQwW"
-last_updated: "2026-06-27T05:34:11.356290Z"
+last_updated: "2026-06-28T05:34:08.630866Z"
 posted_at: "2022-01-01T00:00:00Z"
 status: ready
 apply_url: "https://hewlett.hrmdirect.com/employment/job-opening.php?req=3566721&req_loc=1112590&nohd=#job"
@@ -22,7 +22,7 @@ areas:
 <dt>Salary</dt><dd>$400,000 – $500,000</dd>
 </dl>
 
-**Areas & skills:** Safeguarding liberal democracy, Policy, Management, Strategy
+**Areas & skills:** Safeguarding liberal democracy, Strategy, Policy, Management
 
 ## Summary
 - In this role, you'll lead the U.S. Democracy Program to strengthen America's democratic institutions and build public trust in inclusive democracy.
@@ -34,4 +34,4 @@ areas:
 <p class="apply-cta"><a href="https://hewlett.hrmdirect.com/employment/job-opening.php?req=3566721&amp;req_loc=1112590&amp;nohd=#job">Apply →</a></p>
 
 ---
-*Posted 2022-01-01 · Listing synced 2026-06-27 · 80k job ID `recVx7fUapq0KUQwW`*
+*Posted 2022-01-01 · Listing synced 2026-06-28 · 80k job ID `recVx7fUapq0KUQwW`*

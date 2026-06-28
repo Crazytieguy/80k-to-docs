@@ -2,7 +2,7 @@
 title: "Animal Advocacy Course"
 employer: "Animal Advocacy Careers"
 job_id: "rec2kJ4j9Z5nBmIPQ"
-last_updated: "2026-06-27T05:32:45.255898Z"
+last_updated: "2026-06-28T05:32:43.454634Z"
 posted_at: "2026-06-01T00:00:00Z"
 status: ready
 apply_url: "https://animaladvocacycareers.org/course/"
@@ -32,4 +32,4 @@ areas:
 <p class="apply-cta"><a href="https://animaladvocacycareers.org/course/">Apply →</a></p>
 
 ---
-*Posted 2026-06-01 · Listing synced 2026-06-27 · 80k job ID `rec2kJ4j9Z5nBmIPQ`*
+*Posted 2026-06-01 · Listing synced 2026-06-28 · 80k job ID `rec2kJ4j9Z5nBmIPQ`*

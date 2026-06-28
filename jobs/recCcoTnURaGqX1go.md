@@ -2,7 +2,7 @@
 title: "Graduate Professional, Security and Technology"
 employer: "United Nations, Institute for Disarmament Research"
 job_id: "recCcoTnURaGqX1go"
-last_updated: "2026-06-27T05:32:37.740497Z"
+last_updated: "2026-06-28T05:32:34.950804Z"
 posted_at: "2026-06-08T00:00:00Z"
 status: ready
 apply_url: "https://unidir.org/job/graduate-professional-security-and-technology-2/"
@@ -34,4 +34,4 @@ areas:
 <p class="apply-cta"><a href="https://unidir.org/job/graduate-professional-security-and-technology-2/">Apply →</a></p>
 
 ---
-*Posted 2026-06-08 · Listing synced 2026-06-27 · 80k job ID `recCcoTnURaGqX1go`*
+*Posted 2026-06-08 · Listing synced 2026-06-28 · 80k job ID `recCcoTnURaGqX1go`*

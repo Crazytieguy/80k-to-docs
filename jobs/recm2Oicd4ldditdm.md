@@ -2,7 +2,7 @@
 title: "Request for Proposal: Checks and Balances to Empower Citizens in an Automated Society"
 employer: "Effective Institutions Project"
 job_id: "recm2Oicd4ldditdm"
-last_updated: "2026-06-27T05:32:09.804006Z"
+last_updated: "2026-06-28T05:32:07.605510Z"
 posted_at: "2026-06-25T00:02:00Z"
 status: ready
 apply_url: "https://checks-and-balances.ai/"
@@ -32,4 +32,4 @@ areas:
 <p class="apply-cta"><a href="https://checks-and-balances.ai/">Apply →</a></p>
 
 ---
-*Posted 2026-06-25 · Listing synced 2026-06-27 · 80k job ID `recm2Oicd4ldditdm`*
+*Posted 2026-06-25 · Listing synced 2026-06-28 · 80k job ID `recm2Oicd4ldditdm`*
