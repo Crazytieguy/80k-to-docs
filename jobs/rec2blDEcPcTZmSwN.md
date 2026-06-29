@@ -2,7 +2,7 @@
 title: "Governance Researcher, Frontier AI Risk Management"
 employer: "SaferAI"
 job_id: "rec2blDEcPcTZmSwN"
-last_updated: "2026-06-28T05:33:36.791621Z"
+last_updated: "2026-06-29T05:33:34.282248Z"
 posted_at: "2022-01-06T00:00:00Z"
 status: ready
 apply_url: "https://www.safer-ai.org/jobs/frontier-ai-risk-management-governance-researcher"
@@ -33,4 +33,4 @@ areas:
 <p class="apply-cta"><a href="https://www.safer-ai.org/jobs/frontier-ai-risk-management-governance-researcher">Apply →</a></p>
 
 ---
-*Posted 2022-01-06 · Listing synced 2026-06-28 · 80k job ID `rec2blDEcPcTZmSwN`*
+*Posted 2022-01-06 · Listing synced 2026-06-29 · 80k job ID `rec2blDEcPcTZmSwN`*

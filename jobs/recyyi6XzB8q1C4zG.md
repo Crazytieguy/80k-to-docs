@@ -2,7 +2,7 @@
 title: "Grant Recipient, Long-Term Future"
 employer: "EA Funds"
 job_id: "recyyi6XzB8q1C4zG"
-last_updated: "2026-06-28T05:34:06.804619Z"
+last_updated: "2026-06-29T05:34:06.440278Z"
 posted_at: "2022-01-01T00:00:00Z"
 status: ready
 apply_url: "https://funds.effectivealtruism.org/funds/far-future"
@@ -21,7 +21,7 @@ areas:
 <dt>Degree</dt><dd>Undergraduate degree or less</dd>
 </dl>
 
-**Areas & skills:** Macrostrategy, Other, Policy, Research
+**Areas & skills:** Macrostrategy, Research, Policy, Other
 
 ## Summary
 - Award grants focusing on global catastrophic risks, AI and pandemics.
@@ -30,4 +30,4 @@ areas:
 <p class="apply-cta"><a href="https://funds.effectivealtruism.org/funds/far-future">Apply →</a></p>
 
 ---
-*Posted 2022-01-01 · Listing synced 2026-06-28 · 80k job ID `recyyi6XzB8q1C4zG`*
+*Posted 2022-01-01 · Listing synced 2026-06-29 · 80k job ID `recyyi6XzB8q1C4zG`*

@@ -2,7 +2,7 @@
 title: "Program Lead, AIxBio"
 employer: "Cambridge Boston Alignment Initiative"
 job_id: "recyQnNZxKVPEl2C7"
-last_updated: "2026-06-28T05:33:27.857045Z"
+last_updated: "2026-06-29T05:33:26.808152Z"
 posted_at: "2022-01-06T00:00:00Z"
 status: ready
 apply_url: "https://jobs.ashbyhq.com/cbai/916b0bc0-02c7-4358-af8f-dcdd4af1f2f9"
@@ -22,7 +22,7 @@ areas:
 <dt>Salary</dt><dd>$110,000 – $130,000</dd>
 </dl>
 
-**Areas & skills:** AI safety & policy, Strategy, Operations, Management
+**Areas & skills:** AI safety & policy, Operations, Management, Strategy
 
 ## Summary
 - In this role, you'll launch and lead the AIxBio Research Fellowship, managing program strategy, team leadership, and mentor relationships.
@@ -34,4 +34,4 @@ areas:
 <p class="apply-cta"><a href="https://jobs.ashbyhq.com/cbai/916b0bc0-02c7-4358-af8f-dcdd4af1f2f9">Apply →</a></p>
 
 ---
-*Posted 2022-01-06 · Listing synced 2026-06-28 · 80k job ID `recyQnNZxKVPEl2C7`*
+*Posted 2022-01-06 · Listing synced 2026-06-29 · 80k job ID `recyQnNZxKVPEl2C7`*

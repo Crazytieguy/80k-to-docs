@@ -2,7 +2,7 @@
 title: "Research Associate, China Strategy Initiative"
 employer: "Council on Foreign Relations"
 job_id: "rec6Qkr8XIktzb2dR"
-last_updated: "2026-06-28T05:32:57.369500Z"
+last_updated: "2026-06-29T05:32:56.434682Z"
 posted_at: "2026-05-13T00:00:00Z"
 status: ready
 apply_url: "https://careers-cfr.icims.com/jobs/2928/research-associate%2c-china-strategy-initiative/job?in_iframe=1"
@@ -22,7 +22,7 @@ areas:
 <dt>Salary</dt><dd>$55,000 – $58,000</dd>
 </dl>
 
-**Areas & skills:** Career development: Policy & government, Research, Operations, Policy
+**Areas & skills:** Career development: Policy & government, Research, Policy, Operations
 
 ## Summary
 - In this role, you'll support the China Strategy Initiative through research, administration, and event coordination.
@@ -34,4 +34,4 @@ areas:
 <p class="apply-cta"><a href="https://careers-cfr.icims.com/jobs/2928/research-associate%2c-china-strategy-initiative/job?in_iframe=1">Apply →</a></p>
 
 ---
-*Posted 2026-05-13 · Listing synced 2026-06-28 · 80k job ID `rec6Qkr8XIktzb2dR`*
+*Posted 2026-05-13 · Listing synced 2026-06-29 · 80k job ID `rec6Qkr8XIktzb2dR`*

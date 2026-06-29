@@ -2,7 +2,7 @@
 title: "Editorial Manager"
 employer: "Founders Pledge"
 job_id: "recsFNNokhlKOHX6l"
-last_updated: "2026-06-28T05:32:07.295520Z"
+last_updated: "2026-06-29T05:32:06.098297Z"
 posted_at: "2026-06-25T00:03:00Z"
 status: ready
 apply_url: "https://careers.founderspledge.com/jobs/7962634-editorial-manager"
@@ -34,4 +34,4 @@ areas:
 <p class="apply-cta"><a href="https://careers.founderspledge.com/jobs/7962634-editorial-manager">Apply →</a></p>
 
 ---
-*Posted 2026-06-25 · Listing synced 2026-06-28 · 80k job ID `recsFNNokhlKOHX6l`*
+*Posted 2026-06-25 · Listing synced 2026-06-29 · 80k job ID `recsFNNokhlKOHX6l`*

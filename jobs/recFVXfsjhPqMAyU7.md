@@ -2,7 +2,7 @@
 title: "Co-op, AI Security"
 employer: "Lila Sciences"
 job_id: "recFVXfsjhPqMAyU7"
-last_updated: "2026-06-28T05:32:25.261696Z"
+last_updated: "2026-06-29T05:32:24.236543Z"
 posted_at: "2026-06-12T00:00:00Z"
 status: ready
 apply_url: "https://job-boards.greenhouse.io/lilasciences/jobs/4280945009"
@@ -33,4 +33,4 @@ areas:
 <p class="apply-cta"><a href="https://job-boards.greenhouse.io/lilasciences/jobs/4280945009">Apply →</a></p>
 
 ---
-*Posted 2026-06-12 · Listing synced 2026-06-28 · 80k job ID `recFVXfsjhPqMAyU7`*
+*Posted 2026-06-12 · Listing synced 2026-06-29 · 80k job ID `recFVXfsjhPqMAyU7`*

@@ -2,7 +2,7 @@
 title: "Artificial Intelligence Safety Standards Expert"
 employer: "Shanghai Artificial Intelligence Laboratory"
 job_id: "reccO7v88ChJQwEMz"
-last_updated: "2026-06-28T05:33:47.784595Z"
+last_updated: "2026-06-29T05:33:46.102178Z"
 posted_at: "2022-01-05T00:00:00Z"
 status: ready
 apply_url: "https://www.shlab.org.cn/joinus/detail/7599507253209090346?mode=social&keyword=&jobFunction=&jobType=&location=&subject="
@@ -33,4 +33,4 @@ areas:
 <p class="apply-cta"><a href="https://www.shlab.org.cn/joinus/detail/7599507253209090346?mode=social&amp;keyword=&amp;jobFunction=&amp;jobType=&amp;location=&amp;subject=">Apply →</a></p>
 
 ---
-*Posted 2022-01-05 · Listing synced 2026-06-28 · 80k job ID `reccO7v88ChJQwEMz`*
+*Posted 2022-01-05 · Listing synced 2026-06-29 · 80k job ID `reccO7v88ChJQwEMz`*

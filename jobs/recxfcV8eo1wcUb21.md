@@ -2,7 +2,7 @@
 title: "Request for Proposals, The Launch Sequence"
 employer: "Institute for Progress"
 job_id: "recxfcV8eo1wcUb21"
-last_updated: "2026-06-28T05:32:14.932514Z"
+last_updated: "2026-06-29T05:32:13.713469Z"
 posted_at: "2026-06-19T00:00:00Z"
 status: ready
 apply_url: "https://ifp.org/rfp-launch/"
@@ -22,7 +22,7 @@ areas:
 <dt>Degree</dt><dd>Undergraduate degree or less</dd>
 </dl>
 
-**Areas & skills:** AI safety & policy, Biosecurity & pandemic preparedness, Research, Strategy, Policy
+**Areas & skills:** AI safety & policy, Biosecurity & pandemic preparedness, Research, Policy, Strategy
 
 ## Summary
 - Submit a proposal to contribute to The Launch Sequence, an initiative to develop projects that prepare the world for advanced AI.
@@ -34,4 +34,4 @@ areas:
 <p class="apply-cta"><a href="https://ifp.org/rfp-launch/">Apply →</a></p>
 
 ---
-*Posted 2026-06-19 · Listing synced 2026-06-28 · 80k job ID `recxfcV8eo1wcUb21`*
+*Posted 2026-06-19 · Listing synced 2026-06-29 · 80k job ID `recxfcV8eo1wcUb21`*

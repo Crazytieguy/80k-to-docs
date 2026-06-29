@@ -4,25 +4,20 @@ employer: "Fish Welfare Initiative"
 job_id: "reckz4C72rUPM8JAw"
 last_updated: "2026-06-28T05:32:49.287814Z"
 posted_at: "2026-05-22T00:00:00Z"
-status: ready
+status: closed
+closed_at: "2026-06-29"
 apply_url: "https://www.fishwelfareinitiative.org/director-of-programs"
 areas:
   - "Animal welfare"
 ---
 
+> ⚠️ **CLOSED on 2026-06-29** — this job is no longer listed on the 80,000 Hours board. Archived snapshot below.
+
 # Director of Programs
 
-**[Fish Welfare Initiative](https://www.charityentrepreneurship.com/fish-welfare-initiative)**
+**Fish Welfare Initiative**
 
-<dl class="job-meta">
-<dt>Location</dt><dd>Remote, Global, India, Asia</dd>
-<dt>Role type</dt><dd>Full-time</dd>
-<dt>Experience</dt><dd>Mid (5-9 years experience)</dd>
-<dt>Degree</dt><dd>Undergraduate degree or less</dd>
-<dt>Salary</dt><dd>$25,000 – $80,000</dd>
-</dl>
-
-**Areas & skills:** Animal welfare, Management, Strategy
+**Areas & skills:** Animal welfare
 
 ## Summary
 - In this role, you'll oversee the Programs Department and serve as co-leader, executing scalable, evidence-based fish welfare interventions in India.

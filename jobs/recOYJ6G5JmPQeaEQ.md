@@ -2,7 +2,7 @@
 title: "Volunteer Internship Program"
 employer: "US Government, Congressional Research Service"
 job_id: "recOYJ6G5JmPQeaEQ"
-last_updated: "2026-06-28T05:34:03.311765Z"
+last_updated: "2026-06-29T05:34:02.925445Z"
 posted_at: "2022-01-02T00:00:00Z"
 status: ready
 apply_url: "https://www.loc.gov/crsinfo/opportunities/volunteer.html"
@@ -21,7 +21,7 @@ areas:
 <dt>Degree</dt><dd>Undergraduate degree or less</dd>
 </dl>
 
-**Areas & skills:** Career development: Policy & government, Policy, Research, Operations
+**Areas & skills:** Career development: Policy & government, Research, Policy, Operations
 
 ## Summary
 - Internships range from three months to one year in duration.
@@ -33,4 +33,4 @@ areas:
 <p class="apply-cta"><a href="https://www.loc.gov/crsinfo/opportunities/volunteer.html">Apply →</a></p>
 
 ---
-*Posted 2022-01-02 · Listing synced 2026-06-28 · 80k job ID `recOYJ6G5JmPQeaEQ`*
+*Posted 2022-01-02 · Listing synced 2026-06-29 · 80k job ID `recOYJ6G5JmPQeaEQ`*

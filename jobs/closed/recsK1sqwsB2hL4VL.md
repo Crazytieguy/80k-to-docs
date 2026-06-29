@@ -4,24 +4,20 @@ employer: "BlueDot Impact"
 job_id: "recsK1sqwsB2hL4VL"
 last_updated: "2026-06-28T05:32:43.998650Z"
 posted_at: "2026-05-29T00:03:00Z"
-status: ready
+status: closed
+closed_at: "2026-06-29"
 apply_url: "https://bluedot.org/courses/technical-ai-safety"
 areas:
   - "AI safety & policy"
 ---
 
+> ⚠️ **CLOSED on 2026-06-29** — this job is no longer listed on the 80,000 Hours board. Archived snapshot below.
+
 # Technical AI Safety Course
 
-**[BlueDot Impact](https://www.bluedotimpact.org/)**
+**BlueDot Impact**
 
-<dl class="job-meta">
-<dt>Location</dt><dd>Remote, Global</dd>
-<dt>Role type</dt><dd>Course</dd>
-<dt>Experience</dt><dd>Entry-level</dd>
-<dt>Degree</dt><dd>Undergraduate degree or less</dd>
-</dl>
-
-**Areas & skills:** AI safety & policy, Research
+**Areas & skills:** AI safety & policy
 
 ## Summary
 - This course builds technical expertise in AI safety, covering alignment and RLHF, mechanistic interpretability, evaluations, and AI control.

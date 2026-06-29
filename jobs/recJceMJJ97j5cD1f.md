@@ -2,7 +2,7 @@
 title: "Security Controls Assurance Lead"
 employer: "Anthropic"
 job_id: "recJceMJJ97j5cD1f"
-last_updated: "2026-06-28T05:32:32.392607Z"
+last_updated: "2026-06-29T05:32:31.187197Z"
 posted_at: "2026-06-09T00:00:00Z"
 status: ready
 apply_url: "https://job-boards.greenhouse.io/anthropic/jobs/5250063008"
@@ -34,4 +34,4 @@ areas:
 <p class="apply-cta"><a href="https://job-boards.greenhouse.io/anthropic/jobs/5250063008">Apply →</a></p>
 
 ---
-*Posted 2026-06-09 · Listing synced 2026-06-28 · 80k job ID `recJceMJJ97j5cD1f`*
+*Posted 2026-06-09 · Listing synced 2026-06-29 · 80k job ID `recJceMJJ97j5cD1f`*

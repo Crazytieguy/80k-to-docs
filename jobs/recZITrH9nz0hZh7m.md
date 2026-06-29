@@ -2,7 +2,7 @@
 title: "Singapore AI Safety Fellowship"
 employer: "Singapore AI Safety Hub"
 job_id: "recZITrH9nz0hZh7m"
-last_updated: "2026-06-28T05:32:05.903881Z"
+last_updated: "2026-06-29T05:32:04.905142Z"
 posted_at: "2026-06-26T00:03:00Z"
 status: ready
 apply_url: "https://www.aisafety.sg/programs/singapore-ai-safety-fellowship"
@@ -19,7 +19,7 @@ areas:
 <dt>Role type</dt><dd>Fellowship</dd>
 <dt>Experience</dt><dd>Junior (1-4 years experience)</dd>
 <dt>Degree</dt><dd>Undergraduate degree or less</dd>
-<dt>Salary</dt><dd>$46,373</dd>
+<dt>Salary</dt><dd>$46,366</dd>
 </dl>
 
 **Areas & skills:** AI safety & policy, Research, Policy
@@ -34,4 +34,4 @@ areas:
 <p class="apply-cta"><a href="https://www.aisafety.sg/programs/singapore-ai-safety-fellowship">Apply →</a></p>
 
 ---
-*Posted 2026-06-26 · Listing synced 2026-06-28 · 80k job ID `recZITrH9nz0hZh7m`*
+*Posted 2026-06-26 · Listing synced 2026-06-29 · 80k job ID `recZITrH9nz0hZh7m`*

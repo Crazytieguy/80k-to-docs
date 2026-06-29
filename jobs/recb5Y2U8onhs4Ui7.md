@@ -2,7 +2,7 @@
 title: "List of Climate Technology Roles"
 employer: "Climate Pledge Fund"
 job_id: "recb5Y2U8onhs4Ui7"
-last_updated: "2026-06-28T05:34:05.781140Z"
+last_updated: "2026-06-29T05:34:05.380693Z"
 posted_at: "2022-01-01T00:00:00Z"
 status: ready
 apply_url: "https://portfoliojobs.theclimatepledge.com/jobs"
@@ -21,7 +21,7 @@ areas:
 <dt>Degree</dt><dd>Undergraduate degree or less</dd>
 </dl>
 
-**Areas & skills:** Climate change, Software engineering, Operations, Strategy
+**Areas & skills:** Climate change, Operations, Software engineering, Strategy
 
 ## Summary
 - The Climate Pledge Fund maintains a list of hundreds of climate technology-related jobs at companies that the Fund has invested in.
@@ -30,4 +30,4 @@ areas:
 <p class="apply-cta"><a href="https://portfoliojobs.theclimatepledge.com/jobs">Apply →</a></p>
 
 ---
-*Posted 2022-01-01 · Listing synced 2026-06-28 · 80k job ID `recb5Y2U8onhs4Ui7`*
+*Posted 2022-01-01 · Listing synced 2026-06-29 · 80k job ID `recb5Y2U8onhs4Ui7`*

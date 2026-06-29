@@ -4,25 +4,20 @@ employer: "Rethink Priorities"
 job_id: "recsc6crVhvZSnk4Q"
 last_updated: "2026-06-28T05:32:22.199271Z"
 posted_at: "2026-06-15T00:01:00Z"
-status: ready
+status: closed
+closed_at: "2026-06-29"
 apply_url: "https://careers.rethinkpriorities.org/en/postings/9cd02f35-f9fa-4bff-a9aa-4e3e9db33d12"
 areas:
   - "Macrostrategy"
 ---
 
+> ⚠️ **CLOSED on 2026-06-29** — this job is no longer listed on the 80,000 Hours board. Archived snapshot below.
+
 # Finance Associate / Staff Accountant
 
-**[Rethink Priorities](https://www.rethinkpriorities.org/)**
+**Rethink Priorities**
 
-<dl class="job-meta">
-<dt>Location</dt><dd>Remote, USA, USA</dd>
-<dt>Role type</dt><dd>Full-time</dd>
-<dt>Experience</dt><dd>Junior (1-4 years experience)</dd>
-<dt>Degree</dt><dd>Undergraduate degree or less</dd>
-<dt>Salary</dt><dd>$55,000 – $80,000</dd>
-</dl>
-
-**Areas & skills:** Macrostrategy, Finance
+**Areas & skills:** Macrostrategy
 
 ## Summary
 - In this role, you'll support the financial operations of an impact-driven organization managing $22M in annual spending.

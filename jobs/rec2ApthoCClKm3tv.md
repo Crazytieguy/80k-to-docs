@@ -2,7 +2,7 @@
 title: "Technical Programme Manager, Chem-Bio"
 employer: "UK Government, AI Security Institute"
 job_id: "rec2ApthoCClKm3tv"
-last_updated: "2026-06-28T05:32:16.802589Z"
+last_updated: "2026-06-29T05:32:15.708793Z"
 posted_at: "2026-06-17T00:05:00Z"
 status: ready
 apply_url: "https://job-boards.eu.greenhouse.io/aisi/jobs/4899102101"
@@ -20,7 +20,7 @@ areas:
 <dt>Role type</dt><dd>Full-time</dd>
 <dt>Experience</dt><dd>Junior (1-4 years experience), Mid (5-9 years experience)</dd>
 <dt>Degree</dt><dd>Undergraduate degree or less</dd>
-<dt>Salary</dt><dd>$85,792 – $191,381</dd>
+<dt>Salary</dt><dd>$85,831 – $191,470</dd>
 </dl>
 
 **Areas & skills:** AI safety & policy, Biosecurity & pandemic preparedness, Operations
@@ -34,4 +34,4 @@ areas:
 <p class="apply-cta"><a href="https://job-boards.eu.greenhouse.io/aisi/jobs/4899102101">Apply →</a></p>
 
 ---
-*Posted 2026-06-17 · Listing synced 2026-06-28 · 80k job ID `rec2ApthoCClKm3tv`*
+*Posted 2026-06-17 · Listing synced 2026-06-29 · 80k job ID `rec2ApthoCClKm3tv`*

@@ -2,7 +2,7 @@
 title: "Research Fellow, Infectious Disease Modelling"
 employer: "National University of Singapore, Asia Centre for Health Security"
 job_id: "recTypjQGZyvm7HoJ"
-last_updated: "2026-06-28T05:33:49.462776Z"
+last_updated: "2026-06-29T05:33:48.042629Z"
 posted_at: "2022-01-04T00:00:00Z"
 status: ready
 apply_url: "https://careers.nus.edu.sg/job/Research-Fellow-%28Infectious-Disease-Modelling%29/30141-en_GB/"
@@ -34,4 +34,4 @@ areas:
 <p class="apply-cta"><a href="https://careers.nus.edu.sg/job/Research-Fellow-%28Infectious-Disease-Modelling%29/30141-en_GB/">Apply →</a></p>
 
 ---
-*Posted 2022-01-04 · Listing synced 2026-06-28 · 80k job ID `recTypjQGZyvm7HoJ`*
+*Posted 2022-01-04 · Listing synced 2026-06-29 · 80k job ID `recTypjQGZyvm7HoJ`*

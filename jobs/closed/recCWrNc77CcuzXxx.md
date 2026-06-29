@@ -4,24 +4,20 @@ employer: "Horizon Institute for Public Service"
 job_id: "recCWrNc77CcuzXxx"
 last_updated: "2026-06-28T05:32:44.139105Z"
 posted_at: "2026-05-29T00:03:00Z"
-status: ready
+status: closed
+closed_at: "2026-06-29"
 apply_url: "https://horizonpublicservice.org/apply-for-the-ai-innovation-security-policy-workshop/"
 areas:
   - "AI safety & policy"
 ---
 
+> ⚠️ **CLOSED on 2026-06-29** — this job is no longer listed on the 80,000 Hours board. Archived snapshot below.
+
 # AI Innovation and Security Policy Workshop
 
-**[Horizon Institute for Public Service](https://www.horizonpublicservice.org/)**
+**Horizon Institute for Public Service**
 
-<dl class="job-meta">
-<dt>Location</dt><dd>Washington, DC metro area, USA</dd>
-<dt>Role type</dt><dd>Course</dd>
-<dt>Experience</dt><dd>Multiple experience levels</dd>
-<dt>Degree</dt><dd>Undergraduate degree or less</dd>
-</dl>
-
-**Areas & skills:** AI safety & policy, Policy
+**Areas & skills:** AI safety & policy
 
 ## Summary
 - This three-day workshop explores careers in artificial intelligence policy.

@@ -2,7 +2,7 @@
 title: "Campaigns Manager"
 employer: "Anima International"
 job_id: "recGe5P0gn4TXMFAB"
-last_updated: "2026-06-28T05:32:08.824725Z"
+last_updated: "2026-06-29T05:32:07.588344Z"
 posted_at: "2026-06-24T00:00:00Z"
 status: ready
 apply_url: "https://animafrance.org/blog/anima-recrute-un%E2%B8%B1e-charge%E2%B8%B1e-de-campagnes"
@@ -19,7 +19,7 @@ areas:
 <dt>Role type</dt><dd>Full-time</dd>
 <dt>Experience</dt><dd>Entry-level</dd>
 <dt>Degree</dt><dd>Undergraduate degree or less</dd>
-<dt>Salary</dt><dd>$38,345 – $41,227</dd>
+<dt>Salary</dt><dd>$38,355 – $41,239</dd>
 </dl>
 
 **Areas & skills:** Animal welfare, Outreach
@@ -34,4 +34,4 @@ areas:
 <p class="apply-cta"><a href="https://animafrance.org/blog/anima-recrute-un%E2%B8%B1e-charge%E2%B8%B1e-de-campagnes">Apply →</a></p>
 
 ---
-*Posted 2026-06-24 · Listing synced 2026-06-28 · 80k job ID `recGe5P0gn4TXMFAB`*
+*Posted 2026-06-24 · Listing synced 2026-06-29 · 80k job ID `recGe5P0gn4TXMFAB`*

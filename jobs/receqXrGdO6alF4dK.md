@@ -2,7 +2,7 @@
 title: "Emerging Talent Development Program"
 employer: "Vanguard Charitable"
 job_id: "receqXrGdO6alF4dK"
-last_updated: "2026-06-28T05:32:33.112925Z"
+last_updated: "2026-06-29T05:32:31.963653Z"
 posted_at: "2026-06-09T00:00:00Z"
 status: ready
 apply_url: "https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=0c68d588-8c9c-408d-9476-64d2fbc7640d&ccId=19000101_000001&jobId=630292&source=LR&lang=en_US&source=LI&source=LI"
@@ -33,4 +33,4 @@ areas:
 <p class="apply-cta"><a href="https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=0c68d588-8c9c-408d-9476-64d2fbc7640d&amp;ccId=19000101_000001&amp;jobId=630292&amp;source=LR&amp;lang=en_US&amp;source=LI&amp;source=LI">Apply →</a></p>
 
 ---
-*Posted 2026-06-09 · Listing synced 2026-06-28 · 80k job ID `receqXrGdO6alF4dK`*
+*Posted 2026-06-09 · Listing synced 2026-06-29 · 80k job ID `receqXrGdO6alF4dK`*

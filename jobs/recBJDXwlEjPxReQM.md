@@ -2,7 +2,7 @@
 title: "Data Scientist"
 employer: "Epoch AI"
 job_id: "recBJDXwlEjPxReQM"
-last_updated: "2026-06-28T05:33:10.778777Z"
+last_updated: "2026-06-29T05:33:09.374078Z"
 posted_at: "2022-01-12T00:00:00Z"
 status: ready
 apply_url: "https://jobs.lever.co/epoch-ai/ab88ba6e-6a92-44cc-8830-a2dafca31f1a"
@@ -34,4 +34,4 @@ areas:
 <p class="apply-cta"><a href="https://jobs.lever.co/epoch-ai/ab88ba6e-6a92-44cc-8830-a2dafca31f1a">Apply →</a></p>
 
 ---
-*Posted 2022-01-12 · Listing synced 2026-06-28 · 80k job ID `recBJDXwlEjPxReQM`*
+*Posted 2022-01-12 · Listing synced 2026-06-29 · 80k job ID `recBJDXwlEjPxReQM`*

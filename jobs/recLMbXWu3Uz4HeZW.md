@@ -2,7 +2,7 @@
 title: "Research Intern, Government Relations"
 employer: "Hudson Institute"
 job_id: "recLMbXWu3Uz4HeZW"
-last_updated: "2026-06-28T05:33:05.040179Z"
+last_updated: "2026-06-29T05:33:04.049065Z"
 posted_at: "2026-04-22T00:00:00Z"
 status: ready
 apply_url: "https://recruiting.paylocity.com/Recruiting/Jobs/Details/2344604"
@@ -33,4 +33,4 @@ areas:
 <p class="apply-cta"><a href="https://recruiting.paylocity.com/Recruiting/Jobs/Details/2344604">Apply →</a></p>
 
 ---
-*Posted 2026-04-22 · Listing synced 2026-06-28 · 80k job ID `recLMbXWu3Uz4HeZW`*
+*Posted 2026-04-22 · Listing synced 2026-06-29 · 80k job ID `recLMbXWu3Uz4HeZW`*

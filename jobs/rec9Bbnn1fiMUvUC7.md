@@ -2,7 +2,7 @@
 title: "Researcher, Alignment Oversight"
 employer: "OpenAI"
 job_id: "rec9Bbnn1fiMUvUC7"
-last_updated: "2026-06-28T05:32:58.286902Z"
+last_updated: "2026-06-29T05:32:57.352196Z"
 posted_at: "2026-05-12T00:00:00Z"
 status: ready
 apply_url: "https://openai.com/careers/researcher-alignment-oversight-san-francisco/"
@@ -34,4 +34,4 @@ areas:
 <p class="apply-cta"><a href="https://openai.com/careers/researcher-alignment-oversight-san-francisco/">Apply →</a></p>
 
 ---
-*Posted 2026-05-12 · Listing synced 2026-06-28 · 80k job ID `rec9Bbnn1fiMUvUC7`*
+*Posted 2026-05-12 · Listing synced 2026-06-29 · 80k job ID `rec9Bbnn1fiMUvUC7`*

@@ -4,25 +4,20 @@ employer: "Pfizer"
 job_id: "recqaHODS2NyxRQw2"
 last_updated: "2026-06-28T05:32:18.369876Z"
 posted_at: "2026-06-17T00:00:00Z"
-status: ready
+status: closed
+closed_at: "2026-06-29"
 apply_url: "https://pfizer.wd1.myworkdayjobs.com/en-US/PfizerCareers/job/Postdoctoral-Fellow--AI-ML-Applications-for-Vaccine_4954934-1"
 areas:
   - "Biosecurity & pandemic preparedness"
 ---
 
+> ⚠️ **CLOSED on 2026-06-29** — this job is no longer listed on the 80,000 Hours board. Archived snapshot below.
+
 # Postdoctoral Fellow, AI/ML Applications for Vaccine
 
-**[Pfizer](https://www.pfizer.com/)**
+**Pfizer**
 
-<dl class="job-meta">
-<dt>Location</dt><dd>Orangetown, NY, USA</dd>
-<dt>Role type</dt><dd>Fellowship</dd>
-<dt>Experience</dt><dd>Entry-level</dd>
-<dt>Degree</dt><dd>Doctoral degree</dd>
-<dt>Salary</dt><dd>$64,600 – $107,600</dd>
-</dl>
-
-**Areas & skills:** Biosecurity & pandemic preparedness, Research
+**Areas & skills:** Biosecurity & pandemic preparedness
 
 ## Summary
 - In this role, you will design, implement, and validate AI-driven models for prospective vaccine strain selection.

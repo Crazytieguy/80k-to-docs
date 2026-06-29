@@ -4,25 +4,20 @@ employer: "Federation of American Scientists"
 job_id: "receNmJnE44ujbQEL"
 last_updated: "2026-06-28T05:32:35.765062Z"
 posted_at: "2026-06-05T00:02:00Z"
-status: ready
+status: closed
+closed_at: "2026-06-29"
 apply_url: "https://fas.org/career/research-and-program-associate-nuclear-information-project/"
 areas:
   - "Nuclear security"
 ---
 
+> ⚠️ **CLOSED on 2026-06-29** — this job is no longer listed on the 80,000 Hours board. Archived snapshot below.
+
 # Research and Program Associate, Nuclear Information Project
 
-**[Federation of American Scientists](https://fas.org/about-fas/)**
+**Federation of American Scientists**
 
-<dl class="job-meta">
-<dt>Location</dt><dd>Washington, DC metro area, USA</dd>
-<dt>Role type</dt><dd>Full-time</dd>
-<dt>Experience</dt><dd>Junior (1-4 years experience)</dd>
-<dt>Degree</dt><dd>Undergraduate degree or less</dd>
-<dt>Salary</dt><dd>$62,000 – $68,000</dd>
-</dl>
-
-**Areas & skills:** Nuclear security, Research, Operations
+**Areas & skills:** Nuclear security
 
 ## Summary
 - In this role, you'll conduct research on global nuclear weapons and support the Nuclear Information Project operations.

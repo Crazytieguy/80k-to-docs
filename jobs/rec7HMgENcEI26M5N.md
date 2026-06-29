@@ -2,7 +2,7 @@
 title: "Founding Video and Social Lead"
 employer: "Humans in Control"
 job_id: "rec7HMgENcEI26M5N"
-last_updated: "2026-06-28T05:32:07.448928Z"
+last_updated: "2026-06-29T05:32:06.241245Z"
 posted_at: "2026-06-25T00:03:00Z"
 status: ready
 apply_url: "https://humansincontrol.org/careers/social-media-content-producer/"
@@ -34,4 +34,4 @@ areas:
 <p class="apply-cta"><a href="https://humansincontrol.org/careers/social-media-content-producer/">Apply →</a></p>
 
 ---
-*Posted 2026-06-25 · Listing synced 2026-06-28 · 80k job ID `rec7HMgENcEI26M5N`*
+*Posted 2026-06-25 · Listing synced 2026-06-29 · 80k job ID `rec7HMgENcEI26M5N`*

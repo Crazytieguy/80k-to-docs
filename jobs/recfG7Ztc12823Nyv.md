@@ -2,7 +2,7 @@
 title: "Director of Talent Discovery"
 employer: "SteadRise"
 job_id: "recfG7Ztc12823Nyv"
-last_updated: "2026-06-28T05:32:20.179788Z"
+last_updated: "2026-06-29T05:32:19.066235Z"
 posted_at: "2026-06-16T00:01:00Z"
 status: ready
 apply_url: "https://steadrise.notion.site/Director-of-Talent-Discovery-36d20e14e1b780a7864bfa5ae04ace93"
@@ -19,7 +19,7 @@ areas:
 <dt>Role type</dt><dd>Full-time</dd>
 <dt>Experience</dt><dd>Mid (5-9 years experience)</dd>
 <dt>Degree</dt><dd>Undergraduate degree or less</dd>
-<dt>Salary</dt><dd>$112,189 – $131,987</dd>
+<dt>Salary</dt><dd>$112,241 – $132,048</dd>
 </dl>
 
 **Areas & skills:** AI safety & policy, Outreach, Management, Strategy
@@ -34,4 +34,4 @@ areas:
 <p class="apply-cta"><a href="https://steadrise.notion.site/Director-of-Talent-Discovery-36d20e14e1b780a7864bfa5ae04ace93">Apply →</a></p>
 
 ---
-*Posted 2026-06-16 · Listing synced 2026-06-28 · 80k job ID `recfG7Ztc12823Nyv`*
+*Posted 2026-06-16 · Listing synced 2026-06-29 · 80k job ID `recfG7Ztc12823Nyv`*

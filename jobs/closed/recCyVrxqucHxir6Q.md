@@ -4,25 +4,20 @@ employer: "The Good Food Institute"
 job_id: "recCyVrxqucHxir6Q"
 last_updated: "2026-06-28T05:32:51.256822Z"
 posted_at: "2026-05-21T00:00:00Z"
-status: ready
+status: closed
+closed_at: "2026-06-29"
 apply_url: "https://gfi.org/resource/associate-director-philanthropy/"
 areas:
   - "Animal welfare"
 ---
 
+> ⚠️ **CLOSED on 2026-06-29** — this job is no longer listed on the 80,000 Hours board. Archived snapshot below.
+
 # Associate Director, Philanthropy
 
-**[The Good Food Institute](https://www.gfi.org)**
+**The Good Food Institute**
 
-<dl class="job-meta">
-<dt>Location</dt><dd>Singapore, Singapore, Hong Kong, China, Singapore, China, Asia</dd>
-<dt>Role type</dt><dd>Full-time</dd>
-<dt>Experience</dt><dd>Mid (5-9 years experience)</dd>
-<dt>Degree</dt><dd>Undergraduate degree or less</dd>
-<dt>Salary</dt><dd>$96,609 – $112,067</dd>
-</dl>
-
-**Areas & skills:** Animal welfare, Outreach
+**Areas & skills:** Animal welfare
 
 ## Summary
 - In this role, you'll lead fundraising efforts for APAC, building relationships with donors and executing the regional strategy.

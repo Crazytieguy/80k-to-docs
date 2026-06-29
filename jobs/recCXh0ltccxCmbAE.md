@@ -2,7 +2,7 @@
 title: "Volunteer, General Application"
 employer: "Shrimp Welfare Project"
 job_id: "recCXh0ltccxCmbAE"
-last_updated: "2026-06-28T05:34:01.800229Z"
+last_updated: "2026-06-29T05:34:01.192157Z"
 posted_at: "2022-01-02T00:00:00Z"
 status: ready
 apply_url: "https://docs.google.com/forms/d/e/1FAIpQLSf1fzJ-a8vsyZcQI46OCTH1l0eMYjM-k2fBndWaySrDq9Defg/viewform"
@@ -21,7 +21,7 @@ areas:
 <dt>Degree</dt><dd>Undergraduate degree or less</dd>
 </dl>
 
-**Areas & skills:** Animal welfare, Research, Outreach, Policy
+**Areas & skills:** Animal welfare, Research, Policy, Outreach
 
 ## Summary
 - Volunteers may contribute to operations, research, communications, or specialized fields like shrimp farming and field data collection.
@@ -31,4 +31,4 @@ areas:
 <p class="apply-cta"><a href="https://docs.google.com/forms/d/e/1FAIpQLSf1fzJ-a8vsyZcQI46OCTH1l0eMYjM-k2fBndWaySrDq9Defg/viewform">Apply →</a></p>
 
 ---
-*Posted 2022-01-02 · Listing synced 2026-06-28 · 80k job ID `recCXh0ltccxCmbAE`*
+*Posted 2022-01-02 · Listing synced 2026-06-29 · 80k job ID `recCXh0ltccxCmbAE`*

@@ -2,7 +2,7 @@
 title: "Investigative Technologist, Consumer Protection Section"
 employer: "California Department of Justice"
 job_id: "recqXr8Ia5iiAgtPG"
-last_updated: "2026-06-28T05:32:11.916429Z"
+last_updated: "2026-06-29T05:32:10.826150Z"
 posted_at: "2026-06-22T00:04:00Z"
 status: ready
 apply_url: "https://calcareers.ca.gov/CalHrPublic/Jobs/JobPosting.aspx?JobControlId=520778"
@@ -35,4 +35,4 @@ areas:
 <p class="apply-cta"><a href="https://calcareers.ca.gov/CalHrPublic/Jobs/JobPosting.aspx?JobControlId=520778">Apply →</a></p>
 
 ---
-*Posted 2026-06-22 · Listing synced 2026-06-28 · 80k job ID `recqXr8Ia5iiAgtPG`*
+*Posted 2026-06-22 · Listing synced 2026-06-29 · 80k job ID `recqXr8Ia5iiAgtPG`*
