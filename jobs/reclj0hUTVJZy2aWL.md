@@ -2,7 +2,7 @@
 title: "Senior Security Engineer"
 employer: "Apollo Research"
 job_id: "reclj0hUTVJZy2aWL"
-last_updated: "2026-06-29T05:33:38.792711Z"
+last_updated: "2026-06-30T05:33:17.269911Z"
 posted_at: "2022-01-05T00:00:00Z"
 status: ready
 apply_url: "https://jobs.lever.co/apolloresearch/60487a21-28bd-4fbb-aedc-7045eb009c74"
@@ -19,7 +19,7 @@ areas:
 <dt>Role type</dt><dd>Full-time</dd>
 <dt>Experience</dt><dd>Mid (5-9 years experience)</dd>
 <dt>Degree</dt><dd>Undergraduate degree or less</dd>
-<dt>Salary</dt><dd>$171,662 – $264,096</dd>
+<dt>Salary</dt><dd>$171,993 – $264,605</dd>
 </dl>
 
 **Areas & skills:** AI safety & policy, Information security, Strategy
@@ -34,4 +34,4 @@ areas:
 <p class="apply-cta"><a href="https://jobs.lever.co/apolloresearch/60487a21-28bd-4fbb-aedc-7045eb009c74">Apply →</a></p>
 
 ---
-*Posted 2022-01-05 · Listing synced 2026-06-29 · 80k job ID `reclj0hUTVJZy2aWL`*
+*Posted 2022-01-05 · Listing synced 2026-06-30 · 80k job ID `reclj0hUTVJZy2aWL`*

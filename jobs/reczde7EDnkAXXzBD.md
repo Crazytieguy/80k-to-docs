@@ -2,7 +2,7 @@
 title: "Staff Software Engineer, Security Engineering, AI Compute"
 employer: "Biohub"
 job_id: "reczde7EDnkAXXzBD"
-last_updated: "2026-06-29T05:32:35.212874Z"
+last_updated: "2026-06-30T05:32:15.048530Z"
 posted_at: "2026-06-05T00:00:00Z"
 status: ready
 apply_url: "https://job-boards.greenhouse.io/biohub/jobs/7983994?gh_src=f5309c261us"
@@ -34,4 +34,4 @@ areas:
 <p class="apply-cta"><a href="https://job-boards.greenhouse.io/biohub/jobs/7983994?gh_src=f5309c261us">Apply →</a></p>
 
 ---
-*Posted 2026-06-05 · Listing synced 2026-06-29 · 80k job ID `reczde7EDnkAXXzBD`*
+*Posted 2026-06-05 · Listing synced 2026-06-30 · 80k job ID `reczde7EDnkAXXzBD`*

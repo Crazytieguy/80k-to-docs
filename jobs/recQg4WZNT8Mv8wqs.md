@@ -1,8 +1,8 @@
 ---
 title: "Research Fellowship"
-employer: "Heron Program for AI Security"
+employer: "Heron AI Security"
 job_id: "recQg4WZNT8Mv8wqs"
-last_updated: "2026-06-29T05:32:05.052731Z"
+last_updated: "2026-06-30T05:31:44.511440Z"
 posted_at: "2026-06-26T00:02:00Z"
 status: ready
 apply_url: "https://www.heronsec.ai/researchfellowship"
@@ -12,12 +12,12 @@ areas:
 
 # Research Fellowship
 
-**[Heron Program for AI Security](https://www.heronsec.ai/)**
+**[Heron AI Security](https://www.heronsec.ai/)**
 
 <dl class="job-meta">
 <dt>Location</dt><dd>London, UK, San Francisco Bay Area, Remote, Global, Tel Aviv, Israel, UK, USA, Middle-East, Israel</dd>
 <dt>Role type</dt><dd>Fellowship</dd>
-<dt>Experience</dt><dd>Mid (5-9 years experience)</dd>
+<dt>Experience</dt><dd>Mid (5-9 years experience), Senior (10+ years experience)</dd>
 <dt>Degree</dt><dd>Undergraduate degree or less</dd>
 </dl>
 
@@ -33,4 +33,4 @@ areas:
 <p class="apply-cta"><a href="https://www.heronsec.ai/researchfellowship">Apply →</a></p>
 
 ---
-*Posted 2026-06-26 · Listing synced 2026-06-29 · 80k job ID `recQg4WZNT8Mv8wqs`*
+*Posted 2026-06-26 · Listing synced 2026-06-30 · 80k job ID `recQg4WZNT8Mv8wqs`*

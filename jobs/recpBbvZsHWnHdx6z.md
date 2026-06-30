@@ -2,7 +2,7 @@
 title: "Manager, Communications and Marketing"
 employer: "Mercy for Animals"
 job_id: "recpBbvZsHWnHdx6z"
-last_updated: "2026-06-29T05:32:57.223239Z"
+last_updated: "2026-06-30T05:32:34.676057Z"
 posted_at: "2026-05-12T00:00:00Z"
 status: ready
 apply_url: "https://job-boards.greenhouse.io/mercyforanimals/jobs/7905926"
@@ -32,4 +32,4 @@ areas:
 <p class="apply-cta"><a href="https://job-boards.greenhouse.io/mercyforanimals/jobs/7905926">Apply →</a></p>
 
 ---
-*Posted 2026-05-12 · Listing synced 2026-06-29 · 80k job ID `recpBbvZsHWnHdx6z`*
+*Posted 2026-05-12 · Listing synced 2026-06-30 · 80k job ID `recpBbvZsHWnHdx6z`*

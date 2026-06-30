@@ -2,7 +2,7 @@
 title: "Head of Talent"
 employer: "BlueDot Impact"
 job_id: "recVEwb0iqID30Bq6"
-last_updated: "2026-06-29T05:33:39.693041Z"
+last_updated: "2026-06-30T05:33:18.155030Z"
 posted_at: "2022-01-05T00:00:00Z"
 status: ready
 apply_url: "https://bluedot.org/join-us/head-of-talent"
@@ -33,4 +33,4 @@ areas:
 <p class="apply-cta"><a href="https://bluedot.org/join-us/head-of-talent">Apply →</a></p>
 
 ---
-*Posted 2022-01-05 · Listing synced 2026-06-29 · 80k job ID `recVEwb0iqID30Bq6`*
+*Posted 2022-01-05 · Listing synced 2026-06-30 · 80k job ID `recVEwb0iqID30Bq6`*

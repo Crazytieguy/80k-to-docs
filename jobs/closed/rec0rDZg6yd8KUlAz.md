@@ -4,24 +4,20 @@ employer: "Lila Sciences"
 job_id: "rec0rDZg6yd8KUlAz"
 last_updated: "2026-06-29T05:32:21.828320Z"
 posted_at: "2026-06-15T00:00:00Z"
-status: ready
+status: closed
+closed_at: "2026-06-30"
 apply_url: "https://job-boards.greenhouse.io/lilasciences/jobs/4280808009"
 areas:
   - "Career development: Technical"
 ---
 
+> ⚠️ **CLOSED on 2026-06-30** — this job is no longer listed on the 80,000 Hours board. Archived snapshot below.
+
 # Co-op, Large Language Models for Decision Making
 
-**[Lila Sciences](https://www.lila.ai/)**
+**Lila Sciences**
 
-<dl class="job-meta">
-<dt>Location</dt><dd>Boston metro area, USA</dd>
-<dt>Role type</dt><dd>Internship</dd>
-<dt>Experience</dt><dd>Entry-level</dd>
-<dt>Degree</dt><dd>Undergraduate degree or less</dd>
-</dl>
-
-**Areas & skills:** Career development: Technical, Research, Software engineering
+**Areas & skills:** Career development: Technical
 
 ## Summary
 - In this role, you'll develop LLM-based decision-making methods combining language model reasoning with Bayesian optimization.

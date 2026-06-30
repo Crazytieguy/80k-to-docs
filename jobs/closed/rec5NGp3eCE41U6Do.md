@@ -4,25 +4,20 @@ employer: "SteadRise"
 job_id: "rec5NGp3eCE41U6Do"
 last_updated: "2026-06-29T05:32:18.853867Z"
 posted_at: "2026-06-16T00:01:00Z"
-status: ready
+status: closed
+closed_at: "2026-06-30"
 apply_url: "https://steadrise.notion.site/Director-of-Programs-36d20e14e1b780a5baf5d84bc65d1571"
 areas:
   - "AI safety & policy"
 ---
 
+> ⚠️ **CLOSED on 2026-06-30** — this job is no longer listed on the 80,000 Hours board. Archived snapshot below.
+
 # Director of Programs
 
-**[SteadRise](https://steadrise.org/)**
+**SteadRise**
 
-<dl class="job-meta">
-<dt>Location</dt><dd>London, UK, Remote, Global, UK, UK (Confirmed Visas)</dd>
-<dt>Role type</dt><dd>Full-time</dd>
-<dt>Experience</dt><dd>Mid (5-9 years experience)</dd>
-<dt>Degree</dt><dd>Undergraduate degree or less</dd>
-<dt>Salary</dt><dd>$112,241 – $132,048</dd>
-</dl>
-
-**Areas & skills:** AI safety & policy, Operations, Management, Strategy
+**Areas & skills:** AI safety & policy
 
 ## Summary
 - In this role, you'll lead programs transitioning experienced professionals into AI safety roles as a co-founder-style executive partner.

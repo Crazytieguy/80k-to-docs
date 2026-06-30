@@ -4,25 +4,20 @@ employer: "Center for AI Safety"
 job_id: "rec3FHjWil4mMQfQj"
 last_updated: "2026-06-29T05:33:13.647486Z"
 posted_at: "2022-01-11T00:00:00Z"
-status: ready
+status: closed
+closed_at: "2026-06-30"
 apply_url: "https://jobs.lever.co/aisafety/9c3ca73c-958b-4307-85f5-1daa445ca97e"
 areas:
   - "AI safety & policy"
 ---
 
+> ⚠️ **CLOSED on 2026-06-30** — this job is no longer listed on the 80,000 Hours board. Archived snapshot below.
+
 # Senior Research Scientist
 
-**[Center for AI Safety](https://www.cais.ai/)**
+**Center for AI Safety**
 
-<dl class="job-meta">
-<dt>Location</dt><dd>San Francisco Bay Area, USA</dd>
-<dt>Role type</dt><dd>Full-time</dd>
-<dt>Experience</dt><dd>Mid (5-9 years experience)</dd>
-<dt>Degree</dt><dd>Doctoral degree</dd>
-<dt>Salary</dt><dd>$200,000 – $250,000</dd>
-</dl>
-
-**Areas & skills:** AI safety & policy, Research, Software engineering
+**Areas & skills:** AI safety & policy
 
 ## Summary
 - In this role, you'll lead high-impact research on AI safety, owning end-to-end experiments from conception to publication.

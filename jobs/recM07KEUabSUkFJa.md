@@ -2,7 +2,7 @@
 title: "Communications Intern, French / Portuguese"
 employer: "Concentric Policies"
 job_id: "recM07KEUabSUkFJa"
-last_updated: "2026-06-29T05:33:52.869012Z"
+last_updated: "2026-06-30T05:33:30.031489Z"
 posted_at: "2022-01-02T00:00:00Z"
 status: ready
 apply_url: "https://docs.google.com/document/d/1FM0Wo6mxGcTquVcz0St28t6BGOEiNXw04CxW8O5c-0k/edit#heading=h.92fcxz3w7i3o"
@@ -33,4 +33,4 @@ areas:
 <p class="apply-cta"><a href="https://docs.google.com/document/d/1FM0Wo6mxGcTquVcz0St28t6BGOEiNXw04CxW8O5c-0k/edit#heading=h.92fcxz3w7i3o">Apply →</a></p>
 
 ---
-*Posted 2022-01-02 · Listing synced 2026-06-29 · 80k job ID `recM07KEUabSUkFJa`*
+*Posted 2022-01-02 · Listing synced 2026-06-30 · 80k job ID `recM07KEUabSUkFJa`*

@@ -4,25 +4,20 @@ employer: "Coefficient Giving"
 job_id: "rece8JThXwoyca1ZK"
 last_updated: "2026-06-29T05:32:19.578943Z"
 posted_at: "2026-06-16T00:00:00Z"
-status: ready
+status: closed
+closed_at: "2026-06-30"
 apply_url: "https://jobs.ashbyhq.com/coefficientgiving/61ad9392-f397-42a9-85a2-234ed820b39d"
 areas:
   - "Macrostrategy"
 ---
 
+> ⚠️ **CLOSED on 2026-06-30** — this job is no longer listed on the 80,000 Hours board. Archived snapshot below.
+
 # Operations Coordinator / Associate
 
-**[Coefficient Giving](https://coefficientgiving.org/)**
+**Coefficient Giving**
 
-<dl class="job-meta">
-<dt>Location</dt><dd>Washington, DC metro area, San Francisco Bay Area, USA</dd>
-<dt>Role type</dt><dd>Full-time</dd>
-<dt>Experience</dt><dd>Multiple experience levels</dd>
-<dt>Degree</dt><dd>Undergraduate degree or less</dd>
-<dt>Salary</dt><dd>$92,886 – $132,720</dd>
-</dl>
-
-**Areas & skills:** Macrostrategy, Operations
+**Areas & skills:** Macrostrategy
 
 ## Summary
 - In this role, you'll support Coefficient Giving's operations through office management, project coordination, and administrative support.

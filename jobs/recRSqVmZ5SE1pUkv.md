@@ -2,7 +2,7 @@
 title: "Intern, Multimodal Red-Teaming"
 employer: "AIM Intelligence"
 job_id: "recRSqVmZ5SE1pUkv"
-last_updated: "2026-06-29T05:32:09.255736Z"
+last_updated: "2026-06-30T05:31:48.432611Z"
 posted_at: "2026-06-23T00:00:00Z"
 status: ready
 apply_url: "https://career.aim-intelligence.com/ko/o/220465"
@@ -33,4 +33,4 @@ areas:
 <p class="apply-cta"><a href="https://career.aim-intelligence.com/ko/o/220465">Apply →</a></p>
 
 ---
-*Posted 2026-06-23 · Listing synced 2026-06-29 · 80k job ID `recRSqVmZ5SE1pUkv`*
+*Posted 2026-06-23 · Listing synced 2026-06-30 · 80k job ID `recRSqVmZ5SE1pUkv`*

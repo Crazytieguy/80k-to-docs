@@ -4,25 +4,20 @@ employer: "Coefficient Giving"
 job_id: "rec3JT0RnE5qfwxsy"
 last_updated: "2026-06-29T05:32:23.695615Z"
 posted_at: "2026-06-12T00:00:00Z"
-status: ready
+status: closed
+closed_at: "2026-06-30"
 apply_url: "https://jobs.ashbyhq.com/coefficientgiving/2458cd52-9dd7-4e10-8af3-999ae3418562"
 areas:
   - "Global health & development"
 ---
 
+> ⚠️ **CLOSED on 2026-06-30** — this job is no longer listed on the 80,000 Hours board. Archived snapshot below.
+
 # Program Officer / Senior Program Officer, Health Aid Transition
 
-**[Coefficient Giving](https://coefficientgiving.org/)**
+**Coefficient Giving**
 
-<dl class="job-meta">
-<dt>Location</dt><dd>Remote, Global</dd>
-<dt>Role type</dt><dd>Full-time</dd>
-<dt>Experience</dt><dd>Mid (5-9 years experience), Senior (10+ years experience)</dd>
-<dt>Degree</dt><dd>Undergraduate degree or less</dd>
-<dt>Salary</dt><dd>$196,000 – $223,500</dd>
-</dl>
-
-**Areas & skills:** Global health & development, Strategy
+**Areas & skills:** Global health & development
 
 ## Summary
 - In this role, you'll lead grantmaking efforts supporting low- and middle-income countries responding to declining health aid.

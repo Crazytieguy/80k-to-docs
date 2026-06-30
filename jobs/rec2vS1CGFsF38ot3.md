@@ -2,7 +2,7 @@
 title: "No.10 Innovation Fellowships"
 employer: "UK Government, 10 Downing Street"
 job_id: "rec2vS1CGFsF38ot3"
-last_updated: "2026-06-29T05:34:11.310041Z"
+last_updated: "2026-06-30T05:33:47.561270Z"
 posted_at: "2022-01-01T00:00:00Z"
 status: ready
 apply_url: "https://no10innovationfellows.campaign.gov.uk/"
@@ -19,7 +19,7 @@ areas:
 <dt>Role type</dt><dd>Fellowship</dd>
 <dt>Experience</dt><dd>Multiple experience levels</dd>
 <dt>Degree</dt><dd>Undergraduate degree or less</dd>
-<dt>Salary</dt><dd>$112,241 – $158,458</dd>
+<dt>Salary</dt><dd>$112,457 – $158,763</dd>
 </dl>
 
 **Areas & skills:** Career development: Policy & government, Research, Policy
@@ -34,4 +34,4 @@ areas:
 <p class="apply-cta"><a href="https://no10innovationfellows.campaign.gov.uk/">Apply →</a></p>
 
 ---
-*Posted 2022-01-01 · Listing synced 2026-06-29 · 80k job ID `rec2vS1CGFsF38ot3`*
+*Posted 2022-01-01 · Listing synced 2026-06-30 · 80k job ID `rec2vS1CGFsF38ot3`*

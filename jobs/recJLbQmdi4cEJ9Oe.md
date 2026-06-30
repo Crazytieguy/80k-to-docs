@@ -2,7 +2,7 @@
 title: "Volunteer Opportunities"
 employer: "PauseAI"
 job_id: "recJLbQmdi4cEJ9Oe"
-last_updated: "2026-06-29T05:33:34.010483Z"
+last_updated: "2026-06-30T05:33:12.515892Z"
 posted_at: "2022-01-06T00:00:00Z"
 status: ready
 apply_url: "https://pauseai.info/volunteer-vacancies"
@@ -29,4 +29,4 @@ areas:
 <p class="apply-cta"><a href="https://pauseai.info/volunteer-vacancies">Apply →</a></p>
 
 ---
-*Posted 2022-01-06 · Listing synced 2026-06-29 · 80k job ID `recJLbQmdi4cEJ9Oe`*
+*Posted 2022-01-06 · Listing synced 2026-06-30 · 80k job ID `recJLbQmdi4cEJ9Oe`*

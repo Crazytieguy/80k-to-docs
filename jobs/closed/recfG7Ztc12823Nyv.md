@@ -4,25 +4,20 @@ employer: "SteadRise"
 job_id: "recfG7Ztc12823Nyv"
 last_updated: "2026-06-29T05:32:19.066235Z"
 posted_at: "2026-06-16T00:01:00Z"
-status: ready
+status: closed
+closed_at: "2026-06-30"
 apply_url: "https://steadrise.notion.site/Director-of-Talent-Discovery-36d20e14e1b780a7864bfa5ae04ace93"
 areas:
   - "AI safety & policy"
 ---
 
+> ⚠️ **CLOSED on 2026-06-30** — this job is no longer listed on the 80,000 Hours board. Archived snapshot below.
+
 # Director of Talent Discovery
 
-**[SteadRise](https://steadrise.org/)**
+**SteadRise**
 
-<dl class="job-meta">
-<dt>Location</dt><dd>London, UK, Remote, Global, UK, UK (Confirmed Visas)</dd>
-<dt>Role type</dt><dd>Full-time</dd>
-<dt>Experience</dt><dd>Mid (5-9 years experience)</dd>
-<dt>Degree</dt><dd>Undergraduate degree or less</dd>
-<dt>Salary</dt><dd>$112,241 – $132,048</dd>
-</dl>
-
-**Areas & skills:** AI safety & policy, Outreach, Management, Strategy
+**Areas & skills:** AI safety & policy
 
 ## Summary
 - In this role, you'll build the systems and team that surface experienced talent for AI safety roles at scale.

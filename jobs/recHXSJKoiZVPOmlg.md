@@ -2,7 +2,7 @@
 title: "Communications Coordinator"
 employer: "The Future Society"
 job_id: "recHXSJKoiZVPOmlg"
-last_updated: "2026-06-29T05:32:08.365224Z"
+last_updated: "2026-06-30T05:31:47.714281Z"
 posted_at: "2026-06-23T00:04:39Z"
 status: ready
 apply_url: "https://thefuturesociety.org/work-with-us/"
@@ -34,4 +34,4 @@ areas:
 <p class="apply-cta"><a href="https://thefuturesociety.org/work-with-us/">Apply →</a></p>
 
 ---
-*Posted 2026-06-23 · Listing synced 2026-06-29 · 80k job ID `recHXSJKoiZVPOmlg`*
+*Posted 2026-06-23 · Listing synced 2026-06-30 · 80k job ID `recHXSJKoiZVPOmlg`*

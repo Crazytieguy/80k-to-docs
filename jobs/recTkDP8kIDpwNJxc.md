@@ -2,7 +2,7 @@
 title: "Intern, Education and Training Programme (x2)"
 employer: "Egmont Institute"
 job_id: "recTkDP8kIDpwNJxc"
-last_updated: "2026-06-29T05:32:13.277145Z"
+last_updated: "2026-06-30T05:31:52.425834Z"
 posted_at: "2026-06-19T00:00:00Z"
 status: ready
 apply_url: "https://egmontinstitute.be/jobs-internships-and-opportunities/"
@@ -32,4 +32,4 @@ areas:
 <p class="apply-cta"><a href="https://egmontinstitute.be/jobs-internships-and-opportunities/">Apply →</a></p>
 
 ---
-*Posted 2026-06-19 · Listing synced 2026-06-29 · 80k job ID `recTkDP8kIDpwNJxc`*
+*Posted 2026-06-19 · Listing synced 2026-06-30 · 80k job ID `recTkDP8kIDpwNJxc`*
