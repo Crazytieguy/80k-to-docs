@@ -4,25 +4,20 @@ employer: "Evitable"
 job_id: "recMx5eXofTfk0AfW"
 last_updated: "2026-06-30T05:32:12.391825Z"
 posted_at: "2026-06-08T00:01:00Z"
-status: ready
+status: closed
+closed_at: "2026-07-01"
 apply_url: "https://evitable.com/communications-director"
 areas:
   - "AI safety & policy"
 ---
 
+> ⚠️ **CLOSED on 2026-07-01** — this job is no longer listed on the 80,000 Hours board. Archived snapshot below.
+
 # Head of Communications
 
-**[Evitable](https://evitable.com/)**
+**Evitable**
 
-<dl class="job-meta">
-<dt>Location</dt><dd>San Francisco Bay Area, USA</dd>
-<dt>Role type</dt><dd>Full-time</dd>
-<dt>Experience</dt><dd>Mid (5-9 years experience), Senior (10+ years experience)</dd>
-<dt>Degree</dt><dd>Undergraduate degree or less</dd>
-<dt>Salary</dt><dd>$140,000 – $175,000</dd>
-</dl>
-
-**Areas & skills:** AI safety & policy, Outreach
+**Areas & skills:** AI safety & policy
 
 ## Summary
 - In this role, you'll own Evitable's communications strategy and shape the organisation's public narrative in contested media space.

@@ -4,24 +4,20 @@ employer: "Sequent"
 job_id: "reci8W5mQC7ZNeGR6"
 last_updated: "2026-06-30T05:32:05.839310Z"
 posted_at: "2026-06-11T00:02:00Z"
-status: ready
+status: closed
+closed_at: "2026-07-01"
 apply_url: "https://www.sequent.org/careers/research-engineer"
 areas:
   - "AI safety & policy"
 ---
 
+> ⚠️ **CLOSED on 2026-07-01** — this job is no longer listed on the 80,000 Hours board. Archived snapshot below.
+
 # Expression of Interest, Research Engineer
 
-**[Sequent](https://www.sequent.org/)**
+**Sequent**
 
-<dl class="job-meta">
-<dt>Location</dt><dd>San Francisco Bay Area, USA, USA (Confirmed Visas)</dd>
-<dt>Role type</dt><dd>Full-time</dd>
-<dt>Experience</dt><dd>Junior (1-4 years experience), Mid (5-9 years experience)</dd>
-<dt>Degree</dt><dd>Undergraduate degree or less</dd>
-</dl>
-
-**Areas & skills:** AI safety & policy, Research, Software engineering
+**Areas & skills:** AI safety & policy
 
 ## Summary
 - In this role, you'll build core research infrastructure and automation tooling for AI alignment research.

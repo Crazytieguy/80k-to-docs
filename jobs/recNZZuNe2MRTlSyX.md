@@ -2,7 +2,7 @@
 title: "Chief Operating Officer"
 employer: "Sentinel Bio"
 job_id: "recNZZuNe2MRTlSyX"
-last_updated: "2026-06-30T05:32:07.919329Z"
+last_updated: "2026-07-01T05:32:43.605789Z"
 posted_at: "2026-06-10T00:03:00Z"
 status: ready
 apply_url: "https://sentinelbio.org/chief-operating-officer/"
@@ -22,7 +22,7 @@ areas:
 <dt>Salary</dt><dd>$220,000 – $260,000</dd>
 </dl>
 
-**Areas & skills:** Biosecurity & pandemic preparedness, Operations, Management, Finance, Strategy
+**Areas & skills:** Biosecurity & pandemic preparedness, Operations, Strategy, Management, Finance
 
 ## Summary
 - In this role, you'll build operational infrastructure and strategy to scale Sentinel Bio toward deploying >$100M by 2030.
@@ -34,4 +34,4 @@ areas:
 <p class="apply-cta"><a href="https://sentinelbio.org/chief-operating-officer/">Apply →</a></p>
 
 ---
-*Posted 2026-06-10 · Listing synced 2026-06-30 · 80k job ID `recNZZuNe2MRTlSyX`*
+*Posted 2026-06-10 · Listing synced 2026-07-01 · 80k job ID `recNZZuNe2MRTlSyX`*

@@ -4,25 +4,20 @@ employer: "Massachusetts Institute of Technology, Lincoln Laboratory"
 job_id: "rec4O05OFEjOD11em"
 last_updated: "2026-06-30T05:33:35.465078Z"
 posted_at: "2022-01-02T00:00:00Z"
-status: ready
+status: closed
+closed_at: "2026-07-01"
 apply_url: "https://careers.ll.mit.edu/job/Lexington-Group-05-59-CO-OP-%28RE%29-Cyber-System-Assessments-July-December-2026-MA-02420/1361577000/"
 areas:
   - "Career development: Technical"
 ---
 
+> ⚠️ **CLOSED on 2026-07-01** — this job is no longer listed on the 80,000 Hours board. Archived snapshot below.
+
 # Co-op, Cyber System Assessments, Malware
 
-**[Massachusetts Institute of Technology, Lincoln Laboratory](https://www.ll.mit.edu/)**
+**Massachusetts Institute of Technology, Lincoln Laboratory**
 
-<dl class="job-meta">
-<dt>Location</dt><dd>Boston metro area, USA</dd>
-<dt>Role type</dt><dd>Internship</dd>
-<dt>Experience</dt><dd>Entry-level</dd>
-<dt>Degree</dt><dd>Undergraduate degree or less</dd>
-<dt>Salary</dt><dd>$50,960 – $64,480</dd>
-</dl>
-
-**Areas & skills:** Career development: Technical, Software engineering, Information security
+**Areas & skills:** Career development: Technical
 
 ## Summary
 - In this role, you'll conduct research and development on offensive software (malware) within a cyber security team at MIT Lincoln Laboratory.

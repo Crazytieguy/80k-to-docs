@@ -2,7 +2,7 @@
 title: "Staff / Principal Research Engineer, AI Safety, Technical Mitigations"
 employer: "Lila Sciences"
 job_id: "rec1Rx2VsBD0VxBff"
-last_updated: "2026-06-30T05:33:10.680296Z"
+last_updated: "2026-07-01T05:33:44.483753Z"
 posted_at: "2022-01-06T00:00:00Z"
 status: ready
 apply_url: "https://job-boards.greenhouse.io/lilasciences/jobs/4210472009"
@@ -34,4 +34,4 @@ areas:
 <p class="apply-cta"><a href="https://job-boards.greenhouse.io/lilasciences/jobs/4210472009">Apply →</a></p>
 
 ---
-*Posted 2022-01-06 · Listing synced 2026-06-30 · 80k job ID `rec1Rx2VsBD0VxBff`*
+*Posted 2022-01-06 · Listing synced 2026-07-01 · 80k job ID `rec1Rx2VsBD0VxBff`*

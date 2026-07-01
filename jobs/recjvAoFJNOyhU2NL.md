@@ -2,7 +2,7 @@
 title: "Expression of Interest"
 employer: "Epoch AI"
 job_id: "recjvAoFJNOyhU2NL"
-last_updated: "2026-06-30T05:32:51.691819Z"
+last_updated: "2026-07-01T05:33:27.243764Z"
 posted_at: "2022-01-11T00:00:00Z"
 status: ready
 apply_url: "https://jobs.lever.co/epoch-ai/137cb0dc-03a6-4747-b9dc-8255194daee2"
@@ -21,7 +21,7 @@ areas:
 <dt>Degree</dt><dd>Undergraduate degree or less</dd>
 </dl>
 
-**Areas & skills:** AI governance, Research, Outreach, Operations, Software engineering
+**Areas & skills:** AI governance, Research, Operations, Software engineering, Outreach
 
 ## Summary
 - Submit an Expression of Interest to be contacted for future roles at Epoch.
@@ -34,4 +34,4 @@ areas:
 <p class="apply-cta"><a href="https://jobs.lever.co/epoch-ai/137cb0dc-03a6-4747-b9dc-8255194daee2">Apply →</a></p>
 
 ---
-*Posted 2022-01-11 · Listing synced 2026-06-30 · 80k job ID `recjvAoFJNOyhU2NL`*
+*Posted 2022-01-11 · Listing synced 2026-07-01 · 80k job ID `recjvAoFJNOyhU2NL`*

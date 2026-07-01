@@ -4,25 +4,20 @@ employer: "Vienna Center for Disarmament and Non-Proliferation"
 job_id: "rec95d1YQ6wsaiUSS"
 last_updated: "2026-06-30T05:32:37.234210Z"
 posted_at: "2026-05-05T00:01:00Z"
-status: ready
+status: closed
+closed_at: "2026-07-01"
 apply_url: "https://vcdnp.org/fall-2026-internship/"
 areas:
   - "Nuclear security"
 ---
 
+> ⚠️ **CLOSED on 2026-07-01** — this job is no longer listed on the 80,000 Hours board. Archived snapshot below.
+
 # Internship (Fall 2026)
 
-**[Vienna Center for Disarmament and Non-Proliferation](https://vcdnp.org/)**
+**Vienna Center for Disarmament and Non-Proliferation**
 
-<dl class="job-meta">
-<dt>Location</dt><dd>Vienna, Austria, Austria, Europe (ex UK)</dd>
-<dt>Role type</dt><dd>Internship</dd>
-<dt>Experience</dt><dd>Entry-level</dd>
-<dt>Degree</dt><dd>Undergraduate degree or less</dd>
-<dt>Salary</dt><dd>$13,669</dd>
-</dl>
-
-**Areas & skills:** Nuclear security, Research, Policy
+**Areas & skills:** Nuclear security
 
 ## Summary
 - In this role, you'll conduct research and support work on nuclear non-proliferation and disarmament issues within an international policy organisation.

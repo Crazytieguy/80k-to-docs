@@ -2,7 +2,7 @@
 title: "Senior Researcher"
 employer: "GiveWell"
 job_id: "reciuWp0thykbtSat"
-last_updated: "2026-06-30T05:32:58.550155Z"
+last_updated: "2026-07-01T05:33:34.145629Z"
 posted_at: "2022-01-07T00:00:00Z"
 status: ready
 apply_url: "https://job-boards.greenhouse.io/givewell/jobs/4253692008"
@@ -15,7 +15,7 @@ areas:
 **[GiveWell](https://www.givewell.org)**
 
 <dl class="job-meta">
-<dt>Location</dt><dd>San Francisco Bay Area, Remote, Global, USA, USA (Confirmed Visas)</dd>
+<dt>Location</dt><dd>Remote, Global, San Francisco Bay Area, USA, USA (Confirmed Visas)</dd>
 <dt>Role type</dt><dd>Full-time, Part-time</dd>
 <dt>Experience</dt><dd>Mid (5-9 years experience)</dd>
 <dt>Degree</dt><dd>Undergraduate degree or less</dd>
@@ -34,4 +34,4 @@ areas:
 <p class="apply-cta"><a href="https://job-boards.greenhouse.io/givewell/jobs/4253692008">Apply →</a></p>
 
 ---
-*Posted 2022-01-07 · Listing synced 2026-06-30 · 80k job ID `reciuWp0thykbtSat`*
+*Posted 2022-01-07 · Listing synced 2026-07-01 · 80k job ID `reciuWp0thykbtSat`*

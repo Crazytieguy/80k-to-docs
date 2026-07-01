@@ -4,24 +4,20 @@ employer: "Giving What We Can"
 job_id: "recmYNHjfd85XjjeF"
 last_updated: "2026-06-30T05:32:59.287903Z"
 posted_at: "2022-01-07T00:00:00Z"
-status: ready
+status: closed
+closed_at: "2026-07-01"
 apply_url: "https://www.givingwhatwecan.org/seeking-founders-for-new-effective-giving-organisations"
 areas:
   - "Building effective altruism"
 ---
 
+> ⚠️ **CLOSED on 2026-07-01** — this job is no longer listed on the 80,000 Hours board. Archived snapshot below.
+
 # Founders For New Effective Giving Organisations (Expression of Interest)
 
-**[Giving What We Can](https://www.givingwhatwecan.org/)**
+**Giving What We Can**
 
-<dl class="job-meta">
-<dt>Location</dt><dd>Remote, Global, Various, Global</dd>
-<dt>Role type</dt><dd>Full-time</dd>
-<dt>Experience</dt><dd>Multiple experience levels</dd>
-<dt>Degree</dt><dd>Undergraduate degree or less</dd>
-</dl>
-
-**Areas & skills:** Building effective altruism, Outreach, Operations, Legal
+**Areas & skills:** Building effective altruism
 
 ## Summary
 - Giving What We Can is looking to help (initially volunteer-led) founding teams organise to grow effective giving in more locations around the world.

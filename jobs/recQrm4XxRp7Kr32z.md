@@ -2,7 +2,7 @@
 title: "Winter Fellowship, DC (2027)"
 employer: "GovAI"
 job_id: "recQrm4XxRp7Kr32z"
-last_updated: "2026-06-30T05:31:58.617103Z"
+last_updated: "2026-07-01T05:32:34.824502Z"
 posted_at: "2026-06-16T00:05:00Z"
 status: ready
 apply_url: "https://www.governance.ai/post/dc-winter-fellowship-2027"
@@ -34,4 +34,4 @@ areas:
 <p class="apply-cta"><a href="https://www.governance.ai/post/dc-winter-fellowship-2027">Apply →</a></p>
 
 ---
-*Posted 2026-06-16 · Listing synced 2026-06-30 · 80k job ID `recQrm4XxRp7Kr32z`*
+*Posted 2026-06-16 · Listing synced 2026-07-01 · 80k job ID `recQrm4XxRp7Kr32z`*

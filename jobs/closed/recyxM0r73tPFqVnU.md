@@ -4,25 +4,20 @@ employer: "Animal Charity Evaluators"
 job_id: "recyxM0r73tPFqVnU"
 last_updated: "2026-06-30T05:32:17.736288Z"
 posted_at: "2026-06-03T00:00:00Z"
-status: ready
+status: closed
+closed_at: "2026-07-01"
 apply_url: "https://animalcharityevaluators.org/about/our-team/join-our-team/researcher/"
 areas:
   - "Animal welfare"
 ---
 
+> ⚠️ **CLOSED on 2026-07-01** — this job is no longer listed on the 80,000 Hours board. Archived snapshot below.
+
 # Researcher
 
-**[Animal Charity Evaluators](https://animalcharityevaluators.org)**
+**Animal Charity Evaluators**
 
-<dl class="job-meta">
-<dt>Location</dt><dd>Remote, Global</dd>
-<dt>Role type</dt><dd>Full-time</dd>
-<dt>Experience</dt><dd>Junior (1-4 years experience)</dd>
-<dt>Degree</dt><dd>Undergraduate degree or less</dd>
-<dt>Salary</dt><dd>$72,358</dd>
-</dl>
-
-**Areas & skills:** Animal welfare, Research
+**Areas & skills:** Animal welfare
 
 ## Summary
 - In this role, you'll research animal advocacy strategies to evaluate charities and inform funding decisions.

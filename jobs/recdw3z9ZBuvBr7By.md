@@ -2,7 +2,7 @@
 title: "Assistant Professor / Associate Professor / Professor"
 employer: "National University of Singapore, Asia Centre for Health Security"
 job_id: "recdw3z9ZBuvBr7By"
-last_updated: "2026-06-30T05:33:25.154074Z"
+last_updated: "2026-07-01T05:33:59.805826Z"
 posted_at: "2022-01-04T00:00:00Z"
 status: ready
 apply_url: "https://sph.nus.edu.sg/about/careers/"
@@ -25,13 +25,12 @@ areas:
 
 ## Summary
 - The Saw Swee Hock School of Public Health, National University of Singapore, is inviting applications for full-time Assistant Professor/Associate Professor/Professor appointments on the tenure/research/practice track.
-- Focus areas include Epidemiology and Modelling, Health Security, Health Systems and Policy.
 - Establish an independent research agenda through securing extramural funding.
 - Develop and participate in collaborative, multidisciplinary research initiatives.
 - Design and teach undergraduate and graduate courses in public health.
-- Supervise and advise postgraduate students.
+- Our take on this role: We think the focus areas of Epidemiology and Modelling, Health Security, Health Systems and Policy are promising for biosecurity work.
 
 <p class="apply-cta"><a href="https://sph.nus.edu.sg/about/careers/">Apply →</a></p>
 
 ---
-*Posted 2022-01-04 · Listing synced 2026-06-30 · 80k job ID `recdw3z9ZBuvBr7By`*
+*Posted 2022-01-04 · Listing synced 2026-07-01 · 80k job ID `recdw3z9ZBuvBr7By`*

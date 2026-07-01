@@ -4,25 +4,20 @@ employer: "Impact Ops"
 job_id: "rech4XQL1frb2Idve"
 last_updated: "2026-06-30T05:32:11.370017Z"
 posted_at: "2026-06-09T00:00:00Z"
-status: ready
+status: closed
+closed_at: "2026-07-01"
 apply_url: "https://impact-ops.org/jobs/finance-associate-2/"
 areas:
   - "Building effective altruism"
 ---
 
+> ⚠️ **CLOSED on 2026-07-01** — this job is no longer listed on the 80,000 Hours board. Archived snapshot below.
+
 # Finance Associate, UK and US
 
-**[Impact Ops](https://impact-ops.org/)**
+**Impact Ops**
 
-<dl class="job-meta">
-<dt>Location</dt><dd>Remote, Global</dd>
-<dt>Role type</dt><dd>Full-time</dd>
-<dt>Experience</dt><dd>Junior (1-4 years experience)</dd>
-<dt>Degree</dt><dd>Undergraduate degree or less</dd>
-<dt>Salary</dt><dd>$55,567 – $63,505</dd>
-</dl>
-
-**Areas & skills:** Building effective altruism, Finance
+**Areas & skills:** Building effective altruism
 
 ## Summary
 - In this role, you'll manage day-to-day finance operations for UK and US nonprofit clients, handling bookkeeping, reporting, and compliance.

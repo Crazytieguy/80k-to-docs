@@ -2,7 +2,7 @@
 title: "Intern, Political-Military Analysis (Spring 2026)"
 employer: "Hudson Institute"
 job_id: "recLRvKNOr66Nc0vP"
-last_updated: "2026-06-30T05:33:33.525705Z"
+last_updated: "2026-07-01T05:34:09.352630Z"
 posted_at: "2022-01-02T00:00:00Z"
 status: ready
 apply_url: "https://recruiting.paylocity.com/Recruiting/Jobs/Details/3690340"
@@ -33,4 +33,4 @@ areas:
 <p class="apply-cta"><a href="https://recruiting.paylocity.com/Recruiting/Jobs/Details/3690340">Apply →</a></p>
 
 ---
-*Posted 2022-01-02 · Listing synced 2026-06-30 · 80k job ID `recLRvKNOr66Nc0vP`*
+*Posted 2022-01-02 · Listing synced 2026-07-01 · 80k job ID `recLRvKNOr66Nc0vP`*

@@ -4,25 +4,20 @@ employer: "Mirror Biology Dialogues Fund"
 job_id: "recWtRUVvhtJ7edtk"
 last_updated: "2026-06-30T05:31:56.227175Z"
 posted_at: "2026-06-17T00:03:00Z"
-status: ready
+status: closed
+closed_at: "2026-07-01"
 apply_url: "https://mirrorbiologydialoguesfund.applytojob.com/apply/vTPLZaRyu2/Executive-Directors-Associate?source=Our+Career+Page+Widget"
 areas:
   - "Biosecurity & pandemic preparedness"
 ---
 
+> ⚠️ **CLOSED on 2026-07-01** — this job is no longer listed on the 80,000 Hours board. Archived snapshot below.
+
 # Executive Director's Associate
 
-**[Mirror Biology Dialogues Fund](https://www.mbdialogues.org/)**
+**Mirror Biology Dialogues Fund**
 
-<dl class="job-meta">
-<dt>Location</dt><dd>Remote, Global</dd>
-<dt>Role type</dt><dd>Full-time</dd>
-<dt>Experience</dt><dd>Junior (1-4 years experience), Mid (5-9 years experience)</dd>
-<dt>Degree</dt><dd>Undergraduate degree or less</dd>
-<dt>Salary</dt><dd>$99,227 – $138,918</dd>
-</dl>
-
-**Areas & skills:** Biosecurity & pandemic preparedness, Operations
+**Areas & skills:** Biosecurity & pandemic preparedness
 
 ## Summary
 - In this role, you'll serve as the Executive Director's right hand, multiplying their effectiveness.

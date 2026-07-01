@@ -2,13 +2,13 @@
 title: "List of Staff Opportunities, U.S. Senate"
 employer: "US Government, Senate"
 job_id: "recFZtf6iBYl56gII"
-last_updated: "2026-06-30T05:31:49.000739Z"
-posted_at: "2026-06-23T00:00:00Z"
+last_updated: "2026-07-01T05:32:20.111738Z"
+posted_at: "2026-06-30T00:00:00Z"
 status: ready
 apply_url: "https://www.senate.gov/employment/po/positions.htm"
 areas:
-  - "Congressional staffer"
   - "Career development: Policy & government"
+  - "Congressional staffer"
 ---
 
 # List of Staff Opportunities, U.S. Senate
@@ -22,7 +22,7 @@ areas:
 <dt>Degree</dt><dd>Undergraduate degree or less</dd>
 </dl>
 
-**Areas & skills:** Congressional staffer, Career development: Policy & government, Research, Policy, Operations
+**Areas & skills:** Career development: Policy & government, Congressional staffer, Policy, Operations, Research
 
 ## Summary
 - You can find opportunities working in offices within the United States Senate via the The Senate Employment Bulletin.
@@ -32,4 +32,4 @@ areas:
 <p class="apply-cta"><a href="https://www.senate.gov/employment/po/positions.htm">Apply →</a></p>
 
 ---
-*Posted 2026-06-23 · Listing synced 2026-06-30 · 80k job ID `recFZtf6iBYl56gII`*
+*Posted 2026-06-30 · Listing synced 2026-07-01 · 80k job ID `recFZtf6iBYl56gII`*

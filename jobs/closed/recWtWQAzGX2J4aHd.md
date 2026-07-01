@@ -4,25 +4,20 @@ employer: "US Government, Office of Management and Budget"
 job_id: "recWtWQAzGX2J4aHd"
 last_updated: "2026-06-30T05:31:47.861716Z"
 posted_at: "2026-06-23T00:03:00Z"
-status: ready
+status: closed
+closed_at: "2026-07-01"
 apply_url: "https://www.usajobs.gov/job/873842400"
 areas:
   - "AI safety & policy"
 ---
 
+> ⚠️ **CLOSED on 2026-07-01** — this job is no longer listed on the 80,000 Hours board. Archived snapshot below.
+
 # Supervisory Program Analyst, Artificial Intelligence
 
-**[US Government, Office of Management and Budget](https://www.whitehouse.gov/omb/)**
+**US Government, Office of Management and Budget**
 
-<dl class="job-meta">
-<dt>Location</dt><dd>Washington, DC metro area, USA</dd>
-<dt>Role type</dt><dd>Full-time</dd>
-<dt>Experience</dt><dd>Senior (10+ years experience)</dd>
-<dt>Degree</dt><dd>Undergraduate degree or less</dd>
-<dt>Salary</dt><dd>$169,279 – $197,200</dd>
-</dl>
-
-**Areas & skills:** AI safety & policy, Policy, Management
+**Areas & skills:** AI safety & policy
 
 ## Summary
 - In this role, you'll supervise a team managing artificial intelligence policy development and federal governance implementation.

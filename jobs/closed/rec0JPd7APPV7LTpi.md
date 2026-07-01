@@ -4,25 +4,20 @@ employer: "Anthropic"
 job_id: "rec0JPd7APPV7LTpi"
 last_updated: "2026-06-30T05:32:48.039174Z"
 posted_at: "2022-01-11T00:00:00Z"
-status: ready
+status: closed
+closed_at: "2026-07-01"
 apply_url: "https://job-boards.greenhouse.io/anthropic/jobs/4778843008"
 areas:
   - "AI safety & policy"
 ---
 
+> ⚠️ **CLOSED on 2026-07-01** — this job is no longer listed on the 80,000 Hours board. Archived snapshot below.
+
 # ML Infrastructure Engineer, Safeguards
 
-**[Anthropic](https://www.anthropic.com/)**
+**Anthropic**
 
-<dl class="job-meta">
-<dt>Location</dt><dd>San Francisco Bay Area, USA, USA (Confirmed Visas)</dd>
-<dt>Role type</dt><dd>Full-time</dd>
-<dt>Experience</dt><dd>Mid (5-9 years experience)</dd>
-<dt>Degree</dt><dd>Undergraduate degree or less</dd>
-<dt>Salary</dt><dd>$300,000 – $405,000</dd>
-</dl>
-
-**Areas & skills:** AI safety & policy, Software engineering, Information security
+**Areas & skills:** AI safety & policy
 
 ## Summary
 - In this role, you'll build and scale critical infrastructure that powers Anthropic's AI safety systems, working at the intersection of machine learning and distributed systems.

@@ -4,25 +4,20 @@ employer: "Anthropic"
 job_id: "rec26yWRs3CFZBpzw"
 last_updated: "2026-06-30T05:32:44.999190Z"
 posted_at: "2022-01-12T00:00:00Z"
-status: ready
+status: closed
+closed_at: "2026-07-01"
 apply_url: "https://job-boards.greenhouse.io/anthropic/jobs/4532887008"
 areas:
   - "AI safety & policy"
 ---
 
+> ⚠️ **CLOSED on 2026-07-01** — this job is no longer listed on the 80,000 Hours board. Archived snapshot below.
+
 # Research Scientist / Engineer, Honesty
 
-**[Anthropic](https://www.anthropic.com/)**
+**Anthropic**
 
-<dl class="job-meta">
-<dt>Location</dt><dd>San Francisco Bay Area, USA, USA (Confirmed Visas)</dd>
-<dt>Role type</dt><dd>Full-time</dd>
-<dt>Experience</dt><dd>Junior (1-4 years experience), Mid (5-9 years experience)</dd>
-<dt>Degree</dt><dd>Master's degree</dd>
-<dt>Salary</dt><dd>$280,000 – $425,000</dd>
-</dl>
-
-**Areas & skills:** AI safety & policy, Research, Software engineering
+**Areas & skills:** AI safety & policy
 
 ## Summary
 - As a Research Scientist/Engineer focused on honesty within the Finetuning Alignment team, you'll spearhead the development of techniques to minimise hallucinations and enhance truthfulness in language models.

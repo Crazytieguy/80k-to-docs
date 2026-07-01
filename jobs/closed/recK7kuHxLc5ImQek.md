@@ -4,24 +4,20 @@ employer: "AIM Intelligence"
 job_id: "recK7kuHxLc5ImQek"
 last_updated: "2026-06-30T05:31:48.286676Z"
 posted_at: "2026-06-23T00:00:00Z"
-status: ready
+status: closed
+closed_at: "2026-07-01"
 apply_url: "https://career.aim-intelligence.com/ko/o/220466"
 areas:
   - "Career development: Technical"
 ---
 
+> ⚠️ **CLOSED on 2026-07-01** — this job is no longer listed on the 80,000 Hours board. Archived snapshot below.
+
 # Intern, Agent Safety and Security
 
-**[AIM Intelligence](https://www.aim-intelligence.com/)**
+**AIM Intelligence**
 
-<dl class="job-meta">
-<dt>Location</dt><dd>Seoul, South Korea, Asia, South Korea</dd>
-<dt>Role type</dt><dd>Internship</dd>
-<dt>Experience</dt><dd>Entry-level</dd>
-<dt>Degree</dt><dd>Undergraduate degree or less</dd>
-</dl>
-
-**Areas & skills:** Career development: Technical, Research, Software engineering, Information security
+**Areas & skills:** Career development: Technical
 
 ## Summary
 - In this role, you'll identify vulnerabilities in LLM Agent systems and design attack scenarios.

@@ -2,7 +2,7 @@
 title: "Technical Lead, Safety Research"
 employer: "OpenAI"
 job_id: "recBCfddcjQlQv5eb"
-last_updated: "2026-06-30T05:32:53.652930Z"
+last_updated: "2026-07-01T05:33:29.333376Z"
 posted_at: "2022-01-11T00:00:00Z"
 status: ready
 apply_url: "https://openai.com/careers/technical-lead-safety-research-san-francisco/"
@@ -34,4 +34,4 @@ areas:
 <p class="apply-cta"><a href="https://openai.com/careers/technical-lead-safety-research-san-francisco/">Apply →</a></p>
 
 ---
-*Posted 2022-01-11 · Listing synced 2026-06-30 · 80k job ID `recBCfddcjQlQv5eb`*
+*Posted 2022-01-11 · Listing synced 2026-07-01 · 80k job ID `recBCfddcjQlQv5eb`*

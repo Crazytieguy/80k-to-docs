@@ -2,7 +2,7 @@
 title: "Teacher, Law Programme"
 employer: "ML4Good"
 job_id: "recTvjDMsXrbmdH3A"
-last_updated: "2026-06-30T05:32:34.313887Z"
+last_updated: "2026-07-01T05:33:10.611001Z"
 posted_at: "2026-05-12T00:03:00Z"
 status: ready
 apply_url: "https://ml4good.org/jobs/law-programme-teacher/"
@@ -19,7 +19,7 @@ areas:
 <dt>Role type</dt><dd>Full-time</dd>
 <dt>Experience</dt><dd>Junior (1-4 years experience)</dd>
 <dt>Degree</dt><dd>Undergraduate degree or less</dd>
-<dt>Salary</dt><dd>$2,157</dd>
+<dt>Salary</dt><dd>$2,159</dd>
 </dl>
 
 **Areas & skills:** AI safety & policy, Other
@@ -34,4 +34,4 @@ areas:
 <p class="apply-cta"><a href="https://ml4good.org/jobs/law-programme-teacher/">Apply →</a></p>
 
 ---
-*Posted 2026-05-12 · Listing synced 2026-06-30 · 80k job ID `recTvjDMsXrbmdH3A`*
+*Posted 2026-05-12 · Listing synced 2026-07-01 · 80k job ID `recTvjDMsXrbmdH3A`*

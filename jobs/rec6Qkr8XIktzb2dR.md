@@ -2,7 +2,7 @@
 title: "Research Associate, China Strategy Initiative"
 employer: "Council on Foreign Relations"
 job_id: "rec6Qkr8XIktzb2dR"
-last_updated: "2026-06-30T05:32:33.906827Z"
+last_updated: "2026-07-01T05:33:10.228161Z"
 posted_at: "2026-05-13T00:00:00Z"
 status: ready
 apply_url: "https://careers-cfr.icims.com/jobs/2928/research-associate%2c-china-strategy-initiative/job?in_iframe=1"
@@ -17,7 +17,7 @@ areas:
 <dl class="job-meta">
 <dt>Location</dt><dd>Washington, DC metro area, USA</dd>
 <dt>Role type</dt><dd>Full-time</dd>
-<dt>Experience</dt><dd>Junior (1-4 years experience), Entry-level</dd>
+<dt>Experience</dt><dd>Entry-level, Junior (1-4 years experience)</dd>
 <dt>Degree</dt><dd>Undergraduate degree or less</dd>
 <dt>Salary</dt><dd>$55,000 – $58,000</dd>
 </dl>
@@ -34,4 +34,4 @@ areas:
 <p class="apply-cta"><a href="https://careers-cfr.icims.com/jobs/2928/research-associate%2c-china-strategy-initiative/job?in_iframe=1">Apply →</a></p>
 
 ---
-*Posted 2026-05-13 · Listing synced 2026-06-30 · 80k job ID `rec6Qkr8XIktzb2dR`*
+*Posted 2026-05-13 · Listing synced 2026-07-01 · 80k job ID `rec6Qkr8XIktzb2dR`*

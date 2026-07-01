@@ -4,24 +4,20 @@ employer: "One Acre Fund"
 job_id: "rec9Zi6PIMc0niGSl"
 last_updated: "2026-06-30T05:33:36.261046Z"
 posted_at: "2022-01-02T00:00:00Z"
-status: ready
+status: closed
+closed_at: "2026-07-01"
 apply_url: "https://oneacrefund.org/vacancies/finance-trainee"
 areas:
   - "Global health & development"
 ---
 
+> ⚠️ **CLOSED on 2026-07-01** — this job is no longer listed on the 80,000 Hours board. Archived snapshot below.
+
 # Finance Trainee
 
-**[One Acre Fund](https://oneacrefund.org/)**
+**One Acre Fund**
 
-<dl class="job-meta">
-<dt>Location</dt><dd>Kigali, Rwanda, Africa, Rwanda</dd>
-<dt>Role type</dt><dd>Full-time</dd>
-<dt>Experience</dt><dd>Junior (1-4 years experience)</dd>
-<dt>Degree</dt><dd>Undergraduate degree or less</dd>
-</dl>
-
-**Areas & skills:** Global health & development, Finance
+**Areas & skills:** Global health & development
 
 ## Summary
 - In this role, you'll ensure financial accuracy and steward resources for farmers while growing expertise in reporting and treasury operations.

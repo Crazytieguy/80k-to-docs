@@ -4,24 +4,20 @@ employer: "Braintrust Data"
 job_id: "recaVfsStee8vp5NN"
 last_updated: "2026-06-30T05:33:29.234074Z"
 posted_at: "2022-01-02T00:00:00Z"
-status: ready
+status: closed
+closed_at: "2026-07-01"
 apply_url: "https://www.braintrust.dev/careers?ashby_jid=8b9cfa26-627f-442c-a358-783b0e4ef930"
 areas:
   - "Career development: Technical"
 ---
 
+> ⚠️ **CLOSED on 2026-07-01** — this job is no longer listed on the 80,000 Hours board. Archived snapshot below.
+
 # Software Engineer, Systems
 
-**[Braintrust Data](https://www.braintrustdata.com/)**
+**Braintrust Data**
 
-<dl class="job-meta">
-<dt>Location</dt><dd>San Francisco Bay Area, USA</dd>
-<dt>Role type</dt><dd>Full-time</dd>
-<dt>Experience</dt><dd>Junior (1-4 years experience)</dd>
-<dt>Degree</dt><dd>Undergraduate degree or less</dd>
-</dl>
-
-**Areas & skills:** Career development: Technical, Software engineering
+**Areas & skills:** Career development: Technical
 
 ## Summary
 - This role requires a software engineer who has a passion for building high-performance data processing systems.

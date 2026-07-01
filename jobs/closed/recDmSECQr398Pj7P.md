@@ -4,25 +4,20 @@ employer: "Semilla Nueva"
 job_id: "recDmSECQr398Pj7P"
 last_updated: "2026-06-30T05:33:46.671457Z"
 posted_at: "2022-01-01T00:00:00Z"
-status: ready
+status: closed
+closed_at: "2026-07-01"
 apply_url: "https://semillanueva.org/deputy-chief-of-party-usaid-feed-the-future-farming-for-nutrition-activity/"
 areas:
   - "Global health & development"
 ---
 
+> ⚠️ **CLOSED on 2026-07-01** — this job is no longer listed on the 80,000 Hours board. Archived snapshot below.
+
 # Deputy Chief of Party, USAID Feed the Future, Farming for Nutrition Activity
 
-**[Semilla Nueva](https://semillanueva.org/)**
+**Semilla Nueva**
 
-<dl class="job-meta">
-<dt>Location</dt><dd>Central America, Guatemala</dd>
-<dt>Role type</dt><dd>Full-time</dd>
-<dt>Experience</dt><dd>Senior (10+ years experience)</dd>
-<dt>Degree</dt><dd>Undergraduate degree or less</dd>
-<dt>Salary</dt><dd>$60,000 – $75,000</dd>
-</dl>
-
-**Areas & skills:** Global health & development, Operations, Strategy
+**Areas & skills:** Global health & development
 
 ## Summary
 - In this role, the Deputy Chief of Party will support the Chief of Party in all technical, operational, and management aspects of the project.

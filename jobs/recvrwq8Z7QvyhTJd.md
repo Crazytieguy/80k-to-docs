@@ -2,7 +2,7 @@
 title: "Director, Donor Relations"
 employer: "The AI Policy Network"
 job_id: "recvrwq8Z7QvyhTJd"
-last_updated: "2026-06-30T05:33:23.741439Z"
+last_updated: "2026-07-01T05:33:58.278214Z"
 posted_at: "2022-01-05T00:00:00Z"
 status: ready
 apply_url: "https://theaipn.org/careers/director-donor-relations/"
@@ -34,4 +34,4 @@ areas:
 <p class="apply-cta"><a href="https://theaipn.org/careers/director-donor-relations/">Apply →</a></p>
 
 ---
-*Posted 2022-01-05 · Listing synced 2026-06-30 · 80k job ID `recvrwq8Z7QvyhTJd`*
+*Posted 2022-01-05 · Listing synced 2026-07-01 · 80k job ID `recvrwq8Z7QvyhTJd`*
