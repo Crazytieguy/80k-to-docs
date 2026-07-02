@@ -2,7 +2,7 @@
 title: "Technical Recruiter"
 employer: "LawZero"
 job_id: "recncaE6Tan3xw4MC"
-last_updated: "2026-07-01T05:33:56.799208Z"
+last_updated: "2026-07-02T05:35:07.168888Z"
 posted_at: "2022-01-05T00:00:00Z"
 status: ready
 apply_url: "https://job-boards.greenhouse.io/lawzero/jobs/4178629009"
@@ -33,4 +33,4 @@ areas:
 <p class="apply-cta"><a href="https://job-boards.greenhouse.io/lawzero/jobs/4178629009">Apply →</a></p>
 
 ---
-*Posted 2022-01-05 · Listing synced 2026-07-01 · 80k job ID `recncaE6Tan3xw4MC`*
+*Posted 2022-01-05 · Listing synced 2026-07-02 · 80k job ID `recncaE6Tan3xw4MC`*

@@ -4,25 +4,20 @@ employer: "Princeton University, Laboratory for Artificial Intelligence"
 job_id: "recOqG5vBw12KKw0H"
 last_updated: "2026-07-01T05:32:54.057612Z"
 posted_at: "2026-06-02T00:00:00Z"
-status: ready
+status: closed
+closed_at: "2026-07-02"
 apply_url: "https://apply.interfolio.com/187001"
 areas:
   - "AI safety & policy"
 ---
 
+> ⚠️ **CLOSED on 2026-07-02** — this job is no longer listed on the 80,000 Hours board. Archived snapshot below.
+
 # AI Postdoctoral Research Fellow
 
-**[Princeton University, Laboratory for Artificial Intelligence](https://ai.princeton.edu/ai-lab)**
+**Princeton University, Laboratory for Artificial Intelligence**
 
-<dl class="job-meta">
-<dt>Location</dt><dd>Princeton, NJ, USA</dd>
-<dt>Role type</dt><dd>Fellowship</dd>
-<dt>Experience</dt><dd>Entry-level</dd>
-<dt>Degree</dt><dd>Doctoral degree</dd>
-<dt>Salary</dt><dd>$100,000</dd>
-</dl>
-
-**Areas & skills:** AI safety & policy, Research
+**Areas & skills:** AI safety & policy
 
 ## Summary
 - In this role, you'll conduct research on societal AI, focusing on AI as a cultural technology and its effects on society.

@@ -2,7 +2,7 @@
 title: "Operations Director / Vice President of Operations"
 employer: "Consultants for Impact"
 job_id: "recvhCsSoneOZt7Bv"
-last_updated: "2026-07-01T05:32:55.314337Z"
+last_updated: "2026-07-02T05:33:51.320600Z"
 posted_at: "2026-06-01T00:02:00Z"
 status: ready
 apply_url: "https://www.consultantsforimpact.org/job-postings/operations-director-vp"
@@ -34,4 +34,4 @@ areas:
 <p class="apply-cta"><a href="https://www.consultantsforimpact.org/job-postings/operations-director-vp">Apply →</a></p>
 
 ---
-*Posted 2026-06-01 · Listing synced 2026-07-01 · 80k job ID `recvhCsSoneOZt7Bv`*
+*Posted 2026-06-01 · Listing synced 2026-07-02 · 80k job ID `recvhCsSoneOZt7Bv`*

@@ -4,25 +4,20 @@ employer: "Lead Exposure Elimination Project"
 job_id: "recJ1GkMrAcvk9N4X"
 last_updated: "2026-07-01T05:33:13.804001Z"
 posted_at: "2026-05-01T00:00:00Z"
-status: ready
+status: closed
+closed_at: "2026-07-02"
 apply_url: "https://docs.google.com/document/d/1-qJsinftqqj2iQplCANNRc8SVVdgMQsANt7yIcfX0LI/preview?tab=t.0#heading=h.jt6jmxp623yt"
 areas:
   - "Global health & development"
 ---
 
+> ⚠️ **CLOSED on 2026-07-02** — this job is no longer listed on the 80,000 Hours board. Archived snapshot below.
+
 # Head of People
 
-**[Lead Exposure Elimination Project](https://leadelimination.org/)**
+**Lead Exposure Elimination Project**
 
-<dl class="job-meta">
-<dt>Location</dt><dd>London, UK, UK</dd>
-<dt>Role type</dt><dd>Full-time</dd>
-<dt>Experience</dt><dd>Mid (5-9 years experience), Senior (10+ years experience)</dd>
-<dt>Degree</dt><dd>Undergraduate degree or less</dd>
-<dt>Salary</dt><dd>$97,829 – $107,914</dd>
-</dl>
-
-**Areas & skills:** Global health & development, Operations, Management, Strategy
+**Areas & skills:** Global health & development
 
 ## Summary
 - In this role, you'll design LEEP's people strategy and organisational development to support rapid global scaling.

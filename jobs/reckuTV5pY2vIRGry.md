@@ -2,7 +2,7 @@
 title: "Senior Manager, Research and Origination, Fund Ecosystem"
 employer: "Renaissance Philanthropy"
 job_id: "reckuTV5pY2vIRGry"
-last_updated: "2026-07-01T05:34:21.218904Z"
+last_updated: "2026-07-02T05:35:37.694152Z"
 posted_at: "2022-01-01T00:00:00Z"
 status: ready
 apply_url: "https://www.renaissancephilanthropy.org/careers/senior-manager-research-and-origination-fund-ecosystem"
@@ -15,7 +15,7 @@ areas:
 **[Renaissance Philanthropy](https://renaissancephilanthropy.org/)**
 
 <dl class="job-meta">
-<dt>Location</dt><dd>Washington, DC metro area, New York, NY, Remote, Global, USA</dd>
+<dt>Location</dt><dd>Remote, Global, New York, NY, Washington, DC metro area, USA</dd>
 <dt>Role type</dt><dd>Full-time</dd>
 <dt>Experience</dt><dd>Mid (5-9 years experience), Senior (10+ years experience)</dd>
 <dt>Degree</dt><dd>Undergraduate degree or less</dd>
@@ -34,4 +34,4 @@ areas:
 <p class="apply-cta"><a href="https://www.renaissancephilanthropy.org/careers/senior-manager-research-and-origination-fund-ecosystem">Apply →</a></p>
 
 ---
-*Posted 2022-01-01 · Listing synced 2026-07-01 · 80k job ID `reckuTV5pY2vIRGry`*
+*Posted 2022-01-01 · Listing synced 2026-07-02 · 80k job ID `reckuTV5pY2vIRGry`*

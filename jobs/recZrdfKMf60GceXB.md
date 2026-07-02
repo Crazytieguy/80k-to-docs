@@ -2,7 +2,7 @@
 title: "Research Engineer / Scientist, Alignment Science"
 employer: "Anthropic"
 job_id: "recZrdfKMf60GceXB"
-last_updated: "2026-07-01T05:33:23.450965Z"
+last_updated: "2026-07-02T05:34:26.813409Z"
 posted_at: "2022-01-11T00:00:00Z"
 status: ready
 apply_url: "https://job-boards.greenhouse.io/anthropic/jobs/4631822008"
@@ -34,4 +34,4 @@ areas:
 <p class="apply-cta"><a href="https://job-boards.greenhouse.io/anthropic/jobs/4631822008">Apply →</a></p>
 
 ---
-*Posted 2022-01-11 · Listing synced 2026-07-01 · 80k job ID `recZrdfKMf60GceXB`*
+*Posted 2022-01-11 · Listing synced 2026-07-02 · 80k job ID `recZrdfKMf60GceXB`*

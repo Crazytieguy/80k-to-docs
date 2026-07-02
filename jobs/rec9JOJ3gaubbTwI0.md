@@ -2,7 +2,7 @@
 title: "Compliance and Operations Manager"
 employer: "Principles of Intelligence"
 job_id: "rec9JOJ3gaubbTwI0"
-last_updated: "2026-07-01T05:32:21.068827Z"
+last_updated: "2026-07-02T05:33:10.841115Z"
 posted_at: "2026-06-29T00:01:00Z"
 status: ready
 apply_url: "https://princint.ai/now-hiring-compliance-operations-manager-at-principles-of-intelligence/"
@@ -34,4 +34,4 @@ areas:
 <p class="apply-cta"><a href="https://princint.ai/now-hiring-compliance-operations-manager-at-principles-of-intelligence/">Apply →</a></p>
 
 ---
-*Posted 2026-06-29 · Listing synced 2026-07-01 · 80k job ID `rec9JOJ3gaubbTwI0`*
+*Posted 2026-06-29 · Listing synced 2026-07-02 · 80k job ID `rec9JOJ3gaubbTwI0`*

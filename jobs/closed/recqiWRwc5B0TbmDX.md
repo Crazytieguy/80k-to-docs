@@ -4,25 +4,20 @@ employer: "Model Evaluation and Threat Research"
 job_id: "recqiWRwc5B0TbmDX"
 last_updated: "2026-07-01T05:33:28.337267Z"
 posted_at: "2022-01-11T00:00:00Z"
-status: ready
+status: closed
+closed_at: "2026-07-02"
 apply_url: "https://jobs.lever.co/metr/3d81cd86-31ae-498a-aa55-c31e0c532b07"
 areas:
   - "AI safety & policy"
 ---
 
+> ⚠️ **CLOSED on 2026-07-02** — this job is no longer listed on the 80,000 Hours board. Archived snapshot below.
+
 # Infrastructure Engineer, Cloud Evals
 
-**[Model Evaluation and Threat Research](https://metr.org/)**
+**Model Evaluation and Threat Research**
 
-<dl class="job-meta">
-<dt>Location</dt><dd>San Francisco Bay Area, USA, USA (Confirmed Visas)</dd>
-<dt>Role type</dt><dd>Full-time</dd>
-<dt>Experience</dt><dd>Mid (5-9 years experience), Senior (10+ years experience)</dd>
-<dt>Degree</dt><dd>Undergraduate degree or less</dd>
-<dt>Salary</dt><dd>$257,795 – $340,934</dd>
-</dl>
-
-**Areas & skills:** AI safety & policy, Software engineering
+**Areas & skills:** AI safety & policy
 
 ## Summary
 - In this role, you'll manage cloud infrastructure for our open-source LLM evaluation tooling.

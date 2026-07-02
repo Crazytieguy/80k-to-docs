@@ -2,7 +2,7 @@
 title: "General Applications"
 employer: "Future of Life Institute"
 job_id: "recucu4E9plS7Ealy"
-last_updated: "2026-07-01T05:33:33.967949Z"
+last_updated: "2026-07-02T05:34:39.839571Z"
 posted_at: "2022-01-07T00:00:00Z"
 status: ready
 apply_url: "https://jobs.lever.co/futureof-life/2ad000b8-8c02-49a0-bbea-a588137665db"
@@ -24,7 +24,7 @@ areas:
 <dt>Degree</dt><dd>Undergraduate degree or less</dd>
 </dl>
 
-**Areas & skills:** AI safety & policy, Biosecurity & pandemic preparedness, Nuclear security, Climate change, Operations, Outreach, Policy, Research
+**Areas & skills:** AI safety & policy, Biosecurity & pandemic preparedness, Nuclear security, Climate change, Research, Policy, Outreach, Operations
 
 ## Summary
 - This is a general application form to work with the Future of Life Institute.
@@ -32,4 +32,4 @@ areas:
 <p class="apply-cta"><a href="https://jobs.lever.co/futureof-life/2ad000b8-8c02-49a0-bbea-a588137665db">Apply →</a></p>
 
 ---
-*Posted 2022-01-07 · Listing synced 2026-07-01 · 80k job ID `recucu4E9plS7Ealy`*
+*Posted 2022-01-07 · Listing synced 2026-07-02 · 80k job ID `recucu4E9plS7Ealy`*

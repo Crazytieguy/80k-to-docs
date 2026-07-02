@@ -4,24 +4,20 @@ employer: "Harmony Intelligence"
 job_id: "recW5Bs2Pa5SYPKeL"
 last_updated: "2026-07-01T05:33:56.231445Z"
 posted_at: "2022-01-05T00:00:00Z"
-status: ready
+status: closed
+closed_at: "2026-07-02"
 apply_url: "https://harmonyintelligence.com/contact"
 areas:
   - "AI safety & policy"
 ---
 
+> ⚠️ **CLOSED on 2026-07-02** — this job is no longer listed on the 80,000 Hours board. Archived snapshot below.
+
 # Expression of Interest
 
-**[Harmony Intelligence](https://www.harmonyintelligence.com/)**
+**Harmony Intelligence**
 
-<dl class="job-meta">
-<dt>Location</dt><dd>Remote, Global</dd>
-<dt>Role type</dt><dd>Full-time</dd>
-<dt>Experience</dt><dd>Multiple experience levels</dd>
-<dt>Degree</dt><dd>Undergraduate degree or less</dd>
-</dl>
-
-**Areas & skills:** AI safety & policy, Software engineering, Operations, Outreach, Research
+**Areas & skills:** AI safety & policy
 
 ## Summary
 - Express interest in future openings spanning Engineering, Research, Sales, Marketing, Operations, People, and more.

@@ -2,7 +2,7 @@
 title: "Volunteer"
 employer: "AIGS Canada"
 job_id: "recgMlbWv58dNTrs2"
-last_updated: "2026-07-01T05:33:36.960049Z"
+last_updated: "2026-07-02T05:34:43.569172Z"
 posted_at: "2022-01-06T00:00:00Z"
 status: ready
 apply_url: "https://aigs.ca/volunteer/"
@@ -33,4 +33,4 @@ areas:
 <p class="apply-cta"><a href="https://aigs.ca/volunteer/">Apply →</a></p>
 
 ---
-*Posted 2022-01-06 · Listing synced 2026-07-01 · 80k job ID `recgMlbWv58dNTrs2`*
+*Posted 2022-01-06 · Listing synced 2026-07-02 · 80k job ID `recgMlbWv58dNTrs2`*

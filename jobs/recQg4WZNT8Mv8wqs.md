@@ -2,7 +2,7 @@
 title: "Research Fellowship"
 employer: "Heron AI Security"
 job_id: "recQg4WZNT8Mv8wqs"
-last_updated: "2026-07-01T05:32:23.098112Z"
+last_updated: "2026-07-02T05:33:13.299328Z"
 posted_at: "2026-06-26T00:02:00Z"
 status: ready
 apply_url: "https://www.heronsec.ai/researchfellowship"
@@ -33,4 +33,4 @@ areas:
 <p class="apply-cta"><a href="https://www.heronsec.ai/researchfellowship">Apply →</a></p>
 
 ---
-*Posted 2026-06-26 · Listing synced 2026-07-01 · 80k job ID `recQg4WZNT8Mv8wqs`*
+*Posted 2026-06-26 · Listing synced 2026-07-02 · 80k job ID `recQg4WZNT8Mv8wqs`*

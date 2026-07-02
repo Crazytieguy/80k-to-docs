@@ -2,7 +2,7 @@
 title: "Internship Program"
 employer: "Singapore Institute of International Affairs"
 job_id: "recoTXxkSIT4VVQep"
-last_updated: "2026-07-01T05:34:13.269835Z"
+last_updated: "2026-07-02T05:35:26.690633Z"
 posted_at: "2022-01-02T00:00:00Z"
 status: ready
 apply_url: "https://www.siiaonline.org/work-at-siia/"
@@ -33,4 +33,4 @@ areas:
 <p class="apply-cta"><a href="https://www.siiaonline.org/work-at-siia/">Apply →</a></p>
 
 ---
-*Posted 2022-01-02 · Listing synced 2026-07-01 · 80k job ID `recoTXxkSIT4VVQep`*
+*Posted 2022-01-02 · Listing synced 2026-07-02 · 80k job ID `recoTXxkSIT4VVQep`*

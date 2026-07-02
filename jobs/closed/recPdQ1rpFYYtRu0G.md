@@ -4,24 +4,20 @@ employer: "Humánny Pokrok"
 job_id: "recPdQ1rpFYYtRu0G"
 last_updated: "2026-07-01T05:33:04.437514Z"
 posted_at: "2026-05-20T00:00:00Z"
-status: ready
+status: closed
+closed_at: "2026-07-02"
 apply_url: "https://humannypokrok.sk/programova-specialistka/"
 areas:
   - "Animal welfare"
 ---
 
+> ⚠️ **CLOSED on 2026-07-02** — this job is no longer listed on the 80,000 Hours board. Archived snapshot below.
+
 # Policy Affairs Program Specialist
 
-**[Humánny Pokrok](https://humannypokrok.sk/)**
+**Humánny Pokrok**
 
-<dl class="job-meta">
-<dt>Location</dt><dd>Remote, Global, Bratislava, Slovakia, Europe (ex UK), Slovakia</dd>
-<dt>Role type</dt><dd>Full-time</dd>
-<dt>Experience</dt><dd>Junior (1-4 years experience)</dd>
-<dt>Degree</dt><dd>Undergraduate degree or less</dd>
-</dl>
-
-**Areas & skills:** Animal welfare, Policy, Outreach
+**Areas & skills:** Animal welfare
 
 ## Summary
 - In this role, you'll build relationships with public institutions and political parties while conducting policy analysis to advance animal protection legislation.

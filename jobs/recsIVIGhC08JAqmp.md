@@ -2,7 +2,7 @@
 title: "Co-op, Cyber Security (Summer 2026)"
 employer: "Massachusetts Institute of Technology, Lincoln Laboratory"
 job_id: "recsIVIGhC08JAqmp"
-last_updated: "2026-07-01T05:34:11.445127Z"
+last_updated: "2026-07-02T05:35:23.535995Z"
 posted_at: "2022-01-02T00:00:00Z"
 status: ready
 apply_url: "https://careers.ll.mit.edu/job/Lexington-Group-11-10-Co-Op-Cyber-Security-Summer-2026-1-MA-02420/1374211700/"
@@ -34,4 +34,4 @@ areas:
 <p class="apply-cta"><a href="https://careers.ll.mit.edu/job/Lexington-Group-11-10-Co-Op-Cyber-Security-Summer-2026-1-MA-02420/1374211700/">Apply →</a></p>
 
 ---
-*Posted 2022-01-02 · Listing synced 2026-07-01 · 80k job ID `recsIVIGhC08JAqmp`*
+*Posted 2022-01-02 · Listing synced 2026-07-02 · 80k job ID `recsIVIGhC08JAqmp`*

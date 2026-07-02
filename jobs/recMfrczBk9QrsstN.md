@@ -2,7 +2,7 @@
 title: "AI Red Teamer"
 employer: "HiddenLayer"
 job_id: "recMfrczBk9QrsstN"
-last_updated: "2026-07-01T05:33:16.334147Z"
+last_updated: "2026-07-02T05:34:17.969348Z"
 posted_at: "2026-04-24T00:00:00Z"
 status: ready
 apply_url: "https://job-boards.greenhouse.io/hiddenlayer/jobs/4599590007"
@@ -33,4 +33,4 @@ areas:
 <p class="apply-cta"><a href="https://job-boards.greenhouse.io/hiddenlayer/jobs/4599590007">Apply →</a></p>
 
 ---
-*Posted 2026-04-24 · Listing synced 2026-07-01 · 80k job ID `recMfrczBk9QrsstN`*
+*Posted 2026-04-24 · Listing synced 2026-07-02 · 80k job ID `recMfrczBk9QrsstN`*

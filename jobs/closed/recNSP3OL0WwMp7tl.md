@@ -4,26 +4,21 @@ employer: "Centre for Long-Term Resilience"
 job_id: "recNSP3OL0WwMp7tl"
 last_updated: "2026-07-01T05:32:27.285158Z"
 posted_at: "2026-06-22T00:05:00Z"
-status: ready
+status: closed
+closed_at: "2026-07-02"
 apply_url: "https://www.longtermresilience.org/were-hiring-operations-associate-ai-or-biosecurity-unit/"
 areas:
   - "AI safety & policy"
   - "Biosecurity & pandemic preparedness"
 ---
 
+> ⚠️ **CLOSED on 2026-07-02** — this job is no longer listed on the 80,000 Hours board. Archived snapshot below.
+
 # Operations Associate
 
-**[Centre for Long-Term Resilience](https://www.longtermresilience.org/)**
+**Centre for Long-Term Resilience**
 
-<dl class="job-meta">
-<dt>Location</dt><dd>London, UK, UK</dd>
-<dt>Role type</dt><dd>Full-time</dd>
-<dt>Experience</dt><dd>Junior (1-4 years experience)</dd>
-<dt>Degree</dt><dd>Undergraduate degree or less</dd>
-<dt>Salary</dt><dd>$72,841</dd>
-</dl>
-
-**Areas & skills:** AI safety & policy, Biosecurity & pandemic preparedness, Operations
+**Areas & skills:** AI safety & policy, Biosecurity & pandemic preparedness
 
 ## Summary
 - In this role, you'll support the operations of an AI or Biosecurity policy unit through administrative and project coordination.

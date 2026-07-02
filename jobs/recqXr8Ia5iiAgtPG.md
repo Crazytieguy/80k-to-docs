@@ -2,7 +2,7 @@
 title: "Investigative Technologist, Consumer Protection Section"
 employer: "California Department of Justice"
 job_id: "recqXr8Ia5iiAgtPG"
-last_updated: "2026-07-01T05:32:27.710739Z"
+last_updated: "2026-07-02T05:33:18.669117Z"
 posted_at: "2026-06-22T00:04:00Z"
 status: ready
 apply_url: "https://calcareers.ca.gov/CalHrPublic/Jobs/JobPosting.aspx?JobControlId=520778"
@@ -15,7 +15,7 @@ areas:
 **[California Department of Justice](https://oag.ca.gov/)**
 
 <dl class="job-meta">
-<dt>Location</dt><dd>San Francisco Bay Area, Los Angeles, CA, San Diego, CA, USA</dd>
+<dt>Location</dt><dd>Los Angeles, CA, San Francisco Bay Area, San Diego, CA, USA</dd>
 <dt>Role type</dt><dd>Full-time</dd>
 <dt>Experience</dt><dd>Junior (1-4 years experience), Mid (5-9 years experience)</dd>
 <dt>Degree</dt><dd>Undergraduate degree or less</dd>
@@ -35,4 +35,4 @@ areas:
 <p class="apply-cta"><a href="https://calcareers.ca.gov/CalHrPublic/Jobs/JobPosting.aspx?JobControlId=520778">Apply →</a></p>
 
 ---
-*Posted 2026-06-22 · Listing synced 2026-07-01 · 80k job ID `recqXr8Ia5iiAgtPG`*
+*Posted 2026-06-22 · Listing synced 2026-07-02 · 80k job ID `recqXr8Ia5iiAgtPG`*

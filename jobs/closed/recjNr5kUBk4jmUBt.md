@@ -4,25 +4,20 @@ employer: "Microsoft"
 job_id: "recjNr5kUBk4jmUBt"
 last_updated: "2026-07-01T05:32:33.931675Z"
 posted_at: "2026-06-17T00:00:00Z"
-status: ready
+status: closed
+closed_at: "2026-07-02"
 apply_url: "https://apply.careers.microsoft.com/careers/job/1970393556735254?domain=microsoft.com&src=LinkedIn"
 areas:
   - "Career development: Technical"
 ---
 
+> ⚠️ **CLOSED on 2026-07-02** — this job is no longer listed on the 80,000 Hours board. Archived snapshot below.
+
 # Research Intern, AI Evaluation and Alignment
 
-**[Microsoft](https://www.microsoft.com/en-us/about/company)**
+**Microsoft**
 
-<dl class="job-meta">
-<dt>Location</dt><dd>Seattle metro area, USA</dd>
-<dt>Role type</dt><dd>Internship</dd>
-<dt>Experience</dt><dd>Junior (1-4 years experience)</dd>
-<dt>Degree</dt><dd>Master's degree</dd>
-<dt>Salary</dt><dd>$80,520 – $172,320</dd>
-</dl>
-
-**Areas & skills:** Career development: Technical, Research, Software engineering
+**Areas & skills:** Career development: Technical
 
 ## Summary
 - In this role, you'll advance the quality and reliability of Large Language Model systems by researching AI evaluation and alignment methods.

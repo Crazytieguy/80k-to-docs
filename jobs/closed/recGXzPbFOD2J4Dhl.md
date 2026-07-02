@@ -4,25 +4,20 @@ employer: "Imperial College London, Faculty of Medicine"
 job_id: "recGXzPbFOD2J4Dhl"
 last_updated: "2026-07-01T05:32:40.379608Z"
 posted_at: "2026-06-12T00:00:00Z"
-status: ready
+status: closed
+closed_at: "2026-07-02"
 apply_url: "https://www.imperial.ac.uk/jobs/search-jobs/description/index.php?nPostingID=17744&nPostingTargetID=28158&ID=PMMFK026203F3VBQB8NLOV4CQ"
 areas:
   - "Global health & development"
 ---
 
+> ⚠️ **CLOSED on 2026-07-02** — this job is no longer listed on the 80,000 Hours board. Archived snapshot below.
+
 # Research Associate, Deep Generative Modelling for Infectious Diseases
 
-**[Imperial College London, Faculty of Medicine](https://www.imperial.ac.uk/medicine/)**
+**Imperial College London, Faculty of Medicine**
 
-<dl class="job-meta">
-<dt>Location</dt><dd>London, UK, UK</dd>
-<dt>Role type</dt><dd>Full-time</dd>
-<dt>Experience</dt><dd>Entry-level</dd>
-<dt>Degree</dt><dd>Doctoral degree</dd>
-<dt>Salary</dt><dd>$64,918 – $76,115</dd>
-</dl>
-
-**Areas & skills:** Global health & development, Research, Software engineering
+**Areas & skills:** Global health & development
 
 ## Summary
 - In this role, you'll lead methodological development in deep generative modelling to address computational challenges in infectious disease modelling.

@@ -4,25 +4,20 @@ employer: "ML4Good"
 job_id: "recGc6OKSvvJvaCZ6"
 last_updated: "2026-07-01T05:32:55.736124Z"
 posted_at: "2026-06-01T00:01:00Z"
-status: ready
+status: closed
+closed_at: "2026-07-02"
 apply_url: "https://ml4good.org/jobs/ml4good-teacher/"
 areas:
   - "AI safety & policy"
 ---
 
+> ⚠️ **CLOSED on 2026-07-02** — this job is no longer listed on the 80,000 Hours board. Archived snapshot below.
+
 # Teacher, Technical AI Safety / AI Governance and Strategy
 
-**[ML4Good](https://www.ml4good.org/)**
+**ML4Good**
 
-<dl class="job-meta">
-<dt>Location</dt><dd>Hong Kong, China, UK, France, China, Europe (ex UK), Asia</dd>
-<dt>Role type</dt><dd>Part-time</dd>
-<dt>Experience</dt><dd>Junior (1-4 years experience)</dd>
-<dt>Degree</dt><dd>Undergraduate degree or less</dd>
-<dt>Salary</dt><dd>$3,443</dd>
-</dl>
-
-**Areas & skills:** AI safety & policy, Other
+**Areas & skills:** AI safety & policy
 
 ## Summary
 - In this role, you'll support participants in an intensive bootcamp through technical AI safety instruction, facilitation, and curriculum development.

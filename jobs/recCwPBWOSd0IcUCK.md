@@ -2,7 +2,7 @@
 title: "Product Associate"
 employer: "Precision Development"
 job_id: "recCwPBWOSd0IcUCK"
-last_updated: "2026-07-01T05:32:23.901761Z"
+last_updated: "2026-07-02T05:33:14.256321Z"
 posted_at: "2026-06-26T00:00:00Z"
 status: ready
 apply_url: "https://precisiondev.bamboohr.com/careers/168"
@@ -33,4 +33,4 @@ areas:
 <p class="apply-cta"><a href="https://precisiondev.bamboohr.com/careers/168">Apply →</a></p>
 
 ---
-*Posted 2026-06-26 · Listing synced 2026-07-01 · 80k job ID `recCwPBWOSd0IcUCK`*
+*Posted 2026-06-26 · Listing synced 2026-07-02 · 80k job ID `recCwPBWOSd0IcUCK`*

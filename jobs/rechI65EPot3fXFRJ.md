@@ -2,7 +2,7 @@
 title: "Project Manager, AI Governance Training"
 employer: "AI Safety Asia"
 job_id: "rechI65EPot3fXFRJ"
-last_updated: "2026-07-01T05:33:36.695424Z"
+last_updated: "2026-07-02T05:34:43.252267Z"
 posted_at: "2022-01-06T00:00:00Z"
 status: ready
 apply_url: "https://docs.google.com/document/d/1VksXTjn44bpX6FNEMqLCSzjtDecvP8Vf_1Mztxh1LU8/edit?usp=sharing"
@@ -33,4 +33,4 @@ areas:
 <p class="apply-cta"><a href="https://docs.google.com/document/d/1VksXTjn44bpX6FNEMqLCSzjtDecvP8Vf_1Mztxh1LU8/edit?usp=sharing">Apply →</a></p>
 
 ---
-*Posted 2022-01-06 · Listing synced 2026-07-01 · 80k job ID `rechI65EPot3fXFRJ`*
+*Posted 2022-01-06 · Listing synced 2026-07-02 · 80k job ID `rechI65EPot3fXFRJ`*

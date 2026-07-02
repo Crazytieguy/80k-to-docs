@@ -2,7 +2,7 @@
 title: "Volunteer"
 employer: "Crustacean Compassion"
 job_id: "recMVEm7cBJgOlZvD"
-last_updated: "2026-07-01T05:34:05.073706Z"
+last_updated: "2026-07-02T05:35:16.862435Z"
 posted_at: "2022-01-02T00:00:00Z"
 status: ready
 apply_url: "https://www.crustaceancompassion.org/volunteer"
@@ -21,7 +21,7 @@ areas:
 <dt>Degree</dt><dd>Undergraduate degree or less</dd>
 </dl>
 
-**Areas & skills:** Animal welfare, Research, Operations, Other, Outreach
+**Areas & skills:** Animal welfare, Research, Outreach, Operations, Other
 
 ## Summary
 - At Crustacean Compassion, volunteers play a vital role in expanding the reach and impact of its work for better treatment of decapod crustaceans.
@@ -33,4 +33,4 @@ areas:
 <p class="apply-cta"><a href="https://www.crustaceancompassion.org/volunteer">Apply →</a></p>
 
 ---
-*Posted 2022-01-02 · Listing synced 2026-07-01 · 80k job ID `recMVEm7cBJgOlZvD`*
+*Posted 2022-01-02 · Listing synced 2026-07-02 · 80k job ID `recMVEm7cBJgOlZvD`*

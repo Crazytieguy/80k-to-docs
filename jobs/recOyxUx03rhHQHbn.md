@@ -2,7 +2,7 @@
 title: "Senior Researcher, Artificial Intelligence"
 employer: "United Nations, Institute for Disarmament Research"
 job_id: "recOyxUx03rhHQHbn"
-last_updated: "2026-07-01T05:32:31.064077Z"
+last_updated: "2026-07-02T05:33:22.776135Z"
 posted_at: "2026-06-19T00:00:00Z"
 status: ready
 apply_url: "https://unidir.org/job/senior-researcher-artificial-intelligence/"
@@ -33,4 +33,4 @@ areas:
 <p class="apply-cta"><a href="https://unidir.org/job/senior-researcher-artificial-intelligence/">Apply →</a></p>
 
 ---
-*Posted 2026-06-19 · Listing synced 2026-07-01 · 80k job ID `recOyxUx03rhHQHbn`*
+*Posted 2026-06-19 · Listing synced 2026-07-02 · 80k job ID `recOyxUx03rhHQHbn`*

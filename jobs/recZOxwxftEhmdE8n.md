@@ -2,7 +2,7 @@
 title: "Funding, Human Self-Enhancement and Empowerment"
 employer: "Survival and Flourishing"
 job_id: "recZOxwxftEhmdE8n"
-last_updated: "2026-07-01T05:32:49.031188Z"
+last_updated: "2026-07-02T05:33:43.725519Z"
 posted_at: "2026-06-08T00:00:00Z"
 status: ready
 apply_url: "https://survivalandflourishing.fund/2026/application#hsee"
@@ -31,4 +31,4 @@ areas:
 <p class="apply-cta"><a href="https://survivalandflourishing.fund/2026/application#hsee">Apply →</a></p>
 
 ---
-*Posted 2026-06-08 · Listing synced 2026-07-01 · 80k job ID `recZOxwxftEhmdE8n`*
+*Posted 2026-06-08 · Listing synced 2026-07-02 · 80k job ID `recZOxwxftEhmdE8n`*

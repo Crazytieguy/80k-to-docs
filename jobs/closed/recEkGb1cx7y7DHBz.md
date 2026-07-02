@@ -4,24 +4,20 @@ employer: "Animal Equality"
 job_id: "recEkGb1cx7y7DHBz"
 last_updated: "2026-07-01T05:34:03.035236Z"
 posted_at: "2022-01-02T00:00:00Z"
-status: ready
+status: closed
+closed_at: "2026-07-02"
 apply_url: "https://igualdadanimal.org/empleo/european-campaigns-communications-manager/"
 areas:
   - "Animal welfare"
 ---
 
+> ⚠️ **CLOSED on 2026-07-02** — this job is no longer listed on the 80,000 Hours board. Archived snapshot below.
+
 # European Campaigns Communications Manager
 
-**[Animal Equality](https://animalequality.org/)**
+**Animal Equality**
 
-<dl class="job-meta">
-<dt>Location</dt><dd>Brussels, Belgium, Remote, Italy, Remote, France, Remote, Belgium, Italy, France, Belgium, Europe (ex UK)</dd>
-<dt>Role type</dt><dd>Full-time</dd>
-<dt>Experience</dt><dd>Junior (1-4 years experience)</dd>
-<dt>Degree</dt><dd>Undergraduate degree or less</dd>
-</dl>
-
-**Areas & skills:** Animal welfare, Outreach
+**Areas & skills:** Animal welfare
 
 ## Summary
 - In this role, you'll lead communications strategy for Animal Equality's European campaigns and translate policy issues into public narratives.

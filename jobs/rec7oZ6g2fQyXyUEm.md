@@ -2,13 +2,13 @@
 title: "Senior Research Scholar and William J. Perry Lecturer"
 employer: "Stanford University, Center for International Security and Cooperation"
 job_id: "rec7oZ6g2fQyXyUEm"
-last_updated: "2026-07-01T05:33:31.539985Z"
+last_updated: "2026-07-02T05:34:36.843081Z"
 posted_at: "2022-01-09T00:00:00Z"
 status: ready
 apply_url: "https://careersearch.stanford.edu/jobs/senior-research-scholar-william-j-perry-lecturer-29368"
 areas:
-  - "Nuclear security"
   - "Biosecurity & pandemic preparedness"
+  - "Nuclear security"
 ---
 
 # Senior Research Scholar and William J. Perry Lecturer
@@ -23,7 +23,7 @@ areas:
 <dt>Salary</dt><dd>$139,000 – $197,000</dd>
 </dl>
 
-**Areas & skills:** Nuclear security, Biosecurity & pandemic preparedness, Research, Policy
+**Areas & skills:** Biosecurity & pandemic preparedness, Nuclear security, Research, Policy
 
 ## Summary
 - In this role, you'll lead research and teaching on international security and public policy at Stanford's Center for International Security and Cooperation.
@@ -35,4 +35,4 @@ areas:
 <p class="apply-cta"><a href="https://careersearch.stanford.edu/jobs/senior-research-scholar-william-j-perry-lecturer-29368">Apply →</a></p>
 
 ---
-*Posted 2022-01-09 · Listing synced 2026-07-01 · 80k job ID `rec7oZ6g2fQyXyUEm`*
+*Posted 2022-01-09 · Listing synced 2026-07-02 · 80k job ID `rec7oZ6g2fQyXyUEm`*

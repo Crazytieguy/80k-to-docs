@@ -2,7 +2,7 @@
 title: "Senior Research Scientist"
 employer: "Faculty"
 job_id: "recOj2hUTANllF14s"
-last_updated: "2026-07-01T05:33:54.126998Z"
+last_updated: "2026-07-02T05:35:04.073125Z"
 posted_at: "2022-01-05T00:00:00Z"
 status: ready
 apply_url: "https://jobs.ashbyhq.com/faculty/fd99c104-65b4-4fca-b68e-0ab9170da31f"
@@ -33,4 +33,4 @@ areas:
 <p class="apply-cta"><a href="https://jobs.ashbyhq.com/faculty/fd99c104-65b4-4fca-b68e-0ab9170da31f">Apply →</a></p>
 
 ---
-*Posted 2022-01-05 · Listing synced 2026-07-01 · 80k job ID `recOj2hUTANllF14s`*
+*Posted 2022-01-05 · Listing synced 2026-07-02 · 80k job ID `recOj2hUTANllF14s`*

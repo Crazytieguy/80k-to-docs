@@ -4,25 +4,20 @@ employer: "SASH"
 job_id: "recrwr73nvcyBaFVw"
 last_updated: "2026-07-01T05:32:50.825005Z"
 posted_at: "2026-06-05T00:00:00Z"
-status: ready
+status: closed
+closed_at: "2026-07-02"
 apply_url: "https://docs.google.com/document/d/1BIV1vGRUs3xn8CfL6M5f4mFKsIB4sVdRpzgTRjAwiZA/edit?tab=t.0"
 areas:
   - "AI safety & policy"
 ---
 
+> ⚠️ **CLOSED on 2026-07-02** — this job is no longer listed on the 80,000 Hours board. Archived snapshot below.
+
 # Fellowship Manager
 
-**[SASH](https://www.aisafety.sg/)**
+**SASH**
 
-<dl class="job-meta">
-<dt>Location</dt><dd>Singapore, Singapore, Singapore, Asia</dd>
-<dt>Role type</dt><dd>Full-time</dd>
-<dt>Experience</dt><dd>Junior (1-4 years experience), Mid (5-9 years experience)</dd>
-<dt>Degree</dt><dd>Undergraduate degree or less</dd>
-<dt>Salary</dt><dd>$90,000 – $120,000</dd>
-</dl>
-
-**Areas & skills:** AI safety & policy, Operations
+**Areas & skills:** AI safety & policy
 
 ## Summary
 - In this role, you'll design and deliver the East-West AI Safety Fellowship, connecting researchers and government partners across Asia.
