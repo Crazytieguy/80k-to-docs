@@ -2,7 +2,7 @@
 title: "Lead Researcher, AI Offense-Defense Dynamics"
 employer: "Center for AI Risk Management and Alignment"
 job_id: "rectMslN3X3rLWeD9"
-last_updated: "2026-07-02T05:35:02.437955Z"
+last_updated: "2026-07-03T05:33:48.483423Z"
 posted_at: "2022-01-05T00:00:00Z"
 status: ready
 apply_url: "https://jobs.lever.co/futureof-life/bbd4da5f-322b-449a-b839-41da13862ca8"
@@ -33,4 +33,4 @@ areas:
 <p class="apply-cta"><a href="https://jobs.lever.co/futureof-life/bbd4da5f-322b-449a-b839-41da13862ca8">Apply →</a></p>
 
 ---
-*Posted 2022-01-05 · Listing synced 2026-07-02 · 80k job ID `rectMslN3X3rLWeD9`*
+*Posted 2022-01-05 · Listing synced 2026-07-03 · 80k job ID `rectMslN3X3rLWeD9`*

@@ -2,7 +2,7 @@
 title: "Tech Journalism Fund"
 employer: "Omidyar Network"
 job_id: "reczrGsXpPzymWvD0"
-last_updated: "2026-07-02T05:33:49.544443Z"
+last_updated: "2026-07-03T05:32:36.455587Z"
 posted_at: "2026-06-02T00:00:00Z"
 status: ready
 apply_url: "https://omidyar.com/where-we-focus/tech-journalism-fund/"
@@ -33,4 +33,4 @@ areas:
 <p class="apply-cta"><a href="https://omidyar.com/where-we-focus/tech-journalism-fund/">Apply →</a></p>
 
 ---
-*Posted 2026-06-02 · Listing synced 2026-07-02 · 80k job ID `reczrGsXpPzymWvD0`*
+*Posted 2026-06-02 · Listing synced 2026-07-03 · 80k job ID `reczrGsXpPzymWvD0`*

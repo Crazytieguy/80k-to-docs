@@ -2,7 +2,7 @@
 title: "Communications Intern / Community Intern"
 employer: "The School for Moral Ambition"
 job_id: "rec1C2UMsVuzhHqtO"
-last_updated: "2026-07-02T05:33:14.422244Z"
+last_updated: "2026-07-03T05:32:01.783875Z"
 posted_at: "2026-06-26T00:00:00Z"
 status: ready
 apply_url: "https://www.moralambition.org/jobs/communications-intern-community-intern"
@@ -19,7 +19,7 @@ areas:
 <dt>Role type</dt><dd>Internship</dd>
 <dt>Experience</dt><dd>Entry-level</dd>
 <dt>Degree</dt><dd>Undergraduate degree or less</dd>
-<dt>Salary</dt><dd>$14,576</dd>
+<dt>Salary</dt><dd>$14,663</dd>
 </dl>
 
 **Areas & skills:** Global health & development, Outreach
@@ -34,4 +34,4 @@ areas:
 <p class="apply-cta"><a href="https://www.moralambition.org/jobs/communications-intern-community-intern">Apply →</a></p>
 
 ---
-*Posted 2026-06-26 · Listing synced 2026-07-02 · 80k job ID `rec1C2UMsVuzhHqtO`*
+*Posted 2026-06-26 · Listing synced 2026-07-03 · 80k job ID `rec1C2UMsVuzhHqtO`*

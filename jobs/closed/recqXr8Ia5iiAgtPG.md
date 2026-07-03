@@ -4,25 +4,20 @@ employer: "California Department of Justice"
 job_id: "recqXr8Ia5iiAgtPG"
 last_updated: "2026-07-02T05:33:18.669117Z"
 posted_at: "2026-06-22T00:04:00Z"
-status: ready
+status: closed
+closed_at: "2026-07-03"
 apply_url: "https://calcareers.ca.gov/CalHrPublic/Jobs/JobPosting.aspx?JobControlId=520778"
 areas:
   - "AI safety & policy"
 ---
 
+> ⚠️ **CLOSED on 2026-07-03** — this job is no longer listed on the 80,000 Hours board. Archived snapshot below.
+
 # Investigative Technologist, Consumer Protection Section
 
-**[California Department of Justice](https://oag.ca.gov/)**
+**California Department of Justice**
 
-<dl class="job-meta">
-<dt>Location</dt><dd>Los Angeles, CA, San Francisco Bay Area, San Diego, CA, USA</dd>
-<dt>Role type</dt><dd>Full-time</dd>
-<dt>Experience</dt><dd>Junior (1-4 years experience), Mid (5-9 years experience)</dd>
-<dt>Degree</dt><dd>Undergraduate degree or less</dd>
-<dt>Salary</dt><dd>$114,084 – $152,880</dd>
-</dl>
-
-**Areas & skills:** AI safety & policy, Policy, Information security
+**Areas & skills:** AI safety & policy
 
 ## Summary
 - In this role, you'll conduct technical investigations and provide subject matter expertise in consumer protection, privacy, and technology enforcement.

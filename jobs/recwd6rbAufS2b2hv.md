@@ -2,7 +2,7 @@
 title: "Assistant AI Security Researcher"
 employer: "Carnegie Mellon University, Software Engineering Institute"
 job_id: "recwd6rbAufS2b2hv"
-last_updated: "2026-07-02T05:33:19.254495Z"
+last_updated: "2026-07-03T05:32:06.322458Z"
 posted_at: "2026-06-22T00:00:00Z"
 status: ready
 apply_url: "https://cmu.wd5.myworkdayjobs.com/en-US/SEI/job/Pittsburgh-PA/Assistant-AI-Security-Researcher_2024552-1"
@@ -33,4 +33,4 @@ areas:
 <p class="apply-cta"><a href="https://cmu.wd5.myworkdayjobs.com/en-US/SEI/job/Pittsburgh-PA/Assistant-AI-Security-Researcher_2024552-1">Apply →</a></p>
 
 ---
-*Posted 2026-06-22 · Listing synced 2026-07-02 · 80k job ID `recwd6rbAufS2b2hv`*
+*Posted 2026-06-22 · Listing synced 2026-07-03 · 80k job ID `recwd6rbAufS2b2hv`*

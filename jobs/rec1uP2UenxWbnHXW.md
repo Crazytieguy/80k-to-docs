@@ -2,7 +2,7 @@
 title: "Research Program Manager"
 employer: "SaferAI"
 job_id: "rec1uP2UenxWbnHXW"
-last_updated: "2026-07-02T05:33:37.255404Z"
+last_updated: "2026-07-03T05:32:24.254171Z"
 posted_at: "2026-06-10T00:02:00Z"
 status: ready
 apply_url: "https://www.safer-ai.org/jobs/research-program-manager"
@@ -33,4 +33,4 @@ areas:
 <p class="apply-cta"><a href="https://www.safer-ai.org/jobs/research-program-manager">Apply →</a></p>
 
 ---
-*Posted 2026-06-10 · Listing synced 2026-07-02 · 80k job ID `rec1uP2UenxWbnHXW`*
+*Posted 2026-06-10 · Listing synced 2026-07-03 · 80k job ID `rec1uP2UenxWbnHXW`*

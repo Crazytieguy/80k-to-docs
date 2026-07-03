@@ -2,7 +2,7 @@
 title: "Senior Scientist, Biodefense and Biosecurity"
 employer: "MITRE"
 job_id: "rec642NIvsqIYqnwf"
-last_updated: "2026-07-02T05:33:22.431466Z"
+last_updated: "2026-07-03T05:32:09.268320Z"
 posted_at: "2026-06-19T00:00:00Z"
 status: ready
 apply_url: "https://careers.mitre.org/us/en/job/R116847/Senior-Scientist"
@@ -34,4 +34,4 @@ areas:
 <p class="apply-cta"><a href="https://careers.mitre.org/us/en/job/R116847/Senior-Scientist">Apply →</a></p>
 
 ---
-*Posted 2026-06-19 · Listing synced 2026-07-02 · 80k job ID `rec642NIvsqIYqnwf`*
+*Posted 2026-06-19 · Listing synced 2026-07-03 · 80k job ID `rec642NIvsqIYqnwf`*

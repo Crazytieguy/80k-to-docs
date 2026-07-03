@@ -2,7 +2,7 @@
 title: "Deputy Director and Senior Fellow, Wadhwani AI Center"
 employer: "Center for Strategic and International Studies"
 job_id: "rec739MZumWcalVsT"
-last_updated: "2026-07-02T05:34:18.909175Z"
+last_updated: "2026-07-03T05:33:04.990010Z"
 posted_at: "2026-04-22T00:01:00Z"
 status: ready
 apply_url: "https://careers.csis.org/opportunities/1770"
@@ -34,4 +34,4 @@ areas:
 <p class="apply-cta"><a href="https://careers.csis.org/opportunities/1770">Apply →</a></p>
 
 ---
-*Posted 2026-04-22 · Listing synced 2026-07-02 · 80k job ID `rec739MZumWcalVsT`*
+*Posted 2026-04-22 · Listing synced 2026-07-03 · 80k job ID `rec739MZumWcalVsT`*

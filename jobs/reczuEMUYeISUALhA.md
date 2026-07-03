@@ -2,8 +2,8 @@
 title: "Head of Technology"
 employer: "Suvita"
 job_id: "reczuEMUYeISUALhA"
-last_updated: "2026-07-02T05:34:21.117465Z"
-posted_at: "2026-04-14T00:00:00Z"
+last_updated: "2026-07-03T05:34:22.692718Z"
+posted_at: "2022-01-01T00:00:00Z"
 status: ready
 apply_url: "https://www.suvita.org/careers/head-of-technology"
 areas:
@@ -15,7 +15,7 @@ areas:
 **[Suvita](https://www.suvita.org/)**
 
 <dl class="job-meta">
-<dt>Location</dt><dd>Remote, India, Pune, India, Bangalore, India, India, Asia</dd>
+<dt>Location</dt><dd>Pune, India, Remote, India, Bangalore, India, India, Asia</dd>
 <dt>Role type</dt><dd>Full-time</dd>
 <dt>Experience</dt><dd>Mid (5-9 years experience), Senior (10+ years experience)</dd>
 <dt>Degree</dt><dd>Undergraduate degree or less</dd>
@@ -32,4 +32,4 @@ areas:
 <p class="apply-cta"><a href="https://www.suvita.org/careers/head-of-technology">Apply →</a></p>
 
 ---
-*Posted 2026-04-14 · Listing synced 2026-07-02 · 80k job ID `reczuEMUYeISUALhA`*
+*Posted 2022-01-01 · Listing synced 2026-07-03 · 80k job ID `reczuEMUYeISUALhA`*

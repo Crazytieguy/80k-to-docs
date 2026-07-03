@@ -2,7 +2,7 @@
 title: "Software Engineer, Core Technology"
 employer: "UK Government, AI Security Institute"
 job_id: "recSIkKQjRLCdd9Bm"
-last_updated: "2026-07-02T05:33:29.813057Z"
+last_updated: "2026-07-03T05:32:16.366203Z"
 posted_at: "2026-06-15T00:05:00Z"
 status: ready
 apply_url: "https://job-boards.eu.greenhouse.io/aisi/jobs/4386112101"
@@ -19,7 +19,7 @@ areas:
 <dt>Role type</dt><dd>Full-time</dd>
 <dt>Experience</dt><dd>Junior (1-4 years experience), Mid (5-9 years experience)</dd>
 <dt>Degree</dt><dd>Undergraduate degree or less</dd>
-<dt>Salary</dt><dd>$86,382 – $192,698</dd>
+<dt>Salary</dt><dd>$86,923 – $193,905</dd>
 </dl>
 
 **Areas & skills:** AI safety & policy, Software engineering
@@ -34,4 +34,4 @@ areas:
 <p class="apply-cta"><a href="https://job-boards.eu.greenhouse.io/aisi/jobs/4386112101">Apply →</a></p>
 
 ---
-*Posted 2026-06-15 · Listing synced 2026-07-02 · 80k job ID `recSIkKQjRLCdd9Bm`*
+*Posted 2026-06-15 · Listing synced 2026-07-03 · 80k job ID `recSIkKQjRLCdd9Bm`*

@@ -2,10 +2,10 @@
 title: "Member of Technical Staff, Security / Engineering / Research"
 employer: "SL5 Task Force"
 job_id: "recRC1o0RU85Dl9T3"
-last_updated: "2026-07-02T05:33:57.431943Z"
+last_updated: "2026-07-03T05:32:44.450880Z"
 posted_at: "2026-05-25T00:02:00Z"
 status: ready
-apply_url: "https://sl5.org/careers"
+apply_url: "https://jobs.ashbyhq.com/security-level-5/e9857b2d-5e2e-4426-8886-99af4154f5a0"
 areas:
   - "AI safety & policy"
 ---
@@ -31,7 +31,7 @@ areas:
 - Build custom security tooling and run experiments to assess SL5 impact on AI productivity.
 - Co-develop security standards with labs and government stakeholders and publish technical research.
 
-<p class="apply-cta"><a href="https://sl5.org/careers">Apply →</a></p>
+<p class="apply-cta"><a href="https://jobs.ashbyhq.com/security-level-5/e9857b2d-5e2e-4426-8886-99af4154f5a0">Apply →</a></p>
 
 ---
-*Posted 2026-05-25 · Listing synced 2026-07-02 · 80k job ID `recRC1o0RU85Dl9T3`*
+*Posted 2026-05-25 · Listing synced 2026-07-03 · 80k job ID `recRC1o0RU85Dl9T3`*

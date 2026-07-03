@@ -2,7 +2,7 @@
 title: "AI Security Systems Architect, Center for AI Security Research"
 employer: "US Government, Oak Ridge National Laboratory"
 job_id: "rec6fRUp7sSVwcsjj"
-last_updated: "2026-07-02T05:33:32.189092Z"
+last_updated: "2026-07-03T05:32:18.954004Z"
 posted_at: "2026-06-12T00:01:00Z"
 status: ready
 apply_url: "https://jobs.ornl.gov/job/Oak-Ridge-AI-Security-Systems-Architect-TN-37830/1363284300/"
@@ -33,4 +33,4 @@ areas:
 <p class="apply-cta"><a href="https://jobs.ornl.gov/job/Oak-Ridge-AI-Security-Systems-Architect-TN-37830/1363284300/">Apply →</a></p>
 
 ---
-*Posted 2026-06-12 · Listing synced 2026-07-02 · 80k job ID `rec6fRUp7sSVwcsjj`*
+*Posted 2026-06-12 · Listing synced 2026-07-03 · 80k job ID `rec6fRUp7sSVwcsjj`*

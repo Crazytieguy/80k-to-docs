@@ -2,7 +2,7 @@
 title: "Data Scientist, Preparedness"
 employer: "OpenAI"
 job_id: "recZTfKLUvNsYGLuz"
-last_updated: "2026-07-02T05:34:36.136527Z"
+last_updated: "2026-07-03T05:33:21.142235Z"
 posted_at: "2022-01-11T00:00:00Z"
 status: ready
 apply_url: "https://openai.com/careers/data-scientist-preparedness-san-francisco/"
@@ -34,4 +34,4 @@ areas:
 <p class="apply-cta"><a href="https://openai.com/careers/data-scientist-preparedness-san-francisco/">Apply →</a></p>
 
 ---
-*Posted 2022-01-11 · Listing synced 2026-07-02 · 80k job ID `recZTfKLUvNsYGLuz`*
+*Posted 2022-01-11 · Listing synced 2026-07-03 · 80k job ID `recZTfKLUvNsYGLuz`*

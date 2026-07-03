@@ -2,7 +2,7 @@
 title: "Intern, Communication and Campaigns"
 employer: "Animal Equality"
 job_id: "recd02xXlrOV1dcei"
-last_updated: "2026-07-02T05:33:30.751140Z"
+last_updated: "2026-07-03T05:32:17.287458Z"
 posted_at: "2026-06-15T00:00:00Z"
 status: ready
 apply_url: "https://animalequality.org.br/estagiarioa-de-comunicacao-e-campanhas/"
@@ -33,4 +33,4 @@ areas:
 <p class="apply-cta"><a href="https://animalequality.org.br/estagiarioa-de-comunicacao-e-campanhas/">Apply →</a></p>
 
 ---
-*Posted 2026-06-15 · Listing synced 2026-07-02 · 80k job ID `recd02xXlrOV1dcei`*
+*Posted 2026-06-15 · Listing synced 2026-07-03 · 80k job ID `recd02xXlrOV1dcei`*

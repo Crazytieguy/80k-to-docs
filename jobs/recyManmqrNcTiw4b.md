@@ -2,7 +2,7 @@
 title: "Events Manager"
 employer: "The AI Policy Network"
 job_id: "recyManmqrNcTiw4b"
-last_updated: "2026-07-02T05:33:35.171997Z"
+last_updated: "2026-07-03T05:32:22.135778Z"
 posted_at: "2026-06-11T00:02:00Z"
 status: ready
 apply_url: "https://theaipn.org/careers/events-manager/"
@@ -34,4 +34,4 @@ areas:
 <p class="apply-cta"><a href="https://theaipn.org/careers/events-manager/">Apply →</a></p>
 
 ---
-*Posted 2026-06-11 · Listing synced 2026-07-02 · 80k job ID `recyManmqrNcTiw4b`*
+*Posted 2026-06-11 · Listing synced 2026-07-03 · 80k job ID `recyManmqrNcTiw4b`*

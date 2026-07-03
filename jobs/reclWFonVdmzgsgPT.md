@@ -2,22 +2,26 @@
 title: "Technical Bootcamp (Fall 2026)"
 employer: "ML4Good"
 job_id: "reclWFonVdmzgsgPT"
-last_updated: "2026-07-01T05:32:38.841249Z"
+last_updated: "2026-07-03T05:32:18.361832Z"
 posted_at: "2026-06-12T00:03:00Z"
-status: closed
-closed_at: "2026-07-02"
+status: ready
 apply_url: "https://ml4good.org/technical-track/"
 areas:
   - "AI safety & policy"
 ---
 
-> ⚠️ **CLOSED on 2026-07-02** — this job is no longer listed on the 80,000 Hours board. Archived snapshot below.
-
 # Technical Bootcamp (Fall 2026)
 
-**ML4Good**
+**[ML4Good](https://www.ml4good.org/)**
 
-**Areas & skills:** AI safety & policy
+<dl class="job-meta">
+<dt>Location</dt><dd>UK</dd>
+<dt>Role type</dt><dd>Course</dd>
+<dt>Experience</dt><dd>Multiple experience levels</dd>
+<dt>Degree</dt><dd>Undergraduate degree or less</dd>
+</dl>
+
+**Areas & skills:** AI safety & policy, Research, Strategy
 
 ## Summary
 - This bootcamp develops technical expertise in AI safety, covering transformers, LLMs, interpretability, alignment strategies, and technical governance.
@@ -27,4 +31,4 @@ areas:
 <p class="apply-cta"><a href="https://ml4good.org/technical-track/">Apply →</a></p>
 
 ---
-*Posted 2026-06-12 · Listing synced 2026-07-01 · 80k job ID `reclWFonVdmzgsgPT`*
+*Posted 2026-06-12 · Listing synced 2026-07-03 · 80k job ID `reclWFonVdmzgsgPT`*

@@ -2,7 +2,7 @@
 title: "Technical Alignment Research Accelerator"
 employer: "Technical Alignment Research Accelerator"
 job_id: "reczgMhewAtE6XSun"
-last_updated: "2026-07-02T05:33:03.892067Z"
+last_updated: "2026-07-03T05:31:49.937234Z"
 posted_at: "2026-07-01T00:03:00Z"
 status: ready
 apply_url: "https://www.taraprogram.org/"
@@ -32,4 +32,4 @@ areas:
 <p class="apply-cta"><a href="https://www.taraprogram.org/">Apply →</a></p>
 
 ---
-*Posted 2026-07-01 · Listing synced 2026-07-02 · 80k job ID `reczgMhewAtE6XSun`*
+*Posted 2026-07-01 · Listing synced 2026-07-03 · 80k job ID `reczgMhewAtE6XSun`*

@@ -2,7 +2,7 @@
 title: "Talent Scout"
 employer: "Epoch AI"
 job_id: "recrKEBL18ufeQwhi"
-last_updated: "2026-07-02T05:33:06.684088Z"
+last_updated: "2026-07-03T05:31:53.744444Z"
 posted_at: "2026-06-30T00:04:06Z"
 status: ready
 apply_url: "https://jobs.lever.co/epoch-ai/3bad5f64-640c-497f-8d7b-b86e299523a7"
@@ -34,4 +34,4 @@ areas:
 <p class="apply-cta"><a href="https://jobs.lever.co/epoch-ai/3bad5f64-640c-497f-8d7b-b86e299523a7">Apply →</a></p>
 
 ---
-*Posted 2026-06-30 · Listing synced 2026-07-02 · 80k job ID `recrKEBL18ufeQwhi`*
+*Posted 2026-06-30 · Listing synced 2026-07-03 · 80k job ID `recrKEBL18ufeQwhi`*

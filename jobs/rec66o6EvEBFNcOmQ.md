@@ -2,7 +2,7 @@
 title: "Intern, Business Advisory Services and Event Planning"
 employer: "US-China Business Council"
 job_id: "rec66o6EvEBFNcOmQ"
-last_updated: "2026-07-02T05:35:29.333687Z"
+last_updated: "2026-07-03T05:34:14.007476Z"
 posted_at: "2022-01-02T00:00:00Z"
 status: ready
 apply_url: "https://www.uschina.org/business-advisory-services-and-event-planning-intern-beijing/"
@@ -33,4 +33,4 @@ areas:
 <p class="apply-cta"><a href="https://www.uschina.org/business-advisory-services-and-event-planning-intern-beijing/">Apply →</a></p>
 
 ---
-*Posted 2022-01-02 · Listing synced 2026-07-02 · 80k job ID `rec66o6EvEBFNcOmQ`*
+*Posted 2022-01-02 · Listing synced 2026-07-03 · 80k job ID `rec66o6EvEBFNcOmQ`*

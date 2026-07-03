@@ -4,25 +4,20 @@ employer: "Iliad"
 job_id: "recHqY5f8uPQO3wuA"
 last_updated: "2026-07-02T05:33:26.099997Z"
 posted_at: "2026-06-17T00:00:00Z"
-status: ready
+status: closed
+closed_at: "2026-07-03"
 apply_url: "https://www.iliad.ac/programs.html"
 areas:
   - "AI safety & policy"
 ---
 
+> ⚠️ **CLOSED on 2026-07-03** — this job is no longer listed on the 80,000 Hours board. Archived snapshot below.
+
 # Iliad Intensive and Iliad Fellowship
 
-**[Iliad](https://www.iliad.ac/)**
+**Iliad**
 
-<dl class="job-meta">
-<dt>Location</dt><dd>London, UK, San Francisco Bay Area, UK, USA</dd>
-<dt>Role type</dt><dd>Fellowship, Course</dd>
-<dt>Experience</dt><dd>Junior (1-4 years experience), Entry-level</dd>
-<dt>Degree</dt><dd>Undergraduate degree or less</dd>
-<dt>Salary</dt><dd>$5,000</dd>
-</dl>
-
-**Areas & skills:** AI safety & policy, Research, Software engineering
+**Areas & skills:** AI safety & policy
 
 ## Summary
 - In this role, you'll participate in intensive technical AI alignment education programmes.

@@ -2,7 +2,7 @@
 title: "Intern, Public Policy and Stakeholder Engagement (Fall 2026)"
 employer: "Partnership for Public Service"
 job_id: "recghBRRZdWFWdMzD"
-last_updated: "2026-07-02T05:33:36.450637Z"
+last_updated: "2026-07-03T05:32:23.444732Z"
 posted_at: "2026-06-11T00:00:00Z"
 status: ready
 apply_url: "https://job-boards.greenhouse.io/partnershipforpublicservice/jobs/4281581009"
@@ -34,4 +34,4 @@ areas:
 <p class="apply-cta"><a href="https://job-boards.greenhouse.io/partnershipforpublicservice/jobs/4281581009">Apply →</a></p>
 
 ---
-*Posted 2026-06-11 · Listing synced 2026-07-02 · 80k job ID `recghBRRZdWFWdMzD`*
+*Posted 2026-06-11 · Listing synced 2026-07-03 · 80k job ID `recghBRRZdWFWdMzD`*

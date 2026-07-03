@@ -2,7 +2,7 @@
 title: "Summer Intern, Congressional Program"
 employer: "Aspen Institute"
 job_id: "recmXPoQvrEDV6Jco"
-last_updated: "2026-07-02T05:33:08.278443Z"
+last_updated: "2026-07-03T05:31:55.384161Z"
 posted_at: "2026-06-30T00:00:00Z"
 status: ready
 apply_url: "http://aspeninstitute.hrmdirect.com/employment/job-opening.php?req=3746657&req_loc=1374008#job"
@@ -34,4 +34,4 @@ areas:
 <p class="apply-cta"><a href="http://aspeninstitute.hrmdirect.com/employment/job-opening.php?req=3746657&amp;req_loc=1374008#job">Apply →</a></p>
 
 ---
-*Posted 2026-06-30 · Listing synced 2026-07-02 · 80k job ID `recmXPoQvrEDV6Jco`*
+*Posted 2026-06-30 · Listing synced 2026-07-03 · 80k job ID `recmXPoQvrEDV6Jco`*

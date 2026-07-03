@@ -4,25 +4,20 @@ employer: "Center for Strategic and International Studies"
 job_id: "recGpUHWdBJtA9R4v"
 last_updated: "2026-07-02T05:35:16.500514Z"
 posted_at: "2022-01-02T00:00:00Z"
-status: ready
+status: closed
+closed_at: "2026-07-03"
 apply_url: "https://careers.csis.org/opportunities/1753"
 areas:
   - "Career development: Policy & government"
 ---
 
+> ⚠️ **CLOSED on 2026-07-03** — this job is no longer listed on the 80,000 Hours board. Archived snapshot below.
+
 # Fellow / Associate Fellow, Economics Program and Scholl Chair in International Business
 
-**[Center for Strategic and International Studies](https://www.csis.org/)**
+**Center for Strategic and International Studies**
 
-<dl class="job-meta">
-<dt>Location</dt><dd>Washington, DC metro area, USA</dd>
-<dt>Role type</dt><dd>Fellowship</dd>
-<dt>Experience</dt><dd>Junior (1-4 years experience)</dd>
-<dt>Degree</dt><dd>Master's degree</dd>
-<dt>Salary</dt><dd>$70,000 – $100,000</dd>
-</dl>
-
-**Areas & skills:** Career development: Policy & government, Research, Policy
+**Areas & skills:** Career development: Policy & government
 
 ## Summary
 - In this role, you'll conduct independent research on international economic policy to shape policy debates and inform decision-makers.

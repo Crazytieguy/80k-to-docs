@@ -2,7 +2,7 @@
 title: "Social and Community Manager"
 employer: "Center for AI Safety"
 job_id: "recVDRSYDe9HkR2yu"
-last_updated: "2026-07-02T05:33:39.338026Z"
+last_updated: "2026-07-03T05:32:26.342674Z"
 posted_at: "2026-06-09T00:04:00Z"
 status: ready
 apply_url: "https://jobs.lever.co/aisafety/7c960ea7-2aba-4ec6-af72-5676cbf8305e"
@@ -34,4 +34,4 @@ areas:
 <p class="apply-cta"><a href="https://jobs.lever.co/aisafety/7c960ea7-2aba-4ec6-af72-5676cbf8305e">Apply →</a></p>
 
 ---
-*Posted 2026-06-09 · Listing synced 2026-07-02 · 80k job ID `recVDRSYDe9HkR2yu`*
+*Posted 2026-06-09 · Listing synced 2026-07-03 · 80k job ID `recVDRSYDe9HkR2yu`*

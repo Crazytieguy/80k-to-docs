@@ -2,7 +2,7 @@
 title: "Intern, Quality Engineering"
 employer: "One Acre Fund"
 job_id: "recNwfAZ8zWTJUorH"
-last_updated: "2026-07-02T05:33:08.783063Z"
+last_updated: "2026-07-03T05:31:55.923887Z"
 posted_at: "2026-06-30T00:00:00Z"
 status: ready
 apply_url: "https://oneacrefund.org/vacancies/quality-engineering-intern"
@@ -33,4 +33,4 @@ areas:
 <p class="apply-cta"><a href="https://oneacrefund.org/vacancies/quality-engineering-intern">Apply →</a></p>
 
 ---
-*Posted 2026-06-30 · Listing synced 2026-07-02 · 80k job ID `recNwfAZ8zWTJUorH`*
+*Posted 2026-06-30 · Listing synced 2026-07-03 · 80k job ID `recNwfAZ8zWTJUorH`*

@@ -2,7 +2,7 @@
 title: "IT Coordinator / IT Specialist"
 employer: "Constellation"
 job_id: "recEtFx5yKdRcY2MX"
-last_updated: "2026-07-02T05:33:44.570955Z"
+last_updated: "2026-07-03T05:32:31.477899Z"
 posted_at: "2026-06-05T00:04:44Z"
 status: ready
 apply_url: "https://jobs.gem.com/constellation-institute/am9icG9zdDoeeCG0xVg_BD92R8ev_Smg"
@@ -34,4 +34,4 @@ areas:
 <p class="apply-cta"><a href="https://jobs.gem.com/constellation-institute/am9icG9zdDoeeCG0xVg_BD92R8ev_Smg">Apply →</a></p>
 
 ---
-*Posted 2026-06-05 · Listing synced 2026-07-02 · 80k job ID `recEtFx5yKdRcY2MX`*
+*Posted 2026-06-05 · Listing synced 2026-07-03 · 80k job ID `recEtFx5yKdRcY2MX`*

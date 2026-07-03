@@ -2,7 +2,7 @@
 title: "Research Assistant, AI in Science"
 employer: "Massachusetts Institute of Technology, FutureTech"
 job_id: "reccQ5oRa0kpsRz6F"
-last_updated: "2026-07-02T05:34:53.290397Z"
+last_updated: "2026-07-03T05:33:38.796874Z"
 posted_at: "2022-01-06T00:00:00Z"
 status: ready
 apply_url: "https://futuretech.mit.edu/opportunities/research-assistant---ai-in-science"
@@ -33,4 +33,4 @@ areas:
 <p class="apply-cta"><a href="https://futuretech.mit.edu/opportunities/research-assistant---ai-in-science">Apply →</a></p>
 
 ---
-*Posted 2022-01-06 · Listing synced 2026-07-02 · 80k job ID `reccQ5oRa0kpsRz6F`*
+*Posted 2022-01-06 · Listing synced 2026-07-03 · 80k job ID `reccQ5oRa0kpsRz6F`*

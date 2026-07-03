@@ -4,25 +4,20 @@ employer: "Center for Strategic and International Studies"
 job_id: "recX7auHSN4KBNAPS"
 last_updated: "2026-07-02T05:35:16.331123Z"
 posted_at: "2022-01-02T00:00:00Z"
-status: ready
+status: closed
+closed_at: "2026-07-03"
 apply_url: "https://careers.csis.org/opportunities/1703"
 areas:
   - "Career development: Policy & government"
 ---
 
+> ⚠️ **CLOSED on 2026-07-03** — this job is no longer listed on the 80,000 Hours board. Archived snapshot below.
+
 # Intern, Korea Chair (Spring 2026)
 
-**[Center for Strategic and International Studies](https://www.csis.org/)**
+**Center for Strategic and International Studies**
 
-<dl class="job-meta">
-<dt>Location</dt><dd>Washington, DC metro area, USA</dd>
-<dt>Role type</dt><dd>Internship</dd>
-<dt>Experience</dt><dd>Entry-level</dd>
-<dt>Degree</dt><dd>Undergraduate degree or less</dd>
-<dt>Salary</dt><dd>$37,440 – $41,600</dd>
-</dl>
-
-**Areas & skills:** Career development: Policy & government, Research, Policy
+**Areas & skills:** Career development: Policy & government
 
 ## Summary
 - In this role, you'll support the Korea Chair's policy research program on Korean peninsula issues through research, data management, and event coordination.

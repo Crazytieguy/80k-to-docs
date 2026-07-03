@@ -2,7 +2,7 @@
 title: "Singapore AI Safety Fellowship"
 employer: "SASH"
 job_id: "recZITrH9nz0hZh7m"
-last_updated: "2026-07-02T05:33:13.122652Z"
+last_updated: "2026-07-03T05:32:00.414026Z"
 posted_at: "2026-06-26T00:03:00Z"
 status: ready
 apply_url: "https://www.aisafety.sg/programs/singapore-ai-safety-fellowship"
@@ -19,7 +19,7 @@ areas:
 <dt>Role type</dt><dd>Fellowship</dd>
 <dt>Experience</dt><dd>Junior (1-4 years experience)</dd>
 <dt>Degree</dt><dd>Undergraduate degree or less</dd>
-<dt>Salary</dt><dd>$46,330</dd>
+<dt>Salary</dt><dd>$46,476</dd>
 </dl>
 
 **Areas & skills:** AI safety & policy, Research, Policy
@@ -34,4 +34,4 @@ areas:
 <p class="apply-cta"><a href="https://www.aisafety.sg/programs/singapore-ai-safety-fellowship">Apply →</a></p>
 
 ---
-*Posted 2026-06-26 · Listing synced 2026-07-02 · 80k job ID `recZITrH9nz0hZh7m`*
+*Posted 2026-06-26 · Listing synced 2026-07-03 · 80k job ID `recZITrH9nz0hZh7m`*

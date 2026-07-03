@@ -4,24 +4,20 @@ employer: "Longview Philanthropy"
 job_id: "rec6GDty8e9NbiC8L"
 last_updated: "2026-07-02T05:33:55.472192Z"
 posted_at: "2026-05-27T00:04:54Z"
-status: ready
+status: closed
+closed_at: "2026-07-03"
 apply_url: "https://www.longview.org/request-for-proposals-on-extreme-power-concentration/"
 areas:
   - "AI safety & policy"
 ---
 
+> ⚠️ **CLOSED on 2026-07-03** — this job is no longer listed on the 80,000 Hours board. Archived snapshot below.
+
 # Request for Proposals, Extreme Power Concentration
 
-**[Longview Philanthropy](https://www.longview.org/)**
+**Longview Philanthropy**
 
-<dl class="job-meta">
-<dt>Location</dt><dd>Remote, Global</dd>
-<dt>Role type</dt><dd>Funding</dd>
-<dt>Experience</dt><dd>Multiple experience levels</dd>
-<dt>Degree</dt><dd>Undergraduate degree or less</dd>
-</dl>
-
-**Areas & skills:** AI safety & policy, Research, Strategy
+**Areas & skills:** AI safety & policy
 
 ## Summary
 - Longview Philanthropy seeks to fund proposals to better understand and reduce the risk of AI enabling the extreme concentration of power.

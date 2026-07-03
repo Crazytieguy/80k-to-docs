@@ -2,7 +2,7 @@
 title: "Incident Response Manager, Enforcement"
 employer: "Anthropic"
 job_id: "recXJZIrqZYYd9p6J"
-last_updated: "2026-07-02T05:34:04.024695Z"
+last_updated: "2026-07-03T05:32:50.488770Z"
 posted_at: "2026-05-19T00:00:00Z"
 status: ready
 apply_url: "https://job-boards.greenhouse.io/anthropic/jobs/5211184008"
@@ -15,7 +15,7 @@ areas:
 **[Anthropic](https://www.anthropic.com/)**
 
 <dl class="job-meta">
-<dt>Location</dt><dd>San Francisco Bay Area, New York, NY, Washington, DC metro area, USA, USA (Confirmed Visas)</dd>
+<dt>Location</dt><dd>Washington, DC metro area, San Francisco Bay Area, New York, NY, USA, USA (Confirmed Visas)</dd>
 <dt>Role type</dt><dd>Full-time</dd>
 <dt>Experience</dt><dd>Mid (5-9 years experience), Senior (10+ years experience)</dd>
 <dt>Degree</dt><dd>Undergraduate degree or less</dd>
@@ -34,4 +34,4 @@ areas:
 <p class="apply-cta"><a href="https://job-boards.greenhouse.io/anthropic/jobs/5211184008">Apply →</a></p>
 
 ---
-*Posted 2026-05-19 · Listing synced 2026-07-02 · 80k job ID `recXJZIrqZYYd9p6J`*
+*Posted 2026-05-19 · Listing synced 2026-07-03 · 80k job ID `recXJZIrqZYYd9p6J`*

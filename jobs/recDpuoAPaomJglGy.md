@@ -2,7 +2,7 @@
 title: "Backend Engineer, Monitoring"
 employer: "Apollo Research"
 job_id: "recDpuoAPaomJglGy"
-last_updated: "2026-07-02T05:34:44.448642Z"
+last_updated: "2026-07-03T05:33:29.887653Z"
 posted_at: "2022-01-06T00:00:00Z"
 status: ready
 apply_url: "https://jobs.lever.co/apolloresearch/94581287-e3ac-40b6-90e2-438e0ca9064a"
@@ -19,7 +19,7 @@ areas:
 <dt>Role type</dt><dd>Full-time</dd>
 <dt>Experience</dt><dd>Junior (1-4 years experience), Mid (5-9 years experience)</dd>
 <dt>Degree</dt><dd>Undergraduate degree or less</dd>
-<dt>Salary</dt><dd>$132,895 – $239,211</dd>
+<dt>Salary</dt><dd>$133,728 – $240,710</dd>
 </dl>
 
 **Areas & skills:** AI safety & policy, Software engineering, Information security
@@ -34,4 +34,4 @@ areas:
 <p class="apply-cta"><a href="https://jobs.lever.co/apolloresearch/94581287-e3ac-40b6-90e2-438e0ca9064a">Apply →</a></p>
 
 ---
-*Posted 2022-01-06 · Listing synced 2026-07-02 · 80k job ID `recDpuoAPaomJglGy`*
+*Posted 2022-01-06 · Listing synced 2026-07-03 · 80k job ID `recDpuoAPaomJglGy`*

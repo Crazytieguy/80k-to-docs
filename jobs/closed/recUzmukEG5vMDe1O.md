@@ -4,25 +4,20 @@ employer: "Center for Humane Technology"
 job_id: "recUzmukEG5vMDe1O"
 last_updated: "2026-07-02T05:33:25.214459Z"
 posted_at: "2026-06-17T00:00:00Z"
-status: ready
+status: closed
+closed_at: "2026-07-03"
 apply_url: "https://jobs.pcdn.global/jobs/cht-s-emerging-voices-in-ai-and-society-fellowship-81da49a0"
 areas:
   - "AI safety & policy"
 ---
 
+> ⚠️ **CLOSED on 2026-07-03** — this job is no longer listed on the 80,000 Hours board. Archived snapshot below.
+
 # Fellowship, Emerging Voices in AI and Society (x3)
 
-**[Center for Humane Technology](https://humanetech.com)**
+**Center for Humane Technology**
 
-<dl class="job-meta">
-<dt>Location</dt><dd>Remote, Global</dd>
-<dt>Role type</dt><dd>Fellowship</dd>
-<dt>Experience</dt><dd>Mid (5-9 years experience)</dd>
-<dt>Degree</dt><dd>Undergraduate degree or less</dd>
-<dt>Salary</dt><dd>$30,000</dd>
-</dl>
-
-**Areas & skills:** AI safety & policy, Research, Outreach
+**Areas & skills:** AI safety & policy
 
 ## Summary
 - In this role, you'll conduct research on AI's impacts in a chosen focus area and produce work designed for public influence.
