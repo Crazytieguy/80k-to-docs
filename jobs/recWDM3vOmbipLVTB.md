@@ -2,7 +2,7 @@
 title: "Request for Proposals / Fellowships, Research and Applied Work on Digital Minds"
 employer: "Longview Philanthropy"
 job_id: "recWDM3vOmbipLVTB"
-last_updated: "2026-07-03T05:32:33.834326Z"
+last_updated: "2026-07-04T05:32:42.374539Z"
 posted_at: "2026-06-04T00:05:00Z"
 status: ready
 apply_url: "https://www.longview.org/request-for-proposals-research-and-applied-work-on-digital-minds/"
@@ -32,4 +32,4 @@ areas:
 <p class="apply-cta"><a href="https://www.longview.org/request-for-proposals-research-and-applied-work-on-digital-minds/">Apply →</a></p>
 
 ---
-*Posted 2026-06-04 · Listing synced 2026-07-03 · 80k job ID `recWDM3vOmbipLVTB`*
+*Posted 2026-06-04 · Listing synced 2026-07-04 · 80k job ID `recWDM3vOmbipLVTB`*

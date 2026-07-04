@@ -2,7 +2,7 @@
 title: "Research Manager, AIxBio, Part-Time"
 employer: "Cambridge Boston Alignment Initiative"
 job_id: "reckvoffC2VCxOHtt"
-last_updated: "2026-07-03T05:33:32.177195Z"
+last_updated: "2026-07-04T05:33:42.479693Z"
 posted_at: "2022-01-06T00:00:00Z"
 status: ready
 apply_url: "https://jobs.ashbyhq.com/cbai/e1f50e09-077f-4163-abff-895c12a20799"
@@ -34,4 +34,4 @@ areas:
 <p class="apply-cta"><a href="https://jobs.ashbyhq.com/cbai/e1f50e09-077f-4163-abff-895c12a20799">Apply →</a></p>
 
 ---
-*Posted 2022-01-06 · Listing synced 2026-07-03 · 80k job ID `reckvoffC2VCxOHtt`*
+*Posted 2022-01-06 · Listing synced 2026-07-04 · 80k job ID `reckvoffC2VCxOHtt`*

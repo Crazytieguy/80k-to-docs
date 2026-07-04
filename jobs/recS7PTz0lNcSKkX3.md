@@ -2,7 +2,7 @@
 title: "Office Manager, London"
 employer: "MATS Research"
 job_id: "recS7PTz0lNcSKkX3"
-last_updated: "2026-07-03T05:31:43.694305Z"
+last_updated: "2026-07-04T05:31:50.410679Z"
 posted_at: "2026-07-02T00:05:00Z"
 status: ready
 apply_url: "https://www.matsprogram.org/careers/office-manager"
@@ -19,7 +19,7 @@ areas:
 <dt>Role type</dt><dd>Full-time</dd>
 <dt>Experience</dt><dd>Junior (1-4 years experience)</dd>
 <dt>Degree</dt><dd>Undergraduate degree or less</dd>
-<dt>Salary</dt><dd>$73,550 – $106,982</dd>
+<dt>Salary</dt><dd>$73,429 – $106,806</dd>
 </dl>
 
 **Areas & skills:** AI safety & policy, Operations
@@ -34,4 +34,4 @@ areas:
 <p class="apply-cta"><a href="https://www.matsprogram.org/careers/office-manager">Apply →</a></p>
 
 ---
-*Posted 2026-07-02 · Listing synced 2026-07-03 · 80k job ID `recS7PTz0lNcSKkX3`*
+*Posted 2026-07-02 · Listing synced 2026-07-04 · 80k job ID `recS7PTz0lNcSKkX3`*

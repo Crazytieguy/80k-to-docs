@@ -2,7 +2,7 @@
 title: "Assistant Director, Policy Lead Support"
 employer: "EY"
 job_id: "rec9M35pueerEbZWB"
-last_updated: "2026-07-03T05:31:51.741805Z"
+last_updated: "2026-07-04T05:31:57.300360Z"
 posted_at: "2026-07-01T00:00:00Z"
 status: ready
 apply_url: "https://careers.ey.com/ey/job/Gurgaon-Assistant-Director-Policy-Lead-Support-HR-122010/1408858333/"
@@ -33,4 +33,4 @@ areas:
 <p class="apply-cta"><a href="https://careers.ey.com/ey/job/Gurgaon-Assistant-Director-Policy-Lead-Support-HR-122010/1408858333/">Apply →</a></p>
 
 ---
-*Posted 2026-07-01 · Listing synced 2026-07-03 · 80k job ID `rec9M35pueerEbZWB`*
+*Posted 2026-07-01 · Listing synced 2026-07-04 · 80k job ID `rec9M35pueerEbZWB`*

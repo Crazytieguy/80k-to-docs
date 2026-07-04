@@ -4,25 +4,20 @@ employer: "Mercy for Animals"
 job_id: "recML8t1q1ieny27g"
 last_updated: "2026-07-03T05:32:32.695486Z"
 posted_at: "2026-06-05T00:00:00Z"
-status: ready
+status: closed
+closed_at: "2026-07-04"
 apply_url: "https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=9b16364c-5e0e-4e66-be82-8f108b1eb279&ccId=19000101_000001&jobId=552902&lang=en_US&source=LR"
 areas:
   - "Animal welfare"
 ---
 
+> ⚠️ **CLOSED on 2026-07-04** — this job is no longer listed on the 80,000 Hours board. Archived snapshot below.
+
 # Manager, Transformational Giving Strategy
 
-**[Mercy for Animals](https://www.mercyforanimals.org)**
+**Mercy for Animals**
 
-<dl class="job-meta">
-<dt>Location</dt><dd>Remote, Global</dd>
-<dt>Role type</dt><dd>Full-time</dd>
-<dt>Experience</dt><dd>Junior (1-4 years experience), Mid (5-9 years experience)</dd>
-<dt>Degree</dt><dd>Undergraduate degree or less</dd>
-<dt>Salary</dt><dd>$66,730 – $79,700</dd>
-</dl>
-
-**Areas & skills:** Animal welfare, Operations, Strategy
+**Areas & skills:** Animal welfare
 
 ## Summary
 - In this role, you'll manage systems and coordination for top-tier donor relationships, driving engagement and accountability.

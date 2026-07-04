@@ -2,7 +2,7 @@
 title: "Security Engineer, Research Infrastructure"
 employer: "Resolution"
 job_id: "recSnaLho07qpbEEe"
-last_updated: "2026-07-03T05:31:48.817655Z"
+last_updated: "2026-07-04T05:31:55.419143Z"
 posted_at: "2026-07-01T00:05:00Z"
 status: ready
 apply_url: "https://jobs.ashbyhq.com/resolution/d803b4b1-4b4a-4ea8-8ded-ae54e1e1107b"
@@ -25,7 +25,7 @@ areas:
 **Areas & skills:** AI safety & policy, Software engineering, Information security
 
 ## Summary
-- In this role, you'll architect the security framework for our research pipeline across multiple cloud environments.
+- In this role, you'll architect the security framework for their research pipeline across multiple cloud environments.
 - Build security guardrails into CI/CD pipelines and automate verification workflows for agent-driven code deployments.
 - Implement Compliance as Code to audit security configurations across AWS, GCP, and other platforms.
 - Design security models for research agents with least-privilege access to protect sensitive IP and credentials.
@@ -34,4 +34,4 @@ areas:
 <p class="apply-cta"><a href="https://jobs.ashbyhq.com/resolution/d803b4b1-4b4a-4ea8-8ded-ae54e1e1107b">Apply →</a></p>
 
 ---
-*Posted 2026-07-01 · Listing synced 2026-07-03 · 80k job ID `recSnaLho07qpbEEe`*
+*Posted 2026-07-01 · Listing synced 2026-07-04 · 80k job ID `recSnaLho07qpbEEe`*

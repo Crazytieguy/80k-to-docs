@@ -2,7 +2,7 @@
 title: "Expression of Interest, Project Incubator Mentor"
 employer: "Sentient Futures"
 job_id: "recXWZcnWZ58vBzn6"
-last_updated: "2026-07-03T05:32:12.795722Z"
+last_updated: "2026-07-04T05:32:20.059921Z"
 posted_at: "2026-06-17T00:00:00Z"
 status: ready
 apply_url: "https://airtable.com/appme7HmPhyhBTODD/pagRcjQtZaQTbuMaC/form"
@@ -34,4 +34,4 @@ areas:
 <p class="apply-cta"><a href="https://airtable.com/appme7HmPhyhBTODD/pagRcjQtZaQTbuMaC/form">Apply →</a></p>
 
 ---
-*Posted 2026-06-17 · Listing synced 2026-07-03 · 80k job ID `recXWZcnWZ58vBzn6`*
+*Posted 2026-06-17 · Listing synced 2026-07-04 · 80k job ID `recXWZcnWZ58vBzn6`*

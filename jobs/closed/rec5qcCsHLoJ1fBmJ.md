@@ -4,25 +4,20 @@ employer: "Constellation"
 job_id: "rec5qcCsHLoJ1fBmJ"
 last_updated: "2026-07-03T05:33:49.213291Z"
 posted_at: "2022-01-05T00:00:00Z"
-status: ready
+status: closed
+closed_at: "2026-07-04"
 apply_url: "https://jobs.gem.com/constellation-institute/33309945-c904-4ae0-b169-a1797c925fdd"
 areas:
   - "AI safety & policy"
 ---
 
+> ⚠️ **CLOSED on 2026-07-04** — this job is no longer listed on the 80,000 Hours board. Archived snapshot below.
+
 # Director of Site Services
 
-**[Constellation](https://www.constellation.org/)**
+**Constellation**
 
-<dl class="job-meta">
-<dt>Location</dt><dd>San Francisco Bay Area, USA</dd>
-<dt>Role type</dt><dd>Full-time</dd>
-<dt>Experience</dt><dd>Senior (10+ years experience)</dd>
-<dt>Degree</dt><dd>Undergraduate degree or less</dd>
-<dt>Salary</dt><dd>$180,000 – $240,000</dd>
-</dl>
-
-**Areas & skills:** AI safety & policy, Operations, Management
+**Areas & skills:** AI safety & policy
 
 ## Summary
 - In this role, you'll lead site services for an AI safety research center, overseeing IT, Security, Site Operations, and Catering.

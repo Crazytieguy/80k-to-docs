@@ -4,24 +4,20 @@ employer: "US Government, Oak Ridge National Laboratory"
 job_id: "rec6fRUp7sSVwcsjj"
 last_updated: "2026-07-03T05:32:18.954004Z"
 posted_at: "2026-06-12T00:01:00Z"
-status: ready
+status: closed
+closed_at: "2026-07-04"
 apply_url: "https://jobs.ornl.gov/job/Oak-Ridge-AI-Security-Systems-Architect-TN-37830/1363284300/"
 areas:
   - "AI safety & policy"
 ---
 
+> ⚠️ **CLOSED on 2026-07-04** — this job is no longer listed on the 80,000 Hours board. Archived snapshot below.
+
 # AI Security Systems Architect, Center for AI Security Research
 
-**[US Government, Oak Ridge National Laboratory](https://www.ornl.gov/)**
+**US Government, Oak Ridge National Laboratory**
 
-<dl class="job-meta">
-<dt>Location</dt><dd>Oak Ridge, TN, USA</dd>
-<dt>Role type</dt><dd>Full-time</dd>
-<dt>Experience</dt><dd>Multiple experience levels</dd>
-<dt>Degree</dt><dd>Master's degree</dd>
-</dl>
-
-**Areas & skills:** AI safety & policy, Software engineering, Information security
+**Areas & skills:** AI safety & policy
 
 ## Summary
 - In this role, you'll architect scalable systems for AI security testing and evaluation using adversarial methodologies.

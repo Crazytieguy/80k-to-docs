@@ -2,7 +2,7 @@
 title: "Research Associate"
 employer: "Hudson Institute"
 job_id: "reco8JhEbmqrdM6yS"
-last_updated: "2026-07-03T05:31:59.691675Z"
+last_updated: "2026-07-04T05:32:05.506195Z"
 posted_at: "2026-06-29T00:00:00Z"
 status: ready
 apply_url: "https://recruiting.paylocity.com/Recruiting/Jobs/Details/4288162"
@@ -34,4 +34,4 @@ areas:
 <p class="apply-cta"><a href="https://recruiting.paylocity.com/Recruiting/Jobs/Details/4288162">Apply →</a></p>
 
 ---
-*Posted 2026-06-29 · Listing synced 2026-07-03 · 80k job ID `reco8JhEbmqrdM6yS`*
+*Posted 2026-06-29 · Listing synced 2026-07-04 · 80k job ID `reco8JhEbmqrdM6yS`*

@@ -2,7 +2,7 @@
 title: "Assistant Professor / Associate Professor / Professor"
 employer: "National University of Singapore, Asia Centre for Health Security"
 job_id: "recdw3z9ZBuvBr7By"
-last_updated: "2026-07-03T05:33:56.928764Z"
+last_updated: "2026-07-04T05:34:11.609963Z"
 posted_at: "2022-01-04T00:00:00Z"
 status: ready
 apply_url: "https://sph.nus.edu.sg/about/careers/"
@@ -28,9 +28,9 @@ areas:
 - Establish an independent research agenda through securing extramural funding.
 - Develop and participate in collaborative, multidisciplinary research initiatives.
 - Design and teach undergraduate and graduate courses in public health.
-- Our take on this role: We think the focus areas of Epidemiology and Modelling, Health Security, Health Systems and Policy are promising for biosecurity work.
+- Our take on this role: We think the focus areas of Epidemiology and Modelling, Health Security, Health Systems and Policy are promising for [biosecurity](https://80000hours.org/career-reviews/pandemic-prevention-biosecurity/) work.
 
 <p class="apply-cta"><a href="https://sph.nus.edu.sg/about/careers/">Apply →</a></p>
 
 ---
-*Posted 2022-01-04 · Listing synced 2026-07-03 · 80k job ID `recdw3z9ZBuvBr7By`*
+*Posted 2022-01-04 · Listing synced 2026-07-04 · 80k job ID `recdw3z9ZBuvBr7By`*

@@ -2,7 +2,7 @@
 title: "Industry Consultant, Vietnam"
 employer: "Lead Exposure Elimination Project"
 job_id: "recQxegpxJLpp5TQG"
-last_updated: "2026-07-03T05:34:08.878314Z"
+last_updated: "2026-07-04T05:34:23.488756Z"
 posted_at: "2022-01-02T00:00:00Z"
 status: ready
 apply_url: "https://docs.google.com/document/d/1WPU50PPtDHy9fA4lwF-3W0YNYJaTRm3LwKcvYaOklVM/preview?tab=t.0"
@@ -33,4 +33,4 @@ areas:
 <p class="apply-cta"><a href="https://docs.google.com/document/d/1WPU50PPtDHy9fA4lwF-3W0YNYJaTRm3LwKcvYaOklVM/preview?tab=t.0">Apply →</a></p>
 
 ---
-*Posted 2022-01-02 · Listing synced 2026-07-03 · 80k job ID `recQxegpxJLpp5TQG`*
+*Posted 2022-01-02 · Listing synced 2026-07-04 · 80k job ID `recQxegpxJLpp5TQG`*

@@ -2,7 +2,7 @@
 title: "Senior Writer"
 employer: "The Deep View"
 job_id: "recywkt9PZkgGCgoI"
-last_updated: "2026-07-03T05:33:55.706509Z"
+last_updated: "2026-07-04T05:34:10.002692Z"
 posted_at: "2022-01-05T00:00:00Z"
 status: ready
 apply_url: "https://jobs.ashbyhq.com/tdv/4aa51878-d68a-4b09-a007-9c311ccf3271?trk=feed_main-feed-card_feed-article-content"
@@ -28,9 +28,9 @@ areas:
 - Write and deliver a sharp, engaging daily newsletter that keeps readers informed about AI developments.
 - Sift through AI news to identify truly important stories, providing original analysis that differentiates our coverage.
 - Develop distinctive areas of expertise and become a go-to expert on specific AI beats.
-- Our take on this role: This is a promising opportunity for somebody who will focus on developments relevant to AI safety.
+- Our take on this role: This is a promising opportunity for somebody who will focus on developments relevant to [AI safety](https://80000hours.org/ai).
 
 <p class="apply-cta"><a href="https://jobs.ashbyhq.com/tdv/4aa51878-d68a-4b09-a007-9c311ccf3271?trk=feed_main-feed-card_feed-article-content">Apply →</a></p>
 
 ---
-*Posted 2022-01-05 · Listing synced 2026-07-03 · 80k job ID `recywkt9PZkgGCgoI`*
+*Posted 2022-01-05 · Listing synced 2026-07-04 · 80k job ID `recywkt9PZkgGCgoI`*

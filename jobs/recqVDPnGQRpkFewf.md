@@ -2,7 +2,7 @@
 title: "Opportunities, Asia"
 employer: "Innovations for Poverty Action"
 job_id: "recqVDPnGQRpkFewf"
-last_updated: "2026-07-03T05:34:20.412672Z"
+last_updated: "2026-07-04T05:34:35.970925Z"
 posted_at: "2022-01-01T00:00:00Z"
 status: ready
 apply_url: "https://poverty-action.org/current-opportunities#:~:text=of%20Data%20Science-,Asia%20and%20Oceania,-Philippines"
@@ -30,4 +30,4 @@ areas:
 <p class="apply-cta"><a href="https://poverty-action.org/current-opportunities#:~:text=of%20Data%20Science-,Asia%20and%20Oceania,-Philippines">Apply →</a></p>
 
 ---
-*Posted 2022-01-01 · Listing synced 2026-07-03 · 80k job ID `recqVDPnGQRpkFewf`*
+*Posted 2022-01-01 · Listing synced 2026-07-04 · 80k job ID `recqVDPnGQRpkFewf`*

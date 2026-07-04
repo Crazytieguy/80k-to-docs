@@ -4,25 +4,21 @@ employer: "Alliance to Feed the Earth in Disasters"
 job_id: "recKGLahbhQsaN05f"
 last_updated: "2026-07-03T05:32:37.522143Z"
 posted_at: "2026-06-01T00:02:00Z"
-status: ready
+status: closed
+closed_at: "2026-07-04"
 apply_url: "https://allfed.info/join-us?view=article&id=457%3Au-s-policy-engagement-specialist&catid=39"
 areas:
   - "Nuclear security"
   - "Civilisation resilience"
 ---
 
+> ⚠️ **CLOSED on 2026-07-04** — this job is no longer listed on the 80,000 Hours board. Archived snapshot below.
+
 # U.S. Policy Engagement Specialist
 
-**[Alliance to Feed the Earth in Disasters](https://allfed.info/)**
+**Alliance to Feed the Earth in Disasters**
 
-<dl class="job-meta">
-<dt>Location</dt><dd>Washington, DC metro area, USA</dd>
-<dt>Role type</dt><dd>Full-time</dd>
-<dt>Experience</dt><dd>Junior (1-4 years experience)</dd>
-<dt>Degree</dt><dd>Undergraduate degree or less</dd>
-</dl>
-
-**Areas & skills:** Nuclear security, Civilisation resilience, Policy
+**Areas & skills:** Nuclear security, Civilisation resilience
 
 ## Summary
 - In this role, you'll build coalitions advocating for emergency biofuel policy flexibility during food catastrophes.

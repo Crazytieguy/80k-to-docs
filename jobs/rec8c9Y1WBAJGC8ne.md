@@ -2,7 +2,7 @@
 title: "Faculty"
 employer: "Tsinghua University, College of AI"
 job_id: "rec8c9Y1WBAJGC8ne"
-last_updated: "2026-07-03T05:33:56.106146Z"
+last_updated: "2026-07-04T05:34:10.671721Z"
 posted_at: "2022-01-05T00:00:00Z"
 status: ready
 apply_url: "https://collegeai.tsinghua.edu.cn/en/rengongzhinengxueyuanrencaizhaopinhaibao-yingwenban.pdf"
@@ -31,4 +31,4 @@ areas:
 <p class="apply-cta"><a href="https://collegeai.tsinghua.edu.cn/en/rengongzhinengxueyuanrencaizhaopinhaibao-yingwenban.pdf">Apply →</a></p>
 
 ---
-*Posted 2022-01-05 · Listing synced 2026-07-03 · 80k job ID `rec8c9Y1WBAJGC8ne`*
+*Posted 2022-01-05 · Listing synced 2026-07-04 · 80k job ID `rec8c9Y1WBAJGC8ne`*

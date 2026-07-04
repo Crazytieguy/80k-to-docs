@@ -2,7 +2,7 @@
 title: "List of Internship Opportunities, U.S. Senate"
 employer: "US Government, Senate"
 job_id: "recCtbgPE9WeKcvl7"
-last_updated: "2026-07-03T05:31:56.879653Z"
+last_updated: "2026-07-04T05:32:02.719931Z"
 posted_at: "2026-06-30T00:00:00Z"
 status: ready
 apply_url: "https://www.senate.gov/employment/po/internships.htm"
@@ -32,4 +32,4 @@ areas:
 <p class="apply-cta"><a href="https://www.senate.gov/employment/po/internships.htm">Apply →</a></p>
 
 ---
-*Posted 2026-06-30 · Listing synced 2026-07-03 · 80k job ID `recCtbgPE9WeKcvl7`*
+*Posted 2026-06-30 · Listing synced 2026-07-04 · 80k job ID `recCtbgPE9WeKcvl7`*

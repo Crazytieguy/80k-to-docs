@@ -2,7 +2,7 @@
 title: "Communications Program Manager"
 employer: "Pax Sapiens"
 job_id: "recq1MxeD8jReLUXo"
-last_updated: "2026-07-03T05:32:08.188598Z"
+last_updated: "2026-07-04T05:32:15.268539Z"
 posted_at: "2026-06-19T00:02:00Z"
 status: ready
 apply_url: "https://paxsapiens.bamboohr.com/careers/56"
@@ -35,4 +35,4 @@ areas:
 <p class="apply-cta"><a href="https://paxsapiens.bamboohr.com/careers/56">Apply →</a></p>
 
 ---
-*Posted 2026-06-19 · Listing synced 2026-07-03 · 80k job ID `recq1MxeD8jReLUXo`*
+*Posted 2026-06-19 · Listing synced 2026-07-04 · 80k job ID `recq1MxeD8jReLUXo`*

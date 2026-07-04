@@ -2,7 +2,7 @@
 title: "Internship (Fall 2026)"
 employer: "Center for Arms Control and Non-Proliferation"
 job_id: "recQqbqixQvHdnz3D"
-last_updated: "2026-07-03T05:31:46.340065Z"
+last_updated: "2026-07-04T05:31:52.773386Z"
 posted_at: "2026-07-02T00:00:00Z"
 status: ready
 apply_url: "https://armscontrolcenter.org/about/jobs-and-internships/"
@@ -34,4 +34,4 @@ areas:
 <p class="apply-cta"><a href="https://armscontrolcenter.org/about/jobs-and-internships/">Apply →</a></p>
 
 ---
-*Posted 2026-07-02 · Listing synced 2026-07-03 · 80k job ID `recQqbqixQvHdnz3D`*
+*Posted 2026-07-02 · Listing synced 2026-07-04 · 80k job ID `recQqbqixQvHdnz3D`*

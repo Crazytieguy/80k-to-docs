@@ -4,25 +4,20 @@ employer: "University of Washington, Institute for Health Metrics and Evaluation
 job_id: "reckmNnjbHKMQ76mV"
 last_updated: "2026-07-03T05:34:13.656195Z"
 posted_at: "2022-01-02T00:00:00Z"
-status: ready
+status: closed
+closed_at: "2026-07-04"
 apply_url: "https://www.healthdata.org/index%2Ephp/about/careers/job-openings/researcher-temporary-integrated-analytics"
 areas:
   - "Global health & development"
 ---
 
+> ⚠️ **CLOSED on 2026-07-04** — this job is no longer listed on the 80,000 Hours board. Archived snapshot below.
+
 # Researcher, Integrated Analytics
 
-**[University of Washington, Institute for Health Metrics and Evaluation](http://www.healthdata.org/)**
+**University of Washington, Institute for Health Metrics and Evaluation**
 
-<dl class="job-meta">
-<dt>Location</dt><dd>Seattle metro area, USA</dd>
-<dt>Role type</dt><dd>Full-time</dd>
-<dt>Experience</dt><dd>Junior (1-4 years experience)</dd>
-<dt>Degree</dt><dd>Master's degree</dd>
-<dt>Salary</dt><dd>$92,676 – $111,816</dd>
-</dl>
-
-**Areas & skills:** Global health & development, Research
+**Areas & skills:** Global health & development
 
 ## Summary
 - In this role, you'll analyze quantitative data and apply modeling tools to produce key research estimates.

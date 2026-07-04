@@ -2,7 +2,7 @@
 title: "Head of Movement Building"
 employer: "Evitable"
 job_id: "recE9s25fuO3DOvB6"
-last_updated: "2026-07-03T05:33:50.115290Z"
+last_updated: "2026-07-04T05:34:03.687013Z"
 posted_at: "2022-01-05T00:00:00Z"
 status: ready
 apply_url: "https://evitable.com/head-movement-building"
@@ -34,4 +34,4 @@ areas:
 <p class="apply-cta"><a href="https://evitable.com/head-movement-building">Apply →</a></p>
 
 ---
-*Posted 2022-01-05 · Listing synced 2026-07-03 · 80k job ID `recE9s25fuO3DOvB6`*
+*Posted 2022-01-05 · Listing synced 2026-07-04 · 80k job ID `recE9s25fuO3DOvB6`*

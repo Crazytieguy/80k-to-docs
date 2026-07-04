@@ -4,25 +4,20 @@ employer: "Carnegie Endowment for International Peace"
 job_id: "reclXGcBG0tQgrGcQ"
 last_updated: "2026-07-03T05:31:59.344111Z"
 posted_at: "2026-06-29T00:00:00Z"
-status: ready
+status: closed
+closed_at: "2026-07-04"
 apply_url: "https://carnegieendowment.applicantpro.com/jobs/4129694"
 areas:
   - "Nuclear security"
 ---
 
+> ⚠️ **CLOSED on 2026-07-04** — this job is no longer listed on the 80,000 Hours board. Archived snapshot below.
+
 # Program Assistant, Nuclear Policy Program
 
-**[Carnegie Endowment for International Peace](https://www.carnegieendowment.org)**
+**Carnegie Endowment for International Peace**
 
-<dl class="job-meta">
-<dt>Location</dt><dd>Washington, DC metro area, USA</dd>
-<dt>Role type</dt><dd>Full-time</dd>
-<dt>Experience</dt><dd>Junior (1-4 years experience)</dd>
-<dt>Degree</dt><dd>Undergraduate degree or less</dd>
-<dt>Salary</dt><dd>$50,000 – $52,000</dd>
-</dl>
-
-**Areas & skills:** Nuclear security, Policy, Operations
+**Areas & skills:** Nuclear security
 
 ## Summary
 - Carnegie's Nuclear Policy Program works on international security by diagnosing acute nuclear risks, informing debates on solutions, and engaging international actors to effect change.

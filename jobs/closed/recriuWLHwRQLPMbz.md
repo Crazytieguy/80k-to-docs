@@ -4,25 +4,20 @@ employer: "MATS Research"
 job_id: "recriuWLHwRQLPMbz"
 last_updated: "2026-07-03T05:32:41.912943Z"
 posted_at: "2026-05-28T00:00:00Z"
-status: ready
+status: closed
+closed_at: "2026-07-04"
 apply_url: "https://www.matsprogram.org/careers/community-manager-london"
 areas:
   - "AI safety & policy"
 ---
 
+> ⚠️ **CLOSED on 2026-07-04** — this job is no longer listed on the 80,000 Hours board. Archived snapshot below.
+
 # Community Manager, London
 
-**[MATS Research](https://www.matsprogram.org/)**
+**MATS Research**
 
-<dl class="job-meta">
-<dt>Location</dt><dd>London, UK, UK, UK (Confirmed Visas)</dd>
-<dt>Role type</dt><dd>Full-time</dd>
-<dt>Experience</dt><dd>Junior (1-4 years experience), Mid (5-9 years experience)</dd>
-<dt>Degree</dt><dd>Undergraduate degree or less</dd>
-<dt>Salary</dt><dd>$73,550 – $120,355</dd>
-</dl>
-
-**Areas & skills:** AI safety & policy, Outreach, Operations
+**Areas & skills:** AI safety & policy
 
 ## Summary
 - In this role, you'll lead community building and wellbeing support for AI safety researchers in London.

@@ -2,7 +2,7 @@
 title: "Volunteer, Grant Prospecting Researcher"
 employer: "PauseAI"
 job_id: "recpmWNMv0CPJMQaB"
-last_updated: "2026-07-03T05:31:52.360379Z"
+last_updated: "2026-07-04T05:31:57.665784Z"
 posted_at: "2026-07-01T00:00:00Z"
 status: ready
 apply_url: "https://pauseai.info/vacancies"
@@ -33,4 +33,4 @@ areas:
 <p class="apply-cta"><a href="https://pauseai.info/vacancies">Apply →</a></p>
 
 ---
-*Posted 2026-07-01 · Listing synced 2026-07-03 · 80k job ID `recpmWNMv0CPJMQaB`*
+*Posted 2026-07-01 · Listing synced 2026-07-04 · 80k job ID `recpmWNMv0CPJMQaB`*

@@ -2,7 +2,7 @@
 title: "Technical Bootcamp (Fall 2026)"
 employer: "ML4Good"
 job_id: "reclWFonVdmzgsgPT"
-last_updated: "2026-07-03T05:32:18.361832Z"
+last_updated: "2026-07-04T05:32:26.625142Z"
 posted_at: "2026-06-12T00:03:00Z"
 status: ready
 apply_url: "https://ml4good.org/technical-track/"
@@ -31,4 +31,4 @@ areas:
 <p class="apply-cta"><a href="https://ml4good.org/technical-track/">Apply →</a></p>
 
 ---
-*Posted 2026-06-12 · Listing synced 2026-07-03 · 80k job ID `reclWFonVdmzgsgPT`*
+*Posted 2026-06-12 · Listing synced 2026-07-04 · 80k job ID `reclWFonVdmzgsgPT`*

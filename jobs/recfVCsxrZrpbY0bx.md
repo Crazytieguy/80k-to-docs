@@ -2,7 +2,7 @@
 title: "Research Assistant"
 employer: "Vanderbilt University, Institute of National Security"
 job_id: "recfVCsxrZrpbY0bx"
-last_updated: "2026-07-03T05:32:11.398164Z"
+last_updated: "2026-07-04T05:32:18.558449Z"
 posted_at: "2026-06-18T00:00:00Z"
 status: ready
 apply_url: "https://ecsr.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/10008353"
@@ -33,4 +33,4 @@ areas:
 <p class="apply-cta"><a href="https://ecsr.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/10008353">Apply →</a></p>
 
 ---
-*Posted 2026-06-18 · Listing synced 2026-07-03 · 80k job ID `recfVCsxrZrpbY0bx`*
+*Posted 2026-06-18 · Listing synced 2026-07-04 · 80k job ID `recfVCsxrZrpbY0bx`*

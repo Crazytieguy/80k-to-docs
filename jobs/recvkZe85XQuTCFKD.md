@@ -2,7 +2,7 @@
 title: "Communications Manager"
 employer: "Anima International"
 job_id: "recvkZe85XQuTCFKD"
-last_updated: "2026-07-03T05:32:03.509376Z"
+last_updated: "2026-07-04T05:32:09.937306Z"
 posted_at: "2026-06-24T00:00:00Z"
 status: ready
 apply_url: "https://animafrance.org/blog/2666"
@@ -19,7 +19,7 @@ areas:
 <dt>Role type</dt><dd>Full-time</dd>
 <dt>Experience</dt><dd>Entry-level</dd>
 <dt>Degree</dt><dd>Undergraduate degree or less</dd>
-<dt>Salary</dt><dd>$38,575 – $41,475</dd>
+<dt>Salary</dt><dd>$38,526 – $41,422</dd>
 </dl>
 
 **Areas & skills:** Animal welfare, Outreach
@@ -33,4 +33,4 @@ areas:
 <p class="apply-cta"><a href="https://animafrance.org/blog/2666">Apply →</a></p>
 
 ---
-*Posted 2026-06-24 · Listing synced 2026-07-03 · 80k job ID `recvkZe85XQuTCFKD`*
+*Posted 2026-06-24 · Listing synced 2026-07-04 · 80k job ID `recvkZe85XQuTCFKD`*
