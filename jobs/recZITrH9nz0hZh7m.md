@@ -2,7 +2,7 @@
 title: "Singapore AI Safety Fellowship"
 employer: "SASH"
 job_id: "recZITrH9nz0hZh7m"
-last_updated: "2026-07-04T05:32:06.377300Z"
+last_updated: "2026-07-05T05:32:13.728534Z"
 posted_at: "2026-06-26T00:03:00Z"
 status: ready
 apply_url: "https://www.aisafety.sg/programs/singapore-ai-safety-fellowship"
@@ -34,4 +34,4 @@ areas:
 <p class="apply-cta"><a href="https://www.aisafety.sg/programs/singapore-ai-safety-fellowship">Apply →</a></p>
 
 ---
-*Posted 2026-06-26 · Listing synced 2026-07-04 · 80k job ID `recZITrH9nz0hZh7m`*
+*Posted 2026-06-26 · Listing synced 2026-07-05 · 80k job ID `recZITrH9nz0hZh7m`*

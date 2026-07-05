@@ -2,7 +2,7 @@
 title: "Vulnerability Assessment Analyst"
 employer: "US Government, Cybersecurity and Infrastructure Security Agency"
 job_id: "recTdx3yPzD74hZ6w"
-last_updated: "2026-07-04T05:31:50.234370Z"
+last_updated: "2026-07-05T05:31:57.530454Z"
 posted_at: "2026-07-03T00:00:00Z"
 status: ready
 apply_url: "https://www.usajobs.gov/job/875057800"
@@ -34,4 +34,4 @@ areas:
 <p class="apply-cta"><a href="https://www.usajobs.gov/job/875057800">Apply →</a></p>
 
 ---
-*Posted 2026-07-03 · Listing synced 2026-07-04 · 80k job ID `recTdx3yPzD74hZ6w`*
+*Posted 2026-07-03 · Listing synced 2026-07-05 · 80k job ID `recTdx3yPzD74hZ6w`*

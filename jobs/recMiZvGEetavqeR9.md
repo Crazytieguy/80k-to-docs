@@ -2,7 +2,7 @@
 title: "Senior Designer"
 employer: "Animal Equality"
 job_id: "recMiZvGEetavqeR9"
-last_updated: "2026-07-04T05:34:30.995206Z"
+last_updated: "2026-07-05T05:34:36.761331Z"
 posted_at: "2022-01-01T00:00:00Z"
 status: ready
 apply_url: "https://igualdadanimal.org/empleo/disenador-a-senior/"
@@ -33,4 +33,4 @@ areas:
 <p class="apply-cta"><a href="https://igualdadanimal.org/empleo/disenador-a-senior/">Apply →</a></p>
 
 ---
-*Posted 2022-01-01 · Listing synced 2026-07-04 · 80k job ID `recMiZvGEetavqeR9`*
+*Posted 2022-01-01 · Listing synced 2026-07-05 · 80k job ID `recMiZvGEetavqeR9`*

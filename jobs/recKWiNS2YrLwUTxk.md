@@ -2,7 +2,7 @@
 title: "SL5 Standards Lead"
 employer: "SL5 Task Force"
 job_id: "recKWiNS2YrLwUTxk"
-last_updated: "2026-07-04T05:31:52.052753Z"
+last_updated: "2026-07-05T05:31:59.317143Z"
 posted_at: "2026-07-02T00:01:00Z"
 status: ready
 apply_url: "https://jobs.ashbyhq.com/security-level-5/d0d0f908-5418-438e-9fe1-8ee4351ec91e"
@@ -34,4 +34,4 @@ areas:
 <p class="apply-cta"><a href="https://jobs.ashbyhq.com/security-level-5/d0d0f908-5418-438e-9fe1-8ee4351ec91e">Apply →</a></p>
 
 ---
-*Posted 2026-07-02 · Listing synced 2026-07-04 · 80k job ID `recKWiNS2YrLwUTxk`*
+*Posted 2026-07-02 · Listing synced 2026-07-05 · 80k job ID `recKWiNS2YrLwUTxk`*

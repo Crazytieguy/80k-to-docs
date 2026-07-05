@@ -2,7 +2,7 @@
 title: "Researcher, Evaluations"
 employer: "Epoch AI"
 job_id: "recwGdMOhP5CUxaYf"
-last_updated: "2026-07-04T05:31:55.911899Z"
+last_updated: "2026-07-05T05:32:03.123143Z"
 posted_at: "2026-07-01T00:04:11Z"
 status: ready
 apply_url: "https://jobs.lever.co/epoch-ai/42a72c23-b8da-406c-a19d-95981e2bd99b"
@@ -34,4 +34,4 @@ areas:
 <p class="apply-cta"><a href="https://jobs.lever.co/epoch-ai/42a72c23-b8da-406c-a19d-95981e2bd99b">Apply →</a></p>
 
 ---
-*Posted 2026-07-01 · Listing synced 2026-07-04 · 80k job ID `recwGdMOhP5CUxaYf`*
+*Posted 2026-07-01 · Listing synced 2026-07-05 · 80k job ID `recwGdMOhP5CUxaYf`*

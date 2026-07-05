@@ -2,7 +2,7 @@
 title: "Director and Distinguished Tang Chair in China Research, China Research Center"
 employer: "RAND Corporation"
 job_id: "recM0m3rd5RzaELcx"
-last_updated: "2026-07-04T05:31:55.647076Z"
+last_updated: "2026-07-05T05:32:02.853370Z"
 posted_at: "2026-07-01T00:04:14Z"
 status: ready
 apply_url: "https://rand.wd5.myworkdayjobs.com/en-US/External_Career_Site/job/Washington-DC-DC-Metro-Area/Director--China-Research-Center--and-Distinguished-Chair-in-China-Research_R3568"
@@ -34,4 +34,4 @@ areas:
 <p class="apply-cta"><a href="https://rand.wd5.myworkdayjobs.com/en-US/External_Career_Site/job/Washington-DC-DC-Metro-Area/Director--China-Research-Center--and-Distinguished-Chair-in-China-Research_R3568">Apply →</a></p>
 
 ---
-*Posted 2026-07-01 · Listing synced 2026-07-04 · 80k job ID `recM0m3rd5RzaELcx`*
+*Posted 2026-07-01 · Listing synced 2026-07-05 · 80k job ID `recM0m3rd5RzaELcx`*

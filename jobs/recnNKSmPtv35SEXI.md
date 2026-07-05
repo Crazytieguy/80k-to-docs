@@ -2,7 +2,7 @@
 title: "Member of Technical Staff"
 employer: "Geodesic Research"
 job_id: "recnNKSmPtv35SEXI"
-last_updated: "2026-07-04T05:32:47.691057Z"
+last_updated: "2026-07-05T05:32:54.999834Z"
 posted_at: "2026-06-01T00:01:00Z"
 status: ready
 apply_url: "https://drive.google.com/file/d/1_GZuj7b-OO09bZKYBunHrXk7qeKIQm-8/view"
@@ -34,4 +34,4 @@ areas:
 <p class="apply-cta"><a href="https://drive.google.com/file/d/1_GZuj7b-OO09bZKYBunHrXk7qeKIQm-8/view">Apply →</a></p>
 
 ---
-*Posted 2026-06-01 · Listing synced 2026-07-04 · 80k job ID `recnNKSmPtv35SEXI`*
+*Posted 2026-06-01 · Listing synced 2026-07-05 · 80k job ID `recnNKSmPtv35SEXI`*

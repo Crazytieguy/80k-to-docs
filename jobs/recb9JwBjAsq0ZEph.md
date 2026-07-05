@@ -2,7 +2,7 @@
 title: "Intern, Marketing and Media, Social and Video"
 employer: "Meridian"
 job_id: "recb9JwBjAsq0ZEph"
-last_updated: "2026-07-04T05:33:51.044485Z"
+last_updated: "2026-07-05T05:33:56.443309Z"
 posted_at: "2022-01-06T00:00:00Z"
 status: ready
 apply_url: "https://docs.google.com/document/d/16MwSYURaxkstolkXCZzHVBIz9WgPmTbEul7Y3thjoac/edit?tab=t.0#heading=h.dk0m2eyh4s9u"
@@ -34,4 +34,4 @@ areas:
 <p class="apply-cta"><a href="https://docs.google.com/document/d/16MwSYURaxkstolkXCZzHVBIz9WgPmTbEul7Y3thjoac/edit?tab=t.0#heading=h.dk0m2eyh4s9u">Apply →</a></p>
 
 ---
-*Posted 2022-01-06 · Listing synced 2026-07-04 · 80k job ID `recb9JwBjAsq0ZEph`*
+*Posted 2022-01-06 · Listing synced 2026-07-05 · 80k job ID `recb9JwBjAsq0ZEph`*

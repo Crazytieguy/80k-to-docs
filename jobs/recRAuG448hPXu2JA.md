@@ -2,7 +2,7 @@
 title: "Senior Data Scientist, AI Safety"
 employer: "US Government, Pacific Northwest National Laboratory"
 job_id: "recRAuG448hPXu2JA"
-last_updated: "2026-07-04T05:31:54.202424Z"
+last_updated: "2026-07-05T05:32:01.551781Z"
 posted_at: "2026-07-02T00:00:00Z"
 status: ready
 apply_url: "https://careers.pnnl.gov/jobs/11795?lang=en-us"
@@ -34,4 +34,4 @@ areas:
 <p class="apply-cta"><a href="https://careers.pnnl.gov/jobs/11795?lang=en-us">Apply →</a></p>
 
 ---
-*Posted 2026-07-02 · Listing synced 2026-07-04 · 80k job ID `recRAuG448hPXu2JA`*
+*Posted 2026-07-02 · Listing synced 2026-07-05 · 80k job ID `recRAuG448hPXu2JA`*

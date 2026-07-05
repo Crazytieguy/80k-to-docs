@@ -2,7 +2,7 @@
 title: "Research and Outreach Officer"
 employer: "Social Change Lab"
 job_id: "recDMDhThMyxsU9c4"
-last_updated: "2026-07-04T05:31:50.028950Z"
+last_updated: "2026-07-05T05:31:57.329644Z"
 posted_at: "2026-07-03T00:00:00Z"
 status: ready
 apply_url: "https://www.socialchangelab.org/careers/research-outreach-officer.html"
@@ -34,4 +34,4 @@ areas:
 <p class="apply-cta"><a href="https://www.socialchangelab.org/careers/research-outreach-officer.html">Apply →</a></p>
 
 ---
-*Posted 2026-07-03 · Listing synced 2026-07-04 · 80k job ID `recDMDhThMyxsU9c4`*
+*Posted 2026-07-03 · Listing synced 2026-07-05 · 80k job ID `recDMDhThMyxsU9c4`*

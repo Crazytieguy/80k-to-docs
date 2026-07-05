@@ -2,7 +2,7 @@
 
 Daily-refreshed mirror of every job posting on the [80,000 Hours job board](https://jobs.80000hours.org/). One markdown file per job under `jobs/`. Closed jobs move to `jobs/closed/`.
 
-**854** active · **381** closed · last synced 2026-07-04 09:02 UTC
+**854** active · **381** closed · last synced 2026-07-05 09:24 UTC
 
 _See [README](./README.md) for how this is built. Source: [GitHub repo](https://github.com/Crazytieguy/80k-to-docs)._
 
@@ -296,7 +296,6 @@ _See [README](./README.md) for how this is built. Source: [GitHub repo](https://
 - `2026-04-17` · [Recruiter, Hiring and Talent Operations](./jobs/recBAqm0HRWgVN1v9.md) — Outcapped
 - `2026-04-17` · [Lead AI Applications Developer / Senior AI Developer, Safety](./jobs/recp9XnQuITuTRzjs.md) — Mila
 - `2026-04-16` · [State Organizer](./jobs/reccWqHz6JlbX58e5.md) — Humans in Control
-- `2026-04-16` · [Field Strategist](./jobs/recNMoYLeDWCI3rBU.md) — Atlas Computing
 - `2022-01-13` · [Expression of Interest, Pannu Lab](./jobs/rec4yFSYJwM7mFO2P.md) — Johns Hopkins University, Center for Health Security
 - `2022-01-13` · [General Application](./jobs/recgK4Kc5ag6YQN4f.md) — Coefficient Giving
 - `2022-01-13` · [Research Scientist, Biological Safety](./jobs/recmS88tRE8gce5eD.md) — Anthropic
@@ -482,6 +481,7 @@ _See [README](./README.md) for how this is built. Source: [GitHub repo](https://
 - `2022-01-05` · [Expression of Interest, Founder of AI Safety Group](./jobs/recMqVE7HdfPWbCu9.md) — European Network For AI Safety
 - `2022-01-05` · [Senior Economist, AI Geostrategic and Economic Mechanisms](./jobs/recND6YRu8VFtokmL.md) — Center for AI Risk Management and Alignment
 - `2022-01-05` · [Founding Engineer](./jobs/recNEmMFRXbBkRF0R.md) — Asymmetric Security
+- `2022-01-05` · [Field Strategist](./jobs/recNMoYLeDWCI3rBU.md) — Atlas Computing
 - `2022-01-05` · [Director, Research Strategy](./jobs/recNsAjl8jEQvD3za.md) — Atlas Computing
 - `2022-01-05` · [Senior Research Scientist](./jobs/recOj2hUTANllF14s.md) — Faculty
 - `2022-01-05` · [Expression of Interest, Contractor, Video Programme](./jobs/recQ90iUyRvozwpxM.md) — 80,000 Hours
@@ -701,8 +701,6 @@ _See [README](./README.md) for how this is built. Source: [GitHub repo](https://
 - `2026-04-28` · [Staff Software Engineer, Data Pipelines](./jobs/recfYfSB6OpgigveW.md) — Perimeter
 - `2026-04-24` · [Senior Software Engineer, Chem-Bio](./jobs/rect4dFWZXuMzhHq7.md) — UK Government, AI Security Institute
 - `2026-04-23` · [Member of Technical Staff, Product Engineer](./jobs/reci4I8ozApB384cP.md) — Valthos
-- `2026-04-16` · [Senior Research Fellow, Infectious Disease Modelling and AI for Public Health](./jobs/recr5aYJjFGUjZh7x.md) — National University of Singapore, Saw Swee Hock School of Public Health
-- `2026-04-15` · [Senior Software Engineer, Full Stack](./jobs/recLA91Rik5NfiNms.md) — Perimeter
 - `2022-01-13` · [Expression of Interest, Pannu Lab](./jobs/rec4yFSYJwM7mFO2P.md) — Johns Hopkins University, Center for Health Security
 - `2022-01-13` · [General Application](./jobs/recgK4Kc5ag6YQN4f.md) — Coefficient Giving
 - `2022-01-13` · [Research Scientist, Biological Safety](./jobs/recmS88tRE8gce5eD.md) — Anthropic
@@ -726,6 +724,8 @@ _See [README](./README.md) for how this is built. Source: [GitHub repo](https://
 - `2022-01-04` · [Assistant Professor / Associate Professor / Professor](./jobs/recdw3z9ZBuvBr7By.md) — National University of Singapore, Asia Centre for Health Security
 - `2022-01-04` · [Field Sampler](./jobs/rece9SdzBw4eZRuzq.md) — SecureBio
 - `2022-01-04` · [Computational Biologist](./jobs/recqRqqyDS958NhBs.md) — Claryx
+- `2022-01-04` · [Senior Research Fellow, Infectious Disease Modelling and AI for Public Health](./jobs/recr5aYJjFGUjZh7x.md) — National University of Singapore, Saw Swee Hock School of Public Health
+- `2022-01-03` · [Senior Software Engineer, Full Stack](./jobs/recLA91Rik5NfiNms.md) — Perimeter
 - `2022-01-03` · [Expression of Interest](./jobs/recNpa8rGTT7fp3im.md) — SecureBio
 - `2022-01-03` · [Expression of Interest](./jobs/recVtIhIQG176bUSP.md) — Mirror Biology Dialogues Fund
 - `2022-01-03` · [Senior Software Engineer, Full Stack](./jobs/recbUXTb9zb1nj7Ob.md) — Ginkgo Bioworks

@@ -2,7 +2,7 @@
 title: "AI Policy Associate, J-PAL Global"
 employer: "Massachusetts Institute of Technology, Abdul Latif Jameel Poverty Action Lab"
 job_id: "recNyE1CPMcfD7D2F"
-last_updated: "2026-07-04T05:34:13.717819Z"
+last_updated: "2026-07-05T05:34:19.087738Z"
 posted_at: "2022-01-03T00:00:00Z"
 status: ready
 apply_url: "https://www.povertyactionlab.org/careers/ai-policy-associate-j-pal-global-job-105524"
@@ -33,4 +33,4 @@ areas:
 <p class="apply-cta"><a href="https://www.povertyactionlab.org/careers/ai-policy-associate-j-pal-global-job-105524">Apply →</a></p>
 
 ---
-*Posted 2022-01-03 · Listing synced 2026-07-04 · 80k job ID `recNyE1CPMcfD7D2F`*
+*Posted 2022-01-03 · Listing synced 2026-07-05 · 80k job ID `recNyE1CPMcfD7D2F`*

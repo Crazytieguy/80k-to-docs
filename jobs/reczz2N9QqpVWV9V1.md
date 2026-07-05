@@ -2,7 +2,7 @@
 title: "Frontier Research Engineer, Security"
 employer: "UK Government, AI Security Institute"
 job_id: "reczz2N9QqpVWV9V1"
-last_updated: "2026-07-04T05:31:58.800362Z"
+last_updated: "2026-07-05T05:32:06.260164Z"
 posted_at: "2026-06-30T00:05:00Z"
 status: ready
 apply_url: "https://job-boards.eu.greenhouse.io/aisi/jobs/4911480101"
@@ -34,4 +34,4 @@ areas:
 <p class="apply-cta"><a href="https://job-boards.eu.greenhouse.io/aisi/jobs/4911480101">Apply →</a></p>
 
 ---
-*Posted 2026-06-30 · Listing synced 2026-07-04 · 80k job ID `reczz2N9QqpVWV9V1`*
+*Posted 2026-06-30 · Listing synced 2026-07-05 · 80k job ID `reczz2N9QqpVWV9V1`*

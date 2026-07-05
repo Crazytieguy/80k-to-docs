@@ -2,7 +2,7 @@
 title: "Research Engineer, Contract"
 employer: "Neo Research"
 job_id: "rec4o2JXnHHFh2I4J"
-last_updated: "2026-07-04T05:31:45.910574Z"
+last_updated: "2026-07-05T05:31:54.175859Z"
 posted_at: "2026-07-03T00:03:00Z"
 status: ready
 apply_url: "https://www.aisafety.sg/careers/research-engineer-neo-research-contract"
@@ -33,4 +33,4 @@ areas:
 <p class="apply-cta"><a href="https://www.aisafety.sg/careers/research-engineer-neo-research-contract">Apply →</a></p>
 
 ---
-*Posted 2026-07-03 · Listing synced 2026-07-04 · 80k job ID `rec4o2JXnHHFh2I4J`*
+*Posted 2026-07-03 · Listing synced 2026-07-05 · 80k job ID `rec4o2JXnHHFh2I4J`*

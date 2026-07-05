@@ -2,7 +2,7 @@
 title: "Senior Software Engineer"
 employer: "Irregular"
 job_id: "recM0E62NHhuoJ4Bg"
-last_updated: "2026-07-04T05:34:06.887719Z"
+last_updated: "2026-07-05T05:34:12.305019Z"
 posted_at: "2022-01-05T00:00:00Z"
 status: ready
 apply_url: "https://jobs.ashbyhq.com/Irregular/3258b769-ba83-49fa-ba11-8cb98494dee9?embed=js"
@@ -33,4 +33,4 @@ areas:
 <p class="apply-cta"><a href="https://jobs.ashbyhq.com/Irregular/3258b769-ba83-49fa-ba11-8cb98494dee9?embed=js">Apply →</a></p>
 
 ---
-*Posted 2022-01-05 · Listing synced 2026-07-04 · 80k job ID `recM0E62NHhuoJ4Bg`*
+*Posted 2022-01-05 · Listing synced 2026-07-05 · 80k job ID `recM0E62NHhuoJ4Bg`*

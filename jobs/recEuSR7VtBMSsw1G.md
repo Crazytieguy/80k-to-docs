@@ -2,7 +2,7 @@
 title: "Researcher, Artificial Intelligence (x2)"
 employer: "United Nations, Institute for Disarmament Research"
 job_id: "recEuSR7VtBMSsw1G"
-last_updated: "2026-07-04T05:32:16.982641Z"
+last_updated: "2026-07-05T05:32:23.927889Z"
 posted_at: "2026-06-19T00:00:00Z"
 status: ready
 apply_url: "https://unidir.org/job/researcher-artificial-intelligence-2-positions/"
@@ -33,4 +33,4 @@ areas:
 <p class="apply-cta"><a href="https://unidir.org/job/researcher-artificial-intelligence-2-positions/">Apply →</a></p>
 
 ---
-*Posted 2026-06-19 · Listing synced 2026-07-04 · 80k job ID `recEuSR7VtBMSsw1G`*
+*Posted 2026-06-19 · Listing synced 2026-07-05 · 80k job ID `recEuSR7VtBMSsw1G`*

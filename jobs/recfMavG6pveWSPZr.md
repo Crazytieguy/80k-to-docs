@@ -2,7 +2,7 @@
 title: "Venture Science Doctorate"
 employer: "Deep Science Ventures"
 job_id: "recfMavG6pveWSPZr"
-last_updated: "2026-07-04T05:34:17.822057Z"
+last_updated: "2026-07-05T05:34:23.178467Z"
 posted_at: "2022-01-02T00:00:00Z"
 status: ready
 apply_url: "https://apply.workable.com/deep-science-ventures/j/31F88646EF/"
@@ -34,4 +34,4 @@ areas:
 <p class="apply-cta"><a href="https://apply.workable.com/deep-science-ventures/j/31F88646EF/">Apply →</a></p>
 
 ---
-*Posted 2022-01-02 · Listing synced 2026-07-04 · 80k job ID `recfMavG6pveWSPZr`*
+*Posted 2022-01-02 · Listing synced 2026-07-05 · 80k job ID `recfMavG6pveWSPZr`*

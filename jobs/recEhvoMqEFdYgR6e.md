@@ -2,7 +2,7 @@
 title: "Associate Researcher, Artificial Intelligence"
 employer: "United Nations, Institute for Disarmament Research"
 job_id: "recEhvoMqEFdYgR6e"
-last_updated: "2026-07-04T05:32:14.126544Z"
+last_updated: "2026-07-05T05:32:21.045420Z"
 posted_at: "2026-06-22T00:00:00Z"
 status: ready
 apply_url: "https://unidir.org/job/associate-researcher-artificial-intelligence/"
@@ -33,4 +33,4 @@ areas:
 <p class="apply-cta"><a href="https://unidir.org/job/associate-researcher-artificial-intelligence/">Apply →</a></p>
 
 ---
-*Posted 2026-06-22 · Listing synced 2026-07-04 · 80k job ID `recEhvoMqEFdYgR6e`*
+*Posted 2026-06-22 · Listing synced 2026-07-05 · 80k job ID `recEhvoMqEFdYgR6e`*

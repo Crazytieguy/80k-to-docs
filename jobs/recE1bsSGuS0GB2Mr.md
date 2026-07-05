@@ -2,7 +2,7 @@
 title: "Senior Researcher, MIT AI Risk Initiative"
 employer: "Massachusetts Institute of Technology, FutureTech"
 job_id: "recE1bsSGuS0GB2Mr"
-last_updated: "2026-07-04T05:34:07.801353Z"
+last_updated: "2026-07-05T05:34:13.158844Z"
 posted_at: "2022-01-05T00:00:00Z"
 status: ready
 apply_url: "https://forum.effectivealtruism.org/posts/GxvzNniYDtTKpSjdi/senior-researcher-mit-ai-risk-initiative"
@@ -33,4 +33,4 @@ areas:
 <p class="apply-cta"><a href="https://forum.effectivealtruism.org/posts/GxvzNniYDtTKpSjdi/senior-researcher-mit-ai-risk-initiative">Apply →</a></p>
 
 ---
-*Posted 2022-01-05 · Listing synced 2026-07-04 · 80k job ID `recE1bsSGuS0GB2Mr`*
+*Posted 2022-01-05 · Listing synced 2026-07-05 · 80k job ID `recE1bsSGuS0GB2Mr`*

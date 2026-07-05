@@ -2,7 +2,7 @@
 title: "Intern, Security Engineering (Summer 2026)"
 employer: "Lambda"
 job_id: "recAZR4mjFMiVe7hU"
-last_updated: "2026-07-04T05:31:49.200484Z"
+last_updated: "2026-07-05T05:31:56.580397Z"
 posted_at: "2026-07-03T00:00:00Z"
 status: ready
 apply_url: "https://jobs.ashbyhq.com/Lambda/0663f04c-097d-414f-b0a0-414a7cf153d6"
@@ -34,4 +34,4 @@ areas:
 <p class="apply-cta"><a href="https://jobs.ashbyhq.com/Lambda/0663f04c-097d-414f-b0a0-414a7cf153d6">Apply →</a></p>
 
 ---
-*Posted 2026-07-03 · Listing synced 2026-07-04 · 80k job ID `recAZR4mjFMiVe7hU`*
+*Posted 2026-07-03 · Listing synced 2026-07-05 · 80k job ID `recAZR4mjFMiVe7hU`*

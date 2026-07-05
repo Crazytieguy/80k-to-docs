@@ -2,7 +2,7 @@
 title: "Regional Research Economist, Economic Research, Singapore"
 employer: "Anthropic"
 job_id: "recibJcttahQSFMmD"
-last_updated: "2026-07-04T05:32:35.970579Z"
+last_updated: "2026-07-05T05:32:42.307882Z"
 posted_at: "2026-06-09T00:00:00Z"
 status: ready
 apply_url: "https://job-boards.greenhouse.io/anthropic/jobs/5231205008"
@@ -34,4 +34,4 @@ areas:
 <p class="apply-cta"><a href="https://job-boards.greenhouse.io/anthropic/jobs/5231205008">Apply →</a></p>
 
 ---
-*Posted 2026-06-09 · Listing synced 2026-07-04 · 80k job ID `recibJcttahQSFMmD`*
+*Posted 2026-06-09 · Listing synced 2026-07-05 · 80k job ID `recibJcttahQSFMmD`*

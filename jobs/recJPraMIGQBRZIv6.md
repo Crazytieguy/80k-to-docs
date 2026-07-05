@@ -2,7 +2,7 @@
 title: "Head of Operations"
 employer: "Centre for British Progress"
 job_id: "recJPraMIGQBRZIv6"
-last_updated: "2026-07-04T05:32:54.789124Z"
+last_updated: "2026-07-05T05:33:00.993177Z"
 posted_at: "2026-05-25T00:00:00Z"
 status: ready
 apply_url: "https://britishprogress.org/opportunities/head-of-operations"
@@ -34,4 +34,4 @@ areas:
 <p class="apply-cta"><a href="https://britishprogress.org/opportunities/head-of-operations">Apply →</a></p>
 
 ---
-*Posted 2026-05-25 · Listing synced 2026-07-04 · 80k job ID `recJPraMIGQBRZIv6`*
+*Posted 2026-05-25 · Listing synced 2026-07-05 · 80k job ID `recJPraMIGQBRZIv6`*

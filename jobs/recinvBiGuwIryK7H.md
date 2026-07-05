@@ -2,7 +2,7 @@
 title: "Research Assistant to Oriana Skylar Mastro, Chinese Language"
 employer: "Stanford University, Center for International Security and Cooperation"
 job_id: "recinvBiGuwIryK7H"
-last_updated: "2026-07-04T05:33:32.808857Z"
+last_updated: "2026-07-05T05:33:38.282734Z"
 posted_at: "2022-01-08T00:00:00Z"
 status: ready
 apply_url: "https://drive.google.com/file/d/1qCUm7zTJhogOXI03w53fDPAW9AEBqLGR/view"
@@ -33,4 +33,4 @@ areas:
 <p class="apply-cta"><a href="https://drive.google.com/file/d/1qCUm7zTJhogOXI03w53fDPAW9AEBqLGR/view">Apply →</a></p>
 
 ---
-*Posted 2022-01-08 · Listing synced 2026-07-04 · 80k job ID `recinvBiGuwIryK7H`*
+*Posted 2022-01-08 · Listing synced 2026-07-05 · 80k job ID `recinvBiGuwIryK7H`*

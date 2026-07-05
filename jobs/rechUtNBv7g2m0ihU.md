@@ -2,7 +2,7 @@
 title: "People Director"
 employer: "Founders Pledge"
 job_id: "rechUtNBv7g2m0ihU"
-last_updated: "2026-07-04T05:31:56.393947Z"
+last_updated: "2026-07-05T05:32:03.606002Z"
 posted_at: "2026-07-01T00:02:00Z"
 status: ready
 apply_url: "https://careers.founderspledge.com/jobs/7995629-people-director"
@@ -34,4 +34,4 @@ areas:
 <p class="apply-cta"><a href="https://careers.founderspledge.com/jobs/7995629-people-director">Apply →</a></p>
 
 ---
-*Posted 2026-07-01 · Listing synced 2026-07-04 · 80k job ID `rechUtNBv7g2m0ihU`*
+*Posted 2026-07-01 · Listing synced 2026-07-05 · 80k job ID `rechUtNBv7g2m0ihU`*

@@ -2,7 +2,7 @@
 title: "European Seminar, Frontier AI and Law"
 employer: "ML4Good"
 job_id: "rectnjdEGGBB5tl5I"
-last_updated: "2026-07-04T05:31:51.699784Z"
+last_updated: "2026-07-05T05:31:58.991090Z"
 posted_at: "2026-07-02T00:02:00Z"
 status: ready
 apply_url: "https://frontier-ai-law.org/"
@@ -33,4 +33,4 @@ areas:
 <p class="apply-cta"><a href="https://frontier-ai-law.org/">Apply →</a></p>
 
 ---
-*Posted 2026-07-02 · Listing synced 2026-07-04 · 80k job ID `rectnjdEGGBB5tl5I`*
+*Posted 2026-07-02 · Listing synced 2026-07-05 · 80k job ID `rectnjdEGGBB5tl5I`*

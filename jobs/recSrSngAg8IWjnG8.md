@@ -2,7 +2,7 @@
 title: "People Operations Manager"
 employer: "Safe AI Forum"
 job_id: "recSrSngAg8IWjnG8"
-last_updated: "2026-07-04T05:32:02.911472Z"
+last_updated: "2026-07-05T05:32:10.457907Z"
 posted_at: "2026-06-29T00:05:00Z"
 status: ready
 apply_url: "https://saif.org/opportunities/people-operations-manager-2/"
@@ -34,4 +34,4 @@ areas:
 <p class="apply-cta"><a href="https://saif.org/opportunities/people-operations-manager-2/">Apply →</a></p>
 
 ---
-*Posted 2026-06-29 · Listing synced 2026-07-04 · 80k job ID `recSrSngAg8IWjnG8`*
+*Posted 2026-06-29 · Listing synced 2026-07-05 · 80k job ID `recSrSngAg8IWjnG8`*
