@@ -2,7 +2,7 @@
 title: "Request for Proposals, Alternative Protein Research and Development"
 employer: "Coefficient Giving"
 job_id: "recvOwNRnzForsW1Q"
-last_updated: "2026-07-05T05:32:38.807012Z"
+last_updated: "2026-07-06T05:32:35.620299Z"
 posted_at: "2026-06-10T00:02:00Z"
 status: ready
 apply_url: "https://coefficientgiving.org/funds/farm-animal-welfare/request-for-proposals-alternative-protein-rd/"
@@ -33,4 +33,4 @@ areas:
 <p class="apply-cta"><a href="https://coefficientgiving.org/funds/farm-animal-welfare/request-for-proposals-alternative-protein-rd/">Apply →</a></p>
 
 ---
-*Posted 2026-06-10 · Listing synced 2026-07-05 · 80k job ID `recvOwNRnzForsW1Q`*
+*Posted 2026-06-10 · Listing synced 2026-07-06 · 80k job ID `recvOwNRnzForsW1Q`*

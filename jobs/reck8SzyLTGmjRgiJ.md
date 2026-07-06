@@ -2,7 +2,7 @@
 title: "Intern, Cybersecurity and AI Research: Cybersecurity Benchmarking and LLM Evaluation"
 employer: "Siemens"
 job_id: "reck8SzyLTGmjRgiJ"
-last_updated: "2026-07-05T05:32:23.547442Z"
+last_updated: "2026-07-06T05:32:20.678795Z"
 posted_at: "2026-06-19T00:00:00Z"
 status: ready
 apply_url: "https://jobs.siemens.com/en_US/externaljobs/JobDetail/506526?source=LinkedIn&sourceType=PREMIUM_POST_SITE"
@@ -34,4 +34,4 @@ areas:
 <p class="apply-cta"><a href="https://jobs.siemens.com/en_US/externaljobs/JobDetail/506526?source=LinkedIn&amp;sourceType=PREMIUM_POST_SITE">Apply →</a></p>
 
 ---
-*Posted 2026-06-19 · Listing synced 2026-07-05 · 80k job ID `reck8SzyLTGmjRgiJ`*
+*Posted 2026-06-19 · Listing synced 2026-07-06 · 80k job ID `reck8SzyLTGmjRgiJ`*

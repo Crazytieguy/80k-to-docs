@@ -2,7 +2,7 @@
 title: "Member of Technical Staff, Secure Infrastructure and Platform"
 employer: "SL5 Task Force"
 job_id: "recbusYVIyhRdugLp"
-last_updated: "2026-07-05T05:31:59.159494Z"
+last_updated: "2026-07-06T05:31:56.027420Z"
 posted_at: "2026-07-02T00:01:00Z"
 status: ready
 apply_url: "https://jobs.ashbyhq.com/security-level-5/cba6f9b3-616a-4090-8ca6-f8d28c0579d1"
@@ -34,4 +34,4 @@ areas:
 <p class="apply-cta"><a href="https://jobs.ashbyhq.com/security-level-5/cba6f9b3-616a-4090-8ca6-f8d28c0579d1">Apply →</a></p>
 
 ---
-*Posted 2026-07-02 · Listing synced 2026-07-05 · 80k job ID `recbusYVIyhRdugLp`*
+*Posted 2026-07-02 · Listing synced 2026-07-06 · 80k job ID `recbusYVIyhRdugLp`*

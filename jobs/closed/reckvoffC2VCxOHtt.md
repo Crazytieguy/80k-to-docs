@@ -4,25 +4,20 @@ employer: "Cambridge Boston Alignment Initiative"
 job_id: "reckvoffC2VCxOHtt"
 last_updated: "2026-07-05T05:33:48.062151Z"
 posted_at: "2022-01-06T00:00:00Z"
-status: ready
+status: closed
+closed_at: "2026-07-06"
 apply_url: "https://jobs.ashbyhq.com/cbai/e1f50e09-077f-4163-abff-895c12a20799"
 areas:
   - "AI safety & policy"
 ---
 
+> ⚠️ **CLOSED on 2026-07-06** — this job is no longer listed on the 80,000 Hours board. Archived snapshot below.
+
 # Research Manager, AIxBio, Part-Time
 
-**[Cambridge Boston Alignment Initiative](https://www.cbai.ai/)**
+**Cambridge Boston Alignment Initiative**
 
-<dl class="job-meta">
-<dt>Location</dt><dd>Boston metro area, USA</dd>
-<dt>Role type</dt><dd>Part-time</dd>
-<dt>Experience</dt><dd>Junior (1-4 years experience)</dd>
-<dt>Degree</dt><dd>Undergraduate degree or less</dd>
-<dt>Salary</dt><dd>$124,800</dd>
-</dl>
-
-**Areas & skills:** AI safety & policy, Research, Operations, Management
+**Areas & skills:** AI safety & policy
 
 ## Summary
 - In this role, you'll support fellows conducting research at the intersection of AI and biosecurity through hands-on mentoring and research assistance.

@@ -2,7 +2,7 @@
 title: "AI Rapid Response Fellowship"
 employer: "Horizon Institute for Public Service"
 job_id: "recJxaF1Vd5WTdLoo"
-last_updated: "2026-07-05T05:31:53.994984Z"
+last_updated: "2026-07-06T05:31:50.657928Z"
 posted_at: "2026-07-03T00:04:03Z"
 status: ready
 apply_url: "https://horizonpublicservice.org/ai-rapid-response-fellowship/"
@@ -34,4 +34,4 @@ areas:
 <p class="apply-cta"><a href="https://horizonpublicservice.org/ai-rapid-response-fellowship/">Apply →</a></p>
 
 ---
-*Posted 2026-07-03 · Listing synced 2026-07-05 · 80k job ID `recJxaF1Vd5WTdLoo`*
+*Posted 2026-07-03 · Listing synced 2026-07-06 · 80k job ID `recJxaF1Vd5WTdLoo`*

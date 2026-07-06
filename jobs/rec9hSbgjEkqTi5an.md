@@ -2,7 +2,7 @@
 title: "Program Officer, International Program"
 employer: "Carnegie Corporation of New York"
 job_id: "rec9hSbgjEkqTi5an"
-last_updated: "2026-07-05T05:31:55.840330Z"
+last_updated: "2026-07-06T05:31:52.540423Z"
 posted_at: "2026-07-03T00:00:00Z"
 status: ready
 apply_url: "https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=9ad45f59-5c0c-4073-aa8a-607eccdecc5c&ccId=19000101_000001&lang=en_US&jobId=594995"
@@ -34,4 +34,4 @@ areas:
 <p class="apply-cta"><a href="https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=9ad45f59-5c0c-4073-aa8a-607eccdecc5c&amp;ccId=19000101_000001&amp;lang=en_US&amp;jobId=594995">Apply →</a></p>
 
 ---
-*Posted 2026-07-03 · Listing synced 2026-07-05 · 80k job ID `rec9hSbgjEkqTi5an`*
+*Posted 2026-07-03 · Listing synced 2026-07-06 · 80k job ID `rec9hSbgjEkqTi5an`*

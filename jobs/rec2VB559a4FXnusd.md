@@ -2,7 +2,7 @@
 title: "Graduate Electronics Engineer"
 employer: "Amodo Design"
 job_id: "rec2VB559a4FXnusd"
-last_updated: "2026-07-05T05:32:41.460838Z"
+last_updated: "2026-07-06T05:32:38.354341Z"
 posted_at: "2026-06-09T00:00:00Z"
 status: ready
 apply_url: "https://amododesign.com/career/graduate-electronics-engineer/"
@@ -19,7 +19,7 @@ areas:
 <dt>Role type</dt><dd>Full-time</dd>
 <dt>Experience</dt><dd>Entry-level</dd>
 <dt>Degree</dt><dd>Undergraduate degree or less</dd>
-<dt>Salary</dt><dd>$46,728 – $60,079</dd>
+<dt>Salary</dt><dd>$46,685 – $60,024</dd>
 </dl>
 
 **Areas & skills:** Career development: Technical, Engineering
@@ -34,4 +34,4 @@ areas:
 <p class="apply-cta"><a href="https://amododesign.com/career/graduate-electronics-engineer/">Apply →</a></p>
 
 ---
-*Posted 2026-06-09 · Listing synced 2026-07-05 · 80k job ID `rec2VB559a4FXnusd`*
+*Posted 2026-06-09 · Listing synced 2026-07-06 · 80k job ID `rec2VB559a4FXnusd`*

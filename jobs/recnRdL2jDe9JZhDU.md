@@ -2,7 +2,7 @@
 title: "Policy Fellow, US Development Policy Program"
 employer: "Center for Global Development"
 job_id: "recnRdL2jDe9JZhDU"
-last_updated: "2026-07-05T05:32:04.293813Z"
+last_updated: "2026-07-06T05:32:00.761276Z"
 posted_at: "2026-07-01T00:00:00Z"
 status: ready
 apply_url: "https://centerforglobaldevelopment.applytojob.com/apply/Kky4WjkMFr/Policy-Fellow-Or-Senior-Policy-Fellow-US-Development-Policy-Program"
@@ -34,4 +34,4 @@ areas:
 <p class="apply-cta"><a href="https://centerforglobaldevelopment.applytojob.com/apply/Kky4WjkMFr/Policy-Fellow-Or-Senior-Policy-Fellow-US-Development-Policy-Program">Apply →</a></p>
 
 ---
-*Posted 2026-07-01 · Listing synced 2026-07-05 · 80k job ID `recnRdL2jDe9JZhDU`*
+*Posted 2026-07-01 · Listing synced 2026-07-06 · 80k job ID `recnRdL2jDe9JZhDU`*

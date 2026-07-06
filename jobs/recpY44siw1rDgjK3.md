@@ -2,7 +2,7 @@
 title: "Intern, Threat Detection and Incident Response (Summer 2026)"
 employer: "Cloudflare"
 job_id: "recpY44siw1rDgjK3"
-last_updated: "2026-07-05T05:33:05.986764Z"
+last_updated: "2026-07-06T05:33:02.241683Z"
 posted_at: "2026-05-20T00:00:00Z"
 status: ready
 apply_url: "https://job-boards.greenhouse.io/cloudflare/jobs/7577205?gh_jid=7577205&gh_src=5ylsd31&source=LinkedIn"
@@ -33,4 +33,4 @@ areas:
 <p class="apply-cta"><a href="https://job-boards.greenhouse.io/cloudflare/jobs/7577205?gh_jid=7577205&amp;gh_src=5ylsd31&amp;source=LinkedIn">Apply →</a></p>
 
 ---
-*Posted 2026-05-20 · Listing synced 2026-07-05 · 80k job ID `recpY44siw1rDgjK3`*
+*Posted 2026-05-20 · Listing synced 2026-07-06 · 80k job ID `recpY44siw1rDgjK3`*

@@ -2,7 +2,7 @@
 title: "Manager, Maximum Impact Incubator"
 employer: "Clinton Health Access Initiative"
 job_id: "recDDPVT4IlqpSutE"
-last_updated: "2026-07-05T05:34:38.240103Z"
+last_updated: "2026-07-06T05:34:35.452593Z"
 posted_at: "2022-01-01T00:00:00Z"
 status: ready
 apply_url: "https://careers-chai.icims.com/jobs/14831/manager%2c-maximum-impact-incubator/job"
@@ -33,4 +33,4 @@ areas:
 <p class="apply-cta"><a href="https://careers-chai.icims.com/jobs/14831/manager%2c-maximum-impact-incubator/job">Apply →</a></p>
 
 ---
-*Posted 2022-01-01 · Listing synced 2026-07-05 · 80k job ID `recDDPVT4IlqpSutE`*
+*Posted 2022-01-01 · Listing synced 2026-07-06 · 80k job ID `recDDPVT4IlqpSutE`*

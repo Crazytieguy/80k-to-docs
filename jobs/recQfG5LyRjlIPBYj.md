@@ -2,7 +2,7 @@
 title: "Research Engineer, ML Safety"
 employer: "Apple"
 job_id: "recQfG5LyRjlIPBYj"
-last_updated: "2026-07-05T05:34:21.605094Z"
+last_updated: "2026-07-06T05:34:18.687590Z"
 posted_at: "2022-01-02T00:00:00Z"
 status: ready
 apply_url: "https://jobs.apple.com/en-gb/details/200640076-3577/ml-safety-engineer?team=SFTWR"
@@ -34,4 +34,4 @@ areas:
 <p class="apply-cta"><a href="https://jobs.apple.com/en-gb/details/200640076-3577/ml-safety-engineer?team=SFTWR">Apply →</a></p>
 
 ---
-*Posted 2022-01-02 · Listing synced 2026-07-05 · 80k job ID `recQfG5LyRjlIPBYj`*
+*Posted 2022-01-02 · Listing synced 2026-07-06 · 80k job ID `recQfG5LyRjlIPBYj`*

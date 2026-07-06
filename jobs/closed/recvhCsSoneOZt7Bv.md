@@ -4,25 +4,20 @@ employer: "Consultants for Impact"
 job_id: "recvhCsSoneOZt7Bv"
 last_updated: "2026-07-05T05:32:54.581476Z"
 posted_at: "2026-06-01T00:02:00Z"
-status: ready
+status: closed
+closed_at: "2026-07-06"
 apply_url: "https://www.consultantsforimpact.org/job-postings/operations-director-vp"
 areas:
   - "Building effective altruism"
 ---
 
+> ⚠️ **CLOSED on 2026-07-06** — this job is no longer listed on the 80,000 Hours board. Archived snapshot below.
+
 # Operations Director / Vice President of Operations
 
-**[Consultants for Impact](https://www.consultantsforimpact.org/)**
+**Consultants for Impact**
 
-<dl class="job-meta">
-<dt>Location</dt><dd>Remote, USA, USA</dd>
-<dt>Role type</dt><dd>Full-time</dd>
-<dt>Experience</dt><dd>Mid (5-9 years experience), Senior (10+ years experience)</dd>
-<dt>Degree</dt><dd>Undergraduate degree or less</dd>
-<dt>Salary</dt><dd>$125,000 – $150,000</dd>
-</dl>
-
-**Areas & skills:** Building effective altruism, Operations, Management
+**Areas & skills:** Building effective altruism
 
 ## Summary
 - In this role, you'll build operations infrastructure and guide CFI's transition to independence as a 501(c)(3) nonprofit.

@@ -2,7 +2,7 @@
 title: "Regional Research Economist, Economic Research, Singapore"
 employer: "Anthropic"
 job_id: "recibJcttahQSFMmD"
-last_updated: "2026-07-05T05:32:42.307882Z"
+last_updated: "2026-07-06T05:32:39.235987Z"
 posted_at: "2026-06-09T00:00:00Z"
 status: ready
 apply_url: "https://job-boards.greenhouse.io/anthropic/jobs/5231205008"
@@ -19,7 +19,7 @@ areas:
 <dt>Role type</dt><dd>Full-time</dd>
 <dt>Experience</dt><dd>Mid (5-9 years experience)</dd>
 <dt>Degree</dt><dd>Doctoral degree</dd>
-<dt>Salary</dt><dd>$237,806 – $256,384</dd>
+<dt>Salary</dt><dd>$237,635 – $256,200</dd>
 </dl>
 
 **Areas & skills:** AI safety & policy, Research, Policy
@@ -34,4 +34,4 @@ areas:
 <p class="apply-cta"><a href="https://job-boards.greenhouse.io/anthropic/jobs/5231205008">Apply →</a></p>
 
 ---
-*Posted 2026-06-09 · Listing synced 2026-07-05 · 80k job ID `recibJcttahQSFMmD`*
+*Posted 2026-06-09 · Listing synced 2026-07-06 · 80k job ID `recibJcttahQSFMmD`*

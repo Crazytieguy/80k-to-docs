@@ -2,7 +2,7 @@
 title: "Volunteer, Onboarding Coordinator"
 employer: "PauseAI"
 job_id: "recgA6SXGJDccmH23"
-last_updated: "2026-07-05T05:32:05.293594Z"
+last_updated: "2026-07-06T05:32:01.738348Z"
 posted_at: "2026-07-01T00:00:00Z"
 status: ready
 apply_url: "https://pauseai.info/vacancies"
@@ -33,4 +33,4 @@ areas:
 <p class="apply-cta"><a href="https://pauseai.info/vacancies">Apply →</a></p>
 
 ---
-*Posted 2026-07-01 · Listing synced 2026-07-05 · 80k job ID `recgA6SXGJDccmH23`*
+*Posted 2026-07-01 · Listing synced 2026-07-06 · 80k job ID `recgA6SXGJDccmH23`*

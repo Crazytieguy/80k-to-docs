@@ -4,25 +4,20 @@ employer: "Consultants for Impact"
 job_id: "reckSCI2geub7vXnM"
 last_updated: "2026-07-05T05:32:54.780451Z"
 posted_at: "2026-06-01T00:02:00Z"
-status: ready
+status: closed
+closed_at: "2026-07-06"
 apply_url: "https://www.consultantsforimpact.org/job-postings/special-projects-lead"
 areas:
   - "Building effective altruism"
 ---
 
+> ⚠️ **CLOSED on 2026-07-06** — this job is no longer listed on the 80,000 Hours board. Archived snapshot below.
+
 # Special Projects Lead
 
-**[Consultants for Impact](https://www.consultantsforimpact.org/)**
+**Consultants for Impact**
 
-<dl class="job-meta">
-<dt>Location</dt><dd>Remote, Global</dd>
-<dt>Role type</dt><dd>Full-time</dd>
-<dt>Experience</dt><dd>Junior (1-4 years experience), Mid (5-9 years experience)</dd>
-<dt>Degree</dt><dd>Undergraduate degree or less</dd>
-<dt>Salary</dt><dd>$100,000</dd>
-</dl>
-
-**Areas & skills:** Building effective altruism, Strategy
+**Areas & skills:** Building effective altruism
 
 ## Summary
 - In this role, you'll take ownership of high-priority projects and programs, managing established initiatives and designing scalable programs.

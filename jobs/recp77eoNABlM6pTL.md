@@ -2,7 +2,7 @@
 title: "Regional Research Economist, Economic Research, London"
 employer: "Anthropic"
 job_id: "recp77eoNABlM6pTL"
-last_updated: "2026-07-05T05:32:42.120268Z"
+last_updated: "2026-07-06T05:32:39.038064Z"
 posted_at: "2026-06-09T00:00:00Z"
 status: ready
 apply_url: "https://job-boards.greenhouse.io/anthropic/jobs/5231200008"
@@ -19,7 +19,7 @@ areas:
 <dt>Role type</dt><dd>Full-time</dd>
 <dt>Experience</dt><dd>Mid (5-9 years experience)</dd>
 <dt>Degree</dt><dd>Doctoral degree</dd>
-<dt>Salary</dt><dd>$240,314 – $253,665</dd>
+<dt>Salary</dt><dd>$240,095 – $253,433</dd>
 </dl>
 
 **Areas & skills:** AI safety & policy, Research, Policy
@@ -34,4 +34,4 @@ areas:
 <p class="apply-cta"><a href="https://job-boards.greenhouse.io/anthropic/jobs/5231200008">Apply →</a></p>
 
 ---
-*Posted 2026-06-09 · Listing synced 2026-07-05 · 80k job ID `recp77eoNABlM6pTL`*
+*Posted 2026-06-09 · Listing synced 2026-07-06 · 80k job ID `recp77eoNABlM6pTL`*

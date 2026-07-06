@@ -2,7 +2,7 @@
 title: "Microbiologist"
 employer: "US Government, Defense Threat Reduction Agency"
 job_id: "recVi4AgW8Fcdu7qk"
-last_updated: "2026-07-05T05:32:05.660548Z"
+last_updated: "2026-07-06T05:32:02.120503Z"
 posted_at: "2026-07-01T00:00:00Z"
 status: ready
 apply_url: "https://www.usajobs.gov/job/874662300"
@@ -32,4 +32,4 @@ areas:
 <p class="apply-cta"><a href="https://www.usajobs.gov/job/874662300">Apply →</a></p>
 
 ---
-*Posted 2026-07-01 · Listing synced 2026-07-05 · 80k job ID `recVi4AgW8Fcdu7qk`*
+*Posted 2026-07-01 · Listing synced 2026-07-06 · 80k job ID `recVi4AgW8Fcdu7qk`*

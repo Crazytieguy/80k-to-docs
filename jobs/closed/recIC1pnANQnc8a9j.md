@@ -4,25 +4,20 @@ employer: "Consultants for Impact"
 job_id: "recIC1pnANQnc8a9j"
 last_updated: "2026-07-05T05:32:54.399971Z"
 posted_at: "2026-06-01T00:02:00Z"
-status: ready
+status: closed
+closed_at: "2026-07-06"
 apply_url: "https://www.consultantsforimpact.org/job-postings/ai-systems-lead-director-vp"
 areas:
   - "Building effective altruism"
 ---
 
+> ⚠️ **CLOSED on 2026-07-06** — this job is no longer listed on the 80,000 Hours board. Archived snapshot below.
+
 # AI and Systems Lead / Director / Vice President
 
-**[Consultants for Impact](https://www.consultantsforimpact.org/)**
+**Consultants for Impact**
 
-<dl class="job-meta">
-<dt>Location</dt><dd>Remote, Global</dd>
-<dt>Role type</dt><dd>Full-time</dd>
-<dt>Experience</dt><dd>Multiple experience levels</dd>
-<dt>Degree</dt><dd>Undergraduate degree or less</dd>
-<dt>Salary</dt><dd>$100,000 – $150,000</dd>
-</dl>
-
-**Areas & skills:** Building effective altruism, Software engineering, Strategy
+**Areas & skills:** Building effective altruism
 
 ## Summary
 - In this role, you'll lead the design and implementation of digital systems and AI automations to scale CFI's impact.

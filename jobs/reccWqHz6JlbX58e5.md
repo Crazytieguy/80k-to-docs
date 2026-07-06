@@ -2,8 +2,8 @@
 title: "State Organizer"
 employer: "Humans in Control"
 job_id: "reccWqHz6JlbX58e5"
-last_updated: "2026-07-05T05:33:21.974971Z"
-posted_at: "2026-04-16T00:02:00Z"
+last_updated: "2026-07-06T05:33:49.828674Z"
+posted_at: "2022-01-06T00:00:00Z"
 status: ready
 apply_url: "https://humansincontrol.org/careers/state-organizer"
 areas:
@@ -34,4 +34,4 @@ areas:
 <p class="apply-cta"><a href="https://humansincontrol.org/careers/state-organizer">Apply →</a></p>
 
 ---
-*Posted 2026-04-16 · Listing synced 2026-07-05 · 80k job ID `reccWqHz6JlbX58e5`*
+*Posted 2022-01-06 · Listing synced 2026-07-06 · 80k job ID `reccWqHz6JlbX58e5`*

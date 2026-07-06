@@ -2,7 +2,7 @@
 title: "Executive Director's Associate"
 employer: "Mirror Biology Dialogues Fund"
 job_id: "recWtRUVvhtJ7edtk"
-last_updated: "2026-07-05T05:32:26.219788Z"
+last_updated: "2026-07-06T05:32:22.867746Z"
 posted_at: "2026-06-17T00:03:00Z"
 status: ready
 apply_url: "https://mirrorbiologydialoguesfund.applytojob.com/apply/vTPLZaRyu2/Executive-Directors-Associate?source=Our+Career+Page+Widget"
@@ -19,7 +19,7 @@ areas:
 <dt>Role type</dt><dd>Full-time</dd>
 <dt>Experience</dt><dd>Junior (1-4 years experience), Mid (5-9 years experience)</dd>
 <dt>Degree</dt><dd>Undergraduate degree or less</dd>
-<dt>Salary</dt><dd>$100,131 – $140,183</dd>
+<dt>Salary</dt><dd>$100,039 – $140,055</dd>
 </dl>
 
 **Areas & skills:** Biosecurity & pandemic preparedness, Operations
@@ -34,4 +34,4 @@ areas:
 <p class="apply-cta"><a href="https://mirrorbiologydialoguesfund.applytojob.com/apply/vTPLZaRyu2/Executive-Directors-Associate?source=Our+Career+Page+Widget">Apply →</a></p>
 
 ---
-*Posted 2026-06-17 · Listing synced 2026-07-05 · 80k job ID `recWtRUVvhtJ7edtk`*
+*Posted 2026-06-17 · Listing synced 2026-07-06 · 80k job ID `recWtRUVvhtJ7edtk`*

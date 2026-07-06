@@ -2,7 +2,7 @@
 title: "Principal Full-Stack Engineer"
 employer: "Meridian Labs"
 job_id: "recHaI4RkJxRiJgH4"
-last_updated: "2026-07-05T05:33:11.093128Z"
+last_updated: "2026-07-06T05:33:07.687541Z"
 posted_at: "2026-05-13T00:01:00Z"
 status: ready
 apply_url: "https://meridianlabs.ai/careers/principal-fs"
@@ -34,4 +34,4 @@ areas:
 <p class="apply-cta"><a href="https://meridianlabs.ai/careers/principal-fs">Apply →</a></p>
 
 ---
-*Posted 2026-05-13 · Listing synced 2026-07-05 · 80k job ID `recHaI4RkJxRiJgH4`*
+*Posted 2026-05-13 · Listing synced 2026-07-06 · 80k job ID `recHaI4RkJxRiJgH4`*

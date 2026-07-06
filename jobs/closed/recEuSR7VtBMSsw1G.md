@@ -4,24 +4,20 @@ employer: "United Nations, Institute for Disarmament Research"
 job_id: "recEuSR7VtBMSsw1G"
 last_updated: "2026-07-05T05:32:23.927889Z"
 posted_at: "2026-06-19T00:00:00Z"
-status: ready
+status: closed
+closed_at: "2026-07-06"
 apply_url: "https://unidir.org/job/researcher-artificial-intelligence-2-positions/"
 areas:
   - "AI safety & policy"
 ---
 
+> ⚠️ **CLOSED on 2026-07-06** — this job is no longer listed on the 80,000 Hours board. Archived snapshot below.
+
 # Researcher, Artificial Intelligence (x2)
 
-**[United Nations, Institute for Disarmament Research](https://www.un.org/en/)**
+**United Nations, Institute for Disarmament Research**
 
-<dl class="job-meta">
-<dt>Location</dt><dd>Geneva, Switzerland, Switzerland, Europe (ex UK)</dd>
-<dt>Role type</dt><dd>Full-time</dd>
-<dt>Experience</dt><dd>Mid (5-9 years experience)</dd>
-<dt>Degree</dt><dd>Master's degree</dd>
-</dl>
-
-**Areas & skills:** AI safety & policy, Research, Policy
+**Areas & skills:** AI safety & policy
 
 ## Summary
 - In this role, you'll conduct research on AI's military and security implications and support Centre of Excellence activities.

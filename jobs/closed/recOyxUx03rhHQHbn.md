@@ -4,24 +4,20 @@ employer: "United Nations, Institute for Disarmament Research"
 job_id: "recOyxUx03rhHQHbn"
 last_updated: "2026-07-05T05:32:23.734906Z"
 posted_at: "2026-06-19T00:00:00Z"
-status: ready
+status: closed
+closed_at: "2026-07-06"
 apply_url: "https://unidir.org/job/senior-researcher-artificial-intelligence/"
 areas:
   - "AI safety & policy"
 ---
 
+> ⚠️ **CLOSED on 2026-07-06** — this job is no longer listed on the 80,000 Hours board. Archived snapshot below.
+
 # Senior Researcher, Artificial Intelligence
 
-**[United Nations, Institute for Disarmament Research](https://www.un.org/en/)**
+**United Nations, Institute for Disarmament Research**
 
-<dl class="job-meta">
-<dt>Location</dt><dd>Geneva, Switzerland, Switzerland, Europe (ex UK)</dd>
-<dt>Role type</dt><dd>Full-time</dd>
-<dt>Experience</dt><dd>Mid (5-9 years experience)</dd>
-<dt>Degree</dt><dd>Master's degree</dd>
-</dl>
-
-**Areas & skills:** AI safety & policy, Research, Policy, Management
+**Areas & skills:** AI safety & policy
 
 ## Summary
 - In this role, you'll lead research projects and events for the Centre of Excellence on AI, Peace and Security.

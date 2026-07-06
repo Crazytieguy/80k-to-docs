@@ -4,25 +4,20 @@ employer: "Cambridge Boston Alignment Initiative"
 job_id: "recSotTzhddRM5ZLh"
 last_updated: "2026-07-05T05:33:47.277755Z"
 posted_at: "2022-01-06T00:00:00Z"
-status: ready
+status: closed
+closed_at: "2026-07-06"
 apply_url: "https://jobs.ashbyhq.com/cbai/00ad32ab-f657-4239-9e92-e53232dc66a0"
 areas:
   - "AI safety & policy"
 ---
 
+> ⚠️ **CLOSED on 2026-07-06** — this job is no longer listed on the 80,000 Hours board. Archived snapshot below.
+
 # Fellowship Operations Associate
 
-**[Cambridge Boston Alignment Initiative](https://www.cbai.ai/)**
+**Cambridge Boston Alignment Initiative**
 
-<dl class="job-meta">
-<dt>Location</dt><dd>Boston metro area, USA</dd>
-<dt>Role type</dt><dd>Fellowship</dd>
-<dt>Experience</dt><dd>Junior (1-4 years experience)</dd>
-<dt>Degree</dt><dd>Undergraduate degree or less</dd>
-<dt>Salary</dt><dd>$70,000 – $90,000</dd>
-</dl>
-
-**Areas & skills:** AI safety & policy, Operations
+**Areas & skills:** AI safety & policy
 
 ## Summary
 - In this role, you'll manage the operational backbone of CBAI's fellowship programs, handling logistics, vendors, and community programming.

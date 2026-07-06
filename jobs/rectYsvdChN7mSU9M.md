@@ -2,7 +2,7 @@
 title: "Security Engineer, Detection and Response, Japan"
 employer: "xAI"
 job_id: "rectYsvdChN7mSU9M"
-last_updated: "2026-07-05T05:33:03.512326Z"
+last_updated: "2026-07-06T05:32:59.837527Z"
 posted_at: "2026-05-22T00:00:00Z"
 status: ready
 apply_url: "https://job-boards.greenhouse.io/xai/jobs/5143756007"
@@ -33,4 +33,4 @@ areas:
 <p class="apply-cta"><a href="https://job-boards.greenhouse.io/xai/jobs/5143756007">Apply →</a></p>
 
 ---
-*Posted 2026-05-22 · Listing synced 2026-07-05 · 80k job ID `rectYsvdChN7mSU9M`*
+*Posted 2026-05-22 · Listing synced 2026-07-06 · 80k job ID `rectYsvdChN7mSU9M`*
