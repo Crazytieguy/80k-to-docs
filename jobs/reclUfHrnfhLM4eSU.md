@@ -2,7 +2,7 @@
 title: "Winter Fellowship, Applied Track, UK (2027)"
 employer: "GovAI"
 job_id: "reclUfHrnfhLM4eSU"
-last_updated: "2026-07-06T05:32:25.183189Z"
+last_updated: "2026-07-07T05:32:35.405335Z"
 posted_at: "2026-06-16T00:05:00Z"
 status: ready
 apply_url: "https://www.governance.ai/post/winter-fellowship-2027-applied-track"
@@ -19,7 +19,7 @@ areas:
 <dt>Role type</dt><dd>Fellowship</dd>
 <dt>Experience</dt><dd>Junior (1-4 years experience)</dd>
 <dt>Degree</dt><dd>Undergraduate degree or less</dd>
-<dt>Salary</dt><dd>$16,006</dd>
+<dt>Salary</dt><dd>$16,058</dd>
 </dl>
 
 **Areas & skills:** AI safety & policy, Policy, Outreach, Operations
@@ -33,4 +33,4 @@ areas:
 <p class="apply-cta"><a href="https://www.governance.ai/post/winter-fellowship-2027-applied-track">Apply →</a></p>
 
 ---
-*Posted 2026-06-16 · Listing synced 2026-07-06 · 80k job ID `reclUfHrnfhLM4eSU`*
+*Posted 2026-06-16 · Listing synced 2026-07-07 · 80k job ID `reclUfHrnfhLM4eSU`*

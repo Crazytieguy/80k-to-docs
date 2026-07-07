@@ -4,25 +4,20 @@ employer: "Mercy for Animals"
 job_id: "recBbSB7YHnkZna3V"
 last_updated: "2026-07-06T05:32:41.905463Z"
 posted_at: "2026-06-08T00:00:00Z"
-status: ready
+status: closed
+closed_at: "2026-07-07"
 apply_url: "https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=9b16364c-5e0e-4e66-be82-8f108b1eb279&ccId=19000101_000001&jobId=552986&lang=en_US&source=LR"
 areas:
   - "Animal welfare"
 ---
 
+> ⚠️ **CLOSED on 2026-07-07** — this job is no longer listed on the 80,000 Hours board. Archived snapshot below.
+
 # Donor Experience Specialist
 
-**[Mercy for Animals](https://www.mercyforanimals.org)**
+**Mercy for Animals**
 
-<dl class="job-meta">
-<dt>Location</dt><dd>Remote, Global</dd>
-<dt>Role type</dt><dd>Full-time</dd>
-<dt>Experience</dt><dd>Junior (1-4 years experience)</dd>
-<dt>Degree</dt><dd>Undergraduate degree or less</dd>
-<dt>Salary</dt><dd>$47,400 – $56,000</dd>
-</dl>
-
-**Areas & skills:** Animal welfare, Outreach
+**Areas & skills:** Animal welfare
 
 ## Summary
 - In this role, you'll deliver consistent, high-quality donor experiences for mid-level and emerging donors through strategic communications and engagement.

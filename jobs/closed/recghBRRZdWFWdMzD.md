@@ -4,25 +4,20 @@ employer: "Partnership for Public Service"
 job_id: "recghBRRZdWFWdMzD"
 last_updated: "2026-07-06T05:32:34.924594Z"
 posted_at: "2026-06-11T00:00:00Z"
-status: ready
+status: closed
+closed_at: "2026-07-07"
 apply_url: "https://job-boards.greenhouse.io/partnershipforpublicservice/jobs/4281581009"
 areas:
   - "Career development: Policy & government"
 ---
 
+> ⚠️ **CLOSED on 2026-07-07** — this job is no longer listed on the 80,000 Hours board. Archived snapshot below.
+
 # Intern, Public Policy and Stakeholder Engagement (Fall 2026)
 
-**[Partnership for Public Service](https://ourpublicservice.org/)**
+**Partnership for Public Service**
 
-<dl class="job-meta">
-<dt>Location</dt><dd>Washington, DC metro area, USA</dd>
-<dt>Role type</dt><dd>Internship</dd>
-<dt>Experience</dt><dd>Entry-level</dd>
-<dt>Degree</dt><dd>Undergraduate degree or less</dd>
-<dt>Salary</dt><dd>$24,000</dd>
-</dl>
-
-**Areas & skills:** Career development: Policy & government, Policy
+**Areas & skills:** Career development: Policy & government
 
 ## Summary
 - In this role, you'll assist the Public Policy and Stakeholder Engagement team with policy tracking, research and advocacy on federal workforce matters.

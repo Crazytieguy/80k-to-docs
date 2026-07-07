@@ -2,7 +2,7 @@
 title: "Operations Specialist, US"
 employer: "Impact Ops"
 job_id: "recTvFZQ8eJ34ATho"
-last_updated: "2026-07-06T05:32:11.089442Z"
+last_updated: "2026-07-07T05:32:19.701719Z"
 posted_at: "2026-06-29T00:00:00Z"
 status: ready
 apply_url: "https://impact-ops.org/jobs/operations-specialist/"
@@ -33,4 +33,4 @@ areas:
 <p class="apply-cta"><a href="https://impact-ops.org/jobs/operations-specialist/">Apply →</a></p>
 
 ---
-*Posted 2026-06-29 · Listing synced 2026-07-06 · 80k job ID `recTvFZQ8eJ34ATho`*
+*Posted 2026-06-29 · Listing synced 2026-07-07 · 80k job ID `recTvFZQ8eJ34ATho`*

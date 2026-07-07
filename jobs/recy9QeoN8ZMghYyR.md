@@ -2,7 +2,7 @@
 title: "Communications Intern"
 employer: "Animal Outlook"
 job_id: "recy9QeoN8ZMghYyR"
-last_updated: "2026-07-06T05:34:18.044205Z"
+last_updated: "2026-07-07T05:34:31.548166Z"
 posted_at: "2022-01-02T00:00:00Z"
 status: ready
 apply_url: "https://animaloutlook.org/intern/"
@@ -33,4 +33,4 @@ areas:
 <p class="apply-cta"><a href="https://animaloutlook.org/intern/">Apply →</a></p>
 
 ---
-*Posted 2022-01-02 · Listing synced 2026-07-06 · 80k job ID `recy9QeoN8ZMghYyR`*
+*Posted 2022-01-02 · Listing synced 2026-07-07 · 80k job ID `recy9QeoN8ZMghYyR`*

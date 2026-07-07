@@ -2,7 +2,7 @@
 title: "Research Associate"
 employer: "Cambridge University, Centre for the Study of Existential Risk"
 job_id: "rec2Ti13MKq81NSsn"
-last_updated: "2026-07-06T05:32:17.220672Z"
+last_updated: "2026-07-07T05:32:26.414041Z"
 posted_at: "2026-06-22T00:01:00Z"
 status: ready
 apply_url: "https://www.cser.ac.uk/research-associate-fixed-term/"
@@ -33,4 +33,4 @@ areas:
 <p class="apply-cta"><a href="https://www.cser.ac.uk/research-associate-fixed-term/">Apply →</a></p>
 
 ---
-*Posted 2026-06-22 · Listing synced 2026-07-06 · 80k job ID `rec2Ti13MKq81NSsn`*
+*Posted 2026-06-22 · Listing synced 2026-07-07 · 80k job ID `rec2Ti13MKq81NSsn`*

@@ -4,25 +4,20 @@ employer: "Partnership for Public Service"
 job_id: "recx41XrHriUe10xt"
 last_updated: "2026-07-06T05:32:34.757706Z"
 posted_at: "2026-06-11T00:00:00Z"
-status: ready
+status: closed
+closed_at: "2026-07-07"
 apply_url: "https://job-boards.greenhouse.io/partnershipforpublicservice/jobs/4281590009"
 areas:
   - "Career development: Policy & government"
 ---
 
+> ⚠️ **CLOSED on 2026-07-07** — this job is no longer listed on the 80,000 Hours board. Archived snapshot below.
+
 # Internship, Artificial Intelligence Research (Fall 2026)
 
-**[Partnership for Public Service](https://ourpublicservice.org/)**
+**Partnership for Public Service**
 
-<dl class="job-meta">
-<dt>Location</dt><dd>Washington, DC metro area, USA</dd>
-<dt>Role type</dt><dd>Internship</dd>
-<dt>Experience</dt><dd>Entry-level</dd>
-<dt>Degree</dt><dd>Undergraduate degree or less</dd>
-<dt>Salary</dt><dd>$24,000</dd>
-</dl>
-
-**Areas & skills:** Career development: Policy & government, Research, Policy
+**Areas & skills:** Career development: Policy & government
 
 ## Summary
 - In this role, you'll assist the Artificial Intelligence team with research, event management and content development to advance AI use in government.

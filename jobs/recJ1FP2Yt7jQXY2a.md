@@ -2,7 +2,7 @@
 title: "Researcher, Automated Red Teaming"
 employer: "OpenAI"
 job_id: "recJ1FP2Yt7jQXY2a"
-last_updated: "2026-07-06T05:33:32.525633Z"
+last_updated: "2026-07-07T05:33:47.259227Z"
 posted_at: "2022-01-11T00:00:00Z"
 status: ready
 apply_url: "https://openai.com/careers/researcher-automated-red-teaming-san-francisco/"
@@ -34,4 +34,4 @@ areas:
 <p class="apply-cta"><a href="https://openai.com/careers/researcher-automated-red-teaming-san-francisco/">Apply →</a></p>
 
 ---
-*Posted 2022-01-11 · Listing synced 2026-07-06 · 80k job ID `recJ1FP2Yt7jQXY2a`*
+*Posted 2022-01-11 · Listing synced 2026-07-07 · 80k job ID `recJ1FP2Yt7jQXY2a`*

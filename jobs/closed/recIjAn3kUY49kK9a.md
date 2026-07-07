@@ -4,25 +4,20 @@ employer: "xAI"
 job_id: "recIjAn3kUY49kK9a"
 last_updated: "2026-07-06T05:33:58.812589Z"
 posted_at: "2022-01-06T00:00:00Z"
-status: ready
+status: closed
+closed_at: "2026-07-07"
 apply_url: "https://job-boards.greenhouse.io/xai/jobs/4559148007"
 areas:
   - "AI safety & policy"
 ---
 
+> ⚠️ **CLOSED on 2026-07-07** — this job is no longer listed on the 80,000 Hours board. Archived snapshot below.
+
 # Detection and Response Engineer
 
-**[xAI](https://x.ai/)**
+**xAI**
 
-<dl class="job-meta">
-<dt>Location</dt><dd>San Francisco Bay Area, USA</dd>
-<dt>Role type</dt><dd>Full-time</dd>
-<dt>Experience</dt><dd>Junior (1-4 years experience), Mid (5-9 years experience)</dd>
-<dt>Degree</dt><dd>Undergraduate degree or less</dd>
-<dt>Salary</dt><dd>$180,000 – $440,000</dd>
-</dl>
-
-**Areas & skills:** AI safety & policy, Information security
+**Areas & skills:** AI safety & policy
 
 ## Summary
 - In this role, you'll monitor and analyse security alerts and logs to identify potential threats and anomalies.

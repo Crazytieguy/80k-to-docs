@@ -2,7 +2,7 @@
 title: "Machine Learning Engineer"
 employer: "Elicit"
 job_id: "recPmfNMg6rLaX6yd"
-last_updated: "2026-07-06T05:33:20.235520Z"
+last_updated: "2026-07-07T05:33:32.650137Z"
 posted_at: "2022-01-12T00:00:00Z"
 status: ready
 apply_url: "https://elicit.com/careers?ashby_jid=913a03d5-bd26-4c64-8346-21a029f344f7"
@@ -33,4 +33,4 @@ areas:
 <p class="apply-cta"><a href="https://elicit.com/careers?ashby_jid=913a03d5-bd26-4c64-8346-21a029f344f7">Apply →</a></p>
 
 ---
-*Posted 2022-01-12 · Listing synced 2026-07-06 · 80k job ID `recPmfNMg6rLaX6yd`*
+*Posted 2022-01-12 · Listing synced 2026-07-07 · 80k job ID `recPmfNMg6rLaX6yd`*

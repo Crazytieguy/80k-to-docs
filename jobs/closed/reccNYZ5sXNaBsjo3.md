@@ -4,25 +4,20 @@ employer: "European Union, Joint Research Centre"
 job_id: "reccNYZ5sXNaBsjo3"
 last_updated: "2026-07-06T05:32:39.707259Z"
 posted_at: "2026-06-09T00:00:00Z"
-status: ready
+status: closed
+closed_at: "2026-07-07"
 apply_url: "https://recruitment.jrc.ec.europa.eu/vacancy/2931"
 areas:
   - "Career development"
 ---
 
+> ⚠️ **CLOSED on 2026-07-07** — this job is no longer listed on the 80,000 Hours board. Archived snapshot below.
+
 # Project Officer, Artificial Intelligence Applied to Operations Management
 
-**[European Union, Joint Research Centre](https://ec.europa.eu/jrc/en)**
+**European Union, Joint Research Centre**
 
-<dl class="job-meta">
-<dt>Location</dt><dd>Brussels, Belgium, Belgium, Europe (ex UK)</dd>
-<dt>Role type</dt><dd>Full-time</dd>
-<dt>Experience</dt><dd>Junior (1-4 years experience)</dd>
-<dt>Degree</dt><dd>Undergraduate degree or less</dd>
-<dt>Salary</dt><dd>$61,014 – $88,373</dd>
-</dl>
-
-**Areas & skills:** Career development, Operations, Software engineering
+**Areas & skills:** Career development
 
 ## Summary
 - In this role, you'll support the Directorate implementing AI solutions to improve operational and financial efficiency while contributing to strategic decision-making.

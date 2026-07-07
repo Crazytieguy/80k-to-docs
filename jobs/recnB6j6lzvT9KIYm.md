@@ -2,8 +2,8 @@
 title: "Head of SPAR"
 employer: "Kairos"
 job_id: "recnB6j6lzvT9KIYm"
-last_updated: "2026-07-06T05:32:50.924304Z"
-posted_at: "2026-05-29T00:03:00Z"
+last_updated: "2026-07-07T05:31:59.764098Z"
+posted_at: "2026-07-06T00:00:00Z"
 status: ready
 apply_url: "https://jobs.ashbyhq.com/kairos-project/934e3b41-bfc4-470b-b36b-37115de389f4"
 areas:
@@ -34,4 +34,4 @@ areas:
 <p class="apply-cta"><a href="https://jobs.ashbyhq.com/kairos-project/934e3b41-bfc4-470b-b36b-37115de389f4">Apply →</a></p>
 
 ---
-*Posted 2026-05-29 · Listing synced 2026-07-06 · 80k job ID `recnB6j6lzvT9KIYm`*
+*Posted 2026-07-06 · Listing synced 2026-07-07 · 80k job ID `recnB6j6lzvT9KIYm`*

@@ -4,25 +4,20 @@ employer: "US Government, Defense Threat Reduction Agency"
 job_id: "recVi4AgW8Fcdu7qk"
 last_updated: "2026-07-06T05:32:02.120503Z"
 posted_at: "2026-07-01T00:00:00Z"
-status: ready
+status: closed
+closed_at: "2026-07-07"
 apply_url: "https://www.usajobs.gov/job/874662300"
 areas:
   - "Biosecurity & pandemic preparedness"
 ---
 
+> ⚠️ **CLOSED on 2026-07-07** — this job is no longer listed on the 80,000 Hours board. Archived snapshot below.
+
 # Microbiologist
 
-**[US Government, Defense Threat Reduction Agency](https://www.dtra.mil/)**
+**US Government, Defense Threat Reduction Agency**
 
-<dl class="job-meta">
-<dt>Location</dt><dd>Fort Belvoir, VA, USA</dd>
-<dt>Role type</dt><dd>Full-time</dd>
-<dt>Experience</dt><dd>Senior (10+ years experience)</dd>
-<dt>Degree</dt><dd>Undergraduate degree or less</dd>
-<dt>Salary</dt><dd>$143,913 – $187,093</dd>
-</dl>
-
-**Areas & skills:** Biosecurity & pandemic preparedness, Policy
+**Areas & skills:** Biosecurity & pandemic preparedness
 
 ## Summary
 - In this role, you'll serves as a subject matter expert and project manager for threat agent science of chemical and biological (CB) agents.

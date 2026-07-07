@@ -2,7 +2,7 @@
 title: "Operations Generalist / Business Operations"
 employer: "Valthos"
 job_id: "recqOfYZNK4zaFtdR"
-last_updated: "2026-07-06T05:33:09.031170Z"
+last_updated: "2026-07-07T05:33:20.761677Z"
 posted_at: "2026-05-12T00:01:00Z"
 status: ready
 apply_url: "https://jobs.ashbyhq.com/valthos/1b06d90d-a2ac-49dd-9f12-4408303c5e86"
@@ -34,4 +34,4 @@ areas:
 <p class="apply-cta"><a href="https://jobs.ashbyhq.com/valthos/1b06d90d-a2ac-49dd-9f12-4408303c5e86">Apply →</a></p>
 
 ---
-*Posted 2026-05-12 · Listing synced 2026-07-06 · 80k job ID `recqOfYZNK4zaFtdR`*
+*Posted 2026-05-12 · Listing synced 2026-07-07 · 80k job ID `recqOfYZNK4zaFtdR`*
