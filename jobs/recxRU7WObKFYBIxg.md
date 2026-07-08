@@ -2,22 +2,27 @@
 title: "Sales and Marketing Manager"
 employer: "Fish Welfare Initiative"
 job_id: "recxRU7WObKFYBIxg"
-last_updated: "2026-06-14T05:33:13.868459Z"
+last_updated: "2026-07-08T05:33:15.766115Z"
 posted_at: "2026-05-19T00:00:00Z"
-status: closed
-closed_at: "2026-06-15"
+status: ready
 apply_url: "https://www.fishwelfareinitiative.org/sales-marketing-manager"
 areas:
   - "Animal welfare"
 ---
 
-> ⚠️ **CLOSED on 2026-06-15** — this job is no longer listed on the 80,000 Hours board. Archived snapshot below.
-
 # Sales and Marketing Manager
 
-**Fish Welfare Initiative**
+**[Fish Welfare Initiative](https://www.charityentrepreneurship.com/fish-welfare-initiative)**
 
-**Areas & skills:** Animal welfare
+<dl class="job-meta">
+<dt>Location</dt><dd>Andhra Pradesh, India, Eluru, India, India, Asia</dd>
+<dt>Role type</dt><dd>Full-time</dd>
+<dt>Experience</dt><dd>Junior (1-4 years experience)</dd>
+<dt>Degree</dt><dd>Undergraduate degree or less</dd>
+<dt>Salary</dt><dd>$7,569 – $10,722</dd>
+</dl>
+
+**Areas & skills:** Animal welfare, Outreach
 
 ## Summary
 - In this role, you'll build and scale a feed fortification program by establishing relationships with feed mills, farmers, and distributors in Andhra Pradesh.
@@ -29,4 +34,4 @@ areas:
 <p class="apply-cta"><a href="https://www.fishwelfareinitiative.org/sales-marketing-manager">Apply →</a></p>
 
 ---
-*Posted 2026-05-19 · Listing synced 2026-06-14 · 80k job ID `recxRU7WObKFYBIxg`*
+*Posted 2026-05-19 · Listing synced 2026-07-08 · 80k job ID `recxRU7WObKFYBIxg`*

@@ -2,7 +2,7 @@
 title: "Biotechnology Regulatory Fellowship"
 employer: "US Government, National Academies of Sciences, Engineering, and Medicine"
 job_id: "recvcpeG1rpokYoNI"
-last_updated: "2026-07-07T05:32:24.884979Z"
+last_updated: "2026-07-08T05:32:30.001038Z"
 posted_at: "2026-06-24T00:00:00Z"
 status: ready
 apply_url: "https://biotechfellows.nationalacademies.org/"
@@ -35,4 +35,4 @@ areas:
 <p class="apply-cta"><a href="https://biotechfellows.nationalacademies.org/">Apply →</a></p>
 
 ---
-*Posted 2026-06-24 · Listing synced 2026-07-07 · 80k job ID `recvcpeG1rpokYoNI`*
+*Posted 2026-06-24 · Listing synced 2026-07-08 · 80k job ID `recvcpeG1rpokYoNI`*

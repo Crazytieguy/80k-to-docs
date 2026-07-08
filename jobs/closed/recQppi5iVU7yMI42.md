@@ -4,24 +4,20 @@ employer: "Perimeter"
 job_id: "recQppi5iVU7yMI42"
 last_updated: "2026-07-07T05:33:18.864384Z"
 posted_at: "2026-05-14T00:00:00Z"
-status: ready
+status: closed
+closed_at: "2026-07-08"
 apply_url: "https://www.linkedin.com/jobs/view/4413995114/?alternateChannel=search&eBP=NON_CHARGEABLE_CHANNEL&refId=k5LKnIEw8tV3djFcqzYgTw%3D%3D&trackingId=%2FDoAtb24XuDmHv8qGPbfFA%3D%3D&trk=d_flagship3_search_srp_jobs"
 areas:
   - "Biosecurity & pandemic preparedness"
 ---
 
+> ⚠️ **CLOSED on 2026-07-08** — this job is no longer listed on the 80,000 Hours board. Archived snapshot below.
+
 # Associate Scientist, Research and Development
 
-**[Perimeter](https://www.perimeter.bio/)**
+**Perimeter**
 
-<dl class="job-meta">
-<dt>Location</dt><dd>Boston metro area, USA</dd>
-<dt>Role type</dt><dd>Full-time</dd>
-<dt>Experience</dt><dd>Junior (1-4 years experience)</dd>
-<dt>Degree</dt><dd>Undergraduate degree or less</dd>
-</dl>
-
-**Areas & skills:** Biosecurity & pandemic preparedness, Research
+**Areas & skills:** Biosecurity & pandemic preparedness
 
 ## Summary
 - In this role, you'll execute laboratory experiments with precision and rigor to power an R&D pipeline.

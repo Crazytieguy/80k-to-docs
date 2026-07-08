@@ -2,7 +2,7 @@
 title: "Course, The Economics of AI"
 employer: "University of Virginia"
 job_id: "recRtRAEsxdQxalxd"
-last_updated: "2026-07-07T05:32:53.728251Z"
+last_updated: "2026-07-08T05:32:55.151443Z"
 posted_at: "2026-06-08T00:00:00Z"
 status: ready
 apply_url: "https://www.coursera.org/learn/economics-of-ai"
@@ -31,4 +31,4 @@ areas:
 <p class="apply-cta"><a href="https://www.coursera.org/learn/economics-of-ai">Apply →</a></p>
 
 ---
-*Posted 2026-06-08 · Listing synced 2026-07-07 · 80k job ID `recRtRAEsxdQxalxd`*
+*Posted 2026-06-08 · Listing synced 2026-07-08 · 80k job ID `recRtRAEsxdQxalxd`*

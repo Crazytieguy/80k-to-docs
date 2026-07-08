@@ -2,7 +2,7 @@
 title: "European Seminar, Frontier AI and Law"
 employer: "ML4Good"
 job_id: "rectnjdEGGBB5tl5I"
-last_updated: "2026-07-07T05:32:05.658875Z"
+last_updated: "2026-07-08T05:32:12.410575Z"
 posted_at: "2026-07-02T00:02:00Z"
 status: ready
 apply_url: "https://frontier-ai-law.org/"
@@ -19,7 +19,7 @@ areas:
 <dt>Role type</dt><dd>Course</dd>
 <dt>Experience</dt><dd>Mid (5-9 years experience)</dd>
 <dt>Degree</dt><dd>Undergraduate degree or less</dd>
-<dt>Salary</dt><dd>$1,071</dd>
+<dt>Salary</dt><dd>$1,068</dd>
 </dl>
 
 **Areas & skills:** AI safety & policy, Legal
@@ -33,4 +33,4 @@ areas:
 <p class="apply-cta"><a href="https://frontier-ai-law.org/">Apply →</a></p>
 
 ---
-*Posted 2026-07-02 · Listing synced 2026-07-07 · 80k job ID `rectnjdEGGBB5tl5I`*
+*Posted 2026-07-02 · Listing synced 2026-07-08 · 80k job ID `rectnjdEGGBB5tl5I`*

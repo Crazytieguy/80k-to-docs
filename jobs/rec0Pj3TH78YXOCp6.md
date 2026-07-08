@@ -2,7 +2,7 @@
 title: "Editorial Assistant"
 employer: "Slow Boring"
 job_id: "rec0Pj3TH78YXOCp6"
-last_updated: "2026-07-07T05:34:45.370435Z"
+last_updated: "2026-07-08T05:34:39.623716Z"
 posted_at: "2022-01-02T00:00:00Z"
 status: ready
 apply_url: "https://open.substack.com/pub/matthewyglesias/p/come-work-with-us?r=2dxy0"
@@ -33,4 +33,4 @@ areas:
 <p class="apply-cta"><a href="https://open.substack.com/pub/matthewyglesias/p/come-work-with-us?r=2dxy0">Apply →</a></p>
 
 ---
-*Posted 2022-01-02 · Listing synced 2026-07-07 · 80k job ID `rec0Pj3TH78YXOCp6`*
+*Posted 2022-01-02 · Listing synced 2026-07-08 · 80k job ID `rec0Pj3TH78YXOCp6`*

@@ -2,7 +2,7 @@
 title: "Postdoctoral Associate"
 employer: "Massachusetts Institute of Technology, FutureTech"
 job_id: "recL68BQBR6TZHg7m"
-last_updated: "2026-07-07T05:34:06.504413Z"
+last_updated: "2026-07-08T05:34:04.402130Z"
 posted_at: "2022-01-06T00:00:00Z"
 status: ready
 apply_url: "https://futuretech.mit.edu/opportunities/postdoctoral-associate"
@@ -33,4 +33,4 @@ areas:
 <p class="apply-cta"><a href="https://futuretech.mit.edu/opportunities/postdoctoral-associate">Apply →</a></p>
 
 ---
-*Posted 2022-01-06 · Listing synced 2026-07-07 · 80k job ID `recL68BQBR6TZHg7m`*
+*Posted 2022-01-06 · Listing synced 2026-07-08 · 80k job ID `recL68BQBR6TZHg7m`*

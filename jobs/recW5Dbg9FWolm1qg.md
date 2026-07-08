@@ -2,7 +2,7 @@
 title: "Product Manager, Cyber Safety"
 employer: "OpenAI"
 job_id: "recW5Dbg9FWolm1qg"
-last_updated: "2026-07-07T05:33:26.250613Z"
+last_updated: "2026-07-08T05:33:26.988466Z"
 posted_at: "2026-04-29T00:00:00Z"
 status: ready
 apply_url: "https://openai.com/careers/product-manager-cyber-safety-san-francisco/"
@@ -34,4 +34,4 @@ areas:
 <p class="apply-cta"><a href="https://openai.com/careers/product-manager-cyber-safety-san-francisco/">Apply →</a></p>
 
 ---
-*Posted 2026-04-29 · Listing synced 2026-07-07 · 80k job ID `recW5Dbg9FWolm1qg`*
+*Posted 2026-04-29 · Listing synced 2026-07-08 · 80k job ID `recW5Dbg9FWolm1qg`*

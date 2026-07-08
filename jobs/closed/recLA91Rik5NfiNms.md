@@ -4,24 +4,20 @@ employer: "Perimeter"
 job_id: "recLA91Rik5NfiNms"
 last_updated: "2026-07-07T05:34:29.921041Z"
 posted_at: "2022-01-03T00:00:00Z"
-status: ready
+status: closed
+closed_at: "2026-07-08"
 apply_url: "https://www.linkedin.com/jobs/view/4400609184/?eBP=NON_CHARGEABLE_CHANNEL&refId=vWpnW3ai%2BkspEebVTpp3zg%3D%3D&trackingId=vZ%2FCoG6uRj1x73djwCbRRw%3D%3D&trk=flagship3_search_srp_jobs"
 areas:
   - "Biosecurity & pandemic preparedness"
 ---
 
+> ⚠️ **CLOSED on 2026-07-08** — this job is no longer listed on the 80,000 Hours board. Archived snapshot below.
+
 # Senior Software Engineer, Full Stack
 
-**[Perimeter](https://www.perimeter.bio/)**
+**Perimeter**
 
-<dl class="job-meta">
-<dt>Location</dt><dd>Boston metro area, USA</dd>
-<dt>Role type</dt><dd>Full-time</dd>
-<dt>Experience</dt><dd>Mid (5-9 years experience)</dd>
-<dt>Degree</dt><dd>Undergraduate degree or less</dd>
-</dl>
-
-**Areas & skills:** Biosecurity & pandemic preparedness, Software engineering
+**Areas & skills:** Biosecurity & pandemic preparedness
 
 ## Summary
 - In this role, you'll build full-stack applications translating complex biological data into actionable biosecurity insights.

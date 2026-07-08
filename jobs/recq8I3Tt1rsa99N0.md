@@ -2,7 +2,7 @@
 title: "Cyber Policy and Strategy Planner"
 employer: "Government of California, Office of Emergency Services"
 job_id: "recq8I3Tt1rsa99N0"
-last_updated: "2026-07-07T05:32:02.982316Z"
+last_updated: "2026-07-08T05:32:09.848083Z"
 posted_at: "2026-07-03T00:00:00Z"
 status: ready
 apply_url: "https://calcareers.ca.gov/CalHrPublic/Jobs/JobPosting.aspx?JobControlId=523056"
@@ -35,4 +35,4 @@ areas:
 <p class="apply-cta"><a href="https://calcareers.ca.gov/CalHrPublic/Jobs/JobPosting.aspx?JobControlId=523056">Apply →</a></p>
 
 ---
-*Posted 2026-07-03 · Listing synced 2026-07-07 · 80k job ID `recq8I3Tt1rsa99N0`*
+*Posted 2026-07-03 · Listing synced 2026-07-08 · 80k job ID `recq8I3Tt1rsa99N0`*

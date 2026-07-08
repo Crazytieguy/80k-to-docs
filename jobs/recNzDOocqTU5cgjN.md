@@ -2,7 +2,7 @@
 title: "Part-Time Contract Developer, GiveWise"
 employer: "Effective Altruism Hong Kong"
 job_id: "recNzDOocqTU5cgjN"
-last_updated: "2026-07-07T05:33:02.563754Z"
+last_updated: "2026-07-08T05:33:03.155276Z"
 posted_at: "2026-06-01T00:00:00Z"
 status: ready
 apply_url: "https://www.eahongkong.org/job-listing-part-time-developer"
@@ -18,7 +18,7 @@ areas:
 <dt>Location</dt><dd>Remote, Global</dd>
 <dt>Role type</dt><dd>Part-time</dd>
 <dt>Experience</dt><dd>Junior (1-4 years experience), Mid (5-9 years experience)</dd>
-<dt>Salary</dt><dd>$42,432</dd>
+<dt>Salary</dt><dd>$42,440</dd>
 </dl>
 
 **Areas & skills:** Building effective altruism, Software engineering
@@ -33,4 +33,4 @@ areas:
 <p class="apply-cta"><a href="https://www.eahongkong.org/job-listing-part-time-developer">Apply →</a></p>
 
 ---
-*Posted 2026-06-01 · Listing synced 2026-07-07 · 80k job ID `recNzDOocqTU5cgjN`*
+*Posted 2026-06-01 · Listing synced 2026-07-08 · 80k job ID `recNzDOocqTU5cgjN`*

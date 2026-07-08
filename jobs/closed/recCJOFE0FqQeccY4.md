@@ -4,24 +4,20 @@ employer: "Perimeter"
 job_id: "recCJOFE0FqQeccY4"
 last_updated: "2026-07-07T05:33:18.692114Z"
 posted_at: "2026-05-14T00:00:00Z"
-status: ready
+status: closed
+closed_at: "2026-07-08"
 apply_url: "https://www.linkedin.com/jobs/view/4413999014/?alternateChannel=search&trk=d_flagship3_company&refId=Rvt48cVRjsNsRAv%2B7g0eFA%3D%3D&trackingId=oOVIwe4KkWstutIloktOUg%3D%3D"
 areas:
   - "Biosecurity & pandemic preparedness"
 ---
 
+> ⚠️ **CLOSED on 2026-07-08** — this job is no longer listed on the 80,000 Hours board. Archived snapshot below.
+
 # Senior Scientist, Research and Development
 
-**[Perimeter](https://www.perimeter.bio/)**
+**Perimeter**
 
-<dl class="job-meta">
-<dt>Location</dt><dd>Boston metro area, USA</dd>
-<dt>Role type</dt><dd>Full-time</dd>
-<dt>Experience</dt><dd>Mid (5-9 years experience)</dd>
-<dt>Degree</dt><dd>Undergraduate degree or less</dd>
-</dl>
-
-**Areas & skills:** Biosecurity & pandemic preparedness, Research
+**Areas & skills:** Biosecurity & pandemic preparedness
 
 ## Summary
 - In this role, you'll lead experimental efforts and drive R&D programs by designing and executing complex sequencing-based workflows for product development.

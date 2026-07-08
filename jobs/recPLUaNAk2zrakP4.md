@@ -2,7 +2,7 @@
 title: "Hardware / Kernel Engineer"
 employer: "Tilde Research"
 job_id: "recPLUaNAk2zrakP4"
-last_updated: "2026-07-07T05:32:34.567267Z"
+last_updated: "2026-07-08T05:32:38.574591Z"
 posted_at: "2026-06-17T00:00:00Z"
 status: ready
 apply_url: "https://jobs.ashbyhq.com/tilderesearch/bc4e4071-cf64-4460-8265-b1e5a603d6b8"
@@ -33,4 +33,4 @@ areas:
 <p class="apply-cta"><a href="https://jobs.ashbyhq.com/tilderesearch/bc4e4071-cf64-4460-8265-b1e5a603d6b8">Apply →</a></p>
 
 ---
-*Posted 2026-06-17 · Listing synced 2026-07-07 · 80k job ID `recPLUaNAk2zrakP4`*
+*Posted 2026-06-17 · Listing synced 2026-07-08 · 80k job ID `recPLUaNAk2zrakP4`*

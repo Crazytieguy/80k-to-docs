@@ -2,7 +2,7 @@
 title: "Head of Talent / Talent Specialist"
 employer: "Longview Philanthropy"
 job_id: "recGFdXD8XChdIMy1"
-last_updated: "2026-07-07T05:33:14.814682Z"
+last_updated: "2026-07-08T05:33:15.047962Z"
 posted_at: "2026-05-19T00:04:52Z"
 status: ready
 apply_url: "https://docs.google.com/document/d/1tj_Ix8CxvaH2utmGeNOYb07ttHkn-WBBDxgBu2XF36U/edit?tab=t.0#heading=h.39yyzt21ngpk"
@@ -34,4 +34,4 @@ areas:
 <p class="apply-cta"><a href="https://docs.google.com/document/d/1tj_Ix8CxvaH2utmGeNOYb07ttHkn-WBBDxgBu2XF36U/edit?tab=t.0#heading=h.39yyzt21ngpk">Apply →</a></p>
 
 ---
-*Posted 2026-05-19 · Listing synced 2026-07-07 · 80k job ID `recGFdXD8XChdIMy1`*
+*Posted 2026-05-19 · Listing synced 2026-07-08 · 80k job ID `recGFdXD8XChdIMy1`*

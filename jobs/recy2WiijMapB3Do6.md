@@ -2,7 +2,7 @@
 title: "Growth Specialist, Race for Impact"
 employer: "High Impact Athletes"
 job_id: "recy2WiijMapB3Do6"
-last_updated: "2026-07-07T05:34:38.345137Z"
+last_updated: "2026-07-08T05:34:35.059263Z"
 posted_at: "2022-01-02T00:00:00Z"
 status: ready
 apply_url: "https://www.notion.so/highimpactathletes/Growth-Specialist-Race-for-Impact-30021720ef1780189318e308b19fb3ef"
@@ -34,4 +34,4 @@ areas:
 <p class="apply-cta"><a href="https://www.notion.so/highimpactathletes/Growth-Specialist-Race-for-Impact-30021720ef1780189318e308b19fb3ef">Apply →</a></p>
 
 ---
-*Posted 2022-01-02 · Listing synced 2026-07-07 · 80k job ID `recy2WiijMapB3Do6`*
+*Posted 2022-01-02 · Listing synced 2026-07-08 · 80k job ID `recy2WiijMapB3Do6`*

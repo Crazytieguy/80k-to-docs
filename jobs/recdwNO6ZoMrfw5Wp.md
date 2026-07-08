@@ -2,7 +2,7 @@
 title: "Senior Researcher, Livelihoods"
 employer: "GiveWell"
 job_id: "recdwNO6ZoMrfw5Wp"
-last_updated: "2026-07-07T05:33:21.443933Z"
+last_updated: "2026-07-08T05:33:22.614143Z"
 posted_at: "2026-05-11T00:00:00Z"
 status: ready
 apply_url: "https://job-boards.greenhouse.io/givewell/jobs/5214767008"
@@ -34,4 +34,4 @@ areas:
 <p class="apply-cta"><a href="https://job-boards.greenhouse.io/givewell/jobs/5214767008">Apply →</a></p>
 
 ---
-*Posted 2026-05-11 · Listing synced 2026-07-07 · 80k job ID `recdwNO6ZoMrfw5Wp`*
+*Posted 2026-05-11 · Listing synced 2026-07-08 · 80k job ID `recdwNO6ZoMrfw5Wp`*
