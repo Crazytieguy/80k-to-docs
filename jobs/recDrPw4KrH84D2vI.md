@@ -2,7 +2,7 @@
 title: "Technical Associate / Predoctoral Research Assistant"
 employer: "Massachusetts Institute of Technology, FutureTech"
 job_id: "recDrPw4KrH84D2vI"
-last_updated: "2026-07-08T05:34:04.567830Z"
+last_updated: "2026-07-09T05:34:07.930166Z"
 posted_at: "2022-01-06T00:00:00Z"
 status: ready
 apply_url: "https://futuretech.mit.edu/opportunities/technical-associate-predoctoral-research-assistant"
@@ -33,4 +33,4 @@ areas:
 <p class="apply-cta"><a href="https://futuretech.mit.edu/opportunities/technical-associate-predoctoral-research-assistant">Apply →</a></p>
 
 ---
-*Posted 2022-01-06 · Listing synced 2026-07-08 · 80k job ID `recDrPw4KrH84D2vI`*
+*Posted 2022-01-06 · Listing synced 2026-07-09 · 80k job ID `recDrPw4KrH84D2vI`*

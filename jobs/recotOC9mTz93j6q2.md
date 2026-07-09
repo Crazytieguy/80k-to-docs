@@ -2,7 +2,7 @@
 title: "Emergency Fellowship Programme, Ukraine"
 employer: "Vienna Center for Disarmament and Non-Proliferation"
 job_id: "recotOC9mTz93j6q2"
-last_updated: "2026-07-08T05:32:00.799120Z"
+last_updated: "2026-07-09T05:32:08.790749Z"
 posted_at: "2026-07-07T00:00:00Z"
 status: ready
 apply_url: "https://vcdnp.org/eufp-fellowship/"
@@ -32,4 +32,4 @@ areas:
 <p class="apply-cta"><a href="https://vcdnp.org/eufp-fellowship/">Apply →</a></p>
 
 ---
-*Posted 2026-07-07 · Listing synced 2026-07-08 · 80k job ID `recotOC9mTz93j6q2`*
+*Posted 2026-07-07 · Listing synced 2026-07-09 · 80k job ID `recotOC9mTz93j6q2`*

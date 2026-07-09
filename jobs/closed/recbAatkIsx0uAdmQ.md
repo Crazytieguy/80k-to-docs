@@ -4,25 +4,20 @@ employer: "Elicit"
 job_id: "recbAatkIsx0uAdmQ"
 last_updated: "2026-07-08T05:33:40.762042Z"
 posted_at: "2022-01-11T00:00:00Z"
-status: ready
+status: closed
+closed_at: "2026-07-09"
 apply_url: "https://elicit.com/careers?ashby_jid=2c18fbc6-2e1a-4ba1-a1b2-73db54bc95ca"
 areas:
   - "AI safety & policy"
 ---
 
+> ⚠️ **CLOSED on 2026-07-09** — this job is no longer listed on the 80,000 Hours board. Archived snapshot below.
+
 # Senior ML Product Manager
 
-**[Elicit](https://elicit.com/)**
+**Elicit**
 
-<dl class="job-meta">
-<dt>Location</dt><dd>Remote, USA, USA</dd>
-<dt>Role type</dt><dd>Full-time</dd>
-<dt>Experience</dt><dd>Mid (5-9 years experience)</dd>
-<dt>Degree</dt><dd>Undergraduate degree or less</dd>
-<dt>Salary</dt><dd>$120,000 – $160,000</dd>
-</dl>
-
-**Areas & skills:** AI safety & policy, Strategy
+**Areas & skills:** AI safety & policy
 
 ## Summary
 - In this role, you'll lead machine-learning based projects from concept through launch, setting the product vision and driving projects end-to-end from prototype to implementation.

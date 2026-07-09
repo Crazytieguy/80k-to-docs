@@ -2,7 +2,7 @@
 title: "Finance Specialist / Manager"
 employer: "Epoch AI"
 job_id: "reciM9HoYqhbElqqo"
-last_updated: "2026-07-08T05:32:02.026554Z"
+last_updated: "2026-07-09T05:32:09.584970Z"
 posted_at: "2026-07-06T00:04:37Z"
 status: ready
 apply_url: "https://jobs.lever.co/epoch-ai/71202beb-84f1-4f2e-ad9d-f325b64c9b24"
@@ -34,4 +34,4 @@ areas:
 <p class="apply-cta"><a href="https://jobs.lever.co/epoch-ai/71202beb-84f1-4f2e-ad9d-f325b64c9b24">Apply →</a></p>
 
 ---
-*Posted 2026-07-06 · Listing synced 2026-07-08 · 80k job ID `reciM9HoYqhbElqqo`*
+*Posted 2026-07-06 · Listing synced 2026-07-09 · 80k job ID `reciM9HoYqhbElqqo`*

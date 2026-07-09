@@ -2,7 +2,7 @@
 title: "Head of Operations"
 employer: "Eleos AI Research"
 job_id: "recrfoG2fKRdleQhU"
-last_updated: "2026-07-08T05:32:36.649111Z"
+last_updated: "2026-07-09T05:32:41.774242Z"
 posted_at: "2026-06-17T00:03:00Z"
 status: ready
 apply_url: "https://jobs.ashbyhq.com/eleos/d2ebbd53-6d8e-4ec9-8040-77bb4db25af7"
@@ -34,4 +34,4 @@ areas:
 <p class="apply-cta"><a href="https://jobs.ashbyhq.com/eleos/d2ebbd53-6d8e-4ec9-8040-77bb4db25af7">Apply →</a></p>
 
 ---
-*Posted 2026-06-17 · Listing synced 2026-07-08 · 80k job ID `recrfoG2fKRdleQhU`*
+*Posted 2026-06-17 · Listing synced 2026-07-09 · 80k job ID `recrfoG2fKRdleQhU`*

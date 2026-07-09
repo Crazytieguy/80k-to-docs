@@ -2,7 +2,7 @@
 title: "AI Security Bootcamp, London"
 employer: "AI Security Bootcamp"
 job_id: "recQUaPyBZPq5xKKh"
-last_updated: "2026-07-08T05:32:02.922163Z"
+last_updated: "2026-07-09T05:32:10.416846Z"
 posted_at: "2026-07-06T00:01:00Z"
 status: ready
 apply_url: "https://aisb.dev/london26/"
@@ -32,4 +32,4 @@ areas:
 <p class="apply-cta"><a href="https://aisb.dev/london26/">Apply →</a></p>
 
 ---
-*Posted 2026-07-06 · Listing synced 2026-07-08 · 80k job ID `recQUaPyBZPq5xKKh`*
+*Posted 2026-07-06 · Listing synced 2026-07-09 · 80k job ID `recQUaPyBZPq5xKKh`*

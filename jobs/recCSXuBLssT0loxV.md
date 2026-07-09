@@ -2,7 +2,7 @@
 title: "Internship (Fall 2026)"
 employer: "Committee for a Responsible Federal Budget"
 job_id: "recCSXuBLssT0loxV"
-last_updated: "2026-07-08T05:32:04.033009Z"
+last_updated: "2026-07-09T05:32:11.372939Z"
 posted_at: "2026-07-06T00:00:00Z"
 status: ready
 apply_url: "https://www.crfb.org/jobs/internship"
@@ -34,4 +34,4 @@ areas:
 <p class="apply-cta"><a href="https://www.crfb.org/jobs/internship">Apply →</a></p>
 
 ---
-*Posted 2026-07-06 · Listing synced 2026-07-08 · 80k job ID `recCSXuBLssT0loxV`*
+*Posted 2026-07-06 · Listing synced 2026-07-09 · 80k job ID `recCSXuBLssT0loxV`*

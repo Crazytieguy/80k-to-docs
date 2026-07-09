@@ -2,7 +2,7 @@
 title: "Researcher, Benchmark Reviews"
 employer: "Epoch AI"
 job_id: "recSW0WmPenl4FN9Y"
-last_updated: "2026-07-08T05:32:01.835615Z"
+last_updated: "2026-07-09T05:32:09.388088Z"
 posted_at: "2026-07-06T00:04:39Z"
 status: ready
 apply_url: "https://jobs.lever.co/epoch-ai/8bfbbe7b-8334-4d85-9804-e17738bcafe4"
@@ -34,4 +34,4 @@ areas:
 <p class="apply-cta"><a href="https://jobs.lever.co/epoch-ai/8bfbbe7b-8334-4d85-9804-e17738bcafe4">Apply →</a></p>
 
 ---
-*Posted 2026-07-06 · Listing synced 2026-07-08 · 80k job ID `recSW0WmPenl4FN9Y`*
+*Posted 2026-07-06 · Listing synced 2026-07-09 · 80k job ID `recSW0WmPenl4FN9Y`*

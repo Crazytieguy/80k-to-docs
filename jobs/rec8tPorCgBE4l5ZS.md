@@ -2,7 +2,7 @@
 title: "Senior Research Fellow, International Security"
 employer: "Chatham House"
 job_id: "rec8tPorCgBE4l5ZS"
-last_updated: "2026-07-08T05:32:21.356281Z"
+last_updated: "2026-07-09T05:32:27.159753Z"
 posted_at: "2026-06-30T00:00:00Z"
 status: ready
 apply_url: "https://careers.chathamhouse.org/jobs/7988892-senior-research-fellow-international-security"
@@ -19,7 +19,7 @@ areas:
 <dt>Role type</dt><dd>Fellowship</dd>
 <dt>Experience</dt><dd>Mid (5-9 years experience), Senior (10+ years experience)</dd>
 <dt>Degree</dt><dd>Undergraduate degree or less</dd>
-<dt>Salary</dt><dd>$78,785 – $93,474</dd>
+<dt>Salary</dt><dd>$79,091 – $93,837</dd>
 </dl>
 
 **Areas & skills:** Career development: Policy & government, Research, Policy
@@ -34,4 +34,4 @@ areas:
 <p class="apply-cta"><a href="https://careers.chathamhouse.org/jobs/7988892-senior-research-fellow-international-security">Apply →</a></p>
 
 ---
-*Posted 2026-06-30 · Listing synced 2026-07-08 · 80k job ID `rec8tPorCgBE4l5ZS`*
+*Posted 2026-06-30 · Listing synced 2026-07-09 · 80k job ID `rec8tPorCgBE4l5ZS`*

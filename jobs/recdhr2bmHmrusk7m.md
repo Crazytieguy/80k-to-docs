@@ -2,7 +2,7 @@
 title: "Microgrants"
 employer: "Experimental Microgrant Program"
 job_id: "recdhr2bmHmrusk7m"
-last_updated: "2026-07-08T05:32:06.483860Z"
+last_updated: "2026-07-09T05:32:13.724411Z"
 posted_at: "2026-07-03T00:02:00Z"
 status: ready
 apply_url: "https://docs.google.com/document/d/10zAp2bXTkZgiPreIm4crp38TFco4KleFN14Kw5BprAs/edit?tab=t.0"
@@ -32,4 +32,4 @@ areas:
 <p class="apply-cta"><a href="https://docs.google.com/document/d/10zAp2bXTkZgiPreIm4crp38TFco4KleFN14Kw5BprAs/edit?tab=t.0">Apply →</a></p>
 
 ---
-*Posted 2026-07-03 · Listing synced 2026-07-08 · 80k job ID `recdhr2bmHmrusk7m`*
+*Posted 2026-07-03 · Listing synced 2026-07-09 · 80k job ID `recdhr2bmHmrusk7m`*

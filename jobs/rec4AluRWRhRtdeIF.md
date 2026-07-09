@@ -2,7 +2,7 @@
 title: "Research Lab Administrator"
 employer: "Purdue University, Governance and Responsible AI Lab"
 job_id: "rec4AluRWRhRtdeIF"
-last_updated: "2026-07-08T05:32:44.133481Z"
+last_updated: "2026-07-09T05:32:49.091611Z"
 posted_at: "2026-06-12T00:01:00Z"
 status: ready
 apply_url: "https://careers.purdue.edu/job/West-Lafayette-Research-Lab-Administrator-IN-47906/41851-en_US/"
@@ -33,4 +33,4 @@ areas:
 <p class="apply-cta"><a href="https://careers.purdue.edu/job/West-Lafayette-Research-Lab-Administrator-IN-47906/41851-en_US/">Apply →</a></p>
 
 ---
-*Posted 2026-06-12 · Listing synced 2026-07-08 · 80k job ID `rec4AluRWRhRtdeIF`*
+*Posted 2026-06-12 · Listing synced 2026-07-09 · 80k job ID `rec4AluRWRhRtdeIF`*

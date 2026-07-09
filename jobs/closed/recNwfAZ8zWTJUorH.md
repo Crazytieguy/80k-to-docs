@@ -4,24 +4,20 @@ employer: "One Acre Fund"
 job_id: "recNwfAZ8zWTJUorH"
 last_updated: "2026-07-08T05:32:21.590040Z"
 posted_at: "2026-06-30T00:00:00Z"
-status: ready
+status: closed
+closed_at: "2026-07-09"
 apply_url: "https://oneacrefund.org/vacancies/quality-engineering-intern"
 areas:
   - "Global health & development"
 ---
 
+> ⚠️ **CLOSED on 2026-07-09** — this job is no longer listed on the 80,000 Hours board. Archived snapshot below.
+
 # Intern, Quality Engineering
 
-**[One Acre Fund](https://oneacrefund.org/)**
+**One Acre Fund**
 
-<dl class="job-meta">
-<dt>Location</dt><dd>Nairobi, Kenya, Kigali, Rwanda, Kenya, Africa, Rwanda</dd>
-<dt>Role type</dt><dd>Internship</dd>
-<dt>Experience</dt><dd>Entry-level</dd>
-<dt>Degree</dt><dd>Undergraduate degree or less</dd>
-</dl>
-
-**Areas & skills:** Global health & development, Software engineering
+**Areas & skills:** Global health & development
 
 ## Summary
 - In this role, you'll build automated testing frameworks and ensure product quality throughout CI/CD pipelines.

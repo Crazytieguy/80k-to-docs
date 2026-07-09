@@ -2,7 +2,7 @@
 title: "Research Engineer, Rule of Law"
 employer: "Anthropic"
 job_id: "rec5246nh8zmt0Ji8"
-last_updated: "2026-07-08T05:32:27.745104Z"
+last_updated: "2026-07-09T05:32:32.960345Z"
 posted_at: "2026-06-25T00:00:00Z"
 status: ready
 apply_url: "https://job-boards.greenhouse.io/anthropic/jobs/5278065008"
@@ -35,4 +35,4 @@ areas:
 <p class="apply-cta"><a href="https://job-boards.greenhouse.io/anthropic/jobs/5278065008">Apply →</a></p>
 
 ---
-*Posted 2026-06-25 · Listing synced 2026-07-08 · 80k job ID `rec5246nh8zmt0Ji8`*
+*Posted 2026-06-25 · Listing synced 2026-07-09 · 80k job ID `rec5246nh8zmt0Ji8`*

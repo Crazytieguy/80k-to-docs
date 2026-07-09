@@ -4,25 +4,20 @@ employer: "The Future Society"
 job_id: "recHXSJKoiZVPOmlg"
 last_updated: "2026-07-08T05:32:30.170741Z"
 posted_at: "2026-06-23T00:04:39Z"
-status: ready
+status: closed
+closed_at: "2026-07-09"
 apply_url: "https://thefuturesociety.org/work-with-us/"
 areas:
   - "AI safety & policy"
 ---
 
+> ⚠️ **CLOSED on 2026-07-09** — this job is no longer listed on the 80,000 Hours board. Archived snapshot below.
+
 # Communications Coordinator
 
-**[The Future Society](https://thefuturesociety.org/)**
+**The Future Society**
 
-<dl class="job-meta">
-<dt>Location</dt><dd>Remote, Global</dd>
-<dt>Role type</dt><dd>Full-time</dd>
-<dt>Experience</dt><dd>Junior (1-4 years experience)</dd>
-<dt>Degree</dt><dd>Undergraduate degree or less</dd>
-<dt>Salary</dt><dd>$58,400 – $92,100</dd>
-</dl>
-
-**Areas & skills:** AI safety & policy, Outreach
+**Areas & skills:** AI safety & policy
 
 ## Summary
 - In this role, you'll support TFS's communications function by managing digital channels that amplify AI governance research and policy work.

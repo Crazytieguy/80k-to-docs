@@ -4,25 +4,20 @@ employer: "Humans in Control"
 job_id: "rec7HMgENcEI26M5N"
 last_updated: "2026-07-08T05:32:27.349238Z"
 posted_at: "2026-06-25T00:03:00Z"
-status: ready
+status: closed
+closed_at: "2026-07-09"
 apply_url: "https://humansincontrol.org/careers/social-media-content-producer/"
 areas:
   - "AI safety & policy"
 ---
 
+> ⚠️ **CLOSED on 2026-07-09** — this job is no longer listed on the 80,000 Hours board. Archived snapshot below.
+
 # Founding Video and Social Lead
 
-**[Humans in Control](https://humansincontrol.org/)**
+**Humans in Control**
 
-<dl class="job-meta">
-<dt>Location</dt><dd>Remote, USA, USA</dd>
-<dt>Role type</dt><dd>Full-time</dd>
-<dt>Experience</dt><dd>Junior (1-4 years experience), Mid (5-9 years experience)</dd>
-<dt>Degree</dt><dd>Undergraduate degree or less</dd>
-<dt>Salary</dt><dd>$75,000 – $95,000</dd>
-</dl>
-
-**Areas & skills:** AI safety & policy, Other
+**Areas & skills:** AI safety & policy
 
 ## Summary
 - In this role, you'll build social presence and grow supporters through video-first content and digital campaigns.

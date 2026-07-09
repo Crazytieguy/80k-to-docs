@@ -2,7 +2,7 @@
 title: "Tech Counsel, AI for Democracy Action Lab"
 employer: "Protect Democracy"
 job_id: "recDwTKDq9fvy0IZ6"
-last_updated: "2026-07-08T05:33:05.045970Z"
+last_updated: "2026-07-09T05:33:09.097454Z"
 posted_at: "2026-05-29T00:00:00Z"
 status: ready
 apply_url: "https://protectdemocracy.recruitee.com/o/tech-counsel-ai-for-democracy-action-lab"
@@ -34,4 +34,4 @@ areas:
 <p class="apply-cta"><a href="https://protectdemocracy.recruitee.com/o/tech-counsel-ai-for-democracy-action-lab">Apply →</a></p>
 
 ---
-*Posted 2026-05-29 · Listing synced 2026-07-08 · 80k job ID `recDwTKDq9fvy0IZ6`*
+*Posted 2026-05-29 · Listing synced 2026-07-09 · 80k job ID `recDwTKDq9fvy0IZ6`*

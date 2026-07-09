@@ -2,7 +2,7 @@
 title: "Pre-Doctoral Fellows Program"
 employer: "Yale University, Tobin Center for Economic Policy"
 job_id: "recV0LElwreJBUNPz"
-last_updated: "2026-07-08T05:34:43.994148Z"
+last_updated: "2026-07-09T05:34:46.380058Z"
 posted_at: "2022-01-02T00:00:00Z"
 status: ready
 apply_url: "https://tobin.yale.edu/programs/pre-doctoral-fellows-program"
@@ -33,4 +33,4 @@ areas:
 <p class="apply-cta"><a href="https://tobin.yale.edu/programs/pre-doctoral-fellows-program">Apply →</a></p>
 
 ---
-*Posted 2022-01-02 · Listing synced 2026-07-08 · 80k job ID `recV0LElwreJBUNPz`*
+*Posted 2022-01-02 · Listing synced 2026-07-09 · 80k job ID `recV0LElwreJBUNPz`*

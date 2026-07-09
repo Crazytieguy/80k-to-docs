@@ -4,25 +4,21 @@ employer: "Sentient Futures"
 job_id: "recXWZcnWZ58vBzn6"
 last_updated: "2026-07-08T05:32:37.737517Z"
 posted_at: "2026-06-17T00:00:00Z"
-status: ready
+status: closed
+closed_at: "2026-07-09"
 apply_url: "https://airtable.com/appme7HmPhyhBTODD/pagRcjQtZaQTbuMaC/form"
 areas:
   - "AI safety & policy"
   - "Animal welfare"
 ---
 
+> ⚠️ **CLOSED on 2026-07-09** — this job is no longer listed on the 80,000 Hours board. Archived snapshot below.
+
 # Expression of Interest, Project Incubator Mentor
 
-**[Sentient Futures](https://www.sentientfutures.ai/)**
+**Sentient Futures**
 
-<dl class="job-meta">
-<dt>Location</dt><dd>Remote, Global</dd>
-<dt>Role type</dt><dd>Full-time</dd>
-<dt>Experience</dt><dd>Junior (1-4 years experience), Mid (5-9 years experience)</dd>
-<dt>Degree</dt><dd>Undergraduate degree or less</dd>
-</dl>
-
-**Areas & skills:** AI safety & policy, Animal welfare, Other, Management
+**Areas & skills:** AI safety & policy, Animal welfare
 
 ## Summary
 - In this role, you'll mentor fellows developing projects focused on nonhuman sentience and welfare, providing guidance and feedback to help shape their research and contributions.

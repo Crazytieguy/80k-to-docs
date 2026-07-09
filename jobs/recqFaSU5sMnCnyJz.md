@@ -2,7 +2,7 @@
 title: "Postdoctoral Research Fellowship, Validation of AI-Based Decision Making"
 employer: "Simula"
 job_id: "recqFaSU5sMnCnyJz"
-last_updated: "2026-07-08T05:32:10.777050Z"
+last_updated: "2026-07-09T05:32:17.141251Z"
 posted_at: "2026-07-03T00:00:00Z"
 status: ready
 apply_url: "https://www.simula.no/careers/job-openings/postdoctoral-research-fellowship-in-validation-of-ai-based-decision-making"
@@ -19,7 +19,7 @@ areas:
 <dt>Role type</dt><dd>Fellowship</dd>
 <dt>Experience</dt><dd>Entry-level</dd>
 <dt>Degree</dt><dd>Doctoral degree</dd>
-<dt>Salary</dt><dd>$60,756</dd>
+<dt>Salary</dt><dd>$61,030</dd>
 </dl>
 
 **Areas & skills:** AI safety & policy, Research, Software engineering
@@ -34,4 +34,4 @@ areas:
 <p class="apply-cta"><a href="https://www.simula.no/careers/job-openings/postdoctoral-research-fellowship-in-validation-of-ai-based-decision-making">Apply →</a></p>
 
 ---
-*Posted 2026-07-03 · Listing synced 2026-07-08 · 80k job ID `recqFaSU5sMnCnyJz`*
+*Posted 2026-07-03 · Listing synced 2026-07-09 · 80k job ID `recqFaSU5sMnCnyJz`*

@@ -4,25 +4,20 @@ employer: "Center for Global Development"
 job_id: "recnRdL2jDe9JZhDU"
 last_updated: "2026-07-08T05:32:17.040084Z"
 posted_at: "2026-07-01T00:00:00Z"
-status: ready
+status: closed
+closed_at: "2026-07-09"
 apply_url: "https://centerforglobaldevelopment.applytojob.com/apply/Kky4WjkMFr/Policy-Fellow-Or-Senior-Policy-Fellow-US-Development-Policy-Program"
 areas:
   - "Global health & development"
 ---
 
+> ⚠️ **CLOSED on 2026-07-09** — this job is no longer listed on the 80,000 Hours board. Archived snapshot below.
+
 # Policy Fellow, US Development Policy Program
 
-**[Center for Global Development](https://www.cgdev.org)**
+**Center for Global Development**
 
-<dl class="job-meta">
-<dt>Location</dt><dd>Washington, DC metro area, USA, USA (Confirmed Visas)</dd>
-<dt>Role type</dt><dd>Fellowship</dd>
-<dt>Experience</dt><dd>Junior (1-4 years experience)</dd>
-<dt>Degree</dt><dd>Master's degree</dd>
-<dt>Salary</dt><dd>$130,000 – $190,000</dd>
-</dl>
-
-**Areas & skills:** Global health & development, Research, Policy
+**Areas & skills:** Global health & development
 
 ## Summary
 - In this role, you'll design and lead research examining US international economic statecraft and global development, informing policy debates with data-driven insights.

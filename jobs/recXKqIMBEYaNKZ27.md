@@ -2,7 +2,7 @@
 title: "Research Program Manager, Alignment"
 employer: "OpenAI"
 job_id: "recXKqIMBEYaNKZ27"
-last_updated: "2026-07-08T05:31:58.790704Z"
+last_updated: "2026-07-09T05:32:07.516839Z"
 posted_at: "2026-07-07T00:00:00Z"
 status: ready
 apply_url: "https://openai.com/careers/research-program-manager-alignment-san-francisco/"
@@ -34,4 +34,4 @@ areas:
 <p class="apply-cta"><a href="https://openai.com/careers/research-program-manager-alignment-san-francisco/">Apply →</a></p>
 
 ---
-*Posted 2026-07-07 · Listing synced 2026-07-08 · 80k job ID `recXKqIMBEYaNKZ27`*
+*Posted 2026-07-07 · Listing synced 2026-07-09 · 80k job ID `recXKqIMBEYaNKZ27`*

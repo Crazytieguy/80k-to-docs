@@ -2,7 +2,7 @@
 title: "Mid-Career Fellowships"
 employer: "The British Academy"
 job_id: "recwqp4HAIB2gqBX3"
-last_updated: "2026-07-08T05:32:32.446290Z"
+last_updated: "2026-07-09T05:32:37.476659Z"
 posted_at: "2026-06-22T00:00:00Z"
 status: ready
 apply_url: "https://www.thebritishacademy.ac.uk/funding/schemes/mid-career-fellowships/"
@@ -33,4 +33,4 @@ areas:
 <p class="apply-cta"><a href="https://www.thebritishacademy.ac.uk/funding/schemes/mid-career-fellowships/">Apply →</a></p>
 
 ---
-*Posted 2026-06-22 · Listing synced 2026-07-08 · 80k job ID `recwqp4HAIB2gqBX3`*
+*Posted 2026-06-22 · Listing synced 2026-07-09 · 80k job ID `recwqp4HAIB2gqBX3`*

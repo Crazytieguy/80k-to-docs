@@ -4,25 +4,20 @@ employer: "Pax Sapiens"
 job_id: "rec1Z3PZnh4DRpiYI"
 last_updated: "2026-07-08T05:33:01.192716Z"
 posted_at: "2026-06-02T00:00:00Z"
-status: ready
+status: closed
+closed_at: "2026-07-09"
 apply_url: "https://paxsapiens.bamboohr.com/careers/55"
 areas:
   - "Career development: Policy & government"
 ---
 
+> ⚠️ **CLOSED on 2026-07-09** — this job is no longer listed on the 80,000 Hours board. Archived snapshot below.
+
 # Request for Proposals, Research Assistant
 
-**[Pax Sapiens](https://paxsapiens.org/)**
+**Pax Sapiens**
 
-<dl class="job-meta">
-<dt>Location</dt><dd>Denver, CO, USA</dd>
-<dt>Role type</dt><dd>Part-time</dd>
-<dt>Experience</dt><dd>Entry-level</dd>
-<dt>Degree</dt><dd>Undergraduate degree or less</dd>
-<dt>Salary</dt><dd>$62,400</dd>
-</dl>
-
-**Areas & skills:** Career development: Policy & government, Research, Policy
+**Areas & skills:** Career development: Policy & government
 
 ## Summary
 - In this role, you'll identify and record collaborative events among China policy experts for a social network analysis study.
