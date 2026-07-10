@@ -2,7 +2,7 @@
 title: "Fellowship, Data Science (October 2026)"
 employer: "Faculty"
 job_id: "recfHDoHCjYt0wppS"
-last_updated: "2026-07-09T05:32:02.383445Z"
+last_updated: "2026-07-10T05:31:52.908685Z"
 posted_at: "2026-07-08T00:00:00Z"
 status: ready
 apply_url: "https://faculty.ai/fellowship-fellows/"
@@ -33,4 +33,4 @@ areas:
 <p class="apply-cta"><a href="https://faculty.ai/fellowship-fellows/">Apply →</a></p>
 
 ---
-*Posted 2026-07-08 · Listing synced 2026-07-09 · 80k job ID `recfHDoHCjYt0wppS`*
+*Posted 2026-07-08 · Listing synced 2026-07-10 · 80k job ID `recfHDoHCjYt0wppS`*

@@ -2,7 +2,7 @@
 title: "Research Fellow, Malaria Control Interventions"
 employer: "University of London, School of Hygiene and Tropical Medicine"
 job_id: "recdOwsCvr16jJGXM"
-last_updated: "2026-07-09T05:32:07.704260Z"
+last_updated: "2026-07-10T05:31:57.466823Z"
 posted_at: "2026-07-07T00:00:00Z"
 status: ready
 apply_url: "https://jobs.lshtm.ac.uk/vacancy.aspx?ref=ITD-DCD-2026-05"
@@ -19,7 +19,7 @@ areas:
 <dt>Role type</dt><dd>Fellowship</dd>
 <dt>Experience</dt><dd>Entry-level</dd>
 <dt>Degree</dt><dd>Master's degree</dd>
-<dt>Salary</dt><dd>$61,300 – $69,536</dd>
+<dt>Salary</dt><dd>$61,399 – $69,649</dd>
 </dl>
 
 **Areas & skills:** Global health & development, Research, Software engineering
@@ -34,4 +34,4 @@ areas:
 <p class="apply-cta"><a href="https://jobs.lshtm.ac.uk/vacancy.aspx?ref=ITD-DCD-2026-05">Apply →</a></p>
 
 ---
-*Posted 2026-07-07 · Listing synced 2026-07-09 · 80k job ID `recdOwsCvr16jJGXM`*
+*Posted 2026-07-07 · Listing synced 2026-07-10 · 80k job ID `recdOwsCvr16jJGXM`*

@@ -2,7 +2,7 @@
 title: "Product Manager, Safeguards"
 employer: "Anthropic"
 job_id: "recyqqQyWNFqT0iNh"
-last_updated: "2026-07-09T05:32:01.520882Z"
+last_updated: "2026-07-10T05:31:52.098022Z"
 posted_at: "2026-07-08T00:00:00Z"
 status: ready
 apply_url: "https://job-boards.greenhouse.io/anthropic/jobs/5164820008"
@@ -34,4 +34,4 @@ areas:
 <p class="apply-cta"><a href="https://job-boards.greenhouse.io/anthropic/jobs/5164820008">Apply →</a></p>
 
 ---
-*Posted 2026-07-08 · Listing synced 2026-07-09 · 80k job ID `recyqqQyWNFqT0iNh`*
+*Posted 2026-07-08 · Listing synced 2026-07-10 · 80k job ID `recyqqQyWNFqT0iNh`*

@@ -2,7 +2,7 @@
 title: "Director, Research Strategy"
 employer: "Atlas Computing"
 job_id: "recNsAjl8jEQvD3za"
-last_updated: "2026-07-09T05:34:18.980156Z"
+last_updated: "2026-07-10T05:34:06.527006Z"
 posted_at: "2022-01-05T00:00:00Z"
 status: ready
 apply_url: "https://atlascomputing.org/jobs/director-research-strategy.pdf"
@@ -34,4 +34,4 @@ areas:
 <p class="apply-cta"><a href="https://atlascomputing.org/jobs/director-research-strategy.pdf">Apply →</a></p>
 
 ---
-*Posted 2022-01-05 · Listing synced 2026-07-09 · 80k job ID `recNsAjl8jEQvD3za`*
+*Posted 2022-01-05 · Listing synced 2026-07-10 · 80k job ID `recNsAjl8jEQvD3za`*

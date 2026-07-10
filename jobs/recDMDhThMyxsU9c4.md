@@ -2,7 +2,7 @@
 title: "Research and Outreach Officer"
 employer: "Social Change Lab"
 job_id: "recDMDhThMyxsU9c4"
-last_updated: "2026-07-09T05:32:17.336599Z"
+last_updated: "2026-07-10T05:32:05.618257Z"
 posted_at: "2026-07-03T00:00:00Z"
 status: ready
 apply_url: "https://www.socialchangelab.org/careers/research-outreach-officer.html"
@@ -19,7 +19,7 @@ areas:
 <dt>Role type</dt><dd>Full-time</dd>
 <dt>Experience</dt><dd>Junior (1-4 years experience)</dd>
 <dt>Degree</dt><dd>Master's degree</dd>
-<dt>Salary</dt><dd>$49,600 – $56,302</dd>
+<dt>Salary</dt><dd>$49,680 – $56,394</dd>
 </dl>
 
 **Areas & skills:** Macrostrategy, Research, Outreach
@@ -34,4 +34,4 @@ areas:
 <p class="apply-cta"><a href="https://www.socialchangelab.org/careers/research-outreach-officer.html">Apply →</a></p>
 
 ---
-*Posted 2026-07-03 · Listing synced 2026-07-09 · 80k job ID `recDMDhThMyxsU9c4`*
+*Posted 2026-07-03 · Listing synced 2026-07-10 · 80k job ID `recDMDhThMyxsU9c4`*

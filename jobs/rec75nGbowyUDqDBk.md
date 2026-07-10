@@ -2,7 +2,7 @@
 title: "Researcher, Alignment Science"
 employer: "OpenAI"
 job_id: "rec75nGbowyUDqDBk"
-last_updated: "2026-07-09T05:33:31.062749Z"
+last_updated: "2026-07-10T05:33:19.699906Z"
 posted_at: "2026-04-29T00:00:00Z"
 status: ready
 apply_url: "https://openai.com/careers/researcher-alignment-science-san-francisco/"
@@ -34,4 +34,4 @@ areas:
 <p class="apply-cta"><a href="https://openai.com/careers/researcher-alignment-science-san-francisco/">Apply →</a></p>
 
 ---
-*Posted 2026-04-29 · Listing synced 2026-07-09 · 80k job ID `rec75nGbowyUDqDBk`*
+*Posted 2026-04-29 · Listing synced 2026-07-10 · 80k job ID `rec75nGbowyUDqDBk`*

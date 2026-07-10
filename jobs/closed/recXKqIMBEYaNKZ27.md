@@ -4,25 +4,20 @@ employer: "OpenAI"
 job_id: "recXKqIMBEYaNKZ27"
 last_updated: "2026-07-09T05:32:07.516839Z"
 posted_at: "2026-07-07T00:00:00Z"
-status: ready
+status: closed
+closed_at: "2026-07-10"
 apply_url: "https://openai.com/careers/research-program-manager-alignment-san-francisco/"
 areas:
   - "AI safety & policy"
 ---
 
+> ⚠️ **CLOSED on 2026-07-10** — this job is no longer listed on the 80,000 Hours board. Archived snapshot below.
+
 # Research Program Manager, Alignment
 
-**[OpenAI](https://openai.com/)**
+**OpenAI**
 
-<dl class="job-meta">
-<dt>Location</dt><dd>San Francisco Bay Area, USA</dd>
-<dt>Role type</dt><dd>Full-time</dd>
-<dt>Experience</dt><dd>Mid (5-9 years experience)</dd>
-<dt>Degree</dt><dd>Undergraduate degree or less</dd>
-<dt>Salary</dt><dd>$162,000 – $240,000</dd>
-</dl>
-
-**Areas & skills:** AI safety & policy, Research, Operations
+**Areas & skills:** AI safety & policy
 
 ## Summary
 - In this role, you'll manage 2-4 ambiguous alignment projects from conception through execution and follow-through.

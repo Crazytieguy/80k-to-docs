@@ -2,7 +2,7 @@
 title: "AI Reporting Grants"
 employer: "Pulitzer Center"
 job_id: "rec3zWgmo0yumiu9e"
-last_updated: "2026-07-09T05:34:26.483647Z"
+last_updated: "2026-07-10T05:34:13.359605Z"
 posted_at: "2022-01-05T00:00:00Z"
 status: ready
 apply_url: "https://pulitzercenter.org/grants-fellowships/opportunities-journalists/ai-reporting-grants"
@@ -33,4 +33,4 @@ areas:
 <p class="apply-cta"><a href="https://pulitzercenter.org/grants-fellowships/opportunities-journalists/ai-reporting-grants">Apply →</a></p>
 
 ---
-*Posted 2022-01-05 · Listing synced 2026-07-09 · 80k job ID `rec3zWgmo0yumiu9e`*
+*Posted 2022-01-05 · Listing synced 2026-07-10 · 80k job ID `rec3zWgmo0yumiu9e`*

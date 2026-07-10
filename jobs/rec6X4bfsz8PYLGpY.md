@@ -2,7 +2,7 @@
 title: "Expression of Interest, Contract Video Editor, Podcast"
 employer: "80,000 Hours"
 job_id: "rec6X4bfsz8PYLGpY"
-last_updated: "2026-07-09T05:33:56.638555Z"
+last_updated: "2026-07-10T05:33:45.766026Z"
 posted_at: "2022-01-06T00:00:00Z"
 status: ready
 apply_url: "https://80000hours.org/2026/02/expression-of-interest-contract-video-editor-for-the-podcast-team/"
@@ -33,4 +33,4 @@ areas:
 <p class="apply-cta"><a href="https://80000hours.org/2026/02/expression-of-interest-contract-video-editor-for-the-podcast-team/">Apply →</a></p>
 
 ---
-*Posted 2022-01-06 · Listing synced 2026-07-09 · 80k job ID `rec6X4bfsz8PYLGpY`*
+*Posted 2022-01-06 · Listing synced 2026-07-10 · 80k job ID `rec6X4bfsz8PYLGpY`*

@@ -2,7 +2,7 @@
 title: "Research Internship, Agentic AI, LLM Evaluation, and Trustworthy Systems"
 employer: "Siemens"
 job_id: "recCs6tciW94yfaKg"
-last_updated: "2026-07-09T05:32:24.304381Z"
+last_updated: "2026-07-10T05:32:12.477297Z"
 posted_at: "2026-07-01T00:00:00Z"
 status: ready
 apply_url: "https://jobs.siemens.com/en_US/externaljobs/JobDetail/510552?source=LinkedIn&sourceType=PREMIUM_POST_SITE"
@@ -34,4 +34,4 @@ areas:
 <p class="apply-cta"><a href="https://jobs.siemens.com/en_US/externaljobs/JobDetail/510552?source=LinkedIn&amp;sourceType=PREMIUM_POST_SITE">Apply →</a></p>
 
 ---
-*Posted 2026-07-01 · Listing synced 2026-07-09 · 80k job ID `recCs6tciW94yfaKg`*
+*Posted 2026-07-01 · Listing synced 2026-07-10 · 80k job ID `recCs6tciW94yfaKg`*

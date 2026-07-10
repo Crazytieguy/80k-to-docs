@@ -2,7 +2,7 @@
 title: "AI Security Research Engineer"
 employer: "0Labs"
 job_id: "recZfgXkEMoFzYSHI"
-last_updated: "2026-07-09T05:33:33.564517Z"
+last_updated: "2026-07-10T05:33:22.976858Z"
 posted_at: "2026-04-23T00:00:00Z"
 status: ready
 apply_url: "https://www.0labs.ai/careers/ai-control-security-engineer"
@@ -33,4 +33,4 @@ areas:
 <p class="apply-cta"><a href="https://www.0labs.ai/careers/ai-control-security-engineer">Apply →</a></p>
 
 ---
-*Posted 2026-04-23 · Listing synced 2026-07-09 · 80k job ID `recZfgXkEMoFzYSHI`*
+*Posted 2026-04-23 · Listing synced 2026-07-10 · 80k job ID `recZfgXkEMoFzYSHI`*

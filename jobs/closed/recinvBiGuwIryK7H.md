@@ -4,24 +4,20 @@ employer: "Stanford University, Center for International Security and Cooperatio
 job_id: "recinvBiGuwIryK7H"
 last_updated: "2026-07-09T05:33:51.503707Z"
 posted_at: "2022-01-08T00:00:00Z"
-status: ready
+status: closed
+closed_at: "2026-07-10"
 apply_url: "https://drive.google.com/file/d/1qCUm7zTJhogOXI03w53fDPAW9AEBqLGR/view"
 areas:
   - "Career development: Policy & government"
 ---
 
+> ⚠️ **CLOSED on 2026-07-10** — this job is no longer listed on the 80,000 Hours board. Archived snapshot below.
+
 # Research Assistant to Oriana Skylar Mastro, Chinese Language
 
-**[Stanford University, Center for International Security and Cooperation](https://cisac.fsi.stanford.edu/)**
+**Stanford University, Center for International Security and Cooperation**
 
-<dl class="job-meta">
-<dt>Location</dt><dd>San Francisco Bay Area, USA</dd>
-<dt>Role type</dt><dd>Full-time, Part-time</dd>
-<dt>Experience</dt><dd>Entry-level</dd>
-<dt>Degree</dt><dd>Undergraduate degree or less</dd>
-</dl>
-
-**Areas & skills:** Career development: Policy & government, Research, Policy
+**Areas & skills:** Career development: Policy & government
 
 ## Summary
 - Dr. Oriana Skylar Mastro, a Center Fellow with CISAC at the Freeman Spogli Institute for International Studies, is seeking a tenacious Chinese language research assistant with first-rate analytical capabilities and outstanding academic credentials.

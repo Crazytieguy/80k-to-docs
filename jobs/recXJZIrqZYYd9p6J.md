@@ -2,7 +2,7 @@
 title: "Incident Response Manager, Enforcement"
 employer: "Anthropic"
 job_id: "recXJZIrqZYYd9p6J"
-last_updated: "2026-07-09T05:33:20.769835Z"
+last_updated: "2026-07-10T05:33:08.714449Z"
 posted_at: "2026-05-19T00:00:00Z"
 status: ready
 apply_url: "https://job-boards.greenhouse.io/anthropic/jobs/5211184008"
@@ -34,4 +34,4 @@ areas:
 <p class="apply-cta"><a href="https://job-boards.greenhouse.io/anthropic/jobs/5211184008">Apply →</a></p>
 
 ---
-*Posted 2026-05-19 · Listing synced 2026-07-09 · 80k job ID `recXJZIrqZYYd9p6J`*
+*Posted 2026-05-19 · Listing synced 2026-07-10 · 80k job ID `recXJZIrqZYYd9p6J`*

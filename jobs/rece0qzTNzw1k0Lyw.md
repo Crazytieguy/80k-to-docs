@@ -2,7 +2,7 @@
 title: "Grants, Launch Round"
 employer: "grantmaking.ai"
 job_id: "rece0qzTNzw1k0Lyw"
-last_updated: "2026-07-09T05:32:25.397985Z"
+last_updated: "2026-07-10T05:32:13.727003Z"
 posted_at: "2026-06-30T00:03:00Z"
 status: ready
 apply_url: "https://app.grantmaking.ai/apply/launch"
@@ -32,4 +32,4 @@ areas:
 <p class="apply-cta"><a href="https://app.grantmaking.ai/apply/launch">Apply →</a></p>
 
 ---
-*Posted 2026-06-30 · Listing synced 2026-07-09 · 80k job ID `rece0qzTNzw1k0Lyw`*
+*Posted 2026-06-30 · Listing synced 2026-07-10 · 80k job ID `rece0qzTNzw1k0Lyw`*

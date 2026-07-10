@@ -2,7 +2,7 @@
 title: "Medical Program Analyst, Chemical and Biological Defense Program"
 employer: "Anser (US government role)"
 job_id: "rec4QN7xO2RJXN8L2"
-last_updated: "2026-07-09T05:32:11.012790Z"
+last_updated: "2026-07-10T05:32:00.694259Z"
 posted_at: "2026-07-06T00:00:00Z"
 status: ready
 apply_url: "https://www.anser.org/job/?id=5276973008"
@@ -33,4 +33,4 @@ areas:
 <p class="apply-cta"><a href="https://www.anser.org/job/?id=5276973008">Apply →</a></p>
 
 ---
-*Posted 2026-07-06 · Listing synced 2026-07-09 · 80k job ID `rec4QN7xO2RJXN8L2`*
+*Posted 2026-07-06 · Listing synced 2026-07-10 · 80k job ID `rec4QN7xO2RJXN8L2`*

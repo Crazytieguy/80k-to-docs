@@ -2,7 +2,7 @@
 title: "Cosmos Grants, AI and Human Autonomy"
 employer: "Cosmos Institute"
 job_id: "reciQOQz1vaM2FJ2H"
-last_updated: "2026-07-09T05:32:31.613253Z"
+last_updated: "2026-07-10T05:32:20.721759Z"
 posted_at: "2026-06-26T00:00:00Z"
 status: ready
 apply_url: "https://www.cosmos-institute.org/grants#:~:text=AI%20and%20Human%20Autonomy"
@@ -32,4 +32,4 @@ areas:
 <p class="apply-cta"><a href="https://www.cosmos-institute.org/grants#:~:text=AI%20and%20Human%20Autonomy">Apply →</a></p>
 
 ---
-*Posted 2026-06-26 · Listing synced 2026-07-09 · 80k job ID `reciQOQz1vaM2FJ2H`*
+*Posted 2026-06-26 · Listing synced 2026-07-10 · 80k job ID `reciQOQz1vaM2FJ2H`*

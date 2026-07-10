@@ -4,25 +4,20 @@ employer: "Apollo Research"
 job_id: "recDpuoAPaomJglGy"
 last_updated: "2026-07-09T05:33:58.506436Z"
 posted_at: "2022-01-06T00:00:00Z"
-status: ready
+status: closed
+closed_at: "2026-07-10"
 apply_url: "https://jobs.lever.co/apolloresearch/94581287-e3ac-40b6-90e2-438e0ca9064a"
 areas:
   - "AI safety & policy"
 ---
 
+> ⚠️ **CLOSED on 2026-07-10** — this job is no longer listed on the 80,000 Hours board. Archived snapshot below.
+
 # Backend Engineer, Monitoring
 
-**[Apollo Research](https://www.apolloresearch.ai/)**
+**Apollo Research**
 
-<dl class="job-meta">
-<dt>Location</dt><dd>London, UK, UK, UK (Confirmed Visas)</dd>
-<dt>Role type</dt><dd>Full-time</dd>
-<dt>Experience</dt><dd>Junior (1-4 years experience), Mid (5-9 years experience)</dd>
-<dt>Degree</dt><dd>Undergraduate degree or less</dd>
-<dt>Salary</dt><dd>$134,053 – $241,295</dd>
-</dl>
-
-**Areas & skills:** AI safety & policy, Software engineering, Information security
+**Areas & skills:** AI safety & policy
 
 ## Summary
 - In this role, you'll build backend systems that monitor AI coding agents for safety and security failures.

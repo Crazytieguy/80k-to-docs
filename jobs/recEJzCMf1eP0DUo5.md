@@ -2,7 +2,7 @@
 title: "Video Editor"
 employer: "Animal Equality"
 job_id: "recEJzCMf1eP0DUo5"
-last_updated: "2026-07-09T05:33:30.676445Z"
+last_updated: "2026-07-10T05:33:19.293195Z"
 posted_at: "2026-04-29T00:00:00Z"
 status: ready
 apply_url: "https://igualdadanimal.org/empleo/oferta-de-empleo-editor-de-video/"
@@ -33,4 +33,4 @@ areas:
 <p class="apply-cta"><a href="https://igualdadanimal.org/empleo/oferta-de-empleo-editor-de-video/">Apply →</a></p>
 
 ---
-*Posted 2026-04-29 · Listing synced 2026-07-09 · 80k job ID `recEJzCMf1eP0DUo5`*
+*Posted 2026-04-29 · Listing synced 2026-07-10 · 80k job ID `recEJzCMf1eP0DUo5`*

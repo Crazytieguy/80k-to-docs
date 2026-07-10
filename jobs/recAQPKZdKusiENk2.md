@@ -2,7 +2,7 @@
 title: "Research Analyst"
 employer: "Innovations for Poverty Action"
 job_id: "recAQPKZdKusiENk2"
-last_updated: "2026-07-09T05:32:31.805637Z"
+last_updated: "2026-07-10T05:32:20.991888Z"
 posted_at: "2026-06-26T00:00:00Z"
 status: ready
 apply_url: "https://poverty-action.org/research-analyst-13"
@@ -33,4 +33,4 @@ areas:
 <p class="apply-cta"><a href="https://poverty-action.org/research-analyst-13">Apply →</a></p>
 
 ---
-*Posted 2026-06-26 · Listing synced 2026-07-09 · 80k job ID `recAQPKZdKusiENk2`*
+*Posted 2026-06-26 · Listing synced 2026-07-10 · 80k job ID `recAQPKZdKusiENk2`*

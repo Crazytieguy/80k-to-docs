@@ -4,25 +4,20 @@ employer: "Google DeepMind"
 job_id: "recSUnppFTb9bQEz0"
 last_updated: "2026-07-09T05:32:03.300497Z"
 posted_at: "2026-07-08T00:00:00Z"
-status: ready
+status: closed
+closed_at: "2026-07-10"
 apply_url: "https://www.google.com/about/careers/applications/jobs/results/95526894199284422-ai-ethics-and-safety-policy-researcher-deepmind?company=DeepMind&page=4"
 areas:
   - "AI safety & policy"
 ---
 
+> ⚠️ **CLOSED on 2026-07-10** — this job is no longer listed on the 80,000 Hours board. Archived snapshot below.
+
 # AI Ethics and Safety Policy Researcher
 
-**[Google DeepMind](https://www.deepmind.com)**
+**Google DeepMind**
 
-<dl class="job-meta">
-<dt>Location</dt><dd>San Francisco Bay Area, USA</dd>
-<dt>Role type</dt><dd>Full-time</dd>
-<dt>Experience</dt><dd>Junior (1-4 years experience)</dd>
-<dt>Degree</dt><dd>Doctoral degree</dd>
-<dt>Salary</dt><dd>$147,000 – $211,000</dd>
-</dl>
-
-**Areas & skills:** AI safety & policy, Research, Policy
+**Areas & skills:** AI safety & policy
 
 ## Summary
 - In this role, you'll identify risks in emerging AI capabilities and develop mitigation strategies.

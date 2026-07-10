@@ -2,7 +2,7 @@
 title: "Biosafety Red Teaming Specialist"
 employer: "OpenAI"
 job_id: "rec9Q4u0USYA86lEi"
-last_updated: "2026-07-09T05:32:45.504633Z"
+last_updated: "2026-07-10T05:32:34.720893Z"
 posted_at: "2026-06-16T00:00:00Z"
 status: ready
 apply_url: "https://openai.com/careers/biosafety-red-teaming-specialist-san-francisco/"
@@ -34,4 +34,4 @@ areas:
 <p class="apply-cta"><a href="https://openai.com/careers/biosafety-red-teaming-specialist-san-francisco/">Apply →</a></p>
 
 ---
-*Posted 2026-06-16 · Listing synced 2026-07-09 · 80k job ID `rec9Q4u0USYA86lEi`*
+*Posted 2026-06-16 · Listing synced 2026-07-10 · 80k job ID `rec9Q4u0USYA86lEi`*

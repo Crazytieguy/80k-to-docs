@@ -4,25 +4,20 @@ employer: "Apollo Research"
 job_id: "reccWEKxqRdVzyxFB"
 last_updated: "2026-07-09T05:33:10.494971Z"
 posted_at: "2026-05-27T00:05:00Z"
-status: ready
+status: closed
+closed_at: "2026-07-10"
 apply_url: "https://jobs.lever.co/apolloresearch/28c2a9e5-d018-4cc0-a191-56bc384009e8"
 areas:
   - "AI safety & policy"
 ---
 
+> ⚠️ **CLOSED on 2026-07-10** — this job is no longer listed on the 80,000 Hours board. Archived snapshot below.
+
 # Software Engineer, Infrastructure
 
-**[Apollo Research](https://www.apolloresearch.ai/)**
+**Apollo Research**
 
-<dl class="job-meta">
-<dt>Location</dt><dd>San Francisco Bay Area, USA, USA (Confirmed Visas)</dd>
-<dt>Role type</dt><dd>Full-time</dd>
-<dt>Experience</dt><dd>Mid (5-9 years experience)</dd>
-<dt>Degree</dt><dd>Undergraduate degree or less</dd>
-<dt>Salary</dt><dd>$215,000 – $265,000</dd>
-</dl>
-
-**Areas & skills:** AI safety & policy, Software engineering
+**Areas & skills:** AI safety & policy
 
 ## Summary
 - In this role, you'll build and maintain the core infrastructure platform enabling Apollo's evaluations, ensuring security and scaling.

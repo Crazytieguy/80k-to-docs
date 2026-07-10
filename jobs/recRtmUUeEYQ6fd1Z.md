@@ -2,7 +2,7 @@
 title: "Research Engineer / Scientist, Alignment Science, London"
 employer: "Anthropic"
 job_id: "recRtmUUeEYQ6fd1Z"
-last_updated: "2026-07-09T05:33:38.968668Z"
+last_updated: "2026-07-10T05:33:28.887602Z"
 posted_at: "2022-01-11T00:00:00Z"
 status: ready
 apply_url: "https://job-boards.greenhouse.io/anthropic/jobs/4610158008"
@@ -19,7 +19,7 @@ areas:
 <dt>Role type</dt><dd>Full-time</dd>
 <dt>Experience</dt><dd>Mid (5-9 years experience)</dd>
 <dt>Degree</dt><dd>Undergraduate degree or less</dd>
-<dt>Salary</dt><dd>$301,619 – $670,265</dd>
+<dt>Salary</dt><dd>$302,109 – $671,353</dd>
 </dl>
 
 **Areas & skills:** AI safety & policy, Research, Software engineering
@@ -34,4 +34,4 @@ areas:
 <p class="apply-cta"><a href="https://job-boards.greenhouse.io/anthropic/jobs/4610158008">Apply →</a></p>
 
 ---
-*Posted 2022-01-11 · Listing synced 2026-07-09 · 80k job ID `recRtmUUeEYQ6fd1Z`*
+*Posted 2022-01-11 · Listing synced 2026-07-10 · 80k job ID `recRtmUUeEYQ6fd1Z`*

@@ -2,7 +2,7 @@
 title: "Traineeships"
 employer: "SolarPower Europe"
 job_id: "recOg4k7gzpH6XPwC"
-last_updated: "2026-07-09T05:34:43.931947Z"
+last_updated: "2026-07-10T05:34:32.487796Z"
 posted_at: "2022-01-02T00:00:00Z"
 status: ready
 apply_url: "https://www.solarpowereurope.org/about/careers/traineeship"
@@ -33,4 +33,4 @@ areas:
 <p class="apply-cta"><a href="https://www.solarpowereurope.org/about/careers/traineeship">Apply →</a></p>
 
 ---
-*Posted 2022-01-02 · Listing synced 2026-07-09 · 80k job ID `recOg4k7gzpH6XPwC`*
+*Posted 2022-01-02 · Listing synced 2026-07-10 · 80k job ID `recOg4k7gzpH6XPwC`*
