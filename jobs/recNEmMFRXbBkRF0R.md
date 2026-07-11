@@ -2,7 +2,7 @@
 title: "Founding Engineer"
 employer: "Asymmetric Security"
 job_id: "recNEmMFRXbBkRF0R"
-last_updated: "2026-07-10T05:34:06.109715Z"
+last_updated: "2026-07-11T05:34:05.808883Z"
 posted_at: "2022-01-05T00:00:00Z"
 status: ready
 apply_url: "https://www.asymmetricsecurity.com/careers-listing/founding-engineer"
@@ -33,4 +33,4 @@ areas:
 <p class="apply-cta"><a href="https://www.asymmetricsecurity.com/careers-listing/founding-engineer">Apply →</a></p>
 
 ---
-*Posted 2022-01-05 · Listing synced 2026-07-10 · 80k job ID `recNEmMFRXbBkRF0R`*
+*Posted 2022-01-05 · Listing synced 2026-07-11 · 80k job ID `recNEmMFRXbBkRF0R`*

@@ -4,24 +4,20 @@ employer: "PauseAI"
 job_id: "recgA6SXGJDccmH23"
 last_updated: "2026-07-10T05:32:12.283665Z"
 posted_at: "2026-07-01T00:00:00Z"
-status: ready
+status: closed
+closed_at: "2026-07-11"
 apply_url: "https://pauseai.info/vacancies"
 areas:
   - "AI safety & policy"
 ---
 
+> ⚠️ **CLOSED on 2026-07-11** — this job is no longer listed on the 80,000 Hours board. Archived snapshot below.
+
 # Volunteer, Onboarding Coordinator
 
-**[PauseAI](https://pauseai.info/)**
+**PauseAI**
 
-<dl class="job-meta">
-<dt>Location</dt><dd>Remote, Global</dd>
-<dt>Role type</dt><dd>Volunteering</dd>
-<dt>Experience</dt><dd>Entry-level</dd>
-<dt>Degree</dt><dd>Undergraduate degree or less</dd>
-</dl>
-
-**Areas & skills:** AI safety & policy, Operations
+**Areas & skills:** AI safety & policy
 
 ## Summary
 - In this role, you'll welcome new members and guide their engagement with PauseAI's opportunities.

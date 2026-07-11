@@ -4,24 +4,20 @@ employer: "Vanderbilt University, Institute of National Security"
 job_id: "recfVCsxrZrpbY0bx"
 last_updated: "2026-07-10T05:32:30.432870Z"
 posted_at: "2026-06-18T00:00:00Z"
-status: ready
+status: closed
+closed_at: "2026-07-11"
 apply_url: "https://ecsr.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/10008353"
 areas:
   - "AI safety & policy"
 ---
 
+> ⚠️ **CLOSED on 2026-07-11** — this job is no longer listed on the 80,000 Hours board. Archived snapshot below.
+
 # Research Assistant
 
-**[Vanderbilt University, Institute of National Security](https://www.vanderbilt.edu/national-security/)**
+**Vanderbilt University, Institute of National Security**
 
-<dl class="job-meta">
-<dt>Location</dt><dd>Nashville, TN, USA</dd>
-<dt>Role type</dt><dd>Full-time</dd>
-<dt>Experience</dt><dd>Entry-level</dd>
-<dt>Degree</dt><dd>Undergraduate degree or less</dd>
-</dl>
-
-**Areas & skills:** AI safety & policy, Research, Policy
+**Areas & skills:** AI safety & policy
 
 ## Summary
 - In this role, you'll provide research, writing, editing, and fact-checking support for the Institute's national security initiatives.

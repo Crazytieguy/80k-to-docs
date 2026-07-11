@@ -2,7 +2,7 @@
 title: "Researcher, Safety Oversight"
 employer: "OpenAI"
 job_id: "recAurL0kSCGOSRJe"
-last_updated: "2026-07-10T05:33:37.917697Z"
+last_updated: "2026-07-11T05:33:37.143779Z"
 posted_at: "2022-01-11T00:00:00Z"
 status: ready
 apply_url: "https://openai.com/careers/researcher-safety-oversight-san-francisco/"
@@ -34,4 +34,4 @@ areas:
 <p class="apply-cta"><a href="https://openai.com/careers/researcher-safety-oversight-san-francisco/">Apply →</a></p>
 
 ---
-*Posted 2022-01-11 · Listing synced 2026-07-10 · 80k job ID `recAurL0kSCGOSRJe`*
+*Posted 2022-01-11 · Listing synced 2026-07-11 · 80k job ID `recAurL0kSCGOSRJe`*

@@ -2,7 +2,7 @@
 title: "Intern, Marketing and Media, Social and Video"
 employer: "Meridian"
 job_id: "recb9JwBjAsq0ZEph"
-last_updated: "2026-07-10T05:33:57.707060Z"
+last_updated: "2026-07-11T05:33:57.340341Z"
 posted_at: "2022-01-06T00:00:00Z"
 status: ready
 apply_url: "https://docs.google.com/document/d/16MwSYURaxkstolkXCZzHVBIz9WgPmTbEul7Y3thjoac/edit?tab=t.0#heading=h.dk0m2eyh4s9u"
@@ -19,7 +19,7 @@ areas:
 <dt>Role type</dt><dd>Internship</dd>
 <dt>Experience</dt><dd>Entry-level</dd>
 <dt>Degree</dt><dd>Undergraduate degree or less</dd>
-<dt>Salary</dt><dd>$36,307 – $41,892</dd>
+<dt>Salary</dt><dd>$36,238 – $41,813</dd>
 </dl>
 
 **Areas & skills:** AI safety & policy, Outreach
@@ -34,4 +34,4 @@ areas:
 <p class="apply-cta"><a href="https://docs.google.com/document/d/16MwSYURaxkstolkXCZzHVBIz9WgPmTbEul7Y3thjoac/edit?tab=t.0#heading=h.dk0m2eyh4s9u">Apply →</a></p>
 
 ---
-*Posted 2022-01-06 · Listing synced 2026-07-10 · 80k job ID `recb9JwBjAsq0ZEph`*
+*Posted 2022-01-06 · Listing synced 2026-07-11 · 80k job ID `recb9JwBjAsq0ZEph`*

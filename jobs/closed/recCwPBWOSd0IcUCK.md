@@ -4,24 +4,20 @@ employer: "Precision Development"
 job_id: "recCwPBWOSd0IcUCK"
 last_updated: "2026-07-10T05:32:21.513705Z"
 posted_at: "2026-06-26T00:00:00Z"
-status: ready
+status: closed
+closed_at: "2026-07-11"
 apply_url: "https://precisiondev.bamboohr.com/careers/168"
 areas:
   - "Global health & development"
 ---
 
+> ⚠️ **CLOSED on 2026-07-11** — this job is no longer listed on the 80,000 Hours board. Archived snapshot below.
+
 # Product Associate
 
-**[Precision Development](https://precisiondev.org/)**
+**Precision Development**
 
-<dl class="job-meta">
-<dt>Location</dt><dd>New Delhi, India, India, Asia</dd>
-<dt>Role type</dt><dd>Full-time</dd>
-<dt>Experience</dt><dd>Junior (1-4 years experience)</dd>
-<dt>Degree</dt><dd>Undergraduate degree or less</dd>
-</dl>
-
-**Areas & skills:** Global health & development, Policy, Strategy
+**Areas & skills:** Global health & development
 
 ## Summary
 - In this role, you'll support digital agricultural advisory services delivery as liaison between PxD and government stakeholders.

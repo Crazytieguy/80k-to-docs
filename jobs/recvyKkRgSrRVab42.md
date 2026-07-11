@@ -2,7 +2,7 @@
 title: "Field Lead, Biosecurity"
 employer: "Amodo Design"
 job_id: "recvyKkRgSrRVab42"
-last_updated: "2026-07-10T05:34:18.116516Z"
+last_updated: "2026-07-11T05:34:18.186011Z"
 posted_at: "2022-01-03T00:00:00Z"
 status: ready
 apply_url: "https://amododesign.com/career/biosec-lead/"
@@ -15,11 +15,11 @@ areas:
 **[Amodo Design](https://amododesign.com/)**
 
 <dl class="job-meta">
-<dt>Location</dt><dd>Remote, UK, Sheffield, UK, UK</dd>
+<dt>Location</dt><dd>Sheffield, UK, Remote, UK, UK</dd>
 <dt>Role type</dt><dd>Full-time</dd>
 <dt>Experience</dt><dd>Mid (5-9 years experience)</dd>
 <dt>Degree</dt><dd>Undergraduate degree or less</dd>
-<dt>Salary</dt><dd>$67,135 – $100,703</dd>
+<dt>Salary</dt><dd>$67,008 – $100,512</dd>
 </dl>
 
 **Areas & skills:** Biosecurity & pandemic preparedness, Engineering, Strategy
@@ -34,4 +34,4 @@ areas:
 <p class="apply-cta"><a href="https://amododesign.com/career/biosec-lead/">Apply →</a></p>
 
 ---
-*Posted 2022-01-03 · Listing synced 2026-07-10 · 80k job ID `recvyKkRgSrRVab42`*
+*Posted 2022-01-03 · Listing synced 2026-07-11 · 80k job ID `recvyKkRgSrRVab42`*

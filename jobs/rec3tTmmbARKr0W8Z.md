@@ -2,7 +2,7 @@
 title: "Residency, Frontier AI Security"
 employer: "ERA"
 job_id: "rec3tTmmbARKr0W8Z"
-last_updated: "2026-07-10T05:31:48.511120Z"
+last_updated: "2026-07-11T05:31:52.546035Z"
 posted_at: "2026-07-09T00:04:55Z"
 status: ready
 apply_url: "https://www.securefrontier.ai/"
@@ -32,4 +32,4 @@ areas:
 <p class="apply-cta"><a href="https://www.securefrontier.ai/">Apply →</a></p>
 
 ---
-*Posted 2026-07-09 · Listing synced 2026-07-10 · 80k job ID `rec3tTmmbARKr0W8Z`*
+*Posted 2026-07-09 · Listing synced 2026-07-11 · 80k job ID `rec3tTmmbARKr0W8Z`*

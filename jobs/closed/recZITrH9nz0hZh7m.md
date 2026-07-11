@@ -4,25 +4,20 @@ employer: "SASH"
 job_id: "recZITrH9nz0hZh7m"
 last_updated: "2026-07-10T05:32:19.675059Z"
 posted_at: "2026-06-26T00:03:00Z"
-status: ready
+status: closed
+closed_at: "2026-07-11"
 apply_url: "https://www.aisafety.sg/programs/singapore-ai-safety-fellowship"
 areas:
   - "AI safety & policy"
 ---
 
+> ⚠️ **CLOSED on 2026-07-11** — this job is no longer listed on the 80,000 Hours board. Archived snapshot below.
+
 # Singapore AI Safety Fellowship
 
-**[SASH](https://www.aisafety.sg/)**
+**SASH**
 
-<dl class="job-meta">
-<dt>Location</dt><dd>Singapore, Singapore, Singapore, Asia</dd>
-<dt>Role type</dt><dd>Fellowship</dd>
-<dt>Experience</dt><dd>Junior (1-4 years experience)</dd>
-<dt>Degree</dt><dd>Undergraduate degree or less</dd>
-<dt>Salary</dt><dd>$46,462</dd>
-</dl>
-
-**Areas & skills:** AI safety & policy, Research, Policy
+**Areas & skills:** AI safety & policy
 
 ## Summary
 - In this role, you'll conduct independent technical AI safety research in Singapore, mentored by leading researchers to advance international collaboration.

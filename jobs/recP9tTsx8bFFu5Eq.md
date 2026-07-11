@@ -2,7 +2,7 @@
 title: "Personal Assistant, AIXI Labs and Principles of Intelligence"
 employer: "AIXI Labs"
 job_id: "recP9tTsx8bFFu5Eq"
-last_updated: "2026-07-10T05:32:17.656874Z"
+last_updated: "2026-07-11T05:32:22.058689Z"
 posted_at: "2026-06-29T00:00:00Z"
 status: ready
 apply_url: "https://princint.ai/now-hiring-personal-assistant-at-aixi-labs-and-princint/"
@@ -19,7 +19,7 @@ areas:
 <dt>Role type</dt><dd>Full-time, Part-time</dd>
 <dt>Experience</dt><dd>Junior (1-4 years experience)</dd>
 <dt>Degree</dt><dd>Undergraduate degree or less</dd>
-<dt>Salary</dt><dd>$60,422 – $67,135</dd>
+<dt>Salary</dt><dd>$60,307 – $67,008</dd>
 </dl>
 
 **Areas & skills:** AI safety & policy, Operations
@@ -34,4 +34,4 @@ areas:
 <p class="apply-cta"><a href="https://princint.ai/now-hiring-personal-assistant-at-aixi-labs-and-princint/">Apply →</a></p>
 
 ---
-*Posted 2026-06-29 · Listing synced 2026-07-10 · 80k job ID `recP9tTsx8bFFu5Eq`*
+*Posted 2026-06-29 · Listing synced 2026-07-11 · 80k job ID `recP9tTsx8bFFu5Eq`*

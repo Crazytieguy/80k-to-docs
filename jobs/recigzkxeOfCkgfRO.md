@@ -2,7 +2,7 @@
 title: "Manager, AI Safety and Security Policy"
 employer: "Federation of American Scientists"
 job_id: "recigzkxeOfCkgfRO"
-last_updated: "2026-07-10T05:33:05.289377Z"
+last_updated: "2026-07-11T05:33:06.758274Z"
 posted_at: "2026-05-21T00:02:00Z"
 status: ready
 apply_url: "https://fas.org/career/manager-ai-safety-and-security-policy/"
@@ -34,4 +34,4 @@ areas:
 <p class="apply-cta"><a href="https://fas.org/career/manager-ai-safety-and-security-policy/">Apply →</a></p>
 
 ---
-*Posted 2026-05-21 · Listing synced 2026-07-10 · 80k job ID `recigzkxeOfCkgfRO`*
+*Posted 2026-05-21 · Listing synced 2026-07-11 · 80k job ID `recigzkxeOfCkgfRO`*

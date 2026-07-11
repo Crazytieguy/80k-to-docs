@@ -2,7 +2,7 @@
 title: "Senior Manager, Research and Origination, Fund Ecosystem"
 employer: "Renaissance Philanthropy"
 job_id: "reckuTV5pY2vIRGry"
-last_updated: "2026-07-10T05:34:43.404399Z"
+last_updated: "2026-07-11T05:34:42.428578Z"
 posted_at: "2022-01-01T00:00:00Z"
 status: ready
 apply_url: "https://www.renaissancephilanthropy.org/careers/senior-manager-research-and-origination-fund-ecosystem"
@@ -34,4 +34,4 @@ areas:
 <p class="apply-cta"><a href="https://www.renaissancephilanthropy.org/careers/senior-manager-research-and-origination-fund-ecosystem">Apply →</a></p>
 
 ---
-*Posted 2022-01-01 · Listing synced 2026-07-10 · 80k job ID `reckuTV5pY2vIRGry`*
+*Posted 2022-01-01 · Listing synced 2026-07-11 · 80k job ID `reckuTV5pY2vIRGry`*

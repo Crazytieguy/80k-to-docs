@@ -2,7 +2,7 @@
 title: "List of Events for Career Capital"
 employer: "Various Event Organisers"
 job_id: "reczUsUl5CbJ6l6ym"
-last_updated: "2026-07-10T05:32:51.386687Z"
+last_updated: "2026-07-11T05:32:54.086835Z"
 posted_at: "2026-06-05T00:00:00Z"
 status: ready
 apply_url: "https://airtable.com/app53PsYpHxJW61l3/shrjyF9rqLVH2xdTR/tblBeumzf4BGqrc0z"
@@ -15,7 +15,7 @@ areas:
 **Various Event Organisers**
 
 <dl class="job-meta">
-<dt>Location</dt><dd>Remote, Global, Various, Global</dd>
+<dt>Location</dt><dd>Various, Global, Remote, Global</dd>
 <dt>Role type</dt><dd>Other</dd>
 <dt>Experience</dt><dd>Entry-level</dd>
 <dt>Degree</dt><dd>Undergraduate degree or less</dd>
@@ -30,4 +30,4 @@ areas:
 <p class="apply-cta"><a href="https://airtable.com/app53PsYpHxJW61l3/shrjyF9rqLVH2xdTR/tblBeumzf4BGqrc0z">Apply →</a></p>
 
 ---
-*Posted 2026-06-05 · Listing synced 2026-07-10 · 80k job ID `reczUsUl5CbJ6l6ym`*
+*Posted 2026-06-05 · Listing synced 2026-07-11 · 80k job ID `reczUsUl5CbJ6l6ym`*

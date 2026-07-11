@@ -4,24 +4,20 @@ employer: "Animal Equality"
 job_id: "recd02xXlrOV1dcei"
 last_updated: "2026-07-10T05:32:36.636304Z"
 posted_at: "2026-06-15T00:00:00Z"
-status: ready
+status: closed
+closed_at: "2026-07-11"
 apply_url: "https://animalequality.org.br/estagiarioa-de-comunicacao-e-campanhas/"
 areas:
   - "Animal welfare"
 ---
 
+> ⚠️ **CLOSED on 2026-07-11** — this job is no longer listed on the 80,000 Hours board. Archived snapshot below.
+
 # Intern, Communication and Campaigns
 
-**[Animal Equality](https://animalequality.org/)**
+**Animal Equality**
 
-<dl class="job-meta">
-<dt>Location</dt><dd>Brazil, South America</dd>
-<dt>Role type</dt><dd>Internship</dd>
-<dt>Experience</dt><dd>Entry-level</dd>
-<dt>Degree</dt><dd>Undergraduate degree or less</dd>
-</dl>
-
-**Areas & skills:** Animal welfare, Outreach
+**Areas & skills:** Animal welfare
 
 ## Summary
 - In this role, you'll support campaign execution and grassroots mobilisation through in-person and digital actions, working collaboratively with the team.

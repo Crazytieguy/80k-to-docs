@@ -2,7 +2,7 @@
 title: "Operations Coordinator"
 employer: "Pax Sapiens"
 job_id: "recL9DJBQOToOJwDO"
-last_updated: "2026-07-10T05:33:02.607486Z"
+last_updated: "2026-07-11T05:33:04.681470Z"
 posted_at: "2026-05-22T00:02:00Z"
 status: ready
 apply_url: "https://paxsapiens.bamboohr.com/careers/54"
@@ -35,4 +35,4 @@ areas:
 <p class="apply-cta"><a href="https://paxsapiens.bamboohr.com/careers/54">Apply →</a></p>
 
 ---
-*Posted 2026-05-22 · Listing synced 2026-07-10 · 80k job ID `recL9DJBQOToOJwDO`*
+*Posted 2026-05-22 · Listing synced 2026-07-11 · 80k job ID `recL9DJBQOToOJwDO`*

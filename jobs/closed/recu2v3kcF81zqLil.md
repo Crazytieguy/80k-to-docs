@@ -4,25 +4,20 @@ employer: "Guide to Good"
 job_id: "recu2v3kcF81zqLil"
 last_updated: "2026-07-10T05:32:54.064555Z"
 posted_at: "2026-06-02T00:00:00Z"
-status: ready
+status: closed
+closed_at: "2026-07-11"
 apply_url: "https://tally.so/r/b561K2"
 areas:
   - "Building effective altruism"
 ---
 
+> ⚠️ **CLOSED on 2026-07-11** — this job is no longer listed on the 80,000 Hours board. Archived snapshot below.
+
 # Founding Engineer
 
-**[Guide to Good](https://www.guidetogood.org/)**
+**Guide to Good**
 
-<dl class="job-meta">
-<dt>Location</dt><dd>Remote, Global</dd>
-<dt>Role type</dt><dd>Full-time</dd>
-<dt>Experience</dt><dd>Mid (5-9 years experience)</dd>
-<dt>Degree</dt><dd>Undergraduate degree or less</dd>
-<dt>Salary</dt><dd>$110,000 – $130,000</dd>
-</dl>
-
-**Areas & skills:** Building effective altruism, Software engineering
+**Areas & skills:** Building effective altruism
 
 ## Summary
 - In this role, you'll own platform development and stability, taking early-stage systems to production and beyond.

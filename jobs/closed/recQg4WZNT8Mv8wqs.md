@@ -4,24 +4,20 @@ employer: "Heron AI Security"
 job_id: "recQg4WZNT8Mv8wqs"
 last_updated: "2026-07-10T05:32:19.940922Z"
 posted_at: "2026-06-26T00:02:00Z"
-status: ready
+status: closed
+closed_at: "2026-07-11"
 apply_url: "https://www.heronsec.ai/researchfellowship"
 areas:
   - "AI safety & policy"
 ---
 
+> ⚠️ **CLOSED on 2026-07-11** — this job is no longer listed on the 80,000 Hours board. Archived snapshot below.
+
 # Research Fellowship
 
-**[Heron AI Security](https://www.heronsec.ai/)**
+**Heron AI Security**
 
-<dl class="job-meta">
-<dt>Location</dt><dd>London, UK, San Francisco Bay Area, Remote, Global, Tel Aviv, Israel, UK, USA, Middle-East, Israel</dd>
-<dt>Role type</dt><dd>Fellowship</dd>
-<dt>Experience</dt><dd>Mid (5-9 years experience), Senior (10+ years experience)</dd>
-<dt>Degree</dt><dd>Undergraduate degree or less</dd>
-</dl>
-
-**Areas & skills:** AI safety & policy, Research, Information security
+**Areas & skills:** AI safety & policy
 
 ## Summary
 - In this fellowship, you'll conduct research on securing transformative AI systems alongside frontier AI experts.

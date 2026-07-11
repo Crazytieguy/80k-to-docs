@@ -2,7 +2,7 @@
 title: "Policy Researcher"
 employer: "AI Futures Project"
 job_id: "recz0PUAkphKOos0K"
-last_updated: "2026-07-10T05:34:03.647450Z"
+last_updated: "2026-07-11T05:34:03.386417Z"
 posted_at: "2022-01-05T00:00:00Z"
 status: ready
 apply_url: "https://docs.google.com/document/d/1r5YKOUi6gMUZoZvAEh0tHbbHM9RKYk6ONEkw_Tpizb0/preview?tab=t.0"
@@ -15,7 +15,7 @@ areas:
 **[AI Futures Project](https://ai-futures.org/)**
 
 <dl class="job-meta">
-<dt>Location</dt><dd>Washington, DC metro area, San Francisco Bay Area, USA</dd>
+<dt>Location</dt><dd>San Francisco Bay Area, Washington, DC metro area, USA</dd>
 <dt>Role type</dt><dd>Full-time</dd>
 <dt>Experience</dt><dd>Mid (5-9 years experience)</dd>
 <dt>Degree</dt><dd>Undergraduate degree or less</dd>
@@ -34,4 +34,4 @@ areas:
 <p class="apply-cta"><a href="https://docs.google.com/document/d/1r5YKOUi6gMUZoZvAEh0tHbbHM9RKYk6ONEkw_Tpizb0/preview?tab=t.0">Apply →</a></p>
 
 ---
-*Posted 2022-01-05 · Listing synced 2026-07-10 · 80k job ID `recz0PUAkphKOos0K`*
+*Posted 2022-01-05 · Listing synced 2026-07-11 · 80k job ID `recz0PUAkphKOos0K`*

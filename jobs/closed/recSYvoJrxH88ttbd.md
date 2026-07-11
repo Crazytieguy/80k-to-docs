@@ -4,25 +4,20 @@ employer: "Epoch AI"
 job_id: "recSYvoJrxH88ttbd"
 last_updated: "2026-07-10T05:32:33.420512Z"
 posted_at: "2026-06-16T00:04:09Z"
-status: ready
+status: closed
+closed_at: "2026-07-11"
 apply_url: "https://jobs.lever.co/epoch-ai/b71cd010-d3cf-446c-80fa-fa5737573e82"
 areas:
   - "AI safety & policy"
 ---
 
+> ⚠️ **CLOSED on 2026-07-11** — this job is no longer listed on the 80,000 Hours board. Archived snapshot below.
+
 # Senior Product Designer
 
-**[Epoch AI](https://epoch.ai)**
+**Epoch AI**
 
-<dl class="job-meta">
-<dt>Location</dt><dd>Remote, Global</dd>
-<dt>Role type</dt><dd>Full-time</dd>
-<dt>Experience</dt><dd>Mid (5-9 years experience)</dd>
-<dt>Degree</dt><dd>Undergraduate degree or less</dd>
-<dt>Salary</dt><dd>$120,000 – $175,000</dd>
-</dl>
-
-**Areas & skills:** AI safety & policy, Other, Strategy
+**Areas & skills:** AI safety & policy
 
 ## Summary
 - In this role, you'll lead all UI/UX and data visualization design, translating complex research into intuitive products and establishing design direction.

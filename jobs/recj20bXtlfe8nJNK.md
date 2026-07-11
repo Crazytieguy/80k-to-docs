@@ -2,7 +2,7 @@
 title: "Research Engineer, Frontier Safety Risk Assessment"
 employer: "Google DeepMind"
 job_id: "recj20bXtlfe8nJNK"
-last_updated: "2026-07-10T05:31:53.086625Z"
+last_updated: "2026-07-11T05:31:56.850558Z"
 posted_at: "2026-07-08T00:00:00Z"
 status: ready
 apply_url: "https://www.google.com/about/careers/applications/jobs/results/96980050212987590-research-engineer-frontier-safety-risk-assessment-deepmind?company=DeepMind&page=4"
@@ -34,4 +34,4 @@ areas:
 <p class="apply-cta"><a href="https://www.google.com/about/careers/applications/jobs/results/96980050212987590-research-engineer-frontier-safety-risk-assessment-deepmind?company=DeepMind&amp;page=4">Apply →</a></p>
 
 ---
-*Posted 2026-07-08 · Listing synced 2026-07-10 · 80k job ID `recj20bXtlfe8nJNK`*
+*Posted 2026-07-08 · Listing synced 2026-07-11 · 80k job ID `recj20bXtlfe8nJNK`*

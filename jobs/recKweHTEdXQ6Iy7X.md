@@ -2,7 +2,7 @@
 title: "Frontier AI Governance"
 employer: "BlueDot Impact"
 job_id: "recKweHTEdXQ6Iy7X"
-last_updated: "2026-07-10T05:32:58.394587Z"
+last_updated: "2026-07-11T05:33:00.884386Z"
 posted_at: "2026-05-28T00:02:00Z"
 status: ready
 apply_url: "https://bluedot.org/courses/ai-governance"
@@ -32,4 +32,4 @@ areas:
 <p class="apply-cta"><a href="https://bluedot.org/courses/ai-governance">Apply →</a></p>
 
 ---
-*Posted 2026-05-28 · Listing synced 2026-07-10 · 80k job ID `recKweHTEdXQ6Iy7X`*
+*Posted 2026-05-28 · Listing synced 2026-07-11 · 80k job ID `recKweHTEdXQ6Iy7X`*

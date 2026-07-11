@@ -4,24 +4,20 @@ employer: "HiddenLayer"
 job_id: "rec2lV0Hy9StAeBnc"
 last_updated: "2026-07-10T05:33:53.471301Z"
 posted_at: "2022-01-06T00:00:00Z"
-status: ready
+status: closed
+closed_at: "2026-07-11"
 apply_url: "https://job-boards.greenhouse.io/hiddenlayer/jobs/5100067007"
 areas:
   - "AI safety & policy"
 ---
 
+> ⚠️ **CLOSED on 2026-07-11** — this job is no longer listed on the 80,000 Hours board. Archived snapshot below.
+
 # Full Stack Cloud Engineer, AI Security Platform
 
-**[HiddenLayer](https://hiddenlayer.com/)**
+**HiddenLayer**
 
-<dl class="job-meta">
-<dt>Location</dt><dd>Remote, USA, USA</dd>
-<dt>Role type</dt><dd>Full-time</dd>
-<dt>Experience</dt><dd>Junior (1-4 years experience), Mid (5-9 years experience)</dd>
-<dt>Degree</dt><dd>Undergraduate degree or less</dd>
-</dl>
-
-**Areas & skills:** AI safety & policy, Software engineering, Information security
+**Areas & skills:** AI safety & policy
 
 ## Summary
 - In this role, you'll ship end-to-end platform features and optimize distributed Kubernetes services for AI security.

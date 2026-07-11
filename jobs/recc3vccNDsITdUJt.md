@@ -2,7 +2,7 @@
 title: "Grantee, Emergent Ventures"
 employer: "George Mason University, Mercatus Center"
 job_id: "recc3vccNDsITdUJt"
-last_updated: "2026-07-10T05:32:07.949385Z"
+last_updated: "2026-07-11T05:32:11.819826Z"
 posted_at: "2026-07-02T00:00:00Z"
 status: ready
 apply_url: "https://www.mercatus.org/emergent-ventures"
@@ -30,4 +30,4 @@ areas: []
 <p class="apply-cta"><a href="https://www.mercatus.org/emergent-ventures">Apply →</a></p>
 
 ---
-*Posted 2026-07-02 · Listing synced 2026-07-10 · 80k job ID `recc3vccNDsITdUJt`*
+*Posted 2026-07-02 · Listing synced 2026-07-11 · 80k job ID `recc3vccNDsITdUJt`*

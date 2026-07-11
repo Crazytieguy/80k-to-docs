@@ -2,7 +2,7 @@
 title: "Internship, Technology, Trade and Geopolitics, IISS–Americas"
 employer: "International Institute for Strategic Studies"
 job_id: "rechREdfMmOSvd1ZZ"
-last_updated: "2026-07-10T05:31:56.715830Z"
+last_updated: "2026-07-11T05:32:00.502616Z"
 posted_at: "2026-07-07T00:00:00Z"
 status: ready
 apply_url: "https://www.iiss.org/careers/jobs/2026/07/iissamericas-research-internship-on-technology-trade-and-geopolitics/"
@@ -34,4 +34,4 @@ areas:
 <p class="apply-cta"><a href="https://www.iiss.org/careers/jobs/2026/07/iissamericas-research-internship-on-technology-trade-and-geopolitics/">Apply →</a></p>
 
 ---
-*Posted 2026-07-07 · Listing synced 2026-07-10 · 80k job ID `rechREdfMmOSvd1ZZ`*
+*Posted 2026-07-07 · Listing synced 2026-07-11 · 80k job ID `rechREdfMmOSvd1ZZ`*

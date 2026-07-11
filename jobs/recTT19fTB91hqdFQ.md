@@ -2,7 +2,7 @@
 title: "Fulbright U.S. Scholar Program"
 employer: "US Government, The Fulbright Program"
 job_id: "recTT19fTB91hqdFQ"
-last_updated: "2026-07-10T05:33:15.899443Z"
+last_updated: "2026-07-11T05:33:16.684154Z"
 posted_at: "2026-05-08T00:00:00Z"
 status: ready
 apply_url: "https://fulbrightscholars.org/us-scholar-awards/FPPF"
@@ -33,4 +33,4 @@ areas:
 <p class="apply-cta"><a href="https://fulbrightscholars.org/us-scholar-awards/FPPF">Apply →</a></p>
 
 ---
-*Posted 2026-05-08 · Listing synced 2026-07-10 · 80k job ID `recTT19fTB91hqdFQ`*
+*Posted 2026-05-08 · Listing synced 2026-07-11 · 80k job ID `recTT19fTB91hqdFQ`*
