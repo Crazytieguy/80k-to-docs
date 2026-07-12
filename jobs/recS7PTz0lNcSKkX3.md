@@ -2,7 +2,7 @@
 title: "Office Manager, London"
 employer: "MATS Research"
 job_id: "recS7PTz0lNcSKkX3"
-last_updated: "2026-07-11T05:32:09.779469Z"
+last_updated: "2026-07-12T05:32:18.694038Z"
 posted_at: "2026-07-02T00:05:00Z"
 status: ready
 apply_url: "https://www.matsprogram.org/careers/office-manager"
@@ -34,4 +34,4 @@ areas:
 <p class="apply-cta"><a href="https://www.matsprogram.org/careers/office-manager">Apply →</a></p>
 
 ---
-*Posted 2026-07-02 · Listing synced 2026-07-11 · 80k job ID `recS7PTz0lNcSKkX3`*
+*Posted 2026-07-02 · Listing synced 2026-07-12 · 80k job ID `recS7PTz0lNcSKkX3`*

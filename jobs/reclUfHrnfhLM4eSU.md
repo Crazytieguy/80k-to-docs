@@ -2,7 +2,7 @@
 title: "Winter Fellowship, Applied Track, UK (2027)"
 employer: "GovAI"
 job_id: "reclUfHrnfhLM4eSU"
-last_updated: "2026-07-11T05:32:35.792089Z"
+last_updated: "2026-07-12T05:32:43.576711Z"
 posted_at: "2026-06-16T00:05:00Z"
 status: ready
 apply_url: "https://www.governance.ai/post/winter-fellowship-2027-applied-track"
@@ -33,4 +33,4 @@ areas:
 <p class="apply-cta"><a href="https://www.governance.ai/post/winter-fellowship-2027-applied-track">Apply →</a></p>
 
 ---
-*Posted 2026-06-16 · Listing synced 2026-07-11 · 80k job ID `reclUfHrnfhLM4eSU`*
+*Posted 2026-06-16 · Listing synced 2026-07-12 · 80k job ID `reclUfHrnfhLM4eSU`*

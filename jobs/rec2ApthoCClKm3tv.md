@@ -2,7 +2,7 @@
 title: "Technical Programme Manager, Chem-Bio"
 employer: "UK Government, AI Security Institute"
 job_id: "rec2ApthoCClKm3tv"
-last_updated: "2026-07-11T05:32:33.265620Z"
+last_updated: "2026-07-12T05:32:41.093122Z"
 posted_at: "2026-06-17T00:05:00Z"
 status: ready
 apply_url: "https://job-boards.eu.greenhouse.io/aisi/jobs/4899102101"
@@ -34,4 +34,4 @@ areas:
 <p class="apply-cta"><a href="https://job-boards.eu.greenhouse.io/aisi/jobs/4899102101">Apply →</a></p>
 
 ---
-*Posted 2026-06-17 · Listing synced 2026-07-11 · 80k job ID `rec2ApthoCClKm3tv`*
+*Posted 2026-06-17 · Listing synced 2026-07-12 · 80k job ID `rec2ApthoCClKm3tv`*

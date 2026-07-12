@@ -2,7 +2,7 @@
 title: "AI Accountability Fellow"
 employer: "Pulitzer Center"
 job_id: "recoFNyWfHVMXLIta"
-last_updated: "2026-07-11T05:32:16.352827Z"
+last_updated: "2026-07-12T05:32:23.957498Z"
 posted_at: "2026-07-01T00:01:00Z"
 status: ready
 apply_url: "https://pulitzercenter.org/grants-fellowships/opportunities-journalists/ai-accountability-fellowships"
@@ -34,4 +34,4 @@ areas:
 <p class="apply-cta"><a href="https://pulitzercenter.org/grants-fellowships/opportunities-journalists/ai-accountability-fellowships">Apply →</a></p>
 
 ---
-*Posted 2026-07-01 · Listing synced 2026-07-11 · 80k job ID `recoFNyWfHVMXLIta`*
+*Posted 2026-07-01 · Listing synced 2026-07-12 · 80k job ID `recoFNyWfHVMXLIta`*

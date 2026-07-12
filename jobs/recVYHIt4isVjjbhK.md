@@ -2,7 +2,7 @@
 title: "Grant Recipient, Animal Welfare"
 employer: "EA Funds"
 job_id: "recVYHIt4isVjjbhK"
-last_updated: "2026-07-11T05:34:36.755399Z"
+last_updated: "2026-07-12T05:34:49.614184Z"
 posted_at: "2022-01-01T00:00:00Z"
 status: ready
 apply_url: "https://funds.effectivealtruism.org/funds/animal-welfare"
@@ -33,4 +33,4 @@ areas:
 <p class="apply-cta"><a href="https://funds.effectivealtruism.org/funds/animal-welfare">Apply →</a></p>
 
 ---
-*Posted 2022-01-01 · Listing synced 2026-07-11 · 80k job ID `recVYHIt4isVjjbhK`*
+*Posted 2022-01-01 · Listing synced 2026-07-12 · 80k job ID `recVYHIt4isVjjbhK`*

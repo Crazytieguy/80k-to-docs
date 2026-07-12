@@ -2,7 +2,7 @@
 title: "Expression of Interest"
 employer: "Forethought"
 job_id: "recfRVlKt2gQukc4V"
-last_updated: "2026-07-11T05:33:41.618454Z"
+last_updated: "2026-07-12T05:33:52.671997Z"
 posted_at: "2022-01-07T00:00:00Z"
 status: ready
 apply_url: "https://www.forethought.org/careers/expression-of-interest"
@@ -30,4 +30,4 @@ areas:
 <p class="apply-cta"><a href="https://www.forethought.org/careers/expression-of-interest">Apply →</a></p>
 
 ---
-*Posted 2022-01-07 · Listing synced 2026-07-11 · 80k job ID `recfRVlKt2gQukc4V`*
+*Posted 2022-01-07 · Listing synced 2026-07-12 · 80k job ID `recfRVlKt2gQukc4V`*

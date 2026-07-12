@@ -2,7 +2,7 @@
 title: "Senior Technical AI Safety Research Manager"
 employer: "Meridian"
 job_id: "reccTeilt4VjJhKVP"
-last_updated: "2026-07-11T05:32:12.304448Z"
+last_updated: "2026-07-12T05:32:21.040450Z"
 posted_at: "2026-07-02T00:00:00Z"
 status: ready
 apply_url: "https://www.meridiancambridge.org/senior-technical-ai-safety-research-manager"
@@ -34,4 +34,4 @@ areas:
 <p class="apply-cta"><a href="https://www.meridiancambridge.org/senior-technical-ai-safety-research-manager">Apply →</a></p>
 
 ---
-*Posted 2026-07-02 · Listing synced 2026-07-11 · 80k job ID `reccTeilt4VjJhKVP`*
+*Posted 2026-07-02 · Listing synced 2026-07-12 · 80k job ID `reccTeilt4VjJhKVP`*

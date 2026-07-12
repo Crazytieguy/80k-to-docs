@@ -2,7 +2,7 @@
 title: "Policy Generalist"
 employer: "Palisade Research"
 job_id: "recseMKBthF6O6FKL"
-last_updated: "2026-07-11T05:31:52.372321Z"
+last_updated: "2026-07-12T05:32:00.451737Z"
 posted_at: "2026-07-09T00:05:00Z"
 status: ready
 apply_url: "https://jobs.gusto.com/postings/palisade-research-policy-generalist-6530786c-0a60-4459-84fc-996661772ae0"
@@ -34,4 +34,4 @@ areas:
 <p class="apply-cta"><a href="https://jobs.gusto.com/postings/palisade-research-policy-generalist-6530786c-0a60-4459-84fc-996661772ae0">Apply →</a></p>
 
 ---
-*Posted 2026-07-09 · Listing synced 2026-07-11 · 80k job ID `recseMKBthF6O6FKL`*
+*Posted 2026-07-09 · Listing synced 2026-07-12 · 80k job ID `recseMKBthF6O6FKL`*

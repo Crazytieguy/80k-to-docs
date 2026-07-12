@@ -2,7 +2,7 @@
 title: "Subject Matter Expert, Nuclear Treaties"
 employer: "Anser (US government role)"
 job_id: "recoHEicQ2UcCnNRD"
-last_updated: "2026-07-11T05:34:34.777015Z"
+last_updated: "2026-07-12T05:34:47.515057Z"
 posted_at: "2022-01-01T00:00:00Z"
 status: ready
 apply_url: "https://www.anser.org/job/?id=5185898008"
@@ -33,4 +33,4 @@ areas:
 <p class="apply-cta"><a href="https://www.anser.org/job/?id=5185898008">Apply →</a></p>
 
 ---
-*Posted 2022-01-01 · Listing synced 2026-07-11 · 80k job ID `recoHEicQ2UcCnNRD`*
+*Posted 2022-01-01 · Listing synced 2026-07-12 · 80k job ID `recoHEicQ2UcCnNRD`*

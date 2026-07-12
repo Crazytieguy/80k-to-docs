@@ -2,7 +2,7 @@
 title: "Teacher, Technical AI Safety / AI Governance and Strategy"
 employer: "ML4Good"
 job_id: "recGc6OKSvvJvaCZ6"
-last_updated: "2026-07-11T05:32:58.459530Z"
+last_updated: "2026-07-12T05:33:07.780386Z"
 posted_at: "2026-06-01T00:01:00Z"
 status: ready
 apply_url: "https://ml4good.org/jobs/ml4good-teacher/"
@@ -34,4 +34,4 @@ areas:
 <p class="apply-cta"><a href="https://ml4good.org/jobs/ml4good-teacher/">Apply →</a></p>
 
 ---
-*Posted 2026-06-01 · Listing synced 2026-07-11 · 80k job ID `recGc6OKSvvJvaCZ6`*
+*Posted 2026-06-01 · Listing synced 2026-07-12 · 80k job ID `recGc6OKSvvJvaCZ6`*

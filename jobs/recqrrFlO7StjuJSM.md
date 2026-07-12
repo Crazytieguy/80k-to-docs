@@ -2,7 +2,7 @@
 title: "Director of Development"
 employer: "LawZero"
 job_id: "recqrrFlO7StjuJSM"
-last_updated: "2026-07-11T05:33:02.125019Z"
+last_updated: "2026-07-12T05:33:11.661743Z"
 posted_at: "2026-05-27T00:00:00Z"
 status: ready
 apply_url: "https://job-boards.greenhouse.io/lawzero/jobs/4248022009"
@@ -33,4 +33,4 @@ areas:
 <p class="apply-cta"><a href="https://job-boards.greenhouse.io/lawzero/jobs/4248022009">Apply →</a></p>
 
 ---
-*Posted 2026-05-27 · Listing synced 2026-07-11 · 80k job ID `recqrrFlO7StjuJSM`*
+*Posted 2026-05-27 · Listing synced 2026-07-12 · 80k job ID `recqrrFlO7StjuJSM`*

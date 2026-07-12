@@ -2,7 +2,7 @@
 title: "Researcher"
 employer: "GiveWell"
 job_id: "rec20V41ROkCQgjd3"
-last_updated: "2026-07-11T05:33:39.438388Z"
+last_updated: "2026-07-12T05:33:49.552167Z"
 posted_at: "2022-01-08T00:00:00Z"
 status: ready
 apply_url: "https://grnh.se/6i76vvi28us"
@@ -15,7 +15,7 @@ areas:
 **[GiveWell](https://www.givewell.org)**
 
 <dl class="job-meta">
-<dt>Location</dt><dd>Remote, USA, Remote, Global, USA, USA (Confirmed Visas)</dd>
+<dt>Location</dt><dd>Remote, Global, Remote, USA, USA, USA (Confirmed Visas)</dd>
 <dt>Role type</dt><dd>Full-time</dd>
 <dt>Experience</dt><dd>Junior (1-4 years experience)</dd>
 <dt>Degree</dt><dd>Master's degree</dd>
@@ -34,4 +34,4 @@ areas:
 <p class="apply-cta"><a href="https://grnh.se/6i76vvi28us">Apply →</a></p>
 
 ---
-*Posted 2022-01-08 · Listing synced 2026-07-11 · 80k job ID `rec20V41ROkCQgjd3`*
+*Posted 2022-01-08 · Listing synced 2026-07-12 · 80k job ID `rec20V41ROkCQgjd3`*

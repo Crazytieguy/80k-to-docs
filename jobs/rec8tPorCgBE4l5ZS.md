@@ -2,7 +2,7 @@
 title: "Senior Research Fellow, International Security"
 employer: "Chatham House"
 job_id: "rec8tPorCgBE4l5ZS"
-last_updated: "2026-07-11T05:32:19.996102Z"
+last_updated: "2026-07-12T05:32:27.571387Z"
 posted_at: "2026-06-30T00:00:00Z"
 status: ready
 apply_url: "https://careers.chathamhouse.org/jobs/7988892-senior-research-fellow-international-security"
@@ -34,4 +34,4 @@ areas:
 <p class="apply-cta"><a href="https://careers.chathamhouse.org/jobs/7988892-senior-research-fellow-international-security">Apply →</a></p>
 
 ---
-*Posted 2026-06-30 · Listing synced 2026-07-11 · 80k job ID `rec8tPorCgBE4l5ZS`*
+*Posted 2026-06-30 · Listing synced 2026-07-12 · 80k job ID `rec8tPorCgBE4l5ZS`*

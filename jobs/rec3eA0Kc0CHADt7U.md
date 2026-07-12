@@ -2,7 +2,7 @@
 title: "AI-Related Roles in the US Federal Government"
 employer: "Various US Federal Government Departments (AI related)"
 job_id: "rec3eA0Kc0CHADt7U"
-last_updated: "2026-07-11T05:34:45.379627Z"
+last_updated: "2026-07-12T05:34:58.345648Z"
 posted_at: "2022-01-01T00:00:00Z"
 status: ready
 apply_url: "https://ai.usajobs.gov/Search/Results?cmco=AI&s=relevance&sd=asc&p=1"
@@ -31,4 +31,4 @@ areas:
 <p class="apply-cta"><a href="https://ai.usajobs.gov/Search/Results?cmco=AI&amp;s=relevance&amp;sd=asc&amp;p=1">Apply →</a></p>
 
 ---
-*Posted 2022-01-01 · Listing synced 2026-07-11 · 80k job ID `rec3eA0Kc0CHADt7U`*
+*Posted 2022-01-01 · Listing synced 2026-07-12 · 80k job ID `rec3eA0Kc0CHADt7U`*

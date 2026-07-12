@@ -2,7 +2,7 @@
 title: "Academic Fellowship, Law and AI"
 employer: "Institute for Law and AI"
 job_id: "recMxnAeHJDhb1ZaS"
-last_updated: "2026-07-11T05:31:51.042628Z"
+last_updated: "2026-07-12T05:31:59.093392Z"
 posted_at: "2026-07-10T00:00:00Z"
 status: ready
 apply_url: "https://law-ai.org/career/academic-fellowship/"
@@ -34,4 +34,4 @@ areas:
 <p class="apply-cta"><a href="https://law-ai.org/career/academic-fellowship/">Apply →</a></p>
 
 ---
-*Posted 2026-07-10 · Listing synced 2026-07-11 · 80k job ID `recMxnAeHJDhb1ZaS`*
+*Posted 2026-07-10 · Listing synced 2026-07-12 · 80k job ID `recMxnAeHJDhb1ZaS`*

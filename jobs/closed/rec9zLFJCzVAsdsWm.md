@@ -4,24 +4,20 @@ employer: "One Acre Fund"
 job_id: "rec9zLFJCzVAsdsWm"
 last_updated: "2026-07-11T05:32:01.015344Z"
 posted_at: "2026-07-07T00:00:00Z"
-status: ready
+status: closed
+closed_at: "2026-07-12"
 apply_url: "https://oneacrefund.org/vacancies/investor-relations-graduate-trainee"
 areas:
   - "Global health & development"
 ---
 
+> ⚠️ **CLOSED on 2026-07-12** — this job is no longer listed on the 80,000 Hours board. Archived snapshot below.
+
 # Investor Relations Graduate Trainee
 
-**[One Acre Fund](https://oneacrefund.org/)**
+**One Acre Fund**
 
-<dl class="job-meta">
-<dt>Location</dt><dd>Nairobi, Kenya, Kenya, Africa</dd>
-<dt>Role type</dt><dd>Internship</dd>
-<dt>Experience</dt><dd>Entry-level</dd>
-<dt>Degree</dt><dd>Undergraduate degree or less</dd>
-</dl>
-
-**Areas & skills:** Global health & development, Finance
+**Areas & skills:** Global health & development
 
 ## Summary
 - In this role, you'll support Investor Relations with loan compliance, reporting, lender due diligence, and operational projects.

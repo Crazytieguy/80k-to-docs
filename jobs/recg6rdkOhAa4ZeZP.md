@@ -2,7 +2,7 @@
 title: "PhD Research Fellowship, Safety and Security Evaluation of Deployed AI Systems"
 employer: "Simula"
 job_id: "recg6rdkOhAa4ZeZP"
-last_updated: "2026-07-11T05:32:08.964902Z"
+last_updated: "2026-07-12T05:32:17.940580Z"
 posted_at: "2026-07-03T00:00:00Z"
 status: ready
 apply_url: "https://www.simula.no/careers/job-openings/phd-research-fellowship-in-safety-and-security-evaluation-of-deployed-ai-systems"
@@ -34,4 +34,4 @@ areas:
 <p class="apply-cta"><a href="https://www.simula.no/careers/job-openings/phd-research-fellowship-in-safety-and-security-evaluation-of-deployed-ai-systems">Apply →</a></p>
 
 ---
-*Posted 2026-07-03 · Listing synced 2026-07-11 · 80k job ID `recg6rdkOhAa4ZeZP`*
+*Posted 2026-07-03 · Listing synced 2026-07-12 · 80k job ID `recg6rdkOhAa4ZeZP`*

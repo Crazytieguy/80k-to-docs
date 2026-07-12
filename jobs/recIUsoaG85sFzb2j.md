@@ -2,7 +2,7 @@
 title: "Program Assistant, Bangladesh"
 employer: "Pure Earth"
 job_id: "recIUsoaG85sFzb2j"
-last_updated: "2026-07-11T05:32:57.128135Z"
+last_updated: "2026-07-12T05:33:06.448736Z"
 posted_at: "2026-06-02T00:00:00Z"
 status: ready
 apply_url: "https://www.pureearth.org/wp-content/uploads/2026/05/Program-Assistant-Job-Description-BD.pdf"
@@ -34,4 +34,4 @@ areas:
 <p class="apply-cta"><a href="https://www.pureearth.org/wp-content/uploads/2026/05/Program-Assistant-Job-Description-BD.pdf">Apply →</a></p>
 
 ---
-*Posted 2026-06-02 · Listing synced 2026-07-11 · 80k job ID `recIUsoaG85sFzb2j`*
+*Posted 2026-06-02 · Listing synced 2026-07-12 · 80k job ID `recIUsoaG85sFzb2j`*

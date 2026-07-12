@@ -2,7 +2,7 @@
 title: "Finance Manager"
 employer: "LawZero"
 job_id: "recQA4vUWj0HgIRkz"
-last_updated: "2026-07-11T05:33:06.919162Z"
+last_updated: "2026-07-12T05:33:16.715979Z"
 posted_at: "2026-05-21T00:01:00Z"
 status: ready
 apply_url: "https://job-boards.greenhouse.io/lawzero/jobs/4248028009"
@@ -33,4 +33,4 @@ areas:
 <p class="apply-cta"><a href="https://job-boards.greenhouse.io/lawzero/jobs/4248028009">Apply →</a></p>
 
 ---
-*Posted 2026-05-21 · Listing synced 2026-07-11 · 80k job ID `recQA4vUWj0HgIRkz`*
+*Posted 2026-05-21 · Listing synced 2026-07-12 · 80k job ID `recQA4vUWj0HgIRkz`*

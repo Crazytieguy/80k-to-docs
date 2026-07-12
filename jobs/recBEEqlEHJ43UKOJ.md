@@ -2,7 +2,7 @@
 title: "Research Scientist / Engineer, Evaluations"
 employer: "Apollo Research"
 job_id: "recBEEqlEHJ43UKOJ"
-last_updated: "2026-07-11T05:33:46.712155Z"
+last_updated: "2026-07-12T05:33:58.285191Z"
 posted_at: "2022-01-06T00:00:00Z"
 status: ready
 apply_url: "https://jobs.lever.co/apolloresearch/4a65c6e1-785a-4f88-8998-a97574afb7ee"
@@ -34,4 +34,4 @@ areas:
 <p class="apply-cta"><a href="https://jobs.lever.co/apolloresearch/4a65c6e1-785a-4f88-8998-a97574afb7ee">Apply →</a></p>
 
 ---
-*Posted 2022-01-06 · Listing synced 2026-07-11 · 80k job ID `recBEEqlEHJ43UKOJ`*
+*Posted 2022-01-06 · Listing synced 2026-07-12 · 80k job ID `recBEEqlEHJ43UKOJ`*

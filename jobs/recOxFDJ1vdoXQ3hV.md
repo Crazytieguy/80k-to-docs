@@ -2,7 +2,7 @@
 title: "Research Scientist, AI Behaviours"
 employer: "White Circle"
 job_id: "recOxFDJ1vdoXQ3hV"
-last_updated: "2026-07-11T05:31:58.252948Z"
+last_updated: "2026-07-12T05:32:06.967478Z"
 posted_at: "2026-07-08T00:00:00Z"
 status: ready
 apply_url: "https://jobs.ashbyhq.com/whitecircle/751d4e9d-13e6-4f7b-b9eb-b0f422e93bf4"
@@ -34,4 +34,4 @@ areas:
 <p class="apply-cta"><a href="https://jobs.ashbyhq.com/whitecircle/751d4e9d-13e6-4f7b-b9eb-b0f422e93bf4">Apply →</a></p>
 
 ---
-*Posted 2026-07-08 · Listing synced 2026-07-11 · 80k job ID `recOxFDJ1vdoXQ3hV`*
+*Posted 2026-07-08 · Listing synced 2026-07-12 · 80k job ID `recOxFDJ1vdoXQ3hV`*

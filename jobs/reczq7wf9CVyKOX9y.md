@@ -2,7 +2,7 @@
 title: "Various Internships"
 employer: "Center for a New American Security"
 job_id: "reczq7wf9CVyKOX9y"
-last_updated: "2026-07-11T05:34:21.816680Z"
+last_updated: "2026-07-12T05:34:33.912278Z"
 posted_at: "2022-01-02T00:00:00Z"
 status: ready
 apply_url: "https://www.cnas.org/careers/internships"
@@ -34,4 +34,4 @@ areas:
 <p class="apply-cta"><a href="https://www.cnas.org/careers/internships">Apply →</a></p>
 
 ---
-*Posted 2022-01-02 · Listing synced 2026-07-11 · 80k job ID `reczq7wf9CVyKOX9y`*
+*Posted 2022-01-02 · Listing synced 2026-07-12 · 80k job ID `reczq7wf9CVyKOX9y`*

@@ -2,7 +2,7 @@
 title: "Fellows Program, AI Safety"
 employer: "Anthropic"
 job_id: "rechF5YCsmNiyNj8A"
-last_updated: "2026-07-11T05:33:31.626157Z"
+last_updated: "2026-07-12T05:33:41.123678Z"
 posted_at: "2022-01-11T00:00:00Z"
 status: ready
 apply_url: "https://job-boards.greenhouse.io/anthropic/jobs/5183044008"
@@ -34,4 +34,4 @@ areas:
 <p class="apply-cta"><a href="https://job-boards.greenhouse.io/anthropic/jobs/5183044008">Apply →</a></p>
 
 ---
-*Posted 2022-01-11 · Listing synced 2026-07-11 · 80k job ID `rechF5YCsmNiyNj8A`*
+*Posted 2022-01-11 · Listing synced 2026-07-12 · 80k job ID `rechF5YCsmNiyNj8A`*

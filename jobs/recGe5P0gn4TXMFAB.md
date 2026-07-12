@@ -2,7 +2,7 @@
 title: "Campaigns Manager"
 employer: "Anima International"
 job_id: "recGe5P0gn4TXMFAB"
-last_updated: "2026-07-11T05:32:26.211192Z"
+last_updated: "2026-07-12T05:32:33.793940Z"
 posted_at: "2026-06-24T00:00:00Z"
 status: ready
 apply_url: "https://animafrance.org/blog/anima-recrute-un%E2%B8%B1e-charge%E2%B8%B1e-de-campagnes"
@@ -34,4 +34,4 @@ areas:
 <p class="apply-cta"><a href="https://animafrance.org/blog/anima-recrute-un%E2%B8%B1e-charge%E2%B8%B1e-de-campagnes">Apply →</a></p>
 
 ---
-*Posted 2026-06-24 · Listing synced 2026-07-11 · 80k job ID `recGe5P0gn4TXMFAB`*
+*Posted 2026-06-24 · Listing synced 2026-07-12 · 80k job ID `recGe5P0gn4TXMFAB`*

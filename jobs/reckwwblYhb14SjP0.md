@@ -2,7 +2,7 @@
 title: "Policy Manager"
 employer: "Coalition for Epidemic Preparedness Innovations"
 job_id: "reckwwblYhb14SjP0"
-last_updated: "2026-07-11T05:32:18.402829Z"
+last_updated: "2026-07-12T05:32:25.964325Z"
 posted_at: "2026-06-30T00:02:00Z"
 status: ready
 apply_url: "https://cepi.my.salesforce-sites.com/careers/xcdrecruit__PositionDetails?id=a43P300000Fn5NhIAJ"
@@ -33,4 +33,4 @@ areas:
 <p class="apply-cta"><a href="https://cepi.my.salesforce-sites.com/careers/xcdrecruit__PositionDetails?id=a43P300000Fn5NhIAJ">Apply →</a></p>
 
 ---
-*Posted 2026-06-30 · Listing synced 2026-07-11 · 80k job ID `reckwwblYhb14SjP0`*
+*Posted 2026-06-30 · Listing synced 2026-07-12 · 80k job ID `reckwwblYhb14SjP0`*

@@ -2,7 +2,7 @@
 title: "Teaching Associate, AI and Society / Ethics"
 employer: "Cambridge University, Leverhulme Centre for the Future of Intelligence"
 job_id: "recLfu8493OYLonNF"
-last_updated: "2026-07-11T05:32:19.809011Z"
+last_updated: "2026-07-12T05:32:27.334367Z"
 posted_at: "2026-06-30T00:00:00Z"
 status: ready
 apply_url: "https://www.lcfi.ac.uk/get-involved/vacancies/teaching-associate-in-ai-and-society-ethics"
@@ -34,4 +34,4 @@ areas:
 <p class="apply-cta"><a href="https://www.lcfi.ac.uk/get-involved/vacancies/teaching-associate-in-ai-and-society-ethics">Apply →</a></p>
 
 ---
-*Posted 2026-06-30 · Listing synced 2026-07-11 · 80k job ID `recLfu8493OYLonNF`*
+*Posted 2026-06-30 · Listing synced 2026-07-12 · 80k job ID `recLfu8493OYLonNF`*

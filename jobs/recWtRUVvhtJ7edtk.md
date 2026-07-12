@@ -2,7 +2,7 @@
 title: "Executive Director's Associate"
 employer: "Mirror Biology Dialogues Fund"
 job_id: "recWtRUVvhtJ7edtk"
-last_updated: "2026-07-11T05:32:33.640329Z"
+last_updated: "2026-07-12T05:32:41.509647Z"
 posted_at: "2026-06-17T00:03:00Z"
 status: ready
 apply_url: "https://mirrorbiologydialoguesfund.applytojob.com/apply/vTPLZaRyu2/Executive-Directors-Associate?source=Our+Career+Page+Widget"
@@ -34,4 +34,4 @@ areas:
 <p class="apply-cta"><a href="https://mirrorbiologydialoguesfund.applytojob.com/apply/vTPLZaRyu2/Executive-Directors-Associate?source=Our+Career+Page+Widget">Apply →</a></p>
 
 ---
-*Posted 2026-06-17 · Listing synced 2026-07-11 · 80k job ID `recWtRUVvhtJ7edtk`*
+*Posted 2026-06-17 · Listing synced 2026-07-12 · 80k job ID `recWtRUVvhtJ7edtk`*

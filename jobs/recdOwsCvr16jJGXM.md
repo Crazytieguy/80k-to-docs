@@ -2,7 +2,7 @@
 title: "Research Fellow, Malaria Control Interventions"
 employer: "University of London, School of Hygiene and Tropical Medicine"
 job_id: "recdOwsCvr16jJGXM"
-last_updated: "2026-07-11T05:32:01.208834Z"
+last_updated: "2026-07-12T05:32:09.851881Z"
 posted_at: "2026-07-07T00:00:00Z"
 status: ready
 apply_url: "https://jobs.lshtm.ac.uk/vacancy.aspx?ref=ITD-DCD-2026-05"
@@ -34,4 +34,4 @@ areas:
 <p class="apply-cta"><a href="https://jobs.lshtm.ac.uk/vacancy.aspx?ref=ITD-DCD-2026-05">Apply →</a></p>
 
 ---
-*Posted 2026-07-07 · Listing synced 2026-07-11 · 80k job ID `recdOwsCvr16jJGXM`*
+*Posted 2026-07-07 · Listing synced 2026-07-12 · 80k job ID `recdOwsCvr16jJGXM`*

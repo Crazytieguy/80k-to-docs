@@ -2,7 +2,7 @@
 title: "Research Engineer, Frontier Safety Mitigations"
 employer: "Google DeepMind"
 job_id: "recqjsxpvaVYlkR6i"
-last_updated: "2026-07-11T05:31:57.288302Z"
+last_updated: "2026-07-12T05:32:05.914728Z"
 posted_at: "2026-07-08T00:00:00Z"
 status: ready
 apply_url: "https://www.google.com/about/careers/applications/jobs/results/138624521266438854-research-engineer-frontier-safety-mitigations-deepmind?company=DeepMind&page=2"
@@ -33,4 +33,4 @@ areas:
 <p class="apply-cta"><a href="https://www.google.com/about/careers/applications/jobs/results/138624521266438854-research-engineer-frontier-safety-mitigations-deepmind?company=DeepMind&amp;page=2">Apply →</a></p>
 
 ---
-*Posted 2026-07-08 · Listing synced 2026-07-11 · 80k job ID `recqjsxpvaVYlkR6i`*
+*Posted 2026-07-08 · Listing synced 2026-07-12 · 80k job ID `recqjsxpvaVYlkR6i`*

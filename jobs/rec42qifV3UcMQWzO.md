@@ -2,7 +2,7 @@
 title: "Senior LLM Researcher"
 employer: "Forecasting Research Institute"
 job_id: "rec42qifV3UcMQWzO"
-last_updated: "2026-07-11T05:34:38.105673Z"
+last_updated: "2026-07-12T05:34:50.851471Z"
 posted_at: "2022-01-01T00:00:00Z"
 status: ready
 apply_url: "https://forecastingresearch.org/careers/senior-llm-researcher"
@@ -33,4 +33,4 @@ areas:
 <p class="apply-cta"><a href="https://forecastingresearch.org/careers/senior-llm-researcher">Apply →</a></p>
 
 ---
-*Posted 2022-01-01 · Listing synced 2026-07-11 · 80k job ID `rec42qifV3UcMQWzO`*
+*Posted 2022-01-01 · Listing synced 2026-07-12 · 80k job ID `rec42qifV3UcMQWzO`*

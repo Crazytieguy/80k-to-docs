@@ -2,7 +2,7 @@
 title: "List of Challenges and Prizes Related to Top Problems"
 employer: "Various Hosts"
 job_id: "recEsWK7TXKLfy8Be"
-last_updated: "2026-07-11T05:32:17.318149Z"
+last_updated: "2026-07-12T05:32:24.891632Z"
 posted_at: "2026-07-01T00:00:00Z"
 status: ready
 apply_url: "https://airtable.com/app53PsYpHxJW61l3/shrOB1Un3aHb066Wm"
@@ -15,7 +15,7 @@ areas:
 **Various Hosts**
 
 <dl class="job-meta">
-<dt>Location</dt><dd>Various, Global, Remote, Global</dd>
+<dt>Location</dt><dd>Remote, Global, Various, Global</dd>
 <dt>Role type</dt><dd>Part-time</dd>
 <dt>Experience</dt><dd>Multiple experience levels</dd>
 <dt>Degree</dt><dd>Undergraduate degree or less</dd>
@@ -31,4 +31,4 @@ areas:
 <p class="apply-cta"><a href="https://airtable.com/app53PsYpHxJW61l3/shrOB1Un3aHb066Wm">Apply →</a></p>
 
 ---
-*Posted 2026-07-01 · Listing synced 2026-07-11 · 80k job ID `recEsWK7TXKLfy8Be`*
+*Posted 2026-07-01 · Listing synced 2026-07-12 · 80k job ID `recEsWK7TXKLfy8Be`*

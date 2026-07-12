@@ -2,7 +2,7 @@
 title: "Governance Researcher, Frontier AI Risk Management"
 employer: "SaferAI"
 job_id: "rec2blDEcPcTZmSwN"
-last_updated: "2026-07-11T05:33:58.455461Z"
+last_updated: "2026-07-12T05:34:10.093005Z"
 posted_at: "2022-01-06T00:00:00Z"
 status: ready
 apply_url: "https://www.safer-ai.org/jobs/frontier-ai-risk-management-governance-researcher"
@@ -15,7 +15,7 @@ areas:
 **[SaferAI](https://www.safer-ai.org/)**
 
 <dl class="job-meta">
-<dt>Location</dt><dd>Paris, France, London, UK, UK, France, Europe (ex UK)</dd>
+<dt>Location</dt><dd>London, UK, Paris, France, UK, France, Europe (ex UK)</dd>
 <dt>Role type</dt><dd>Full-time</dd>
 <dt>Experience</dt><dd>Junior (1-4 years experience)</dd>
 <dt>Degree</dt><dd>Master's degree</dd>
@@ -33,4 +33,4 @@ areas:
 <p class="apply-cta"><a href="https://www.safer-ai.org/jobs/frontier-ai-risk-management-governance-researcher">Apply →</a></p>
 
 ---
-*Posted 2022-01-06 · Listing synced 2026-07-11 · 80k job ID `rec2blDEcPcTZmSwN`*
+*Posted 2022-01-06 · Listing synced 2026-07-12 · 80k job ID `rec2blDEcPcTZmSwN`*
