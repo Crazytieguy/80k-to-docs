@@ -2,7 +2,7 @@
 title: "Opportunities, West Africa"
 employer: "Innovations for Poverty Action"
 job_id: "recQQK5AJ0W7GaSnQ"
-last_updated: "2026-07-12T05:34:53.559493Z"
+last_updated: "2026-07-13T05:34:39.739897Z"
 posted_at: "2022-01-01T00:00:00Z"
 status: ready
 apply_url: "https://poverty-action.org/current-opportunities#:~:text=Associate%20Research%20Manager-,West%20Africa,-Ghana"
@@ -30,4 +30,4 @@ areas:
 <p class="apply-cta"><a href="https://poverty-action.org/current-opportunities#:~:text=Associate%20Research%20Manager-,West%20Africa,-Ghana">Apply →</a></p>
 
 ---
-*Posted 2022-01-01 · Listing synced 2026-07-12 · 80k job ID `recQQK5AJ0W7GaSnQ`*
+*Posted 2022-01-01 · Listing synced 2026-07-13 · 80k job ID `recQQK5AJ0W7GaSnQ`*

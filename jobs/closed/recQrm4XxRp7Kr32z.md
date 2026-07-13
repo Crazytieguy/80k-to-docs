@@ -4,25 +4,20 @@ employer: "GovAI"
 job_id: "recQrm4XxRp7Kr32z"
 last_updated: "2026-07-12T05:32:43.201950Z"
 posted_at: "2026-06-16T00:05:00Z"
-status: ready
+status: closed
+closed_at: "2026-07-13"
 apply_url: "https://www.governance.ai/post/dc-winter-fellowship-2027"
 areas:
   - "AI safety & policy"
 ---
 
+> ⚠️ **CLOSED on 2026-07-13** — this job is no longer listed on the 80,000 Hours board. Archived snapshot below.
+
 # Winter Fellowship, DC (2027)
 
-**[GovAI](https://www.governance.ai/)**
+**GovAI**
 
-<dl class="job-meta">
-<dt>Location</dt><dd>Washington, DC metro area, USA</dd>
-<dt>Role type</dt><dd>Fellowship</dd>
-<dt>Experience</dt><dd>Multiple experience levels</dd>
-<dt>Degree</dt><dd>Undergraduate degree or less</dd>
-<dt>Salary</dt><dd>$21,000</dd>
-</dl>
-
-**Areas & skills:** AI safety & policy, Research, Policy
+**Areas & skills:** AI safety & policy
 
 ## Summary
 - In this role, you'll conduct independent research on a topic of your choice in AI governance under expert mentorship.

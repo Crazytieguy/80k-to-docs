@@ -4,25 +4,20 @@ employer: "GovAI"
 job_id: "recyOF6jSfbajnXxY"
 last_updated: "2026-07-12T05:32:43.372941Z"
 posted_at: "2026-06-16T00:05:00Z"
-status: ready
+status: closed
+closed_at: "2026-07-13"
 apply_url: "https://www.governance.ai/post/winter-fellowship-2027-research-track"
 areas:
   - "AI safety & policy"
 ---
 
+> ⚠️ **CLOSED on 2026-07-13** — this job is no longer listed on the 80,000 Hours board. Archived snapshot below.
+
 # Winter Fellowship, Research Track, UK (2027)
 
-**[GovAI](https://www.governance.ai/)**
+**GovAI**
 
-<dl class="job-meta">
-<dt>Location</dt><dd>London, UK, UK, UK (Confirmed Visas)</dd>
-<dt>Role type</dt><dd>Fellowship</dd>
-<dt>Experience</dt><dd>Multiple experience levels</dd>
-<dt>Degree</dt><dd>Undergraduate degree or less</dd>
-<dt>Salary</dt><dd>$16,082</dd>
-</dl>
-
-**Areas & skills:** AI safety & policy, Research, Policy
+**Areas & skills:** AI safety & policy
 
 ## Summary
 - In this role, you'll conduct independent research on an AI governance topic of your choice under expert mentorship.

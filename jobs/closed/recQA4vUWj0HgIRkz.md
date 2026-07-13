@@ -4,24 +4,20 @@ employer: "LawZero"
 job_id: "recQA4vUWj0HgIRkz"
 last_updated: "2026-07-12T05:33:16.715979Z"
 posted_at: "2026-05-21T00:01:00Z"
-status: ready
+status: closed
+closed_at: "2026-07-13"
 apply_url: "https://job-boards.greenhouse.io/lawzero/jobs/4248028009"
 areas:
   - "AI safety & policy"
 ---
 
+> ⚠️ **CLOSED on 2026-07-13** — this job is no longer listed on the 80,000 Hours board. Archived snapshot below.
+
 # Finance Manager
 
-**[LawZero](https://lawzero.org/en)**
+**LawZero**
 
-<dl class="job-meta">
-<dt>Location</dt><dd>Montreal, Canada, Canada</dd>
-<dt>Role type</dt><dd>Full-time</dd>
-<dt>Experience</dt><dd>Mid (5-9 years experience)</dd>
-<dt>Degree</dt><dd>Undergraduate degree or less</dd>
-</dl>
-
-**Areas & skills:** AI safety & policy, Finance
+**Areas & skills:** AI safety & policy
 
 ## Summary
 - In this role, you'll oversee LawZero's financial operations across grants, treasury, accounting, budgets, and audits.

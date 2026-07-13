@@ -2,7 +2,7 @@
 title: "Technical Cyber Threat Investigator"
 employer: "Anthropic"
 job_id: "recGFnhtHhnRqAWhU"
-last_updated: "2026-07-12T05:33:39.861725Z"
+last_updated: "2026-07-13T05:33:25.877536Z"
 posted_at: "2022-01-11T00:00:00Z"
 status: ready
 apply_url: "https://job-boards.greenhouse.io/anthropic/jobs/5066995008"
@@ -34,4 +34,4 @@ areas:
 <p class="apply-cta"><a href="https://job-boards.greenhouse.io/anthropic/jobs/5066995008">Apply →</a></p>
 
 ---
-*Posted 2022-01-11 · Listing synced 2026-07-12 · 80k job ID `recGFnhtHhnRqAWhU`*
+*Posted 2022-01-11 · Listing synced 2026-07-13 · 80k job ID `recGFnhtHhnRqAWhU`*

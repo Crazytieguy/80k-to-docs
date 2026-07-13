@@ -2,7 +2,7 @@
 title: "Policy Director, Office of the Chief Executive Officer"
 employer: "Secure AI Project"
 job_id: "rec2uPwaR14XuhvNC"
-last_updated: "2026-07-12T05:32:11.352142Z"
+last_updated: "2026-07-13T05:31:58.956078Z"
 posted_at: "2026-07-06T00:05:00Z"
 status: ready
 apply_url: "https://docs.google.com/document/d/1JueX5YfErmMumMVR0IARvyg5FAEVKBoyaL3Uem1vdGc/edit?tab=t.0#heading=h.nz3oj3jqs9sp"
@@ -34,4 +34,4 @@ areas:
 <p class="apply-cta"><a href="https://docs.google.com/document/d/1JueX5YfErmMumMVR0IARvyg5FAEVKBoyaL3Uem1vdGc/edit?tab=t.0#heading=h.nz3oj3jqs9sp">Apply →</a></p>
 
 ---
-*Posted 2026-07-06 · Listing synced 2026-07-12 · 80k job ID `rec2uPwaR14XuhvNC`*
+*Posted 2026-07-06 · Listing synced 2026-07-13 · 80k job ID `rec2uPwaR14XuhvNC`*

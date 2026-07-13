@@ -4,25 +4,20 @@ employer: "The School for Moral Ambition"
 job_id: "rec1C2UMsVuzhHqtO"
 last_updated: "2026-07-12T05:32:31.887644Z"
 posted_at: "2026-06-26T00:00:00Z"
-status: ready
+status: closed
+closed_at: "2026-07-13"
 apply_url: "https://www.moralambition.org/jobs/communications-intern-community-intern"
 areas:
   - "Global health & development"
 ---
 
+> ⚠️ **CLOSED on 2026-07-13** — this job is no longer listed on the 80,000 Hours board. Archived snapshot below.
+
 # Communications Intern / Community Intern
 
-**[The School for Moral Ambition](https://www.moralambition.eu/)**
+**The School for Moral Ambition**
 
-<dl class="job-meta">
-<dt>Location</dt><dd>Amsterdam, Netherlands, Netherlands, Europe (ex UK)</dd>
-<dt>Role type</dt><dd>Internship</dd>
-<dt>Experience</dt><dd>Entry-level</dd>
-<dt>Degree</dt><dd>Undergraduate degree or less</dd>
-<dt>Salary</dt><dd>$14,614</dd>
-</dl>
-
-**Areas & skills:** Global health & development, Outreach
+**Areas & skills:** Global health & development
 
 ## Summary
 - In this role, you'll support the communications team to showcase moral ambition through stories, campaigns, and creative content.

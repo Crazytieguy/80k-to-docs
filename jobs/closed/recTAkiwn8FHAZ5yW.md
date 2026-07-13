@@ -4,24 +4,20 @@ employer: "ARENA"
 job_id: "recTAkiwn8FHAZ5yW"
 last_updated: "2026-07-12T05:32:31.024681Z"
 posted_at: "2026-06-26T00:04:29Z"
-status: ready
+status: closed
+closed_at: "2026-07-13"
 apply_url: "https://airtable.com/appZIMMH3ywSxS0A9/pagnvd5oNoOjApQQN/form"
 areas:
   - "AI safety & policy"
 ---
 
+> ⚠️ **CLOSED on 2026-07-13** — this job is no longer listed on the 80,000 Hours board. Archived snapshot below.
+
 # Participant, Arena 9.0
 
-**[ARENA](https://www.arena.education/)**
+**ARENA**
 
-<dl class="job-meta">
-<dt>Location</dt><dd>London, UK, UK, UK (Confirmed Visas)</dd>
-<dt>Role type</dt><dd>Course</dd>
-<dt>Experience</dt><dd>Entry-level</dd>
-<dt>Degree</dt><dd>Undergraduate degree or less</dd>
-</dl>
-
-**Areas & skills:** AI safety & policy, Research, Software engineering
+**Areas & skills:** AI safety & policy
 
 ## Summary
 - This program teaches technical AI safety skills for contributing directly to alignment and safety research.

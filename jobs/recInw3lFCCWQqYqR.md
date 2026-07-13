@@ -2,13 +2,13 @@
 title: "Research Fellow"
 employer: "National University of Singapore, Saw Swee Hock School of Public Health"
 job_id: "recInw3lFCCWQqYqR"
-last_updated: "2026-07-12T05:34:28.901685Z"
+last_updated: "2026-07-13T05:34:15.897054Z"
 posted_at: "2022-01-04T00:00:00Z"
 status: ready
 apply_url: "https://careers.nus.edu.sg/job/Research-Fellow-%28NUS-Advance-ID%29/29117-en_GB/"
 areas:
-  - "Biosecurity & pandemic preparedness"
   - "Global health & development"
+  - "Biosecurity & pandemic preparedness"
 ---
 
 # Research Fellow
@@ -22,7 +22,7 @@ areas:
 <dt>Degree</dt><dd>Doctoral degree</dd>
 </dl>
 
-**Areas & skills:** Biosecurity & pandemic preparedness, Global health & development, Research
+**Areas & skills:** Global health & development, Biosecurity & pandemic preparedness, Research
 
 ## Summary
 - In this role, you'll serve as a biostatistician for the ADVANCE-ID Network, developing clinical evidence for drug-resistant infections.
@@ -34,4 +34,4 @@ areas:
 <p class="apply-cta"><a href="https://careers.nus.edu.sg/job/Research-Fellow-%28NUS-Advance-ID%29/29117-en_GB/">Apply →</a></p>
 
 ---
-*Posted 2022-01-04 · Listing synced 2026-07-12 · 80k job ID `recInw3lFCCWQqYqR`*
+*Posted 2022-01-04 · Listing synced 2026-07-13 · 80k job ID `recInw3lFCCWQqYqR`*

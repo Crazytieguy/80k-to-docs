@@ -2,7 +2,7 @@
 title: "Program Manager, Responsible Scaling Policy"
 employer: "Anthropic"
 job_id: "reccfsQW1ZBpmen3b"
-last_updated: "2026-07-12T05:32:08.436115Z"
+last_updated: "2026-07-13T05:31:56.070705Z"
 posted_at: "2026-07-07T00:00:00Z"
 status: ready
 apply_url: "https://job-boards.greenhouse.io/anthropic/jobs/5252793008"
@@ -34,4 +34,4 @@ areas:
 <p class="apply-cta"><a href="https://job-boards.greenhouse.io/anthropic/jobs/5252793008">Apply →</a></p>
 
 ---
-*Posted 2026-07-07 · Listing synced 2026-07-12 · 80k job ID `reccfsQW1ZBpmen3b`*
+*Posted 2026-07-07 · Listing synced 2026-07-13 · 80k job ID `reccfsQW1ZBpmen3b`*

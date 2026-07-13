@@ -4,25 +4,20 @@ employer: "ML4Good"
 job_id: "rectnjdEGGBB5tl5I"
 last_updated: "2026-07-12T05:32:19.667295Z"
 posted_at: "2026-07-02T00:02:00Z"
-status: ready
+status: closed
+closed_at: "2026-07-13"
 apply_url: "https://frontier-ai-law.org/"
 areas:
   - "AI safety & policy"
 ---
 
+> ⚠️ **CLOSED on 2026-07-13** — this job is no longer listed on the 80,000 Hours board. Archived snapshot below.
+
 # European Seminar, Frontier AI and Law
 
-**[ML4Good](https://www.ml4good.org/)**
+**ML4Good**
 
-<dl class="job-meta">
-<dt>Location</dt><dd>Southampton, UK, UK</dd>
-<dt>Role type</dt><dd>Course</dd>
-<dt>Experience</dt><dd>Mid (5-9 years experience)</dd>
-<dt>Degree</dt><dd>Undergraduate degree or less</dd>
-<dt>Salary</dt><dd>$1,072</dd>
-</dl>
-
-**Areas & skills:** AI safety & policy, Legal
+**Areas & skills:** AI safety & policy
 
 ## Summary
 - This course teaches legal professionals the technical understanding to govern frontier AI systems.

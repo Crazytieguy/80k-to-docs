@@ -2,7 +2,7 @@
 title: "Accountant"
 employer: "Effectief Geven"
 job_id: "recgqXOq67fO5tDMQ"
-last_updated: "2026-07-12T05:34:35.083708Z"
+last_updated: "2026-07-13T05:34:22.116505Z"
 posted_at: "2022-01-02T00:00:00Z"
 status: ready
 apply_url: "https://www.effectiefgeven.be/vacatures/boekhoudkundige"
@@ -34,4 +34,4 @@ areas:
 <p class="apply-cta"><a href="https://www.effectiefgeven.be/vacatures/boekhoudkundige">Apply →</a></p>
 
 ---
-*Posted 2022-01-02 · Listing synced 2026-07-12 · 80k job ID `recgqXOq67fO5tDMQ`*
+*Posted 2022-01-02 · Listing synced 2026-07-13 · 80k job ID `recgqXOq67fO5tDMQ`*

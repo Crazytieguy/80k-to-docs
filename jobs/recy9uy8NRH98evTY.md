@@ -2,7 +2,7 @@
 title: "Compute Administrator"
 employer: "MATS Research"
 job_id: "recy9uy8NRH98evTY"
-last_updated: "2026-07-12T05:34:08.631594Z"
+last_updated: "2026-07-13T05:33:55.540968Z"
 posted_at: "2022-01-06T00:00:00Z"
 status: ready
 apply_url: "https://www.matsprogram.org/careers/compute-administrator-berkeley"
@@ -34,4 +34,4 @@ areas:
 <p class="apply-cta"><a href="https://www.matsprogram.org/careers/compute-administrator-berkeley">Apply →</a></p>
 
 ---
-*Posted 2022-01-06 · Listing synced 2026-07-12 · 80k job ID `recy9uy8NRH98evTY`*
+*Posted 2022-01-06 · Listing synced 2026-07-13 · 80k job ID `recy9uy8NRH98evTY`*

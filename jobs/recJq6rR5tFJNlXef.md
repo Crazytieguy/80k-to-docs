@@ -2,7 +2,7 @@
 title: "Security Engineer, Agent Security"
 employer: "OpenAI"
 job_id: "recJq6rR5tFJNlXef"
-last_updated: "2026-07-12T05:33:45.373775Z"
+last_updated: "2026-07-13T05:33:31.579126Z"
 posted_at: "2022-01-11T00:00:00Z"
 status: ready
 apply_url: "https://openai.com/careers/security-engineer-agent-security-san-francisco/"
@@ -34,4 +34,4 @@ areas:
 <p class="apply-cta"><a href="https://openai.com/careers/security-engineer-agent-security-san-francisco/">Apply →</a></p>
 
 ---
-*Posted 2022-01-11 · Listing synced 2026-07-12 · 80k job ID `recJq6rR5tFJNlXef`*
+*Posted 2022-01-11 · Listing synced 2026-07-13 · 80k job ID `recJq6rR5tFJNlXef`*

@@ -2,7 +2,7 @@
 title: "Fellows, Center on AI, Security, and Technology"
 employer: "RAND Corporation"
 job_id: "recr6BOSS3YvUcsTF"
-last_updated: "2026-07-12T05:32:36.889884Z"
+last_updated: "2026-07-13T05:32:26.113954Z"
 posted_at: "2026-06-22T00:00:00Z"
 status: ready
 apply_url: "https://www.rand.org/global-and-emerging-risks/centers/ai-security-and-technology/fellows.html"
@@ -33,4 +33,4 @@ areas:
 <p class="apply-cta"><a href="https://www.rand.org/global-and-emerging-risks/centers/ai-security-and-technology/fellows.html">Apply →</a></p>
 
 ---
-*Posted 2026-06-22 · Listing synced 2026-07-12 · 80k job ID `recr6BOSS3YvUcsTF`*
+*Posted 2026-06-22 · Listing synced 2026-07-13 · 80k job ID `recr6BOSS3YvUcsTF`*

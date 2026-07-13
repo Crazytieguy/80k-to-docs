@@ -4,25 +4,20 @@ employer: "Carnegie Council for Ethics in International Affairs"
 job_id: "recT0T8E35aMicl40"
 last_updated: "2026-07-12T05:32:59.734871Z"
 posted_at: "2026-06-08T00:00:00Z"
-status: ready
+status: closed
+closed_at: "2026-07-13"
 apply_url: "https://www.carnegiecouncil.org/about/jobs/harry-frank-guggenheim-fellow-for-nuclear-ethics-and-security"
 areas:
   - "Nuclear security"
 ---
 
+> ⚠️ **CLOSED on 2026-07-13** — this job is no longer listed on the 80,000 Hours board. Archived snapshot below.
+
 # Harry Frank Guggenheim Fellow for Nuclear Ethics and Security
 
-**[Carnegie Council for Ethics in International Affairs](https://www.carnegiecouncil.org/)**
+**Carnegie Council for Ethics in International Affairs**
 
-<dl class="job-meta">
-<dt>Location</dt><dd>USA</dd>
-<dt>Role type</dt><dd>Fellowship</dd>
-<dt>Experience</dt><dd>Mid (5-9 years experience)</dd>
-<dt>Degree</dt><dd>Doctoral degree</dd>
-<dt>Salary</dt><dd>$42,000</dd>
-</dl>
-
-**Areas & skills:** Nuclear security, Research, Policy
+**Areas & skills:** Nuclear security
 
 ## Summary
 - In this role, you'll lead a research and education agenda addressing nuclear ethics and the end of extended deterrence.

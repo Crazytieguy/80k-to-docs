@@ -4,25 +4,20 @@ employer: "Pulitzer Center"
 job_id: "recoFNyWfHVMXLIta"
 last_updated: "2026-07-12T05:32:23.957498Z"
 posted_at: "2026-07-01T00:01:00Z"
-status: ready
+status: closed
+closed_at: "2026-07-13"
 apply_url: "https://pulitzercenter.org/grants-fellowships/opportunities-journalists/ai-accountability-fellowships"
 areas:
   - "AI safety & policy"
 ---
 
+> ⚠️ **CLOSED on 2026-07-13** — this job is no longer listed on the 80,000 Hours board. Archived snapshot below.
+
 # AI Accountability Fellow
 
-**[Pulitzer Center](https://pulitzercenter.org/)**
+**Pulitzer Center**
 
-<dl class="job-meta">
-<dt>Location</dt><dd>Remote, Global</dd>
-<dt>Role type</dt><dd>Fellowship</dd>
-<dt>Experience</dt><dd>Junior (1-4 years experience)</dd>
-<dt>Degree</dt><dd>Undergraduate degree or less</dd>
-<dt>Salary</dt><dd>$25,000</dd>
-</dl>
-
-**Areas & skills:** AI safety & policy, Other
+**Areas & skills:** AI safety & policy
 
 ## Summary
 - In this role, you'll pursue an in-depth AI accountability investigation examining how algorithms impact policy and communities.

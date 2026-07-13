@@ -2,7 +2,7 @@
 title: "Project Manager"
 employer: "Healthy Futures Global"
 job_id: "rec9eu9ZUjUKzWHa7"
-last_updated: "2026-07-12T05:32:20.820293Z"
+last_updated: "2026-07-13T05:32:09.142588Z"
 posted_at: "2026-07-02T00:00:00Z"
 status: ready
 apply_url: "https://drive.google.com/file/d/1DNwyZxd6CSnlGK4beR3AJRkEcMPYJIvy/view"
@@ -33,4 +33,4 @@ areas:
 <p class="apply-cta"><a href="https://drive.google.com/file/d/1DNwyZxd6CSnlGK4beR3AJRkEcMPYJIvy/view">Apply →</a></p>
 
 ---
-*Posted 2026-07-02 · Listing synced 2026-07-12 · 80k job ID `rec9eu9ZUjUKzWHa7`*
+*Posted 2026-07-02 · Listing synced 2026-07-13 · 80k job ID `rec9eu9ZUjUKzWHa7`*

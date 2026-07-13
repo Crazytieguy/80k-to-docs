@@ -2,7 +2,7 @@
 title: "Molecular Biology Associate"
 employer: "Active Site"
 job_id: "recTGatSHDmuj4lrG"
-last_updated: "2026-07-12T05:32:40.050499Z"
+last_updated: "2026-07-13T05:32:29.033619Z"
 posted_at: "2026-06-18T00:01:00Z"
 status: ready
 apply_url: "https://jobs.ashbyhq.com/activesite/0edb3feb-6509-43a3-8858-3064f3661936"
@@ -33,4 +33,4 @@ areas:
 <p class="apply-cta"><a href="https://jobs.ashbyhq.com/activesite/0edb3feb-6509-43a3-8858-3064f3661936">Apply →</a></p>
 
 ---
-*Posted 2026-06-18 · Listing synced 2026-07-12 · 80k job ID `recTGatSHDmuj4lrG`*
+*Posted 2026-06-18 · Listing synced 2026-07-13 · 80k job ID `recTGatSHDmuj4lrG`*

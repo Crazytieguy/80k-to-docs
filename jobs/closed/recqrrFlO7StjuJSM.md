@@ -4,24 +4,20 @@ employer: "LawZero"
 job_id: "recqrrFlO7StjuJSM"
 last_updated: "2026-07-12T05:33:11.661743Z"
 posted_at: "2026-05-27T00:00:00Z"
-status: ready
+status: closed
+closed_at: "2026-07-13"
 apply_url: "https://job-boards.greenhouse.io/lawzero/jobs/4248022009"
 areas:
   - "AI safety & policy"
 ---
 
+> ⚠️ **CLOSED on 2026-07-13** — this job is no longer listed on the 80,000 Hours board. Archived snapshot below.
+
 # Director of Development
 
-**[LawZero](https://lawzero.org/en)**
+**LawZero**
 
-<dl class="job-meta">
-<dt>Location</dt><dd>Montreal, Canada, Canada</dd>
-<dt>Role type</dt><dd>Full-time</dd>
-<dt>Experience</dt><dd>Senior (10+ years experience)</dd>
-<dt>Degree</dt><dd>Undergraduate degree or less</dd>
-</dl>
-
-**Areas & skills:** AI safety & policy, Outreach
+**Areas & skills:** AI safety & policy
 
 ## Summary
 - In this role, you'll manage relationships with major foundations and high-net-worth individuals to drive philanthropic strategy.

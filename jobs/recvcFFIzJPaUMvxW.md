@@ -2,7 +2,7 @@
 title: "Internship, Rwanda"
 employer: "One Acre Fund"
 job_id: "recvcFFIzJPaUMvxW"
-last_updated: "2026-07-12T05:33:00.383481Z"
+last_updated: "2026-07-13T05:32:47.583444Z"
 posted_at: "2026-06-08T00:00:00Z"
 status: ready
 apply_url: "https://oneacrefund.org/vacancies/rwanda-recrutement-stagiaire"
@@ -33,4 +33,4 @@ areas:
 <p class="apply-cta"><a href="https://oneacrefund.org/vacancies/rwanda-recrutement-stagiaire">Apply →</a></p>
 
 ---
-*Posted 2026-06-08 · Listing synced 2026-07-12 · 80k job ID `recvcFFIzJPaUMvxW`*
+*Posted 2026-06-08 · Listing synced 2026-07-13 · 80k job ID `recvcFFIzJPaUMvxW`*

@@ -2,13 +2,13 @@
 title: "Executive Assistant to the Chief Executive Officer"
 employer: "Nuclear Threat Initiative"
 job_id: "rec3imdKTW8iZcBlG"
-last_updated: "2026-07-12T05:32:07.496732Z"
+last_updated: "2026-07-13T05:31:55.133449Z"
 posted_at: "2026-07-07T00:04:54Z"
 status: ready
 apply_url: "https://www.nti.org/job-listing/executive-assistant-to-the-ceo/"
 areas:
-  - "Biosecurity & pandemic preparedness"
   - "Nuclear security"
+  - "Biosecurity & pandemic preparedness"
 ---
 
 # Executive Assistant to the Chief Executive Officer
@@ -23,7 +23,7 @@ areas:
 <dt>Salary</dt><dd>$100,000 – $130,000</dd>
 </dl>
 
-**Areas & skills:** Biosecurity & pandemic preparedness, Nuclear security, Operations
+**Areas & skills:** Nuclear security, Biosecurity & pandemic preparedness, Operations
 
 ## Summary
 - In this role, you'll serve as a trusted advisor to the CEO, managing executive schedules, logistics, and communications.
@@ -35,4 +35,4 @@ areas:
 <p class="apply-cta"><a href="https://www.nti.org/job-listing/executive-assistant-to-the-ceo/">Apply →</a></p>
 
 ---
-*Posted 2026-07-07 · Listing synced 2026-07-12 · 80k job ID `rec3imdKTW8iZcBlG`*
+*Posted 2026-07-07 · Listing synced 2026-07-13 · 80k job ID `rec3imdKTW8iZcBlG`*

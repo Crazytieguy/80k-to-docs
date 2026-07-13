@@ -2,7 +2,7 @@
 title: "Expression of Interest, Chem Bio Team"
 employer: "UK Government, AI Security Institute"
 job_id: "recYkouKAhO8pT3PQ"
-last_updated: "2026-07-12T05:32:13.126928Z"
+last_updated: "2026-07-13T05:32:00.627577Z"
 posted_at: "2026-07-06T00:01:00Z"
 status: ready
 apply_url: "https://job-boards.eu.greenhouse.io/aisi/jobs/4919338101"
@@ -20,7 +20,7 @@ areas:
 <dt>Role type</dt><dd>Full-time</dd>
 <dt>Experience</dt><dd>Multiple experience levels</dd>
 <dt>Degree</dt><dd>Undergraduate degree or less</dd>
-<dt>Salary</dt><dd>$87,111 – $194,324</dd>
+<dt>Salary</dt><dd>$86,968 – $194,006</dd>
 </dl>
 
 **Areas & skills:** AI safety & policy, Biosecurity & pandemic preparedness, Research, Policy, Software engineering
@@ -35,4 +35,4 @@ areas:
 <p class="apply-cta"><a href="https://job-boards.eu.greenhouse.io/aisi/jobs/4919338101">Apply →</a></p>
 
 ---
-*Posted 2026-07-06 · Listing synced 2026-07-12 · 80k job ID `recYkouKAhO8pT3PQ`*
+*Posted 2026-07-06 · Listing synced 2026-07-13 · 80k job ID `recYkouKAhO8pT3PQ`*

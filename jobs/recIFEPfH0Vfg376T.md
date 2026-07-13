@@ -2,7 +2,7 @@
 title: "Exceptional Talent"
 employer: "BlueDot Impact"
 job_id: "recIFEPfH0Vfg376T"
-last_updated: "2026-07-12T05:34:18.132677Z"
+last_updated: "2026-07-13T05:34:05.504454Z"
 posted_at: "2022-01-05T00:00:00Z"
 status: ready
 apply_url: "https://bluedot.org/join-us/talent"
@@ -30,4 +30,4 @@ areas:
 <p class="apply-cta"><a href="https://bluedot.org/join-us/talent">Apply →</a></p>
 
 ---
-*Posted 2022-01-05 · Listing synced 2026-07-12 · 80k job ID `recIFEPfH0Vfg376T`*
+*Posted 2022-01-05 · Listing synced 2026-07-13 · 80k job ID `recIFEPfH0Vfg376T`*
