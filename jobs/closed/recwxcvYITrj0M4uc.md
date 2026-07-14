@@ -4,25 +4,20 @@ employer: "Encode"
 job_id: "recwxcvYITrj0M4uc"
 last_updated: "2026-07-13T05:32:54.577823Z"
 posted_at: "2026-06-02T00:00:00Z"
-status: ready
+status: closed
+closed_at: "2026-07-14"
 apply_url: "https://docs.google.com/document/d/1R1jCGo4_oPzCUuvGd-TSO6QkLC5SnHkHFktmLj4tGIU/edit?tab=t.0"
 areas:
   - "AI safety & policy"
 ---
 
+> ⚠️ **CLOSED on 2026-07-14** — this job is no longer listed on the 80,000 Hours board. Archived snapshot below.
+
 # Policy Advisor, Coalitions
 
-**[Encode](https://encodeai.org/)**
+**Encode**
 
-<dl class="job-meta">
-<dt>Location</dt><dd>Washington, DC metro area, USA</dd>
-<dt>Role type</dt><dd>Full-time</dd>
-<dt>Experience</dt><dd>Junior (1-4 years experience), Mid (5-9 years experience)</dd>
-<dt>Degree</dt><dd>Undergraduate degree or less</dd>
-<dt>Salary</dt><dd>$120,000 – $180,000</dd>
-</dl>
-
-**Areas & skills:** AI safety & policy, Policy, Outreach
+**Areas & skills:** AI safety & policy
 
 ## Summary
 - In this role, you'll build coalitions to drive AI policy priorities forward across federal and state campaigns.

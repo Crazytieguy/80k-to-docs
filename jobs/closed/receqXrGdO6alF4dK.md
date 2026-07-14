@@ -4,24 +4,20 @@ employer: "Vanguard Charitable"
 job_id: "receqXrGdO6alF4dK"
 last_updated: "2026-07-13T05:32:46.198777Z"
 posted_at: "2026-06-09T00:00:00Z"
-status: ready
+status: closed
+closed_at: "2026-07-14"
 apply_url: "https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=0c68d588-8c9c-408d-9476-64d2fbc7640d&ccId=19000101_000001&jobId=630292&source=LR&lang=en_US&source=LI&source=LI"
 areas:
   - "Career development: Technical"
 ---
 
+> ⚠️ **CLOSED on 2026-07-14** — this job is no longer listed on the 80,000 Hours board. Archived snapshot below.
+
 # Emerging Talent Development Program
 
-**[Vanguard Charitable](https://www.vanguardcharitable.org/)**
+**Vanguard Charitable**
 
-<dl class="job-meta">
-<dt>Location</dt><dd>Philadelphia, PA, USA</dd>
-<dt>Role type</dt><dd>Full-time</dd>
-<dt>Experience</dt><dd>Entry-level</dd>
-<dt>Degree</dt><dd>Undergraduate degree or less</dd>
-</dl>
-
-**Areas & skills:** Career development: Technical, Operations, Strategy
+**Areas & skills:** Career development: Technical
 
 ## Summary
 - In this role, you'll participate in a structured rotational program across multiple corporate functions at a leading grant-making organization.

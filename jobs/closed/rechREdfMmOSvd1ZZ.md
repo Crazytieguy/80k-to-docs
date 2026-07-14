@@ -4,25 +4,20 @@ employer: "International Institute for Strategic Studies"
 job_id: "rechREdfMmOSvd1ZZ"
 last_updated: "2026-07-13T05:31:56.894150Z"
 posted_at: "2026-07-07T00:00:00Z"
-status: ready
+status: closed
+closed_at: "2026-07-14"
 apply_url: "https://www.iiss.org/careers/jobs/2026/07/iissamericas-research-internship-on-technology-trade-and-geopolitics/"
 areas:
   - "Career development: Policy & government"
 ---
 
+> ⚠️ **CLOSED on 2026-07-14** — this job is no longer listed on the 80,000 Hours board. Archived snapshot below.
+
 # Internship, Technology, Trade and Geopolitics, IISS–Americas
 
-**[International Institute for Strategic Studies](https://www.iiss.org/)**
+**International Institute for Strategic Studies**
 
-<dl class="job-meta">
-<dt>Location</dt><dd>Washington, DC metro area, USA</dd>
-<dt>Role type</dt><dd>Internship</dd>
-<dt>Experience</dt><dd>Entry-level</dd>
-<dt>Degree</dt><dd>Undergraduate degree or less</dd>
-<dt>Salary</dt><dd>$37,440</dd>
-</dl>
-
-**Areas & skills:** Career development: Policy & government, Research, Policy
+**Areas & skills:** Career development: Policy & government
 
 ## Summary
 - In this role, you'll support IISS–Americas' research program on technology, trade and geopolitics through research, events and outreach.

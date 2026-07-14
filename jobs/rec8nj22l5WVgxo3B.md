@@ -2,7 +2,7 @@
 title: "Internship, Communications"
 employer: "National Committee on US-China Relations"
 job_id: "rec8nj22l5WVgxo3B"
-last_updated: "2026-07-13T05:34:27.663029Z"
+last_updated: "2026-07-14T05:34:24.857816Z"
 posted_at: "2022-01-02T00:00:00Z"
 status: ready
 apply_url: "https://www.ncuscr.org/internships/#communications-internship"
@@ -33,4 +33,4 @@ areas:
 <p class="apply-cta"><a href="https://www.ncuscr.org/internships/#communications-internship">Apply →</a></p>
 
 ---
-*Posted 2022-01-02 · Listing synced 2026-07-13 · 80k job ID `rec8nj22l5WVgxo3B`*
+*Posted 2022-01-02 · Listing synced 2026-07-14 · 80k job ID `rec8nj22l5WVgxo3B`*

@@ -4,25 +4,20 @@ employer: "Lambda"
 job_id: "recAZR4mjFMiVe7hU"
 last_updated: "2026-07-13T05:32:05.065798Z"
 posted_at: "2026-07-03T00:00:00Z"
-status: ready
+status: closed
+closed_at: "2026-07-14"
 apply_url: "https://jobs.ashbyhq.com/Lambda/0663f04c-097d-414f-b0a0-414a7cf153d6"
 areas:
   - "Career development: Technical"
 ---
 
+> ⚠️ **CLOSED on 2026-07-14** — this job is no longer listed on the 80,000 Hours board. Archived snapshot below.
+
 # Intern, Security Engineering (Summer 2026)
 
-**[Lambda](https://lambda.ai/)**
+**Lambda**
 
-<dl class="job-meta">
-<dt>Location</dt><dd>San Francisco Bay Area, USA</dd>
-<dt>Role type</dt><dd>Internship</dd>
-<dt>Experience</dt><dd>Entry-level</dd>
-<dt>Degree</dt><dd>Undergraduate degree or less</dd>
-<dt>Salary</dt><dd>$97,760 – $131,040</dd>
-</dl>
-
-**Areas & skills:** Career development: Technical, Software engineering, Information security
+**Areas & skills:** Career development: Technical
 
 ## Summary
 - In this role, you'll ship production security detections protecting Lambda's AI infrastructure.

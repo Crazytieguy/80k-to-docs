@@ -4,24 +4,20 @@ employer: "Adobe"
 job_id: "recvRwypdVhUJsFzU"
 last_updated: "2026-07-13T05:34:18.657875Z"
 posted_at: "2022-01-02T00:00:00Z"
-status: ready
+status: closed
+closed_at: "2026-07-14"
 apply_url: "https://careers.adobe.com/us/en/job/R158493/2026-AI-ML-Intern-Machine-Learning-Engineer"
 areas:
   - "Career development: Technical"
 ---
 
+> ⚠️ **CLOSED on 2026-07-14** — this job is no longer listed on the 80,000 Hours board. Archived snapshot below.
+
 # AI / ML Intern, Machine Learning (2026)
 
-**[Adobe](https://www.adobe.com/)**
+**Adobe**
 
-<dl class="job-meta">
-<dt>Location</dt><dd>Various, USA, USA</dd>
-<dt>Role type</dt><dd>Internship</dd>
-<dt>Experience</dt><dd>Entry-level</dd>
-<dt>Degree</dt><dd>Undergraduate degree or less</dd>
-</dl>
-
-**Areas & skills:** Career development: Technical, Software engineering
+**Areas & skills:** Career development: Technical
 
 ## Summary
 - In this role, you'll work as a Machine Learning Engineer intern, applying AI/ML techniques to real-world problems.

@@ -4,25 +4,20 @@ employer: "Government of California, Office of Emergency Services"
 job_id: "recq8I3Tt1rsa99N0"
 last_updated: "2026-07-13T05:32:04.880947Z"
 posted_at: "2026-07-03T00:00:00Z"
-status: ready
+status: closed
+closed_at: "2026-07-14"
 apply_url: "https://calcareers.ca.gov/CalHrPublic/Jobs/JobPosting.aspx?JobControlId=523056"
 areas:
   - "AI safety & policy"
 ---
 
+> ⚠️ **CLOSED on 2026-07-14** — this job is no longer listed on the 80,000 Hours board. Archived snapshot below.
+
 # Cyber Policy and Strategy Planner
 
-**[Government of California, Office of Emergency Services](https://www.caloes.ca.gov/)**
+**Government of California, Office of Emergency Services**
 
-<dl class="job-meta">
-<dt>Location</dt><dd>Sacramento, CA, USA</dd>
-<dt>Role type</dt><dd>Full-time</dd>
-<dt>Experience</dt><dd>Junior (1-4 years experience), Mid (5-9 years experience)</dd>
-<dt>Degree</dt><dd>Undergraduate degree or less</dd>
-<dt>Salary</dt><dd>$103,500 – $138,684</dd>
-</dl>
-
-**Areas & skills:** AI safety & policy, Policy
+**Areas & skills:** AI safety & policy
 
 ## Summary
 - In this role, you'll support California's AI Safety Reporting Program by designing and refining AI safety policies, analysing incident reports, and preparing legislative reports.

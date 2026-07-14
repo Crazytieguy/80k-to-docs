@@ -4,24 +4,20 @@ employer: "grantmaking.ai"
 job_id: "rece0qzTNzw1k0Lyw"
 last_updated: "2026-07-13T05:32:14.629556Z"
 posted_at: "2026-06-30T00:03:00Z"
-status: ready
+status: closed
+closed_at: "2026-07-14"
 apply_url: "https://app.grantmaking.ai/apply/launch"
 areas:
   - "AI safety & policy"
 ---
 
+> ⚠️ **CLOSED on 2026-07-14** — this job is no longer listed on the 80,000 Hours board. Archived snapshot below.
+
 # Grants, Launch Round
 
-**[grantmaking.ai](https://www.grantmaking.ai/)**
+**grantmaking.ai**
 
-<dl class="job-meta">
-<dt>Location</dt><dd>Remote, Global</dd>
-<dt>Role type</dt><dd>Funding</dd>
-<dt>Experience</dt><dd>Multiple experience levels</dd>
-<dt>Degree</dt><dd>Undergraduate degree or less</dd>
-</dl>
-
-**Areas & skills:** AI safety & policy, Strategy
+**Areas & skills:** AI safety & policy
 
 ## Summary
 - This grant round funds projects aimed at reducing x-risk from AI, including career changes and exploratory work.

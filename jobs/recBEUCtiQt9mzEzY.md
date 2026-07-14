@@ -2,7 +2,7 @@
 title: "Research Lead"
 employer: "FAR AI"
 job_id: "recBEUCtiQt9mzEzY"
-last_updated: "2026-07-13T05:33:18.543008Z"
+last_updated: "2026-07-14T05:33:16.916348Z"
 posted_at: "2026-04-28T00:05:00Z"
 status: ready
 apply_url: "https://jobs.ashbyhq.com/far.ai/a7b0dbea-e1ac-45c3-9e74-e400f65913c6?embed=js"
@@ -34,4 +34,4 @@ areas:
 <p class="apply-cta"><a href="https://jobs.ashbyhq.com/far.ai/a7b0dbea-e1ac-45c3-9e74-e400f65913c6?embed=js">Apply →</a></p>
 
 ---
-*Posted 2026-04-28 · Listing synced 2026-07-13 · 80k job ID `recBEUCtiQt9mzEzY`*
+*Posted 2026-04-28 · Listing synced 2026-07-14 · 80k job ID `recBEUCtiQt9mzEzY`*

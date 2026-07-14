@@ -2,7 +2,7 @@
 title: "Volunteer, Video Editor"
 employer: "PauseAI"
 job_id: "recIWsU6bC7LE53eL"
-last_updated: "2026-07-13T05:32:13.192897Z"
+last_updated: "2026-07-14T05:32:16.043669Z"
 posted_at: "2026-07-01T00:00:00Z"
 status: ready
 apply_url: "https://pauseai.info/vacancies"
@@ -33,4 +33,4 @@ areas:
 <p class="apply-cta"><a href="https://pauseai.info/vacancies">Apply →</a></p>
 
 ---
-*Posted 2026-07-01 · Listing synced 2026-07-13 · 80k job ID `recIWsU6bC7LE53eL`*
+*Posted 2026-07-01 · Listing synced 2026-07-14 · 80k job ID `recIWsU6bC7LE53eL`*

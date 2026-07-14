@@ -2,23 +2,28 @@
 title: "Senior Engineering Lead, Chemical and Biological"
 employer: "UK Government, AI Security Institute"
 job_id: "recHoPgVWmHJwzB8Q"
-last_updated: "2026-07-12T05:33:55.802237Z"
+last_updated: "2026-07-14T05:33:38.544423Z"
 posted_at: "2022-01-07T00:00:00Z"
-status: closed
-closed_at: "2026-07-13"
+status: ready
 apply_url: "https://job-boards.eu.greenhouse.io/aisi/jobs/4833252101"
 areas:
   - "AI safety & policy"
   - "Biosecurity & pandemic preparedness"
 ---
 
-> ⚠️ **CLOSED on 2026-07-13** — this job is no longer listed on the 80,000 Hours board. Archived snapshot below.
-
 # Senior Engineering Lead, Chemical and Biological
 
-**UK Government, AI Security Institute**
+**[UK Government, AI Security Institute](https://www.aisi.gov.uk/)**
 
-**Areas & skills:** AI safety & policy, Biosecurity & pandemic preparedness
+<dl class="job-meta">
+<dt>Location</dt><dd>London, UK, UK</dd>
+<dt>Role type</dt><dd>Full-time</dd>
+<dt>Experience</dt><dd>Mid (5-9 years experience)</dd>
+<dt>Degree</dt><dd>Undergraduate degree or less</dd>
+<dt>Salary</dt><dd>$86,876 – $193,800</dd>
+</dl>
+
+**Areas & skills:** AI safety & policy, Biosecurity & pandemic preparedness, Software engineering, Management
 
 ## Summary
 - In this role, you'll lead CB's engineering team, setting technical direction and owning the platform roadmap for shared infrastructure and tools.
@@ -30,4 +35,4 @@ areas:
 <p class="apply-cta"><a href="https://job-boards.eu.greenhouse.io/aisi/jobs/4833252101">Apply →</a></p>
 
 ---
-*Posted 2022-01-07 · Listing synced 2026-07-12 · 80k job ID `recHoPgVWmHJwzB8Q`*
+*Posted 2022-01-07 · Listing synced 2026-07-14 · 80k job ID `recHoPgVWmHJwzB8Q`*

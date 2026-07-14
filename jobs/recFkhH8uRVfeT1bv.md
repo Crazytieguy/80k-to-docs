@@ -2,7 +2,7 @@
 title: "Expression of Interest, Office of the Chief Executive Officer"
 employer: "Coefficient Giving"
 job_id: "recFkhH8uRVfeT1bv"
-last_updated: "2026-07-13T05:32:26.994623Z"
+last_updated: "2026-07-14T05:32:28.475190Z"
 posted_at: "2026-06-19T00:02:00Z"
 status: ready
 apply_url: "https://jobs.ashbyhq.com/coefficientgiving/b954a741-6d8a-47d3-85ea-16877369f007"
@@ -33,4 +33,4 @@ areas:
 <p class="apply-cta"><a href="https://jobs.ashbyhq.com/coefficientgiving/b954a741-6d8a-47d3-85ea-16877369f007">Apply →</a></p>
 
 ---
-*Posted 2026-06-19 · Listing synced 2026-07-13 · 80k job ID `recFkhH8uRVfeT1bv`*
+*Posted 2026-06-19 · Listing synced 2026-07-14 · 80k job ID `recFkhH8uRVfeT1bv`*

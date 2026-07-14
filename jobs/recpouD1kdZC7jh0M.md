@@ -2,7 +2,7 @@
 title: "Fund, Multi-Agent Safety"
 employer: "Cooperative AI Foundation"
 job_id: "recpouD1kdZC7jh0M"
-last_updated: "2026-07-13T05:31:49.577058Z"
+last_updated: "2026-07-14T05:31:55.519746Z"
 posted_at: "2026-07-09T00:01:00Z"
 status: ready
 apply_url: "https://www.cooperativeai.com/calls-for-proposals/scaling-ai-safety-for-a-multi-agent-world"
@@ -32,4 +32,4 @@ areas:
 <p class="apply-cta"><a href="https://www.cooperativeai.com/calls-for-proposals/scaling-ai-safety-for-a-multi-agent-world">Apply →</a></p>
 
 ---
-*Posted 2026-07-09 · Listing synced 2026-07-13 · 80k job ID `recpouD1kdZC7jh0M`*
+*Posted 2026-07-09 · Listing synced 2026-07-14 · 80k job ID `recpouD1kdZC7jh0M`*

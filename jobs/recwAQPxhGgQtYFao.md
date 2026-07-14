@@ -2,7 +2,7 @@
 title: "Security Architect"
 employer: "Goodfire"
 job_id: "recwAQPxhGgQtYFao"
-last_updated: "2026-07-13T05:34:09.560855Z"
+last_updated: "2026-07-14T05:34:06.680887Z"
 posted_at: "2022-01-05T00:00:00Z"
 status: ready
 apply_url: "https://job-boards.greenhouse.io/goodfire/jobs/5071691008"
@@ -34,4 +34,4 @@ areas:
 <p class="apply-cta"><a href="https://job-boards.greenhouse.io/goodfire/jobs/5071691008">Apply →</a></p>
 
 ---
-*Posted 2022-01-05 · Listing synced 2026-07-13 · 80k job ID `recwAQPxhGgQtYFao`*
+*Posted 2022-01-05 · Listing synced 2026-07-14 · 80k job ID `recwAQPxhGgQtYFao`*

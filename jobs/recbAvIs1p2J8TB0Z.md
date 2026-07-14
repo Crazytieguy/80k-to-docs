@@ -2,7 +2,7 @@
 title: "Research Engineer, Interpretability"
 employer: "Anthropic"
 job_id: "recbAvIs1p2J8TB0Z"
-last_updated: "2026-07-13T05:33:24.359557Z"
+last_updated: "2026-07-14T05:33:22.667541Z"
 posted_at: "2022-01-11T00:00:00Z"
 status: ready
 apply_url: "https://job-boards.greenhouse.io/anthropic/jobs/4980430008"
@@ -34,4 +34,4 @@ areas:
 <p class="apply-cta"><a href="https://job-boards.greenhouse.io/anthropic/jobs/4980430008">Apply →</a></p>
 
 ---
-*Posted 2022-01-11 · Listing synced 2026-07-13 · 80k job ID `recbAvIs1p2J8TB0Z`*
+*Posted 2022-01-11 · Listing synced 2026-07-14 · 80k job ID `recbAvIs1p2J8TB0Z`*

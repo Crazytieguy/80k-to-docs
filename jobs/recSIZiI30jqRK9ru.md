@@ -2,7 +2,7 @@
 title: "Operations Generalist"
 employer: "SL5 Task Force"
 job_id: "recSIZiI30jqRK9ru"
-last_updated: "2026-07-13T05:32:08.123422Z"
+last_updated: "2026-07-14T05:32:11.812634Z"
 posted_at: "2026-07-02T00:01:00Z"
 status: ready
 apply_url: "https://jobs.ashbyhq.com/security-level-5/619e1bee-d6ac-44cc-86cd-85cf4ba7376f"
@@ -34,4 +34,4 @@ areas:
 <p class="apply-cta"><a href="https://jobs.ashbyhq.com/security-level-5/619e1bee-d6ac-44cc-86cd-85cf4ba7376f">Apply →</a></p>
 
 ---
-*Posted 2026-07-02 · Listing synced 2026-07-13 · 80k job ID `recSIZiI30jqRK9ru`*
+*Posted 2026-07-02 · Listing synced 2026-07-14 · 80k job ID `recSIZiI30jqRK9ru`*

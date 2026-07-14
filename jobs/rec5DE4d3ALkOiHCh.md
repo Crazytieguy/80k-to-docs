@@ -2,7 +2,7 @@
 title: "Expression of Interest, Director / Co-Director"
 employer: "Zurich AI Safety"
 job_id: "rec5DE4d3ALkOiHCh"
-last_updated: "2026-07-13T05:34:01.215673Z"
+last_updated: "2026-07-14T05:33:58.101747Z"
 posted_at: "2022-01-06T00:00:00Z"
 status: ready
 apply_url: "https://forum.effectivealtruism.org/posts/NvvHgGxojoTEq2HkA/zurich-ai-safety-is-looking-for-co-directors-eoi"
@@ -19,7 +19,7 @@ areas:
 <dt>Role type</dt><dd>Full-time</dd>
 <dt>Experience</dt><dd>Junior (1-4 years experience)</dd>
 <dt>Degree</dt><dd>Undergraduate degree or less</dd>
-<dt>Salary</dt><dd>$80,273 – $104,972</dd>
+<dt>Salary</dt><dd>$79,879 – $104,457</dd>
 </dl>
 
 **Areas & skills:** AI safety & policy, Outreach, Strategy
@@ -34,4 +34,4 @@ areas:
 <p class="apply-cta"><a href="https://forum.effectivealtruism.org/posts/NvvHgGxojoTEq2HkA/zurich-ai-safety-is-looking-for-co-directors-eoi">Apply →</a></p>
 
 ---
-*Posted 2022-01-06 · Listing synced 2026-07-13 · 80k job ID `rec5DE4d3ALkOiHCh`*
+*Posted 2022-01-06 · Listing synced 2026-07-14 · 80k job ID `rec5DE4d3ALkOiHCh`*

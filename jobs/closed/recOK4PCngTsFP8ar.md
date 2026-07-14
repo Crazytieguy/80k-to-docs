@@ -4,25 +4,20 @@ employer: "Siemens"
 job_id: "recOK4PCngTsFP8ar"
 last_updated: "2026-07-13T05:32:50.857394Z"
 posted_at: "2026-06-05T00:00:00Z"
-status: ready
+status: closed
+closed_at: "2026-07-14"
 apply_url: "https://jobs.siemens.com/en_US/externaljobs/JobDetail/506371?source=LinkedIn&sourceType=PREMIUM_POST_SITE"
 areas:
   - "Career development: Technical"
 ---
 
+> ⚠️ **CLOSED on 2026-07-14** — this job is no longer listed on the 80,000 Hours board. Archived snapshot below.
+
 # Internship, Cybersecurity and AI Research, AI and Software Development
 
-**[Siemens](http://siemens.com/)**
+**Siemens**
 
-<dl class="job-meta">
-<dt>Location</dt><dd>Princeton, NJ, USA</dd>
-<dt>Role type</dt><dd>Internship</dd>
-<dt>Experience</dt><dd>Entry-level</dd>
-<dt>Degree</dt><dd>Undergraduate degree or less</dd>
-<dt>Salary</dt><dd>$66,560 – $97,760</dd>
-</dl>
-
-**Areas & skills:** Career development: Technical, Research, Information security
+**Areas & skills:** Career development: Technical
 
 ## Summary
 - In this role, you'll develop and test LLM-based autonomous cyber agents to address cybersecurity challenges in industrial environments.

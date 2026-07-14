@@ -4,25 +4,20 @@ employer: "Encode"
 job_id: "recmYhrWQik1nGwnB"
 last_updated: "2026-07-13T05:33:48.078690Z"
 posted_at: "2022-01-06T00:00:00Z"
-status: ready
+status: closed
+closed_at: "2026-07-14"
 apply_url: "https://docs.google.com/document/d/1UxruiF1jo5s956wbyRZp_SNrE1y4SNE0MF3-MkM5sqQ/edit?tab=t.0#heading=h.oqz3pmpx7801"
 areas:
   - "AI safety & policy"
 ---
 
+> ⚠️ **CLOSED on 2026-07-14** — this job is no longer listed on the 80,000 Hours board. Archived snapshot below.
+
 # Policy Analyst / Director
 
-**[Encode](https://encodeai.org/)**
+**Encode**
 
-<dl class="job-meta">
-<dt>Location</dt><dd>Washington, DC metro area, USA</dd>
-<dt>Role type</dt><dd>Full-time</dd>
-<dt>Experience</dt><dd>Junior (1-4 years experience), Mid (5-9 years experience)</dd>
-<dt>Degree</dt><dd>Undergraduate degree or less</dd>
-<dt>Salary</dt><dd>$110,000</dd>
-</dl>
-
-**Areas & skills:** AI safety & policy, Research, Policy
+**Areas & skills:** AI safety & policy
 
 ## Summary
 - In this role, you'll drive full-stack policy development across the organization, focusing on AI governance and public interest advocacy.

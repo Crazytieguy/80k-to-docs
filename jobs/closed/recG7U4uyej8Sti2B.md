@@ -4,24 +4,20 @@ employer: "Cambridge University, Department of Engineering"
 job_id: "recG7U4uyej8Sti2B"
 last_updated: "2026-07-13T05:33:16.492713Z"
 posted_at: "2026-05-01T00:00:00Z"
-status: ready
+status: closed
+closed_at: "2026-07-14"
 apply_url: "https://www.cam.ac.uk/jobs/phd-studentship-in-monitoring-and-increasing-llm-safety-nm49585-0"
 areas:
   - "AI safety & policy"
 ---
 
+> ⚠️ **CLOSED on 2026-07-14** — this job is no longer listed on the 80,000 Hours board. Archived snapshot below.
+
 # PhD Studentship, Monitoring and Increasing LLM Safety
 
-**[Cambridge University, Department of Engineering](http://www.eng.cam.ac.uk/)**
+**Cambridge University, Department of Engineering**
 
-<dl class="job-meta">
-<dt>Location</dt><dd>Cambridge, UK, UK</dd>
-<dt>Role type</dt><dd>Other</dd>
-<dt>Experience</dt><dd>Entry-level</dd>
-<dt>Degree</dt><dd>Undergraduate degree or less</dd>
-</dl>
-
-**Areas & skills:** AI safety & policy, Research, Software engineering
+**Areas & skills:** AI safety & policy
 
 ## Summary
 - In this studentship, you'll pursue a PhD exploring large language model safety through mechanistic interpretability and behavioural research.
