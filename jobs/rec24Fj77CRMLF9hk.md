@@ -2,7 +2,7 @@
 title: "Intern, Human Resources"
 employer: "Pure Earth"
 job_id: "rec24Fj77CRMLF9hk"
-last_updated: "2026-07-14T05:33:03.931799Z"
+last_updated: "2026-07-15T05:32:37.240557Z"
 posted_at: "2026-05-21T00:00:00Z"
 status: ready
 apply_url: "https://app.trinethire.com/companies/586876-pure-earth/jobs/120688-human-resources-internship"
@@ -34,4 +34,4 @@ areas:
 <p class="apply-cta"><a href="https://app.trinethire.com/companies/586876-pure-earth/jobs/120688-human-resources-internship">Apply →</a></p>
 
 ---
-*Posted 2026-05-21 · Listing synced 2026-07-14 · 80k job ID `rec24Fj77CRMLF9hk`*
+*Posted 2026-05-21 · Listing synced 2026-07-15 · 80k job ID `rec24Fj77CRMLF9hk`*

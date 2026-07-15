@@ -2,7 +2,7 @@
 title: "Operations Associate / Manager"
 employer: "Cambridge AI Safety Hub"
 job_id: "recZAUejWlSNIaXTK"
-last_updated: "2026-07-14T05:31:56.924544Z"
+last_updated: "2026-07-15T05:31:52.345370Z"
 posted_at: "2026-07-08T00:02:00Z"
 status: ready
 apply_url: "https://caish.org/hiring"
@@ -19,7 +19,7 @@ areas:
 <dt>Role type</dt><dd>Full-time</dd>
 <dt>Experience</dt><dd>Junior (1-4 years experience), Entry-level</dd>
 <dt>Degree</dt><dd>Undergraduate degree or less</dd>
-<dt>Salary</dt><dd>$53,462 – $86,876</dd>
+<dt>Salary</dt><dd>$53,618 – $87,129</dd>
 </dl>
 
 **Areas & skills:** AI safety & policy, Operations
@@ -34,4 +34,4 @@ areas:
 <p class="apply-cta"><a href="https://caish.org/hiring">Apply →</a></p>
 
 ---
-*Posted 2026-07-08 · Listing synced 2026-07-14 · 80k job ID `recZAUejWlSNIaXTK`*
+*Posted 2026-07-08 · Listing synced 2026-07-15 · 80k job ID `recZAUejWlSNIaXTK`*

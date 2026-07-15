@@ -4,24 +4,20 @@ employer: "SaferAI"
 job_id: "rec2blDEcPcTZmSwN"
 last_updated: "2026-07-14T05:33:54.118742Z"
 posted_at: "2022-01-06T00:00:00Z"
-status: ready
+status: closed
+closed_at: "2026-07-15"
 apply_url: "https://www.safer-ai.org/jobs/frontier-ai-risk-management-governance-researcher"
 areas:
   - "AI safety & policy"
 ---
 
+> ⚠️ **CLOSED on 2026-07-15** — this job is no longer listed on the 80,000 Hours board. Archived snapshot below.
+
 # Governance Researcher, Frontier AI Risk Management
 
-**[SaferAI](https://www.safer-ai.org/)**
+**SaferAI**
 
-<dl class="job-meta">
-<dt>Location</dt><dd>London, UK, Paris, France, UK, France, Europe (ex UK)</dd>
-<dt>Role type</dt><dd>Full-time</dd>
-<dt>Experience</dt><dd>Junior (1-4 years experience)</dd>
-<dt>Degree</dt><dd>Master's degree</dd>
-</dl>
-
-**Areas & skills:** AI safety & policy, Research, Policy
+**Areas & skills:** AI safety & policy
 
 ## Summary
 - In this role, you'll work with frontier AI companies and governments to assess and strengthen AI risk management frameworks and methodology.

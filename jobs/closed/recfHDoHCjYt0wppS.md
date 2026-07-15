@@ -4,24 +4,20 @@ employer: "Faculty"
 job_id: "recfHDoHCjYt0wppS"
 last_updated: "2026-07-14T05:31:58.409138Z"
 posted_at: "2026-07-08T00:00:00Z"
-status: ready
+status: closed
+closed_at: "2026-07-15"
 apply_url: "https://faculty.ai/fellowship-fellows/"
 areas:
   - "Career development: Technical"
 ---
 
+> ⚠️ **CLOSED on 2026-07-15** — this job is no longer listed on the 80,000 Hours board. Archived snapshot below.
+
 # Fellowship, Data Science (October 2026)
 
-**[Faculty](https://faculty.ai/)**
+**Faculty**
 
-<dl class="job-meta">
-<dt>Location</dt><dd>London, UK, UK</dd>
-<dt>Role type</dt><dd>Fellowship</dd>
-<dt>Experience</dt><dd>Entry-level</dd>
-<dt>Degree</dt><dd>Master's degree</dd>
-</dl>
-
-**Areas & skills:** Career development: Technical, Software engineering
+**Areas & skills:** Career development: Technical
 
 ## Summary
 - In this eight-week fellowship combining intensive training and hands-on project work, you'll transition from academia to data science.

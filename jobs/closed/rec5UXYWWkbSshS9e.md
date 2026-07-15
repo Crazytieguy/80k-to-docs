@@ -4,24 +4,20 @@ employer: "MATS Research"
 job_id: "rec5UXYWWkbSshS9e"
 last_updated: "2026-07-14T05:32:10.635284Z"
 posted_at: "2026-07-02T00:05:00Z"
-status: ready
+status: closed
+closed_at: "2026-07-15"
 apply_url: "https://www.matsprogram.org/careers/executive-business-partner-london"
 areas:
   - "AI safety & policy"
 ---
 
+> ⚠️ **CLOSED on 2026-07-15** — this job is no longer listed on the 80,000 Hours board. Archived snapshot below.
+
 # Executive Business Partner
 
-**[MATS Research](https://www.matsprogram.org/)**
+**MATS Research**
 
-<dl class="job-meta">
-<dt>Location</dt><dd>London, UK, UK</dd>
-<dt>Role type</dt><dd>Full-time</dd>
-<dt>Experience</dt><dd>Junior (1-4 years experience)</dd>
-<dt>Degree</dt><dd>Undergraduate degree or less</dd>
-</dl>
-
-**Areas & skills:** AI safety & policy, Operations
+**Areas & skills:** AI safety & policy
 
 ## Summary
 - In this role, you'll serve as the operational backbone for three senior leaders, managing their calendars and priorities across transatlantic operations.

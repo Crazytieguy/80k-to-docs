@@ -4,25 +4,20 @@ employer: "Epoch AI"
 job_id: "reciM9HoYqhbElqqo"
 last_updated: "2026-07-14T05:32:04.504538Z"
 posted_at: "2026-07-06T00:04:37Z"
-status: ready
+status: closed
+closed_at: "2026-07-15"
 apply_url: "https://jobs.lever.co/epoch-ai/71202beb-84f1-4f2e-ad9d-f325b64c9b24"
 areas:
   - "AI safety & policy"
 ---
 
+> ⚠️ **CLOSED on 2026-07-15** — this job is no longer listed on the 80,000 Hours board. Archived snapshot below.
+
 # Finance Specialist / Manager
 
-**[Epoch AI](https://epoch.ai)**
+**Epoch AI**
 
-<dl class="job-meta">
-<dt>Location</dt><dd>Remote, Global</dd>
-<dt>Role type</dt><dd>Full-time</dd>
-<dt>Experience</dt><dd>Junior (1-4 years experience)</dd>
-<dt>Degree</dt><dd>Undergraduate degree or less</dd>
-<dt>Salary</dt><dd>$80,000 – $140,000</dd>
-</dl>
-
-**Areas & skills:** AI safety & policy, Finance
+**Areas & skills:** AI safety & policy
 
 ## Summary
 - In this role, you'll manage accounting and finance operations, overseeing daily accounting, reporting, and financial oversight.

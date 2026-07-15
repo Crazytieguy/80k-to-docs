@@ -2,10 +2,10 @@
 title: "Senior Researcher, MIT AI Risk Initiative"
 employer: "Massachusetts Institute of Technology, FutureTech"
 job_id: "recE1bsSGuS0GB2Mr"
-last_updated: "2026-07-14T05:34:08.687295Z"
+last_updated: "2026-07-15T05:33:23.371348Z"
 posted_at: "2022-01-05T00:00:00Z"
 status: ready
-apply_url: "https://forum.effectivealtruism.org/posts/GxvzNniYDtTKpSjdi/senior-researcher-mit-ai-risk-initiative"
+apply_url: "https://futuretech.mit.edu/opportunities/senior-researcher---mit-ai-risk-initiative"
 areas:
   - "AI safety & policy"
 ---
@@ -30,7 +30,7 @@ areas:
 - Engage with stakeholders across government, industry, and research to ensure outputs meet user needs.
 - Manage research projects end-to-end, including scoping, timelines, and team leadership.
 
-<p class="apply-cta"><a href="https://forum.effectivealtruism.org/posts/GxvzNniYDtTKpSjdi/senior-researcher-mit-ai-risk-initiative">Apply →</a></p>
+<p class="apply-cta"><a href="https://futuretech.mit.edu/opportunities/senior-researcher---mit-ai-risk-initiative">Apply →</a></p>
 
 ---
-*Posted 2022-01-05 · Listing synced 2026-07-14 · 80k job ID `recE1bsSGuS0GB2Mr`*
+*Posted 2022-01-05 · Listing synced 2026-07-15 · 80k job ID `recE1bsSGuS0GB2Mr`*

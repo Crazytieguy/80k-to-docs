@@ -2,7 +2,7 @@
 title: "Research Fellowship, Geopolitical and Industrial Interests in the Production Chain of Computing Power"
 employer: "General-Purpose AI Policy Lab"
 job_id: "recLqjsitGyBla1nx"
-last_updated: "2026-07-14T05:32:48.573016Z"
+last_updated: "2026-07-15T05:32:27.884928Z"
 posted_at: "2026-06-05T00:01:00Z"
 status: ready
 apply_url: "https://docs.google.com/document/d/1n-UNaqDQUbEiIK8I6AgyXJ0Uc7s6bIST1sQs1x3hZT0/edit?tab=t.0"
@@ -33,4 +33,4 @@ areas:
 <p class="apply-cta"><a href="https://docs.google.com/document/d/1n-UNaqDQUbEiIK8I6AgyXJ0Uc7s6bIST1sQs1x3hZT0/edit?tab=t.0">Apply →</a></p>
 
 ---
-*Posted 2026-06-05 · Listing synced 2026-07-14 · 80k job ID `recLqjsitGyBla1nx`*
+*Posted 2026-06-05 · Listing synced 2026-07-15 · 80k job ID `recLqjsitGyBla1nx`*

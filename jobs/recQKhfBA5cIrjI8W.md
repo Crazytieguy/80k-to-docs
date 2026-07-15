@@ -2,7 +2,7 @@
 title: "Senior Engagement Manager, Scenarios Advisory"
 employer: "Windfall Trust"
 job_id: "recQKhfBA5cIrjI8W"
-last_updated: "2026-07-14T05:32:28.269712Z"
+last_updated: "2026-07-15T05:32:13.798344Z"
 posted_at: "2026-06-22T00:00:00Z"
 status: ready
 apply_url: "https://jobs.ashbyhq.com/windfall/6ee76fd2-df83-482d-af1f-9f0d81313b18"
@@ -34,4 +34,4 @@ areas:
 <p class="apply-cta"><a href="https://jobs.ashbyhq.com/windfall/6ee76fd2-df83-482d-af1f-9f0d81313b18">Apply →</a></p>
 
 ---
-*Posted 2026-06-22 · Listing synced 2026-07-14 · 80k job ID `recQKhfBA5cIrjI8W`*
+*Posted 2026-06-22 · Listing synced 2026-07-15 · 80k job ID `recQKhfBA5cIrjI8W`*

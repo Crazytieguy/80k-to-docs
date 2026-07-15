@@ -2,7 +2,7 @@
 title: "Presidential Fellow"
 employer: "Howard Hughes Medical Institute"
 job_id: "recsOyzPOtmztvLOn"
-last_updated: "2026-07-14T05:33:05.142593Z"
+last_updated: "2026-07-15T05:32:38.066571Z"
 posted_at: "2026-05-20T00:00:00Z"
 status: ready
 apply_url: "https://hhmi.wd1.myworkdayjobs.com/en-US/External/details/Presidential-Fellow_R-4295-1?q=fellow"
@@ -34,4 +34,4 @@ areas:
 <p class="apply-cta"><a href="https://hhmi.wd1.myworkdayjobs.com/en-US/External/details/Presidential-Fellow_R-4295-1?q=fellow">Apply →</a></p>
 
 ---
-*Posted 2026-05-20 · Listing synced 2026-07-14 · 80k job ID `recsOyzPOtmztvLOn`*
+*Posted 2026-05-20 · Listing synced 2026-07-15 · 80k job ID `recsOyzPOtmztvLOn`*

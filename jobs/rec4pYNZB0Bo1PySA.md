@@ -2,7 +2,7 @@
 title: "Distributed Organizing Manager"
 employer: "Humans in Control"
 job_id: "rec4pYNZB0Bo1PySA"
-last_updated: "2026-07-14T05:33:12.474162Z"
+last_updated: "2026-07-15T05:32:43.061050Z"
 posted_at: "2026-05-08T00:03:00Z"
 status: ready
 apply_url: "https://humansincontrol.org/careers/distributed-organizing-manager"
@@ -34,4 +34,4 @@ areas:
 <p class="apply-cta"><a href="https://humansincontrol.org/careers/distributed-organizing-manager">Apply →</a></p>
 
 ---
-*Posted 2026-05-08 · Listing synced 2026-07-14 · 80k job ID `rec4pYNZB0Bo1PySA`*
+*Posted 2026-05-08 · Listing synced 2026-07-15 · 80k job ID `rec4pYNZB0Bo1PySA`*

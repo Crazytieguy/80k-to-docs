@@ -4,24 +4,20 @@ employer: "Massachusetts Institute of Technology, FutureTech"
 job_id: "reczxG2TRFeieMEWc"
 last_updated: "2026-07-14T05:31:48.984029Z"
 posted_at: "2026-07-13T00:03:00Z"
-status: ready
+status: closed
+closed_at: "2026-07-15"
 apply_url: "https://futuretech.mit.edu/opportunities/senior-researcher---mit-ai-risk-initiative"
 areas:
   - "AI safety & policy"
 ---
 
+> ⚠️ **CLOSED on 2026-07-15** — this job is no longer listed on the 80,000 Hours board. Archived snapshot below.
+
 # Senior Researcher, MIT AI Risk Initiative
 
-**[Massachusetts Institute of Technology, FutureTech](https://futuretech.mit.edu/)**
+**Massachusetts Institute of Technology, FutureTech**
 
-<dl class="job-meta">
-<dt>Location</dt><dd>Boston metro area, USA</dd>
-<dt>Role type</dt><dd>Full-time</dd>
-<dt>Experience</dt><dd>Mid (5-9 years experience)</dd>
-<dt>Degree</dt><dd>Undergraduate degree or less</dd>
-</dl>
-
-**Areas & skills:** AI safety & policy, Research, Management
+**Areas & skills:** AI safety & policy
 
 ## Summary
 - In this role, you'll lead applied research workstreams to help decision-makers understand AI risks, mitigations, and implementation gaps.

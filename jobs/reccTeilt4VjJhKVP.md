@@ -2,7 +2,7 @@
 title: "Senior Technical AI Safety Research Manager"
 employer: "Meridian"
 job_id: "reccTeilt4VjJhKVP"
-last_updated: "2026-07-14T05:32:12.791860Z"
+last_updated: "2026-07-15T05:32:02.545337Z"
 posted_at: "2026-07-02T00:00:00Z"
 status: ready
 apply_url: "https://www.meridiancambridge.org/senior-technical-ai-safety-research-manager"
@@ -19,7 +19,7 @@ areas:
 <dt>Role type</dt><dd>Full-time</dd>
 <dt>Experience</dt><dd>Mid (5-9 years experience)</dd>
 <dt>Degree</dt><dd>Undergraduate degree or less</dd>
-<dt>Salary</dt><dd>$86,876 – $133,655</dd>
+<dt>Salary</dt><dd>$87,129 – $134,044</dd>
 </dl>
 
 **Areas & skills:** AI safety & policy, Research, Management
@@ -34,4 +34,4 @@ areas:
 <p class="apply-cta"><a href="https://www.meridiancambridge.org/senior-technical-ai-safety-research-manager">Apply →</a></p>
 
 ---
-*Posted 2026-07-02 · Listing synced 2026-07-14 · 80k job ID `reccTeilt4VjJhKVP`*
+*Posted 2026-07-02 · Listing synced 2026-07-15 · 80k job ID `reccTeilt4VjJhKVP`*

@@ -4,25 +4,20 @@ employer: "Future of Privacy Forum"
 job_id: "recRuqvgp3rTFLL3o"
 last_updated: "2026-07-14T05:33:46.032602Z"
 posted_at: "2022-01-06T00:00:00Z"
-status: ready
+status: closed
+closed_at: "2026-07-15"
 apply_url: "https://fpf.org/analyst-counsel-ai-governance/?message=pantheon-cleared-url-cache"
 areas:
   - "AI safety & policy"
 ---
 
+> ⚠️ **CLOSED on 2026-07-15** — this job is no longer listed on the 80,000 Hours board. Archived snapshot below.
+
 # Senior Analyst / Counsel, AI Governance
 
-**[Future of Privacy Forum](https://fpf.org/)**
+**Future of Privacy Forum**
 
-<dl class="job-meta">
-<dt>Location</dt><dd>Washington, DC metro area, USA</dd>
-<dt>Role type</dt><dd>Full-time</dd>
-<dt>Experience</dt><dd>Junior (1-4 years experience), Mid (5-9 years experience)</dd>
-<dt>Degree</dt><dd>Master's degree</dd>
-<dt>Salary</dt><dd>$115,000 – $140,000</dd>
-</dl>
-
-**Areas & skills:** AI safety & policy, Research, Policy, Legal
+**Areas & skills:** AI safety & policy
 
 ## Summary
 - In this role, you'll lead corporate AI risk management and governance efforts, overseeing a broad AI law and policy portfolio.
