@@ -2,7 +2,7 @@
 title: "Events Producer"
 employer: "Windfall Trust"
 job_id: "recuMR5DoHqqKz2Jj"
-last_updated: "2026-07-15T05:32:13.517675Z"
+last_updated: "2026-07-16T05:32:27.449465Z"
 posted_at: "2026-06-22T00:00:00Z"
 status: ready
 apply_url: "https://jobs.ashbyhq.com/windfall/f77efc24-0d57-4efa-be19-77d472e967d8"
@@ -34,4 +34,4 @@ areas:
 <p class="apply-cta"><a href="https://jobs.ashbyhq.com/windfall/f77efc24-0d57-4efa-be19-77d472e967d8">Apply →</a></p>
 
 ---
-*Posted 2026-06-22 · Listing synced 2026-07-15 · 80k job ID `recuMR5DoHqqKz2Jj`*
+*Posted 2026-06-22 · Listing synced 2026-07-16 · 80k job ID `recuMR5DoHqqKz2Jj`*

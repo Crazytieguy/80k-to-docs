@@ -2,7 +2,7 @@
 title: "Doctoral Researchers, Natural Language Processing and AI, Ubiquitous Knowledge Processing Lab"
 employer: "Technical University of Darmstadt, Department of Computer Science"
 job_id: "reckXf3nKYlUpZ3to"
-last_updated: "2026-07-15T05:31:58.898845Z"
+last_updated: "2026-07-16T05:32:12.688560Z"
 posted_at: "2026-07-06T00:00:00Z"
 status: ready
 apply_url: "https://www.informatik.tu-darmstadt.de/ukp/ukp_home/jobs_ukp/index.en.jsp"
@@ -33,4 +33,4 @@ areas:
 <p class="apply-cta"><a href="https://www.informatik.tu-darmstadt.de/ukp/ukp_home/jobs_ukp/index.en.jsp">Apply →</a></p>
 
 ---
-*Posted 2026-07-06 · Listing synced 2026-07-15 · 80k job ID `reckXf3nKYlUpZ3to`*
+*Posted 2026-07-06 · Listing synced 2026-07-16 · 80k job ID `reckXf3nKYlUpZ3to`*

@@ -2,7 +2,7 @@
 title: "Technical Program Manager, Frontier Safety, Alignment and Collaboration"
 employer: "Google DeepMind"
 job_id: "recwhzkK05drRiyGv"
-last_updated: "2026-07-15T05:31:53.589358Z"
+last_updated: "2026-07-16T05:32:07.958249Z"
 posted_at: "2026-07-08T00:00:00Z"
 status: ready
 apply_url: "https://www.google.com/about/careers/applications/jobs/results/124817330986197702-technical-program-manager-frontier-safety-alignment-and-collaboration-deepmind?company=DeepMind"
@@ -34,4 +34,4 @@ areas:
 <p class="apply-cta"><a href="https://www.google.com/about/careers/applications/jobs/results/124817330986197702-technical-program-manager-frontier-safety-alignment-and-collaboration-deepmind?company=DeepMind">Apply →</a></p>
 
 ---
-*Posted 2026-07-08 · Listing synced 2026-07-15 · 80k job ID `recwhzkK05drRiyGv`*
+*Posted 2026-07-08 · Listing synced 2026-07-16 · 80k job ID `recwhzkK05drRiyGv`*

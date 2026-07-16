@@ -2,7 +2,7 @@
 title: "Request for Proposals, Part-Time SEO and GEO Consultant"
 employer: "Effective Altruism Hong Kong"
 job_id: "recVdLTZ43k0mpK51"
-last_updated: "2026-07-15T05:32:27.755608Z"
+last_updated: "2026-07-16T05:32:40.465604Z"
 posted_at: "2026-06-05T00:02:00Z"
 status: ready
 apply_url: "https://www.eahongkong.org/rfp-seo-consultant"
@@ -33,4 +33,4 @@ areas:
 <p class="apply-cta"><a href="https://www.eahongkong.org/rfp-seo-consultant">Apply →</a></p>
 
 ---
-*Posted 2026-06-05 · Listing synced 2026-07-15 · 80k job ID `recVdLTZ43k0mpK51`*
+*Posted 2026-06-05 · Listing synced 2026-07-16 · 80k job ID `recVdLTZ43k0mpK51`*

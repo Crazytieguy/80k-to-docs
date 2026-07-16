@@ -2,7 +2,7 @@
 title: "People Operations Manager"
 employer: "Safe AI Forum"
 job_id: "recSrSngAg8IWjnG8"
-last_updated: "2026-07-15T05:32:07.129338Z"
+last_updated: "2026-07-16T05:32:21.817572Z"
 posted_at: "2026-06-29T00:05:00Z"
 status: ready
 apply_url: "https://saif.org/opportunities/people-operations-manager-2/"
@@ -19,7 +19,7 @@ areas:
 <dt>Role type</dt><dd>Full-time</dd>
 <dt>Experience</dt><dd>Junior (1-4 years experience)</dd>
 <dt>Degree</dt><dd>Undergraduate degree or less</dd>
-<dt>Salary</dt><dd>$99,712 – $115,168</dd>
+<dt>Salary</dt><dd>$100,696 – $116,305</dd>
 </dl>
 
 **Areas & skills:** AI safety & policy, Operations
@@ -34,4 +34,4 @@ areas:
 <p class="apply-cta"><a href="https://saif.org/opportunities/people-operations-manager-2/">Apply →</a></p>
 
 ---
-*Posted 2026-06-29 · Listing synced 2026-07-15 · 80k job ID `recSrSngAg8IWjnG8`*
+*Posted 2026-06-29 · Listing synced 2026-07-16 · 80k job ID `recSrSngAg8IWjnG8`*

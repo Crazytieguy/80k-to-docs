@@ -2,7 +2,7 @@
 title: "Specialist, Technical AI Governance"
 employer: "Simon Institute for Longterm Governance"
 job_id: "recS3GMFnzg2JCI32"
-last_updated: "2026-07-15T05:31:46.497712Z"
+last_updated: "2026-07-16T05:32:00.231725Z"
 posted_at: "2026-07-13T00:04:06Z"
 status: ready
 apply_url: "https://simoninstitute.ch/jobs/technical-ai-governance-specialist"
@@ -19,7 +19,7 @@ areas:
 <dt>Role type</dt><dd>Full-time</dd>
 <dt>Experience</dt><dd>Multiple experience levels</dd>
 <dt>Degree</dt><dd>Undergraduate degree or less</dd>
-<dt>Salary</dt><dd>$123,568 – $172,995</dd>
+<dt>Salary</dt><dd>$124,059 – $173,682</dd>
 </dl>
 
 **Areas & skills:** AI safety & policy, Research, Policy
@@ -34,4 +34,4 @@ areas:
 <p class="apply-cta"><a href="https://simoninstitute.ch/jobs/technical-ai-governance-specialist">Apply →</a></p>
 
 ---
-*Posted 2026-07-13 · Listing synced 2026-07-15 · 80k job ID `recS3GMFnzg2JCI32`*
+*Posted 2026-07-13 · Listing synced 2026-07-16 · 80k job ID `recS3GMFnzg2JCI32`*

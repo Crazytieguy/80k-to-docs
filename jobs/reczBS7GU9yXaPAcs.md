@@ -2,7 +2,7 @@
 title: "Senior Community Manager"
 employer: "Founders Pledge"
 job_id: "reczBS7GU9yXaPAcs"
-last_updated: "2026-07-15T05:31:43.806726Z"
+last_updated: "2026-07-16T05:31:57.632223Z"
 posted_at: "2026-07-14T00:02:00Z"
 status: ready
 apply_url: "https://careers.founderspledge.com/jobs/8063550-senior-community-manager"
@@ -33,4 +33,4 @@ areas:
 <p class="apply-cta"><a href="https://careers.founderspledge.com/jobs/8063550-senior-community-manager">Apply →</a></p>
 
 ---
-*Posted 2026-07-14 · Listing synced 2026-07-15 · 80k job ID `reczBS7GU9yXaPAcs`*
+*Posted 2026-07-14 · Listing synced 2026-07-16 · 80k job ID `reczBS7GU9yXaPAcs`*

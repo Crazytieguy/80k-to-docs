@@ -2,7 +2,7 @@
 title: "Course, National Security Law and AI (Summer 2026)"
 employer: "Vista Institute for AI Policy"
 job_id: "recalSCAV1w2rIV3P"
-last_updated: "2026-07-15T05:31:45.543929Z"
+last_updated: "2026-07-16T05:31:59.313920Z"
 posted_at: "2026-07-14T00:00:00Z"
 status: ready
 apply_url: "https://vistainstituteai.org/programs/national-security-law-ai"
@@ -32,4 +32,4 @@ areas:
 <p class="apply-cta"><a href="https://vistainstituteai.org/programs/national-security-law-ai">Apply →</a></p>
 
 ---
-*Posted 2026-07-14 · Listing synced 2026-07-15 · 80k job ID `recalSCAV1w2rIV3P`*
+*Posted 2026-07-14 · Listing synced 2026-07-16 · 80k job ID `recalSCAV1w2rIV3P`*

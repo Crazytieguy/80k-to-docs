@@ -2,7 +2,7 @@
 title: "UX Intern"
 employer: "Hortus AI"
 job_id: "rec39ssCHX85ujAUz"
-last_updated: "2026-07-15T05:33:09.146984Z"
+last_updated: "2026-07-16T05:33:19.884252Z"
 posted_at: "2022-01-06T00:00:00Z"
 status: ready
 apply_url: "https://docs.google.com/document/d/1X08pWxN4_7X9bOS3VL8OkrIPeT51NDl1ImsjbJGOg8c/edit"
@@ -33,4 +33,4 @@ areas:
 <p class="apply-cta"><a href="https://docs.google.com/document/d/1X08pWxN4_7X9bOS3VL8OkrIPeT51NDl1ImsjbJGOg8c/edit">Apply →</a></p>
 
 ---
-*Posted 2022-01-06 · Listing synced 2026-07-15 · 80k job ID `rec39ssCHX85ujAUz`*
+*Posted 2022-01-06 · Listing synced 2026-07-16 · 80k job ID `rec39ssCHX85ujAUz`*

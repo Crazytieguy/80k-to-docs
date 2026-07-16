@@ -2,7 +2,7 @@
 title: "Senior Recruiter"
 employer: "GiveWell"
 job_id: "recrLas1gHkcOPYSo"
-last_updated: "2026-07-15T05:32:57.651860Z"
+last_updated: "2026-07-16T05:33:10.902126Z"
 posted_at: "2022-01-08T00:00:00Z"
 status: ready
 apply_url: "https://grnh.se/vysh3wwe8us"
@@ -17,7 +17,7 @@ areas:
 <dl class="job-meta">
 <dt>Location</dt><dd>Remote, USA, USA</dd>
 <dt>Role type</dt><dd>Full-time</dd>
-<dt>Experience</dt><dd>Junior (1-4 years experience), Mid (5-9 years experience)</dd>
+<dt>Experience</dt><dd>Junior (1-4 years experience)</dd>
 <dt>Degree</dt><dd>Undergraduate degree or less</dd>
 <dt>Salary</dt><dd>$136,000 – $149,600</dd>
 </dl>
@@ -34,4 +34,4 @@ areas:
 <p class="apply-cta"><a href="https://grnh.se/vysh3wwe8us">Apply →</a></p>
 
 ---
-*Posted 2022-01-08 · Listing synced 2026-07-15 · 80k job ID `recrLas1gHkcOPYSo`*
+*Posted 2022-01-08 · Listing synced 2026-07-16 · 80k job ID `recrLas1gHkcOPYSo`*

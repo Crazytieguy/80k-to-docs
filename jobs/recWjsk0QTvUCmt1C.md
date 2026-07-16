@@ -2,7 +2,7 @@
 title: "Chief of Staff"
 employer: "Center for AI Safety"
 job_id: "recWjsk0QTvUCmt1C"
-last_updated: "2026-07-15T05:32:39.758324Z"
+last_updated: "2026-07-16T05:32:52.322992Z"
 posted_at: "2026-05-18T00:05:00Z"
 status: ready
 apply_url: "https://jobs.lever.co/aisafety/6e096bf8-3589-48e0-bfd4-7cba55eb91a8"
@@ -34,4 +34,4 @@ areas:
 <p class="apply-cta"><a href="https://jobs.lever.co/aisafety/6e096bf8-3589-48e0-bfd4-7cba55eb91a8">Apply →</a></p>
 
 ---
-*Posted 2026-05-18 · Listing synced 2026-07-15 · 80k job ID `recWjsk0QTvUCmt1C`*
+*Posted 2026-05-18 · Listing synced 2026-07-16 · 80k job ID `recWjsk0QTvUCmt1C`*

@@ -2,8 +2,8 @@
 title: "Opportunities, West Africa"
 employer: "Innovations for Poverty Action"
 job_id: "recQQK5AJ0W7GaSnQ"
-last_updated: "2026-07-15T05:33:42.223474Z"
-posted_at: "2022-01-01T00:00:00Z"
+last_updated: "2026-07-16T05:33:45.787745Z"
+posted_at: "2022-01-02T00:00:00Z"
 status: ready
 apply_url: "https://poverty-action.org/current-opportunities#:~:text=Associate%20Research%20Manager-,West%20Africa,-Ghana"
 areas:
@@ -17,7 +17,7 @@ areas:
 <dl class="job-meta">
 <dt>Location</dt><dd>Nigeria, Burkina Faso, Ghana, Sierra Leone, Africa, Côte d'Ivoire</dd>
 <dt>Role type</dt><dd>Full-time</dd>
-<dt>Experience</dt><dd>Multiple experience levels</dd>
+<dt>Experience</dt><dd>Junior (1-4 years experience)</dd>
 <dt>Degree</dt><dd>Undergraduate degree or less</dd>
 </dl>
 
@@ -30,4 +30,4 @@ areas:
 <p class="apply-cta"><a href="https://poverty-action.org/current-opportunities#:~:text=Associate%20Research%20Manager-,West%20Africa,-Ghana">Apply →</a></p>
 
 ---
-*Posted 2022-01-01 · Listing synced 2026-07-15 · 80k job ID `recQQK5AJ0W7GaSnQ`*
+*Posted 2022-01-02 · Listing synced 2026-07-16 · 80k job ID `recQQK5AJ0W7GaSnQ`*

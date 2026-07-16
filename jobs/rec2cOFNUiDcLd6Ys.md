@@ -1,8 +1,8 @@
 ---
-title: "Junior Program Manager / Senior Program Manager"
+title: "Junior Program Manager"
 employer: "Rethink Wellbeing"
 job_id: "rec2cOFNUiDcLd6Ys"
-last_updated: "2026-07-15T05:33:35.027200Z"
+last_updated: "2026-07-16T05:33:47.971157Z"
 posted_at: "2022-01-02T00:00:00Z"
 status: ready
 apply_url: "https://docs.google.com/forms/d/e/1FAIpQLSeJmBjaIbBDT2AaFpTYSfCoDNlafY2BgQpKubqLgfMyeOPG1A/viewform"
@@ -10,14 +10,14 @@ areas:
   - "Global health & development"
 ---
 
-# Junior Program Manager / Senior Program Manager
+# Junior Program Manager
 
 **[Rethink Wellbeing](https://www.rethinkwellbeing.org/)**
 
 <dl class="job-meta">
 <dt>Location</dt><dd>Remote, Global</dd>
 <dt>Role type</dt><dd>Full-time</dd>
-<dt>Experience</dt><dd>Junior (1-4 years experience), Mid (5-9 years experience)</dd>
+<dt>Experience</dt><dd>Junior (1-4 years experience)</dd>
 <dt>Degree</dt><dd>Master's degree</dd>
 <dt>Salary</dt><dd>$15,000 – $20,000</dd>
 </dl>
@@ -34,4 +34,4 @@ areas:
 <p class="apply-cta"><a href="https://docs.google.com/forms/d/e/1FAIpQLSeJmBjaIbBDT2AaFpTYSfCoDNlafY2BgQpKubqLgfMyeOPG1A/viewform">Apply →</a></p>
 
 ---
-*Posted 2022-01-02 · Listing synced 2026-07-15 · 80k job ID `rec2cOFNUiDcLd6Ys`*
+*Posted 2022-01-02 · Listing synced 2026-07-16 · 80k job ID `rec2cOFNUiDcLd6Ys`*

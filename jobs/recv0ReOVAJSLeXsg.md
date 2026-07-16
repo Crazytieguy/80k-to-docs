@@ -2,8 +2,8 @@
 title: "Jobs and Opportunities in Nuclear Fusion Energy Development"
 employer: "US Fusion Energy"
 job_id: "recv0ReOVAJSLeXsg"
-last_updated: "2026-07-15T05:33:44.577506Z"
-posted_at: "2022-01-01T00:00:00Z"
+last_updated: "2026-07-16T05:33:49.634260Z"
+posted_at: "2022-01-02T00:00:00Z"
 status: ready
 apply_url: "https://usfusionenergy.org/opportunities"
 areas:
@@ -17,7 +17,7 @@ areas:
 <dl class="job-meta">
 <dt>Location</dt><dd>Various, USA, USA</dd>
 <dt>Role type</dt><dd>Full-time</dd>
-<dt>Experience</dt><dd>Multiple experience levels</dd>
+<dt>Experience</dt><dd>Junior (1-4 years experience)</dd>
 <dt>Degree</dt><dd>Undergraduate degree or less</dd>
 </dl>
 
@@ -30,4 +30,4 @@ areas:
 <p class="apply-cta"><a href="https://usfusionenergy.org/opportunities">Apply →</a></p>
 
 ---
-*Posted 2022-01-01 · Listing synced 2026-07-15 · 80k job ID `recv0ReOVAJSLeXsg`*
+*Posted 2022-01-02 · Listing synced 2026-07-16 · 80k job ID `recv0ReOVAJSLeXsg`*

@@ -2,7 +2,7 @@
 title: "Program Officer"
 employer: "GiveWell"
 job_id: "recI7fvVdkvYk3qpJ"
-last_updated: "2026-07-15T05:32:17.124794Z"
+last_updated: "2026-07-16T05:32:29.810744Z"
 posted_at: "2026-06-17T00:00:00Z"
 status: ready
 apply_url: "https://job-boards.greenhouse.io/givewell/jobs/5263759008"
@@ -17,7 +17,7 @@ areas:
 <dl class="job-meta">
 <dt>Location</dt><dd>Remote, Global, Remote, USA, USA, USA (Confirmed Visas)</dd>
 <dt>Role type</dt><dd>Full-time</dd>
-<dt>Experience</dt><dd>Junior (1-4 years experience), Mid (5-9 years experience)</dd>
+<dt>Experience</dt><dd>Junior (1-4 years experience)</dd>
 <dt>Degree</dt><dd>Undergraduate degree or less</dd>
 <dt>Salary</dt><dd>$200,000 – $220,000</dd>
 </dl>
@@ -34,4 +34,4 @@ areas:
 <p class="apply-cta"><a href="https://job-boards.greenhouse.io/givewell/jobs/5263759008">Apply →</a></p>
 
 ---
-*Posted 2026-06-17 · Listing synced 2026-07-15 · 80k job ID `recI7fvVdkvYk3qpJ`*
+*Posted 2026-06-17 · Listing synced 2026-07-16 · 80k job ID `recI7fvVdkvYk3qpJ`*

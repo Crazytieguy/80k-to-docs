@@ -2,7 +2,7 @@
 title: "Programme Advisor, Artificial Intelligence"
 employer: "The Elders"
 job_id: "reckdLNTIebCmcjqe"
-last_updated: "2026-07-15T05:31:55.156685Z"
+last_updated: "2026-07-16T05:32:09.551685Z"
 posted_at: "2026-07-07T00:01:00Z"
 status: ready
 apply_url: "https://theelders.org/news/we-are-recruiting-programme-advisor-artificial-intelligence"
@@ -19,7 +19,7 @@ areas:
 <dt>Role type</dt><dd>Full-time</dd>
 <dt>Experience</dt><dd>Mid (5-9 years experience), Senior (10+ years experience)</dd>
 <dt>Degree</dt><dd>Undergraduate degree or less</dd>
-<dt>Salary</dt><dd>$74,797 – $80,963</dd>
+<dt>Salary</dt><dd>$75,535 – $81,762</dd>
 </dl>
 
 **Areas & skills:** AI safety & policy, Outreach, Strategy
@@ -34,4 +34,4 @@ areas:
 <p class="apply-cta"><a href="https://theelders.org/news/we-are-recruiting-programme-advisor-artificial-intelligence">Apply →</a></p>
 
 ---
-*Posted 2026-07-07 · Listing synced 2026-07-15 · 80k job ID `reckdLNTIebCmcjqe`*
+*Posted 2026-07-07 · Listing synced 2026-07-16 · 80k job ID `reckdLNTIebCmcjqe`*
