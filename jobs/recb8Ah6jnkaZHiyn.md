@@ -2,7 +2,7 @@
 title: "Expression of Interest"
 employer: "GovAI"
 job_id: "recb8Ah6jnkaZHiyn"
-last_updated: "2026-07-16T05:33:05.641246Z"
+last_updated: "2026-07-17T05:33:09.864042Z"
 posted_at: "2022-01-11T00:00:00Z"
 status: ready
 apply_url: "https://airtable.com/app28VlpRpSMzRs2Q/pagi6elN7olrBGaUn/form"
@@ -29,4 +29,4 @@ areas:
 <p class="apply-cta"><a href="https://airtable.com/app28VlpRpSMzRs2Q/pagi6elN7olrBGaUn/form">Apply →</a></p>
 
 ---
-*Posted 2022-01-11 · Listing synced 2026-07-16 · 80k job ID `recb8Ah6jnkaZHiyn`*
+*Posted 2022-01-11 · Listing synced 2026-07-17 · 80k job ID `recb8Ah6jnkaZHiyn`*

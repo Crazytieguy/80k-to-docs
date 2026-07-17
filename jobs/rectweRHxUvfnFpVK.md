@@ -2,7 +2,7 @@
 title: "Emerging Reporters (2026-2027)"
 employer: "ProPublica"
 job_id: "rectweRHxUvfnFpVK"
-last_updated: "2026-07-16T05:31:59.192557Z"
+last_updated: "2026-07-17T05:32:00.250353Z"
 posted_at: "2026-07-14T00:00:00Z"
 status: ready
 apply_url: "https://job-boards.greenhouse.io/propublica/jobs/4577283006"
@@ -34,4 +34,4 @@ areas:
 <p class="apply-cta"><a href="https://job-boards.greenhouse.io/propublica/jobs/4577283006">Apply →</a></p>
 
 ---
-*Posted 2026-07-14 · Listing synced 2026-07-16 · 80k job ID `rectweRHxUvfnFpVK`*
+*Posted 2026-07-14 · Listing synced 2026-07-17 · 80k job ID `rectweRHxUvfnFpVK`*

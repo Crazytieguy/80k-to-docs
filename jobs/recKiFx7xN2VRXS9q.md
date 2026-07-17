@@ -2,7 +2,7 @@
 title: "Research Engineer"
 employer: "Irregular"
 job_id: "recKiFx7xN2VRXS9q"
-last_updated: "2026-07-16T05:33:20.593561Z"
+last_updated: "2026-07-17T05:33:23.884904Z"
 posted_at: "2022-01-06T00:00:00Z"
 status: ready
 apply_url: "https://jobs.ashbyhq.com/Irregular/7e8a2432-0ed7-4fd7-8bcd-d0d89db663b3?embed=js"
@@ -33,4 +33,4 @@ areas:
 <p class="apply-cta"><a href="https://jobs.ashbyhq.com/Irregular/7e8a2432-0ed7-4fd7-8bcd-d0d89db663b3?embed=js">Apply →</a></p>
 
 ---
-*Posted 2022-01-06 · Listing synced 2026-07-16 · 80k job ID `recKiFx7xN2VRXS9q`*
+*Posted 2022-01-06 · Listing synced 2026-07-17 · 80k job ID `recKiFx7xN2VRXS9q`*

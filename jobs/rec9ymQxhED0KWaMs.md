@@ -2,10 +2,10 @@
 title: "Staff Accountant"
 employer: "GiveWell"
 job_id: "rec9ymQxhED0KWaMs"
-last_updated: "2026-07-16T05:32:28.166843Z"
+last_updated: "2026-07-17T05:32:32.266882Z"
 posted_at: "2026-06-19T00:00:00Z"
 status: ready
-apply_url: "https://job-boards.greenhouse.io/givewell/jobs/5265612008"
+apply_url: "https://grnh.se/gkxng06r8us"
 areas:
   - "Global health & development"
 ---
@@ -31,7 +31,7 @@ areas:
 - Perform and improve the monthly bank reconciliation process to increase efficiency.
 - Triage finance-related staff questions and support annual compliance processes such as audits and 990 preparation.
 
-<p class="apply-cta"><a href="https://job-boards.greenhouse.io/givewell/jobs/5265612008">Apply →</a></p>
+<p class="apply-cta"><a href="https://grnh.se/gkxng06r8us">Apply →</a></p>
 
 ---
-*Posted 2026-06-19 · Listing synced 2026-07-16 · 80k job ID `rec9ymQxhED0KWaMs`*
+*Posted 2026-06-19 · Listing synced 2026-07-17 · 80k job ID `rec9ymQxhED0KWaMs`*

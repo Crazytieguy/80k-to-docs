@@ -4,25 +4,20 @@ employer: "University of London, School of Hygiene and Tropical Medicine"
 job_id: "recdOwsCvr16jJGXM"
 last_updated: "2026-07-16T05:32:10.630013Z"
 posted_at: "2026-07-07T00:00:00Z"
-status: ready
+status: closed
+closed_at: "2026-07-17"
 apply_url: "https://jobs.lshtm.ac.uk/vacancy.aspx?ref=ITD-DCD-2026-05"
 areas:
   - "Global health & development"
 ---
 
+> ⚠️ **CLOSED on 2026-07-17** — this job is no longer listed on the 80,000 Hours board. Archived snapshot below.
+
 # Research Fellow, Malaria Control Interventions
 
-**[University of London, School of Hygiene and Tropical Medicine](https://www.lshtm.ac.uk/research/faculties/eph/ide)**
+**University of London, School of Hygiene and Tropical Medicine**
 
-<dl class="job-meta">
-<dt>Location</dt><dd>London, UK, UK</dd>
-<dt>Role type</dt><dd>Fellowship</dd>
-<dt>Experience</dt><dd>Entry-level</dd>
-<dt>Degree</dt><dd>Master's degree</dd>
-<dt>Salary</dt><dd>$61,901 – $70,218</dd>
-</dl>
-
-**Areas & skills:** Global health & development, Research, Software engineering
+**Areas & skills:** Global health & development
 
 ## Summary
 - In this role, you'll lead a project developing epidemiological methods to measure malaria control intervention effectiveness.

@@ -2,7 +2,7 @@
 title: "Product Policy Manager, Biosecurity"
 employer: "OpenAI"
 job_id: "recG60IscfVSHZIln"
-last_updated: "2026-07-16T05:32:38.609229Z"
+last_updated: "2026-07-17T05:32:42.580313Z"
 posted_at: "2026-06-09T00:00:00Z"
 status: ready
 apply_url: "https://openai.com/careers/product-policy-biosecurity-policy-manager-san-francisco/"
@@ -34,4 +34,4 @@ areas:
 <p class="apply-cta"><a href="https://openai.com/careers/product-policy-biosecurity-policy-manager-san-francisco/">Apply →</a></p>
 
 ---
-*Posted 2026-06-09 · Listing synced 2026-07-16 · 80k job ID `recG60IscfVSHZIln`*
+*Posted 2026-06-09 · Listing synced 2026-07-17 · 80k job ID `recG60IscfVSHZIln`*

@@ -2,7 +2,7 @@
 title: "Embedded Fellow, Muslim Communities and Frontier AI"
 employer: "AI Safety Asia"
 job_id: "rec896PwCPNdB3htp"
-last_updated: "2026-07-16T05:31:57.874086Z"
+last_updated: "2026-07-17T05:31:58.818240Z"
 posted_at: "2026-07-14T00:01:00Z"
 status: ready
 apply_url: "https://drive.google.com/file/d/14xXv8LS0J4DTtkb2LOOjgm72Vi6KdCcd/edit"
@@ -34,4 +34,4 @@ areas:
 <p class="apply-cta"><a href="https://drive.google.com/file/d/14xXv8LS0J4DTtkb2LOOjgm72Vi6KdCcd/edit">Apply →</a></p>
 
 ---
-*Posted 2026-07-14 · Listing synced 2026-07-16 · 80k job ID `rec896PwCPNdB3htp`*
+*Posted 2026-07-14 · Listing synced 2026-07-17 · 80k job ID `rec896PwCPNdB3htp`*

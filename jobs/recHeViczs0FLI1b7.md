@@ -2,7 +2,7 @@
 title: "Operations Associate"
 employer: "ARENA"
 job_id: "recHeViczs0FLI1b7"
-last_updated: "2026-07-16T05:31:57.389022Z"
+last_updated: "2026-07-17T05:31:58.177586Z"
 posted_at: "2026-07-14T00:04:55Z"
 status: ready
 apply_url: "https://www.arena.education/role-ops-associate"
@@ -19,7 +19,7 @@ areas:
 <dt>Role type</dt><dd>Full-time</dd>
 <dt>Experience</dt><dd>Junior (1-4 years experience)</dd>
 <dt>Degree</dt><dd>Undergraduate degree or less</dd>
-<dt>Salary</dt><dd>$60,916 – $74,452</dd>
+<dt>Salary</dt><dd>$60,565 – $74,024</dd>
 </dl>
 
 **Areas & skills:** AI safety & policy, Operations
@@ -34,4 +34,4 @@ areas:
 <p class="apply-cta"><a href="https://www.arena.education/role-ops-associate">Apply →</a></p>
 
 ---
-*Posted 2026-07-14 · Listing synced 2026-07-16 · 80k job ID `recHeViczs0FLI1b7`*
+*Posted 2026-07-14 · Listing synced 2026-07-17 · 80k job ID `recHeViczs0FLI1b7`*

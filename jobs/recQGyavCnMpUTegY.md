@@ -2,7 +2,7 @@
 title: "Team Member, Futures"
 employer: "Future of Life Institute"
 job_id: "recQGyavCnMpUTegY"
-last_updated: "2026-07-16T05:32:15.097486Z"
+last_updated: "2026-07-17T05:32:17.479572Z"
 posted_at: "2026-07-02T00:04:49Z"
 status: ready
 apply_url: "https://jobs.lever.co/futureof-life/ecee9b37-b40c-4036-8874-38fcfe48a36a"
@@ -34,4 +34,4 @@ areas:
 <p class="apply-cta"><a href="https://jobs.lever.co/futureof-life/ecee9b37-b40c-4036-8874-38fcfe48a36a">Apply →</a></p>
 
 ---
-*Posted 2026-07-02 · Listing synced 2026-07-16 · 80k job ID `recQGyavCnMpUTegY`*
+*Posted 2026-07-02 · Listing synced 2026-07-17 · 80k job ID `recQGyavCnMpUTegY`*

@@ -2,7 +2,7 @@
 title: "Threat Modelling Lead, Chemical, Biological, Radiological, and Nuclear"
 employer: "Google DeepMind"
 job_id: "recdYA5q7NIsZopXE"
-last_updated: "2026-07-16T05:32:02.947136Z"
+last_updated: "2026-07-17T05:32:04.394780Z"
 posted_at: "2026-07-10T00:00:00Z"
 status: ready
 apply_url: "https://www.google.com/about/careers/applications/jobs/results/99686956572517062-threat-modeler-lead-cbrn-deepmind?company=DeepMind"
@@ -35,4 +35,4 @@ areas:
 <p class="apply-cta"><a href="https://www.google.com/about/careers/applications/jobs/results/99686956572517062-threat-modeler-lead-cbrn-deepmind?company=DeepMind">Apply →</a></p>
 
 ---
-*Posted 2026-07-10 · Listing synced 2026-07-16 · 80k job ID `recdYA5q7NIsZopXE`*
+*Posted 2026-07-10 · Listing synced 2026-07-17 · 80k job ID `recdYA5q7NIsZopXE`*

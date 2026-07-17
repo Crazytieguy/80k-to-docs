@@ -2,7 +2,7 @@
 title: "Research Engineer"
 employer: "Resolution"
 job_id: "recolodcpBol7zk4W"
-last_updated: "2026-07-16T05:32:17.805595Z"
+last_updated: "2026-07-17T05:32:20.127893Z"
 posted_at: "2026-07-01T00:05:00Z"
 status: ready
 apply_url: "https://jobs.ashbyhq.com/resolution/ee8f984b-dc19-46e6-93a6-ad4ba66f69ae"
@@ -34,4 +34,4 @@ areas:
 <p class="apply-cta"><a href="https://jobs.ashbyhq.com/resolution/ee8f984b-dc19-46e6-93a6-ad4ba66f69ae">Apply →</a></p>
 
 ---
-*Posted 2026-07-01 · Listing synced 2026-07-16 · 80k job ID `recolodcpBol7zk4W`*
+*Posted 2026-07-01 · Listing synced 2026-07-17 · 80k job ID `recolodcpBol7zk4W`*

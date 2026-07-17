@@ -2,7 +2,7 @@
 title: "Congressional Policy Lead"
 employer: "Palisade Research"
 job_id: "recCiuIc9EjyWzILc"
-last_updated: "2026-07-16T05:32:03.964205Z"
+last_updated: "2026-07-17T05:32:05.388943Z"
 posted_at: "2026-07-09T00:05:00Z"
 status: ready
 apply_url: "https://jobs.gusto.com/postings/palisade-research-congressional-policy-lead-027ec20f-7473-4afe-a175-02ec56cf60aa"
@@ -34,4 +34,4 @@ areas:
 <p class="apply-cta"><a href="https://jobs.gusto.com/postings/palisade-research-congressional-policy-lead-027ec20f-7473-4afe-a175-02ec56cf60aa">Apply →</a></p>
 
 ---
-*Posted 2026-07-09 · Listing synced 2026-07-16 · 80k job ID `recCiuIc9EjyWzILc`*
+*Posted 2026-07-09 · Listing synced 2026-07-17 · 80k job ID `recCiuIc9EjyWzILc`*

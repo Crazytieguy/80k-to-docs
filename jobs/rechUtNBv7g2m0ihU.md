@@ -2,22 +2,27 @@
 title: "People Director"
 employer: "Founders Pledge"
 job_id: "rechUtNBv7g2m0ihU"
-last_updated: "2026-07-15T05:32:04.420195Z"
+last_updated: "2026-07-17T05:32:20.995070Z"
 posted_at: "2026-07-01T00:02:00Z"
-status: closed
-closed_at: "2026-07-16"
+status: ready
 apply_url: "https://careers.founderspledge.com/jobs/7995629-people-director"
 areas:
   - "Building effective altruism"
 ---
 
-> ⚠️ **CLOSED on 2026-07-16** — this job is no longer listed on the 80,000 Hours board. Archived snapshot below.
-
 # People Director
 
-**Founders Pledge**
+**[Founders Pledge](https://www.founderspledge.com/)**
 
-**Areas & skills:** Building effective altruism
+<dl class="job-meta">
+<dt>Location</dt><dd>London, UK, UK</dd>
+<dt>Role type</dt><dd>Full-time</dd>
+<dt>Experience</dt><dd>Senior (10+ years experience)</dd>
+<dt>Degree</dt><dd>Undergraduate degree or less</dd>
+<dt>Salary</dt><dd>$121,130 – $127,859</dd>
+</dl>
+
+**Areas & skills:** Building effective altruism, Operations, Management, Strategy
 
 ## Summary
 - In this role, you'll own people strategy and operations, advising the CEO while managing HR across the UK, US, and Germany.
@@ -29,4 +34,4 @@ areas:
 <p class="apply-cta"><a href="https://careers.founderspledge.com/jobs/7995629-people-director">Apply →</a></p>
 
 ---
-*Posted 2026-07-01 · Listing synced 2026-07-15 · 80k job ID `rechUtNBv7g2m0ihU`*
+*Posted 2026-07-01 · Listing synced 2026-07-17 · 80k job ID `rechUtNBv7g2m0ihU`*

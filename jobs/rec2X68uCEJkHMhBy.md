@@ -2,7 +2,7 @@
 title: "Program Associate, Asia"
 employer: "Lead Exposure Elimination Project"
 job_id: "rec2X68uCEJkHMhBy"
-last_updated: "2026-07-16T05:32:02.044420Z"
+last_updated: "2026-07-17T05:32:03.391106Z"
 posted_at: "2026-07-13T00:00:00Z"
 status: ready
 apply_url: "https://docs.google.com/document/d/1-7JMxHXrbzOiG6BhkT2Ts6wufYlEvpt9FaGl-erDT4U/preview?tab=t.0#heading=h.paah6hk9wnuz"
@@ -19,7 +19,7 @@ areas:
 <dt>Role type</dt><dd>Full-time</dd>
 <dt>Experience</dt><dd>Junior (1-4 years experience)</dd>
 <dt>Degree</dt><dd>Undergraduate degree or less</dd>
-<dt>Salary</dt><dd>$34,275 – $39,129</dd>
+<dt>Salary</dt><dd>$34,365 – $39,231</dd>
 </dl>
 
 **Areas & skills:** Global health & development, Policy, Outreach
@@ -34,4 +34,4 @@ areas:
 <p class="apply-cta"><a href="https://docs.google.com/document/d/1-7JMxHXrbzOiG6BhkT2Ts6wufYlEvpt9FaGl-erDT4U/preview?tab=t.0#heading=h.paah6hk9wnuz">Apply →</a></p>
 
 ---
-*Posted 2026-07-13 · Listing synced 2026-07-16 · 80k job ID `rec2X68uCEJkHMhBy`*
+*Posted 2026-07-13 · Listing synced 2026-07-17 · 80k job ID `rec2X68uCEJkHMhBy`*

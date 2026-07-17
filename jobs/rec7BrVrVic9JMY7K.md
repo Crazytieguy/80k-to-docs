@@ -2,7 +2,7 @@
 title: "Intern, Rwanda Scale Innovations"
 employer: "One Acre Fund"
 job_id: "rec7BrVrVic9JMY7K"
-last_updated: "2026-07-16T05:32:32.648375Z"
+last_updated: "2026-07-17T05:32:36.958516Z"
 posted_at: "2026-06-15T00:00:00Z"
 status: ready
 apply_url: "https://oneacrefund.org/vacancies/rwanda-scale-innovations-intern"
@@ -33,4 +33,4 @@ areas:
 <p class="apply-cta"><a href="https://oneacrefund.org/vacancies/rwanda-scale-innovations-intern">Apply →</a></p>
 
 ---
-*Posted 2026-06-15 · Listing synced 2026-07-16 · 80k job ID `rec7BrVrVic9JMY7K`*
+*Posted 2026-06-15 · Listing synced 2026-07-17 · 80k job ID `rec7BrVrVic9JMY7K`*

@@ -2,7 +2,7 @@
 title: "Intern, US Policy (Summer 2026)"
 employer: "Future of Privacy Forum"
 job_id: "recgl1sqdjiO4l1Zi"
-last_updated: "2026-07-16T05:33:44.130658Z"
+last_updated: "2026-07-17T05:33:48.368052Z"
 posted_at: "2022-01-02T00:00:00Z"
 status: ready
 apply_url: "https://fpf.org/us-policy-internships/"
@@ -34,4 +34,4 @@ areas:
 <p class="apply-cta"><a href="https://fpf.org/us-policy-internships/">Apply →</a></p>
 
 ---
-*Posted 2022-01-02 · Listing synced 2026-07-16 · 80k job ID `recgl1sqdjiO4l1Zi`*
+*Posted 2022-01-02 · Listing synced 2026-07-17 · 80k job ID `recgl1sqdjiO4l1Zi`*

@@ -4,24 +4,20 @@ employer: "Purdue University, Governance and Responsible AI Lab"
 job_id: "rec4AluRWRhRtdeIF"
 last_updated: "2026-07-16T05:32:33.098296Z"
 posted_at: "2026-06-12T00:01:00Z"
-status: ready
+status: closed
+closed_at: "2026-07-17"
 apply_url: "https://careers.purdue.edu/job/West-Lafayette-Research-Lab-Administrator-IN-47906/41851-en_US/"
 areas:
   - "AI safety & policy"
 ---
 
+> ⚠️ **CLOSED on 2026-07-17** — this job is no longer listed on the 80,000 Hours board. Archived snapshot below.
+
 # Research Lab Administrator
 
-**[Purdue University, Governance and Responsible AI Lab](https://www.grail-lab.org/)**
+**Purdue University, Governance and Responsible AI Lab**
 
-<dl class="job-meta">
-<dt>Location</dt><dd>West Lafayette, IN, USA</dd>
-<dt>Role type</dt><dd>Full-time</dd>
-<dt>Experience</dt><dd>Junior (1-4 years experience)</dd>
-<dt>Degree</dt><dd>Undergraduate degree or less</dd>
-</dl>
-
-**Areas & skills:** AI safety & policy, Operations
+**Areas & skills:** AI safety & policy
 
 ## Summary
 - In this role, you'll manage research operations and teams in the Governance and Responsible AI Lab.

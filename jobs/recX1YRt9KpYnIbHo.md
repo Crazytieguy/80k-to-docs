@@ -2,7 +2,7 @@
 title: "Office and Community Manager"
 employer: "Meridian"
 job_id: "recX1YRt9KpYnIbHo"
-last_updated: "2026-07-16T05:32:01.014678Z"
+last_updated: "2026-07-17T05:32:02.285115Z"
 posted_at: "2026-07-13T00:01:00Z"
 status: ready
 apply_url: "https://www.meridiancambridge.org/office-and-community-manager"
@@ -19,7 +19,7 @@ areas:
 <dt>Role type</dt><dd>Full-time</dd>
 <dt>Experience</dt><dd>Junior (1-4 years experience), Entry-level</dd>
 <dt>Degree</dt><dd>Undergraduate degree or less</dd>
-<dt>Salary</dt><dd>$54,147 – $74,452</dd>
+<dt>Salary</dt><dd>$53,836 – $74,024</dd>
 </dl>
 
 **Areas & skills:** AI safety & policy, Operations
@@ -34,4 +34,4 @@ areas:
 <p class="apply-cta"><a href="https://www.meridiancambridge.org/office-and-community-manager">Apply →</a></p>
 
 ---
-*Posted 2026-07-13 · Listing synced 2026-07-16 · 80k job ID `recX1YRt9KpYnIbHo`*
+*Posted 2026-07-13 · Listing synced 2026-07-17 · 80k job ID `recX1YRt9KpYnIbHo`*
