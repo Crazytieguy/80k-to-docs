@@ -4,25 +4,20 @@ employer: "Forecasting Research Institute"
 job_id: "recXHhRwRbbqXaTYY"
 last_updated: "2026-07-17T05:33:47.996793Z"
 posted_at: "2022-01-02T00:00:00Z"
-status: ready
+status: closed
+closed_at: "2026-07-18"
 apply_url: "https://forecastingresearch.org/careers/data-engineer"
 areas:
   - "Macrostrategy"
 ---
 
+> ⚠️ **CLOSED on 2026-07-18** — this job is no longer listed on the 80,000 Hours board. Archived snapshot below.
+
 # Data Engineer
 
-**[Forecasting Research Institute](https://forecastingresearch.org/)**
+**Forecasting Research Institute**
 
-<dl class="job-meta">
-<dt>Location</dt><dd>Remote, USA, USA, USA (Confirmed Visas)</dd>
-<dt>Role type</dt><dd>Full-time</dd>
-<dt>Experience</dt><dd>Junior (1-4 years experience)</dd>
-<dt>Degree</dt><dd>Undergraduate degree or less</dd>
-<dt>Salary</dt><dd>$75,000 – $130,000</dd>
-</dl>
-
-**Areas & skills:** Macrostrategy, Software engineering
+**Areas & skills:** Macrostrategy
 
 ## Summary
 - In this role, you'll own FRI's data infrastructure as the first dedicated data engineer, making key architectural decisions.

@@ -2,7 +2,7 @@
 title: "Trusted Red Team Network"
 employer: "Syntony"
 job_id: "recRKDZhaD0kSUhrh"
-last_updated: "2026-07-17T05:32:05.087631Z"
+last_updated: "2026-07-18T05:32:32.749148Z"
 posted_at: "2026-07-10T00:00:00Z"
 status: ready
 apply_url: "https://www.syntonyresearch.ai/work/trusted-red-team/"
@@ -16,7 +16,7 @@ areas:
 
 <dl class="job-meta">
 <dt>Location</dt><dd>Remote, Global</dd>
-<dt>Role type</dt><dd>Other</dd>
+<dt>Role type</dt><dd>Full-time</dd>
 <dt>Experience</dt><dd>Junior (1-4 years experience), Mid (5-9 years experience)</dd>
 <dt>Degree</dt><dd>Undergraduate degree or less</dd>
 </dl>
@@ -24,7 +24,7 @@ areas:
 **Areas & skills:** AI safety & policy, Information security
 
 ## Summary
-- In this network, you'll be engaged to conduct project-based adversarial evaluations that directly inform governance and mitigation decisions.
+- In this voluntary network, you'll be engaged to conduct project-based adversarial evaluations that directly inform governance and mitigation decisions.
 - Perform specialist testing in ML security, prompt engineering, policy analysis, geopolitical forecasting, or systems thinking.
 - Collaborate across disciplines on scoped engagements with defined threat models and evidence requirements.
 - Translate technical findings into actionable controls and oversight artifacts.
@@ -33,4 +33,4 @@ areas:
 <p class="apply-cta"><a href="https://www.syntonyresearch.ai/work/trusted-red-team/">Apply →</a></p>
 
 ---
-*Posted 2026-07-10 · Listing synced 2026-07-17 · 80k job ID `recRKDZhaD0kSUhrh`*
+*Posted 2026-07-10 · Listing synced 2026-07-18 · 80k job ID `recRKDZhaD0kSUhrh`*

@@ -4,25 +4,20 @@ employer: "Animal Welfare Observatory"
 job_id: "recJBHoAcRf0iRF4u"
 last_updated: "2026-07-17T05:32:49.921507Z"
 posted_at: "2026-05-28T00:00:00Z"
-status: ready
+status: closed
+closed_at: "2026-07-18"
 apply_url: "https://observatoriodebienestaranimal.jobs.personio.com/job/2647367"
 areas:
   - "Animal welfare"
 ---
 
+> ⚠️ **CLOSED on 2026-07-18** — this job is no longer listed on the 80,000 Hours board. Archived snapshot below.
+
 # Specialist, Institutional Advocacy
 
-**[Animal Welfare Observatory](https://observatoriodebienestaranimal.org/)**
+**Animal Welfare Observatory**
 
-<dl class="job-meta">
-<dt>Location</dt><dd>Remote, Spain, Spain, Europe (ex UK)</dd>
-<dt>Role type</dt><dd>Full-time</dd>
-<dt>Experience</dt><dd>Junior (1-4 years experience)</dd>
-<dt>Degree</dt><dd>Undergraduate degree or less</dd>
-<dt>Salary</dt><dd>$36,596</dd>
-</dl>
-
-**Areas & skills:** Animal welfare, Policy
+**Areas & skills:** Animal welfare
 
 ## Summary
 - In this role, you'll drive animal welfare regulatory advances by negotiating with institutions at national and European levels.

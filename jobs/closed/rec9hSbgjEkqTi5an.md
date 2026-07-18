@@ -4,25 +4,20 @@ employer: "Carnegie Corporation of New York"
 job_id: "rec9hSbgjEkqTi5an"
 last_updated: "2026-07-17T05:32:15.733990Z"
 posted_at: "2026-07-03T00:01:00Z"
-status: ready
+status: closed
+closed_at: "2026-07-18"
 apply_url: "https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=9ad45f59-5c0c-4073-aa8a-607eccdecc5c&ccId=19000101_000001&lang=en_US&jobId=594995"
 areas:
   - "Nuclear security"
 ---
 
+> ⚠️ **CLOSED on 2026-07-18** — this job is no longer listed on the 80,000 Hours board. Archived snapshot below.
+
 # Program Officer, International Program
 
-**[Carnegie Corporation of New York](https://www.carnegie.org/)**
+**Carnegie Corporation of New York**
 
-<dl class="job-meta">
-<dt>Location</dt><dd>New York, NY, USA</dd>
-<dt>Role type</dt><dd>Full-time</dd>
-<dt>Experience</dt><dd>Mid (5-9 years experience), Senior (10+ years experience)</dd>
-<dt>Degree</dt><dd>Undergraduate degree or less</dd>
-<dt>Salary</dt><dd>$150,000 – $160,000</dd>
-</dl>
-
-**Areas & skills:** Nuclear security, Policy, Strategy
+**Areas & skills:** Nuclear security
 
 ## Summary
 - In this role, you'll develop and manage grants and partnerships to advance peace through conflict prevention, migration, and non-state actors.

@@ -4,24 +4,20 @@ employer: "Lila Sciences"
 job_id: "reckCM7VP9OipdAaU"
 last_updated: "2026-07-17T05:33:38.230991Z"
 posted_at: "2022-01-05T00:00:00Z"
-status: ready
+status: closed
+closed_at: "2026-07-18"
 apply_url: "https://job-boards.greenhouse.io/lilasciences/jobs/4079014009"
 areas:
   - "AI safety & policy"
 ---
 
+> ⚠️ **CLOSED on 2026-07-18** — this job is no longer listed on the 80,000 Hours board. Archived snapshot below.
+
 # Scientist / Senior Scientist, AI Safety
 
-**[Lila Sciences](https://www.lila.ai/)**
+**Lila Sciences**
 
-<dl class="job-meta">
-<dt>Location</dt><dd>London, UK, UK</dd>
-<dt>Role type</dt><dd>Full-time</dd>
-<dt>Experience</dt><dd>Mid (5-9 years experience), Senior (10+ years experience)</dd>
-<dt>Degree</dt><dd>Undergraduate degree or less</dd>
-</dl>
-
-**Areas & skills:** AI safety & policy, Research, Software engineering
+**Areas & skills:** AI safety & policy
 
 ## Summary
 - In this role, you'll develop and implement AI safety strategies to address risks from scientific superintelligence models integrated with physical labs.

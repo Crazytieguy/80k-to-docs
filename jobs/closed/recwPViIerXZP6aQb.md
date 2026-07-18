@@ -4,26 +4,21 @@ employer: "1Day Sooner"
 job_id: "recwPViIerXZP6aQb"
 last_updated: "2026-07-17T05:32:53.937396Z"
 posted_at: "2026-05-20T00:02:00Z"
-status: ready
+status: closed
+closed_at: "2026-07-18"
 apply_url: "https://www.1daysooner.org/jobs/"
 areas:
   - "Biosecurity & pandemic preparedness"
   - "Global health & development"
 ---
 
+> ⚠️ **CLOSED on 2026-07-18** — this job is no longer listed on the 80,000 Hours board. Archived snapshot below.
+
 # Partnership Lead, Clinical Trial Abundance
 
-**[1Day Sooner](https://www.onedaysooner.org/)**
+**1Day Sooner**
 
-<dl class="job-meta">
-<dt>Location</dt><dd>Washington, DC metro area, Remote, USA, USA</dd>
-<dt>Role type</dt><dd>Full-time</dd>
-<dt>Experience</dt><dd>Mid (5-9 years experience)</dd>
-<dt>Degree</dt><dd>Undergraduate degree or less</dd>
-<dt>Salary</dt><dd>$100,000 – $145,000</dd>
-</dl>
-
-**Areas & skills:** Biosecurity & pandemic preparedness, Global health & development, Policy, Outreach
+**Areas & skills:** Biosecurity & pandemic preparedness, Global health & development
 
 ## Summary
 - In this role, you'll build and maintain 1Day's non-government coalition to drive clinical trial reform.

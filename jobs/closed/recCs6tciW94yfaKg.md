@@ -4,25 +4,20 @@ employer: "Siemens"
 job_id: "recCs6tciW94yfaKg"
 last_updated: "2026-07-17T05:32:21.885079Z"
 posted_at: "2026-07-01T00:00:00Z"
-status: ready
+status: closed
+closed_at: "2026-07-18"
 apply_url: "https://jobs.siemens.com/en_US/externaljobs/JobDetail/510552?source=LinkedIn&sourceType=PREMIUM_POST_SITE"
 areas:
   - "Career development: Technical"
 ---
 
+> ⚠️ **CLOSED on 2026-07-18** — this job is no longer listed on the 80,000 Hours board. Archived snapshot below.
+
 # Research Internship, Agentic AI, LLM Evaluation, and Trustworthy Systems
 
-**[Siemens](http://siemens.com/)**
+**Siemens**
 
-<dl class="job-meta">
-<dt>Location</dt><dd>Princeton, NJ, USA</dd>
-<dt>Role type</dt><dd>Internship</dd>
-<dt>Experience</dt><dd>Entry-level</dd>
-<dt>Degree</dt><dd>Master's degree</dd>
-<dt>Salary</dt><dd>$66,560 – $97,760</dd>
-</dl>
-
-**Areas & skills:** Career development: Technical, Research, Software engineering
+**Areas & skills:** Career development: Technical
 
 ## Summary
 - In this role, you'll research and prototype V&V methods for multi-agent systems, emphasizing reliability, safety, and trustworthiness.

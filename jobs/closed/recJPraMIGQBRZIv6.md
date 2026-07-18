@@ -4,25 +4,20 @@ employer: "Centre for British Progress"
 job_id: "recJPraMIGQBRZIv6"
 last_updated: "2026-07-17T05:32:51.506552Z"
 posted_at: "2026-05-25T00:00:00Z"
-status: ready
+status: closed
+closed_at: "2026-07-18"
 apply_url: "https://britishprogress.org/opportunities/head-of-operations"
 areas:
   - "Science policy and infrastructure"
 ---
 
+> ⚠️ **CLOSED on 2026-07-18** — this job is no longer listed on the 80,000 Hours board. Archived snapshot below.
+
 # Head of Operations
 
-**[Centre for British Progress](https://britishprogress.org/)**
+**Centre for British Progress**
 
-<dl class="job-meta">
-<dt>Location</dt><dd>London, UK, UK</dd>
-<dt>Role type</dt><dd>Full-time</dd>
-<dt>Experience</dt><dd>Mid (5-9 years experience)</dd>
-<dt>Degree</dt><dd>Undergraduate degree or less</dd>
-<dt>Salary</dt><dd>$94,212 – $121,130</dd>
-</dl>
-
-**Areas & skills:** Science policy and infrastructure, Operations, Management, Finance
+**Areas & skills:** Science policy and infrastructure
 
 ## Summary
 - In this role, you'll set and execute operations, finance and HR strategy for a growing think tank, working alongside the Co-chief Executives.

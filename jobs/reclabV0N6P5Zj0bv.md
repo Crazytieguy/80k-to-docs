@@ -2,7 +2,7 @@
 title: "Internship, Center for Strategy and American Statecraft (Fall 2026)"
 employer: "Hudson Institute"
 job_id: "reclabV0N6P5Zj0bv"
-last_updated: "2026-07-17T05:31:54.413782Z"
+last_updated: "2026-07-18T05:32:22.508687Z"
 posted_at: "2026-07-16T00:00:00Z"
 status: ready
 apply_url: "https://recruiting.paylocity.com/Recruiting/Jobs/Details/4331223"
@@ -33,4 +33,4 @@ areas:
 <p class="apply-cta"><a href="https://recruiting.paylocity.com/Recruiting/Jobs/Details/4331223">Apply →</a></p>
 
 ---
-*Posted 2026-07-16 · Listing synced 2026-07-17 · 80k job ID `reclabV0N6P5Zj0bv`*
+*Posted 2026-07-16 · Listing synced 2026-07-18 · 80k job ID `reclabV0N6P5Zj0bv`*

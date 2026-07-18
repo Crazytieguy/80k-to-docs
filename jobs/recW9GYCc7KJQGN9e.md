@@ -2,7 +2,7 @@
 title: "Strategy and Delivery Adviser"
 employer: "UK Government, AI Security Institute"
 job_id: "recW9GYCc7KJQGN9e"
-last_updated: "2026-07-17T05:31:54.878351Z"
+last_updated: "2026-07-18T05:32:22.888415Z"
 posted_at: "2026-07-15T00:05:00Z"
 status: ready
 apply_url: "https://job-boards.eu.greenhouse.io/csjobs/jobs/4924778101"
@@ -19,7 +19,7 @@ areas:
 <dt>Role type</dt><dd>Full-time</dd>
 <dt>Experience</dt><dd>Multiple experience levels</dd>
 <dt>Degree</dt><dd>Undergraduate degree or less</dd>
-<dt>Salary</dt><dd>$60,054 – $70,107</dd>
+<dt>Salary</dt><dd>$60,034 – $70,084</dd>
 </dl>
 
 **Areas & skills:** AI safety & policy, Policy, Operations
@@ -33,4 +33,4 @@ areas:
 <p class="apply-cta"><a href="https://job-boards.eu.greenhouse.io/csjobs/jobs/4924778101">Apply →</a></p>
 
 ---
-*Posted 2026-07-15 · Listing synced 2026-07-17 · 80k job ID `recW9GYCc7KJQGN9e`*
+*Posted 2026-07-15 · Listing synced 2026-07-18 · 80k job ID `recW9GYCc7KJQGN9e`*

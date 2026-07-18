@@ -4,25 +4,20 @@ employer: "Epoch AI"
 job_id: "recrKEBL18ufeQwhi"
 last_updated: "2026-07-17T05:32:22.537083Z"
 posted_at: "2026-06-30T00:04:06Z"
-status: ready
+status: closed
+closed_at: "2026-07-18"
 apply_url: "https://jobs.lever.co/epoch-ai/3bad5f64-640c-497f-8d7b-b86e299523a7"
 areas:
   - "AI safety & policy"
 ---
 
+> ⚠️ **CLOSED on 2026-07-18** — this job is no longer listed on the 80,000 Hours board. Archived snapshot below.
+
 # Talent Scout
 
-**[Epoch AI](https://epoch.ai)**
+**Epoch AI**
 
-<dl class="job-meta">
-<dt>Location</dt><dd>San Francisco Bay Area, USA</dd>
-<dt>Role type</dt><dd>Full-time</dd>
-<dt>Experience</dt><dd>Junior (1-4 years experience)</dd>
-<dt>Degree</dt><dd>Undergraduate degree or less</dd>
-<dt>Salary</dt><dd>$130,000 – $175,000</dd>
-</dl>
-
-**Areas & skills:** AI safety & policy, Outreach, Operations
+**Areas & skills:** AI safety & policy
 
 ## Summary
 - In this role, you'll source and engage top AI talent across research, engineering, and operations to support Epoch's rapid team expansion.

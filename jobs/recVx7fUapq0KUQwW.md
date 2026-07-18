@@ -2,10 +2,10 @@
 title: "Program Director"
 employer: "Hewlett Foundation"
 job_id: "recVx7fUapq0KUQwW"
-last_updated: "2026-07-17T05:33:57.316733Z"
+last_updated: "2026-07-18T05:34:18.700819Z"
 posted_at: "2022-01-01T00:00:00Z"
 status: ready
-apply_url: "https://hewlett.hrmdirect.com/employment/job-opening.php?req=3566721&req_loc=1112590&nohd=#job"
+apply_url: "https://hewlett.org/careers/?jobId=71b5ed5f-4060-8d22-6813-9fee5a0b4109"
 areas:
   - "Safeguarding liberal democracy"
 ---
@@ -31,7 +31,7 @@ areas:
 - Collaborate with internal teams and external partners to amplify impact and foster cross-cutting solutions.
 - Anticipate changes in the political landscape that may impact democratic resilience and program priorities.
 
-<p class="apply-cta"><a href="https://hewlett.hrmdirect.com/employment/job-opening.php?req=3566721&amp;req_loc=1112590&amp;nohd=#job">Apply →</a></p>
+<p class="apply-cta"><a href="https://hewlett.org/careers/?jobId=71b5ed5f-4060-8d22-6813-9fee5a0b4109">Apply →</a></p>
 
 ---
-*Posted 2022-01-01 · Listing synced 2026-07-17 · 80k job ID `recVx7fUapq0KUQwW`*
+*Posted 2022-01-01 · Listing synced 2026-07-18 · 80k job ID `recVx7fUapq0KUQwW`*

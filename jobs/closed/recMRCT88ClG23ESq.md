@@ -4,24 +4,20 @@ employer: "Alignment of Complex Systems Research"
 job_id: "recMRCT88ClG23ESq"
 last_updated: "2026-07-17T05:32:47.217015Z"
 posted_at: "2026-06-02T00:00:00Z"
-status: ready
+status: closed
+closed_at: "2026-07-18"
 apply_url: "https://humanaligned.ai/2026/"
 areas:
   - "AI safety & policy"
 ---
 
+> ⚠️ **CLOSED on 2026-07-18** — this job is no longer listed on the 80,000 Hours board. Archived snapshot below.
+
 # Summer School, Human-Aligned AI
 
-**[Alignment of Complex Systems Research](https://acsresearch.org/)**
+**Alignment of Complex Systems Research**
 
-<dl class="job-meta">
-<dt>Location</dt><dd>Prague, Czech Republic, Czech Republic, Europe (ex UK)</dd>
-<dt>Role type</dt><dd>Course</dd>
-<dt>Experience</dt><dd>Entry-level</dd>
-<dt>Degree</dt><dd>Undergraduate degree or less</dd>
-</dl>
-
-**Areas & skills:** AI safety & policy, Research
+**Areas & skills:** AI safety & policy
 
 ## Summary
 - This course explores current approaches and frameworks in AI alignment research through four intensive days of lectures, workshops, and discussions.

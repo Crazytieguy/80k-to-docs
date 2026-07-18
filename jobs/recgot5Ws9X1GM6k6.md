@@ -2,7 +2,7 @@
 title: "List of Internship and Residency Programs, Machine Learning / Software Engineering"
 employer: "Various Tech Companies / Research Institutes"
 job_id: "recgot5Ws9X1GM6k6"
-last_updated: "2026-07-17T05:32:50.969598Z"
+last_updated: "2026-07-18T05:33:12.755490Z"
 posted_at: "2026-05-26T00:00:00Z"
 status: ready
 apply_url: "https://airtable.com/app53PsYpHxJW61l3/shrm7uUUooGzxxXdi"
@@ -32,4 +32,4 @@ areas:
 <p class="apply-cta"><a href="https://airtable.com/app53PsYpHxJW61l3/shrm7uUUooGzxxXdi">Apply →</a></p>
 
 ---
-*Posted 2026-05-26 · Listing synced 2026-07-17 · 80k job ID `recgot5Ws9X1GM6k6`*
+*Posted 2026-05-26 · Listing synced 2026-07-18 · 80k job ID `recgot5Ws9X1GM6k6`*

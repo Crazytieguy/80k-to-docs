@@ -2,7 +2,7 @@
 title: "Member of Technical Staff,  AI Fellowship"
 employer: "Cogent"
 job_id: "recJVJAR3qNybHXWs"
-last_updated: "2026-07-17T05:32:34.032491Z"
+last_updated: "2026-07-18T05:32:56.333535Z"
 posted_at: "2026-06-17T00:00:00Z"
 status: ready
 apply_url: "https://jobs.ashbyhq.com/cogent-security/e8314a0f-df06-40b6-9c56-3d97ea53f25a"
@@ -34,4 +34,4 @@ areas:
 <p class="apply-cta"><a href="https://jobs.ashbyhq.com/cogent-security/e8314a0f-df06-40b6-9c56-3d97ea53f25a">Apply →</a></p>
 
 ---
-*Posted 2026-06-17 · Listing synced 2026-07-17 · 80k job ID `recJVJAR3qNybHXWs`*
+*Posted 2026-06-17 · Listing synced 2026-07-18 · 80k job ID `recJVJAR3qNybHXWs`*

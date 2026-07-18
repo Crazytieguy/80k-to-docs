@@ -4,26 +4,21 @@ employer: "Anthropic"
 job_id: "rec5246nh8zmt0Ji8"
 last_updated: "2026-07-17T05:32:26.904693Z"
 posted_at: "2026-06-25T00:00:00Z"
-status: ready
+status: closed
+closed_at: "2026-07-18"
 apply_url: "https://job-boards.greenhouse.io/anthropic/jobs/5278065008"
 areas:
   - "AI safety & policy"
   - "Safeguarding liberal democracy"
 ---
 
+> ⚠️ **CLOSED on 2026-07-18** — this job is no longer listed on the 80,000 Hours board. Archived snapshot below.
+
 # Research Engineer, Rule of Law
 
-**[Anthropic](https://www.anthropic.com/)**
+**Anthropic**
 
-<dl class="job-meta">
-<dt>Location</dt><dd>San Francisco Bay Area, New York, NY, USA, USA (Confirmed Visas)</dd>
-<dt>Role type</dt><dd>Full-time</dd>
-<dt>Experience</dt><dd>Mid (5-9 years experience)</dd>
-<dt>Degree</dt><dd>Undergraduate degree or less</dd>
-<dt>Salary</dt><dd>$320,000 – $485,000</dd>
-</dl>
-
-**Areas & skills:** AI safety & policy, Safeguarding liberal democracy, Research, Policy
+**Areas & skills:** AI safety & policy, Safeguarding liberal democracy
 
 ## Summary
 - In this role, you'll conduct technical and sociotechnical research at the intersection of AI and democratic institutions.

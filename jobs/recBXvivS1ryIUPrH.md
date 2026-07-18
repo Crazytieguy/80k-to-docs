@@ -2,7 +2,7 @@
 title: "Embedded Fellow, Catholic Communities and Frontier AI"
 employer: "AI Safety Asia"
 job_id: "recBXvivS1ryIUPrH"
-last_updated: "2026-07-17T05:31:58.955320Z"
+last_updated: "2026-07-18T05:32:26.315914Z"
 posted_at: "2026-07-14T00:01:00Z"
 status: ready
 apply_url: "https://drive.google.com/file/d/1R-OHwJaUGPAolD13izc3GnMdpVelCLef/edit"
@@ -34,4 +34,4 @@ areas:
 <p class="apply-cta"><a href="https://drive.google.com/file/d/1R-OHwJaUGPAolD13izc3GnMdpVelCLef/edit">Apply →</a></p>
 
 ---
-*Posted 2026-07-14 · Listing synced 2026-07-17 · 80k job ID `recBXvivS1ryIUPrH`*
+*Posted 2026-07-14 · Listing synced 2026-07-18 · 80k job ID `recBXvivS1ryIUPrH`*

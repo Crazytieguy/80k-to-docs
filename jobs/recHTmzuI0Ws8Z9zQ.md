@@ -2,7 +2,7 @@
 title: "Senior Standards and Governance Manager"
 employer: "Google DeepMind"
 job_id: "recHTmzuI0Ws8Z9zQ"
-last_updated: "2026-07-17T05:32:13.790995Z"
+last_updated: "2026-07-18T05:32:40.233890Z"
 posted_at: "2026-07-06T00:01:00Z"
 status: ready
 apply_url: "https://www.google.com/about/careers/applications/jobs/results/74680717451109062-senior-standards-and-governance-manager-deepmind?q=%22responsible+ai%22&has_remote=false&distance=50&hl=en_US&jlo=en_US"
@@ -34,4 +34,4 @@ areas:
 <p class="apply-cta"><a href="https://www.google.com/about/careers/applications/jobs/results/74680717451109062-senior-standards-and-governance-manager-deepmind?q=%22responsible+ai%22&amp;has_remote=false&amp;distance=50&amp;hl=en_US&amp;jlo=en_US">Apply →</a></p>
 
 ---
-*Posted 2026-07-06 · Listing synced 2026-07-17 · 80k job ID `recHTmzuI0Ws8Z9zQ`*
+*Posted 2026-07-06 · Listing synced 2026-07-18 · 80k job ID `recHTmzuI0Ws8Z9zQ`*

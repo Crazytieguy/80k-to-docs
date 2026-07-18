@@ -2,7 +2,7 @@
 title: "Course, AI Agents and the Law (Summer 2026)"
 employer: "Vista Institute for AI Policy"
 job_id: "recCESRh7BNAUpOCn"
-last_updated: "2026-07-17T05:32:00.544808Z"
+last_updated: "2026-07-18T05:32:27.771862Z"
 posted_at: "2026-07-14T00:00:00Z"
 status: ready
 apply_url: "https://vistainstituteai.org/programs/agents"
@@ -32,4 +32,4 @@ areas:
 <p class="apply-cta"><a href="https://vistainstituteai.org/programs/agents">Apply →</a></p>
 
 ---
-*Posted 2026-07-14 · Listing synced 2026-07-17 · 80k job ID `recCESRh7BNAUpOCn`*
+*Posted 2026-07-14 · Listing synced 2026-07-18 · 80k job ID `recCESRh7BNAUpOCn`*

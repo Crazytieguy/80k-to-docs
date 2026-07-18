@@ -2,7 +2,7 @@
 title: "Science Accelerator, Big if True"
 employer: "Renaissance Philanthropy"
 job_id: "rec2VwTkDHmW8aqXI"
-last_updated: "2026-07-17T05:33:57.525681Z"
+last_updated: "2026-07-18T05:34:18.923042Z"
 posted_at: "2022-01-01T00:00:00Z"
 status: ready
 apply_url: "https://www.renaissancephilanthropy.org/big-if-true-science-accelerator"
@@ -33,4 +33,4 @@ areas:
 <p class="apply-cta"><a href="https://www.renaissancephilanthropy.org/big-if-true-science-accelerator">Apply →</a></p>
 
 ---
-*Posted 2022-01-01 · Listing synced 2026-07-17 · 80k job ID `rec2VwTkDHmW8aqXI`*
+*Posted 2022-01-01 · Listing synced 2026-07-18 · 80k job ID `rec2VwTkDHmW8aqXI`*

@@ -2,7 +2,7 @@
 title: "Frontier Research Engineer, Security"
 employer: "UK Government, AI Security Institute"
 job_id: "reczz2N9QqpVWV9V1"
-last_updated: "2026-07-17T05:32:22.255912Z"
+last_updated: "2026-07-18T05:32:47.402141Z"
 posted_at: "2026-06-30T00:05:00Z"
 status: ready
 apply_url: "https://job-boards.eu.greenhouse.io/aisi/jobs/4911480101"
@@ -19,7 +19,7 @@ areas:
 <dt>Role type</dt><dd>Full-time</dd>
 <dt>Experience</dt><dd>Junior (1-4 years experience), Mid (5-9 years experience)</dd>
 <dt>Degree</dt><dd>Undergraduate degree or less</dd>
-<dt>Salary</dt><dd>$87,483 – $195,154</dd>
+<dt>Salary</dt><dd>$87,454 – $195,089</dd>
 </dl>
 
 **Areas & skills:** AI safety & policy, Software engineering, Information security
@@ -34,4 +34,4 @@ areas:
 <p class="apply-cta"><a href="https://job-boards.eu.greenhouse.io/aisi/jobs/4911480101">Apply →</a></p>
 
 ---
-*Posted 2026-06-30 · Listing synced 2026-07-17 · 80k job ID `reczz2N9QqpVWV9V1`*
+*Posted 2026-06-30 · Listing synced 2026-07-18 · 80k job ID `reczz2N9QqpVWV9V1`*

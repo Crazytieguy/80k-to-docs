@@ -2,7 +2,7 @@
 title: "Senior Security Engineer, Agentic Red Team"
 employer: "Google DeepMind"
 job_id: "recvCzmywX70W1Thg"
-last_updated: "2026-07-17T05:32:12.099905Z"
+last_updated: "2026-07-18T05:32:38.928645Z"
 posted_at: "2026-07-07T00:00:00Z"
 status: ready
 apply_url: "https://www.google.com/about/careers/applications/jobs/results/139489025168679622-senior-security-engineer-agentic-red-team-deepmind?company=DeepMind&page=2"
@@ -34,4 +34,4 @@ areas:
 <p class="apply-cta"><a href="https://www.google.com/about/careers/applications/jobs/results/139489025168679622-senior-security-engineer-agentic-red-team-deepmind?company=DeepMind&amp;page=2">Apply →</a></p>
 
 ---
-*Posted 2026-07-07 · Listing synced 2026-07-17 · 80k job ID `recvCzmywX70W1Thg`*
+*Posted 2026-07-07 · Listing synced 2026-07-18 · 80k job ID `recvCzmywX70W1Thg`*

@@ -2,7 +2,7 @@
 title: "Safeguards Enforcement Analyst, Bio Harms"
 employer: "Anthropic"
 job_id: "recCmelkQsrDe5p8J"
-last_updated: "2026-07-17T05:32:02.864067Z"
+last_updated: "2026-07-18T05:32:30.287380Z"
 posted_at: "2026-07-13T00:00:00Z"
 status: ready
 apply_url: "https://job-boards.greenhouse.io/anthropic/jobs/5319696008"
@@ -35,4 +35,4 @@ areas:
 <p class="apply-cta"><a href="https://job-boards.greenhouse.io/anthropic/jobs/5319696008">Apply →</a></p>
 
 ---
-*Posted 2026-07-13 · Listing synced 2026-07-17 · 80k job ID `recCmelkQsrDe5p8J`*
+*Posted 2026-07-13 · Listing synced 2026-07-18 · 80k job ID `recCmelkQsrDe5p8J`*

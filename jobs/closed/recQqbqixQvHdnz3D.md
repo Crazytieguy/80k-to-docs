@@ -4,25 +4,20 @@ employer: "Center for Arms Control and Non-Proliferation"
 job_id: "recQqbqixQvHdnz3D"
 last_updated: "2026-07-17T05:32:18.620593Z"
 posted_at: "2026-07-02T00:00:00Z"
-status: ready
+status: closed
+closed_at: "2026-07-18"
 apply_url: "https://armscontrolcenter.org/about/jobs-and-internships/"
 areas:
   - "Nuclear security"
 ---
 
+> ⚠️ **CLOSED on 2026-07-18** — this job is no longer listed on the 80,000 Hours board. Archived snapshot below.
+
 # Internship (Fall 2026)
 
-**[Center for Arms Control and Non-Proliferation](https://armscontrolcenter.org/)**
+**Center for Arms Control and Non-Proliferation**
 
-<dl class="job-meta">
-<dt>Location</dt><dd>Washington, DC metro area, USA</dd>
-<dt>Role type</dt><dd>Internship</dd>
-<dt>Experience</dt><dd>Entry-level</dd>
-<dt>Degree</dt><dd>Undergraduate degree or less</dd>
-<dt>Salary</dt><dd>$55,000 – $60,000</dd>
-</dl>
-
-**Areas & skills:** Nuclear security, Policy
+**Areas & skills:** Nuclear security
 
 ## Summary
 - In this role, you'll support the Center's Congressional Education Program through research, writing and media work on nuclear non-proliferation policy.

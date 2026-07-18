@@ -2,7 +2,7 @@
 title: "Specialist, AI and International Security"
 employer: "Simon Institute for Longterm Governance"
 job_id: "rec0MB6SmUwkGfqIK"
-last_updated: "2026-07-17T05:32:00.898676Z"
+last_updated: "2026-07-18T05:32:28.037708Z"
 posted_at: "2026-07-13T00:05:00Z"
 status: ready
 apply_url: "https://simoninstitute.ch/jobs/ai-x-international-security-specialist"
@@ -19,7 +19,7 @@ areas:
 <dt>Role type</dt><dd>Full-time</dd>
 <dt>Experience</dt><dd>Multiple experience levels</dd>
 <dt>Degree</dt><dd>Undergraduate degree or less</dd>
-<dt>Salary</dt><dd>$123,594 – $173,032</dd>
+<dt>Salary</dt><dd>$123,867 – $173,413</dd>
 </dl>
 
 **Areas & skills:** AI safety & policy, Policy
@@ -34,4 +34,4 @@ areas:
 <p class="apply-cta"><a href="https://simoninstitute.ch/jobs/ai-x-international-security-specialist">Apply →</a></p>
 
 ---
-*Posted 2026-07-13 · Listing synced 2026-07-17 · 80k job ID `rec0MB6SmUwkGfqIK`*
+*Posted 2026-07-13 · Listing synced 2026-07-18 · 80k job ID `rec0MB6SmUwkGfqIK`*

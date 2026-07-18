@@ -4,25 +4,20 @@ employer: "Hudson Institute"
 job_id: "reco8JhEbmqrdM6yS"
 last_updated: "2026-07-17T05:32:26.006588Z"
 posted_at: "2026-06-29T00:00:00Z"
-status: ready
+status: closed
+closed_at: "2026-07-18"
 apply_url: "https://recruiting.paylocity.com/Recruiting/Jobs/Details/4288162"
 areas:
   - "Career development: Policy & government"
 ---
 
+> ⚠️ **CLOSED on 2026-07-18** — this job is no longer listed on the 80,000 Hours board. Archived snapshot below.
+
 # Research Associate
 
-**[Hudson Institute](https://www.hudson.org/)**
+**Hudson Institute**
 
-<dl class="job-meta">
-<dt>Location</dt><dd>Washington, DC metro area, USA</dd>
-<dt>Role type</dt><dd>Full-time</dd>
-<dt>Experience</dt><dd>Entry-level</dd>
-<dt>Degree</dt><dd>Undergraduate degree or less</dd>
-<dt>Salary</dt><dd>$52,000 – $56,000</dd>
-</dl>
-
-**Areas & skills:** Career development: Policy & government, Research, Policy
+**Areas & skills:** Career development: Policy & government
 
 ## Summary
 - In this role, you'll build career capital by supporting a senior fellow with research and programs focused on US national security, grand strategy, industrial policy, and defense industrial base issues.
