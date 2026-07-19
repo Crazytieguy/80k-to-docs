@@ -2,7 +2,7 @@
 title: "Operations Associate"
 employer: "ARENA"
 job_id: "recHeViczs0FLI1b7"
-last_updated: "2026-07-18T05:32:25.708148Z"
+last_updated: "2026-07-19T05:32:17.244048Z"
 posted_at: "2026-07-14T00:04:55Z"
 status: ready
 apply_url: "https://www.arena.education/role-ops-associate"
@@ -34,4 +34,4 @@ areas:
 <p class="apply-cta"><a href="https://www.arena.education/role-ops-associate">Apply →</a></p>
 
 ---
-*Posted 2026-07-14 · Listing synced 2026-07-18 · 80k job ID `recHeViczs0FLI1b7`*
+*Posted 2026-07-14 · Listing synced 2026-07-19 · 80k job ID `recHeViczs0FLI1b7`*

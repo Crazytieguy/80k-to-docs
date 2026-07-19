@@ -2,7 +2,7 @@
 title: "Contractor Opportunities, AI, Biosecurity, and AI-Bio"
 employer: "Centre for Long-Term Resilience"
 job_id: "recUF4cY2NFEIb5MP"
-last_updated: "2026-07-18T05:32:34.277744Z"
+last_updated: "2026-07-19T05:32:25.217551Z"
 posted_at: "2026-07-09T00:02:00Z"
 status: ready
 apply_url: "https://www.longtermresilience.org/open-call-for-contractor-opportunities-ai-biosecurity-and-ai-bio-work/"
@@ -35,4 +35,4 @@ areas:
 <p class="apply-cta"><a href="https://www.longtermresilience.org/open-call-for-contractor-opportunities-ai-biosecurity-and-ai-bio-work/">Apply →</a></p>
 
 ---
-*Posted 2026-07-09 · Listing synced 2026-07-18 · 80k job ID `recUF4cY2NFEIb5MP`*
+*Posted 2026-07-09 · Listing synced 2026-07-19 · 80k job ID `recUF4cY2NFEIb5MP`*

@@ -2,7 +2,7 @@
 title: "Chief Operating Officer"
 employer: "Sentinel Bio"
 job_id: "recNZZuNe2MRTlSyX"
-last_updated: "2026-07-18T05:33:02.371811Z"
+last_updated: "2026-07-19T05:32:53.973359Z"
 posted_at: "2026-06-10T00:03:00Z"
 status: ready
 apply_url: "https://sentinelbio.org/chief-operating-officer/"
@@ -34,4 +34,4 @@ areas:
 <p class="apply-cta"><a href="https://sentinelbio.org/chief-operating-officer/">Apply →</a></p>
 
 ---
-*Posted 2026-06-10 · Listing synced 2026-07-18 · 80k job ID `recNZZuNe2MRTlSyX`*
+*Posted 2026-06-10 · Listing synced 2026-07-19 · 80k job ID `recNZZuNe2MRTlSyX`*

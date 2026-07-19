@@ -2,7 +2,7 @@
 title: "Digital Marketing Coordinator"
 employer: "Animal Equality"
 job_id: "recNgBqhA0dpSLiYw"
-last_updated: "2026-07-18T05:33:20.246752Z"
+last_updated: "2026-07-19T05:33:14.542679Z"
 posted_at: "2026-05-07T00:00:00Z"
 status: ready
 apply_url: "https://igualdadanimal.org/empleo/coordinador-marketing-digital/"
@@ -34,4 +34,4 @@ areas:
 <p class="apply-cta"><a href="https://igualdadanimal.org/empleo/coordinador-marketing-digital/">Apply →</a></p>
 
 ---
-*Posted 2026-05-07 · Listing synced 2026-07-18 · 80k job ID `recNgBqhA0dpSLiYw`*
+*Posted 2026-05-07 · Listing synced 2026-07-19 · 80k job ID `recNgBqhA0dpSLiYw`*

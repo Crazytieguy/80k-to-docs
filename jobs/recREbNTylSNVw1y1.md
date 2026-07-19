@@ -2,7 +2,7 @@
 title: "Content and Communications Specialist"
 employer: "Animal Advocacy Careers"
 job_id: "recREbNTylSNVw1y1"
-last_updated: "2026-07-18T05:32:23.743729Z"
+last_updated: "2026-07-19T05:32:15.357505Z"
 posted_at: "2026-07-15T00:00:00Z"
 status: ready
 apply_url: "https://animaladvocacycareers.org/content-communications-specialist/"
@@ -34,4 +34,4 @@ areas:
 <p class="apply-cta"><a href="https://animaladvocacycareers.org/content-communications-specialist/">Apply →</a></p>
 
 ---
-*Posted 2026-07-15 · Listing synced 2026-07-18 · 80k job ID `recREbNTylSNVw1y1`*
+*Posted 2026-07-15 · Listing synced 2026-07-19 · 80k job ID `recREbNTylSNVw1y1`*

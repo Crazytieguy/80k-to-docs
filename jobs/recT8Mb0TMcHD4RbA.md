@@ -2,7 +2,7 @@
 title: "Government Fellows"
 employer: "Geneva Centre for Security Policy"
 job_id: "recT8Mb0TMcHD4RbA"
-last_updated: "2026-07-18T05:34:18.437738Z"
+last_updated: "2026-07-19T05:34:12.202556Z"
 posted_at: "2022-01-01T00:00:00Z"
 status: ready
 apply_url: "https://www.gcsp.ch/government-fellows"
@@ -32,4 +32,4 @@ areas:
 <p class="apply-cta"><a href="https://www.gcsp.ch/government-fellows">Apply →</a></p>
 
 ---
-*Posted 2022-01-01 · Listing synced 2026-07-18 · 80k job ID `recT8Mb0TMcHD4RbA`*
+*Posted 2022-01-01 · Listing synced 2026-07-19 · 80k job ID `recT8Mb0TMcHD4RbA`*

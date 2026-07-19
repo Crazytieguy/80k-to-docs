@@ -2,7 +2,7 @@
 title: "Request for Proposals, The Launch Sequence"
 employer: "Institute for Progress"
 job_id: "recxfcV8eo1wcUb21"
-last_updated: "2026-07-18T05:32:55.210970Z"
+last_updated: "2026-07-19T05:32:46.562222Z"
 posted_at: "2026-06-19T00:00:00Z"
 status: ready
 apply_url: "https://ifp.org/rfp-launch/"
@@ -34,4 +34,4 @@ areas:
 <p class="apply-cta"><a href="https://ifp.org/rfp-launch/">Apply →</a></p>
 
 ---
-*Posted 2026-06-19 · Listing synced 2026-07-18 · 80k job ID `recxfcV8eo1wcUb21`*
+*Posted 2026-06-19 · Listing synced 2026-07-19 · 80k job ID `recxfcV8eo1wcUb21`*

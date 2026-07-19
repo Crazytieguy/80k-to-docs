@@ -2,7 +2,7 @@
 title: "Intern, AI Security RL Gyms"
 employer: "Alice"
 job_id: "rec5eHbMepG84MtBt"
-last_updated: "2026-07-18T05:32:38.627637Z"
+last_updated: "2026-07-19T05:32:29.469498Z"
 posted_at: "2026-07-07T00:00:00Z"
 status: ready
 apply_url: "https://alice.io/positions/position-91_352"
@@ -33,4 +33,4 @@ areas:
 <p class="apply-cta"><a href="https://alice.io/positions/position-91_352">Apply →</a></p>
 
 ---
-*Posted 2026-07-07 · Listing synced 2026-07-18 · 80k job ID `rec5eHbMepG84MtBt`*
+*Posted 2026-07-07 · Listing synced 2026-07-19 · 80k job ID `rec5eHbMepG84MtBt`*

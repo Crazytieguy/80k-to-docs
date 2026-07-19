@@ -2,7 +2,7 @@
 title: "Specialist, Technical AI Governance"
 employer: "Simon Institute for Longterm Governance"
 job_id: "recS3GMFnzg2JCI32"
-last_updated: "2026-07-18T05:32:28.541151Z"
+last_updated: "2026-07-19T05:32:20.137334Z"
 posted_at: "2026-07-13T00:04:06Z"
 status: ready
 apply_url: "https://simoninstitute.ch/jobs/technical-ai-governance-specialist"
@@ -34,4 +34,4 @@ areas:
 <p class="apply-cta"><a href="https://simoninstitute.ch/jobs/technical-ai-governance-specialist">Apply →</a></p>
 
 ---
-*Posted 2026-07-13 · Listing synced 2026-07-18 · 80k job ID `recS3GMFnzg2JCI32`*
+*Posted 2026-07-13 · Listing synced 2026-07-19 · 80k job ID `recS3GMFnzg2JCI32`*

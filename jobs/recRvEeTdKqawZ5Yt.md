@@ -2,13 +2,13 @@
 title: "Falcon Fund"
 employer: "Manifund"
 job_id: "recRvEeTdKqawZ5Yt"
-last_updated: "2026-07-18T05:33:12.098973Z"
+last_updated: "2026-07-19T05:33:05.290269Z"
 posted_at: "2026-05-27T00:01:00Z"
 status: ready
 apply_url: "https://manifund.org/projects/falcon-fund"
 areas:
-  - "AI safety & policy"
   - "Animal welfare"
+  - "AI safety & policy"
 ---
 
 # Falcon Fund
@@ -22,7 +22,7 @@ areas:
 <dt>Degree</dt><dd>Undergraduate degree or less</dd>
 </dl>
 
-**Areas & skills:** AI safety & policy, Animal welfare, Strategy
+**Areas & skills:** Animal welfare, AI safety & policy, Strategy
 
 ## Summary
 - This fund seeks to make rapid grants to animal welfare projects.
@@ -32,4 +32,4 @@ areas:
 <p class="apply-cta"><a href="https://manifund.org/projects/falcon-fund">Apply →</a></p>
 
 ---
-*Posted 2026-05-27 · Listing synced 2026-07-18 · 80k job ID `recRvEeTdKqawZ5Yt`*
+*Posted 2026-05-27 · Listing synced 2026-07-19 · 80k job ID `recRvEeTdKqawZ5Yt`*

@@ -2,7 +2,7 @@
 title: "Project Officer, International Coordination"
 employer: "General-Purpose AI Policy Lab"
 job_id: "recS3Eyhg05W0izva"
-last_updated: "2026-07-18T05:33:44.286325Z"
+last_updated: "2026-07-19T05:33:36.863539Z"
 posted_at: "2022-01-06T00:00:00Z"
 status: ready
 apply_url: "https://www.linkedin.com/posts/gpai-policy-lab_project-officer-international-coordination-activity-7297155426943422464-MhxW/"
@@ -33,4 +33,4 @@ areas:
 <p class="apply-cta"><a href="https://www.linkedin.com/posts/gpai-policy-lab_project-officer-international-coordination-activity-7297155426943422464-MhxW/">Apply →</a></p>
 
 ---
-*Posted 2022-01-06 · Listing synced 2026-07-18 · 80k job ID `recS3Eyhg05W0izva`*
+*Posted 2022-01-06 · Listing synced 2026-07-19 · 80k job ID `recS3Eyhg05W0izva`*

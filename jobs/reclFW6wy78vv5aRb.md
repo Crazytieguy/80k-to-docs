@@ -2,7 +2,7 @@
 title: "Head of Responsible Innovation, Generative Biology Institute"
 employer: "Ellison Institute of Technology"
 job_id: "reclFW6wy78vv5aRb"
-last_updated: "2026-07-18T05:34:04.173028Z"
+last_updated: "2026-07-19T05:33:57.384024Z"
 posted_at: "2022-01-03T00:00:00Z"
 status: ready
 apply_url: "https://apply.workable.com/ellison-institute-of-technology/j/D14CD808EC/"
@@ -32,4 +32,4 @@ areas:
 <p class="apply-cta"><a href="https://apply.workable.com/ellison-institute-of-technology/j/D14CD808EC/">Apply →</a></p>
 
 ---
-*Posted 2022-01-03 · Listing synced 2026-07-18 · 80k job ID `reclFW6wy78vv5aRb`*
+*Posted 2022-01-03 · Listing synced 2026-07-19 · 80k job ID `reclFW6wy78vv5aRb`*

@@ -2,7 +2,7 @@
 title: "PhD Student, Assistantship, AI Safety, Generative AI, and Agentic AI Systems"
 employer: "University of Connecticut, Reducing Information Ecosystem Threats Lab"
 job_id: "rece7DC81BbR19btp"
-last_updated: "2026-07-18T05:33:50.700804Z"
+last_updated: "2026-07-19T05:33:43.454417Z"
 posted_at: "2022-01-06T00:00:00Z"
 status: ready
 apply_url: "https://infothreats.cse.uconn.edu/currently-hiring/"
@@ -32,4 +32,4 @@ areas:
 <p class="apply-cta"><a href="https://infothreats.cse.uconn.edu/currently-hiring/">Apply →</a></p>
 
 ---
-*Posted 2022-01-06 · Listing synced 2026-07-18 · 80k job ID `rece7DC81BbR19btp`*
+*Posted 2022-01-06 · Listing synced 2026-07-19 · 80k job ID `rece7DC81BbR19btp`*

@@ -4,24 +4,20 @@ employer: "EY"
 job_id: "rec9M35pueerEbZWB"
 last_updated: "2026-07-18T05:32:46.971284Z"
 posted_at: "2026-07-01T00:00:00Z"
-status: ready
+status: closed
+closed_at: "2026-07-19"
 apply_url: "https://careers.ey.com/ey/job/Gurgaon-Assistant-Director-Policy-Lead-Support-HR-122010/1408858333/"
 areas:
   - "AI safety & policy"
 ---
 
+> ⚠️ **CLOSED on 2026-07-19** — this job is no longer listed on the 80,000 Hours board. Archived snapshot below.
+
 # Assistant Director, Policy Lead Support
 
-**[EY](https://www.ey.com/en_gl)**
+**EY**
 
-<dl class="job-meta">
-<dt>Location</dt><dd>Gurgaon, India, India, Asia</dd>
-<dt>Role type</dt><dd>Full-time</dd>
-<dt>Experience</dt><dd>Senior (10+ years experience)</dd>
-<dt>Degree</dt><dd>Master's degree</dd>
-</dl>
-
-**Areas & skills:** AI safety & policy, Policy, Legal
+**Areas & skills:** AI safety & policy
 
 ## Summary
 - In this role, you'll manage Responsible AI policy content and translate AI regulations into practical firmwide guidance.

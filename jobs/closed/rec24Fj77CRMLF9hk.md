@@ -4,25 +4,20 @@ employer: "Pure Earth"
 job_id: "rec24Fj77CRMLF9hk"
 last_updated: "2026-07-18T05:33:15.117918Z"
 posted_at: "2026-05-21T00:00:00Z"
-status: ready
+status: closed
+closed_at: "2026-07-19"
 apply_url: "https://app.trinethire.com/companies/586876-pure-earth/jobs/120688-human-resources-internship"
 areas:
   - "Global health & development"
 ---
 
+> ⚠️ **CLOSED on 2026-07-19** — this job is no longer listed on the 80,000 Hours board. Archived snapshot below.
+
 # Intern, Human Resources
 
-**[Pure Earth](https://www.pureearth.org/)**
+**Pure Earth**
 
-<dl class="job-meta">
-<dt>Location</dt><dd>New York, NY, USA</dd>
-<dt>Role type</dt><dd>Internship</dd>
-<dt>Experience</dt><dd>Entry-level</dd>
-<dt>Degree</dt><dd>Undergraduate degree or less</dd>
-<dt>Salary</dt><dd>$41,600</dd>
-</dl>
-
-**Areas & skills:** Global health & development, Operations
+**Areas & skills:** Global health & development
 
 ## Summary
 - In this role, you'll strengthen HR systems, standardization, and knowledge management across a global nonprofit organization.

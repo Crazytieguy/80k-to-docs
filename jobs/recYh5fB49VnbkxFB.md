@@ -2,7 +2,7 @@
 title: "APEX Awards"
 employer: "The British Academy"
 job_id: "recYh5fB49VnbkxFB"
-last_updated: "2026-07-18T05:32:45.290394Z"
+last_updated: "2026-07-19T05:32:36.480495Z"
 posted_at: "2026-07-02T00:00:00Z"
 status: ready
 apply_url: "https://www.thebritishacademy.ac.uk/funding/schemes/apex-awards/"
@@ -33,4 +33,4 @@ areas:
 <p class="apply-cta"><a href="https://www.thebritishacademy.ac.uk/funding/schemes/apex-awards/">Apply →</a></p>
 
 ---
-*Posted 2026-07-02 · Listing synced 2026-07-18 · 80k job ID `recYh5fB49VnbkxFB`*
+*Posted 2026-07-02 · Listing synced 2026-07-19 · 80k job ID `recYh5fB49VnbkxFB`*

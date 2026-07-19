@@ -2,7 +2,7 @@
 title: "Teacher"
 employer: "Technical Alignment Research Accelerator"
 job_id: "recUiGxhkiKWi7A5O"
-last_updated: "2026-07-18T05:32:23.341107Z"
+last_updated: "2026-07-19T05:32:14.954328Z"
 posted_at: "2026-07-15T00:03:00Z"
 status: ready
 apply_url: "https://docs.google.com/document/d/1VbQCRnfhHKDKqcYQQB2hESul_-E-G6xmZQMcpYf5zj8/edit?tab=t.0#heading=h.ewt0qmeqot2d"
@@ -34,4 +34,4 @@ areas:
 <p class="apply-cta"><a href="https://docs.google.com/document/d/1VbQCRnfhHKDKqcYQQB2hESul_-E-G6xmZQMcpYf5zj8/edit?tab=t.0#heading=h.ewt0qmeqot2d">Apply →</a></p>
 
 ---
-*Posted 2026-07-15 · Listing synced 2026-07-18 · 80k job ID `recUiGxhkiKWi7A5O`*
+*Posted 2026-07-15 · Listing synced 2026-07-19 · 80k job ID `recUiGxhkiKWi7A5O`*

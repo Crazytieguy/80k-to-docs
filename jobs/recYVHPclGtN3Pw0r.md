@@ -2,7 +2,7 @@
 title: "Intern (Fall 2026)"
 employer: "Lawfare Institute"
 job_id: "recYVHPclGtN3Pw0r"
-last_updated: "2026-07-18T05:32:20.965058Z"
+last_updated: "2026-07-19T05:32:12.468737Z"
 posted_at: "2026-07-17T00:00:00Z"
 status: ready
 apply_url: "https://www.lawfaremedia.org/article/intern-with-lawfare"
@@ -34,4 +34,4 @@ areas:
 <p class="apply-cta"><a href="https://www.lawfaremedia.org/article/intern-with-lawfare">Apply →</a></p>
 
 ---
-*Posted 2026-07-17 · Listing synced 2026-07-18 · 80k job ID `recYVHPclGtN3Pw0r`*
+*Posted 2026-07-17 · Listing synced 2026-07-19 · 80k job ID `recYVHPclGtN3Pw0r`*

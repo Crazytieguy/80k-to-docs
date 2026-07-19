@@ -2,7 +2,7 @@
 title: "Expression of Interest, Chem Bio Team"
 employer: "UK Government, AI Security Institute"
 job_id: "recYkouKAhO8pT3PQ"
-last_updated: "2026-07-18T05:32:40.407931Z"
+last_updated: "2026-07-19T05:32:31.281607Z"
 posted_at: "2026-07-06T00:01:00Z"
 status: ready
 apply_url: "https://job-boards.eu.greenhouse.io/aisi/jobs/4919338101"
@@ -35,4 +35,4 @@ areas:
 <p class="apply-cta"><a href="https://job-boards.eu.greenhouse.io/aisi/jobs/4919338101">Apply →</a></p>
 
 ---
-*Posted 2026-07-06 · Listing synced 2026-07-18 · 80k job ID `recYkouKAhO8pT3PQ`*
+*Posted 2026-07-06 · Listing synced 2026-07-19 · 80k job ID `recYkouKAhO8pT3PQ`*

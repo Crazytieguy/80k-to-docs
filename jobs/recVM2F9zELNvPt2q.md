@@ -2,7 +2,7 @@
 title: "Undergraduate Vacation Studentship, CSIRO Futures"
 employer: "Commonwealth Scientific and Industrial Research Organisation"
 job_id: "recVM2F9zELNvPt2q"
-last_updated: "2026-07-18T05:32:22.363930Z"
+last_updated: "2026-07-19T05:32:13.965524Z"
 posted_at: "2026-07-16T00:00:00Z"
 status: ready
 apply_url: "https://jobs.csiro.au/job/Melbourne%2C-VIC-Undergraduate-Vacation-Studentships-CSIRO-Futures/1364393866/"
@@ -33,4 +33,4 @@ areas:
 <p class="apply-cta"><a href="https://jobs.csiro.au/job/Melbourne%2C-VIC-Undergraduate-Vacation-Studentships-CSIRO-Futures/1364393866/">Apply →</a></p>
 
 ---
-*Posted 2026-07-16 · Listing synced 2026-07-18 · 80k job ID `recVM2F9zELNvPt2q`*
+*Posted 2026-07-16 · Listing synced 2026-07-19 · 80k job ID `recVM2F9zELNvPt2q`*

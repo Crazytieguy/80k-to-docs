@@ -2,7 +2,7 @@
 title: "Recruitment Admin"
 employer: "Impact Ops"
 job_id: "recOHSVcimRGFVQxx"
-last_updated: "2026-07-18T05:32:50.405941Z"
+last_updated: "2026-07-19T05:32:41.655378Z"
 posted_at: "2026-06-29T00:00:00Z"
 status: ready
 apply_url: "https://impact-ops.org/jobs/recruitment-admin/"
@@ -34,4 +34,4 @@ areas:
 <p class="apply-cta"><a href="https://impact-ops.org/jobs/recruitment-admin/">Apply →</a></p>
 
 ---
-*Posted 2026-06-29 · Listing synced 2026-07-18 · 80k job ID `recOHSVcimRGFVQxx`*
+*Posted 2026-06-29 · Listing synced 2026-07-19 · 80k job ID `recOHSVcimRGFVQxx`*

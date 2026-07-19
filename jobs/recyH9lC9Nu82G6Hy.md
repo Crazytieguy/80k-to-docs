@@ -2,7 +2,7 @@
 title: "Mentor, Pathfinder Fellowship"
 employer: "Kairos"
 job_id: "recyH9lC9Nu82G6Hy"
-last_updated: "2026-07-18T05:32:19.762585Z"
+last_updated: "2026-07-19T05:32:11.158342Z"
 posted_at: "2026-07-17T00:02:00Z"
 status: ready
 apply_url: "https://tally.so/r/zxOQaZ"
@@ -33,4 +33,4 @@ areas:
 <p class="apply-cta"><a href="https://tally.so/r/zxOQaZ">Apply →</a></p>
 
 ---
-*Posted 2026-07-17 · Listing synced 2026-07-18 · 80k job ID `recyH9lC9Nu82G6Hy`*
+*Posted 2026-07-17 · Listing synced 2026-07-19 · 80k job ID `recyH9lC9Nu82G6Hy`*

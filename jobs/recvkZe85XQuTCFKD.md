@@ -2,7 +2,7 @@
 title: "Communications Manager"
 employer: "Anima International"
 job_id: "recvkZe85XQuTCFKD"
-last_updated: "2026-07-18T05:32:51.655011Z"
+last_updated: "2026-07-19T05:32:42.900049Z"
 posted_at: "2026-06-24T00:00:00Z"
 status: ready
 apply_url: "https://animafrance.org/blog/2666"
@@ -33,4 +33,4 @@ areas:
 <p class="apply-cta"><a href="https://animafrance.org/blog/2666">Apply →</a></p>
 
 ---
-*Posted 2026-06-24 · Listing synced 2026-07-18 · 80k job ID `recvkZe85XQuTCFKD`*
+*Posted 2026-06-24 · Listing synced 2026-07-19 · 80k job ID `recvkZe85XQuTCFKD`*

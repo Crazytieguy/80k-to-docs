@@ -2,7 +2,7 @@
 title: "Specialist, AI and International Security"
 employer: "Simon Institute for Longterm Governance"
 job_id: "rec0MB6SmUwkGfqIK"
-last_updated: "2026-07-18T05:32:28.037708Z"
+last_updated: "2026-07-19T05:32:19.602938Z"
 posted_at: "2026-07-13T00:05:00Z"
 status: ready
 apply_url: "https://simoninstitute.ch/jobs/ai-x-international-security-specialist"
@@ -34,4 +34,4 @@ areas:
 <p class="apply-cta"><a href="https://simoninstitute.ch/jobs/ai-x-international-security-specialist">Apply →</a></p>
 
 ---
-*Posted 2026-07-13 · Listing synced 2026-07-18 · 80k job ID `rec0MB6SmUwkGfqIK`*
+*Posted 2026-07-13 · Listing synced 2026-07-19 · 80k job ID `rec0MB6SmUwkGfqIK`*

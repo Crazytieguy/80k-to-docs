@@ -2,7 +2,7 @@
 title: "Operations Coordinator"
 employer: "Shrimp Welfare Project"
 job_id: "recnvVGb0T2H9acju"
-last_updated: "2026-07-18T05:32:31.382421Z"
+last_updated: "2026-07-19T05:32:22.410055Z"
 posted_at: "2026-07-13T00:00:00Z"
 status: ready
 apply_url: "https://docs.google.com/document/d/1WQJQWLemM12rJ8xAKqASZsKCIKb2yROGOZaX6KEXrDw/edit?tab=t.0#heading=h.axeilkmp3g7a"
@@ -34,4 +34,4 @@ areas:
 <p class="apply-cta"><a href="https://docs.google.com/document/d/1WQJQWLemM12rJ8xAKqASZsKCIKb2yROGOZaX6KEXrDw/edit?tab=t.0#heading=h.axeilkmp3g7a">Apply →</a></p>
 
 ---
-*Posted 2026-07-13 · Listing synced 2026-07-18 · 80k job ID `recnvVGb0T2H9acju`*
+*Posted 2026-07-13 · Listing synced 2026-07-19 · 80k job ID `recnvVGb0T2H9acju`*

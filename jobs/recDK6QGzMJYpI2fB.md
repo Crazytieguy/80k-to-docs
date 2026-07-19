@@ -2,7 +2,7 @@
 title: "Expression of Interest"
 employer: "Lead Exposure Elimination Project"
 job_id: "recDK6QGzMJYpI2fB"
-last_updated: "2026-07-18T05:34:04.727728Z"
+last_updated: "2026-07-19T05:33:57.793043Z"
 posted_at: "2022-01-03T00:00:00Z"
 status: ready
 apply_url: "https://airtable.com/appBdrnsWFu7s2we4/pagO4wQmkv2cA3UK7/form"
@@ -17,7 +17,7 @@ areas:
 <dl class="job-meta">
 <dt>Location</dt><dd>Remote, Global</dd>
 <dt>Role type</dt><dd>Full-time</dd>
-<dt>Experience</dt><dd>Junior (1-4 years experience), Entry-level</dd>
+<dt>Experience</dt><dd>Entry-level, Junior (1-4 years experience)</dd>
 <dt>Degree</dt><dd>Undergraduate degree or less</dd>
 </dl>
 
@@ -29,4 +29,4 @@ areas:
 <p class="apply-cta"><a href="https://airtable.com/appBdrnsWFu7s2we4/pagO4wQmkv2cA3UK7/form">Apply →</a></p>
 
 ---
-*Posted 2022-01-03 · Listing synced 2026-07-18 · 80k job ID `recDK6QGzMJYpI2fB`*
+*Posted 2022-01-03 · Listing synced 2026-07-19 · 80k job ID `recDK6QGzMJYpI2fB`*

@@ -2,7 +2,7 @@
 title: "Operations Coordinator"
 employer: "Mirror Biology Dialogues Fund"
 job_id: "recVydYBejrVE3bAK"
-last_updated: "2026-07-18T05:32:21.705256Z"
+last_updated: "2026-07-19T05:32:13.231856Z"
 posted_at: "2026-07-16T00:05:00Z"
 status: ready
 apply_url: "https://mirrorbiologydialoguesfund.applytojob.com/apply/XetnCqPCPE/Operations-Coordinator?source=Our+Career+Page+Widget"
@@ -34,4 +34,4 @@ areas:
 <p class="apply-cta"><a href="https://mirrorbiologydialoguesfund.applytojob.com/apply/XetnCqPCPE/Operations-Coordinator?source=Our+Career+Page+Widget">Apply →</a></p>
 
 ---
-*Posted 2026-07-16 · Listing synced 2026-07-18 · 80k job ID `recVydYBejrVE3bAK`*
+*Posted 2026-07-16 · Listing synced 2026-07-19 · 80k job ID `recVydYBejrVE3bAK`*

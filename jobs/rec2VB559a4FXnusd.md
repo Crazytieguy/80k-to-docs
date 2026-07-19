@@ -2,7 +2,7 @@
 title: "Graduate Electronics Engineer"
 employer: "Amodo Design"
 job_id: "rec2VB559a4FXnusd"
-last_updated: "2026-07-18T05:33:03.778680Z"
+last_updated: "2026-07-19T05:32:55.294605Z"
 posted_at: "2026-06-09T00:00:00Z"
 status: ready
 apply_url: "https://amododesign.com/career/graduate-electronics-engineer/"
@@ -34,4 +34,4 @@ areas:
 <p class="apply-cta"><a href="https://amododesign.com/career/graduate-electronics-engineer/">Apply →</a></p>
 
 ---
-*Posted 2026-06-09 · Listing synced 2026-07-18 · 80k job ID `rec2VB559a4FXnusd`*
+*Posted 2026-06-09 · Listing synced 2026-07-19 · 80k job ID `rec2VB559a4FXnusd`*

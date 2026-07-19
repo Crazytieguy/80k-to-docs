@@ -2,7 +2,7 @@
 title: "AIxBiosecurity Specialist"
 employer: "Simon Institute for Longterm Governance"
 job_id: "rectRJHkNd9f8ETs6"
-last_updated: "2026-07-18T05:32:27.900455Z"
+last_updated: "2026-07-19T05:32:19.462676Z"
 posted_at: "2026-07-13T00:05:00Z"
 status: ready
 apply_url: "https://simoninstitute.ch/jobs/ai-x-biosecurity-specialist"
@@ -35,4 +35,4 @@ areas:
 <p class="apply-cta"><a href="https://simoninstitute.ch/jobs/ai-x-biosecurity-specialist">Apply →</a></p>
 
 ---
-*Posted 2026-07-13 · Listing synced 2026-07-18 · 80k job ID `rectRJHkNd9f8ETs6`*
+*Posted 2026-07-13 · Listing synced 2026-07-19 · 80k job ID `rectRJHkNd9f8ETs6`*

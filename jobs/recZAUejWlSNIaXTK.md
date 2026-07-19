@@ -2,7 +2,7 @@
 title: "Operations Associate / Manager"
 employer: "Cambridge AI Safety Hub"
 job_id: "recZAUejWlSNIaXTK"
-last_updated: "2026-07-18T05:32:35.368652Z"
+last_updated: "2026-07-19T05:32:26.374940Z"
 posted_at: "2026-07-08T00:02:00Z"
 status: ready
 apply_url: "https://caish.org/hiring"
@@ -34,4 +34,4 @@ areas:
 <p class="apply-cta"><a href="https://caish.org/hiring">Apply →</a></p>
 
 ---
-*Posted 2026-07-08 · Listing synced 2026-07-18 · 80k job ID `recZAUejWlSNIaXTK`*
+*Posted 2026-07-08 · Listing synced 2026-07-19 · 80k job ID `recZAUejWlSNIaXTK`*

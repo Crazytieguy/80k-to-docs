@@ -2,7 +2,7 @@
 title: "Events Coordinator"
 employer: "Principles of Intelligence"
 job_id: "rectP6sM2hr7D8tPa"
-last_updated: "2026-07-18T05:32:49.540310Z"
+last_updated: "2026-07-19T05:32:40.721362Z"
 posted_at: "2026-06-29T00:01:00Z"
 status: ready
 apply_url: "https://princint.ai/now-hiring-events-coordinators-at-principles-of-intelligence/"
@@ -34,4 +34,4 @@ areas:
 <p class="apply-cta"><a href="https://princint.ai/now-hiring-events-coordinators-at-principles-of-intelligence/">Apply →</a></p>
 
 ---
-*Posted 2026-06-29 · Listing synced 2026-07-18 · 80k job ID `rectP6sM2hr7D8tPa`*
+*Posted 2026-06-29 · Listing synced 2026-07-19 · 80k job ID `rectP6sM2hr7D8tPa`*

@@ -2,7 +2,7 @@
 title: "Applied Research Scientist, AI Security"
 employer: "Mila"
 job_id: "rechcLaPOtqNOherB"
-last_updated: "2026-07-18T05:33:59.463551Z"
+last_updated: "2026-07-19T05:33:52.966923Z"
 posted_at: "2022-01-05T00:00:00Z"
 status: ready
 apply_url: "https://apply.workable.com/mila-2/j/B644CB0FCE/"
@@ -33,4 +33,4 @@ areas:
 <p class="apply-cta"><a href="https://apply.workable.com/mila-2/j/B644CB0FCE/">Apply →</a></p>
 
 ---
-*Posted 2022-01-05 · Listing synced 2026-07-18 · 80k job ID `rechcLaPOtqNOherB`*
+*Posted 2022-01-05 · Listing synced 2026-07-19 · 80k job ID `rechcLaPOtqNOherB`*

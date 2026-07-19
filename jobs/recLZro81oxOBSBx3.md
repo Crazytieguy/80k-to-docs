@@ -2,7 +2,7 @@
 title: "Stakeholder Relations Officer"
 employer: "New Incentives"
 job_id: "recLZro81oxOBSBx3"
-last_updated: "2026-07-18T05:32:39.225531Z"
+last_updated: "2026-07-19T05:32:30.061477Z"
 posted_at: "2026-07-07T00:00:00Z"
 status: ready
 apply_url: "https://new-incentives.breezy.hr/p/ddec126d66e0-stakeholder-relation-officer"
@@ -33,4 +33,4 @@ areas:
 <p class="apply-cta"><a href="https://new-incentives.breezy.hr/p/ddec126d66e0-stakeholder-relation-officer">Apply →</a></p>
 
 ---
-*Posted 2026-07-07 · Listing synced 2026-07-18 · 80k job ID `recLZro81oxOBSBx3`*
+*Posted 2026-07-07 · Listing synced 2026-07-19 · 80k job ID `recLZro81oxOBSBx3`*

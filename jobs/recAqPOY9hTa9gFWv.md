@@ -2,7 +2,7 @@
 title: "Technical and Translational Lead, Safeguarded AI, Cybersecurity"
 employer: "Advanced Research and Invention Agency"
 job_id: "recAqPOY9hTa9gFWv"
-last_updated: "2026-07-18T05:32:40.107209Z"
+last_updated: "2026-07-19T05:32:30.978176Z"
 posted_at: "2026-07-06T00:01:00Z"
 status: ready
 apply_url: "https://aria.pinpointhq.com/en/postings/f1288172-37fe-4da5-96ed-de7e719d65e8"
@@ -34,4 +34,4 @@ areas:
 <p class="apply-cta"><a href="https://aria.pinpointhq.com/en/postings/f1288172-37fe-4da5-96ed-de7e719d65e8">Apply →</a></p>
 
 ---
-*Posted 2026-07-06 · Listing synced 2026-07-18 · 80k job ID `recAqPOY9hTa9gFWv`*
+*Posted 2026-07-06 · Listing synced 2026-07-19 · 80k job ID `recAqPOY9hTa9gFWv`*

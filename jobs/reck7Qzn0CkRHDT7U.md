@@ -2,7 +2,7 @@
 title: "Research Fellowship, Cryptographic Verification Mechanisms for Training AI Models"
 employer: "General-Purpose AI Policy Lab"
 job_id: "reck7Qzn0CkRHDT7U"
-last_updated: "2026-07-18T05:33:06.820551Z"
+last_updated: "2026-07-19T05:32:59.421324Z"
 posted_at: "2026-06-05T00:01:00Z"
 status: ready
 apply_url: "https://docs.google.com/document/d/1ldKRXFCobA6S9jqGD0hf1I4fTFtPbHjJ6vYRbJpluZ0/edit?tab=t.0#heading=h.13r5w1tbq74z"
@@ -34,4 +34,4 @@ areas:
 <p class="apply-cta"><a href="https://docs.google.com/document/d/1ldKRXFCobA6S9jqGD0hf1I4fTFtPbHjJ6vYRbJpluZ0/edit?tab=t.0#heading=h.13r5w1tbq74z">Apply →</a></p>
 
 ---
-*Posted 2026-06-05 · Listing synced 2026-07-18 · 80k job ID `reck7Qzn0CkRHDT7U`*
+*Posted 2026-06-05 · Listing synced 2026-07-19 · 80k job ID `reck7Qzn0CkRHDT7U`*
