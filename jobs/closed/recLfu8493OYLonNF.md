@@ -4,24 +4,20 @@ employer: "Cambridge University, Leverhulme Centre for the Future of Intelligenc
 job_id: "recLfu8493OYLonNF"
 last_updated: "2026-07-19T05:32:39.548978Z"
 posted_at: "2026-06-30T00:00:00Z"
-status: ready
+status: closed
+closed_at: "2026-07-20"
 apply_url: "https://www.lcfi.ac.uk/get-involved/vacancies/teaching-associate-in-ai-and-society-ethics"
 areas:
   - "AI safety & policy"
 ---
 
+> ⚠️ **CLOSED on 2026-07-20** — this job is no longer listed on the 80,000 Hours board. Archived snapshot below.
+
 # Teaching Associate, AI and Society / Ethics
 
-**[Cambridge University, Leverhulme Centre for the Future of Intelligence](https://lcfi.ac.uk)**
+**Cambridge University, Leverhulme Centre for the Future of Intelligence**
 
-<dl class="job-meta">
-<dt>Location</dt><dd>Cambridge, UK, UK</dd>
-<dt>Role type</dt><dd>Full-time</dd>
-<dt>Experience</dt><dd>Junior (1-4 years experience)</dd>
-<dt>Degree</dt><dd>Doctoral degree</dd>
-</dl>
-
-**Areas & skills:** AI safety & policy, Research, Other
+**Areas & skills:** AI safety & policy
 
 ## Summary
 - In this role, you'll deliver teaching and mentoring on the MSt in AI Ethics and Society programme.

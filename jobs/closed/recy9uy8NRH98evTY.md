@@ -4,25 +4,20 @@ employer: "MATS Research"
 job_id: "recy9uy8NRH98evTY"
 last_updated: "2026-07-19T05:33:40.239279Z"
 posted_at: "2022-01-06T00:00:00Z"
-status: ready
+status: closed
+closed_at: "2026-07-20"
 apply_url: "https://www.matsprogram.org/careers/compute-administrator-berkeley"
 areas:
   - "AI safety & policy"
 ---
 
+> ⚠️ **CLOSED on 2026-07-20** — this job is no longer listed on the 80,000 Hours board. Archived snapshot below.
+
 # Compute Administrator
 
-**[MATS Research](https://www.matsprogram.org/)**
+**MATS Research**
 
-<dl class="job-meta">
-<dt>Location</dt><dd>San Francisco Bay Area, USA, USA (Confirmed Visas)</dd>
-<dt>Role type</dt><dd>Full-time</dd>
-<dt>Experience</dt><dd>Junior (1-4 years experience)</dd>
-<dt>Degree</dt><dd>Undergraduate degree or less</dd>
-<dt>Salary</dt><dd>$130,000 – $200,000</dd>
-</dl>
-
-**Areas & skills:** AI safety & policy, Operations, Software engineering
+**Areas & skills:** AI safety & policy
 
 ## Summary
 - In this role, you'll build and operate research compute infrastructure that powers AI safety fellows and mentors at MATS.

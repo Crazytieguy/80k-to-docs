@@ -2,7 +2,7 @@
 title: "Founder Fellowship"
 employer: "South Park Commons"
 job_id: "rec5Yg8hPlA7FiWFY"
-last_updated: "2026-07-19T05:32:48.142690Z"
+last_updated: "2026-07-20T05:32:38.236745Z"
 posted_at: "2026-06-17T00:00:00Z"
 status: ready
 apply_url: "https://www.southparkcommons.com/founder-fellowship"
@@ -33,4 +33,4 @@ areas:
 <p class="apply-cta"><a href="https://www.southparkcommons.com/founder-fellowship">Apply →</a></p>
 
 ---
-*Posted 2026-06-17 · Listing synced 2026-07-19 · 80k job ID `rec5Yg8hPlA7FiWFY`*
+*Posted 2026-06-17 · Listing synced 2026-07-20 · 80k job ID `rec5Yg8hPlA7FiWFY`*

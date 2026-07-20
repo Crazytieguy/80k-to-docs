@@ -2,7 +2,7 @@
 title: "Fellowship"
 employer: "Principles of Intelligence"
 job_id: "reczygg2IsambgkLN"
-last_updated: "2026-07-19T05:32:38.709650Z"
+last_updated: "2026-07-20T05:32:30.482505Z"
 posted_at: "2026-06-30T00:02:00Z"
 status: ready
 apply_url: "https://princint.ai/programs/fellowship/"
@@ -34,4 +34,4 @@ areas:
 <p class="apply-cta"><a href="https://princint.ai/programs/fellowship/">Apply →</a></p>
 
 ---
-*Posted 2026-06-30 · Listing synced 2026-07-19 · 80k job ID `reczygg2IsambgkLN`*
+*Posted 2026-06-30 · Listing synced 2026-07-20 · 80k job ID `reczygg2IsambgkLN`*

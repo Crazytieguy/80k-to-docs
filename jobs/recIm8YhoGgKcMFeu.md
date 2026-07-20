@@ -2,7 +2,7 @@
 title: "Applied Scientist, AI Risk"
 employer: "Armilla"
 job_id: "recIm8YhoGgKcMFeu"
-last_updated: "2026-07-19T05:33:46.328737Z"
+last_updated: "2026-07-20T05:33:34.275068Z"
 posted_at: "2022-01-05T00:00:00Z"
 status: ready
 apply_url: "https://ats.rippling.com/armilla-ai/jobs/31983626-c38c-4c93-a52c-82c1491f60f7"
@@ -33,4 +33,4 @@ areas:
 <p class="apply-cta"><a href="https://ats.rippling.com/armilla-ai/jobs/31983626-c38c-4c93-a52c-82c1491f60f7">Apply →</a></p>
 
 ---
-*Posted 2022-01-05 · Listing synced 2026-07-19 · 80k job ID `recIm8YhoGgKcMFeu`*
+*Posted 2022-01-05 · Listing synced 2026-07-20 · 80k job ID `recIm8YhoGgKcMFeu`*

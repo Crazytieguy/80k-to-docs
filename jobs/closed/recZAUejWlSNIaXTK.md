@@ -4,25 +4,20 @@ employer: "Cambridge AI Safety Hub"
 job_id: "recZAUejWlSNIaXTK"
 last_updated: "2026-07-19T05:32:26.374940Z"
 posted_at: "2026-07-08T00:02:00Z"
-status: ready
+status: closed
+closed_at: "2026-07-20"
 apply_url: "https://caish.org/hiring"
 areas:
   - "AI safety & policy"
 ---
 
+> ⚠️ **CLOSED on 2026-07-20** — this job is no longer listed on the 80,000 Hours board. Archived snapshot below.
+
 # Operations Associate / Manager
 
-**[Cambridge AI Safety Hub](https://www.cambridgeaisafety.org/)**
+**Cambridge AI Safety Hub**
 
-<dl class="job-meta">
-<dt>Location</dt><dd>Cambridge, UK, UK, UK (Confirmed Visas)</dd>
-<dt>Role type</dt><dd>Full-time</dd>
-<dt>Experience</dt><dd>Junior (1-4 years experience), Entry-level</dd>
-<dt>Degree</dt><dd>Undergraduate degree or less</dd>
-<dt>Salary</dt><dd>$53,818 – $87,454</dd>
-</dl>
-
-**Areas & skills:** AI safety & policy, Operations
+**Areas & skills:** AI safety & policy
 
 ## Summary
 - In this role, you'll build and maintain operational systems that keep CAISH's programmes and hiring running smoothly.

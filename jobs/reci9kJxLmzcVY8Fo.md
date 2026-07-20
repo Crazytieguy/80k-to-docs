@@ -2,7 +2,7 @@
 title: "Policy Director, Implementation and Government Talent"
 employer: "Secure AI Project"
 job_id: "reci9kJxLmzcVY8Fo"
-last_updated: "2026-07-19T05:32:30.812407Z"
+last_updated: "2026-07-20T05:32:23.720893Z"
 posted_at: "2026-07-06T00:04:00Z"
 status: ready
 apply_url: "https://docs.google.com/document/d/1OSE-5VJG4CncqitS_Aqfz67AkqkuEDVQUqGiPBEMfNY/edit?tab=t.0#heading=h.cdmjf11njodl"
@@ -34,4 +34,4 @@ areas:
 <p class="apply-cta"><a href="https://docs.google.com/document/d/1OSE-5VJG4CncqitS_Aqfz67AkqkuEDVQUqGiPBEMfNY/edit?tab=t.0#heading=h.cdmjf11njodl">Apply →</a></p>
 
 ---
-*Posted 2026-07-06 · Listing synced 2026-07-19 · 80k job ID `reci9kJxLmzcVY8Fo`*
+*Posted 2026-07-06 · Listing synced 2026-07-20 · 80k job ID `reci9kJxLmzcVY8Fo`*

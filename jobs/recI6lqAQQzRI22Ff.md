@@ -2,10 +2,10 @@
 title: "Research Scientist"
 employer: "FutureSearch"
 job_id: "recI6lqAQQzRI22Ff"
-last_updated: "2026-07-19T05:32:15.964951Z"
+last_updated: "2026-07-20T05:32:08.352093Z"
 posted_at: "2026-07-15T00:00:00Z"
 status: ready
-apply_url: "https://apply.workable.com/futuresearch/j/CC8CA27FB4"
+apply_url: "https://apply.workable.com/futuresearch/j/CC8CA27FB4/"
 areas:
   - "Macrostrategy"
 ---
@@ -31,7 +31,7 @@ areas:
 - Create benchmarks and datasets to evaluate AI system capabilities.
 - Build and validate evaluations to test solution effectiveness.
 
-<p class="apply-cta"><a href="https://apply.workable.com/futuresearch/j/CC8CA27FB4">Apply →</a></p>
+<p class="apply-cta"><a href="https://apply.workable.com/futuresearch/j/CC8CA27FB4/">Apply →</a></p>
 
 ---
-*Posted 2026-07-15 · Listing synced 2026-07-19 · 80k job ID `recI6lqAQQzRI22Ff`*
+*Posted 2026-07-15 · Listing synced 2026-07-20 · 80k job ID `recI6lqAQQzRI22Ff`*

@@ -4,25 +4,20 @@ employer: "MATS Research"
 job_id: "recwwJQ6YizzVMtbi"
 last_updated: "2026-07-19T05:33:39.863212Z"
 posted_at: "2022-01-06T00:00:00Z"
-status: ready
+status: closed
+closed_at: "2026-07-20"
 apply_url: "https://www.matsprogram.org/careers/research-manager-berkeley-london"
 areas:
   - "AI technical safety"
 ---
 
+> ⚠️ **CLOSED on 2026-07-20** — this job is no longer listed on the 80,000 Hours board. Archived snapshot below.
+
 # Research Manager
 
-**[MATS Research](https://www.matsprogram.org/)**
+**MATS Research**
 
-<dl class="job-meta">
-<dt>Location</dt><dd>San Francisco Bay Area, London, UK, UK, USA, USA (Confirmed Visas), UK (Confirmed Visas)</dd>
-<dt>Role type</dt><dd>Full-time</dd>
-<dt>Experience</dt><dd>Junior (1-4 years experience), Mid (5-9 years experience)</dd>
-<dt>Degree</dt><dd>Undergraduate degree or less</dd>
-<dt>Salary</dt><dd>$130,000 – $200,000</dd>
-</dl>
-
-**Areas & skills:** AI technical safety, Research, Management
+**Areas & skills:** AI technical safety
 
 ## Summary
 - In this role, you'll accelerate and guide AI safety researchers, facilitating high-impact projects and contributing to the success of the MATS program.

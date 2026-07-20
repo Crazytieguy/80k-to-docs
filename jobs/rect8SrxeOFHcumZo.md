@@ -2,7 +2,7 @@
 title: "Machine Learning Researcher"
 employer: "Gray Swan"
 job_id: "rect8SrxeOFHcumZo"
-last_updated: "2026-07-19T05:33:08.613220Z"
+last_updated: "2026-07-20T05:32:55.871584Z"
 posted_at: "2026-05-20T00:03:00Z"
 status: ready
 apply_url: "https://www.grayswan.ai/careers?ashby_jid=7f3e5bed-ba29-45d4-9630-6486343e3d26"
@@ -15,7 +15,7 @@ areas:
 **[Gray Swan](https://www.grayswan.ai/)**
 
 <dl class="job-meta">
-<dt>Location</dt><dd>Remote, USA, Remote, Global, USA</dd>
+<dt>Location</dt><dd>Remote, Global, Remote, USA, USA</dd>
 <dt>Role type</dt><dd>Full-time</dd>
 <dt>Experience</dt><dd>Junior (1-4 years experience)</dd>
 <dt>Degree</dt><dd>Master's degree</dd>
@@ -33,4 +33,4 @@ areas:
 <p class="apply-cta"><a href="https://www.grayswan.ai/careers?ashby_jid=7f3e5bed-ba29-45d4-9630-6486343e3d26">Apply →</a></p>
 
 ---
-*Posted 2026-05-20 · Listing synced 2026-07-19 · 80k job ID `rect8SrxeOFHcumZo`*
+*Posted 2026-05-20 · Listing synced 2026-07-20 · 80k job ID `rect8SrxeOFHcumZo`*

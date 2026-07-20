@@ -2,7 +2,7 @@
 title: "Vice President, State Expansion"
 employer: "TechCongress"
 job_id: "recf3C9NacCuDM6uR"
-last_updated: "2026-07-19T05:32:11.427296Z"
+last_updated: "2026-07-20T05:32:03.234334Z"
 posted_at: "2026-07-17T00:02:00Z"
 status: ready
 apply_url: "https://techcongress.io/vp-of-expansion"
@@ -34,4 +34,4 @@ areas:
 <p class="apply-cta"><a href="https://techcongress.io/vp-of-expansion">Apply →</a></p>
 
 ---
-*Posted 2026-07-17 · Listing synced 2026-07-19 · 80k job ID `recf3C9NacCuDM6uR`*
+*Posted 2026-07-17 · Listing synced 2026-07-20 · 80k job ID `recf3C9NacCuDM6uR`*

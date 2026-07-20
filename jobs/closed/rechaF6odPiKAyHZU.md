@@ -4,24 +4,20 @@ employer: "Centre for Effective Altruism"
 job_id: "rechaF6odPiKAyHZU"
 last_updated: "2026-07-19T05:32:43.498795Z"
 posted_at: "2026-06-24T00:00:00Z"
-status: ready
+status: closed
+closed_at: "2026-07-20"
 apply_url: "https://www.effectivealtruism.org/courses/in-depth-program"
 areas:
   - "Building effective altruism"
 ---
 
+> ⚠️ **CLOSED on 2026-07-20** — this job is no longer listed on the 80,000 Hours board. Archived snapshot below.
+
 # In-Depth EA Program
 
-**[Centre for Effective Altruism](https://www.centreforeffectivealtruism.org)**
+**Centre for Effective Altruism**
 
-<dl class="job-meta">
-<dt>Location</dt><dd>Remote, Global</dd>
-<dt>Role type</dt><dd>Course</dd>
-<dt>Experience</dt><dd>Entry-level</dd>
-<dt>Degree</dt><dd>Undergraduate degree or less</dd>
-</dl>
-
-**Areas & skills:** Building effective altruism, Other
+**Areas & skills:** Building effective altruism
 
 ## Summary
 - This course teaches how to evaluate global problems and determine your potential impact through effective altruism.

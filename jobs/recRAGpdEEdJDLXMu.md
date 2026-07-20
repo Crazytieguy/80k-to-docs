@@ -2,7 +2,7 @@
 title: "Lead, Frontier Red Team, Cyber"
 employer: "Anthropic"
 job_id: "recRAGpdEEdJDLXMu"
-last_updated: "2026-07-19T05:32:13.758406Z"
+last_updated: "2026-07-20T05:32:05.505157Z"
 posted_at: "2026-07-16T00:00:00Z"
 status: ready
 apply_url: "https://job-boards.greenhouse.io/anthropic/jobs/5326358008"
@@ -34,4 +34,4 @@ areas:
 <p class="apply-cta"><a href="https://job-boards.greenhouse.io/anthropic/jobs/5326358008">Apply →</a></p>
 
 ---
-*Posted 2026-07-16 · Listing synced 2026-07-19 · 80k job ID `recRAGpdEEdJDLXMu`*
+*Posted 2026-07-16 · Listing synced 2026-07-20 · 80k job ID `recRAGpdEEdJDLXMu`*

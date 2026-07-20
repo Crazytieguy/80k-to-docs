@@ -4,25 +4,20 @@ employer: "Anima International"
 job_id: "recGe5P0gn4TXMFAB"
 last_updated: "2026-07-19T05:32:43.111609Z"
 posted_at: "2026-06-24T00:00:00Z"
-status: ready
+status: closed
+closed_at: "2026-07-20"
 apply_url: "https://animafrance.org/blog/anima-recrute-un%E2%B8%B1e-charge%E2%B8%B1e-de-campagnes"
 areas:
   - "Animal welfare"
 ---
 
+> ⚠️ **CLOSED on 2026-07-20** — this job is no longer listed on the 80,000 Hours board. Archived snapshot below.
+
 # Campaigns Manager
 
-**[Anima International](https://animainternational.org/)**
+**Anima International**
 
-<dl class="job-meta">
-<dt>Location</dt><dd>Paris, France, Remote, France, France, Europe (ex UK)</dd>
-<dt>Role type</dt><dd>Full-time</dd>
-<dt>Experience</dt><dd>Entry-level</dd>
-<dt>Degree</dt><dd>Undergraduate degree or less</dd>
-<dt>Salary</dt><dd>$38,533 – $93,347</dd>
-</dl>
-
-**Areas & skills:** Animal welfare, Outreach
+**Areas & skills:** Animal welfare
 
 ## Summary
 - In this role, you'll lead targeted campaigns to reduce animal suffering by developing strategies and executing diverse advocacy tactics.

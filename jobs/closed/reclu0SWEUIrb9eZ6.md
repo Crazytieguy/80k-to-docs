@@ -4,24 +4,20 @@ employer: "General-Purpose AI Policy Lab"
 job_id: "reclu0SWEUIrb9eZ6"
 last_updated: "2026-07-19T05:33:00.880316Z"
 posted_at: "2026-06-04T00:01:00Z"
-status: ready
+status: closed
+closed_at: "2026-07-20"
 apply_url: "https://docs.google.com/document/d/1fQur5Ag-xhPX1r6NVuQhzw9jrVJCdwbrIOAUah-Mg60/edit?tab=t.0#heading=h.t68xvssya9g"
 areas:
   - "AI safety & policy"
 ---
 
+> ⚠️ **CLOSED on 2026-07-20** — this job is no longer listed on the 80,000 Hours board. Archived snapshot below.
+
 # Research Fellowship, Evolution of AI Capabilities at the Frontier and Thresholds of Human Performance
 
-**[General-Purpose AI Policy Lab](https://gpai-policy-lab.org/)**
+**General-Purpose AI Policy Lab**
 
-<dl class="job-meta">
-<dt>Location</dt><dd>Paris, France, France, Europe (ex UK)</dd>
-<dt>Role type</dt><dd>Fellowship</dd>
-<dt>Experience</dt><dd>Entry-level</dd>
-<dt>Degree</dt><dd>Undergraduate degree or less</dd>
-</dl>
-
-**Areas & skills:** AI safety & policy, Research, Policy
+**Areas & skills:** AI safety & policy
 
 ## Summary
 - In this role, you'll extend the Epoch Capabilities Index using Bayesian methods to map AI capability thresholds against human performance.

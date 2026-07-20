@@ -4,25 +4,20 @@ employer: "General-Purpose AI Policy Lab"
 job_id: "reck7Qzn0CkRHDT7U"
 last_updated: "2026-07-19T05:32:59.421324Z"
 posted_at: "2026-06-05T00:01:00Z"
-status: ready
+status: closed
+closed_at: "2026-07-20"
 apply_url: "https://docs.google.com/document/d/1ldKRXFCobA6S9jqGD0hf1I4fTFtPbHjJ6vYRbJpluZ0/edit?tab=t.0#heading=h.13r5w1tbq74z"
 areas:
   - "AI safety & policy"
 ---
 
+> ⚠️ **CLOSED on 2026-07-20** — this job is no longer listed on the 80,000 Hours board. Archived snapshot below.
+
 # Research Fellowship, Cryptographic Verification Mechanisms for Training AI Models
 
-**[General-Purpose AI Policy Lab](https://gpai-policy-lab.org/)**
+**General-Purpose AI Policy Lab**
 
-<dl class="job-meta">
-<dt>Location</dt><dd>Paris, France, France, Europe (ex UK)</dd>
-<dt>Role type</dt><dd>Fellowship</dd>
-<dt>Experience</dt><dd>Entry-level</dd>
-<dt>Degree</dt><dd>Master's degree</dd>
-<dt>Salary</dt><dd>$13,727</dd>
-</dl>
-
-**Areas & skills:** AI safety & policy, Research, Information security
+**Areas & skills:** AI safety & policy
 
 ## Summary
 - In this role, you'll advance cryptographic verification mechanisms for AI training.

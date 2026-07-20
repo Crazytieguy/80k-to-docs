@@ -2,7 +2,7 @@
 title: "Contract Software Engineer"
 employer: "Kairos"
 job_id: "recLHNWGEH7ju94Gt"
-last_updated: "2026-07-19T05:33:04.215842Z"
+last_updated: "2026-07-20T05:32:51.889815Z"
 posted_at: "2026-05-29T00:03:00Z"
 status: ready
 apply_url: "https://jobs.ashbyhq.com/kairos-project/d0aeae33-8eae-4d58-ac30-369a87dd90c7"
@@ -34,4 +34,4 @@ areas:
 <p class="apply-cta"><a href="https://jobs.ashbyhq.com/kairos-project/d0aeae33-8eae-4d58-ac30-369a87dd90c7">Apply →</a></p>
 
 ---
-*Posted 2026-05-29 · Listing synced 2026-07-19 · 80k job ID `recLHNWGEH7ju94Gt`*
+*Posted 2026-05-29 · Listing synced 2026-07-20 · 80k job ID `recLHNWGEH7ju94Gt`*

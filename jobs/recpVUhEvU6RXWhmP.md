@@ -2,7 +2,7 @@
 title: "Contractor, Digital Content and Strategy"
 employer: "Institute for AI Policy and Strategy"
 job_id: "recpVUhEvU6RXWhmP"
-last_updated: "2026-07-19T05:32:10.649375Z"
+last_updated: "2026-07-20T05:32:02.506579Z"
 posted_at: "2026-07-17T00:04:26Z"
 status: ready
 apply_url: "https://www.iaps.ai/digital-content-and-strategy-specialist"
@@ -33,4 +33,4 @@ areas:
 <p class="apply-cta"><a href="https://www.iaps.ai/digital-content-and-strategy-specialist">Apply →</a></p>
 
 ---
-*Posted 2026-07-17 · Listing synced 2026-07-19 · 80k job ID `recpVUhEvU6RXWhmP`*
+*Posted 2026-07-17 · Listing synced 2026-07-20 · 80k job ID `recpVUhEvU6RXWhmP`*

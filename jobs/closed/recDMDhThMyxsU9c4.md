@@ -4,25 +4,20 @@ employer: "Social Change Lab"
 job_id: "recDMDhThMyxsU9c4"
 last_updated: "2026-07-19T05:32:34.610197Z"
 posted_at: "2026-07-03T00:00:00Z"
-status: ready
+status: closed
+closed_at: "2026-07-20"
 apply_url: "https://www.socialchangelab.org/careers/research-outreach-officer.html"
 areas:
   - "Macrostrategy"
 ---
 
+> ⚠️ **CLOSED on 2026-07-20** — this job is no longer listed on the 80,000 Hours board. Archived snapshot below.
+
 # Research and Outreach Officer
 
-**[Social Change Lab](https://www.socialchangelab.org/)**
+**Social Change Lab**
 
-<dl class="job-meta">
-<dt>Location</dt><dd>Remote, UK, UK</dd>
-<dt>Role type</dt><dd>Full-time</dd>
-<dt>Experience</dt><dd>Junior (1-4 years experience)</dd>
-<dt>Degree</dt><dd>Master's degree</dd>
-<dt>Salary</dt><dd>$49,781 – $56,509</dd>
-</dl>
-
-**Areas & skills:** Macrostrategy, Research, Outreach
+**Areas & skills:** Macrostrategy
 
 ## Summary
 - In this role, you'll conduct research on social movements and share findings with activists, funders and journalists.

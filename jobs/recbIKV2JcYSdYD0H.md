@@ -2,10 +2,10 @@
 title: "Research Contractor"
 employer: "FutureSearch"
 job_id: "recbIKV2JcYSdYD0H"
-last_updated: "2026-07-19T05:32:15.771293Z"
+last_updated: "2026-07-20T05:32:08.169569Z"
 posted_at: "2026-07-15T00:00:00Z"
 status: ready
-apply_url: "https://apply.workable.com/futuresearch/j/98A6E20ABA"
+apply_url: "https://apply.workable.com/futuresearch/j/98A6E20ABA/"
 areas:
   - "Macrostrategy"
 ---
@@ -31,7 +31,7 @@ areas:
 - Communicate your reasoning and uncertainties clearly in both synchronous and asynchronous environments.
 - Get up to speed quickly on new domains while maintaining awareness of your knowledge gaps.
 
-<p class="apply-cta"><a href="https://apply.workable.com/futuresearch/j/98A6E20ABA">Apply →</a></p>
+<p class="apply-cta"><a href="https://apply.workable.com/futuresearch/j/98A6E20ABA/">Apply →</a></p>
 
 ---
-*Posted 2026-07-15 · Listing synced 2026-07-19 · 80k job ID `recbIKV2JcYSdYD0H`*
+*Posted 2026-07-15 · Listing synced 2026-07-20 · 80k job ID `recbIKV2JcYSdYD0H`*

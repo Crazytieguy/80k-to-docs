@@ -4,25 +4,20 @@ employer: "Anima International"
 job_id: "recvkZe85XQuTCFKD"
 last_updated: "2026-07-19T05:32:42.900049Z"
 posted_at: "2026-06-24T00:00:00Z"
-status: ready
+status: closed
+closed_at: "2026-07-20"
 apply_url: "https://animafrance.org/blog/2666"
 areas:
   - "Animal welfare"
 ---
 
+> ⚠️ **CLOSED on 2026-07-20** — this job is no longer listed on the 80,000 Hours board. Archived snapshot below.
+
 # Communications Manager
 
-**[Anima International](https://animainternational.org/)**
+**Anima International**
 
-<dl class="job-meta">
-<dt>Location</dt><dd>Paris, France, Remote, France, France, Europe (ex UK)</dd>
-<dt>Role type</dt><dd>Full-time</dd>
-<dt>Experience</dt><dd>Entry-level</dd>
-<dt>Degree</dt><dd>Undergraduate degree or less</dd>
-<dt>Salary</dt><dd>$38,533 – $93,347</dd>
-</dl>
-
-**Areas & skills:** Animal welfare, Outreach
+**Areas & skills:** Animal welfare
 
 ## Summary
 - In this role, you'll raise awareness about farm animal suffering and convince companies and politicians to end cage farming through relationship-building and media campaigns.

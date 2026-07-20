@@ -4,26 +4,21 @@ employer: "UK Government, AI Security Institute"
 job_id: "rec2ApthoCClKm3tv"
 last_updated: "2026-07-19T05:32:47.509266Z"
 posted_at: "2026-06-17T00:05:00Z"
-status: ready
+status: closed
+closed_at: "2026-07-20"
 apply_url: "https://job-boards.eu.greenhouse.io/aisi/jobs/4899102101"
 areas:
   - "AI safety & policy"
   - "Biosecurity & pandemic preparedness"
 ---
 
+> ⚠️ **CLOSED on 2026-07-20** — this job is no longer listed on the 80,000 Hours board. Archived snapshot below.
+
 # Technical Programme Manager, Chem-Bio
 
-**[UK Government, AI Security Institute](https://www.aisi.gov.uk/)**
+**UK Government, AI Security Institute**
 
-<dl class="job-meta">
-<dt>Location</dt><dd>London, UK, UK</dd>
-<dt>Role type</dt><dd>Full-time</dd>
-<dt>Experience</dt><dd>Junior (1-4 years experience), Mid (5-9 years experience)</dd>
-<dt>Degree</dt><dd>Undergraduate degree or less</dd>
-<dt>Salary</dt><dd>$87,454 – $195,089</dd>
-</dl>
-
-**Areas & skills:** AI safety & policy, Biosecurity & pandemic preparedness, Operations
+**Areas & skills:** AI safety & policy, Biosecurity & pandemic preparedness
 
 ## Summary
 - In this role, you will work directly with Chem-Bio researchers to scope projects.

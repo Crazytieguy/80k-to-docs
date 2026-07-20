@@ -4,25 +4,20 @@ employer: "AIXI Labs"
 job_id: "recP9tTsx8bFFu5Eq"
 last_updated: "2026-07-19T05:32:41.074661Z"
 posted_at: "2026-06-29T00:00:00Z"
-status: ready
+status: closed
+closed_at: "2026-07-20"
 apply_url: "https://princint.ai/now-hiring-personal-assistant-at-aixi-labs-and-princint/"
 areas:
   - "AI safety & policy"
 ---
 
+> ⚠️ **CLOSED on 2026-07-20** — this job is no longer listed on the 80,000 Hours board. Archived snapshot below.
+
 # Personal Assistant, AIXI Labs and Principles of Intelligence
 
-**[AIXI Labs](https://www.aixi.uk/)**
+**AIXI Labs**
 
-<dl class="job-meta">
-<dt>Location</dt><dd>Remote, Global</dd>
-<dt>Role type</dt><dd>Part-time, Full-time</dd>
-<dt>Experience</dt><dd>Junior (1-4 years experience)</dd>
-<dt>Degree</dt><dd>Undergraduate degree or less</dd>
-<dt>Salary</dt><dd>$60,545 – $67,272</dd>
-</dl>
-
-**Areas & skills:** AI safety & policy, Operations
+**Areas & skills:** AI safety & policy
 
 ## Summary
 - In this role, you'll support the Executive Director and research director with communications, travel coordination, and operational logistics.

@@ -4,25 +4,20 @@ employer: "Meridian"
 job_id: "reccTeilt4VjJhKVP"
 last_updated: "2026-07-19T05:32:36.016819Z"
 posted_at: "2026-07-02T00:00:00Z"
-status: ready
+status: closed
+closed_at: "2026-07-20"
 apply_url: "https://www.meridiancambridge.org/senior-technical-ai-safety-research-manager"
 areas:
   - "AI safety & policy"
 ---
 
+> ⚠️ **CLOSED on 2026-07-20** — this job is no longer listed on the 80,000 Hours board. Archived snapshot below.
+
 # Senior Technical AI Safety Research Manager
 
-**[Meridian](https://www.meridiancambridge.org/)**
+**Meridian**
 
-<dl class="job-meta">
-<dt>Location</dt><dd>Cambridge, UK, UK, UK (Confirmed Visas)</dd>
-<dt>Role type</dt><dd>Full-time</dd>
-<dt>Experience</dt><dd>Mid (5-9 years experience)</dd>
-<dt>Degree</dt><dd>Undergraduate degree or less</dd>
-<dt>Salary</dt><dd>$87,454 – $134,544</dd>
-</dl>
-
-**Areas & skills:** AI safety & policy, Research, Management
+**Areas & skills:** AI safety & policy
 
 ## Summary
 - In this role, you'll mentor AI safety researchers and manage projects to maximise impact on AI risk.

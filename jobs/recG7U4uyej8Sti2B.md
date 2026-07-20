@@ -2,8 +2,8 @@
 title: "PhD Studentship, Monitoring and Increasing LLM Safety"
 employer: "Cambridge University, Department of Engineering"
 job_id: "recG7U4uyej8Sti2B"
-last_updated: "2026-07-19T05:33:16.114347Z"
-posted_at: "2026-05-01T00:00:00Z"
+last_updated: "2026-07-20T05:33:23.231625Z"
+posted_at: "2022-01-06T00:00:00Z"
 status: ready
 apply_url: "https://www.cam.ac.uk/jobs/phd-studentship-in-monitoring-and-increasing-llm-safety-nm49585-0"
 areas:
@@ -33,4 +33,4 @@ areas:
 <p class="apply-cta"><a href="https://www.cam.ac.uk/jobs/phd-studentship-in-monitoring-and-increasing-llm-safety-nm49585-0">Apply →</a></p>
 
 ---
-*Posted 2026-05-01 · Listing synced 2026-07-19 · 80k job ID `recG7U4uyej8Sti2B`*
+*Posted 2022-01-06 · Listing synced 2026-07-20 · 80k job ID `recG7U4uyej8Sti2B`*

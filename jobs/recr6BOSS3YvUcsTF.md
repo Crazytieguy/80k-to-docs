@@ -2,7 +2,7 @@
 title: "Fellows, Center on AI, Security, and Technology"
 employer: "RAND Corporation"
 job_id: "recr6BOSS3YvUcsTF"
-last_updated: "2026-07-19T05:32:45.205719Z"
+last_updated: "2026-07-20T05:32:35.497081Z"
 posted_at: "2026-06-22T00:00:00Z"
 status: ready
 apply_url: "https://www.rand.org/global-and-emerging-risks/centers/ai-security-and-technology/fellows.html"
@@ -15,7 +15,7 @@ areas:
 **[RAND Corporation](https://www.rand.org)**
 
 <dl class="job-meta">
-<dt>Location</dt><dd>San Francisco Bay Area, Washington, DC metro area, UK, USA</dd>
+<dt>Location</dt><dd>Washington, DC metro area, San Francisco Bay Area, UK, USA</dd>
 <dt>Role type</dt><dd>Fellowship</dd>
 <dt>Experience</dt><dd>Multiple experience levels</dd>
 <dt>Degree</dt><dd>Undergraduate degree or less</dd>
@@ -33,4 +33,4 @@ areas:
 <p class="apply-cta"><a href="https://www.rand.org/global-and-emerging-risks/centers/ai-security-and-technology/fellows.html">Apply →</a></p>
 
 ---
-*Posted 2026-06-22 · Listing synced 2026-07-19 · 80k job ID `recr6BOSS3YvUcsTF`*
+*Posted 2026-06-22 · Listing synced 2026-07-20 · 80k job ID `recr6BOSS3YvUcsTF`*

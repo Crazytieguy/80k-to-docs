@@ -2,7 +2,7 @@
 title: "Communications Lead, Post AGI Research"
 employer: "Google DeepMind"
 job_id: "rectsEolgVkQPc9HL"
-last_updated: "2026-07-19T05:32:18.417316Z"
+last_updated: "2026-07-20T05:32:10.953076Z"
 posted_at: "2026-07-14T00:00:00Z"
 status: ready
 apply_url: "https://www.google.com/about/careers/applications/jobs/results/101535657599345350-communications-lead-post-agi-research-deepmind?company=DeepMind"
@@ -33,4 +33,4 @@ areas:
 <p class="apply-cta"><a href="https://www.google.com/about/careers/applications/jobs/results/101535657599345350-communications-lead-post-agi-research-deepmind?company=DeepMind">Apply →</a></p>
 
 ---
-*Posted 2026-07-14 · Listing synced 2026-07-19 · 80k job ID `rectsEolgVkQPc9HL`*
+*Posted 2026-07-14 · Listing synced 2026-07-20 · 80k job ID `rectsEolgVkQPc9HL`*

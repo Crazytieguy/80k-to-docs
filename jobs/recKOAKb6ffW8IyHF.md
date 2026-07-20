@@ -2,7 +2,7 @@
 title: "The AI Lab Preparedness Primer"
 employer: "AI Whistleblower Initiative"
 job_id: "recKOAKb6ffW8IyHF"
-last_updated: "2026-07-19T05:32:33.294265Z"
+last_updated: "2026-07-20T05:32:25.946537Z"
 posted_at: "2026-07-03T00:00:00Z"
 status: ready
 apply_url: "https://aiwi.org/primer/"
@@ -32,4 +32,4 @@ areas:
 <p class="apply-cta"><a href="https://aiwi.org/primer/">Apply →</a></p>
 
 ---
-*Posted 2026-07-03 · Listing synced 2026-07-19 · 80k job ID `recKOAKb6ffW8IyHF`*
+*Posted 2026-07-03 · Listing synced 2026-07-20 · 80k job ID `recKOAKb6ffW8IyHF`*

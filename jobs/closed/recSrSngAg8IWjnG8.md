@@ -4,25 +4,20 @@ employer: "Safe AI Forum"
 job_id: "recSrSngAg8IWjnG8"
 last_updated: "2026-07-19T05:32:39.808738Z"
 posted_at: "2026-06-29T00:05:00Z"
-status: ready
+status: closed
+closed_at: "2026-07-20"
 apply_url: "https://saif.org/opportunities/people-operations-manager-2/"
 areas:
   - "AI safety & policy"
 ---
 
+> ⚠️ **CLOSED on 2026-07-20** — this job is no longer listed on the 80,000 Hours board. Archived snapshot below.
+
 # People Operations Manager
 
-**[Safe AI Forum](https://saif.org/)**
+**Safe AI Forum**
 
-<dl class="job-meta">
-<dt>Location</dt><dd>Remote, UK, UK, UK (Confirmed Visas)</dd>
-<dt>Role type</dt><dd>Full-time</dd>
-<dt>Experience</dt><dd>Junior (1-4 years experience)</dd>
-<dt>Degree</dt><dd>Undergraduate degree or less</dd>
-<dt>Salary</dt><dd>$100,083 – $115,598</dd>
-</dl>
-
-**Areas & skills:** AI safety & policy, Operations
+**Areas & skills:** AI safety & policy
 
 ## Summary
 - In this role, you'll strengthen the operational foundation and people systems as SAIF scales to 20+ staff.

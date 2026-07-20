@@ -4,24 +4,20 @@ employer: "Vista Institute for AI Policy"
 job_id: "recCESRh7BNAUpOCn"
 last_updated: "2026-07-19T05:32:19.330949Z"
 posted_at: "2026-07-14T00:00:00Z"
-status: ready
+status: closed
+closed_at: "2026-07-20"
 apply_url: "https://vistainstituteai.org/programs/agents"
 areas:
   - "AI safety & policy"
 ---
 
+> ⚠️ **CLOSED on 2026-07-20** — this job is no longer listed on the 80,000 Hours board. Archived snapshot below.
+
 # Course, AI Agents and the Law (Summer 2026)
 
-**[Vista Institute for AI Policy](https://vistainstituteai.org/)**
+**Vista Institute for AI Policy**
 
-<dl class="job-meta">
-<dt>Location</dt><dd>Remote, Global</dd>
-<dt>Role type</dt><dd>Course</dd>
-<dt>Experience</dt><dd>Entry-level</dd>
-<dt>Degree</dt><dd>Undergraduate degree or less</dd>
-</dl>
-
-**Areas & skills:** AI safety & policy, Policy, Legal
+**Areas & skills:** AI safety & policy
 
 ## Summary
 - This course teaches how law and policy apply to increasingly capable AI agents through two modules.
