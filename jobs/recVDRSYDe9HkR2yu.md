@@ -2,10 +2,10 @@
 title: "Social and Community Manager"
 employer: "Center for AI Safety"
 job_id: "recVDRSYDe9HkR2yu"
-last_updated: "2026-07-20T05:32:45.035674Z"
+last_updated: "2026-07-21T05:32:41.358957Z"
 posted_at: "2026-06-09T00:04:00Z"
 status: ready
-apply_url: "https://jobs.lever.co/aisafety/7c960ea7-2aba-4ec6-af72-5676cbf8305e"
+apply_url: "https://job-boards.greenhouse.io/centerforartificialintelligencesafetyinc/jobs/4297101009"
 areas:
   - "AI safety & policy"
 ---
@@ -31,7 +31,7 @@ areas:
 - Engage actively in comment sections by replying, holding the frame, and seeding discussions.
 - Build the amplifier network of creators and power-listeners through direct outreach and ready-to-run clips.
 
-<p class="apply-cta"><a href="https://jobs.lever.co/aisafety/7c960ea7-2aba-4ec6-af72-5676cbf8305e">Apply →</a></p>
+<p class="apply-cta"><a href="https://job-boards.greenhouse.io/centerforartificialintelligencesafetyinc/jobs/4297101009">Apply →</a></p>
 
 ---
-*Posted 2026-06-09 · Listing synced 2026-07-20 · 80k job ID `recVDRSYDe9HkR2yu`*
+*Posted 2026-06-09 · Listing synced 2026-07-21 · 80k job ID `recVDRSYDe9HkR2yu`*

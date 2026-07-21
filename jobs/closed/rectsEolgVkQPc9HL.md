@@ -4,24 +4,20 @@ employer: "Google DeepMind"
 job_id: "rectsEolgVkQPc9HL"
 last_updated: "2026-07-20T05:32:10.953076Z"
 posted_at: "2026-07-14T00:00:00Z"
-status: ready
+status: closed
+closed_at: "2026-07-21"
 apply_url: "https://www.google.com/about/careers/applications/jobs/results/101535657599345350-communications-lead-post-agi-research-deepmind?company=DeepMind"
 areas:
   - "AI safety & policy"
 ---
 
+> ⚠️ **CLOSED on 2026-07-21** — this job is no longer listed on the 80,000 Hours board. Archived snapshot below.
+
 # Communications Lead, Post AGI Research
 
-**[Google DeepMind](https://www.deepmind.com)**
+**Google DeepMind**
 
-<dl class="job-meta">
-<dt>Location</dt><dd>London, UK, UK</dd>
-<dt>Role type</dt><dd>Full-time</dd>
-<dt>Experience</dt><dd>Mid (5-9 years experience)</dd>
-<dt>Degree</dt><dd>Undergraduate degree or less</dd>
-</dl>
-
-**Areas & skills:** AI safety & policy, Outreach
+**Areas & skills:** AI safety & policy
 
 ## Summary
 - In this role, you'll lead communications for the Post AGI Research team and serve as primary communications contact for executives.

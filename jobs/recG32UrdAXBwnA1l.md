@@ -2,7 +2,7 @@
 title: "Cosmos Grants, AI for Truth-Seeking"
 employer: "Cosmos Institute"
 job_id: "recG32UrdAXBwnA1l"
-last_updated: "2026-07-20T05:32:32.868396Z"
+last_updated: "2026-07-21T05:32:28.826217Z"
 posted_at: "2026-06-26T00:00:00Z"
 status: ready
 apply_url: "https://www.cosmos-institute.org/grants#:~:text=AI%20for%20Truth%2DSeeking"
@@ -32,4 +32,4 @@ areas:
 <p class="apply-cta"><a href="https://www.cosmos-institute.org/grants#:~:text=AI%20for%20Truth%2DSeeking">Apply →</a></p>
 
 ---
-*Posted 2026-06-26 · Listing synced 2026-07-20 · 80k job ID `recG32UrdAXBwnA1l`*
+*Posted 2026-06-26 · Listing synced 2026-07-21 · 80k job ID `recG32UrdAXBwnA1l`*

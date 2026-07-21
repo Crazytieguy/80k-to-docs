@@ -2,7 +2,7 @@
 title: "Applied AI Engineer"
 employer: "Valthos"
 job_id: "reczNaYeGg4R25Pz2"
-last_updated: "2026-07-20T05:33:16.611748Z"
+last_updated: "2026-07-21T05:33:12.554003Z"
 posted_at: "2022-01-08T00:00:00Z"
 status: ready
 apply_url: "https://jobs.ashbyhq.com/valthos/ace82983-1564-47d0-a328-74c3bd9d03c8"
@@ -34,4 +34,4 @@ areas:
 <p class="apply-cta"><a href="https://jobs.ashbyhq.com/valthos/ace82983-1564-47d0-a328-74c3bd9d03c8">Apply →</a></p>
 
 ---
-*Posted 2022-01-08 · Listing synced 2026-07-20 · 80k job ID `reczNaYeGg4R25Pz2`*
+*Posted 2022-01-08 · Listing synced 2026-07-21 · 80k job ID `reczNaYeGg4R25Pz2`*

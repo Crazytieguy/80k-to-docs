@@ -2,10 +2,10 @@
 title: "Research Engineer Intern (Fall 2026)"
 employer: "Center for AI Safety"
 job_id: "recU4FPZknbbKuz0v"
-last_updated: "2026-07-20T05:33:03.407795Z"
+last_updated: "2026-07-21T05:32:59.477584Z"
 posted_at: "2022-01-12T00:00:00Z"
 status: ready
-apply_url: "https://jobs.lever.co/aisafety/e011814b-9a80-43d6-bb0c-cc153ea4bec4"
+apply_url: "https://job-boards.greenhouse.io/centerforartificialintelligencesafetyinc/jobs/4308524009"
 areas:
   - "AI safety & policy"
 ---
@@ -31,7 +31,7 @@ areas:
 - Debate and defend your own experimental approaches and contribute to project direction.
 - Take ownership of your contributions and work as a colleague within the research team.
 
-<p class="apply-cta"><a href="https://jobs.lever.co/aisafety/e011814b-9a80-43d6-bb0c-cc153ea4bec4">Apply →</a></p>
+<p class="apply-cta"><a href="https://job-boards.greenhouse.io/centerforartificialintelligencesafetyinc/jobs/4308524009">Apply →</a></p>
 
 ---
-*Posted 2022-01-12 · Listing synced 2026-07-20 · 80k job ID `recU4FPZknbbKuz0v`*
+*Posted 2022-01-12 · Listing synced 2026-07-21 · 80k job ID `recU4FPZknbbKuz0v`*

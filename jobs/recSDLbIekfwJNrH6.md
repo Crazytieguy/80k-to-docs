@@ -2,7 +2,7 @@
 title: "Fellowship"
 employer: "Impact First"
 job_id: "recSDLbIekfwJNrH6"
-last_updated: "2026-07-20T05:32:07.464329Z"
+last_updated: "2026-07-21T05:32:03.399201Z"
 posted_at: "2026-07-15T00:01:00Z"
 status: ready
 apply_url: "https://www.impactfirst.org.uk/fellowship"
@@ -33,4 +33,4 @@ areas:
 <p class="apply-cta"><a href="https://www.impactfirst.org.uk/fellowship">Apply →</a></p>
 
 ---
-*Posted 2026-07-15 · Listing synced 2026-07-20 · 80k job ID `recSDLbIekfwJNrH6`*
+*Posted 2026-07-15 · Listing synced 2026-07-21 · 80k job ID `recSDLbIekfwJNrH6`*

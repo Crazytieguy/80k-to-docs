@@ -2,7 +2,7 @@
 title: "Grantee"
 employer: "Center on Long-Term Risk"
 job_id: "rec0UyW1dWdj2JCm3"
-last_updated: "2026-07-20T05:33:09.014646Z"
+last_updated: "2026-07-21T05:33:05.881923Z"
 posted_at: "2022-01-11T00:00:00Z"
 status: ready
 apply_url: "https://longtermrisk.org/grantmaking/"
@@ -33,4 +33,4 @@ areas:
 <p class="apply-cta"><a href="https://longtermrisk.org/grantmaking/">Apply →</a></p>
 
 ---
-*Posted 2022-01-11 · Listing synced 2026-07-20 · 80k job ID `rec0UyW1dWdj2JCm3`*
+*Posted 2022-01-11 · Listing synced 2026-07-21 · 80k job ID `rec0UyW1dWdj2JCm3`*

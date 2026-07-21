@@ -2,7 +2,7 @@
 title: "List of Staff Opportunities, U.S. House of Representatives"
 employer: "US Government, Congress"
 job_id: "recCtIfjqpK2vH2cM"
-last_updated: "2026-07-20T05:32:09.210243Z"
+last_updated: "2026-07-21T05:32:05.110273Z"
 posted_at: "2026-07-15T00:00:00Z"
 status: ready
 apply_url: "https://drive.google.com/file/d/1EWaT9U0f0HTiP-_j6WkboKKyaw6Bz2un/view?usp=sharing"
@@ -31,4 +31,4 @@ areas:
 <p class="apply-cta"><a href="https://drive.google.com/file/d/1EWaT9U0f0HTiP-_j6WkboKKyaw6Bz2un/view?usp=sharing">Apply →</a></p>
 
 ---
-*Posted 2026-07-15 · Listing synced 2026-07-20 · 80k job ID `recCtIfjqpK2vH2cM`*
+*Posted 2026-07-15 · Listing synced 2026-07-21 · 80k job ID `recCtIfjqpK2vH2cM`*

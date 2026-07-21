@@ -4,25 +4,20 @@ employer: "Center for AI Safety"
 job_id: "rec9H92Na3jiI0nP2"
 last_updated: "2026-07-20T05:33:03.227563Z"
 posted_at: "2022-01-12T00:00:00Z"
-status: ready
+status: closed
+closed_at: "2026-07-21"
 apply_url: "https://jobs.lever.co/aisafety/116247a4-2940-4dce-b7d5-a6190328fd4e"
 areas:
   - "AI safety & policy"
 ---
 
+> ⚠️ **CLOSED on 2026-07-21** — this job is no longer listed on the 80,000 Hours board. Archived snapshot below.
+
 # Research Engineer
 
-**[Center for AI Safety](https://www.cais.ai/)**
+**Center for AI Safety**
 
-<dl class="job-meta">
-<dt>Location</dt><dd>San Francisco Bay Area, USA</dd>
-<dt>Role type</dt><dd>Full-time</dd>
-<dt>Experience</dt><dd>Junior (1-4 years experience), Mid (5-9 years experience)</dd>
-<dt>Degree</dt><dd>Undergraduate degree or less</dd>
-<dt>Salary</dt><dd>$140,000 – $200,000</dd>
-</dl>
-
-**Areas & skills:** AI safety & policy, Research, Software engineering
+**Areas & skills:** AI safety & policy
 
 ## Summary
 - In this role, you'll pursue AI safety research in areas like Honesty, Utility Engineering, Trojans, Transparency, and Robustness.

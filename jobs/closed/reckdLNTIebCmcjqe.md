@@ -4,25 +4,20 @@ employer: "The Elders"
 job_id: "reckdLNTIebCmcjqe"
 last_updated: "2026-07-20T05:32:22.242412Z"
 posted_at: "2026-07-07T00:01:00Z"
-status: ready
+status: closed
+closed_at: "2026-07-21"
 apply_url: "https://theelders.org/news/we-are-recruiting-programme-advisor-artificial-intelligence"
 areas:
   - "AI safety & policy"
 ---
 
+> ⚠️ **CLOSED on 2026-07-21** — this job is no longer listed on the 80,000 Hours board. Archived snapshot below.
+
 # Programme Advisor, Artificial Intelligence
 
-**[The Elders](https://theelders.org/)**
+**The Elders**
 
-<dl class="job-meta">
-<dt>Location</dt><dd>London, UK, UK</dd>
-<dt>Role type</dt><dd>Full-time</dd>
-<dt>Experience</dt><dd>Mid (5-9 years experience), Senior (10+ years experience)</dd>
-<dt>Degree</dt><dd>Undergraduate degree or less</dd>
-<dt>Salary</dt><dd>$75,144 – $81,338</dd>
-</dl>
-
-**Areas & skills:** AI safety & policy, Outreach, Strategy
+**Areas & skills:** AI safety & policy
 
 ## Summary
 - In this role, you'll lead in supporting the Elders on AI, developing and implementing strategic initiatives with a focus on governance.

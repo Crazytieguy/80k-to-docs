@@ -4,24 +4,20 @@ employer: "Google DeepMind"
 job_id: "recqjsxpvaVYlkR6i"
 last_updated: "2026-07-20T05:32:20.856006Z"
 posted_at: "2026-07-08T00:00:00Z"
-status: ready
+status: closed
+closed_at: "2026-07-21"
 apply_url: "https://www.google.com/about/careers/applications/jobs/results/138624521266438854-research-engineer-frontier-safety-mitigations-deepmind?company=DeepMind&page=2"
 areas:
   - "AI safety & policy"
 ---
 
+> ⚠️ **CLOSED on 2026-07-21** — this job is no longer listed on the 80,000 Hours board. Archived snapshot below.
+
 # Research Engineer, Frontier Safety Mitigations
 
-**[Google DeepMind](https://www.deepmind.com)**
+**Google DeepMind**
 
-<dl class="job-meta">
-<dt>Location</dt><dd>London, UK, UK</dd>
-<dt>Role type</dt><dd>Full-time</dd>
-<dt>Experience</dt><dd>Mid (5-9 years experience)</dd>
-<dt>Degree</dt><dd>Undergraduate degree or less</dd>
-</dl>
-
-**Areas & skills:** AI safety & policy, Research, Software engineering, Information security
+**Areas & skills:** AI safety & policy
 
 ## Summary
 - In this role, you'll de-risk model launches by defending against misuse and building safety mitigations.

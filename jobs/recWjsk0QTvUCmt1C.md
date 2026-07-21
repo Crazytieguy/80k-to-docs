@@ -2,10 +2,10 @@
 title: "Chief of Staff"
 employer: "Center for AI Safety"
 job_id: "recWjsk0QTvUCmt1C"
-last_updated: "2026-07-20T05:32:58.007315Z"
+last_updated: "2026-07-21T05:32:54.558467Z"
 posted_at: "2026-05-18T00:05:00Z"
 status: ready
-apply_url: "https://jobs.lever.co/aisafety/6e096bf8-3589-48e0-bfd4-7cba55eb91a8"
+apply_url: "https://job-boards.greenhouse.io/centerforartificialintelligencesafetyinc/jobs/4320659009"
 areas:
   - "AI safety & policy"
 ---
@@ -31,7 +31,7 @@ areas:
 - Coordinate across the executive team to mediate disagreements, force alignment, and drive cross-functional execution.
 - Represent the President externally and build systems enabling the organization to operate independently.
 
-<p class="apply-cta"><a href="https://jobs.lever.co/aisafety/6e096bf8-3589-48e0-bfd4-7cba55eb91a8">Apply →</a></p>
+<p class="apply-cta"><a href="https://job-boards.greenhouse.io/centerforartificialintelligencesafetyinc/jobs/4320659009">Apply →</a></p>
 
 ---
-*Posted 2026-05-18 · Listing synced 2026-07-20 · 80k job ID `recWjsk0QTvUCmt1C`*
+*Posted 2026-05-18 · Listing synced 2026-07-21 · 80k job ID `recWjsk0QTvUCmt1C`*

@@ -4,25 +4,20 @@ employer: "Principles of Intelligence"
 job_id: "reczygg2IsambgkLN"
 last_updated: "2026-07-20T05:32:30.482505Z"
 posted_at: "2026-06-30T00:02:00Z"
-status: ready
+status: closed
+closed_at: "2026-07-21"
 apply_url: "https://princint.ai/programs/fellowship/"
 areas:
   - "AI safety & policy"
 ---
 
+> ⚠️ **CLOSED on 2026-07-21** — this job is no longer listed on the 80,000 Hours board. Archived snapshot below.
+
 # Fellowship
 
-**[Principles of Intelligence](https://princint.ai/)**
+**Principles of Intelligence**
 
-<dl class="job-meta">
-<dt>Location</dt><dd>Cape Town, South Africa, South Africa, Africa</dd>
-<dt>Role type</dt><dd>Fellowship</dd>
-<dt>Experience</dt><dd>Multiple experience levels</dd>
-<dt>Degree</dt><dd>Doctoral degree</dd>
-<dt>Salary</dt><dd>$36,000</dd>
-</dl>
-
-**Areas & skills:** AI safety & policy, Research
+**Areas & skills:** AI safety & policy
 
 ## Summary
 - In this 3-month intensive fellowship, you'll conduct full-time research on AI safety projects with dedicated mentorship.

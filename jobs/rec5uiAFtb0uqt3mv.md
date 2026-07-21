@@ -2,10 +2,10 @@
 title: "Principal, Special Projects"
 employer: "Center for AI Safety"
 job_id: "rec5uiAFtb0uqt3mv"
-last_updated: "2026-07-20T05:33:08.675159Z"
+last_updated: "2026-07-21T05:33:05.567398Z"
 posted_at: "2022-01-11T00:00:00Z"
 status: ready
-apply_url: "https://jobs.lever.co/aisafety/1d294768-31cd-4d00-a238-a3eded93c695"
+apply_url: "https://job-boards.greenhouse.io/centerforartificialintelligencesafetyinc/jobs/4315278009"
 areas:
   - "AI safety & policy"
 ---
@@ -31,7 +31,7 @@ areas:
 - Stay agile when priorities shift, re-scoping and re-prioritizing without losing momentum.
 - Monitor risks and surface critical issues early with recommended solutions.
 
-<p class="apply-cta"><a href="https://jobs.lever.co/aisafety/1d294768-31cd-4d00-a238-a3eded93c695">Apply →</a></p>
+<p class="apply-cta"><a href="https://job-boards.greenhouse.io/centerforartificialintelligencesafetyinc/jobs/4315278009">Apply →</a></p>
 
 ---
-*Posted 2022-01-11 · Listing synced 2026-07-20 · 80k job ID `rec5uiAFtb0uqt3mv`*
+*Posted 2022-01-11 · Listing synced 2026-07-21 · 80k job ID `rec5uiAFtb0uqt3mv`*

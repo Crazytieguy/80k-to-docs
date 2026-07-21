@@ -2,7 +2,7 @@
 title: "Regulatory Policy Intelligence Manager"
 employer: "Coalition for Epidemic Preparedness Innovations"
 job_id: "recufaT8pzhevynZQ"
-last_updated: "2026-07-20T05:32:25.651714Z"
+last_updated: "2026-07-21T05:32:21.207837Z"
 posted_at: "2026-07-03T00:01:00Z"
 status: ready
 apply_url: "https://cepi.my.salesforce-sites.com/careers/xcdrecruit__PositionDetails?id=a43P300000FsDCYIA3"
@@ -33,4 +33,4 @@ areas:
 <p class="apply-cta"><a href="https://cepi.my.salesforce-sites.com/careers/xcdrecruit__PositionDetails?id=a43P300000FsDCYIA3">Apply →</a></p>
 
 ---
-*Posted 2026-07-03 · Listing synced 2026-07-20 · 80k job ID `recufaT8pzhevynZQ`*
+*Posted 2026-07-03 · Listing synced 2026-07-21 · 80k job ID `recufaT8pzhevynZQ`*
