@@ -2,7 +2,7 @@
 title: "Credentialing Lead"
 employer: "BioTrust"
 job_id: "rec9BfXRqPePH3z6e"
-last_updated: "2026-07-21T05:32:12.794858Z"
+last_updated: "2026-07-22T05:32:09.599311Z"
 posted_at: "2026-07-09T00:02:00Z"
 status: ready
 apply_url: "https://biotrust.org/jobs/credentialing-lead"
@@ -35,4 +35,4 @@ areas:
 <p class="apply-cta"><a href="https://biotrust.org/jobs/credentialing-lead">Apply →</a></p>
 
 ---
-*Posted 2026-07-09 · Listing synced 2026-07-21 · 80k job ID `rec9BfXRqPePH3z6e`*
+*Posted 2026-07-09 · Listing synced 2026-07-22 · 80k job ID `rec9BfXRqPePH3z6e`*

@@ -2,7 +2,7 @@
 title: "Member of Technical Staff, Product Engineer"
 employer: "Valthos"
 job_id: "reci4I8ozApB384cP"
-last_updated: "2026-07-21T05:33:13.084621Z"
+last_updated: "2026-07-22T05:33:08.318168Z"
 posted_at: "2022-01-08T00:00:00Z"
 status: ready
 apply_url: "https://jobs.ashbyhq.com/valthos/704787e6-2b49-4282-8648-faaf106e7d78"
@@ -33,4 +33,4 @@ areas:
 <p class="apply-cta"><a href="https://jobs.ashbyhq.com/valthos/704787e6-2b49-4282-8648-faaf106e7d78">Apply →</a></p>
 
 ---
-*Posted 2022-01-08 · Listing synced 2026-07-21 · 80k job ID `reci4I8ozApB384cP`*
+*Posted 2022-01-08 · Listing synced 2026-07-22 · 80k job ID `reci4I8ozApB384cP`*

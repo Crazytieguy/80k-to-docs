@@ -2,7 +2,7 @@
 title: "Chief Data Scientist, AI Safety"
 employer: "US Government, Pacific Northwest National Laboratory"
 job_id: "recuRM3gz1Fl2vgN8"
-last_updated: "2026-07-21T05:32:33.158094Z"
+last_updated: "2026-07-22T05:32:28.176681Z"
 posted_at: "2026-06-19T00:00:00Z"
 status: ready
 apply_url: "https://careers.pnnl.gov/jobs/11779?lang=en-us"
@@ -34,4 +34,4 @@ areas:
 <p class="apply-cta"><a href="https://careers.pnnl.gov/jobs/11779?lang=en-us">Apply →</a></p>
 
 ---
-*Posted 2026-06-19 · Listing synced 2026-07-21 · 80k job ID `recuRM3gz1Fl2vgN8`*
+*Posted 2026-06-19 · Listing synced 2026-07-22 · 80k job ID `recuRM3gz1Fl2vgN8`*

@@ -2,7 +2,7 @@
 title: "Field Strategy Specialist"
 employer: "BlueDot Impact"
 job_id: "recOO7Li1detHm7ii"
-last_updated: "2026-07-21T05:33:18.109178Z"
+last_updated: "2026-07-22T05:33:13.017907Z"
 posted_at: "2022-01-06T00:00:00Z"
 status: ready
 apply_url: "https://bluedot.org/join-us/field-strategy-specialist"
@@ -33,4 +33,4 @@ areas:
 <p class="apply-cta"><a href="https://bluedot.org/join-us/field-strategy-specialist">Apply →</a></p>
 
 ---
-*Posted 2022-01-06 · Listing synced 2026-07-21 · 80k job ID `recOO7Li1detHm7ii`*
+*Posted 2022-01-06 · Listing synced 2026-07-22 · 80k job ID `recOO7Li1detHm7ii`*

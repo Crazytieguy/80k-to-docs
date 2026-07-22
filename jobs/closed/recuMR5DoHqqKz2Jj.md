@@ -4,25 +4,20 @@ employer: "Windfall Trust"
 job_id: "recuMR5DoHqqKz2Jj"
 last_updated: "2026-07-21T05:32:31.739651Z"
 posted_at: "2026-06-22T00:00:00Z"
-status: ready
+status: closed
+closed_at: "2026-07-22"
 apply_url: "https://jobs.ashbyhq.com/windfall/f77efc24-0d57-4efa-be19-77d472e967d8"
 areas:
   - "AI safety & policy"
 ---
 
+> ⚠️ **CLOSED on 2026-07-22** — this job is no longer listed on the 80,000 Hours board. Archived snapshot below.
+
 # Events Producer
 
-**[Windfall Trust](https://windfalltrust.org/)**
+**Windfall Trust**
 
-<dl class="job-meta">
-<dt>Location</dt><dd>Remote, USA, Remote, Europe, USA, Europe, Europe (ex UK)</dd>
-<dt>Role type</dt><dd>Full-time</dd>
-<dt>Experience</dt><dd>Mid (5-9 years experience)</dd>
-<dt>Degree</dt><dd>Undergraduate degree or less</dd>
-<dt>Salary</dt><dd>$95,000 – $125,000</dd>
-</dl>
-
-**Areas & skills:** AI safety & policy, Operations
+**Areas & skills:** AI safety & policy
 
 ## Summary
 - In this role, you'll own the production of Windfall's events from planning through on-site delivery and follow-up.

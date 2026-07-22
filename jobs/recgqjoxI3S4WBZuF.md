@@ -2,7 +2,7 @@
 title: "Research Incubator"
 employer: "AI Safety Camp"
 job_id: "recgqjoxI3S4WBZuF"
-last_updated: "2026-07-21T05:32:06.157818Z"
+last_updated: "2026-07-22T05:32:02.483087Z"
 posted_at: "2026-07-14T00:00:00Z"
 status: ready
 apply_url: "https://www.aisafety.camp/"
@@ -32,4 +32,4 @@ areas:
 <p class="apply-cta"><a href="https://www.aisafety.camp/">Apply →</a></p>
 
 ---
-*Posted 2026-07-14 · Listing synced 2026-07-21 · 80k job ID `recgqjoxI3S4WBZuF`*
+*Posted 2026-07-14 · Listing synced 2026-07-22 · 80k job ID `recgqjoxI3S4WBZuF`*

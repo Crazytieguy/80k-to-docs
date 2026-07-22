@@ -2,7 +2,7 @@
 title: "Grantmakers, U.S. AI Policy and Public Policy"
 employer: "Coefficient Giving"
 job_id: "recDXCw7zkWLrOITc"
-last_updated: "2026-07-21T05:32:10.312638Z"
+last_updated: "2026-07-22T05:32:06.790622Z"
 posted_at: "2026-07-10T00:05:00Z"
 status: ready
 apply_url: "https://jobs.ashbyhq.com/coefficientgiving/5496d5b6-d7d2-4390-b577-af6b0c3bf24b"
@@ -34,4 +34,4 @@ areas:
 <p class="apply-cta"><a href="https://jobs.ashbyhq.com/coefficientgiving/5496d5b6-d7d2-4390-b577-af6b0c3bf24b">Apply →</a></p>
 
 ---
-*Posted 2026-07-10 · Listing synced 2026-07-21 · 80k job ID `recDXCw7zkWLrOITc`*
+*Posted 2026-07-10 · Listing synced 2026-07-22 · 80k job ID `recDXCw7zkWLrOITc`*

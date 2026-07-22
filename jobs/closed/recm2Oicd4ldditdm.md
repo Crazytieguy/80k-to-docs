@@ -4,24 +4,20 @@ employer: "Effective Institutions Project"
 job_id: "recm2Oicd4ldditdm"
 last_updated: "2026-07-21T05:32:29.183855Z"
 posted_at: "2026-06-25T00:02:00Z"
-status: ready
+status: closed
+closed_at: "2026-07-22"
 apply_url: "https://checks-and-balances.ai/"
 areas:
   - "Safeguarding liberal democracy"
 ---
 
+> ⚠️ **CLOSED on 2026-07-22** — this job is no longer listed on the 80,000 Hours board. Archived snapshot below.
+
 # Request for Proposal: Checks and Balances to Empower Citizens in an Automated Society
 
-**[Effective Institutions Project](https://effectiveinstitutionsproject.org/)**
+**Effective Institutions Project**
 
-<dl class="job-meta">
-<dt>Location</dt><dd>Remote, Global</dd>
-<dt>Role type</dt><dd>Funding</dd>
-<dt>Experience</dt><dd>Multiple experience levels</dd>
-<dt>Degree</dt><dd>Undergraduate degree or less</dd>
-</dl>
-
-**Areas & skills:** Safeguarding liberal democracy, Strategy
+**Areas & skills:** Safeguarding liberal democracy
 
 ## Summary
 - Provides funding for designing the institutional infrastructure of an AI-era democracy.

@@ -2,7 +2,7 @@
 title: "Campaign Associate"
 employer: "Animal Equality"
 job_id: "recxxty8NsH3fAXyr"
-last_updated: "2026-07-21T05:33:42.976972Z"
+last_updated: "2026-07-22T05:33:36.332797Z"
 posted_at: "2022-01-02T00:00:00Z"
 status: ready
 apply_url: "https://igualdadanimal.mx/empleos/oferta-de-empleo-asociado-de-campanas/"
@@ -33,4 +33,4 @@ areas:
 <p class="apply-cta"><a href="https://igualdadanimal.mx/empleos/oferta-de-empleo-asociado-de-campanas/">Apply →</a></p>
 
 ---
-*Posted 2022-01-02 · Listing synced 2026-07-21 · 80k job ID `recxxty8NsH3fAXyr`*
+*Posted 2022-01-02 · Listing synced 2026-07-22 · 80k job ID `recxxty8NsH3fAXyr`*

@@ -2,7 +2,7 @@
 title: "Data and Operations Specialist"
 employer: "Constellation"
 job_id: "recepuEeMYgcVsBYY"
-last_updated: "2026-07-21T05:33:21.739955Z"
+last_updated: "2026-07-22T05:33:15.750288Z"
 posted_at: "2022-01-06T00:00:00Z"
 status: ready
 apply_url: "https://jobs.gem.com/constellation-institute/cf2e47d7-9ac5-4385-a664-9cea9f7c4172"
@@ -34,4 +34,4 @@ areas:
 <p class="apply-cta"><a href="https://jobs.gem.com/constellation-institute/cf2e47d7-9ac5-4385-a664-9cea9f7c4172">Apply →</a></p>
 
 ---
-*Posted 2022-01-06 · Listing synced 2026-07-21 · 80k job ID `recepuEeMYgcVsBYY`*
+*Posted 2022-01-06 · Listing synced 2026-07-22 · 80k job ID `recepuEeMYgcVsBYY`*

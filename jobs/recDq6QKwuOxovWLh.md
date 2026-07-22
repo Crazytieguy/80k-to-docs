@@ -2,7 +2,7 @@
 title: "Trade and Industry Analyst"
 employer: "US Government, Bureau of Industry and Security"
 job_id: "recDq6QKwuOxovWLh"
-last_updated: "2026-07-21T05:32:00.963236Z"
+last_updated: "2026-07-22T05:31:58.132724Z"
 posted_at: "2026-07-17T00:00:00Z"
 status: ready
 apply_url: "https://www.usajobs.gov/job/876841800"
@@ -34,4 +34,4 @@ areas:
 <p class="apply-cta"><a href="https://www.usajobs.gov/job/876841800">Apply →</a></p>
 
 ---
-*Posted 2026-07-17 · Listing synced 2026-07-21 · 80k job ID `recDq6QKwuOxovWLh`*
+*Posted 2026-07-17 · Listing synced 2026-07-22 · 80k job ID `recDq6QKwuOxovWLh`*

@@ -2,7 +2,7 @@
 title: "Head of Policy and Research"
 employer: "AI Diplomatic Engagement Network"
 job_id: "recFyPYgkXXtDuDZ0"
-last_updated: "2026-07-21T05:31:57.542972Z"
+last_updated: "2026-07-22T05:31:54.715130Z"
 posted_at: "2026-07-20T00:02:00Z"
 status: ready
 apply_url: "https://www.aden.global/hpr-2026-7q4x2"
@@ -34,4 +34,4 @@ areas:
 <p class="apply-cta"><a href="https://www.aden.global/hpr-2026-7q4x2">Apply →</a></p>
 
 ---
-*Posted 2026-07-20 · Listing synced 2026-07-21 · 80k job ID `recFyPYgkXXtDuDZ0`*
+*Posted 2026-07-20 · Listing synced 2026-07-22 · 80k job ID `recFyPYgkXXtDuDZ0`*

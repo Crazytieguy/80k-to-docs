@@ -4,24 +4,20 @@ employer: "Wellcome Trust"
 job_id: "recWOlSngMSF4PNVs"
 last_updated: "2026-07-21T05:33:53.579011Z"
 posted_at: "2022-01-02T00:00:00Z"
-status: ready
+status: closed
+closed_at: "2026-07-22"
 apply_url: "https://wellcome.org/grant-funding/schemes/early-career-awards"
 areas:
   - "Career development: Technical"
 ---
 
+> ⚠️ **CLOSED on 2026-07-22** — this job is no longer listed on the 80,000 Hours board. Archived snapshot below.
+
 # Early-Career Awards
 
-**[Wellcome Trust](https://wellcome.org/)**
+**Wellcome Trust**
 
-<dl class="job-meta">
-<dt>Location</dt><dd>UK, UK (Confirmed Visas)</dd>
-<dt>Role type</dt><dd>Funding</dd>
-<dt>Experience</dt><dd>Entry-level</dd>
-<dt>Degree</dt><dd>Master's degree</dd>
-</dl>
-
-**Areas & skills:** Career development: Technical, Research
+**Areas & skills:** Career development: Technical
 
 ## Summary
 - This scheme provides funding for early-career researchers from any discipline who are ready to develop their research identity.

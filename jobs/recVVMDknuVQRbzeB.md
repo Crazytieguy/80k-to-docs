@@ -2,7 +2,7 @@
 title: "Mentor, SPAR"
 employer: "Kairos"
 job_id: "recVVMDknuVQRbzeB"
-last_updated: "2026-07-21T05:32:12.347154Z"
+last_updated: "2026-07-22T05:32:08.998720Z"
 posted_at: "2026-07-09T00:03:00Z"
 status: ready
 apply_url: "https://sparai.org/mentors/"
@@ -33,4 +33,4 @@ areas:
 <p class="apply-cta"><a href="https://sparai.org/mentors/">Apply →</a></p>
 
 ---
-*Posted 2026-07-09 · Listing synced 2026-07-21 · 80k job ID `recVVMDknuVQRbzeB`*
+*Posted 2026-07-09 · Listing synced 2026-07-22 · 80k job ID `recVVMDknuVQRbzeB`*

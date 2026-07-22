@@ -4,25 +4,20 @@ employer: "Massachusetts Institute of Technology, Lincoln Laboratory"
 job_id: "recaYF08jWVeYsvcc"
 last_updated: "2026-07-21T05:32:54.193822Z"
 posted_at: "2026-05-19T00:00:00Z"
-status: ready
+status: closed
+closed_at: "2026-07-22"
 apply_url: "https://careers.ll.mit.edu/job/Lexington-Computational-Biologist-MA-02420/1389116600/"
 areas:
   - "Career development: Technical"
 ---
 
+> ⚠️ **CLOSED on 2026-07-22** — this job is no longer listed on the 80,000 Hours board. Archived snapshot below.
+
 # Assistant Staff, Computational Biologist, Counter Weapons of Mass Destruction
 
-**[Massachusetts Institute of Technology, Lincoln Laboratory](https://www.ll.mit.edu/)**
+**Massachusetts Institute of Technology, Lincoln Laboratory**
 
-<dl class="job-meta">
-<dt>Location</dt><dd>Boston metro area, USA</dd>
-<dt>Role type</dt><dd>Full-time</dd>
-<dt>Experience</dt><dd>Junior (1-4 years experience)</dd>
-<dt>Degree</dt><dd>Undergraduate degree or less</dd>
-<dt>Salary</dt><dd>$100,200 – $150,000</dd>
-</dl>
-
-**Areas & skills:** Career development: Technical, Research
+**Areas & skills:** Career development: Technical
 
 ## Summary
 - In this role, you'll support counter-weapons of mass destruction research through computational biology and data science.

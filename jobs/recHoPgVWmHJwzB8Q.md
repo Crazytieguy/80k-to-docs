@@ -2,7 +2,7 @@
 title: "Senior Engineering Lead, Chemical and Biological"
 employer: "UK Government, AI Security Institute"
 job_id: "recHoPgVWmHJwzB8Q"
-last_updated: "2026-07-21T05:33:15.324644Z"
+last_updated: "2026-07-22T05:33:10.390500Z"
 posted_at: "2022-01-07T00:00:00Z"
 status: ready
 apply_url: "https://job-boards.eu.greenhouse.io/aisi/jobs/4833252101"
@@ -20,7 +20,7 @@ areas:
 <dt>Role type</dt><dd>Full-time</dd>
 <dt>Experience</dt><dd>Mid (5-9 years experience)</dd>
 <dt>Degree</dt><dd>Undergraduate degree or less</dd>
-<dt>Salary</dt><dd>$87,361 – $194,882</dd>
+<dt>Salary</dt><dd>$86,994 – $194,064</dd>
 </dl>
 
 **Areas & skills:** AI safety & policy, Biosecurity & pandemic preparedness, Software engineering, Management
@@ -35,4 +35,4 @@ areas:
 <p class="apply-cta"><a href="https://job-boards.eu.greenhouse.io/aisi/jobs/4833252101">Apply →</a></p>
 
 ---
-*Posted 2022-01-07 · Listing synced 2026-07-21 · 80k job ID `recHoPgVWmHJwzB8Q`*
+*Posted 2022-01-07 · Listing synced 2026-07-22 · 80k job ID `recHoPgVWmHJwzB8Q`*
