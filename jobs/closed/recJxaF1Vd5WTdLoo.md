@@ -4,25 +4,20 @@ employer: "Horizon Institute for Public Service"
 job_id: "recJxaF1Vd5WTdLoo"
 last_updated: "2026-07-22T05:32:16.515356Z"
 posted_at: "2026-07-03T00:04:03Z"
-status: ready
+status: closed
+closed_at: "2026-07-23"
 apply_url: "https://horizonpublicservice.org/ai-rapid-response-fellowship/"
 areas:
   - "AI safety & policy"
 ---
 
+> ⚠️ **CLOSED on 2026-07-23** — this job is no longer listed on the 80,000 Hours board. Archived snapshot below.
+
 # AI Rapid Response Fellowship
 
-**[Horizon Institute for Public Service](https://www.horizonpublicservice.org/)**
+**Horizon Institute for Public Service**
 
-<dl class="job-meta">
-<dt>Location</dt><dd>Washington, DC metro area, USA</dd>
-<dt>Role type</dt><dd>Fellowship</dd>
-<dt>Experience</dt><dd>Multiple experience levels</dd>
-<dt>Degree</dt><dd>Undergraduate degree or less</dd>
-<dt>Salary</dt><dd>$170,000 – $250,000</dd>
-</dl>
-
-**Areas & skills:** AI safety & policy, Policy
+**Areas & skills:** AI safety & policy
 
 ## Summary
 - In this role, you'll contribute expertise on AI security issues to a federal executive branch office for one year.

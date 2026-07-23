@@ -4,24 +4,20 @@ employer: "Kairos"
 job_id: "recVVMDknuVQRbzeB"
 last_updated: "2026-07-22T05:32:08.998720Z"
 posted_at: "2026-07-09T00:03:00Z"
-status: ready
+status: closed
+closed_at: "2026-07-23"
 apply_url: "https://sparai.org/mentors/"
 areas:
   - "AI safety & policy"
 ---
 
+> ⚠️ **CLOSED on 2026-07-23** — this job is no longer listed on the 80,000 Hours board. Archived snapshot below.
+
 # Mentor, SPAR
 
-**[Kairos](https://kairos-project.org/)**
+**Kairos**
 
-<dl class="job-meta">
-<dt>Location</dt><dd>Remote, Global</dd>
-<dt>Role type</dt><dd>Part-time</dd>
-<dt>Experience</dt><dd>Multiple experience levels</dd>
-<dt>Degree</dt><dd>Undergraduate degree or less</dd>
-</dl>
-
-**Areas & skills:** AI safety & policy, Research, Management
+**Areas & skills:** AI safety & policy
 
 ## Summary
 - In this role, you'll mentor aspiring researchers on impactful projects addressing AI safety, policy, governance, or biosecurity over a 3-month period.

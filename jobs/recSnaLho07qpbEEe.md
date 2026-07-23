@@ -2,7 +2,7 @@
 title: "Security Engineer, Research Infrastructure"
 employer: "Resolution"
 job_id: "recSnaLho07qpbEEe"
-last_updated: "2026-07-22T05:32:20.857637Z"
+last_updated: "2026-07-23T05:33:03.201968Z"
 posted_at: "2026-07-01T00:05:00Z"
 status: ready
 apply_url: "https://jobs.ashbyhq.com/resolution/d803b4b1-4b4a-4ea8-8ded-ae54e1e1107b"
@@ -34,4 +34,4 @@ areas:
 <p class="apply-cta"><a href="https://jobs.ashbyhq.com/resolution/d803b4b1-4b4a-4ea8-8ded-ae54e1e1107b">Apply →</a></p>
 
 ---
-*Posted 2026-07-01 · Listing synced 2026-07-22 · 80k job ID `recSnaLho07qpbEEe`*
+*Posted 2026-07-01 · Listing synced 2026-07-23 · 80k job ID `recSnaLho07qpbEEe`*

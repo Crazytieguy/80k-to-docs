@@ -2,7 +2,7 @@
 title: "People Operations Manager"
 employer: "Institute for AI Policy and Strategy"
 job_id: "recgMsqIdkDKy6JSA"
-last_updated: "2026-07-22T05:31:53.823522Z"
+last_updated: "2026-07-23T05:32:38.378261Z"
 posted_at: "2026-07-20T00:05:00Z"
 status: ready
 apply_url: "https://careers.rethinkpriorities.org/postings/bed5a178-fea2-470d-8b0b-bd038d8193b3?token=aPSGa4rENW1946bMfmc2a6HX"
@@ -33,4 +33,4 @@ areas:
 <p class="apply-cta"><a href="https://careers.rethinkpriorities.org/postings/bed5a178-fea2-470d-8b0b-bd038d8193b3?token=aPSGa4rENW1946bMfmc2a6HX">Apply →</a></p>
 
 ---
-*Posted 2026-07-20 · Listing synced 2026-07-22 · 80k job ID `recgMsqIdkDKy6JSA`*
+*Posted 2026-07-20 · Listing synced 2026-07-23 · 80k job ID `recgMsqIdkDKy6JSA`*

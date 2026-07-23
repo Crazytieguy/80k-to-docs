@@ -2,7 +2,7 @@
 title: "Research Engineer"
 employer: "Haize Labs"
 job_id: "recfyvnXuWtw53oNP"
-last_updated: "2026-07-22T05:33:29.199507Z"
+last_updated: "2026-07-23T05:34:12.117618Z"
 posted_at: "2022-01-05T00:00:00Z"
 status: ready
 apply_url: "https://job-boards.greenhouse.io/haizelabs/jobs/4070038008"
@@ -34,4 +34,4 @@ areas:
 <p class="apply-cta"><a href="https://job-boards.greenhouse.io/haizelabs/jobs/4070038008">Apply →</a></p>
 
 ---
-*Posted 2022-01-05 · Listing synced 2026-07-22 · 80k job ID `recfyvnXuWtw53oNP`*
+*Posted 2022-01-05 · Listing synced 2026-07-23 · 80k job ID `recfyvnXuWtw53oNP`*

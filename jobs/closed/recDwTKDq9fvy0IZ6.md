@@ -4,25 +4,20 @@ employer: "Protect Democracy"
 job_id: "recDwTKDq9fvy0IZ6"
 last_updated: "2026-07-22T05:32:44.774786Z"
 posted_at: "2026-05-29T00:00:00Z"
-status: ready
+status: closed
+closed_at: "2026-07-23"
 apply_url: "https://protectdemocracy.recruitee.com/o/tech-counsel-ai-for-democracy-action-lab"
 areas:
   - "Safeguarding liberal democracy"
 ---
 
+> ⚠️ **CLOSED on 2026-07-23** — this job is no longer listed on the 80,000 Hours board. Archived snapshot below.
+
 # Tech Counsel, AI for Democracy Action Lab
 
-**[Protect Democracy](https://protectdemocracy.org/)**
+**Protect Democracy**
 
-<dl class="job-meta">
-<dt>Location</dt><dd>Remote, USA, USA</dd>
-<dt>Role type</dt><dd>Full-time</dd>
-<dt>Experience</dt><dd>Multiple experience levels</dd>
-<dt>Degree</dt><dd>Undergraduate degree or less</dd>
-<dt>Salary</dt><dd>$138,400 – $193,000</dd>
-</dl>
-
-**Areas & skills:** Safeguarding liberal democracy, Policy, Legal
+**Areas & skills:** Safeguarding liberal democracy
 
 ## Summary
 - In this role, you'll develop and advance creative impact litigation and legal strategies at the frontier of AI law.

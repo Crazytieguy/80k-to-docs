@@ -4,25 +4,20 @@ employer: "Future of Life Institute"
 job_id: "recQGyavCnMpUTegY"
 last_updated: "2026-07-22T05:32:18.428035Z"
 posted_at: "2026-07-02T00:04:49Z"
-status: ready
+status: closed
+closed_at: "2026-07-23"
 apply_url: "https://jobs.lever.co/futureof-life/ecee9b37-b40c-4036-8874-38fcfe48a36a"
 areas:
   - "AI safety & policy"
 ---
 
+> ⚠️ **CLOSED on 2026-07-23** — this job is no longer listed on the 80,000 Hours board. Archived snapshot below.
+
 # Team Member, Futures
 
-**[Future of Life Institute](https://www.futureoflife.org)**
+**Future of Life Institute**
 
-<dl class="job-meta">
-<dt>Location</dt><dd>Remote, USA, USA, USA (Confirmed Visas)</dd>
-<dt>Role type</dt><dd>Full-time</dd>
-<dt>Experience</dt><dd>Junior (1-4 years experience)</dd>
-<dt>Degree</dt><dd>Undergraduate degree or less</dd>
-<dt>Salary</dt><dd>$83,500 – $155,000</dd>
-</dl>
-
-**Areas & skills:** AI safety & policy, Outreach, Operations
+**Areas & skills:** AI safety & policy
 
 ## Summary
 - In this role, you'll advance FLI's pro-human AI portfolio by building stakeholder trust and translating initiatives into momentum.

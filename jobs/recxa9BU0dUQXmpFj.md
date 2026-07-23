@@ -2,7 +2,7 @@
 title: "Project Incubator (2026)"
 employer: "Sentient Futures"
 job_id: "recxa9BU0dUQXmpFj"
-last_updated: "2026-07-22T05:32:02.330655Z"
+last_updated: "2026-07-23T05:32:46.784564Z"
 posted_at: "2026-07-14T00:02:00Z"
 status: ready
 apply_url: "https://sentientfutures.ai/projectincubator/"
@@ -34,4 +34,4 @@ areas:
 <p class="apply-cta"><a href="https://sentientfutures.ai/projectincubator/">Apply →</a></p>
 
 ---
-*Posted 2026-07-14 · Listing synced 2026-07-22 · 80k job ID `recxa9BU0dUQXmpFj`*
+*Posted 2026-07-14 · Listing synced 2026-07-23 · 80k job ID `recxa9BU0dUQXmpFj`*

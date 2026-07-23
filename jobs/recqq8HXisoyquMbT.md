@@ -2,10 +2,10 @@
 title: "Research Scientist"
 employer: "Patronus AI"
 job_id: "recqq8HXisoyquMbT"
-last_updated: "2026-07-22T05:33:19.493926Z"
+last_updated: "2026-07-23T05:34:01.698133Z"
 posted_at: "2022-01-06T00:00:00Z"
 status: ready
-apply_url: "https://www.patronus.ai/job-detail?gh_jid=4241103009"
+apply_url: "https://www.patronus.ai/job-detail?gh_jid=4241103009&role=member-of-technical-staff-research-scientist"
 areas:
   - "AI safety & policy"
 ---
@@ -29,7 +29,7 @@ areas:
 - Conduct novel research on redteaming language models, automated evaluation, and alignment.
 - Scope out and lead research projects, including experiment design and understanding results.
 
-<p class="apply-cta"><a href="https://www.patronus.ai/job-detail?gh_jid=4241103009">Apply →</a></p>
+<p class="apply-cta"><a href="https://www.patronus.ai/job-detail?gh_jid=4241103009&amp;role=member-of-technical-staff-research-scientist">Apply →</a></p>
 
 ---
-*Posted 2022-01-06 · Listing synced 2026-07-22 · 80k job ID `recqq8HXisoyquMbT`*
+*Posted 2022-01-06 · Listing synced 2026-07-23 · 80k job ID `recqq8HXisoyquMbT`*

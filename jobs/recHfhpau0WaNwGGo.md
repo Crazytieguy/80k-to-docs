@@ -2,7 +2,7 @@
 title: "Funding, Work That Builds Capacity to Address Risks From Transformative AI"
 employer: "Coefficient Giving"
 job_id: "recHfhpau0WaNwGGo"
-last_updated: "2026-07-22T05:33:00.623482Z"
+last_updated: "2026-07-23T05:33:43.985893Z"
 posted_at: "2022-01-11T00:00:00Z"
 status: ready
 apply_url: "https://www.openphilanthropy.org/funding-for-work-that-builds-capacity-to-address-risks-from-transformative-ai/"
@@ -31,4 +31,4 @@ areas:
 <p class="apply-cta"><a href="https://www.openphilanthropy.org/funding-for-work-that-builds-capacity-to-address-risks-from-transformative-ai/">Apply →</a></p>
 
 ---
-*Posted 2022-01-11 · Listing synced 2026-07-22 · 80k job ID `recHfhpau0WaNwGGo`*
+*Posted 2022-01-11 · Listing synced 2026-07-23 · 80k job ID `recHfhpau0WaNwGGo`*

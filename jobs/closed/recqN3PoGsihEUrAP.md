@@ -4,25 +4,20 @@ employer: "Beneficial AI Foundation"
 job_id: "recqN3PoGsihEUrAP"
 last_updated: "2026-07-22T05:32:17.420788Z"
 posted_at: "2026-07-03T00:00:00Z"
-status: ready
+status: closed
+closed_at: "2026-07-23"
 apply_url: "https://docs.google.com/forms/d/e/1FAIpQLSedbqeU4JZQASmnUyUY8ZWSL85opl2K8CUOGkEMiDMx0eqWdQ/viewform"
 areas:
   - "AI safety & policy"
 ---
 
+> ⚠️ **CLOSED on 2026-07-23** — this job is no longer listed on the 80,000 Hours board. Archived snapshot below.
+
 # Full-Stack Engineer
 
-**[Beneficial AI Foundation](https://www.beneficialaifoundation.org/)**
+**Beneficial AI Foundation**
 
-<dl class="job-meta">
-<dt>Location</dt><dd>Boston metro area, Remote, Global, USA</dd>
-<dt>Role type</dt><dd>Full-time</dd>
-<dt>Experience</dt><dd>Junior (1-4 years experience)</dd>
-<dt>Degree</dt><dd>Undergraduate degree or less</dd>
-<dt>Salary</dt><dd>$72,800 – $145,600</dd>
-</dl>
-
-**Areas & skills:** AI safety & policy, Software engineering
+**Areas & skills:** AI safety & policy
 
 ## Summary
 - In this role, you'll build features for the Beneficial AI Foundation's formal verification tools that aim to ensure AI safety.

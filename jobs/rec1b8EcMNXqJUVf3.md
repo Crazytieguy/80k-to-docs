@@ -2,7 +2,7 @@
 title: "Freelancer, Red Team Specialist"
 employer: "Alice"
 job_id: "rec1b8EcMNXqJUVf3"
-last_updated: "2026-07-22T05:33:24.114995Z"
+last_updated: "2026-07-23T05:34:06.618870Z"
 posted_at: "2022-01-05T00:00:00Z"
 status: ready
 apply_url: "https://alice.io/positions/position-EE_F52"
@@ -33,4 +33,4 @@ areas:
 <p class="apply-cta"><a href="https://alice.io/positions/position-EE_F52">Apply →</a></p>
 
 ---
-*Posted 2022-01-05 · Listing synced 2026-07-22 · 80k job ID `rec1b8EcMNXqJUVf3`*
+*Posted 2022-01-05 · Listing synced 2026-07-23 · 80k job ID `rec1b8EcMNXqJUVf3`*

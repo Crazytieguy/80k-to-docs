@@ -2,7 +2,7 @@
 title: "Recruitment Admin"
 employer: "Impact Ops"
 job_id: "recOHSVcimRGFVQxx"
-last_updated: "2026-07-22T05:32:24.135539Z"
+last_updated: "2026-07-23T05:33:06.495262Z"
 posted_at: "2026-06-29T00:00:00Z"
 status: ready
 apply_url: "https://impact-ops.org/jobs/recruitment-admin/"
@@ -19,7 +19,7 @@ areas:
 <dt>Role type</dt><dd>Full-time</dd>
 <dt>Experience</dt><dd>Junior (1-4 years experience)</dd>
 <dt>Degree</dt><dd>Undergraduate degree or less</dd>
-<dt>Salary</dt><dd>$42,828 – $50,858</dd>
+<dt>Salary</dt><dd>$42,831 – $50,861</dd>
 </dl>
 
 **Areas & skills:** Building effective altruism, Operations
@@ -34,4 +34,4 @@ areas:
 <p class="apply-cta"><a href="https://impact-ops.org/jobs/recruitment-admin/">Apply →</a></p>
 
 ---
-*Posted 2026-06-29 · Listing synced 2026-07-22 · 80k job ID `recOHSVcimRGFVQxx`*
+*Posted 2026-06-29 · Listing synced 2026-07-23 · 80k job ID `recOHSVcimRGFVQxx`*

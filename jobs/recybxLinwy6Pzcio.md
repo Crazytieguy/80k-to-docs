@@ -2,7 +2,7 @@
 title: "Associate Director, GeoTech Centre"
 employer: "Atlantic Council"
 job_id: "recybxLinwy6Pzcio"
-last_updated: "2026-07-22T05:31:57.358245Z"
+last_updated: "2026-07-23T05:32:41.937864Z"
 posted_at: "2026-07-17T00:00:00Z"
 status: ready
 apply_url: "https://www.atlanticcouncil.org/job-opportunity/associate-director-geotech-center/"
@@ -34,4 +34,4 @@ areas:
 <p class="apply-cta"><a href="https://www.atlanticcouncil.org/job-opportunity/associate-director-geotech-center/">Apply →</a></p>
 
 ---
-*Posted 2026-07-17 · Listing synced 2026-07-22 · 80k job ID `recybxLinwy6Pzcio`*
+*Posted 2026-07-17 · Listing synced 2026-07-23 · 80k job ID `recybxLinwy6Pzcio`*
