@@ -2,7 +2,7 @@
 title: "National Security Cyber Evaluation Lead"
 employer: "OpenAI"
 job_id: "rec5aTgD7CrlynoXK"
-last_updated: "2026-07-23T05:32:47.754122Z"
+last_updated: "2026-07-24T05:32:07.843331Z"
 posted_at: "2026-07-14T00:00:00Z"
 status: ready
 apply_url: "https://openai.com/careers/national-security-cyber-evaluation-lead-washington-dc/"
@@ -34,4 +34,4 @@ areas:
 <p class="apply-cta"><a href="https://openai.com/careers/national-security-cyber-evaluation-lead-washington-dc/">Apply →</a></p>
 
 ---
-*Posted 2026-07-14 · Listing synced 2026-07-23 · 80k job ID `rec5aTgD7CrlynoXK`*
+*Posted 2026-07-14 · Listing synced 2026-07-24 · 80k job ID `rec5aTgD7CrlynoXK`*

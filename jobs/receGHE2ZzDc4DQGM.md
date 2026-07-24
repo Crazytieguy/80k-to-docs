@@ -2,7 +2,7 @@
 title: "Researcher, Frontier Biological and Chemical Risks"
 employer: "OpenAI"
 job_id: "receGHE2ZzDc4DQGM"
-last_updated: "2026-07-23T05:33:47.671705Z"
+last_updated: "2026-07-24T05:33:06.396651Z"
 posted_at: "2022-01-11T00:00:00Z"
 status: ready
 apply_url: "https://openai.com/careers/researcher-frontier-biological-and-chemical-risks-san-francisco/"
@@ -34,4 +34,4 @@ areas:
 <p class="apply-cta"><a href="https://openai.com/careers/researcher-frontier-biological-and-chemical-risks-san-francisco/">Apply →</a></p>
 
 ---
-*Posted 2022-01-11 · Listing synced 2026-07-23 · 80k job ID `receGHE2ZzDc4DQGM`*
+*Posted 2022-01-11 · Listing synced 2026-07-24 · 80k job ID `receGHE2ZzDc4DQGM`*

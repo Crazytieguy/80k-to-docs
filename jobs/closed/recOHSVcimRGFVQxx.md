@@ -4,25 +4,20 @@ employer: "Impact Ops"
 job_id: "recOHSVcimRGFVQxx"
 last_updated: "2026-07-23T05:33:06.495262Z"
 posted_at: "2026-06-29T00:00:00Z"
-status: ready
+status: closed
+closed_at: "2026-07-24"
 apply_url: "https://impact-ops.org/jobs/recruitment-admin/"
 areas:
   - "Building effective altruism"
 ---
 
+> ⚠️ **CLOSED on 2026-07-24** — this job is no longer listed on the 80,000 Hours board. Archived snapshot below.
+
 # Recruitment Admin
 
-**[Impact Ops](https://impact-ops.org/)**
+**Impact Ops**
 
-<dl class="job-meta">
-<dt>Location</dt><dd>Remote, Global</dd>
-<dt>Role type</dt><dd>Full-time</dd>
-<dt>Experience</dt><dd>Junior (1-4 years experience)</dd>
-<dt>Degree</dt><dd>Undergraduate degree or less</dd>
-<dt>Salary</dt><dd>$42,831 – $50,861</dd>
-</dl>
-
-**Areas & skills:** Building effective altruism, Operations
+**Areas & skills:** Building effective altruism
 
 ## Summary
 - In this role, you'll support recruitment operations for Impact Ops and clients, handling all hiring process administration.

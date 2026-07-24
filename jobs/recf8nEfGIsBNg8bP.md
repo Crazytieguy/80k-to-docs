@@ -2,7 +2,7 @@
 title: "Research Engineer, Novel AI Platforms for Multiscale Alignment"
 employer: "Center for AI Risk Management and Alignment"
 job_id: "recf8nEfGIsBNg8bP"
-last_updated: "2026-07-23T05:33:56.599743Z"
+last_updated: "2026-07-24T05:33:15.417386Z"
 posted_at: "2022-01-06T00:00:00Z"
 status: ready
 apply_url: "https://jobs.lever.co/futureof-life/759df9eb-5611-4a42-b92d-aa199c6f2a7d"
@@ -34,4 +34,4 @@ areas:
 <p class="apply-cta"><a href="https://jobs.lever.co/futureof-life/759df9eb-5611-4a42-b92d-aa199c6f2a7d">Apply →</a></p>
 
 ---
-*Posted 2022-01-06 · Listing synced 2026-07-23 · 80k job ID `recf8nEfGIsBNg8bP`*
+*Posted 2022-01-06 · Listing synced 2026-07-24 · 80k job ID `recf8nEfGIsBNg8bP`*

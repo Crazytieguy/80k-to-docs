@@ -2,7 +2,7 @@
 title: "Fellowship, Science, Technology and Policy Program, Office of Policy"
 employer: "US Government, Department of Energy"
 job_id: "recKMkQ27CEJRSp0J"
-last_updated: "2026-07-23T05:34:19.006304Z"
+last_updated: "2026-07-24T05:33:37.373081Z"
 posted_at: "2022-01-03T00:00:00Z"
 status: ready
 apply_url: "https://www.zintellect.com/Opportunity/Details/DOE-STP-OP-2025-0001"
@@ -17,7 +17,7 @@ areas:
 <dl class="job-meta">
 <dt>Location</dt><dd>Washington, DC metro area, USA</dd>
 <dt>Role type</dt><dd>Fellowship</dd>
-<dt>Experience</dt><dd>Entry-level, Junior (1-4 years experience)</dd>
+<dt>Experience</dt><dd>Junior (1-4 years experience), Entry-level</dd>
 <dt>Degree</dt><dd>Undergraduate degree or less</dd>
 </dl>
 
@@ -32,4 +32,4 @@ areas:
 <p class="apply-cta"><a href="https://www.zintellect.com/Opportunity/Details/DOE-STP-OP-2025-0001">Apply →</a></p>
 
 ---
-*Posted 2022-01-03 · Listing synced 2026-07-23 · 80k job ID `recKMkQ27CEJRSp0J`*
+*Posted 2022-01-03 · Listing synced 2026-07-24 · 80k job ID `recKMkQ27CEJRSp0J`*

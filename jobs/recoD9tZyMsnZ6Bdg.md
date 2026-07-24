@@ -2,7 +2,7 @@
 title: "Operations Director, Talent"
 employer: "Secure AI Project"
 job_id: "recoD9tZyMsnZ6Bdg"
-last_updated: "2026-07-23T05:32:57.256403Z"
+last_updated: "2026-07-24T05:32:17.530062Z"
 posted_at: "2026-07-06T00:05:00Z"
 status: ready
 apply_url: "https://docs.google.com/document/d/1_DGTYzGYVhYsOXILeN7eofJXRM9NqLklKzUPykSBPY4/edit?tab=t.0"
@@ -34,4 +34,4 @@ areas:
 <p class="apply-cta"><a href="https://docs.google.com/document/d/1_DGTYzGYVhYsOXILeN7eofJXRM9NqLklKzUPykSBPY4/edit?tab=t.0">Apply →</a></p>
 
 ---
-*Posted 2026-07-06 · Listing synced 2026-07-23 · 80k job ID `recoD9tZyMsnZ6Bdg`*
+*Posted 2026-07-06 · Listing synced 2026-07-24 · 80k job ID `recoD9tZyMsnZ6Bdg`*

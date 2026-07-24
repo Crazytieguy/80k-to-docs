@@ -2,7 +2,7 @@
 title: "Various Fellowships"
 employer: "US Government, Centers for Disease Control and Prevention"
 job_id: "rec8KoOLw1dMkET3d"
-last_updated: "2026-07-23T05:34:33.442614Z"
+last_updated: "2026-07-24T05:33:51.044121Z"
 posted_at: "2022-01-01T00:00:00Z"
 status: ready
 apply_url: "https://www.cdc.gov/fellowships/index.html"
@@ -30,4 +30,4 @@ areas:
 <p class="apply-cta"><a href="https://www.cdc.gov/fellowships/index.html">Apply →</a></p>
 
 ---
-*Posted 2022-01-01 · Listing synced 2026-07-23 · 80k job ID `rec8KoOLw1dMkET3d`*
+*Posted 2022-01-01 · Listing synced 2026-07-24 · 80k job ID `rec8KoOLw1dMkET3d`*

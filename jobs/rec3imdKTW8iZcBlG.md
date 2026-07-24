@@ -2,7 +2,7 @@
 title: "Executive Assistant to the Chief Executive Officer"
 employer: "Nuclear Threat Initiative"
 job_id: "rec3imdKTW8iZcBlG"
-last_updated: "2026-07-23T05:32:56.275334Z"
+last_updated: "2026-07-24T05:32:16.507691Z"
 posted_at: "2026-07-07T00:04:54Z"
 status: ready
 apply_url: "https://www.nti.org/job-listing/executive-assistant-to-the-ceo/"
@@ -35,4 +35,4 @@ areas:
 <p class="apply-cta"><a href="https://www.nti.org/job-listing/executive-assistant-to-the-ceo/">Apply →</a></p>
 
 ---
-*Posted 2026-07-07 · Listing synced 2026-07-23 · 80k job ID `rec3imdKTW8iZcBlG`*
+*Posted 2026-07-07 · Listing synced 2026-07-24 · 80k job ID `rec3imdKTW8iZcBlG`*

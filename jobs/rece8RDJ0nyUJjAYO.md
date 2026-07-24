@@ -2,7 +2,7 @@
 title: "Safe Pareto Improvements Fundamentals Program"
 employer: "Center on Long-Term Risk"
 job_id: "rece8RDJ0nyUJjAYO"
-last_updated: "2026-07-23T05:32:54.257578Z"
+last_updated: "2026-07-24T05:32:14.402004Z"
 posted_at: "2026-07-08T00:02:00Z"
 status: ready
 apply_url: "https://www.lesswrong.com/posts/jdbJPk5yL9RcddDrS/announcing-the-safe-pareto-improvements-spi-fundamentals"
@@ -32,4 +32,4 @@ areas:
 <p class="apply-cta"><a href="https://www.lesswrong.com/posts/jdbJPk5yL9RcddDrS/announcing-the-safe-pareto-improvements-spi-fundamentals">Apply →</a></p>
 
 ---
-*Posted 2026-07-08 · Listing synced 2026-07-23 · 80k job ID `rece8RDJ0nyUJjAYO`*
+*Posted 2026-07-08 · Listing synced 2026-07-24 · 80k job ID `rece8RDJ0nyUJjAYO`*

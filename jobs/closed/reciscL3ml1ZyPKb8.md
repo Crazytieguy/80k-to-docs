@@ -4,25 +4,20 @@ employer: "Anthropic"
 job_id: "reciscL3ml1ZyPKb8"
 last_updated: "2026-07-23T05:33:43.380222Z"
 posted_at: "2022-01-11T00:00:00Z"
-status: ready
+status: closed
+closed_at: "2026-07-24"
 apply_url: "https://job-boards.greenhouse.io/anthropic/jobs/5153564008"
 areas:
   - "AI safety & policy"
 ---
 
+> ⚠️ **CLOSED on 2026-07-24** — this job is no longer listed on the 80,000 Hours board. Archived snapshot below.
+
 # Security Labs Engineer
 
-**[Anthropic](https://www.anthropic.com/)**
+**Anthropic**
 
-<dl class="job-meta">
-<dt>Location</dt><dd>San Francisco Bay Area, USA, USA (Confirmed Visas)</dd>
-<dt>Role type</dt><dd>Full-time</dd>
-<dt>Experience</dt><dd>Mid (5-9 years experience)</dd>
-<dt>Degree</dt><dd>Undergraduate degree or less</dd>
-<dt>Salary</dt><dd>$320,000 – $405,000</dd>
-</dl>
-
-**Areas & skills:** AI safety & policy, Software engineering, Information security
+**Areas & skills:** AI safety & policy
 
 ## Summary
 - In this role, you'll own end-to-end Security Labs projects from design through prototype, piloting, and production scaling.

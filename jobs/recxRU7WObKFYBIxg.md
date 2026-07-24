@@ -2,7 +2,7 @@
 title: "Sales and Marketing Manager"
 employer: "Fish Welfare Initiative"
 job_id: "recxRU7WObKFYBIxg"
-last_updated: "2026-07-23T05:33:33.397452Z"
+last_updated: "2026-07-24T05:32:50.977653Z"
 posted_at: "2026-05-19T00:00:00Z"
 status: ready
 apply_url: "https://www.fishwelfareinitiative.org/sales-marketing-manager"
@@ -34,4 +34,4 @@ areas:
 <p class="apply-cta"><a href="https://www.fishwelfareinitiative.org/sales-marketing-manager">Apply →</a></p>
 
 ---
-*Posted 2026-05-19 · Listing synced 2026-07-23 · 80k job ID `recxRU7WObKFYBIxg`*
+*Posted 2026-05-19 · Listing synced 2026-07-24 · 80k job ID `recxRU7WObKFYBIxg`*

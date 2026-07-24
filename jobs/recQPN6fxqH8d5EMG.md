@@ -2,7 +2,7 @@
 title: "Research Fellow"
 employer: "GovAI"
 job_id: "recQPN6fxqH8d5EMG"
-last_updated: "2026-07-23T05:32:36.486452Z"
+last_updated: "2026-07-24T05:31:56.223581Z"
 posted_at: "2026-07-21T00:05:00Z"
 status: ready
 apply_url: "https://www.governance.ai/post/research-fellow"
@@ -19,7 +19,7 @@ areas:
 <dt>Role type</dt><dd>Fellowship</dd>
 <dt>Experience</dt><dd>Junior (1-4 years experience), Mid (5-9 years experience)</dd>
 <dt>Degree</dt><dd>Undergraduate degree or less</dd>
-<dt>Salary</dt><dd>$112,431 – $138,531</dd>
+<dt>Salary</dt><dd>$111,840 – $137,802</dd>
 </dl>
 
 **Areas & skills:** AI safety & policy, Research, Policy
@@ -34,4 +34,4 @@ areas:
 <p class="apply-cta"><a href="https://www.governance.ai/post/research-fellow">Apply →</a></p>
 
 ---
-*Posted 2026-07-21 · Listing synced 2026-07-23 · 80k job ID `recQPN6fxqH8d5EMG`*
+*Posted 2026-07-21 · Listing synced 2026-07-24 · 80k job ID `recQPN6fxqH8d5EMG`*

@@ -2,7 +2,7 @@
 title: "Research Associate, China Program"
 employer: "The Stimson Center"
 job_id: "recQWwONAz6hE5VYP"
-last_updated: "2026-07-23T05:33:11.655050Z"
+last_updated: "2026-07-24T05:32:31.523138Z"
 posted_at: "2026-06-18T00:00:00Z"
 status: ready
 apply_url: "https://stimson.applicantpro.com/jobs/4118153"
@@ -34,4 +34,4 @@ areas:
 <p class="apply-cta"><a href="https://stimson.applicantpro.com/jobs/4118153">Apply →</a></p>
 
 ---
-*Posted 2026-06-18 · Listing synced 2026-07-23 · 80k job ID `recQWwONAz6hE5VYP`*
+*Posted 2026-06-18 · Listing synced 2026-07-24 · 80k job ID `recQWwONAz6hE5VYP`*

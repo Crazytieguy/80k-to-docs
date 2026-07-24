@@ -2,7 +2,7 @@
 title: "Senior Communications Associate"
 employer: "Principles of Intelligence"
 job_id: "recPuqAIQgMq0qLV0"
-last_updated: "2026-07-23T05:33:05.855312Z"
+last_updated: "2026-07-24T05:32:26.562156Z"
 posted_at: "2026-06-29T00:01:00Z"
 status: ready
 apply_url: "https://princint.ai/now-hiring-senior-communications-associate-at-principles-of-intelligence/"
@@ -34,4 +34,4 @@ areas:
 <p class="apply-cta"><a href="https://princint.ai/now-hiring-senior-communications-associate-at-principles-of-intelligence/">Apply →</a></p>
 
 ---
-*Posted 2026-06-29 · Listing synced 2026-07-23 · 80k job ID `recPuqAIQgMq0qLV0`*
+*Posted 2026-06-29 · Listing synced 2026-07-24 · 80k job ID `recPuqAIQgMq0qLV0`*

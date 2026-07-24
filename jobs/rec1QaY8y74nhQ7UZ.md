@@ -2,7 +2,7 @@
 title: "Research Manager"
 employer: "Center on Long-Term Risk"
 job_id: "rec1QaY8y74nhQ7UZ"
-last_updated: "2026-07-23T05:33:00.975269Z"
+last_updated: "2026-07-24T05:32:21.509711Z"
 posted_at: "2026-07-02T00:04:46Z"
 status: ready
 apply_url: "https://longtermrisk.org/2026-research-manager/"
@@ -19,7 +19,7 @@ areas:
 <dt>Role type</dt><dd>Full-time</dd>
 <dt>Experience</dt><dd>Junior (1-4 years experience), Mid (5-9 years experience)</dd>
 <dt>Degree</dt><dd>Undergraduate degree or less</dd>
-<dt>Salary</dt><dd>$122,496</dd>
+<dt>Salary</dt><dd>$121,852</dd>
 </dl>
 
 **Areas & skills:** AI safety & policy, Research, Operations
@@ -34,4 +34,4 @@ areas:
 <p class="apply-cta"><a href="https://longtermrisk.org/2026-research-manager/">Apply →</a></p>
 
 ---
-*Posted 2026-07-02 · Listing synced 2026-07-23 · 80k job ID `rec1QaY8y74nhQ7UZ`*
+*Posted 2026-07-02 · Listing synced 2026-07-24 · 80k job ID `rec1QaY8y74nhQ7UZ`*

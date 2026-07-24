@@ -2,7 +2,7 @@
 title: "Contractor Opportunities, AI, Biosecurity, and AI-Bio"
 employer: "Centre for Long-Term Resilience"
 job_id: "recUF4cY2NFEIb5MP"
-last_updated: "2026-07-23T05:32:53.225767Z"
+last_updated: "2026-07-24T05:32:13.298575Z"
 posted_at: "2026-07-09T00:02:00Z"
 status: ready
 apply_url: "https://www.longtermresilience.org/open-call-for-contractor-opportunities-ai-biosecurity-and-ai-bio-work/"
@@ -20,7 +20,7 @@ areas:
 <dt>Role type</dt><dd>Full-time</dd>
 <dt>Experience</dt><dd>Multiple experience levels</dd>
 <dt>Degree</dt><dd>Undergraduate degree or less</dd>
-<dt>Salary</dt><dd>$73,615 – $91,015</dd>
+<dt>Salary</dt><dd>$73,228 – $90,537</dd>
 </dl>
 
 **Areas & skills:** AI safety & policy, Biosecurity & pandemic preparedness, Research, Policy, Software engineering
@@ -35,4 +35,4 @@ areas:
 <p class="apply-cta"><a href="https://www.longtermresilience.org/open-call-for-contractor-opportunities-ai-biosecurity-and-ai-bio-work/">Apply →</a></p>
 
 ---
-*Posted 2026-07-09 · Listing synced 2026-07-23 · 80k job ID `recUF4cY2NFEIb5MP`*
+*Posted 2026-07-09 · Listing synced 2026-07-24 · 80k job ID `recUF4cY2NFEIb5MP`*

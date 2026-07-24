@@ -2,7 +2,7 @@
 title: "Infrastructure Engineer, Technical AI Safety"
 employer: "Centre for Long-Term Resilience"
 job_id: "recXuxXZGXMCj1tEk"
-last_updated: "2026-07-23T05:32:34.851168Z"
+last_updated: "2026-07-24T05:31:53.857569Z"
 posted_at: "2026-07-22T00:04:17Z"
 status: ready
 apply_url: "https://www.longtermresilience.org/technical-ai-safety-infrastructure-engineer/"
@@ -19,7 +19,7 @@ areas:
 <dt>Role type</dt><dd>Full-time</dd>
 <dt>Experience</dt><dd>Junior (1-4 years experience), Mid (5-9 years experience)</dd>
 <dt>Degree</dt><dd>Undergraduate degree or less</dd>
-<dt>Salary</dt><dd>$93,692 – $100,385</dd>
+<dt>Salary</dt><dd>$93,200 – $99,857</dd>
 </dl>
 
 **Areas & skills:** AI safety & policy, Software engineering
@@ -33,4 +33,4 @@ areas:
 <p class="apply-cta"><a href="https://www.longtermresilience.org/technical-ai-safety-infrastructure-engineer/">Apply →</a></p>
 
 ---
-*Posted 2026-07-22 · Listing synced 2026-07-23 · 80k job ID `recXuxXZGXMCj1tEk`*
+*Posted 2026-07-22 · Listing synced 2026-07-24 · 80k job ID `recXuxXZGXMCj1tEk`*

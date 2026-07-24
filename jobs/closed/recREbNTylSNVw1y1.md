@@ -4,25 +4,20 @@ employer: "Animal Advocacy Careers"
 job_id: "recREbNTylSNVw1y1"
 last_updated: "2026-07-23T05:32:45.111678Z"
 posted_at: "2026-07-15T00:00:00Z"
-status: ready
+status: closed
+closed_at: "2026-07-24"
 apply_url: "https://animaladvocacycareers.org/content-communications-specialist/"
 areas:
   - "Animal welfare"
 ---
 
+> ⚠️ **CLOSED on 2026-07-24** — this job is no longer listed on the 80,000 Hours board. Archived snapshot below.
+
 # Content and Communications Specialist
 
-**[Animal Advocacy Careers](https://www.animaladvocacycareers.org/)**
+**Animal Advocacy Careers**
 
-<dl class="job-meta">
-<dt>Location</dt><dd>Remote, Global</dd>
-<dt>Role type</dt><dd>Full-time</dd>
-<dt>Experience</dt><dd>Junior (1-4 years experience)</dd>
-<dt>Degree</dt><dd>Undergraduate degree or less</dd>
-<dt>Salary</dt><dd>$54,807 – $69,056</dd>
-</dl>
-
-**Areas & skills:** Animal welfare, Outreach
+**Areas & skills:** Animal welfare
 
 ## Summary
 - In this role, you'll develop content strategy across social, LinkedIn, and the website that drives professionals to apply for programmes.

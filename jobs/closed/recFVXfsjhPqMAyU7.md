@@ -4,24 +4,20 @@ employer: "Lila Sciences"
 job_id: "recFVXfsjhPqMAyU7"
 last_updated: "2026-07-23T05:33:16.382222Z"
 posted_at: "2026-06-12T00:00:00Z"
-status: ready
+status: closed
+closed_at: "2026-07-24"
 apply_url: "https://job-boards.greenhouse.io/lilasciences/jobs/4280945009"
 areas:
   - "AI safety & policy"
 ---
 
+> ⚠️ **CLOSED on 2026-07-24** — this job is no longer listed on the 80,000 Hours board. Archived snapshot below.
+
 # Co-op, AI Security
 
-**[Lila Sciences](https://www.lila.ai/)**
+**Lila Sciences**
 
-<dl class="job-meta">
-<dt>Location</dt><dd>Boston metro area, USA</dd>
-<dt>Role type</dt><dd>Internship</dd>
-<dt>Experience</dt><dd>Entry-level</dd>
-<dt>Degree</dt><dd>Undergraduate degree or less</dd>
-</dl>
-
-**Areas & skills:** AI safety & policy, Software engineering, Information security
+**Areas & skills:** AI safety & policy
 
 ## Summary
 - In this role, you'll identify and analyse AI/ML security vulnerabilities including prompt injection, model poisoning, and data poisoning threats.

@@ -4,24 +4,20 @@ employer: "AI Whistleblower Initiative"
 job_id: "recKOAKb6ffW8IyHF"
 last_updated: "2026-07-23T05:33:00.023747Z"
 posted_at: "2026-07-03T00:00:00Z"
-status: ready
+status: closed
+closed_at: "2026-07-24"
 apply_url: "https://aiwi.org/primer/"
 areas:
   - "AI safety & policy"
 ---
 
+> ⚠️ **CLOSED on 2026-07-24** — this job is no longer listed on the 80,000 Hours board. Archived snapshot below.
+
 # The AI Lab Preparedness Primer
 
-**[AI Whistleblower Initiative](https://aiwi.org/)**
+**AI Whistleblower Initiative**
 
-<dl class="job-meta">
-<dt>Location</dt><dd>Remote, Global</dd>
-<dt>Role type</dt><dd>Course</dd>
-<dt>Experience</dt><dd>Entry-level</dd>
-<dt>Degree</dt><dd>Undergraduate degree or less</dd>
-</dl>
-
-**Areas & skills:** AI safety & policy, Other
+**Areas & skills:** AI safety & policy
 
 ## Summary
 - This course teaches you how to recognize and support concerns raised by people at frontier AI labs.

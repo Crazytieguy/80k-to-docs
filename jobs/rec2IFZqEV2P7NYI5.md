@@ -2,7 +2,7 @@
 title: "Technical AI Safety Specialist"
 employer: "BlueDot Impact"
 job_id: "rec2IFZqEV2P7NYI5"
-last_updated: "2026-07-23T05:33:24.069588Z"
+last_updated: "2026-07-24T05:32:43.163402Z"
 posted_at: "2026-06-03T00:05:00Z"
 status: ready
 apply_url: "https://bluedot.org/join-us/tais-specialist"
@@ -34,4 +34,4 @@ areas:
 <p class="apply-cta"><a href="https://bluedot.org/join-us/tais-specialist">Apply →</a></p>
 
 ---
-*Posted 2026-06-03 · Listing synced 2026-07-23 · 80k job ID `rec2IFZqEV2P7NYI5`*
+*Posted 2026-06-03 · Listing synced 2026-07-24 · 80k job ID `rec2IFZqEV2P7NYI5`*
