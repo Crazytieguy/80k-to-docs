@@ -2,7 +2,7 @@
 title: "Frontier AI Security, Training Program"
 employer: "SASH"
 job_id: "recxGlo5vps94kPsu"
-last_updated: "2026-07-24T05:32:01.097394Z"
+last_updated: "2026-07-25T05:31:59.117686Z"
 posted_at: "2026-07-17T00:02:00Z"
 status: ready
 apply_url: "https://www.securefast.ai/"
@@ -32,4 +32,4 @@ areas:
 <p class="apply-cta"><a href="https://www.securefast.ai/">Apply →</a></p>
 
 ---
-*Posted 2026-07-17 · Listing synced 2026-07-24 · 80k job ID `recxGlo5vps94kPsu`*
+*Posted 2026-07-17 · Listing synced 2026-07-25 · 80k job ID `recxGlo5vps94kPsu`*

@@ -2,7 +2,7 @@
 title: "Data Analyst, Air Quality Life Index"
 employer: "University of Chicago, Energy Policy Institute"
 job_id: "recIB4tAZEc6LsaJB"
-last_updated: "2026-07-24T05:33:46.883795Z"
+last_updated: "2026-07-25T05:33:45.666977Z"
 posted_at: "2022-01-02T00:00:00Z"
 status: ready
 apply_url: "https://aqli.epic.uchicago.edu/news/job-opportunity-data-analyst-air-quality-life-index-aqli/"
@@ -15,7 +15,7 @@ areas:
 **[University of Chicago, Energy Policy Institute](https://epic.uchicago.edu/)**
 
 <dl class="job-meta">
-<dt>Location</dt><dd>Remote, India, India, Asia</dd>
+<dt>Location</dt><dd>Remote, India, Asia, India</dd>
 <dt>Role type</dt><dd>Full-time</dd>
 <dt>Experience</dt><dd>Junior (1-4 years experience)</dd>
 <dt>Degree</dt><dd>Undergraduate degree or less</dd>
@@ -33,4 +33,4 @@ areas:
 <p class="apply-cta"><a href="https://aqli.epic.uchicago.edu/news/job-opportunity-data-analyst-air-quality-life-index-aqli/">Apply →</a></p>
 
 ---
-*Posted 2022-01-02 · Listing synced 2026-07-24 · 80k job ID `recIB4tAZEc6LsaJB`*
+*Posted 2022-01-02 · Listing synced 2026-07-25 · 80k job ID `recIB4tAZEc6LsaJB`*

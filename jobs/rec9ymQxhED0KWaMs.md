@@ -2,7 +2,7 @@
 title: "Staff Accountant"
 employer: "GiveWell"
 job_id: "rec9ymQxhED0KWaMs"
-last_updated: "2026-07-24T05:32:30.493112Z"
+last_updated: "2026-07-25T05:32:28.080496Z"
 posted_at: "2026-06-19T00:00:00Z"
 status: ready
 apply_url: "https://grnh.se/gkxng06r8us"
@@ -34,4 +34,4 @@ areas:
 <p class="apply-cta"><a href="https://grnh.se/gkxng06r8us">Apply →</a></p>
 
 ---
-*Posted 2026-06-19 · Listing synced 2026-07-24 · 80k job ID `rec9ymQxhED0KWaMs`*
+*Posted 2026-06-19 · Listing synced 2026-07-25 · 80k job ID `rec9ymQxhED0KWaMs`*

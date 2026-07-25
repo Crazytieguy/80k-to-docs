@@ -4,24 +4,20 @@ employer: "Technical University of Darmstadt, Department of Computer Science"
 job_id: "reckXf3nKYlUpZ3to"
 last_updated: "2026-07-24T05:32:19.596528Z"
 posted_at: "2026-07-06T00:00:00Z"
-status: ready
+status: closed
+closed_at: "2026-07-25"
 apply_url: "https://www.informatik.tu-darmstadt.de/ukp/ukp_home/jobs_ukp/index.en.jsp"
 areas:
   - "AI safety & policy"
 ---
 
+> ⚠️ **CLOSED on 2026-07-25** — this job is no longer listed on the 80,000 Hours board. Archived snapshot below.
+
 # Doctoral Researchers, Natural Language Processing and AI, Ubiquitous Knowledge Processing Lab
 
-**[Technical University of Darmstadt, Department of Computer Science](https://www.informatik.tu-darmstadt.de/fb20/index.en.jsp)**
+**Technical University of Darmstadt, Department of Computer Science**
 
-<dl class="job-meta">
-<dt>Location</dt><dd>Darmstadt, Germany, Germany, Europe (ex UK)</dd>
-<dt>Role type</dt><dd>Full-time</dd>
-<dt>Experience</dt><dd>Entry-level</dd>
-<dt>Degree</dt><dd>Master's degree</dd>
-</dl>
-
-**Areas & skills:** AI safety & policy, Research, Software engineering
+**Areas & skills:** AI safety & policy
 
 ## Summary
 - In this role, you'll conduct independent research in trustworthy and applied AI, with focus on agent reliability, evaluation science, and human-AI collaboration.

@@ -2,7 +2,7 @@
 title: "Office Manager"
 employer: "MATS Research"
 job_id: "recjaDNzJIVFWGunr"
-last_updated: "2026-07-24T05:31:58.396994Z"
+last_updated: "2026-07-25T05:31:55.279714Z"
 posted_at: "2026-07-20T00:05:00Z"
 status: ready
 apply_url: "https://www.matsprogram.org/careers/office-manager"
@@ -19,7 +19,7 @@ areas:
 <dt>Role type</dt><dd>Full-time</dd>
 <dt>Experience</dt><dd>Junior (1-4 years experience)</dd>
 <dt>Degree</dt><dd>Undergraduate degree or less</dd>
-<dt>Salary</dt><dd>$73,228 – $106,514</dd>
+<dt>Salary</dt><dd>$73,268 – $106,571</dd>
 </dl>
 
 **Areas & skills:** AI safety & policy, Operations
@@ -34,4 +34,4 @@ areas:
 <p class="apply-cta"><a href="https://www.matsprogram.org/careers/office-manager">Apply →</a></p>
 
 ---
-*Posted 2026-07-20 · Listing synced 2026-07-24 · 80k job ID `recjaDNzJIVFWGunr`*
+*Posted 2026-07-20 · Listing synced 2026-07-25 · 80k job ID `recjaDNzJIVFWGunr`*

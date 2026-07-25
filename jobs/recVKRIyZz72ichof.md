@@ -2,7 +2,7 @@
 title: "Intern, Political Affairs"
 employer: "United Nations"
 job_id: "recVKRIyZz72ichof"
-last_updated: "2026-07-24T05:31:52.760582Z"
+last_updated: "2026-07-25T05:31:50.686996Z"
 posted_at: "2026-07-23T00:00:00Z"
 status: ready
 apply_url: "https://careers.un.org/jobSearchDescription/279758?language=en"
@@ -33,4 +33,4 @@ areas:
 <p class="apply-cta"><a href="https://careers.un.org/jobSearchDescription/279758?language=en">Apply →</a></p>
 
 ---
-*Posted 2026-07-23 · Listing synced 2026-07-24 · 80k job ID `recVKRIyZz72ichof`*
+*Posted 2026-07-23 · Listing synced 2026-07-25 · 80k job ID `recVKRIyZz72ichof`*

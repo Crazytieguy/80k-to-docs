@@ -2,7 +2,7 @@
 title: "Field Research Fellowship"
 employer: "Taimaka"
 job_id: "recHsCGuYz8F0lt6w"
-last_updated: "2026-07-24T05:33:46.507058Z"
+last_updated: "2026-07-25T05:33:45.309849Z"
 posted_at: "2022-01-02T00:00:00Z"
 status: ready
 apply_url: "https://docs.google.com/forms/d/e/1FAIpQLSdSZx0TZ1_wFfks9XC_nz0wuQ4h_QqY6K1OP7aZ1tPw299Guw/viewform"
@@ -15,7 +15,7 @@ areas:
 **[Taimaka](https://taimaka.org/)**
 
 <dl class="job-meta">
-<dt>Location</dt><dd>Gombe, Nigeria, Nigeria, Africa</dd>
+<dt>Location</dt><dd>Gombe, Nigeria, Africa, Nigeria</dd>
 <dt>Role type</dt><dd>Fellowship</dd>
 <dt>Experience</dt><dd>Junior (1-4 years experience)</dd>
 <dt>Degree</dt><dd>Undergraduate degree or less</dd>
@@ -34,4 +34,4 @@ areas:
 <p class="apply-cta"><a href="https://docs.google.com/forms/d/e/1FAIpQLSdSZx0TZ1_wFfks9XC_nz0wuQ4h_QqY6K1OP7aZ1tPw299Guw/viewform">Apply →</a></p>
 
 ---
-*Posted 2022-01-02 · Listing synced 2026-07-24 · 80k job ID `recHsCGuYz8F0lt6w`*
+*Posted 2022-01-02 · Listing synced 2026-07-25 · 80k job ID `recHsCGuYz8F0lt6w`*

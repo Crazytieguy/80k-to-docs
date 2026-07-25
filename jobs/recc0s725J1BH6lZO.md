@@ -2,7 +2,7 @@
 title: "Community and Operations Coordinator / Manager"
 employer: "Meridian"
 job_id: "recc0s725J1BH6lZO"
-last_updated: "2026-07-24T05:33:10.723597Z"
+last_updated: "2026-07-25T05:33:07.316601Z"
 posted_at: "2022-01-07T00:00:00Z"
 status: ready
 apply_url: "https://www.meridiancambridge.org/community-ops-coordinator"
@@ -19,7 +19,7 @@ areas:
 <dt>Role type</dt><dd>Full-time</dd>
 <dt>Experience</dt><dd>Junior (1-4 years experience), Entry-level</dd>
 <dt>Degree</dt><dd>Undergraduate degree or less</dd>
-<dt>Salary</dt><dd>$53,257 – $73,228</dd>
+<dt>Salary</dt><dd>$53,286 – $73,268</dd>
 </dl>
 
 **Areas & skills:** AI safety & policy, Operations
@@ -34,4 +34,4 @@ areas:
 <p class="apply-cta"><a href="https://www.meridiancambridge.org/community-ops-coordinator">Apply →</a></p>
 
 ---
-*Posted 2022-01-07 · Listing synced 2026-07-24 · 80k job ID `recc0s725J1BH6lZO`*
+*Posted 2022-01-07 · Listing synced 2026-07-25 · 80k job ID `recc0s725J1BH6lZO`*

@@ -2,7 +2,7 @@
 title: "Career Development and Transition Funding"
 employer: "Coefficient Giving"
 job_id: "rec3BK5ovzEVacVaZ"
-last_updated: "2026-07-24T05:32:27.030777Z"
+last_updated: "2026-07-25T05:32:24.551911Z"
 posted_at: "2026-06-29T00:00:00Z"
 status: ready
 apply_url: "https://www.openphilanthropy.org/career-development-and-transition-funding/"
@@ -33,4 +33,4 @@ areas:
 <p class="apply-cta"><a href="https://www.openphilanthropy.org/career-development-and-transition-funding/">Apply →</a></p>
 
 ---
-*Posted 2026-06-29 · Listing synced 2026-07-24 · 80k job ID `rec3BK5ovzEVacVaZ`*
+*Posted 2026-06-29 · Listing synced 2026-07-25 · 80k job ID `rec3BK5ovzEVacVaZ`*

@@ -2,7 +2,7 @@
 title: "Research Strategist, Emerging Impacts Team"
 employer: "Google DeepMind"
 job_id: "recPLOSt69C9RO14l"
-last_updated: "2026-07-24T05:32:07.216314Z"
+last_updated: "2026-07-25T05:32:05.140556Z"
 posted_at: "2026-07-14T00:00:00Z"
 status: ready
 apply_url: "https://www.google.com/about/careers/applications/jobs/results/126087301276017350-research-strategist-emerging-impacts-team-deepmind?company=DeepMind&page=3"
@@ -34,4 +34,4 @@ areas:
 <p class="apply-cta"><a href="https://www.google.com/about/careers/applications/jobs/results/126087301276017350-research-strategist-emerging-impacts-team-deepmind?company=DeepMind&amp;page=3">Apply →</a></p>
 
 ---
-*Posted 2026-07-14 · Listing synced 2026-07-24 · 80k job ID `recPLOSt69C9RO14l`*
+*Posted 2026-07-14 · Listing synced 2026-07-25 · 80k job ID `recPLOSt69C9RO14l`*

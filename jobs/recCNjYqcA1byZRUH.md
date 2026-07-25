@@ -2,7 +2,7 @@
 title: "AI Cybersecurity Policy Analyst"
 employer: "Government of California, Office of Emergency Services"
 job_id: "recCNjYqcA1byZRUH"
-last_updated: "2026-07-24T05:31:59.029570Z"
+last_updated: "2026-07-25T05:31:55.990462Z"
 posted_at: "2026-07-20T00:04:00Z"
 status: ready
 apply_url: "https://calcareers.ca.gov/CalHrPublic/Jobs/JobPosting.aspx?JobControlId=524879"
@@ -36,4 +36,4 @@ areas:
 <p class="apply-cta"><a href="https://calcareers.ca.gov/CalHrPublic/Jobs/JobPosting.aspx?JobControlId=524879">Apply →</a></p>
 
 ---
-*Posted 2026-07-20 · Listing synced 2026-07-24 · 80k job ID `recCNjYqcA1byZRUH`*
+*Posted 2026-07-20 · Listing synced 2026-07-25 · 80k job ID `recCNjYqcA1byZRUH`*

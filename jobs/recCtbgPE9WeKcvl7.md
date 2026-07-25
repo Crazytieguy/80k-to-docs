@@ -2,13 +2,13 @@
 title: "List of Internship Opportunities, U.S. Senate"
 employer: "US Government, Senate"
 job_id: "recCtbgPE9WeKcvl7"
-last_updated: "2026-07-24T05:31:57.734342Z"
+last_updated: "2026-07-25T05:31:54.626478Z"
 posted_at: "2026-07-21T00:00:00Z"
 status: ready
 apply_url: "https://www.senate.gov/employment/po/internships.htm"
 areas:
-  - "Congressional staffer"
   - "Career development: Policy & government"
+  - "Congressional staffer"
 ---
 
 # List of Internship Opportunities, U.S. Senate
@@ -22,7 +22,7 @@ areas:
 <dt>Degree</dt><dd>Undergraduate degree or less</dd>
 </dl>
 
-**Areas & skills:** Congressional staffer, Career development: Policy & government, Research, Policy, Operations
+**Areas & skills:** Career development: Policy & government, Congressional staffer, Research, Policy, Operations
 
 ## Summary
 - You can find internship opportunities working in offices within the United States Senate via the The Senate Internship Opportunities Employment Bulletin.
@@ -32,4 +32,4 @@ areas:
 <p class="apply-cta"><a href="https://www.senate.gov/employment/po/internships.htm">Apply →</a></p>
 
 ---
-*Posted 2026-07-21 · Listing synced 2026-07-24 · 80k job ID `recCtbgPE9WeKcvl7`*
+*Posted 2026-07-21 · Listing synced 2026-07-25 · 80k job ID `recCtbgPE9WeKcvl7`*

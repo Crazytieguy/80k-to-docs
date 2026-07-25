@@ -4,24 +4,20 @@ employer: "Center on Long-Term Risk"
 job_id: "rece8RDJ0nyUJjAYO"
 last_updated: "2026-07-24T05:32:14.402004Z"
 posted_at: "2026-07-08T00:02:00Z"
-status: ready
+status: closed
+closed_at: "2026-07-25"
 apply_url: "https://www.lesswrong.com/posts/jdbJPk5yL9RcddDrS/announcing-the-safe-pareto-improvements-spi-fundamentals"
 areas:
   - "AI safety & policy"
 ---
 
+> ⚠️ **CLOSED on 2026-07-25** — this job is no longer listed on the 80,000 Hours board. Archived snapshot below.
+
 # Safe Pareto Improvements Fundamentals Program
 
-**[Center on Long-Term Risk](https://longtermrisk.org/)**
+**Center on Long-Term Risk**
 
-<dl class="job-meta">
-<dt>Location</dt><dd>Remote, Global</dd>
-<dt>Role type</dt><dd>Course</dd>
-<dt>Experience</dt><dd>Entry-level</dd>
-<dt>Degree</dt><dd>Undergraduate degree or less</dd>
-</dl>
-
-**Areas & skills:** AI safety & policy, Research
+**Areas & skills:** AI safety & policy
 
 ## Summary
 - This course teaches participants about Safe Pareto Improvements (SPIs), a robust intervention strategy to mitigate risks from AI conflict.

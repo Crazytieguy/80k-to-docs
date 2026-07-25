@@ -4,24 +4,20 @@ employer: "LawZero"
 job_id: "recxzpMTWaQJsB6M2"
 last_updated: "2026-07-24T05:32:51.394539Z"
 posted_at: "2026-05-15T00:02:00Z"
-status: ready
+status: closed
+closed_at: "2026-07-25"
 apply_url: "https://job-boards.greenhouse.io/lawzero/jobs/4248433009"
 areas:
   - "AI safety & policy"
 ---
 
+> ⚠️ **CLOSED on 2026-07-25** — this job is no longer listed on the 80,000 Hours board. Archived snapshot below.
+
 # Coordinator, Talent and Culture
 
-**[LawZero](https://lawzero.org/en)**
+**LawZero**
 
-<dl class="job-meta">
-<dt>Location</dt><dd>Montreal, Canada, Canada</dd>
-<dt>Role type</dt><dd>Full-time</dd>
-<dt>Experience</dt><dd>Junior (1-4 years experience)</dd>
-<dt>Degree</dt><dd>Undergraduate degree or less</dd>
-</dl>
-
-**Areas & skills:** AI safety & policy, Operations
+**Areas & skills:** AI safety & policy
 
 ## Summary
 - In this role, you'll bridge talent acquisition and employee onboarding, providing seamless support from arrival through growth.

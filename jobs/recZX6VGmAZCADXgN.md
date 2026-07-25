@@ -2,7 +2,7 @@
 title: "Researcher, Trustworthy AI"
 employer: "OpenAI"
 job_id: "recZX6VGmAZCADXgN"
-last_updated: "2026-07-24T05:32:59.094396Z"
+last_updated: "2026-07-25T05:32:54.929155Z"
 posted_at: "2022-01-12T00:00:00Z"
 status: ready
 apply_url: "https://openai.com/careers/researcher-trustworthy-ai-san-francisco/"
@@ -34,4 +34,4 @@ areas:
 <p class="apply-cta"><a href="https://openai.com/careers/researcher-trustworthy-ai-san-francisco/">Apply →</a></p>
 
 ---
-*Posted 2022-01-12 · Listing synced 2026-07-24 · 80k job ID `recZX6VGmAZCADXgN`*
+*Posted 2022-01-12 · Listing synced 2026-07-25 · 80k job ID `recZX6VGmAZCADXgN`*

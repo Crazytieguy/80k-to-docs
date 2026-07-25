@@ -4,24 +4,20 @@ employer: "Longview Philanthropy"
 job_id: "recWDM3vOmbipLVTB"
 last_updated: "2026-07-24T05:32:42.484189Z"
 posted_at: "2026-06-04T00:05:00Z"
-status: ready
+status: closed
+closed_at: "2026-07-25"
 apply_url: "https://www.longview.org/request-for-proposals-research-and-applied-work-on-digital-minds/"
 areas:
   - "AI safety & policy"
 ---
 
+> ⚠️ **CLOSED on 2026-07-25** — this job is no longer listed on the 80,000 Hours board. Archived snapshot below.
+
 # Request for Proposals / Fellowships, Research and Applied Work on Digital Minds
 
-**[Longview Philanthropy](https://www.longview.org/)**
+**Longview Philanthropy**
 
-<dl class="job-meta">
-<dt>Location</dt><dd>Remote, Global</dd>
-<dt>Role type</dt><dd>Funding</dd>
-<dt>Experience</dt><dd>Multiple experience levels</dd>
-<dt>Degree</dt><dd>Undergraduate degree or less</dd>
-</dl>
-
-**Areas & skills:** AI safety & policy, Research, Policy, Legal
+**Areas & skills:** AI safety & policy
 
 ## Summary
 - Grants and fellowships for applied work and research on potential consciousness, sentience, moral status, and legal position of AI systems.

@@ -2,7 +2,7 @@
 title: "Board Member"
 employer: "ERA"
 job_id: "rec8e5WOrM2v99Er8"
-last_updated: "2026-07-24T05:31:59.429125Z"
+last_updated: "2026-07-25T05:31:56.630278Z"
 posted_at: "2026-07-20T00:02:00Z"
 status: ready
 apply_url: "https://docs.google.com/document/d/1UBCGRbWNCS7UqMskhK2lL3g56B3vkpT0zO-v2GQMdAo/edit?usp=sharing"
@@ -32,4 +32,4 @@ areas:
 <p class="apply-cta"><a href="https://docs.google.com/document/d/1UBCGRbWNCS7UqMskhK2lL3g56B3vkpT0zO-v2GQMdAo/edit?usp=sharing">Apply →</a></p>
 
 ---
-*Posted 2026-07-20 · Listing synced 2026-07-24 · 80k job ID `rec8e5WOrM2v99Er8`*
+*Posted 2026-07-20 · Listing synced 2026-07-25 · 80k job ID `rec8e5WOrM2v99Er8`*

@@ -2,7 +2,7 @@
 title: "Grants and Operations Associate"
 employer: "Giving What We Can"
 job_id: "recjT4D8tkoN5ykP8"
-last_updated: "2026-07-24T05:32:10.405584Z"
+last_updated: "2026-07-25T05:32:08.582452Z"
 posted_at: "2026-07-13T00:00:00Z"
 status: ready
 apply_url: "https://www.givingwhatwecan.org/grants-ops-associate"
@@ -19,7 +19,7 @@ areas:
 <dt>Role type</dt><dd>Full-time</dd>
 <dt>Experience</dt><dd>Junior (1-4 years experience)</dd>
 <dt>Degree</dt><dd>Undergraduate degree or less</dd>
-<dt>Salary</dt><dd>$61,246 – $70,566</dd>
+<dt>Salary</dt><dd>$61,279 – $70,604</dd>
 </dl>
 
 **Areas & skills:** Building effective altruism, Operations
@@ -34,4 +34,4 @@ areas:
 <p class="apply-cta"><a href="https://www.givingwhatwecan.org/grants-ops-associate">Apply →</a></p>
 
 ---
-*Posted 2026-07-13 · Listing synced 2026-07-24 · 80k job ID `recjT4D8tkoN5ykP8`*
+*Posted 2026-07-13 · Listing synced 2026-07-25 · 80k job ID `recjT4D8tkoN5ykP8`*

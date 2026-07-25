@@ -2,7 +2,7 @@
 title: "Senior Member of Technical Staff, Safety and Security for Agents"
 employer: "Cohere"
 job_id: "recebRLe9cBaAkguW"
-last_updated: "2026-07-24T05:32:24.545151Z"
+last_updated: "2026-07-25T05:32:22.026762Z"
 posted_at: "2026-07-01T00:00:00Z"
 status: ready
 apply_url: "https://jobs.ashbyhq.com/cohere/1f7cc5e6-5f31-40d8-ad49-fe22c98a3ea4?departmentId=7130c75e-15b8-493c-959f-e9b8ea5c1c09"
@@ -33,4 +33,4 @@ areas:
 <p class="apply-cta"><a href="https://jobs.ashbyhq.com/cohere/1f7cc5e6-5f31-40d8-ad49-fe22c98a3ea4?departmentId=7130c75e-15b8-493c-959f-e9b8ea5c1c09">Apply →</a></p>
 
 ---
-*Posted 2026-07-01 · Listing synced 2026-07-24 · 80k job ID `recebRLe9cBaAkguW`*
+*Posted 2026-07-01 · Listing synced 2026-07-25 · 80k job ID `recebRLe9cBaAkguW`*

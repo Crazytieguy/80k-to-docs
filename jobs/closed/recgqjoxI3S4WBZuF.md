@@ -4,24 +4,20 @@ employer: "AI Safety Camp"
 job_id: "recgqjoxI3S4WBZuF"
 last_updated: "2026-07-24T05:32:06.906218Z"
 posted_at: "2026-07-14T00:00:00Z"
-status: ready
+status: closed
+closed_at: "2026-07-25"
 apply_url: "https://www.aisafety.camp/"
 areas:
   - "AI safety & policy"
 ---
 
+> ⚠️ **CLOSED on 2026-07-25** — this job is no longer listed on the 80,000 Hours board. Archived snapshot below.
+
 # Research Incubator
 
-**[AI Safety Camp](https://www.aisafety.camp/)**
+**AI Safety Camp**
 
-<dl class="job-meta">
-<dt>Location</dt><dd>Remote, Global</dd>
-<dt>Role type</dt><dd>Course</dd>
-<dt>Experience</dt><dd>Entry-level</dd>
-<dt>Degree</dt><dd>Undergraduate degree or less</dd>
-</dl>
-
-**Areas & skills:** AI safety & policy, Research
+**Areas & skills:** AI safety & policy
 
 ## Summary
 - This course guides you in developing a clearer articulation of your AI safety research questions and potential research direction.

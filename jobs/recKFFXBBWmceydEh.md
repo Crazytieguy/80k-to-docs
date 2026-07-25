@@ -2,7 +2,7 @@
 title: "Technology Reporter, Business of Tech, AI and Power"
 employer: "Semafor"
 job_id: "recKFFXBBWmceydEh"
-last_updated: "2026-07-24T05:32:14.286791Z"
+last_updated: "2026-07-25T05:32:12.722682Z"
 posted_at: "2026-07-08T00:03:00Z"
 status: ready
 apply_url: "https://job-boards.greenhouse.io/semafor/jobs/4698822005"
@@ -34,4 +34,4 @@ areas:
 <p class="apply-cta"><a href="https://job-boards.greenhouse.io/semafor/jobs/4698822005">Apply →</a></p>
 
 ---
-*Posted 2026-07-08 · Listing synced 2026-07-24 · 80k job ID `recKFFXBBWmceydEh`*
+*Posted 2026-07-08 · Listing synced 2026-07-25 · 80k job ID `recKFFXBBWmceydEh`*

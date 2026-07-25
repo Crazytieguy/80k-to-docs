@@ -2,7 +2,7 @@
 title: "Director, Digital Organizing"
 employer: "The AI Policy Network"
 job_id: "rec2igvgaRUV9dFDt"
-last_updated: "2026-07-24T05:32:53.265192Z"
+last_updated: "2026-07-25T05:32:51.591618Z"
 posted_at: "2026-05-12T00:03:00Z"
 status: ready
 apply_url: "https://theaipn.org/careers/director-digital-organizing/"
@@ -34,4 +34,4 @@ areas:
 <p class="apply-cta"><a href="https://theaipn.org/careers/director-digital-organizing/">Apply →</a></p>
 
 ---
-*Posted 2026-05-12 · Listing synced 2026-07-24 · 80k job ID `rec2igvgaRUV9dFDt`*
+*Posted 2026-05-12 · Listing synced 2026-07-25 · 80k job ID `rec2igvgaRUV9dFDt`*
