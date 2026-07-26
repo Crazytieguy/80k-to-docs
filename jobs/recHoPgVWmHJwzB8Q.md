@@ -2,7 +2,7 @@
 title: "Senior Engineering Lead, Chemical and Biological"
 employer: "UK Government, AI Security Institute"
 job_id: "recHoPgVWmHJwzB8Q"
-last_updated: "2026-07-25T05:33:07.901865Z"
+last_updated: "2026-07-26T05:33:27.848975Z"
 posted_at: "2022-01-07T00:00:00Z"
 status: ready
 apply_url: "https://job-boards.eu.greenhouse.io/aisi/jobs/4833252101"
@@ -35,4 +35,4 @@ areas:
 <p class="apply-cta"><a href="https://job-boards.eu.greenhouse.io/aisi/jobs/4833252101">Apply →</a></p>
 
 ---
-*Posted 2022-01-07 · Listing synced 2026-07-25 · 80k job ID `recHoPgVWmHJwzB8Q`*
+*Posted 2022-01-07 · Listing synced 2026-07-26 · 80k job ID `recHoPgVWmHJwzB8Q`*

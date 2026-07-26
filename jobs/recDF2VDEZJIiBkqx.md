@@ -2,7 +2,7 @@
 title: "Internships"
 employer: "Institute of Peace and Conflict Studies"
 job_id: "recDF2VDEZJIiBkqx"
-last_updated: "2026-07-25T05:33:42.510556Z"
+last_updated: "2026-07-26T05:34:00.913588Z"
 posted_at: "2022-01-02T00:00:00Z"
 status: ready
 apply_url: "https://www.ipcs.org/work_with_us.php"
@@ -15,7 +15,7 @@ areas:
 **[Institute of Peace and Conflict Studies](https://www.ipcs.org/)**
 
 <dl class="job-meta">
-<dt>Location</dt><dd>New Delhi, India, Asia, India</dd>
+<dt>Location</dt><dd>New Delhi, India, India, Asia</dd>
 <dt>Role type</dt><dd>Internship</dd>
 <dt>Experience</dt><dd>Entry-level</dd>
 <dt>Degree</dt><dd>Undergraduate degree or less</dd>
@@ -33,4 +33,4 @@ areas:
 <p class="apply-cta"><a href="https://www.ipcs.org/work_with_us.php">Apply →</a></p>
 
 ---
-*Posted 2022-01-02 · Listing synced 2026-07-25 · 80k job ID `recDF2VDEZJIiBkqx`*
+*Posted 2022-01-02 · Listing synced 2026-07-26 · 80k job ID `recDF2VDEZJIiBkqx`*

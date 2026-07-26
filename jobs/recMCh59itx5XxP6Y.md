@@ -2,7 +2,7 @@
 title: "Research Manager"
 employer: "London AI Safety Research Labs"
 job_id: "recMCh59itx5XxP6Y"
-last_updated: "2026-07-25T05:32:07.012350Z"
+last_updated: "2026-07-26T05:32:26.006737Z"
 posted_at: "2026-07-13T00:03:00Z"
 status: ready
 apply_url: "https://www.lasrlabs.org/research-manager"
@@ -34,4 +34,4 @@ areas:
 <p class="apply-cta"><a href="https://www.lasrlabs.org/research-manager">Apply →</a></p>
 
 ---
-*Posted 2026-07-13 · Listing synced 2026-07-25 · 80k job ID `recMCh59itx5XxP6Y`*
+*Posted 2026-07-13 · Listing synced 2026-07-26 · 80k job ID `recMCh59itx5XxP6Y`*

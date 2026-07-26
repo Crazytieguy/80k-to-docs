@@ -2,7 +2,7 @@
 title: "Technical Specialist, Multi-Agent Security"
 employer: "Advanced Research and Invention Agency"
 job_id: "recD2JpTFfj17eMQC"
-last_updated: "2026-07-25T05:33:08.640602Z"
+last_updated: "2026-07-26T05:33:28.544629Z"
 posted_at: "2022-01-06T00:00:00Z"
 status: ready
 apply_url: "https://aria.pinpointhq.com/en/postings/1ade5ec1-be4f-4e3c-a666-ee72b9375424"
@@ -34,4 +34,4 @@ areas:
 <p class="apply-cta"><a href="https://aria.pinpointhq.com/en/postings/1ade5ec1-be4f-4e3c-a666-ee72b9375424">Apply →</a></p>
 
 ---
-*Posted 2022-01-06 · Listing synced 2026-07-25 · 80k job ID `recD2JpTFfj17eMQC`*
+*Posted 2022-01-06 · Listing synced 2026-07-26 · 80k job ID `recD2JpTFfj17eMQC`*

@@ -2,7 +2,7 @@
 title: "Social Media Manager"
 employer: "Effective Altruism Hong Kong"
 job_id: "rec9RBqrM6EXcN0is"
-last_updated: "2026-07-25T05:33:39.607353Z"
+last_updated: "2026-07-26T05:33:57.385709Z"
 posted_at: "2022-01-02T00:00:00Z"
 status: ready
 apply_url: "https://www.eahongkong.org/job-listing-part-time-social-media"
@@ -34,4 +34,4 @@ areas:
 <p class="apply-cta"><a href="https://www.eahongkong.org/job-listing-part-time-social-media">Apply →</a></p>
 
 ---
-*Posted 2022-01-02 · Listing synced 2026-07-25 · 80k job ID `rec9RBqrM6EXcN0is`*
+*Posted 2022-01-02 · Listing synced 2026-07-26 · 80k job ID `rec9RBqrM6EXcN0is`*

@@ -2,7 +2,7 @@
 title: "Policy Director, Generalist"
 employer: "Secure AI Project"
 job_id: "recRPlmNhH1qhtwfo"
-last_updated: "2026-07-25T05:32:16.048704Z"
+last_updated: "2026-07-26T05:32:34.673052Z"
 posted_at: "2026-07-06T00:04:00Z"
 status: ready
 apply_url: "https://docs.google.com/document/d/18zlblGEdl7-1zEtwzzG8p91Me5SoAPoTM6ObqDz0fzM/edit?tab=t.0#heading=h.22och47ridsq"
@@ -33,4 +33,4 @@ areas:
 <p class="apply-cta"><a href="https://docs.google.com/document/d/18zlblGEdl7-1zEtwzzG8p91Me5SoAPoTM6ObqDz0fzM/edit?tab=t.0#heading=h.22och47ridsq">Apply →</a></p>
 
 ---
-*Posted 2026-07-06 · Listing synced 2026-07-25 · 80k job ID `recRPlmNhH1qhtwfo`*
+*Posted 2026-07-06 · Listing synced 2026-07-26 · 80k job ID `recRPlmNhH1qhtwfo`*

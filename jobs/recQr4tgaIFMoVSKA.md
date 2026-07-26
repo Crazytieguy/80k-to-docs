@@ -2,7 +2,7 @@
 title: "External Affairs and Coalitions Associate, Defense, National Security and First Responders"
 employer: "The Alliance for Secure AI"
 job_id: "recQr4tgaIFMoVSKA"
-last_updated: "2026-07-25T05:32:00.313561Z"
+last_updated: "2026-07-26T05:32:20.064381Z"
 posted_at: "2026-07-17T00:00:00Z"
 status: ready
 apply_url: "https://secureainow.org/career/external-affairs-defense/"
@@ -34,4 +34,4 @@ areas:
 <p class="apply-cta"><a href="https://secureainow.org/career/external-affairs-defense/">Apply →</a></p>
 
 ---
-*Posted 2026-07-17 · Listing synced 2026-07-25 · 80k job ID `recQr4tgaIFMoVSKA`*
+*Posted 2026-07-17 · Listing synced 2026-07-26 · 80k job ID `recQr4tgaIFMoVSKA`*

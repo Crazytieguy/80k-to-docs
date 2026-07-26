@@ -2,7 +2,7 @@
 title: "Experimental Officer, Respirator Testing"
 employer: "Amodo Design"
 job_id: "recCEjzZNRzm4iHet"
-last_updated: "2026-07-25T05:32:09.567641Z"
+last_updated: "2026-07-26T05:32:28.388387Z"
 posted_at: "2026-07-10T00:01:00Z"
 status: ready
 apply_url: "https://amododesign.com/career/experimental-officer-respirator-testing/"
@@ -34,4 +34,4 @@ areas:
 <p class="apply-cta"><a href="https://amododesign.com/career/experimental-officer-respirator-testing/">Apply →</a></p>
 
 ---
-*Posted 2026-07-10 · Listing synced 2026-07-25 · 80k job ID `recCEjzZNRzm4iHet`*
+*Posted 2026-07-10 · Listing synced 2026-07-26 · 80k job ID `recCEjzZNRzm4iHet`*

@@ -2,7 +2,7 @@
 title: "Convenings Lead"
 employer: "Simon Institute for Longterm Governance"
 job_id: "recAu9sGuYULjj2Px"
-last_updated: "2026-07-25T05:31:48.515191Z"
+last_updated: "2026-07-26T05:32:09.913941Z"
 posted_at: "2026-07-24T00:04:58Z"
 status: ready
 apply_url: "https://simoninstitute.ch/jobs/convenings-lead"
@@ -34,4 +34,4 @@ areas:
 <p class="apply-cta"><a href="https://simoninstitute.ch/jobs/convenings-lead">Apply →</a></p>
 
 ---
-*Posted 2026-07-24 · Listing synced 2026-07-25 · 80k job ID `recAu9sGuYULjj2Px`*
+*Posted 2026-07-24 · Listing synced 2026-07-26 · 80k job ID `recAu9sGuYULjj2Px`*

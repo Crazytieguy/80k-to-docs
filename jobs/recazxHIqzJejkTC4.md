@@ -2,7 +2,7 @@
 title: "Head of Growth"
 employer: "Frame"
 job_id: "recazxHIqzJejkTC4"
-last_updated: "2026-07-25T05:32:07.351140Z"
+last_updated: "2026-07-26T05:32:26.299638Z"
 posted_at: "2026-07-13T00:02:00Z"
 status: ready
 apply_url: "https://docs.google.com/document/d/145KComVimfUkWlH_A4CeBGj8K0vhc6I4ykZYXGaWD84/edit?usp=sharing"
@@ -34,4 +34,4 @@ areas:
 <p class="apply-cta"><a href="https://docs.google.com/document/d/145KComVimfUkWlH_A4CeBGj8K0vhc6I4ykZYXGaWD84/edit?usp=sharing">Apply →</a></p>
 
 ---
-*Posted 2026-07-13 · Listing synced 2026-07-25 · 80k job ID `recazxHIqzJejkTC4`*
+*Posted 2026-07-13 · Listing synced 2026-07-26 · 80k job ID `recazxHIqzJejkTC4`*

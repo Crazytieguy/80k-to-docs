@@ -2,7 +2,7 @@
 title: "Strategy and Delivery Adviser"
 employer: "UK Government, AI Security Institute"
 job_id: "recW9GYCc7KJQGN9e"
-last_updated: "2026-07-25T05:32:01.974444Z"
+last_updated: "2026-07-26T05:32:21.638410Z"
 posted_at: "2026-07-15T00:05:00Z"
 status: ready
 apply_url: "https://job-boards.eu.greenhouse.io/csjobs/jobs/4924778101"
@@ -33,4 +33,4 @@ areas:
 <p class="apply-cta"><a href="https://job-boards.eu.greenhouse.io/csjobs/jobs/4924778101">Apply →</a></p>
 
 ---
-*Posted 2026-07-15 · Listing synced 2026-07-25 · 80k job ID `recW9GYCc7KJQGN9e`*
+*Posted 2026-07-15 · Listing synced 2026-07-26 · 80k job ID `recW9GYCc7KJQGN9e`*

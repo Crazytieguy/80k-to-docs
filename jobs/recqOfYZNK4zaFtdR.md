@@ -2,13 +2,13 @@
 title: "Operations Generalist / Business Operations"
 employer: "Valthos"
 job_id: "recqOfYZNK4zaFtdR"
-last_updated: "2026-07-25T05:32:51.737860Z"
+last_updated: "2026-07-26T05:33:12.478458Z"
 posted_at: "2026-05-12T00:01:00Z"
 status: ready
 apply_url: "https://jobs.ashbyhq.com/valthos/1b06d90d-a2ac-49dd-9f12-4408303c5e86"
 areas:
-  - "Biosecurity & pandemic preparedness"
   - "AI safety & policy"
+  - "Biosecurity & pandemic preparedness"
 ---
 
 # Operations Generalist / Business Operations
@@ -22,7 +22,7 @@ areas:
 <dt>Degree</dt><dd>Undergraduate degree or less</dd>
 </dl>
 
-**Areas & skills:** Biosecurity & pandemic preparedness, AI safety & policy, Operations, Finance
+**Areas & skills:** AI safety & policy, Biosecurity & pandemic preparedness, Operations, Finance
 
 ## Summary
 - In this role, you'll be the operational engine of Valthos, owning day-to-day operations across finance, recruiting, and strategic infrastructure.
@@ -34,4 +34,4 @@ areas:
 <p class="apply-cta"><a href="https://jobs.ashbyhq.com/valthos/1b06d90d-a2ac-49dd-9f12-4408303c5e86">Apply →</a></p>
 
 ---
-*Posted 2026-05-12 · Listing synced 2026-07-25 · 80k job ID `recqOfYZNK4zaFtdR`*
+*Posted 2026-05-12 · Listing synced 2026-07-26 · 80k job ID `recqOfYZNK4zaFtdR`*

@@ -2,7 +2,7 @@
 title: "Algorithm Researcher, Large Model Security"
 employer: "Beijing Academy of AI"
 job_id: "recs3W6jhPfRBQzCV"
-last_updated: "2026-07-25T05:33:10.154603Z"
+last_updated: "2026-07-26T05:33:30.022965Z"
 posted_at: "2022-01-06T00:00:00Z"
 status: ready
 apply_url: "https://app.mokahr.com/social-recruitment/baai/42173#/job/26b00c10-dc86-43e9-b8fb-8e4b4c85c28a"
@@ -33,4 +33,4 @@ areas:
 <p class="apply-cta"><a href="https://app.mokahr.com/social-recruitment/baai/42173#/job/26b00c10-dc86-43e9-b8fb-8e4b4c85c28a">Apply →</a></p>
 
 ---
-*Posted 2022-01-06 · Listing synced 2026-07-25 · 80k job ID `recs3W6jhPfRBQzCV`*
+*Posted 2022-01-06 · Listing synced 2026-07-26 · 80k job ID `recs3W6jhPfRBQzCV`*

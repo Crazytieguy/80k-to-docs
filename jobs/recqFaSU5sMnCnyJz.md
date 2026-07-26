@@ -2,7 +2,7 @@
 title: "Postdoctoral Research Fellowship, Validation of AI-Based Decision Making"
 employer: "Simula"
 job_id: "recqFaSU5sMnCnyJz"
-last_updated: "2026-07-25T05:32:19.073536Z"
+last_updated: "2026-07-26T05:32:37.806567Z"
 posted_at: "2026-07-03T00:00:00Z"
 status: ready
 apply_url: "https://www.simula.no/careers/job-openings/postdoctoral-research-fellowship-in-validation-of-ai-based-decision-making"
@@ -34,4 +34,4 @@ areas:
 <p class="apply-cta"><a href="https://www.simula.no/careers/job-openings/postdoctoral-research-fellowship-in-validation-of-ai-based-decision-making">Apply →</a></p>
 
 ---
-*Posted 2026-07-03 · Listing synced 2026-07-25 · 80k job ID `recqFaSU5sMnCnyJz`*
+*Posted 2026-07-03 · Listing synced 2026-07-26 · 80k job ID `recqFaSU5sMnCnyJz`*

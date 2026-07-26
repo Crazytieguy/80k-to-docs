@@ -2,7 +2,7 @@
 title: "Security Engineer, Insider Threat Detection and Response"
 employer: "OpenAI"
 job_id: "recXMBdyib6LrEqvq"
-last_updated: "2026-07-25T05:33:01.375897Z"
+last_updated: "2026-07-26T05:33:22.139568Z"
 posted_at: "2022-01-11T00:00:00Z"
 status: ready
 apply_url: "https://openai.com/careers/security-engineer-insider-threat-detection-and-response-san-francisco/"
@@ -34,4 +34,4 @@ areas:
 <p class="apply-cta"><a href="https://openai.com/careers/security-engineer-insider-threat-detection-and-response-san-francisco/">Apply →</a></p>
 
 ---
-*Posted 2022-01-11 · Listing synced 2026-07-25 · 80k job ID `recXMBdyib6LrEqvq`*
+*Posted 2022-01-11 · Listing synced 2026-07-26 · 80k job ID `recXMBdyib6LrEqvq`*

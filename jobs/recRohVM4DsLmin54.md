@@ -2,7 +2,7 @@
 title: "Innovation Fellowship, Policy-Led (2026-27)"
 employer: "The British Academy"
 job_id: "recRohVM4DsLmin54"
-last_updated: "2026-07-25T05:32:34.578059Z"
+last_updated: "2026-07-26T05:32:53.901684Z"
 posted_at: "2026-06-12T00:00:00Z"
 status: ready
 apply_url: "https://www.thebritishacademy.ac.uk/funding/schemes/innovation-fellowships-route-b-policy-led/"
@@ -33,4 +33,4 @@ areas:
 <p class="apply-cta"><a href="https://www.thebritishacademy.ac.uk/funding/schemes/innovation-fellowships-route-b-policy-led/">Apply →</a></p>
 
 ---
-*Posted 2026-06-12 · Listing synced 2026-07-25 · 80k job ID `recRohVM4DsLmin54`*
+*Posted 2026-06-12 · Listing synced 2026-07-26 · 80k job ID `recRohVM4DsLmin54`*

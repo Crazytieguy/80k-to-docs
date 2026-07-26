@@ -2,7 +2,7 @@
 title: "Technical Program Manager, Research"
 employer: "FAR AI"
 job_id: "recdU5wUzabKIzKAS"
-last_updated: "2026-07-25T05:31:53.677021Z"
+last_updated: "2026-07-26T05:32:14.734682Z"
 posted_at: "2026-07-21T00:04:18Z"
 status: ready
 apply_url: "https://jobs.ashbyhq.com/far.ai/00763d58-c6ae-4334-a521-71e734a6a65b?embed=js"
@@ -34,4 +34,4 @@ areas:
 <p class="apply-cta"><a href="https://jobs.ashbyhq.com/far.ai/00763d58-c6ae-4334-a521-71e734a6a65b?embed=js">Apply →</a></p>
 
 ---
-*Posted 2026-07-21 · Listing synced 2026-07-25 · 80k job ID `recdU5wUzabKIzKAS`*
+*Posted 2026-07-21 · Listing synced 2026-07-26 · 80k job ID `recdU5wUzabKIzKAS`*

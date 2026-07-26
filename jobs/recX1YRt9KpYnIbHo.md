@@ -2,7 +2,7 @@
 title: "Office and Community Manager"
 employer: "Meridian"
 job_id: "recX1YRt9KpYnIbHo"
-last_updated: "2026-07-25T05:32:07.648912Z"
+last_updated: "2026-07-26T05:32:26.577614Z"
 posted_at: "2026-07-13T00:01:00Z"
 status: ready
 apply_url: "https://www.meridiancambridge.org/office-and-community-manager"
@@ -34,4 +34,4 @@ areas:
 <p class="apply-cta"><a href="https://www.meridiancambridge.org/office-and-community-manager">Apply →</a></p>
 
 ---
-*Posted 2026-07-13 · Listing synced 2026-07-25 · 80k job ID `recX1YRt9KpYnIbHo`*
+*Posted 2026-07-13 · Listing synced 2026-07-26 · 80k job ID `recX1YRt9KpYnIbHo`*

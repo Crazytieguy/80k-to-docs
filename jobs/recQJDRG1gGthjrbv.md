@@ -2,7 +2,7 @@
 title: "Postdoctoral Fellow"
 employer: "University of Texas at Austin, Center for Pandemic Decision Science"
 job_id: "recQJDRG1gGthjrbv"
-last_updated: "2026-07-25T05:33:45.841985Z"
+last_updated: "2026-07-26T05:34:04.358714Z"
 posted_at: "2022-01-02T00:00:00Z"
 status: ready
 apply_url: "https://utaustin.wd1.myworkdayjobs.com/en-US/UTstaff/job/CFA-Postdoctoral-Fellow---Center-for-Pandemic-Decision-Science_R_00042531"
@@ -34,4 +34,4 @@ areas:
 <p class="apply-cta"><a href="https://utaustin.wd1.myworkdayjobs.com/en-US/UTstaff/job/CFA-Postdoctoral-Fellow---Center-for-Pandemic-Decision-Science_R_00042531">Apply →</a></p>
 
 ---
-*Posted 2022-01-02 · Listing synced 2026-07-25 · 80k job ID `recQJDRG1gGthjrbv`*
+*Posted 2022-01-02 · Listing synced 2026-07-26 · 80k job ID `recQJDRG1gGthjrbv`*

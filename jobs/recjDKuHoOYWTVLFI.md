@@ -2,7 +2,7 @@
 title: "Specialist, US AI Policy"
 employer: "Simon Institute for Longterm Governance"
 job_id: "recjDKuHoOYWTVLFI"
-last_updated: "2026-07-25T05:32:06.694398Z"
+last_updated: "2026-07-26T05:32:25.729029Z"
 posted_at: "2026-07-13T00:04:07Z"
 status: ready
 apply_url: "https://simoninstitute.ch/jobs/us-ai-policy-specialist"
@@ -34,4 +34,4 @@ areas:
 <p class="apply-cta"><a href="https://simoninstitute.ch/jobs/us-ai-policy-specialist">Apply →</a></p>
 
 ---
-*Posted 2026-07-13 · Listing synced 2026-07-25 · 80k job ID `recjDKuHoOYWTVLFI`*
+*Posted 2026-07-13 · Listing synced 2026-07-26 · 80k job ID `recjDKuHoOYWTVLFI`*
