@@ -2,7 +2,7 @@
 title: "Social Media Manager"
 employer: "Effectief Geven"
 job_id: "recNkxe4bTWHolPfm"
-last_updated: "2026-07-26T05:33:56.953622Z"
+last_updated: "2026-07-27T05:33:44.285251Z"
 posted_at: "2022-01-02T00:00:00Z"
 status: ready
 apply_url: "https://www.effectiefgeven.be/vacatures/social-media-manager"
@@ -33,4 +33,4 @@ areas:
 <p class="apply-cta"><a href="https://www.effectiefgeven.be/vacatures/social-media-manager">Apply →</a></p>
 
 ---
-*Posted 2022-01-02 · Listing synced 2026-07-26 · 80k job ID `recNkxe4bTWHolPfm`*
+*Posted 2022-01-02 · Listing synced 2026-07-27 · 80k job ID `recNkxe4bTWHolPfm`*

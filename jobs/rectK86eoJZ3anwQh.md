@@ -2,7 +2,7 @@
 title: "Research Scientist, Manipulation Evaluations"
 employer: "Apart Research"
 job_id: "rectK86eoJZ3anwQh"
-last_updated: "2026-07-26T05:32:53.248580Z"
+last_updated: "2026-07-27T05:32:40.210188Z"
 posted_at: "2026-06-12T00:04:11Z"
 status: ready
 apply_url: "https://apartresearch.notion.site/research-scientist-manipulation-evals"
@@ -34,4 +34,4 @@ areas:
 <p class="apply-cta"><a href="https://apartresearch.notion.site/research-scientist-manipulation-evals">Apply →</a></p>
 
 ---
-*Posted 2026-06-12 · Listing synced 2026-07-26 · 80k job ID `rectK86eoJZ3anwQh`*
+*Posted 2026-06-12 · Listing synced 2026-07-27 · 80k job ID `rectK86eoJZ3anwQh`*

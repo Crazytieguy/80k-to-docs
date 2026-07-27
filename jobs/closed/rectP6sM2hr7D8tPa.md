@@ -4,25 +4,20 @@ employer: "Principles of Intelligence"
 job_id: "rectP6sM2hr7D8tPa"
 last_updated: "2026-07-26T05:32:42.519557Z"
 posted_at: "2026-06-29T00:01:00Z"
-status: ready
+status: closed
+closed_at: "2026-07-27"
 apply_url: "https://princint.ai/now-hiring-events-coordinators-at-principles-of-intelligence/"
 areas:
   - "AI safety & policy"
 ---
 
+> ⚠️ **CLOSED on 2026-07-27** — this job is no longer listed on the 80,000 Hours board. Archived snapshot below.
+
 # Events Coordinator
 
-**[Principles of Intelligence](https://princint.ai/)**
+**Principles of Intelligence**
 
-<dl class="job-meta">
-<dt>Location</dt><dd>Remote, Global, Belgrade, Serbia, Europe (ex UK), Serbia</dd>
-<dt>Role type</dt><dd>Full-time</dd>
-<dt>Experience</dt><dd>Junior (1-4 years experience)</dd>
-<dt>Degree</dt><dd>Undergraduate degree or less</dd>
-<dt>Salary</dt><dd>$50,000 – $70,000</dd>
-</dl>
-
-**Areas & skills:** AI safety & policy, Operations
+**Areas & skills:** AI safety & policy
 
 ## Summary
 - In this role, you'll support planning and execution of organizational events for the PIBBSS Fellowship program, team retreats, workshops, and conferences.

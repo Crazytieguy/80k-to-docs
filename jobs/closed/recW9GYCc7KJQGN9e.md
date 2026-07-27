@@ -4,25 +4,20 @@ employer: "UK Government, AI Security Institute"
 job_id: "recW9GYCc7KJQGN9e"
 last_updated: "2026-07-26T05:32:21.638410Z"
 posted_at: "2026-07-15T00:05:00Z"
-status: ready
+status: closed
+closed_at: "2026-07-27"
 apply_url: "https://job-boards.eu.greenhouse.io/csjobs/jobs/4924778101"
 areas:
   - "AI safety & policy"
 ---
 
+> ⚠️ **CLOSED on 2026-07-27** — this job is no longer listed on the 80,000 Hours board. Archived snapshot below.
+
 # Strategy and Delivery Adviser
 
-**[UK Government, AI Security Institute](https://www.aisi.gov.uk/)**
+**UK Government, AI Security Institute**
 
-<dl class="job-meta">
-<dt>Location</dt><dd>London, UK, Manchester, UK, UK</dd>
-<dt>Role type</dt><dd>Full-time</dd>
-<dt>Experience</dt><dd>Multiple experience levels</dd>
-<dt>Degree</dt><dd>Undergraduate degree or less</dd>
-<dt>Salary</dt><dd>$59,440 – $69,391</dd>
-</dl>
-
-**Areas & skills:** AI safety & policy, Policy, Operations
+**Areas & skills:** AI safety & policy
 
 ## Summary
 - In this role, you'll support the research team operationally and help shape the strategic direction of research on AI's societal impacts.

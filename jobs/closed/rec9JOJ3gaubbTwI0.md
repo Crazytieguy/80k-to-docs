@@ -4,25 +4,20 @@ employer: "Principles of Intelligence"
 job_id: "rec9JOJ3gaubbTwI0"
 last_updated: "2026-07-26T05:32:42.357148Z"
 posted_at: "2026-06-29T00:01:00Z"
-status: ready
+status: closed
+closed_at: "2026-07-27"
 apply_url: "https://princint.ai/now-hiring-compliance-operations-manager-at-principles-of-intelligence/"
 areas:
   - "AI safety & policy"
 ---
 
+> ⚠️ **CLOSED on 2026-07-27** — this job is no longer listed on the 80,000 Hours board. Archived snapshot below.
+
 # Compliance and Operations Manager
 
-**[Principles of Intelligence](https://princint.ai/)**
+**Principles of Intelligence**
 
-<dl class="job-meta">
-<dt>Location</dt><dd>Remote, Global, Belgrade, Serbia, Europe (ex UK), Serbia</dd>
-<dt>Role type</dt><dd>Full-time</dd>
-<dt>Experience</dt><dd>Mid (5-9 years experience)</dd>
-<dt>Degree</dt><dd>Undergraduate degree or less</dd>
-<dt>Salary</dt><dd>$55,000 – $75,000</dd>
-</dl>
-
-**Areas & skills:** AI safety & policy, Operations, Legal
+**Areas & skills:** AI safety & policy
 
 ## Summary
 - In this role, you'll oversee contracts, agreements, and regulatory compliance across the organization and its fiscal sponsees.

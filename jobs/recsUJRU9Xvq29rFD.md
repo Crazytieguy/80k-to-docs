@@ -2,7 +2,7 @@
 title: "Backend and Infrastructure Engineer"
 employer: "BioTrust"
 job_id: "recsUJRU9Xvq29rFD"
-last_updated: "2026-07-26T05:32:30.163959Z"
+last_updated: "2026-07-27T05:32:20.128749Z"
 posted_at: "2026-07-09T00:02:00Z"
 status: ready
 apply_url: "https://biotrust.org/jobs/backend-infrastructure-engineer"
@@ -35,4 +35,4 @@ areas:
 <p class="apply-cta"><a href="https://biotrust.org/jobs/backend-infrastructure-engineer">Apply →</a></p>
 
 ---
-*Posted 2026-07-09 · Listing synced 2026-07-26 · 80k job ID `recsUJRU9Xvq29rFD`*
+*Posted 2026-07-09 · Listing synced 2026-07-27 · 80k job ID `recsUJRU9Xvq29rFD`*

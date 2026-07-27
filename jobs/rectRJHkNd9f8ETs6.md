@@ -2,7 +2,7 @@
 title: "AIxBiosecurity Specialist"
 employer: "Simon Institute for Longterm Governance"
 job_id: "rectRJHkNd9f8ETs6"
-last_updated: "2026-07-26T05:32:25.212301Z"
+last_updated: "2026-07-27T05:32:14.715871Z"
 posted_at: "2026-07-13T00:05:00Z"
 status: ready
 apply_url: "https://simoninstitute.ch/jobs/ai-x-biosecurity-specialist"
@@ -20,7 +20,7 @@ areas:
 <dt>Role type</dt><dd>Full-time</dd>
 <dt>Experience</dt><dd>Multiple experience levels</dd>
 <dt>Degree</dt><dd>Undergraduate degree or less</dd>
-<dt>Salary</dt><dd>$122,205 – $171,086</dd>
+<dt>Salary</dt><dd>$122,683 – $171,756</dd>
 </dl>
 
 **Areas & skills:** AI safety & policy, Biosecurity & pandemic preparedness, Research, Policy
@@ -35,4 +35,4 @@ areas:
 <p class="apply-cta"><a href="https://simoninstitute.ch/jobs/ai-x-biosecurity-specialist">Apply →</a></p>
 
 ---
-*Posted 2026-07-13 · Listing synced 2026-07-26 · 80k job ID `rectRJHkNd9f8ETs6`*
+*Posted 2026-07-13 · Listing synced 2026-07-27 · 80k job ID `rectRJHkNd9f8ETs6`*

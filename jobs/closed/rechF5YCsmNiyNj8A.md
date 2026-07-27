@@ -4,25 +4,20 @@ employer: "Anthropic"
 job_id: "rechF5YCsmNiyNj8A"
 last_updated: "2026-07-26T05:32:19.478714Z"
 posted_at: "2026-07-17T00:00:00Z"
-status: ready
+status: closed
+closed_at: "2026-07-27"
 apply_url: "https://job-boards.greenhouse.io/anthropic/jobs/5183044008"
 areas:
   - "AI safety & policy"
 ---
 
+> ⚠️ **CLOSED on 2026-07-27** — this job is no longer listed on the 80,000 Hours board. Archived snapshot below.
+
 # Fellows Program, AI Safety
 
-**[Anthropic](https://www.anthropic.com/)**
+**Anthropic**
 
-<dl class="job-meta">
-<dt>Location</dt><dd>London, UK, San Francisco Bay Area, Remote, USA, Ontario, Canada, UK, USA, Canada</dd>
-<dt>Role type</dt><dd>Fellowship</dd>
-<dt>Experience</dt><dd>Multiple experience levels</dd>
-<dt>Degree</dt><dd>Undergraduate degree or less</dd>
-<dt>Salary</dt><dd>$200,200</dd>
-</dl>
-
-**Areas & skills:** AI safety & policy, Research, Software engineering
+**Areas & skills:** AI safety & policy
 
 ## Summary
 - This is a 4-month empirical AI safety research fellowship with direct mentorship from Anthropic researchers.

@@ -4,25 +4,20 @@ employer: "Secure AI Project"
 job_id: "reci9kJxLmzcVY8Fo"
 last_updated: "2026-07-26T05:32:34.807579Z"
 posted_at: "2026-07-06T00:04:00Z"
-status: ready
+status: closed
+closed_at: "2026-07-27"
 apply_url: "https://docs.google.com/document/d/1OSE-5VJG4CncqitS_Aqfz67AkqkuEDVQUqGiPBEMfNY/edit?tab=t.0#heading=h.cdmjf11njodl"
 areas:
   - "AI safety & policy"
 ---
 
+> ⚠️ **CLOSED on 2026-07-27** — this job is no longer listed on the 80,000 Hours board. Archived snapshot below.
+
 # Policy Director, Implementation and Government Talent
 
-**[Secure AI Project](https://secureaiproject.org/)**
+**Secure AI Project**
 
-<dl class="job-meta">
-<dt>Location</dt><dd>Remote, USA, USA, USA (Confirmed Visas)</dd>
-<dt>Role type</dt><dd>Full-time</dd>
-<dt>Experience</dt><dd>Multiple experience levels</dd>
-<dt>Degree</dt><dd>Undergraduate degree or less</dd>
-<dt>Salary</dt><dd>$140,000 – $260,000</dd>
-</dl>
-
-**Areas & skills:** AI safety & policy, Policy
+**Areas & skills:** AI safety & policy
 
 ## Summary
 - In this role, you'll lead talent placement efforts for state AI regulatory positions overseeing frontier AI developers.

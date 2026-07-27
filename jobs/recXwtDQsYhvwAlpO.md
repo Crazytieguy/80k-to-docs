@@ -2,7 +2,7 @@
 title: "Machine Learning Engineer"
 employer: "10a Labs"
 job_id: "recXwtDQsYhvwAlpO"
-last_updated: "2026-07-26T05:33:00.763149Z"
+last_updated: "2026-07-27T05:32:47.683276Z"
 posted_at: "2026-06-04T00:03:00Z"
 status: ready
 apply_url: "https://job-boards.greenhouse.io/10alabs/jobs/4273194009"
@@ -34,4 +34,4 @@ areas:
 <p class="apply-cta"><a href="https://job-boards.greenhouse.io/10alabs/jobs/4273194009">Apply →</a></p>
 
 ---
-*Posted 2026-06-04 · Listing synced 2026-07-26 · 80k job ID `recXwtDQsYhvwAlpO`*
+*Posted 2026-06-04 · Listing synced 2026-07-27 · 80k job ID `recXwtDQsYhvwAlpO`*

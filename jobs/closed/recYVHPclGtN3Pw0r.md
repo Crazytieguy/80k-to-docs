@@ -4,25 +4,20 @@ employer: "Lawfare Institute"
 job_id: "recYVHPclGtN3Pw0r"
 last_updated: "2026-07-26T05:32:19.942290Z"
 posted_at: "2026-07-17T00:00:00Z"
-status: ready
+status: closed
+closed_at: "2026-07-27"
 apply_url: "https://www.lawfaremedia.org/article/intern-with-lawfare"
 areas:
   - "Career development: Policy & government"
 ---
 
+> ⚠️ **CLOSED on 2026-07-27** — this job is no longer listed on the 80,000 Hours board. Archived snapshot below.
+
 # Intern (Fall 2026)
 
-**[Lawfare Institute](https://www.lawfareblog.com)**
+**Lawfare Institute**
 
-<dl class="job-meta">
-<dt>Location</dt><dd>Washington, DC metro area, USA</dd>
-<dt>Role type</dt><dd>Internship</dd>
-<dt>Experience</dt><dd>Entry-level</dd>
-<dt>Degree</dt><dd>Undergraduate degree or less</dd>
-<dt>Salary</dt><dd>$38,272</dd>
-</dl>
-
-**Areas & skills:** Career development: Policy & government, Research, Policy
+**Areas & skills:** Career development: Policy & government
 
 ## Summary
 - In this role, you'll assist the Lawfare editorial team in publishing national security analysis and maintaining the publication's digital platforms.

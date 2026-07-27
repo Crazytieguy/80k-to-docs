@@ -2,7 +2,7 @@
 title: "List of Part-Time Courses on Top Problems"
 employer: "Various Course Providers"
 job_id: "recPWhKquBW39vdzn"
-last_updated: "2026-07-26T05:33:07.193692Z"
+last_updated: "2026-07-27T05:32:53.675487Z"
 posted_at: "2026-05-22T00:00:00Z"
 status: ready
 apply_url: "https://airtable.com/app53PsYpHxJW61l3/shr6eKNhPjxj4UH4E"
@@ -29,4 +29,4 @@ areas:
 <p class="apply-cta"><a href="https://airtable.com/app53PsYpHxJW61l3/shr6eKNhPjxj4UH4E">Apply →</a></p>
 
 ---
-*Posted 2026-05-22 · Listing synced 2026-07-26 · 80k job ID `recPWhKquBW39vdzn`*
+*Posted 2026-05-22 · Listing synced 2026-07-27 · 80k job ID `recPWhKquBW39vdzn`*

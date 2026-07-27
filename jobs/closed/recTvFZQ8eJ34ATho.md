@@ -4,25 +4,20 @@ employer: "Impact Ops"
 job_id: "recTvFZQ8eJ34ATho"
 last_updated: "2026-07-26T05:32:43.857389Z"
 posted_at: "2026-06-29T00:00:00Z"
-status: ready
+status: closed
+closed_at: "2026-07-27"
 apply_url: "https://impact-ops.org/jobs/operations-specialist/"
 areas:
   - "Building effective altruism"
 ---
 
+> ⚠️ **CLOSED on 2026-07-27** — this job is no longer listed on the 80,000 Hours board. Archived snapshot below.
+
 # Operations Specialist, US
 
-**[Impact Ops](https://impact-ops.org/)**
+**Impact Ops**
 
-<dl class="job-meta">
-<dt>Location</dt><dd>Remote, USA, USA</dd>
-<dt>Role type</dt><dd>Full-time</dd>
-<dt>Experience</dt><dd>Junior (1-4 years experience)</dd>
-<dt>Degree</dt><dd>Undergraduate degree or less</dd>
-<dt>Salary</dt><dd>$80,000 – $95,000</dd>
-</dl>
-
-**Areas & skills:** Building effective altruism, Operations, Finance
+**Areas & skills:** Building effective altruism
 
 ## Summary
 - In this role, you'll own US operational support for nonprofits, managing entity formation, compliance, and HR and payroll administration.

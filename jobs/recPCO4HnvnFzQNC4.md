@@ -2,7 +2,7 @@
 title: "Senior Associate, EA Funds"
 employer: "Centre for Effective Altruism"
 job_id: "recPCO4HnvnFzQNC4"
-last_updated: "2026-07-26T05:32:11.348404Z"
+last_updated: "2026-07-27T05:31:58.856838Z"
 posted_at: "2026-07-23T00:04:04Z"
 status: ready
 apply_url: "https://www.centreforeffectivealtruism.org/careers?ashby_jid=21afa216-30b6-4236-97b3-560dda8c8b06"
@@ -34,4 +34,4 @@ areas:
 <p class="apply-cta"><a href="https://www.centreforeffectivealtruism.org/careers?ashby_jid=21afa216-30b6-4236-97b3-560dda8c8b06">Apply →</a></p>
 
 ---
-*Posted 2026-07-23 · Listing synced 2026-07-26 · 80k job ID `recPCO4HnvnFzQNC4`*
+*Posted 2026-07-23 · Listing synced 2026-07-27 · 80k job ID `recPCO4HnvnFzQNC4`*

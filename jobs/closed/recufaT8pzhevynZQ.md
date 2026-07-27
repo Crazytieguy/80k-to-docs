@@ -4,24 +4,20 @@ employer: "Coalition for Epidemic Preparedness Innovations"
 job_id: "recufaT8pzhevynZQ"
 last_updated: "2026-07-26T05:32:36.576855Z"
 posted_at: "2026-07-03T00:01:00Z"
-status: ready
+status: closed
+closed_at: "2026-07-27"
 apply_url: "https://cepi.my.salesforce-sites.com/careers/xcdrecruit__PositionDetails?id=a43P300000FsDCYIA3"
 areas:
   - "Biosecurity & pandemic preparedness"
 ---
 
+> ⚠️ **CLOSED on 2026-07-27** — this job is no longer listed on the 80,000 Hours board. Archived snapshot below.
+
 # Regulatory Policy Intelligence Manager
 
-**[Coalition for Epidemic Preparedness Innovations](https://cepi.net/)**
+**Coalition for Epidemic Preparedness Innovations**
 
-<dl class="job-meta">
-<dt>Location</dt><dd>London, UK, Washington, DC metro area, Oslo, Norway, UK, USA, Norway, Europe (ex UK)</dd>
-<dt>Role type</dt><dd>Full-time</dd>
-<dt>Experience</dt><dd>Mid (5-9 years experience)</dd>
-<dt>Degree</dt><dd>Master's degree</dd>
-</dl>
-
-**Areas & skills:** Biosecurity & pandemic preparedness, Policy
+**Areas & skills:** Biosecurity & pandemic preparedness
 
 ## Summary
 - In this role, you'll shape CEPI's regulatory strategy and pandemic preparedness through intelligence, policy engagement and stakeholder collaboration.

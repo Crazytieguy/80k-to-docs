@@ -2,8 +2,8 @@
 title: "Luce Scholars Program"
 employer: "Henry Luce Foundation"
 job_id: "receDWsg48lZB61MO"
-last_updated: "2026-07-26T05:33:12.837759Z"
-posted_at: "2026-05-08T00:00:00Z"
+last_updated: "2026-07-27T05:33:46.517720Z"
+posted_at: "2022-01-02T00:00:00Z"
 status: ready
 apply_url: "https://www.hluce.org/programs/luce-scholars/"
 areas:
@@ -33,4 +33,4 @@ areas:
 <p class="apply-cta"><a href="https://www.hluce.org/programs/luce-scholars/">Apply →</a></p>
 
 ---
-*Posted 2026-05-08 · Listing synced 2026-07-26 · 80k job ID `receDWsg48lZB61MO`*
+*Posted 2022-01-02 · Listing synced 2026-07-27 · 80k job ID `receDWsg48lZB61MO`*

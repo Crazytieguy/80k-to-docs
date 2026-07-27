@@ -4,24 +4,20 @@ employer: "One Acre Fund"
 job_id: "rec7BrVrVic9JMY7K"
 last_updated: "2026-07-26T05:32:52.955271Z"
 posted_at: "2026-06-15T00:00:00Z"
-status: ready
+status: closed
+closed_at: "2026-07-27"
 apply_url: "https://oneacrefund.org/vacancies/rwanda-scale-innovations-intern"
 areas:
   - "Global health & development"
 ---
 
+> ⚠️ **CLOSED on 2026-07-27** — this job is no longer listed on the 80,000 Hours board. Archived snapshot below.
+
 # Intern, Rwanda Scale Innovations
 
-**[One Acre Fund](https://oneacrefund.org/)**
+**One Acre Fund**
 
-<dl class="job-meta">
-<dt>Location</dt><dd>Kigali, Rwanda, Africa, Rwanda</dd>
-<dt>Role type</dt><dd>Internship</dd>
-<dt>Experience</dt><dd>Entry-level</dd>
-<dt>Degree</dt><dd>Undergraduate degree or less</dd>
-</dl>
-
-**Areas & skills:** Global health & development, Operations
+**Areas & skills:** Global health & development
 
 ## Summary
 - In this role, you'll own product trials from design to evaluation while supporting Scale Innovations initiatives.

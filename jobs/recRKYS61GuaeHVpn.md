@@ -2,7 +2,7 @@
 title: "Biosecurity Fellowship Manager"
 employer: "Centre for Long-Term Resilience"
 job_id: "recRKYS61GuaeHVpn"
-last_updated: "2026-07-26T05:32:14.017666Z"
+last_updated: "2026-07-27T05:32:01.415468Z"
 posted_at: "2026-07-21T00:05:00Z"
 status: ready
 apply_url: "https://www.longtermresilience.org/were-hiring-biosecurity-fellowship-manager/"
@@ -19,7 +19,7 @@ areas:
 <dt>Role type</dt><dd>Full-time</dd>
 <dt>Experience</dt><dd>Mid (5-9 years experience)</dd>
 <dt>Degree</dt><dd>Undergraduate degree or less</dd>
-<dt>Salary</dt><dd>$93,250 – $99,911</dd>
+<dt>Salary</dt><dd>$93,475 – $100,152</dd>
 </dl>
 
 **Areas & skills:** Biosecurity & pandemic preparedness, Operations, Strategy
@@ -34,4 +34,4 @@ areas:
 <p class="apply-cta"><a href="https://www.longtermresilience.org/were-hiring-biosecurity-fellowship-manager/">Apply →</a></p>
 
 ---
-*Posted 2026-07-21 · Listing synced 2026-07-26 · 80k job ID `recRKYS61GuaeHVpn`*
+*Posted 2026-07-21 · Listing synced 2026-07-27 · 80k job ID `recRKYS61GuaeHVpn`*

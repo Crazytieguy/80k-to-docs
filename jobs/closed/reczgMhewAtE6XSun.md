@@ -4,24 +4,20 @@ employer: "Technical Alignment Research Accelerator"
 job_id: "reczgMhewAtE6XSun"
 last_updated: "2026-07-26T05:32:40.385906Z"
 posted_at: "2026-07-01T00:03:00Z"
-status: ready
+status: closed
+closed_at: "2026-07-27"
 apply_url: "https://www.taraprogram.org/"
 areas:
   - "AI safety & policy"
 ---
 
+> ⚠️ **CLOSED on 2026-07-27** — this job is no longer listed on the 80,000 Hours board. Archived snapshot below.
+
 # Technical Alignment Research Accelerator
 
-**[Technical Alignment Research Accelerator](https://www.taraprogram.org/)**
+**Technical Alignment Research Accelerator**
 
-<dl class="job-meta">
-<dt>Location</dt><dd>Various, Asia, Various, Australia, Australia, Asia, Oceania</dd>
-<dt>Role type</dt><dd>Course</dd>
-<dt>Experience</dt><dd>Multiple experience levels</dd>
-<dt>Degree</dt><dd>Undergraduate degree or less</dd>
-</dl>
-
-**Areas & skills:** AI safety & policy, Research, Software engineering
+**Areas & skills:** AI safety & policy
 
 ## Summary
 - In this free 14-week part-time program, you'll work through core material from ARENA's technical AI safety curriculum.

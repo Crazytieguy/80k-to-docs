@@ -2,7 +2,7 @@
 title: "Principal, Special Projects"
 employer: "Center for AI Safety"
 job_id: "rec5uiAFtb0uqt3mv"
-last_updated: "2026-07-26T05:33:18.731157Z"
+last_updated: "2026-07-27T05:33:04.233471Z"
 posted_at: "2022-01-11T00:00:00Z"
 status: ready
 apply_url: "https://job-boards.greenhouse.io/centerforartificialintelligencesafetyinc/jobs/4315278009"
@@ -34,4 +34,4 @@ areas:
 <p class="apply-cta"><a href="https://job-boards.greenhouse.io/centerforartificialintelligencesafetyinc/jobs/4315278009">Apply →</a></p>
 
 ---
-*Posted 2022-01-11 · Listing synced 2026-07-26 · 80k job ID `rec5uiAFtb0uqt3mv`*
+*Posted 2022-01-11 · Listing synced 2026-07-27 · 80k job ID `rec5uiAFtb0uqt3mv`*

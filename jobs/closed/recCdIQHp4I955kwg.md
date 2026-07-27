@@ -4,25 +4,20 @@ employer: "Apart Research"
 job_id: "recCdIQHp4I955kwg"
 last_updated: "2026-07-26T05:32:53.088466Z"
 posted_at: "2026-06-12T00:04:55Z"
-status: ready
+status: closed
+closed_at: "2026-07-27"
 apply_url: "https://apartresearch.notion.site/technical-project-manager"
 areas:
   - "AI safety & policy"
 ---
 
+> ⚠️ **CLOSED on 2026-07-27** — this job is no longer listed on the 80,000 Hours board. Archived snapshot below.
+
 # Technical Project Manager
 
-**[Apart Research](https://apartresearch.com/)**
+**Apart Research**
 
-<dl class="job-meta">
-<dt>Location</dt><dd>Remote, Europe, Europe, Europe (ex UK)</dd>
-<dt>Role type</dt><dd>Full-time</dd>
-<dt>Experience</dt><dd>Mid (5-9 years experience)</dd>
-<dt>Degree</dt><dd>Undergraduate degree or less</dd>
-<dt>Salary</dt><dd>$115,000 – $160,000</dd>
-</dl>
-
-**Areas & skills:** AI safety & policy, Operations
+**Areas & skills:** AI safety & policy
 
 ## Summary
 - In this role, you'll own delivery and coordination for a research division building harmful-manipulation evaluations for the EU AI Office.

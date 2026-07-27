@@ -4,25 +4,20 @@ employer: "Secure AI Project"
 job_id: "rec2uPwaR14XuhvNC"
 last_updated: "2026-07-26T05:32:34.426549Z"
 posted_at: "2026-07-06T00:05:00Z"
-status: ready
+status: closed
+closed_at: "2026-07-27"
 apply_url: "https://docs.google.com/document/d/1JueX5YfErmMumMVR0IARvyg5FAEVKBoyaL3Uem1vdGc/edit?tab=t.0#heading=h.nz3oj3jqs9sp"
 areas:
   - "AI safety & policy"
 ---
 
+> ⚠️ **CLOSED on 2026-07-27** — this job is no longer listed on the 80,000 Hours board. Archived snapshot below.
+
 # Policy Director, Office of the Chief Executive Officer
 
-**[Secure AI Project](https://secureaiproject.org/)**
+**Secure AI Project**
 
-<dl class="job-meta">
-<dt>Location</dt><dd>Remote, USA, USA, USA (Confirmed Visas)</dd>
-<dt>Role type</dt><dd>Full-time</dd>
-<dt>Experience</dt><dd>Multiple experience levels</dd>
-<dt>Degree</dt><dd>Undergraduate degree or less</dd>
-<dt>Salary</dt><dd>$115,000 – $235,000</dd>
-</dl>
-
-**Areas & skills:** AI safety & policy, Operations
+**Areas & skills:** AI safety & policy
 
 ## Summary
 - In this role, you'll partner with the executive team to amplify executive function while building expertise in AI policy and organisational leadership.

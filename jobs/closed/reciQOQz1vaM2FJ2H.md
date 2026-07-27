@@ -4,24 +4,20 @@ employer: "Cosmos Institute"
 job_id: "reciQOQz1vaM2FJ2H"
 last_updated: "2026-07-26T05:32:44.224771Z"
 posted_at: "2026-06-26T00:00:00Z"
-status: ready
+status: closed
+closed_at: "2026-07-27"
 apply_url: "https://www.cosmos-institute.org/grants#:~:text=AI%20and%20Human%20Autonomy"
 areas:
   - "AI safety & policy"
 ---
 
+> ⚠️ **CLOSED on 2026-07-27** — this job is no longer listed on the 80,000 Hours board. Archived snapshot below.
+
 # Cosmos Grants, AI and Human Autonomy
 
-**[Cosmos Institute](https://cosmos-institute.org/)**
+**Cosmos Institute**
 
-<dl class="job-meta">
-<dt>Location</dt><dd>Remote, Global</dd>
-<dt>Role type</dt><dd>Funding</dd>
-<dt>Experience</dt><dd>Multiple experience levels</dd>
-<dt>Degree</dt><dd>Undergraduate degree or less</dd>
-</dl>
-
-**Areas & skills:** AI safety & policy, Strategy
+**Areas & skills:** AI safety & policy
 
 ## Summary
 - Grants provided for early prototypes of AI that strengthens human autonomy.
