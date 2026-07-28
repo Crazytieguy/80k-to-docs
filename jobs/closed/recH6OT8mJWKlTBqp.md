@@ -4,24 +4,20 @@ employer: "Animal Legal Defense Fund"
 job_id: "recH6OT8mJWKlTBqp"
 last_updated: "2026-07-27T05:32:42.423045Z"
 posted_at: "2026-06-11T00:00:00Z"
-status: ready
+status: closed
+closed_at: "2026-07-28"
 apply_url: "https://recruiting.paylocity.com/Recruiting/Jobs/Details/4236492"
 areas:
   - "Animal welfare"
 ---
 
+> ⚠️ **CLOSED on 2026-07-28** — this job is no longer listed on the 80,000 Hours board. Archived snapshot below.
+
 # Externship and Volunteer Program (Fall 2026 and Spring 2027)
 
-**[Animal Legal Defense Fund](https://aldf.org/)**
+**Animal Legal Defense Fund**
 
-<dl class="job-meta">
-<dt>Location</dt><dd>Remote, USA, USA</dd>
-<dt>Role type</dt><dd>Internship, Volunteering</dd>
-<dt>Experience</dt><dd>Entry-level</dd>
-<dt>Degree</dt><dd>Undergraduate degree or less</dd>
-</dl>
-
-**Areas & skills:** Animal welfare, Research, Legal
+**Areas & skills:** Animal welfare
 
 ## Summary
 - In this program, you'll conduct legal and policy research for an aquatic animal law textbook and publications on dogs in laboratories.

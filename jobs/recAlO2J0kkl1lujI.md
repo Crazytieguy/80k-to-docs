@@ -2,10 +2,10 @@
 title: "Member of Technical Staff, Synthetic Data"
 employer: "Trajectory Labs"
 job_id: "recAlO2J0kkl1lujI"
-last_updated: "2026-07-27T05:33:26.613605Z"
+last_updated: "2026-07-28T05:33:50.859730Z"
 posted_at: "2022-01-06T00:00:00Z"
 status: ready
-apply_url: "https://www.trajectorylabs.com/careers/member-of-technical-staff"
+apply_url: "https://www.trajectorylabs.com/careers/expression-of-interest"
 areas:
   - "AI safety & policy"
 ---
@@ -31,7 +31,7 @@ areas:
 - Manage a team of five scenario designers and build internal tools to increase their productivity.
 - Collaborate with founders to prioritise what gets built and how production scales.
 
-<p class="apply-cta"><a href="https://www.trajectorylabs.com/careers/member-of-technical-staff">Apply →</a></p>
+<p class="apply-cta"><a href="https://www.trajectorylabs.com/careers/expression-of-interest">Apply →</a></p>
 
 ---
-*Posted 2022-01-06 · Listing synced 2026-07-27 · 80k job ID `recAlO2J0kkl1lujI`*
+*Posted 2022-01-06 · Listing synced 2026-07-28 · 80k job ID `recAlO2J0kkl1lujI`*

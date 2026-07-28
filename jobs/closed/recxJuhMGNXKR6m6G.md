@@ -4,24 +4,20 @@ employer: "Max Planck Society, Institute for Intelligent Systems"
 job_id: "recxJuhMGNXKR6m6G"
 last_updated: "2026-07-27T05:32:50.604715Z"
 posted_at: "2026-05-29T00:00:00Z"
-status: ready
+status: closed
+closed_at: "2026-07-28"
 apply_url: "https://ellis.eu/research/jobs/2026-05-27-phd-students-and-visiting-phd-students"
 areas:
   - "AI safety & policy"
 ---
 
+> ⚠️ **CLOSED on 2026-07-28** — this job is no longer listed on the 80,000 Hours board. Archived snapshot below.
+
 # PhD Student / Visiting PhD Student, ELLIS Institute Tübingen and Max Planck Institute for Intelligent Systems
 
-**[Max Planck Society, Institute for Intelligent Systems](https://re.is.tuebingen.mpg.de/)**
+**Max Planck Society, Institute for Intelligent Systems**
 
-<dl class="job-meta">
-<dt>Location</dt><dd>Tübingen, Germany, Germany, Europe (ex UK)</dd>
-<dt>Role type</dt><dd>Internship, Other</dd>
-<dt>Experience</dt><dd>Entry-level</dd>
-<dt>Degree</dt><dd>Master's degree</dd>
-</dl>
-
-**Areas & skills:** AI safety & policy, Research
+**Areas & skills:** AI safety & policy
 
 ## Summary
 - In this role, you'll conduct research on AI safety, security, and alignment for advanced autonomous systems aligned with human values.

@@ -2,7 +2,7 @@
 title: "Mentor"
 employer: "BlueDot Impact"
 job_id: "reczMVZ1CNqphe4UA"
-last_updated: "2026-07-27T05:33:18.003534Z"
+last_updated: "2026-07-28T05:33:40.644412Z"
 posted_at: "2022-01-06T00:00:00Z"
 status: ready
 apply_url: "https://bluedot.org/join-us/coach"
@@ -33,4 +33,4 @@ areas:
 <p class="apply-cta"><a href="https://bluedot.org/join-us/coach">Apply →</a></p>
 
 ---
-*Posted 2022-01-06 · Listing synced 2026-07-27 · 80k job ID `reczMVZ1CNqphe4UA`*
+*Posted 2022-01-06 · Listing synced 2026-07-28 · 80k job ID `reczMVZ1CNqphe4UA`*

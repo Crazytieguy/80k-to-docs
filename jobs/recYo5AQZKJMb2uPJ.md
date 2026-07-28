@@ -2,7 +2,7 @@
 title: "Funding, Scaling AI Safety for a Multi-Agent World"
 employer: "Schmidt Sciences"
 job_id: "recYo5AQZKJMb2uPJ"
-last_updated: "2026-07-27T05:32:39.594689Z"
+last_updated: "2026-07-28T05:33:04.488291Z"
 posted_at: "2026-06-15T00:02:00Z"
 status: ready
 apply_url: "https://schmidtsciences.smapply.io/prog/scaling_ai_safety_for_a_multi_agent_world/"
@@ -33,4 +33,4 @@ areas:
 <p class="apply-cta"><a href="https://schmidtsciences.smapply.io/prog/scaling_ai_safety_for_a_multi_agent_world/">Apply →</a></p>
 
 ---
-*Posted 2026-06-15 · Listing synced 2026-07-27 · 80k job ID `recYo5AQZKJMb2uPJ`*
+*Posted 2026-06-15 · Listing synced 2026-07-28 · 80k job ID `recYo5AQZKJMb2uPJ`*

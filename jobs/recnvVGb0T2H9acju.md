@@ -2,7 +2,7 @@
 title: "Operations Coordinator"
 employer: "Shrimp Welfare Project"
 job_id: "recnvVGb0T2H9acju"
-last_updated: "2026-07-27T05:32:18.034837Z"
+last_updated: "2026-07-28T05:32:41.604703Z"
 posted_at: "2026-07-13T00:00:00Z"
 status: ready
 apply_url: "https://docs.google.com/document/d/1WQJQWLemM12rJ8xAKqASZsKCIKb2yROGOZaX6KEXrDw/edit?tab=t.0#heading=h.axeilkmp3g7a"
@@ -19,7 +19,7 @@ areas:
 <dt>Role type</dt><dd>Full-time</dd>
 <dt>Experience</dt><dd>Junior (1-4 years experience)</dd>
 <dt>Degree</dt><dd>Undergraduate degree or less</dd>
-<dt>Salary</dt><dd>$42,001</dd>
+<dt>Salary</dt><dd>$41,796</dd>
 </dl>
 
 **Areas & skills:** Animal welfare, Operations, Finance
@@ -34,4 +34,4 @@ areas:
 <p class="apply-cta"><a href="https://docs.google.com/document/d/1WQJQWLemM12rJ8xAKqASZsKCIKb2yROGOZaX6KEXrDw/edit?tab=t.0#heading=h.axeilkmp3g7a">Apply →</a></p>
 
 ---
-*Posted 2026-07-13 · Listing synced 2026-07-27 · 80k job ID `recnvVGb0T2H9acju`*
+*Posted 2026-07-13 · Listing synced 2026-07-28 · 80k job ID `recnvVGb0T2H9acju`*

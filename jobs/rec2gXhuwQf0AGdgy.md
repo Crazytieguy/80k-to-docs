@@ -2,7 +2,7 @@
 title: "Various Fellowships"
 employer: "Aspen Institute"
 job_id: "rec2gXhuwQf0AGdgy"
-last_updated: "2026-07-27T05:33:52.980544Z"
+last_updated: "2026-07-28T05:34:18.377323Z"
 posted_at: "2022-01-01T00:00:00Z"
 status: ready
 apply_url: "https://agln.aspeninstitute.org/fellowships"
@@ -30,4 +30,4 @@ areas:
 <p class="apply-cta"><a href="https://agln.aspeninstitute.org/fellowships">Apply →</a></p>
 
 ---
-*Posted 2022-01-01 · Listing synced 2026-07-27 · 80k job ID `rec2gXhuwQf0AGdgy`*
+*Posted 2022-01-01 · Listing synced 2026-07-28 · 80k job ID `rec2gXhuwQf0AGdgy`*

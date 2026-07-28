@@ -2,13 +2,13 @@
 title: "Horizon Fellowship"
 employer: "Horizon Institute for Public Service"
 job_id: "rect1mE8raoSSWNw7"
-last_updated: "2026-07-27T05:31:59.963178Z"
+last_updated: "2026-07-28T05:32:26.645521Z"
 posted_at: "2026-07-22T00:06:00Z"
 status: ready
 apply_url: "https://horizonpublicservice.org/programs/become-a-fellow/"
 areas:
   - "AI safety & policy"
-  - "Animal welfare"
+  - "Biosecurity & pandemic preparedness"
 ---
 
 # Horizon Fellowship
@@ -23,10 +23,10 @@ areas:
 <dt>Salary</dt><dd>$78,000 – $190,000</dd>
 </dl>
 
-**Areas & skills:** AI safety & policy, Animal welfare, Policy
+**Areas & skills:** AI safety & policy, Biosecurity & pandemic preparedness, Policy
 
 ## Summary
-- In this role, you'll participate in a fully-funded emerging technology policy fellowship with training and a 6-24 month placement in Washington, DC.
+- This is fully-funded emerging technology policy fellowship with training and a 6-24 month placement at a host organisation to help tackle policy challenges related to artificial intelligence, biotechnology, and other emerging technologies.
 - Complete 10 weeks of part-time training in policy writing, analysis, and communication.
 - Secure a placement at a host organisation (executive branch, Congress, or think tank).
 - Perform policy research, writing, and analysis on emerging technology issues based on your track.
@@ -35,4 +35,4 @@ areas:
 <p class="apply-cta"><a href="https://horizonpublicservice.org/programs/become-a-fellow/">Apply →</a></p>
 
 ---
-*Posted 2026-07-22 · Listing synced 2026-07-27 · 80k job ID `rect1mE8raoSSWNw7`*
+*Posted 2026-07-22 · Listing synced 2026-07-28 · 80k job ID `rect1mE8raoSSWNw7`*

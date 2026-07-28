@@ -2,7 +2,7 @@
 title: "Software Engineer, LessWrong"
 employer: "Lightcone Infrastructure"
 job_id: "reciCN4NVL7gXQkSO"
-last_updated: "2026-07-27T05:33:00.489514Z"
+last_updated: "2026-07-28T05:33:25.560515Z"
 posted_at: "2022-01-12T00:00:00Z"
 status: ready
 apply_url: "https://www.lightconeinfrastructure.com/lesswrong-software.html"
@@ -34,4 +34,4 @@ areas:
 <p class="apply-cta"><a href="https://www.lightconeinfrastructure.com/lesswrong-software.html">Apply →</a></p>
 
 ---
-*Posted 2022-01-12 · Listing synced 2026-07-27 · 80k job ID `reciCN4NVL7gXQkSO`*
+*Posted 2022-01-12 · Listing synced 2026-07-28 · 80k job ID `reciCN4NVL7gXQkSO`*

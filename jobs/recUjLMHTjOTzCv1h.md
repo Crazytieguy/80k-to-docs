@@ -2,7 +2,7 @@
 title: "Security Engineer / Staff Security Engineer, Threat Intelligence"
 employer: "Anthropic"
 job_id: "recUjLMHTjOTzCv1h"
-last_updated: "2026-07-27T05:32:40.350648Z"
+last_updated: "2026-07-28T05:33:05.097786Z"
 posted_at: "2026-06-12T00:00:00Z"
 status: ready
 apply_url: "https://job-boards.greenhouse.io/anthropic/jobs/5252342008"
@@ -33,4 +33,4 @@ areas:
 <p class="apply-cta"><a href="https://job-boards.greenhouse.io/anthropic/jobs/5252342008">Apply →</a></p>
 
 ---
-*Posted 2026-06-12 · Listing synced 2026-07-27 · 80k job ID `recUjLMHTjOTzCv1h`*
+*Posted 2026-06-12 · Listing synced 2026-07-28 · 80k job ID `recUjLMHTjOTzCv1h`*

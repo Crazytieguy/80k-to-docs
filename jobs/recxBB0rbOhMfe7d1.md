@@ -2,7 +2,7 @@
 title: "Fellowship, Young Leaders in Foreign and Security Policy"
 employer: "Geneva Centre for Security Policy"
 job_id: "recxBB0rbOhMfe7d1"
-last_updated: "2026-07-27T05:33:45.960632Z"
+last_updated: "2026-07-28T05:34:11.770330Z"
 posted_at: "2022-01-02T00:00:00Z"
 status: ready
 apply_url: "https://www.gcsp.ch/young-leaders-foreign-and-security-policy"
@@ -33,4 +33,4 @@ areas:
 <p class="apply-cta"><a href="https://www.gcsp.ch/young-leaders-foreign-and-security-policy">Apply →</a></p>
 
 ---
-*Posted 2022-01-02 · Listing synced 2026-07-27 · 80k job ID `recxBB0rbOhMfe7d1`*
+*Posted 2022-01-02 · Listing synced 2026-07-28 · 80k job ID `recxBB0rbOhMfe7d1`*
