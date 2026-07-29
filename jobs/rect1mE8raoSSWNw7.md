@@ -2,7 +2,7 @@
 title: "Horizon Fellowship"
 employer: "Horizon Institute for Public Service"
 job_id: "rect1mE8raoSSWNw7"
-last_updated: "2026-07-28T05:32:26.645521Z"
+last_updated: "2026-07-29T05:32:30.890636Z"
 posted_at: "2026-07-22T00:06:00Z"
 status: ready
 apply_url: "https://horizonpublicservice.org/programs/become-a-fellow/"
@@ -35,4 +35,4 @@ areas:
 <p class="apply-cta"><a href="https://horizonpublicservice.org/programs/become-a-fellow/">Apply →</a></p>
 
 ---
-*Posted 2026-07-22 · Listing synced 2026-07-28 · 80k job ID `rect1mE8raoSSWNw7`*
+*Posted 2026-07-22 · Listing synced 2026-07-29 · 80k job ID `rect1mE8raoSSWNw7`*

@@ -2,7 +2,7 @@
 title: "Project Coordinator"
 employer: "Center for a New American Security"
 job_id: "recXhlqzLhWyh7gQb"
-last_updated: "2026-07-28T05:33:16.089313Z"
+last_updated: "2026-07-29T05:33:21.049098Z"
 posted_at: "2026-05-28T00:03:00Z"
 status: ready
 apply_url: "https://www.cnas.org/careers/project-coordinator"
@@ -33,4 +33,4 @@ areas:
 <p class="apply-cta"><a href="https://www.cnas.org/careers/project-coordinator">Apply →</a></p>
 
 ---
-*Posted 2026-05-28 · Listing synced 2026-07-28 · 80k job ID `recXhlqzLhWyh7gQb`*
+*Posted 2026-05-28 · Listing synced 2026-07-29 · 80k job ID `recXhlqzLhWyh7gQb`*

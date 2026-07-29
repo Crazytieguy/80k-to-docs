@@ -2,7 +2,7 @@
 title: "Research Engineer Intern (Fall 2026)"
 employer: "Center for AI Safety"
 job_id: "recU4FPZknbbKuz0v"
-last_updated: "2026-07-28T05:33:24.568336Z"
+last_updated: "2026-07-29T05:33:29.765959Z"
 posted_at: "2022-01-12T00:00:00Z"
 status: ready
 apply_url: "https://job-boards.greenhouse.io/centerforartificialintelligencesafetyinc/jobs/4308524009"
@@ -34,4 +34,4 @@ areas:
 <p class="apply-cta"><a href="https://job-boards.greenhouse.io/centerforartificialintelligencesafetyinc/jobs/4308524009">Apply →</a></p>
 
 ---
-*Posted 2022-01-12 · Listing synced 2026-07-28 · 80k job ID `recU4FPZknbbKuz0v`*
+*Posted 2022-01-12 · Listing synced 2026-07-29 · 80k job ID `recU4FPZknbbKuz0v`*

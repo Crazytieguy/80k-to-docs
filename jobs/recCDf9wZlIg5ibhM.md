@@ -2,7 +2,7 @@
 title: "Career Bootcamp Lead"
 employer: "Centre for Effective Altruism"
 job_id: "recCDf9wZlIg5ibhM"
-last_updated: "2026-07-28T05:32:35.503910Z"
+last_updated: "2026-07-29T05:32:39.973383Z"
 posted_at: "2026-07-15T00:04:15Z"
 status: ready
 apply_url: "https://www.centreforeffectivealtruism.org/careers?ashby_jid=d7fc81f3-5553-42cf-bc4d-a64e7535c101"
@@ -34,4 +34,4 @@ areas:
 <p class="apply-cta"><a href="https://www.centreforeffectivealtruism.org/careers?ashby_jid=d7fc81f3-5553-42cf-bc4d-a64e7535c101">Apply →</a></p>
 
 ---
-*Posted 2026-07-15 · Listing synced 2026-07-28 · 80k job ID `recCDf9wZlIg5ibhM`*
+*Posted 2026-07-15 · Listing synced 2026-07-29 · 80k job ID `recCDf9wZlIg5ibhM`*

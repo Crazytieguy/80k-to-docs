@@ -2,7 +2,7 @@
 title: "Trusted Red Team Network"
 employer: "Syntony"
 job_id: "recRKDZhaD0kSUhrh"
-last_updated: "2026-07-28T05:32:42.719824Z"
+last_updated: "2026-07-29T05:32:46.756059Z"
 posted_at: "2026-07-10T00:00:00Z"
 status: ready
 apply_url: "https://www.syntonyresearch.ai/work/trusted-red-team/"
@@ -33,4 +33,4 @@ areas:
 <p class="apply-cta"><a href="https://www.syntonyresearch.ai/work/trusted-red-team/">Apply →</a></p>
 
 ---
-*Posted 2026-07-10 · Listing synced 2026-07-28 · 80k job ID `recRKDZhaD0kSUhrh`*
+*Posted 2026-07-10 · Listing synced 2026-07-29 · 80k job ID `recRKDZhaD0kSUhrh`*

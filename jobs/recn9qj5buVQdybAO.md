@@ -2,7 +2,7 @@
 title: "Software Engineer, Backend"
 employer: "Apollo Research"
 job_id: "recn9qj5buVQdybAO"
-last_updated: "2026-07-28T05:33:53.945351Z"
+last_updated: "2026-07-29T05:33:57.938456Z"
 posted_at: "2022-01-05T00:00:00Z"
 status: ready
 apply_url: "https://jobs.lever.co/apolloresearch/604b1964-c746-4b6a-bb7b-0ef9b421950a"
@@ -19,7 +19,7 @@ areas:
 <dt>Role type</dt><dd>Full-time</dd>
 <dt>Experience</dt><dd>Mid (5-9 years experience), Senior (10+ years experience)</dd>
 <dt>Degree</dt><dd>Undergraduate degree or less</dd>
-<dt>Salary</dt><dd>$132,885 – $265,771</dd>
+<dt>Salary</dt><dd>$132,983 – $265,967</dd>
 </dl>
 
 **Areas & skills:** AI safety & policy, Software engineering
@@ -34,4 +34,4 @@ areas:
 <p class="apply-cta"><a href="https://jobs.lever.co/apolloresearch/604b1964-c746-4b6a-bb7b-0ef9b421950a">Apply →</a></p>
 
 ---
-*Posted 2022-01-05 · Listing synced 2026-07-28 · 80k job ID `recn9qj5buVQdybAO`*
+*Posted 2022-01-05 · Listing synced 2026-07-29 · 80k job ID `recn9qj5buVQdybAO`*

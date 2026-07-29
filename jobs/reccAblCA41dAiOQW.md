@@ -2,7 +2,7 @@
 title: "Co-Lead Author, Open Problems in Technical AI Governance"
 employer: "Apart Research"
 job_id: "reccAblCA41dAiOQW"
-last_updated: "2026-07-28T05:32:50.785614Z"
+last_updated: "2026-07-29T05:32:52.998840Z"
 posted_at: "2026-07-03T00:04:58Z"
 status: ready
 apply_url: "https://apartresearch.notion.site/Co-Lead-Author-Open-Problems-in-Technical-AI-Governance-2026-Update-391fcfd1de9d805baec5e684ce5e3550?pvs=74"
@@ -33,4 +33,4 @@ areas:
 <p class="apply-cta"><a href="https://apartresearch.notion.site/Co-Lead-Author-Open-Problems-in-Technical-AI-Governance-2026-Update-391fcfd1de9d805baec5e684ce5e3550?pvs=74">Apply →</a></p>
 
 ---
-*Posted 2026-07-03 · Listing synced 2026-07-28 · 80k job ID `reccAblCA41dAiOQW`*
+*Posted 2026-07-03 · Listing synced 2026-07-29 · 80k job ID `reccAblCA41dAiOQW`*

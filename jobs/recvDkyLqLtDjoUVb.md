@@ -2,7 +2,7 @@
 title: "Coalitions Director"
 employer: "Americans for Responsible Innovation"
 job_id: "recvDkyLqLtDjoUVb"
-last_updated: "2026-07-28T05:32:37.618639Z"
+last_updated: "2026-07-29T05:32:41.842473Z"
 posted_at: "2026-07-14T00:04:47Z"
 status: ready
 apply_url: "https://ari.us/careers/?gh_jid=4313375009"
@@ -34,4 +34,4 @@ areas:
 <p class="apply-cta"><a href="https://ari.us/careers/?gh_jid=4313375009">Apply →</a></p>
 
 ---
-*Posted 2026-07-14 · Listing synced 2026-07-28 · 80k job ID `recvDkyLqLtDjoUVb`*
+*Posted 2026-07-14 · Listing synced 2026-07-29 · 80k job ID `recvDkyLqLtDjoUVb`*

@@ -2,7 +2,7 @@
 title: "Research Associate / Research Fellow"
 employer: "National University of Singapore, Saw Swee Hock School of Public Health"
 job_id: "recfj6614Md9idlgg"
-last_updated: "2026-07-28T05:34:14.560650Z"
+last_updated: "2026-07-29T05:34:21.214563Z"
 posted_at: "2022-01-02T00:00:00Z"
 status: ready
 apply_url: "https://careers.nus.edu.sg/job/Research-AssociateResearch-Fellow-%28part-time%29/30129-en_GB/"
@@ -33,4 +33,4 @@ areas:
 <p class="apply-cta"><a href="https://careers.nus.edu.sg/job/Research-AssociateResearch-Fellow-%28part-time%29/30129-en_GB/">Apply →</a></p>
 
 ---
-*Posted 2022-01-02 · Listing synced 2026-07-28 · 80k job ID `recfj6614Md9idlgg`*
+*Posted 2022-01-02 · Listing synced 2026-07-29 · 80k job ID `recfj6614Md9idlgg`*

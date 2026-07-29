@@ -2,7 +2,7 @@
 title: "Founding Product Engineer"
 employer: "0Labs"
 job_id: "recrdFEVWv11wy4p2"
-last_updated: "2026-07-28T05:33:52.381568Z"
+last_updated: "2026-07-29T05:33:56.361695Z"
 posted_at: "2022-01-05T00:00:00Z"
 status: ready
 apply_url: "https://www.0labs.ai/careers/founding-product-engineer"
@@ -33,4 +33,4 @@ areas:
 <p class="apply-cta"><a href="https://www.0labs.ai/careers/founding-product-engineer">Apply →</a></p>
 
 ---
-*Posted 2022-01-05 · Listing synced 2026-07-28 · 80k job ID `recrdFEVWv11wy4p2`*
+*Posted 2022-01-05 · Listing synced 2026-07-29 · 80k job ID `recrdFEVWv11wy4p2`*

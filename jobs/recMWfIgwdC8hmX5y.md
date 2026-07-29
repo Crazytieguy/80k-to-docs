@@ -2,7 +2,7 @@
 title: "AI Behaviour Engineer"
 employer: "Transluce"
 job_id: "recMWfIgwdC8hmX5y"
-last_updated: "2026-07-28T05:33:51.293819Z"
+last_updated: "2026-07-29T05:33:55.155658Z"
 posted_at: "2022-01-06T00:00:00Z"
 status: ready
 apply_url: "https://jobs.gem.com/transluce/am9icG9zdDoPcMZtBLP6V4VXFRxnm65P"
@@ -34,4 +34,4 @@ areas:
 <p class="apply-cta"><a href="https://jobs.gem.com/transluce/am9icG9zdDoPcMZtBLP6V4VXFRxnm65P">Apply →</a></p>
 
 ---
-*Posted 2022-01-06 · Listing synced 2026-07-28 · 80k job ID `recMWfIgwdC8hmX5y`*
+*Posted 2022-01-06 · Listing synced 2026-07-29 · 80k job ID `recMWfIgwdC8hmX5y`*

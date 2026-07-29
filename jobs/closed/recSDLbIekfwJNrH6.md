@@ -4,24 +4,20 @@ employer: "Impact First"
 job_id: "recSDLbIekfwJNrH6"
 last_updated: "2026-07-28T05:32:36.133236Z"
 posted_at: "2026-07-15T00:01:00Z"
-status: ready
+status: closed
+closed_at: "2026-07-29"
 apply_url: "https://www.impactfirst.org.uk/fellowship"
 areas:
   - "Building effective altruism"
 ---
 
+> ⚠️ **CLOSED on 2026-07-29** — this job is no longer listed on the 80,000 Hours board. Archived snapshot below.
+
 # Fellowship
 
-**[Impact First](https://www.impactfirst.org.uk/)**
+**Impact First**
 
-<dl class="job-meta">
-<dt>Location</dt><dd>London, UK, UK</dd>
-<dt>Role type</dt><dd>Fellowship</dd>
-<dt>Experience</dt><dd>Entry-level</dd>
-<dt>Degree</dt><dd>Undergraduate degree or less</dd>
-</dl>
-
-**Areas & skills:** Building effective altruism, Research, Strategy
+**Areas & skills:** Building effective altruism
 
 ## Summary
 - In this role, you'll understand the world's pressing problems and identify where you can contribute most effectively.

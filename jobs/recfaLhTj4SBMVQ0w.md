@@ -2,13 +2,13 @@
 title: "Member of Technical Staff, Forward Deployed Engineer"
 employer: "Valthos"
 job_id: "recfaLhTj4SBMVQ0w"
-last_updated: "2026-07-28T05:33:36.059288Z"
+last_updated: "2026-07-29T05:33:41.016386Z"
 posted_at: "2022-01-08T00:00:00Z"
 status: ready
 apply_url: "https://jobs.ashbyhq.com/valthos/6f460b05-94b1-457a-ac7d-17af48425ca2"
 areas:
-  - "Biosecurity & pandemic preparedness"
   - "AI safety & policy"
+  - "Biosecurity & pandemic preparedness"
 ---
 
 # Member of Technical Staff, Forward Deployed Engineer
@@ -22,7 +22,7 @@ areas:
 <dt>Degree</dt><dd>Undergraduate degree or less</dd>
 </dl>
 
-**Areas & skills:** Biosecurity & pandemic preparedness, AI safety & policy, Software engineering
+**Areas & skills:** AI safety & policy, Biosecurity & pandemic preparedness, Software engineering
 
 ## Summary
 - In this role, you'll own end-to-end deployment of Valthos's platform in customer environments.
@@ -34,4 +34,4 @@ areas:
 <p class="apply-cta"><a href="https://jobs.ashbyhq.com/valthos/6f460b05-94b1-457a-ac7d-17af48425ca2">Apply →</a></p>
 
 ---
-*Posted 2022-01-08 · Listing synced 2026-07-28 · 80k job ID `recfaLhTj4SBMVQ0w`*
+*Posted 2022-01-08 · Listing synced 2026-07-29 · 80k job ID `recfaLhTj4SBMVQ0w`*

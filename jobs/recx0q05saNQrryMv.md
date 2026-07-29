@@ -2,7 +2,7 @@
 title: "Machine Learning Manager"
 employer: "LawZero"
 job_id: "recx0q05saNQrryMv"
-last_updated: "2026-07-28T05:33:07.229700Z"
+last_updated: "2026-07-29T05:33:12.661451Z"
 posted_at: "2026-06-11T00:00:00Z"
 status: ready
 apply_url: "https://job-boards.greenhouse.io/lawzero/jobs/4237900009"
@@ -33,4 +33,4 @@ areas:
 <p class="apply-cta"><a href="https://job-boards.greenhouse.io/lawzero/jobs/4237900009">Apply →</a></p>
 
 ---
-*Posted 2026-06-11 · Listing synced 2026-07-28 · 80k job ID `recx0q05saNQrryMv`*
+*Posted 2026-06-11 · Listing synced 2026-07-29 · 80k job ID `recx0q05saNQrryMv`*

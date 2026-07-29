@@ -2,7 +2,7 @@
 title: "Production Assistant / Office Manager"
 employer: "Tail End Films"
 job_id: "recDmrOs5w23lkzlE"
-last_updated: "2026-07-28T05:33:50.349350Z"
+last_updated: "2026-07-29T05:33:54.210187Z"
 posted_at: "2022-01-06T00:00:00Z"
 status: ready
 apply_url: "https://docs.google.com/document/d/1NwXSnFK7MbnD9TYtZqkEk6iTFsi89JN8kXkjNXGK0rQ/edit?tab=t.0"
@@ -33,4 +33,4 @@ areas:
 <p class="apply-cta"><a href="https://docs.google.com/document/d/1NwXSnFK7MbnD9TYtZqkEk6iTFsi89JN8kXkjNXGK0rQ/edit?tab=t.0">Apply →</a></p>
 
 ---
-*Posted 2022-01-06 · Listing synced 2026-07-28 · 80k job ID `recDmrOs5w23lkzlE`*
+*Posted 2022-01-06 · Listing synced 2026-07-29 · 80k job ID `recDmrOs5w23lkzlE`*

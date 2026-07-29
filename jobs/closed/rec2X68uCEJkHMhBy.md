@@ -4,25 +4,20 @@ employer: "Lead Exposure Elimination Project"
 job_id: "rec2X68uCEJkHMhBy"
 last_updated: "2026-07-28T05:32:41.286176Z"
 posted_at: "2026-07-13T00:00:00Z"
-status: ready
+status: closed
+closed_at: "2026-07-29"
 apply_url: "https://docs.google.com/document/d/1-7JMxHXrbzOiG6BhkT2Ts6wufYlEvpt9FaGl-erDT4U/preview?tab=t.0#heading=h.paah6hk9wnuz"
 areas:
   - "Global health & development"
 ---
 
+> ⚠️ **CLOSED on 2026-07-29** — this job is no longer listed on the 80,000 Hours board. Archived snapshot below.
+
 # Program Associate, Asia
 
-**[Lead Exposure Elimination Project](https://leadelimination.org/)**
+**Lead Exposure Elimination Project**
 
-<dl class="job-meta">
-<dt>Location</dt><dd>Remote, Asia, Asia</dd>
-<dt>Role type</dt><dd>Full-time</dd>
-<dt>Experience</dt><dd>Junior (1-4 years experience)</dd>
-<dt>Degree</dt><dd>Undergraduate degree or less</dd>
-<dt>Salary</dt><dd>$34,065 – $38,888</dd>
-</dl>
-
-**Areas & skills:** Global health & development, Policy, Outreach
+**Areas & skills:** Global health & development
 
 ## Summary
 - In this role, you'll support LEEP's paint programs across Asia, coordinating with governments, manufacturers, and civil society partners to advance lead paint elimination.
