@@ -2,7 +2,7 @@
 title: "Volunteer, AI Safety Quest"
 employer: "AI Safety Quest"
 job_id: "recLwg7thnzmUxsao"
-last_updated: "2026-07-29T05:32:29.580150Z"
+last_updated: "2026-07-30T05:32:22.555767Z"
 posted_at: "2026-07-24T00:00:00Z"
 status: ready
 apply_url: "https://aisafety.quest/#volunteer"
@@ -21,16 +21,15 @@ areas:
 <dt>Degree</dt><dd>Undergraduate degree or less</dd>
 </dl>
 
-**Areas & skills:** AI safety & policy, Outreach
+**Areas & skills:** AI safety & policy, Outreach, Operations
 
 ## Summary
-- In this role, you'll support AI Safety Quest's mission through volunteer contributions to onboarding and advising.
-- Coach advisees on entering the AI safety field through regular advisory calls.
-- Manage community spaces and organize events to foster an inclusive hub for AI safety.
-- Analyze user feedback and survey responses to identify improvements and increase impact.
-- Create written resources and research content to guide others navigating AI safety pathways.
+- In this role, you'll support AI Safety Quest's mission through volunteer contributions to the areas in which it most needs support.
+- Operations, automation and tooling: You will own the systems that make Quest run.
+- Volunteer operations lead: Own the human side of Quest, communicating with people who reach out to or volunteer with Quest.
+- Coaching: Have between 2 to 6 30-45 minute calls a week with advisees.
 
 <p class="apply-cta"><a href="https://aisafety.quest/#volunteer">Apply →</a></p>
 
 ---
-*Posted 2026-07-24 · Listing synced 2026-07-29 · 80k job ID `recLwg7thnzmUxsao`*
+*Posted 2026-07-24 · Listing synced 2026-07-30 · 80k job ID `recLwg7thnzmUxsao`*

@@ -2,7 +2,7 @@
 title: "Teacher"
 employer: "Technical Alignment Research Accelerator"
 job_id: "recUiGxhkiKWi7A5O"
-last_updated: "2026-07-29T05:32:40.305053Z"
+last_updated: "2026-07-30T05:32:32.400251Z"
 posted_at: "2026-07-15T00:03:00Z"
 status: ready
 apply_url: "https://docs.google.com/document/d/1VbQCRnfhHKDKqcYQQB2hESul_-E-G6xmZQMcpYf5zj8/edit?tab=t.0#heading=h.ewt0qmeqot2d"
@@ -19,7 +19,7 @@ areas:
 <dt>Role type</dt><dd>Part-time</dd>
 <dt>Experience</dt><dd>Junior (1-4 years experience), Mid (5-9 years experience)</dd>
 <dt>Degree</dt><dd>Undergraduate degree or less</dd>
-<dt>Salary</dt><dd>$115,700</dd>
+<dt>Salary</dt><dd>$115,708</dd>
 </dl>
 
 **Areas & skills:** AI safety & policy, Other
@@ -34,4 +34,4 @@ areas:
 <p class="apply-cta"><a href="https://docs.google.com/document/d/1VbQCRnfhHKDKqcYQQB2hESul_-E-G6xmZQMcpYf5zj8/edit?tab=t.0#heading=h.ewt0qmeqot2d">Apply →</a></p>
 
 ---
-*Posted 2026-07-15 · Listing synced 2026-07-29 · 80k job ID `recUiGxhkiKWi7A5O`*
+*Posted 2026-07-15 · Listing synced 2026-07-30 · 80k job ID `recUiGxhkiKWi7A5O`*

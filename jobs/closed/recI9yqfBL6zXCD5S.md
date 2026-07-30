@@ -4,25 +4,20 @@ employer: "Apollo Research"
 job_id: "recI9yqfBL6zXCD5S"
 last_updated: "2026-07-29T05:33:57.804210Z"
 posted_at: "2022-01-05T00:00:00Z"
-status: ready
+status: closed
+closed_at: "2026-07-30"
 apply_url: "https://jobs.lever.co/apolloresearch/421c9d78-2ca3-4b9e-9e4a-22044d837571"
 areas:
   - "AI safety & policy"
 ---
 
+> ⚠️ **CLOSED on 2026-07-30** — this job is no longer listed on the 80,000 Hours board. Archived snapshot below.
+
 # Software Engineer, Full-Stack
 
-**[Apollo Research](https://www.apolloresearch.ai/)**
+**Apollo Research**
 
-<dl class="job-meta">
-<dt>Location</dt><dd>London, UK, UK, UK (Confirmed Visas)</dd>
-<dt>Role type</dt><dd>Full-time</dd>
-<dt>Experience</dt><dd>Mid (5-9 years experience), Senior (10+ years experience)</dd>
-<dt>Degree</dt><dd>Undergraduate degree or less</dd>
-<dt>Salary</dt><dd>$132,983 – $265,967</dd>
-</dl>
-
-**Areas & skills:** AI safety & policy, Software engineering
+**Areas & skills:** AI safety & policy
 
 ## Summary
 - In this role, you'll build tools for frontier AGI safety research, specifically developing tooling for analyzing model evaluation results.

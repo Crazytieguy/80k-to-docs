@@ -4,24 +4,20 @@ employer: "Institute for AI Policy and Strategy"
 job_id: "recpVUhEvU6RXWhmP"
 last_updated: "2026-07-29T05:32:36.924804Z"
 posted_at: "2026-07-17T00:04:26Z"
-status: ready
+status: closed
+closed_at: "2026-07-30"
 apply_url: "https://www.iaps.ai/digital-content-and-strategy-specialist"
 areas:
   - "AI safety & policy"
 ---
 
+> ⚠️ **CLOSED on 2026-07-30** — this job is no longer listed on the 80,000 Hours board. Archived snapshot below.
+
 # Contractor, Digital Content and Strategy
 
-**[Institute for AI Policy and Strategy](https://www.iaps.ai/)**
+**Institute for AI Policy and Strategy**
 
-<dl class="job-meta">
-<dt>Location</dt><dd>Remote, USA, Remote, UK, UK, USA</dd>
-<dt>Role type</dt><dd>Part-time</dd>
-<dt>Experience</dt><dd>Junior (1-4 years experience)</dd>
-<dt>Degree</dt><dd>Undergraduate degree or less</dd>
-</dl>
-
-**Areas & skills:** AI safety & policy, Outreach
+**Areas & skills:** AI safety & policy
 
 ## Summary
 - In this role, you'll create engaging digital content and visual assets to communicate policy research on advanced AI.

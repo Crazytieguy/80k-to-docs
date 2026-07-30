@@ -4,25 +4,20 @@ employer: "Mirror Biology Dialogues Fund"
 job_id: "recVydYBejrVE3bAK"
 last_updated: "2026-07-29T05:32:38.721029Z"
 posted_at: "2026-07-16T00:05:00Z"
-status: ready
+status: closed
+closed_at: "2026-07-30"
 apply_url: "https://mirrorbiologydialoguesfund.applytojob.com/apply/XetnCqPCPE/Operations-Coordinator?source=Our+Career+Page+Widget"
 areas:
   - "Biosecurity & pandemic preparedness"
 ---
 
+> ⚠️ **CLOSED on 2026-07-30** — this job is no longer listed on the 80,000 Hours board. Archived snapshot below.
+
 # Operations Coordinator
 
-**[Mirror Biology Dialogues Fund](https://www.mbdialogues.org/)**
+**Mirror Biology Dialogues Fund**
 
-<dl class="job-meta">
-<dt>Location</dt><dd>Remote, Global, Remote, USA, USA</dd>
-<dt>Role type</dt><dd>Full-time</dd>
-<dt>Experience</dt><dd>Junior (1-4 years experience), Mid (5-9 years experience)</dd>
-<dt>Degree</dt><dd>Undergraduate degree or less</dd>
-<dt>Salary</dt><dd>$75,000 – $100,000</dd>
-</dl>
-
-**Areas & skills:** Biosecurity & pandemic preparedness, Operations
+**Areas & skills:** Biosecurity & pandemic preparedness
 
 ## Summary
 - In this role, you'll be the execution engine ensuring operations run smoothly so senior staff can focus on strategy.

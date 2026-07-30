@@ -2,7 +2,7 @@
 title: "Intern, Social Media Video"
 employer: "Pure Earth"
 job_id: "recT5AL8TDWKvbPHN"
-last_updated: "2026-07-29T05:33:14.018313Z"
+last_updated: "2026-07-30T05:33:03.315746Z"
 posted_at: "2026-06-10T00:00:00Z"
 status: ready
 apply_url: "https://www.pureearth.org/wp-content/uploads/2026/06/JD-Social-Media-Video-Intern.pdf"
@@ -34,4 +34,4 @@ areas:
 <p class="apply-cta"><a href="https://www.pureearth.org/wp-content/uploads/2026/06/JD-Social-Media-Video-Intern.pdf">Apply →</a></p>
 
 ---
-*Posted 2026-06-10 · Listing synced 2026-07-29 · 80k job ID `recT5AL8TDWKvbPHN`*
+*Posted 2026-06-10 · Listing synced 2026-07-30 · 80k job ID `recT5AL8TDWKvbPHN`*

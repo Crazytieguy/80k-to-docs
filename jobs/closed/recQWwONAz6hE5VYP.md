@@ -4,25 +4,20 @@ employer: "The Stimson Center"
 job_id: "recQWwONAz6hE5VYP"
 last_updated: "2026-07-29T05:33:06.880638Z"
 posted_at: "2026-06-18T00:00:00Z"
-status: ready
+status: closed
+closed_at: "2026-07-30"
 apply_url: "https://stimson.applicantpro.com/jobs/4118153"
 areas:
   - "Career development: Policy & government"
 ---
 
+> ⚠️ **CLOSED on 2026-07-30** — this job is no longer listed on the 80,000 Hours board. Archived snapshot below.
+
 # Research Associate, China Program
 
-**[The Stimson Center](https://www.stimson.org/)**
+**The Stimson Center**
 
-<dl class="job-meta">
-<dt>Location</dt><dd>Washington, DC metro area, USA</dd>
-<dt>Role type</dt><dd>Full-time</dd>
-<dt>Experience</dt><dd>Entry-level</dd>
-<dt>Degree</dt><dd>Undergraduate degree or less</dd>
-<dt>Salary</dt><dd>$56,000 – $83,000</dd>
-</dl>
-
-**Areas & skills:** Career development: Policy & government, Research, Policy
+**Areas & skills:** Career development: Policy & government
 
 ## Summary
 - In this role, you'll support research projects on Chinese foreign policy and U.S.-China relations through research analysis and project administration.

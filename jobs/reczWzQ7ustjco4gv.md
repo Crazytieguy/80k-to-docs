@@ -2,7 +2,7 @@
 title: "Brand and Graphic Designer"
 employer: "Founders Pledge"
 job_id: "reczWzQ7ustjco4gv"
-last_updated: "2026-07-29T05:32:25.470127Z"
+last_updated: "2026-07-30T05:32:19.287326Z"
 posted_at: "2026-07-28T00:00:00Z"
 status: ready
 apply_url: "https://careers.founderspledge.com/jobs/8130278-brand-graphic-designer"
@@ -19,7 +19,7 @@ areas:
 <dt>Role type</dt><dd>Full-time</dd>
 <dt>Experience</dt><dd>Junior (1-4 years experience), Mid (5-9 years experience)</dd>
 <dt>Degree</dt><dd>Undergraduate degree or less</dd>
-<dt>Salary</dt><dd>$73,141</dd>
+<dt>Salary</dt><dd>$73,455</dd>
 </dl>
 
 **Areas & skills:** Building effective altruism, Outreach
@@ -34,4 +34,4 @@ areas:
 <p class="apply-cta"><a href="https://careers.founderspledge.com/jobs/8130278-brand-graphic-designer">Apply →</a></p>
 
 ---
-*Posted 2026-07-28 · Listing synced 2026-07-29 · 80k job ID `reczWzQ7ustjco4gv`*
+*Posted 2026-07-28 · Listing synced 2026-07-30 · 80k job ID `reczWzQ7ustjco4gv`*

@@ -2,10 +2,10 @@
 title: "Research Program Coordinator"
 employer: "Constellation"
 job_id: "recbXPMyUHNb8nS5P"
-last_updated: "2026-07-29T05:33:48.245503Z"
+last_updated: "2026-07-30T05:33:37.663947Z"
 posted_at: "2022-01-06T00:00:00Z"
 status: ready
-apply_url: "https://jobs.gem.com/constellation-institute/64106250-5fb4-4ff5-b562-cc279c57dc57"
+apply_url: "https://jobs.gem.com/constellation-institute/am9icG9zdDqQ3K4Os3255D-29b31KiPW"
 areas:
   - "AI safety & policy"
 ---
@@ -31,7 +31,7 @@ areas:
 - Partner with research program managers on event programming, design, and logistics for technical workshops and educational sessions.
 - Track process bottlenecks and implement improvements to increase team effectiveness and program quality.
 
-<p class="apply-cta"><a href="https://jobs.gem.com/constellation-institute/64106250-5fb4-4ff5-b562-cc279c57dc57">Apply →</a></p>
+<p class="apply-cta"><a href="https://jobs.gem.com/constellation-institute/am9icG9zdDqQ3K4Os3255D-29b31KiPW">Apply →</a></p>
 
 ---
-*Posted 2022-01-06 · Listing synced 2026-07-29 · 80k job ID `recbXPMyUHNb8nS5P`*
+*Posted 2022-01-06 · Listing synced 2026-07-30 · 80k job ID `recbXPMyUHNb8nS5P`*

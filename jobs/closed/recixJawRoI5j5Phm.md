@@ -4,25 +4,20 @@ employer: "Machine Intelligence Research Institute"
 job_id: "recixJawRoI5j5Phm"
 last_updated: "2026-07-29T05:33:35.761840Z"
 posted_at: "2022-01-11T00:00:00Z"
-status: ready
+status: closed
+closed_at: "2026-07-30"
 apply_url: "https://jobs.ashbyhq.com/miri/6fe51cba-6143-4445-8b8d-c88645426a49"
 areas:
   - "AI technical safety"
 ---
 
+> ⚠️ **CLOSED on 2026-07-30** — this job is no longer listed on the 80,000 Hours board. Archived snapshot below.
+
 # Manager, Technical Governance Team
 
-**[Machine Intelligence Research Institute](https://www.intelligence.org)**
+**Machine Intelligence Research Institute**
 
-<dl class="job-meta">
-<dt>Location</dt><dd>San Francisco Bay Area, USA, USA (Confirmed Visas)</dd>
-<dt>Role type</dt><dd>Full-time</dd>
-<dt>Experience</dt><dd>Mid (5-9 years experience)</dd>
-<dt>Degree</dt><dd>Undergraduate degree or less</dd>
-<dt>Salary</dt><dd>$120,000 – $230,000</dd>
-</dl>
-
-**Areas & skills:** AI technical safety, Policy, Management
+**Areas & skills:** AI technical safety
 
 ## Summary
 - In this role, you'll manage a team researching technical aspects of AI regulations and safety policy.

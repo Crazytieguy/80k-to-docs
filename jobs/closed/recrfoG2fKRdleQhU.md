@@ -4,25 +4,20 @@ employer: "Eleos AI Research"
 job_id: "recrfoG2fKRdleQhU"
 last_updated: "2026-07-29T05:33:07.127678Z"
 posted_at: "2026-06-17T00:03:00Z"
-status: ready
+status: closed
+closed_at: "2026-07-30"
 apply_url: "https://jobs.ashbyhq.com/eleos/d2ebbd53-6d8e-4ec9-8040-77bb4db25af7"
 areas:
   - "AI safety & policy"
 ---
 
+> ⚠️ **CLOSED on 2026-07-30** — this job is no longer listed on the 80,000 Hours board. Archived snapshot below.
+
 # Head of Operations
 
-**[Eleos AI Research](https://eleosai.org/)**
+**Eleos AI Research**
 
-<dl class="job-meta">
-<dt>Location</dt><dd>San Francisco Bay Area, USA, USA (Confirmed Visas)</dd>
-<dt>Role type</dt><dd>Full-time</dd>
-<dt>Experience</dt><dd>Mid (5-9 years experience)</dd>
-<dt>Degree</dt><dd>Undergraduate degree or less</dd>
-<dt>Salary</dt><dd>$183,696 – $277,000</dd>
-</dl>
-
-**Areas & skills:** AI safety & policy, Operations, Management, Finance
+**Areas & skills:** AI safety & policy
 
 ## Summary
 - In this role, you'll oversee all operational functions including finance, compliance, grants, and HR systems.

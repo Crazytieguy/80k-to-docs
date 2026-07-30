@@ -2,7 +2,7 @@
 title: "Policy Director, Economic and Societal Transformation"
 employer: "Americans for Responsible Innovation"
 job_id: "recMb1lpCYgX4URMz"
-last_updated: "2026-07-29T05:32:37.266389Z"
+last_updated: "2026-07-30T05:32:29.801018Z"
 posted_at: "2026-07-17T00:03:00Z"
 status: ready
 apply_url: "https://ari.us/careers/?gh_jid=4317856009"
@@ -34,4 +34,4 @@ areas:
 <p class="apply-cta"><a href="https://ari.us/careers/?gh_jid=4317856009">Apply →</a></p>
 
 ---
-*Posted 2026-07-17 · Listing synced 2026-07-29 · 80k job ID `recMb1lpCYgX4URMz`*
+*Posted 2026-07-17 · Listing synced 2026-07-30 · 80k job ID `recMb1lpCYgX4URMz`*

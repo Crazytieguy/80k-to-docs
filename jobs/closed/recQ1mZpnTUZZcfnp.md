@@ -4,25 +4,20 @@ employer: "Constellation"
 job_id: "recQ1mZpnTUZZcfnp"
 last_updated: "2026-07-29T05:33:47.992573Z"
 posted_at: "2022-01-06T00:00:00Z"
-status: ready
+status: closed
+closed_at: "2026-07-30"
 apply_url: "https://jobs.gem.com/constellation-institute/96e3c041-d342-415c-a89c-049f8c9b9488"
 areas:
   - "AI safety & policy"
 ---
 
+> ⚠️ **CLOSED on 2026-07-30** — this job is no longer listed on the 80,000 Hours board. Archived snapshot below.
+
 # Recruiter
 
-**[Constellation](https://www.constellation.org/)**
+**Constellation**
 
-<dl class="job-meta">
-<dt>Location</dt><dd>San Francisco Bay Area, USA</dd>
-<dt>Role type</dt><dd>Full-time</dd>
-<dt>Experience</dt><dd>Junior (1-4 years experience), Mid (5-9 years experience)</dd>
-<dt>Degree</dt><dd>Undergraduate degree or less</dd>
-<dt>Salary</dt><dd>$90,000 – $130,000</dd>
-</dl>
-
-**Areas & skills:** AI safety & policy, Operations
+**Areas & skills:** AI safety & policy
 
 ## Summary
 - In this role, you'll build the team that grows Constellation and advances the AI safety field.

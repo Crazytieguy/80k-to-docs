@@ -4,24 +4,20 @@ employer: "Tail End Films"
 job_id: "recDmrOs5w23lkzlE"
 last_updated: "2026-07-29T05:33:54.210187Z"
 posted_at: "2022-01-06T00:00:00Z"
-status: ready
+status: closed
+closed_at: "2026-07-30"
 apply_url: "https://docs.google.com/document/d/1NwXSnFK7MbnD9TYtZqkEk6iTFsi89JN8kXkjNXGK0rQ/edit?tab=t.0"
 areas:
   - "AI safety & policy"
 ---
 
+> ⚠️ **CLOSED on 2026-07-30** — this job is no longer listed on the 80,000 Hours board. Archived snapshot below.
+
 # Production Assistant / Office Manager
 
-**[Tail End Films](https://www.linkedin.com/company/tail-end-films/)**
+**Tail End Films**
 
-<dl class="job-meta">
-<dt>Location</dt><dd>London, UK, UK</dd>
-<dt>Role type</dt><dd>Full-time</dd>
-<dt>Experience</dt><dd>Junior (1-4 years experience)</dd>
-<dt>Degree</dt><dd>Undergraduate degree or less</dd>
-</dl>
-
-**Areas & skills:** AI safety & policy, Operations
+**Areas & skills:** AI safety & policy
 
 ## Summary
 - In this role, you'll support production and office management for a documentary feature and slate of AI risk films.

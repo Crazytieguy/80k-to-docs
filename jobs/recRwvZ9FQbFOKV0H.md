@@ -2,7 +2,7 @@
 title: "Executive and Operations Assistant, CEO Office"
 employer: "Rethink Wellbeing"
 job_id: "recRwvZ9FQbFOKV0H"
-last_updated: "2026-07-29T05:34:21.836726Z"
+last_updated: "2026-07-30T05:34:08.378968Z"
 posted_at: "2022-01-02T00:00:00Z"
 status: ready
 apply_url: "https://forms.gle/3sxtZiSLU4gQZryR7"
@@ -16,7 +16,7 @@ areas:
 
 <dl class="job-meta">
 <dt>Location</dt><dd>Remote, India, Remote, Philippines, India, Asia, Philippines</dd>
-<dt>Role type</dt><dd>Part-time, Full-time</dd>
+<dt>Role type</dt><dd>Full-time, Part-time</dd>
 <dt>Experience</dt><dd>Junior (1-4 years experience)</dd>
 <dt>Degree</dt><dd>Undergraduate degree or less</dd>
 <dt>Salary</dt><dd>$5,100 – $13,200</dd>
@@ -34,4 +34,4 @@ areas:
 <p class="apply-cta"><a href="https://forms.gle/3sxtZiSLU4gQZryR7">Apply →</a></p>
 
 ---
-*Posted 2022-01-02 · Listing synced 2026-07-29 · 80k job ID `recRwvZ9FQbFOKV0H`*
+*Posted 2022-01-02 · Listing synced 2026-07-30 · 80k job ID `recRwvZ9FQbFOKV0H`*

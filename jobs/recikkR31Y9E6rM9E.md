@@ -2,7 +2,7 @@
 title: "Intern, Global HR Operations"
 employer: "Pure Earth"
 job_id: "recikkR31Y9E6rM9E"
-last_updated: "2026-07-29T05:33:23.775801Z"
+last_updated: "2026-07-30T05:33:13.374255Z"
 posted_at: "2026-05-22T00:00:00Z"
 status: ready
 apply_url: "https://www.pureearth.org/wp-content/uploads/2026/05/HR-Internship.pdf"
@@ -34,4 +34,4 @@ areas:
 <p class="apply-cta"><a href="https://www.pureearth.org/wp-content/uploads/2026/05/HR-Internship.pdf">Apply →</a></p>
 
 ---
-*Posted 2026-05-22 · Listing synced 2026-07-29 · 80k job ID `recikkR31Y9E6rM9E`*
+*Posted 2026-05-22 · Listing synced 2026-07-30 · 80k job ID `recikkR31Y9E6rM9E`*

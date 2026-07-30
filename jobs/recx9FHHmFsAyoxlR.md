@@ -2,7 +2,7 @@
 title: "Frame Fellowship"
 employer: "Frame"
 job_id: "recx9FHHmFsAyoxlR"
-last_updated: "2026-07-29T05:33:08.205146Z"
+last_updated: "2026-07-30T05:32:57.118299Z"
 posted_at: "2026-06-16T00:04:00Z"
 status: ready
 apply_url: "https://framefellowship.com/"
@@ -34,4 +34,4 @@ areas:
 <p class="apply-cta"><a href="https://framefellowship.com/">Apply →</a></p>
 
 ---
-*Posted 2026-06-16 · Listing synced 2026-07-29 · 80k job ID `recx9FHHmFsAyoxlR`*
+*Posted 2026-06-16 · Listing synced 2026-07-30 · 80k job ID `recx9FHHmFsAyoxlR`*

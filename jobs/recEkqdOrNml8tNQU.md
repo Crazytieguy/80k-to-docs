@@ -2,7 +2,7 @@
 title: "Chief of Staff, U.S. AI Policy and Public Policy"
 employer: "Coefficient Giving"
 job_id: "recEkqdOrNml8tNQU"
-last_updated: "2026-07-29T05:32:46.021703Z"
+last_updated: "2026-07-30T05:32:37.769179Z"
 posted_at: "2026-07-10T00:05:00Z"
 status: ready
 apply_url: "https://jobs.ashbyhq.com/coefficientgiving/5496d5b6-d7d2-4390-b577-af6b0c3bf24b"
@@ -34,4 +34,4 @@ areas:
 <p class="apply-cta"><a href="https://jobs.ashbyhq.com/coefficientgiving/5496d5b6-d7d2-4390-b577-af6b0c3bf24b">Apply →</a></p>
 
 ---
-*Posted 2026-07-10 · Listing synced 2026-07-29 · 80k job ID `recEkqdOrNml8tNQU`*
+*Posted 2026-07-10 · Listing synced 2026-07-30 · 80k job ID `recEkqdOrNml8tNQU`*

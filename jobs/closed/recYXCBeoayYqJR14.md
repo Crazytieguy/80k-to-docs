@@ -4,25 +4,20 @@ employer: "US Government, Bureau of Industry and Security"
 job_id: "recYXCBeoayYqJR14"
 last_updated: "2026-07-29T05:32:25.613859Z"
 posted_at: "2026-07-28T00:00:00Z"
-status: ready
+status: closed
+closed_at: "2026-07-30"
 apply_url: "https://www.usajobs.gov/job/877670900"
 areas:
   - "AI safety & policy"
 ---
 
+> ⚠️ **CLOSED on 2026-07-30** — this job is no longer listed on the 80,000 Hours board. Archived snapshot below.
+
 # IT and Cybersecurity Specialist
 
-**[US Government, Bureau of Industry and Security](https://www.bis.doc.gov/)**
+**US Government, Bureau of Industry and Security**
 
-<dl class="job-meta">
-<dt>Location</dt><dd>Washington, DC metro area, USA</dd>
-<dt>Role type</dt><dd>Full-time</dd>
-<dt>Experience</dt><dd>Mid (5-9 years experience)</dd>
-<dt>Degree</dt><dd>Undergraduate degree or less</dd>
-<dt>Salary</dt><dd>$102,415 – $158,322</dd>
-</dl>
-
-**Areas & skills:** AI safety & policy, Policy, Information security
+**Areas & skills:** AI safety & policy
 
 ## Summary
 - In this role, you'll serve as a technical expert on cybersecurity matters involving information systems and technologies.

@@ -4,24 +4,20 @@ employer: "Alice"
 job_id: "rec5eHbMepG84MtBt"
 last_updated: "2026-07-29T05:32:51.087312Z"
 posted_at: "2026-07-07T00:00:00Z"
-status: ready
+status: closed
+closed_at: "2026-07-30"
 apply_url: "https://alice.io/positions/position-91_352"
 areas:
   - "Career development: Technical"
 ---
 
+> ⚠️ **CLOSED on 2026-07-30** — this job is no longer listed on the 80,000 Hours board. Archived snapshot below.
+
 # Intern, AI Security RL Gyms
 
-**[Alice](https://alice.io/)**
+**Alice**
 
-<dl class="job-meta">
-<dt>Location</dt><dd>Asia, Vietnam</dd>
-<dt>Role type</dt><dd>Internship</dd>
-<dt>Experience</dt><dd>Entry-level</dd>
-<dt>Degree</dt><dd>Undergraduate degree or less</dd>
-</dl>
-
-**Areas & skills:** Career development: Technical, Software engineering, Information security
+**Areas & skills:** Career development: Technical
 
 ## Summary
 - In this role, you'll design adversarial prompt injection tasks in YAML to evaluate AI agent robustness against manipulation.
