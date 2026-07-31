@@ -2,7 +2,7 @@
 title: "Associate Scientist"
 employer: "SecureBio"
 job_id: "reckVEJckHhe9Kfoo"
-last_updated: "2026-07-30T05:32:29.513827Z"
+last_updated: "2026-07-31T05:31:54.293533Z"
 posted_at: "2026-07-17T00:05:00Z"
 status: ready
 apply_url: "https://securebio.org/careers/associate-scientist-2026"
@@ -34,4 +34,4 @@ areas:
 <p class="apply-cta"><a href="https://securebio.org/careers/associate-scientist-2026">Apply →</a></p>
 
 ---
-*Posted 2026-07-17 · Listing synced 2026-07-30 · 80k job ID `reckVEJckHhe9Kfoo`*
+*Posted 2026-07-17 · Listing synced 2026-07-31 · 80k job ID `reckVEJckHhe9Kfoo`*

@@ -2,7 +2,7 @@
 title: "Communications Officer, Media Relations"
 employer: "Coefficient Giving"
 job_id: "recKPSI9wVICsbOeV"
-last_updated: "2026-07-30T05:32:19.402927Z"
+last_updated: "2026-07-31T05:31:41.787621Z"
 posted_at: "2026-07-27T00:04:55Z"
 status: ready
 apply_url: "https://jobs.ashbyhq.com/coefficientgiving/31143e32-ef63-49d2-a523-757b5514b637"
@@ -34,4 +34,4 @@ areas:
 <p class="apply-cta"><a href="https://jobs.ashbyhq.com/coefficientgiving/31143e32-ef63-49d2-a523-757b5514b637">Apply →</a></p>
 
 ---
-*Posted 2026-07-27 · Listing synced 2026-07-30 · 80k job ID `recKPSI9wVICsbOeV`*
+*Posted 2026-07-27 · Listing synced 2026-07-31 · 80k job ID `recKPSI9wVICsbOeV`*

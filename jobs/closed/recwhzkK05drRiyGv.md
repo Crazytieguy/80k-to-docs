@@ -4,25 +4,20 @@ employer: "Google DeepMind"
 job_id: "recwhzkK05drRiyGv"
 last_updated: "2026-07-30T05:32:41.419383Z"
 posted_at: "2026-07-08T00:00:00Z"
-status: ready
+status: closed
+closed_at: "2026-07-31"
 apply_url: "https://www.google.com/about/careers/applications/jobs/results/124817330986197702-technical-program-manager-frontier-safety-alignment-and-collaboration-deepmind?company=DeepMind"
 areas:
   - "AI safety & policy"
 ---
 
+> ⚠️ **CLOSED on 2026-07-31** — this job is no longer listed on the 80,000 Hours board. Archived snapshot below.
+
 # Technical Program Manager, Frontier Safety, Alignment and Collaboration
 
-**[Google DeepMind](https://www.deepmind.com)**
+**Google DeepMind**
 
-<dl class="job-meta">
-<dt>Location</dt><dd>San Francisco Bay Area, USA</dd>
-<dt>Role type</dt><dd>Full-time</dd>
-<dt>Experience</dt><dd>Mid (5-9 years experience), Senior (10+ years experience)</dd>
-<dt>Degree</dt><dd>Undergraduate degree or less</dd>
-<dt>Salary</dt><dd>$256,000 – $279,000</dd>
-</dl>
-
-**Areas & skills:** AI safety & policy, Strategy
+**Areas & skills:** AI safety & policy
 
 ## Summary
 - In this role, you'll manage Google's Frontier Safety Framework and oversee end-to-end program execution.

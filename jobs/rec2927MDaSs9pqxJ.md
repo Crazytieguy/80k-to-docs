@@ -2,7 +2,7 @@
 title: "Nuclear Policy Certificate Program (2026)"
 employer: "Nonproliferation Policy Education Center"
 job_id: "rec2927MDaSs9pqxJ"
-last_updated: "2026-07-30T05:32:33.733839Z"
+last_updated: "2026-07-31T05:31:58.362028Z"
 posted_at: "2026-07-15T00:00:00Z"
 status: ready
 apply_url: "https://npolicy.org/call-for-npec-nuclear-policy-certificate-program-applicants-for-2026/"
@@ -33,4 +33,4 @@ areas:
 <p class="apply-cta"><a href="https://npolicy.org/call-for-npec-nuclear-policy-certificate-program-applicants-for-2026/">Apply →</a></p>
 
 ---
-*Posted 2026-07-15 · Listing synced 2026-07-30 · 80k job ID `rec2927MDaSs9pqxJ`*
+*Posted 2026-07-15 · Listing synced 2026-07-31 · 80k job ID `rec2927MDaSs9pqxJ`*

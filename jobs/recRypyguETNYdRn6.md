@@ -2,22 +2,27 @@
 title: "Career Bootcamp Lead"
 employer: "Centre for Effective Altruism"
 job_id: "recRypyguETNYdRn6"
-last_updated: "2026-07-29T05:32:24.162203Z"
-posted_at: "2026-07-28T00:04:21Z"
-status: closed
-closed_at: "2026-07-30"
+last_updated: "2026-07-31T05:31:35.382312Z"
+posted_at: "2026-07-30T00:04:53Z"
+status: ready
 apply_url: "https://www.centreforeffectivealtruism.org/careers?ashby_jid=d7fc81f3-5553-42cf-bc4d-a64e7535c101"
 areas:
   - "Building effective altruism"
 ---
 
-> ⚠️ **CLOSED on 2026-07-30** — this job is no longer listed on the 80,000 Hours board. Archived snapshot below.
-
 # Career Bootcamp Lead
 
-**Centre for Effective Altruism**
+**[Centre for Effective Altruism](https://www.centreforeffectivealtruism.org)**
 
-**Areas & skills:** Building effective altruism
+<dl class="job-meta">
+<dt>Location</dt><dd>Remote, Global</dd>
+<dt>Role type</dt><dd>Full-time</dd>
+<dt>Experience</dt><dd>Multiple experience levels</dd>
+<dt>Degree</dt><dd>Undergraduate degree or less</dd>
+<dt>Salary</dt><dd>$119,989</dd>
+</dl>
+
+**Areas & skills:** Building effective altruism, Operations
 
 ## Summary
 - In this role, you'll support CEA's mission to build a global community tackling the world's pressing problems through effective altruism.
@@ -29,4 +34,4 @@ areas:
 <p class="apply-cta"><a href="https://www.centreforeffectivealtruism.org/careers?ashby_jid=d7fc81f3-5553-42cf-bc4d-a64e7535c101">Apply →</a></p>
 
 ---
-*Posted 2026-07-28 · Listing synced 2026-07-29 · 80k job ID `recRypyguETNYdRn6`*
+*Posted 2026-07-30 · Listing synced 2026-07-31 · 80k job ID `recRypyguETNYdRn6`*

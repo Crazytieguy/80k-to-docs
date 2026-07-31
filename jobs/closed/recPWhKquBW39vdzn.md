@@ -4,24 +4,20 @@ employer: "Various Course Providers"
 job_id: "recPWhKquBW39vdzn"
 last_updated: "2026-07-30T05:33:13.703796Z"
 posted_at: "2026-05-22T00:00:00Z"
-status: ready
+status: closed
+closed_at: "2026-07-31"
 apply_url: "https://airtable.com/app53PsYpHxJW61l3/shr6eKNhPjxj4UH4E"
 areas:
   - "Career development"
 ---
 
+> ⚠️ **CLOSED on 2026-07-31** — this job is no longer listed on the 80,000 Hours board. Archived snapshot below.
+
 # List of Part-Time Courses on Top Problems
 
 **Various Course Providers**
 
-<dl class="job-meta">
-<dt>Location</dt><dd>Remote, Global</dd>
-<dt>Role type</dt><dd>Course</dd>
-<dt>Experience</dt><dd>Multiple experience levels</dd>
-<dt>Degree</dt><dd>Undergraduate degree or less</dd>
-</dl>
-
-**Areas & skills:** Career development, Research
+**Areas & skills:** Career development
 
 ## Summary
 - We've put together a list of some part-time courses that you can take to learn more about some of our top problem areas including on AI safety, biosecurity, global development and information security.

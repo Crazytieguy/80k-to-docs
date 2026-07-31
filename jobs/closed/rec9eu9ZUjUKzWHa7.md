@@ -4,24 +4,20 @@ employer: "Healthy Futures Global"
 job_id: "rec9eu9ZUjUKzWHa7"
 last_updated: "2026-07-30T05:32:47.126615Z"
 posted_at: "2026-07-02T00:00:00Z"
-status: ready
+status: closed
+closed_at: "2026-07-31"
 apply_url: "https://drive.google.com/file/d/1DNwyZxd6CSnlGK4beR3AJRkEcMPYJIvy/view"
 areas:
   - "Global health & development"
 ---
 
+> ⚠️ **CLOSED on 2026-07-31** — this job is no longer listed on the 80,000 Hours board. Archived snapshot below.
+
 # Project Manager
 
-**[Healthy Futures Global](https://www.healthyfutures.global/)**
+**Healthy Futures Global**
 
-<dl class="job-meta">
-<dt>Location</dt><dd>Remote, Philippines, Asia, Philippines</dd>
-<dt>Role type</dt><dd>Full-time</dd>
-<dt>Experience</dt><dd>Junior (1-4 years experience)</dd>
-<dt>Degree</dt><dd>Undergraduate degree or less</dd>
-</dl>
-
-**Areas & skills:** Global health & development, Operations, Management
+**Areas & skills:** Global health & development
 
 ## Summary
 - In this role, you'll manage a team and oversee projects to scale a national HIV and syphilis screening program for pregnant women within 12 months.

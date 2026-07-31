@@ -2,7 +2,7 @@
 title: "Delivery Advisor, Red Team"
 employer: "UK Government, AI Security Institute"
 job_id: "rec4NwDUraIGxInzs"
-last_updated: "2026-07-30T05:32:18.412991Z"
+last_updated: "2026-07-31T05:31:40.788530Z"
 posted_at: "2026-07-28T00:04:18Z"
 status: ready
 apply_url: "https://job-boards.eu.greenhouse.io/csjobs/jobs/4933887101"
@@ -19,7 +19,7 @@ areas:
 <dt>Role type</dt><dd>Full-time</dd>
 <dt>Experience</dt><dd>Junior (1-4 years experience)</dd>
 <dt>Degree</dt><dd>Undergraduate degree or less</dd>
-<dt>Salary</dt><dd>$59,592 – $69,569</dd>
+<dt>Salary</dt><dd>$59,988 – $70,031</dd>
 </dl>
 
 **Areas & skills:** AI safety & policy, Operations
@@ -34,4 +34,4 @@ areas:
 <p class="apply-cta"><a href="https://job-boards.eu.greenhouse.io/csjobs/jobs/4933887101">Apply →</a></p>
 
 ---
-*Posted 2026-07-28 · Listing synced 2026-07-30 · 80k job ID `rec4NwDUraIGxInzs`*
+*Posted 2026-07-28 · Listing synced 2026-07-31 · 80k job ID `rec4NwDUraIGxInzs`*

@@ -2,7 +2,7 @@
 title: "Executive-in-Residence"
 employer: "Geneva Centre for Security Policy"
 job_id: "recxwdlwtPZTGLzqB"
-last_updated: "2026-07-30T05:34:13.605921Z"
+last_updated: "2026-07-31T05:33:31.485815Z"
 posted_at: "2022-01-01T00:00:00Z"
 status: ready
 apply_url: "https://www.gcsp.ch/executive-residence"
@@ -33,4 +33,4 @@ areas:
 <p class="apply-cta"><a href="https://www.gcsp.ch/executive-residence">Apply →</a></p>
 
 ---
-*Posted 2022-01-01 · Listing synced 2026-07-30 · 80k job ID `recxwdlwtPZTGLzqB`*
+*Posted 2022-01-01 · Listing synced 2026-07-31 · 80k job ID `recxwdlwtPZTGLzqB`*

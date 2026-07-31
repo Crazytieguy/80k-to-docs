@@ -2,7 +2,7 @@
 title: "Research Engineer, Safety Oversight, California"
 employer: "Google DeepMind"
 job_id: "recx9o8BEi8JqZ2QC"
-last_updated: "2026-07-30T05:32:20.831355Z"
+last_updated: "2026-07-31T05:31:43.437355Z"
 posted_at: "2026-07-27T00:00:00Z"
 status: ready
 apply_url: "https://www.google.com/about/careers/applications/jobs/results/74573434536764102-research-engineer-safety-oversight-deepmind?company=DeepMind&page=2"
@@ -34,4 +34,4 @@ areas:
 <p class="apply-cta"><a href="https://www.google.com/about/careers/applications/jobs/results/74573434536764102-research-engineer-safety-oversight-deepmind?company=DeepMind&amp;page=2">Apply →</a></p>
 
 ---
-*Posted 2026-07-27 · Listing synced 2026-07-30 · 80k job ID `recx9o8BEi8JqZ2QC`*
+*Posted 2026-07-27 · Listing synced 2026-07-31 · 80k job ID `recx9o8BEi8JqZ2QC`*

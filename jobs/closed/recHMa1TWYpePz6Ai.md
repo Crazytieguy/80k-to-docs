@@ -4,25 +4,20 @@ employer: "MATS Research"
 job_id: "recHMa1TWYpePz6Ai"
 last_updated: "2026-07-30T05:33:08.885767Z"
 posted_at: "2026-06-01T00:05:00Z"
-status: ready
+status: closed
+closed_at: "2026-07-31"
 apply_url: "https://www.matsprogram.org/careers/ext-prog-manager-london"
 areas:
   - "AI safety & policy"
 ---
 
+> ⚠️ **CLOSED on 2026-07-31** — this job is no longer listed on the 80,000 Hours board. Archived snapshot below.
+
 # Extension Program Manager
 
-**[MATS Research](https://www.matsprogram.org/)**
+**MATS Research**
 
-<dl class="job-meta">
-<dt>Location</dt><dd>London, UK, UK</dd>
-<dt>Role type</dt><dd>Full-time</dd>
-<dt>Experience</dt><dd>Junior (1-4 years experience)</dd>
-<dt>Degree</dt><dd>Undergraduate degree or less</dd>
-<dt>Salary</dt><dd>$100,166 – $173,621</dd>
-</dl>
-
-**Areas & skills:** AI safety & policy, Operations, Strategy
+**Areas & skills:** AI safety & policy
 
 ## Summary
 - In this role, you'll manage the MATS extension program for ~80 fellows per cohort, coordinating between Research Managers, operations, and fellows in AI safety research.

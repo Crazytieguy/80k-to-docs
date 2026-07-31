@@ -2,7 +2,7 @@
 title: "Careers Fellowship"
 employer: "Jewish Social Impact Network"
 job_id: "recI03p4Y9zcFZl4n"
-last_updated: "2026-07-30T05:32:30.568648Z"
+last_updated: "2026-07-31T05:31:55.188146Z"
 posted_at: "2026-07-17T00:00:00Z"
 status: ready
 apply_url: "https://jewishsocialimpact.org/fellowship/"
@@ -33,4 +33,4 @@ areas:
 <p class="apply-cta"><a href="https://jewishsocialimpact.org/fellowship/">Apply →</a></p>
 
 ---
-*Posted 2026-07-17 · Listing synced 2026-07-30 · 80k job ID `recI03p4Y9zcFZl4n`*
+*Posted 2026-07-17 · Listing synced 2026-07-31 · 80k job ID `recI03p4Y9zcFZl4n`*

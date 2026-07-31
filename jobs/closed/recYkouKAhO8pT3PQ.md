@@ -4,26 +4,21 @@ employer: "UK Government, AI Security Institute"
 job_id: "recYkouKAhO8pT3PQ"
 last_updated: "2026-07-30T05:32:43.712193Z"
 posted_at: "2026-07-06T00:01:00Z"
-status: ready
+status: closed
+closed_at: "2026-07-31"
 apply_url: "https://job-boards.eu.greenhouse.io/aisi/jobs/4919338101"
 areas:
   - "AI safety & policy"
   - "Biosecurity & pandemic preparedness"
 ---
 
+> ⚠️ **CLOSED on 2026-07-31** — this job is no longer listed on the 80,000 Hours board. Archived snapshot below.
+
 # Expression of Interest, Chem Bio Team
 
-**[UK Government, AI Security Institute](https://www.aisi.gov.uk/)**
+**UK Government, AI Security Institute**
 
-<dl class="job-meta">
-<dt>Location</dt><dd>London, UK, UK</dd>
-<dt>Role type</dt><dd>Full-time</dd>
-<dt>Experience</dt><dd>Multiple experience levels</dd>
-<dt>Degree</dt><dd>Undergraduate degree or less</dd>
-<dt>Salary</dt><dd>$86,810 – $193,654</dd>
-</dl>
-
-**Areas & skills:** AI safety & policy, Biosecurity & pandemic preparedness, Research, Policy, Software engineering
+**Areas & skills:** AI safety & policy, Biosecurity & pandemic preparedness
 
 ## Summary
 - Express interest in a role on a team conducting research to understand, evaluate and mitigate chemical and biological risks from frontier AI systems.

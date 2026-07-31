@@ -4,25 +4,20 @@ employer: "Google DeepMind"
 job_id: "recHTmzuI0Ws8Z9zQ"
 last_updated: "2026-07-30T05:32:43.510130Z"
 posted_at: "2026-07-06T00:01:00Z"
-status: ready
+status: closed
+closed_at: "2026-07-31"
 apply_url: "https://www.google.com/about/careers/applications/jobs/results/74680717451109062-senior-standards-and-governance-manager-deepmind?q=%22responsible+ai%22&has_remote=false&distance=50&hl=en_US&jlo=en_US"
 areas:
   - "AI safety & policy"
 ---
 
+> ⚠️ **CLOSED on 2026-07-31** — this job is no longer listed on the 80,000 Hours board. Archived snapshot below.
+
 # Senior Standards and Governance Manager
 
-**[Google DeepMind](https://www.deepmind.com)**
+**Google DeepMind**
 
-<dl class="job-meta">
-<dt>Location</dt><dd>London, UK, Washington, DC metro area, UK, USA</dd>
-<dt>Role type</dt><dd>Full-time</dd>
-<dt>Experience</dt><dd>Senior (10+ years experience)</dd>
-<dt>Degree</dt><dd>Undergraduate degree or less</dd>
-<dt>Salary</dt><dd>$228,000 – $248,000</dd>
-</dl>
-
-**Areas & skills:** AI safety & policy, Strategy
+**Areas & skills:** AI safety & policy
 
 ## Summary
 - In this role, you'll manage standards and governance for advanced AI systems, bridging external regulatory bodies with internal engineering teams.

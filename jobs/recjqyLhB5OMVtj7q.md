@@ -2,7 +2,7 @@
 title: "Operations Associate"
 employer: "Fish Welfare Initiative"
 job_id: "recjqyLhB5OMVtj7q"
-last_updated: "2026-07-30T05:32:26.271927Z"
+last_updated: "2026-07-31T05:31:49.281741Z"
 posted_at: "2026-07-21T00:00:00Z"
 status: ready
 apply_url: "https://www.fishwelfareinitiative.org/ops-associate"
@@ -19,7 +19,7 @@ areas:
 <dt>Role type</dt><dd>Full-time</dd>
 <dt>Experience</dt><dd>Junior (1-4 years experience), Entry-level</dd>
 <dt>Degree</dt><dd>Undergraduate degree or less</dd>
-<dt>Salary</dt><dd>$8,780 – $11,288</dd>
+<dt>Salary</dt><dd>$8,808 – $11,324</dd>
 </dl>
 
 **Areas & skills:** Animal welfare, Operations, Finance
@@ -34,4 +34,4 @@ areas:
 <p class="apply-cta"><a href="https://www.fishwelfareinitiative.org/ops-associate">Apply →</a></p>
 
 ---
-*Posted 2026-07-21 · Listing synced 2026-07-30 · 80k job ID `recjqyLhB5OMVtj7q`*
+*Posted 2026-07-21 · Listing synced 2026-07-31 · 80k job ID `recjqyLhB5OMVtj7q`*

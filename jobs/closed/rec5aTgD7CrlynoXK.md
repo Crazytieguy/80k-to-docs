@@ -4,25 +4,20 @@ employer: "OpenAI"
 job_id: "rec5aTgD7CrlynoXK"
 last_updated: "2026-07-30T05:32:34.794671Z"
 posted_at: "2026-07-14T00:00:00Z"
-status: ready
+status: closed
+closed_at: "2026-07-31"
 apply_url: "https://openai.com/careers/national-security-cyber-evaluation-lead-washington-dc/"
 areas:
   - "AI safety & policy"
 ---
 
+> ⚠️ **CLOSED on 2026-07-31** — this job is no longer listed on the 80,000 Hours board. Archived snapshot below.
+
 # National Security Cyber Evaluation Lead
 
-**[OpenAI](https://openai.com/)**
+**OpenAI**
 
-<dl class="job-meta">
-<dt>Location</dt><dd>Washington, DC metro area, USA</dd>
-<dt>Role type</dt><dd>Full-time</dd>
-<dt>Experience</dt><dd>Senior (10+ years experience)</dd>
-<dt>Degree</dt><dd>Undergraduate degree or less</dd>
-<dt>Salary</dt><dd>$252,000 – $342,000</dd>
-</dl>
-
-**Areas & skills:** AI safety & policy, Policy, Information security, Strategy
+**Areas & skills:** AI safety & policy
 
 ## Summary
 - In this role, you'll define policy and engagement strategy for cyber-focused testing and evaluation with U.S. government partners.

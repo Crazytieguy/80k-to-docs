@@ -2,7 +2,7 @@
 title: "Product Engineer"
 employer: "Charles University, Centre for Theoretical Studies"
 job_id: "recBxWGAUJqKFDrkM"
-last_updated: "2026-07-30T05:32:16.712481Z"
+last_updated: "2026-07-31T05:31:38.927669Z"
 posted_at: "2026-07-29T00:00:00Z"
 status: ready
 apply_url: "https://acsresearch.org/hiring"
@@ -34,4 +34,4 @@ areas:
 <p class="apply-cta"><a href="https://acsresearch.org/hiring">Apply →</a></p>
 
 ---
-*Posted 2026-07-29 · Listing synced 2026-07-30 · 80k job ID `recBxWGAUJqKFDrkM`*
+*Posted 2026-07-29 · Listing synced 2026-07-31 · 80k job ID `recBxWGAUJqKFDrkM`*

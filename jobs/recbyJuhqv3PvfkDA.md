@@ -2,7 +2,7 @@
 title: "Head of US Policy"
 employer: "GovAI"
 job_id: "recbyJuhqv3PvfkDA"
-last_updated: "2026-07-30T05:32:40.351993Z"
+last_updated: "2026-07-31T05:32:05.080533Z"
 posted_at: "2026-07-08T00:05:00Z"
 status: ready
 apply_url: "https://www.governance.ai/post/head-of-us-policy"
@@ -33,4 +33,4 @@ areas:
 <p class="apply-cta"><a href="https://www.governance.ai/post/head-of-us-policy">Apply →</a></p>
 
 ---
-*Posted 2026-07-08 · Listing synced 2026-07-30 · 80k job ID `recbyJuhqv3PvfkDA`*
+*Posted 2026-07-08 · Listing synced 2026-07-31 · 80k job ID `recbyJuhqv3PvfkDA`*

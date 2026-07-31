@@ -2,7 +2,7 @@
 title: "Recruiting Coordinator"
 employer: "FAR AI"
 job_id: "recq8pUWNG8UACFKx"
-last_updated: "2026-07-30T05:32:32.243221Z"
+last_updated: "2026-07-31T05:31:56.930315Z"
 posted_at: "2026-07-15T00:04:10Z"
 status: ready
 apply_url: "https://jobs.ashbyhq.com/far.ai/a102739c-94ee-42fe-afb8-e55318322003?embed=js"
@@ -34,4 +34,4 @@ areas:
 <p class="apply-cta"><a href="https://jobs.ashbyhq.com/far.ai/a102739c-94ee-42fe-afb8-e55318322003?embed=js">Apply →</a></p>
 
 ---
-*Posted 2026-07-15 · Listing synced 2026-07-30 · 80k job ID `recq8pUWNG8UACFKx`*
+*Posted 2026-07-15 · Listing synced 2026-07-31 · 80k job ID `recq8pUWNG8UACFKx`*
