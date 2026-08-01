@@ -2,7 +2,7 @@
 title: "Program Coordinator, User Experience"
 employer: "Constellation"
 job_id: "rec49fBTHpKNoftdo"
-last_updated: "2026-07-31T05:32:57.299066Z"
+last_updated: "2026-08-01T05:33:08.898963Z"
 posted_at: "2022-01-06T00:00:00Z"
 status: ready
 apply_url: "https://jobs.gem.com/constellation-institute/ff84a293-a436-410b-bf52-fe2dbe3485f9"
@@ -34,4 +34,4 @@ areas:
 <p class="apply-cta"><a href="https://jobs.gem.com/constellation-institute/ff84a293-a436-410b-bf52-fe2dbe3485f9">Apply →</a></p>
 
 ---
-*Posted 2022-01-06 · Listing synced 2026-07-31 · 80k job ID `rec49fBTHpKNoftdo`*
+*Posted 2022-01-06 · Listing synced 2026-08-01 · 80k job ID `rec49fBTHpKNoftdo`*

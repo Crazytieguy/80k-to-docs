@@ -2,7 +2,7 @@
 title: "Social Media Manager"
 employer: "Effective Altruism Hong Kong"
 job_id: "rec9RBqrM6EXcN0is"
-last_updated: "2026-07-31T05:33:22.051748Z"
+last_updated: "2026-08-01T05:33:33.632602Z"
 posted_at: "2022-01-02T00:00:00Z"
 status: ready
 apply_url: "https://www.eahongkong.org/job-listing-part-time-social-media"
@@ -19,7 +19,7 @@ areas:
 <dt>Role type</dt><dd>Part-time</dd>
 <dt>Experience</dt><dd>Junior (1-4 years experience)</dd>
 <dt>Degree</dt><dd>Undergraduate degree or less</dd>
-<dt>Salary</dt><dd>$39,783</dd>
+<dt>Salary</dt><dd>$39,785</dd>
 </dl>
 
 **Areas & skills:** Building effective altruism, Outreach
@@ -34,4 +34,4 @@ areas:
 <p class="apply-cta"><a href="https://www.eahongkong.org/job-listing-part-time-social-media">Apply →</a></p>
 
 ---
-*Posted 2022-01-02 · Listing synced 2026-07-31 · 80k job ID `rec9RBqrM6EXcN0is`*
+*Posted 2022-01-02 · Listing synced 2026-08-01 · 80k job ID `rec9RBqrM6EXcN0is`*

@@ -2,7 +2,7 @@
 title: "GenAI Analyst"
 employer: "Alice"
 job_id: "rec7nkTQMUP7gbvt2"
-last_updated: "2026-07-31T05:31:42.293218Z"
+last_updated: "2026-08-01T05:31:54.029438Z"
 posted_at: "2026-07-27T00:00:00Z"
 status: ready
 apply_url: "https://alice.io/positions/position-0f_e64"
@@ -34,4 +34,4 @@ areas:
 <p class="apply-cta"><a href="https://alice.io/positions/position-0f_e64">Apply →</a></p>
 
 ---
-*Posted 2026-07-27 · Listing synced 2026-07-31 · 80k job ID `rec7nkTQMUP7gbvt2`*
+*Posted 2026-07-27 · Listing synced 2026-08-01 · 80k job ID `rec7nkTQMUP7gbvt2`*

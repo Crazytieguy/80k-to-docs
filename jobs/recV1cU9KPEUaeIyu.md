@@ -2,7 +2,7 @@
 title: "Joint Research Fellow, EU Integration"
 employer: "Egmont Institute"
 job_id: "recV1cU9KPEUaeIyu"
-last_updated: "2026-07-31T05:31:48.027025Z"
+last_updated: "2026-08-01T05:31:59.914710Z"
 posted_at: "2026-07-22T00:00:00Z"
 status: ready
 apply_url: "https://egmontinstitute.be/jobs-internships-and-opportunities/"
@@ -19,7 +19,7 @@ areas:
 <dt>Role type</dt><dd>Fellowship</dd>
 <dt>Experience</dt><dd>Junior (1-4 years experience)</dd>
 <dt>Degree</dt><dd>Doctoral degree</dd>
-<dt>Salary</dt><dd>$56,886 – $60,269</dd>
+<dt>Salary</dt><dd>$56,994 – $60,384</dd>
 </dl>
 
 **Areas & skills:** Career development: Policy & government, Research, Policy
@@ -34,4 +34,4 @@ areas:
 <p class="apply-cta"><a href="https://egmontinstitute.be/jobs-internships-and-opportunities/">Apply →</a></p>
 
 ---
-*Posted 2026-07-22 · Listing synced 2026-07-31 · 80k job ID `recV1cU9KPEUaeIyu`*
+*Posted 2026-07-22 · Listing synced 2026-08-01 · 80k job ID `recV1cU9KPEUaeIyu`*

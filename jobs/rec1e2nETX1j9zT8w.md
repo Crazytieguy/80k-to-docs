@@ -2,7 +2,7 @@
 title: "Research Intern, South and Central Asia (Fall 2026)"
 employer: "Hudson Institute"
 job_id: "rec1e2nETX1j9zT8w"
-last_updated: "2026-07-31T05:31:59.205654Z"
+last_updated: "2026-08-01T05:32:09.876909Z"
 posted_at: "2026-07-14T00:00:00Z"
 status: ready
 apply_url: "https://recruiting.paylocity.com/Recruiting/Jobs/Details/4327987"
@@ -33,4 +33,4 @@ areas:
 <p class="apply-cta"><a href="https://recruiting.paylocity.com/Recruiting/Jobs/Details/4327987">Apply →</a></p>
 
 ---
-*Posted 2026-07-14 · Listing synced 2026-07-31 · 80k job ID `rec1e2nETX1j9zT8w`*
+*Posted 2026-07-14 · Listing synced 2026-08-01 · 80k job ID `rec1e2nETX1j9zT8w`*

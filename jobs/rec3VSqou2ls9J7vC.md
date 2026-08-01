@@ -2,7 +2,7 @@
 title: "Software Engineer"
 employer: "Valthos"
 job_id: "rec3VSqou2ls9J7vC"
-last_updated: "2026-07-31T05:32:53.189574Z"
+last_updated: "2026-08-01T05:33:04.789715Z"
 posted_at: "2022-01-07T00:00:00Z"
 status: ready
 apply_url: "https://jobs.ashbyhq.com/valthos/58637d53-f949-49fa-b318-88a93635337b"
@@ -34,4 +34,4 @@ areas:
 <p class="apply-cta"><a href="https://jobs.ashbyhq.com/valthos/58637d53-f949-49fa-b318-88a93635337b">Apply →</a></p>
 
 ---
-*Posted 2022-01-07 · Listing synced 2026-07-31 · 80k job ID `rec3VSqou2ls9J7vC`*
+*Posted 2022-01-07 · Listing synced 2026-08-01 · 80k job ID `rec3VSqou2ls9J7vC`*

@@ -2,7 +2,7 @@
 title: "List of Internship Opportunities, U.S. House of Representatives"
 employer: "US Government, Congress"
 job_id: "reczKcUpaW7OS0Yfl"
-last_updated: "2026-07-31T05:31:49.808901Z"
+last_updated: "2026-08-01T05:32:01.541040Z"
 posted_at: "2026-07-21T00:00:00Z"
 status: ready
 apply_url: "https://drive.google.com/file/d/1j_FTM-Z4NeLkIqB3jbhZuyXpAqW2h3QI/view?usp=sharing"
@@ -31,4 +31,4 @@ areas:
 <p class="apply-cta"><a href="https://drive.google.com/file/d/1j_FTM-Z4NeLkIqB3jbhZuyXpAqW2h3QI/view?usp=sharing">Apply →</a></p>
 
 ---
-*Posted 2026-07-21 · Listing synced 2026-07-31 · 80k job ID `reczKcUpaW7OS0Yfl`*
+*Posted 2026-07-21 · Listing synced 2026-08-01 · 80k job ID `reczKcUpaW7OS0Yfl`*

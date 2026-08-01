@@ -2,7 +2,7 @@
 title: "Expression of Interest"
 employer: "AI Futures Project"
 job_id: "recUUFA7fd1OMXlp0"
-last_updated: "2026-07-31T05:33:06.869414Z"
+last_updated: "2026-08-01T05:33:18.797247Z"
 posted_at: "2022-01-05T00:00:00Z"
 status: ready
 apply_url: "https://docs.google.com/document/d/1r5YKOUi6gMUZoZvAEh0tHbbHM9RKYk6ONEkw_Tpizb0/preview?tab=t.0"
@@ -31,4 +31,4 @@ areas:
 <p class="apply-cta"><a href="https://docs.google.com/document/d/1r5YKOUi6gMUZoZvAEh0tHbbHM9RKYk6ONEkw_Tpizb0/preview?tab=t.0">Apply →</a></p>
 
 ---
-*Posted 2022-01-05 · Listing synced 2026-07-31 · 80k job ID `recUUFA7fd1OMXlp0`*
+*Posted 2022-01-05 · Listing synced 2026-08-01 · 80k job ID `recUUFA7fd1OMXlp0`*

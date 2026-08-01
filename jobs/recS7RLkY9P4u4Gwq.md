@@ -2,7 +2,7 @@
 title: "Safeguards Enforcement Analyst, Violence and Extremism"
 employer: "Anthropic"
 job_id: "recS7RLkY9P4u4Gwq"
-last_updated: "2026-07-31T05:31:42.426284Z"
+last_updated: "2026-08-01T05:31:54.175796Z"
 posted_at: "2026-07-27T00:00:00Z"
 status: ready
 apply_url: "https://job-boards.greenhouse.io/anthropic/jobs/5343907008"
@@ -34,4 +34,4 @@ areas:
 <p class="apply-cta"><a href="https://job-boards.greenhouse.io/anthropic/jobs/5343907008">Apply →</a></p>
 
 ---
-*Posted 2026-07-27 · Listing synced 2026-07-31 · 80k job ID `recS7RLkY9P4u4Gwq`*
+*Posted 2026-07-27 · Listing synced 2026-08-01 · 80k job ID `recS7RLkY9P4u4Gwq`*
