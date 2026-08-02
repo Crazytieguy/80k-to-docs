@@ -2,7 +2,7 @@
 title: "Software Engineer, Benchmarking"
 employer: "Epoch AI"
 job_id: "recxxbM0mLnwxuefR"
-last_updated: "2026-08-01T05:32:24.802075Z"
+last_updated: "2026-08-02T05:32:20.816434Z"
 posted_at: "2026-06-30T00:04:17Z"
 status: ready
 apply_url: "https://jobs.lever.co/epoch-ai/d172645e-a11f-44a0-88d0-7a989e0a28f6"
@@ -34,4 +34,4 @@ areas:
 <p class="apply-cta"><a href="https://jobs.lever.co/epoch-ai/d172645e-a11f-44a0-88d0-7a989e0a28f6">Apply →</a></p>
 
 ---
-*Posted 2026-06-30 · Listing synced 2026-08-01 · 80k job ID `recxxbM0mLnwxuefR`*
+*Posted 2026-06-30 · Listing synced 2026-08-02 · 80k job ID `recxxbM0mLnwxuefR`*

@@ -2,7 +2,7 @@
 title: "Infrastructure Engineer, Technical AI Safety"
 employer: "Centre for Long-Term Resilience"
 job_id: "recXuxXZGXMCj1tEk"
-last_updated: "2026-08-01T05:31:59.018922Z"
+last_updated: "2026-08-02T05:31:56.216800Z"
 posted_at: "2026-07-22T00:04:17Z"
 status: ready
 apply_url: "https://www.longtermresilience.org/technical-ai-safety-infrastructure-engineer/"
@@ -33,4 +33,4 @@ areas:
 <p class="apply-cta"><a href="https://www.longtermresilience.org/technical-ai-safety-infrastructure-engineer/">Apply →</a></p>
 
 ---
-*Posted 2026-07-22 · Listing synced 2026-08-01 · 80k job ID `recXuxXZGXMCj1tEk`*
+*Posted 2026-07-22 · Listing synced 2026-08-02 · 80k job ID `recXuxXZGXMCj1tEk`*

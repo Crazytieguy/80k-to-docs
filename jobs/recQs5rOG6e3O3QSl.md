@@ -2,7 +2,7 @@
 title: "Head of Communications"
 employer: "FAR AI"
 job_id: "recQs5rOG6e3O3QSl"
-last_updated: "2026-08-01T05:32:18.429049Z"
+last_updated: "2026-08-02T05:32:14.290745Z"
 posted_at: "2026-07-07T00:05:00Z"
 status: ready
 apply_url: "https://jobs.ashbyhq.com/far.ai/7d1a985d-18cf-4775-af06-d4022d3e6012?embed=js"
@@ -15,7 +15,7 @@ areas:
 **[FAR AI](https://far.ai/)**
 
 <dl class="job-meta">
-<dt>Location</dt><dd>San Francisco Bay Area, Remote, Global, Remote, USA, USA, USA (Confirmed Visas)</dd>
+<dt>Location</dt><dd>Remote, Global, Remote, USA, San Francisco Bay Area, USA, USA (Confirmed Visas)</dd>
 <dt>Role type</dt><dd>Full-time</dd>
 <dt>Experience</dt><dd>Mid (5-9 years experience)</dd>
 <dt>Degree</dt><dd>Undergraduate degree or less</dd>
@@ -34,4 +34,4 @@ areas:
 <p class="apply-cta"><a href="https://jobs.ashbyhq.com/far.ai/7d1a985d-18cf-4775-af06-d4022d3e6012?embed=js">Apply →</a></p>
 
 ---
-*Posted 2026-07-07 · Listing synced 2026-08-01 · 80k job ID `recQs5rOG6e3O3QSl`*
+*Posted 2026-07-07 · Listing synced 2026-08-02 · 80k job ID `recQs5rOG6e3O3QSl`*

@@ -2,7 +2,7 @@
 title: "Board Member"
 employer: "Berkeley Existential Risk Initiative"
 job_id: "reclNwBhz3bFt7yr1"
-last_updated: "2026-08-01T05:32:03.165091Z"
+last_updated: "2026-08-02T05:32:00.201888Z"
 posted_at: "2026-07-20T00:02:00Z"
 status: ready
 apply_url: "https://docs.google.com/document/d/1GkYiupSXq_GA3Nj4J9lr1tPQxU8RhVYdkzjt6uWfTaE/edit?usp=sharing"
@@ -32,4 +32,4 @@ areas:
 <p class="apply-cta"><a href="https://docs.google.com/document/d/1GkYiupSXq_GA3Nj4J9lr1tPQxU8RhVYdkzjt6uWfTaE/edit?usp=sharing">Apply →</a></p>
 
 ---
-*Posted 2026-07-20 · Listing synced 2026-08-01 · 80k job ID `reclNwBhz3bFt7yr1`*
+*Posted 2026-07-20 · Listing synced 2026-08-02 · 80k job ID `reclNwBhz3bFt7yr1`*

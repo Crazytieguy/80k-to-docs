@@ -4,25 +4,20 @@ employer: "Active Site"
 job_id: "recTGatSHDmuj4lrG"
 last_updated: "2026-08-01T05:32:29.740763Z"
 posted_at: "2026-06-18T00:01:00Z"
-status: ready
+status: closed
+closed_at: "2026-08-02"
 apply_url: "https://jobs.ashbyhq.com/activesite/0edb3feb-6509-43a3-8858-3064f3661936"
 areas:
   - "Biosecurity & pandemic preparedness"
 ---
 
+> ⚠️ **CLOSED on 2026-08-02** — this job is no longer listed on the 80,000 Hours board. Archived snapshot below.
+
 # Molecular Biology Associate
 
-**[Active Site](https://activesite.bio/)**
+**Active Site**
 
-<dl class="job-meta">
-<dt>Location</dt><dd>Boston metro area, USA</dd>
-<dt>Role type</dt><dd>Full-time</dd>
-<dt>Experience</dt><dd>Entry-level</dd>
-<dt>Degree</dt><dd>Undergraduate degree or less</dd>
-<dt>Salary</dt><dd>$62,400</dd>
-</dl>
-
-**Areas & skills:** Biosecurity & pandemic preparedness, Research
+**Areas & skills:** Biosecurity & pandemic preparedness
 
 ## Summary
 - In this role, you'll conduct DNA assembly work with full autonomy in a BSL-1 lab, encompassing design, assembly, purification, and cloning.

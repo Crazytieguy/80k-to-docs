@@ -2,7 +2,7 @@
 title: "Software Engineer, Cybersecurity Products"
 employer: "Anthropic"
 job_id: "recJPxzXSR5HXS8vo"
-last_updated: "2026-08-01T05:32:54.827842Z"
+last_updated: "2026-08-02T05:32:51.147008Z"
 posted_at: "2022-01-11T00:00:00Z"
 status: ready
 apply_url: "https://job-boards.greenhouse.io/anthropic/jobs/5063007008"
@@ -15,7 +15,7 @@ areas:
 **[Anthropic](https://www.anthropic.com/)**
 
 <dl class="job-meta">
-<dt>Location</dt><dd>San Francisco Bay Area, New York, NY, USA, USA (Confirmed Visas)</dd>
+<dt>Location</dt><dd>New York, NY, San Francisco Bay Area, USA, USA (Confirmed Visas)</dd>
 <dt>Role type</dt><dd>Full-time</dd>
 <dt>Experience</dt><dd>Mid (5-9 years experience)</dd>
 <dt>Degree</dt><dd>Undergraduate degree or less</dd>
@@ -34,4 +34,4 @@ areas:
 <p class="apply-cta"><a href="https://job-boards.greenhouse.io/anthropic/jobs/5063007008">Apply →</a></p>
 
 ---
-*Posted 2022-01-11 · Listing synced 2026-08-01 · 80k job ID `recJPxzXSR5HXS8vo`*
+*Posted 2022-01-11 · Listing synced 2026-08-02 · 80k job ID `recJPxzXSR5HXS8vo`*

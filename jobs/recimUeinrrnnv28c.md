@@ -2,7 +2,7 @@
 title: "Applied Researcher, Monitoring"
 employer: "Apollo Research"
 job_id: "recimUeinrrnnv28c"
-last_updated: "2026-08-01T05:33:06.282208Z"
+last_updated: "2026-08-02T05:33:02.802339Z"
 posted_at: "2022-01-06T00:00:00Z"
 status: ready
 apply_url: "https://jobs.lever.co/apolloresearch/3628de77-7641-44b7-b80f-28c4a7a68abf"
@@ -34,4 +34,4 @@ areas:
 <p class="apply-cta"><a href="https://jobs.lever.co/apolloresearch/3628de77-7641-44b7-b80f-28c4a7a68abf">Apply →</a></p>
 
 ---
-*Posted 2022-01-06 · Listing synced 2026-08-01 · 80k job ID `recimUeinrrnnv28c`*
+*Posted 2022-01-06 · Listing synced 2026-08-02 · 80k job ID `recimUeinrrnnv28c`*

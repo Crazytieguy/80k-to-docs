@@ -2,7 +2,7 @@
 title: "Impact Cohort Manager"
 employer: "Effective Altruism Switzerland"
 job_id: "recLvgkl8wg1MjiUZ"
-last_updated: "2026-08-01T05:32:12.551567Z"
+last_updated: "2026-08-02T05:32:08.072062Z"
 posted_at: "2026-07-13T00:01:00Z"
 status: ready
 apply_url: "https://docs.google.com/document/d/1DMkW4EP7c28tZTxFLBA9tb5tIvkTH2ZxkQbv7LbilpU/edit?tab=t.0"
@@ -34,4 +34,4 @@ areas:
 <p class="apply-cta"><a href="https://docs.google.com/document/d/1DMkW4EP7c28tZTxFLBA9tb5tIvkTH2ZxkQbv7LbilpU/edit?tab=t.0">Apply →</a></p>
 
 ---
-*Posted 2026-07-13 · Listing synced 2026-08-01 · 80k job ID `recLvgkl8wg1MjiUZ`*
+*Posted 2026-07-13 · Listing synced 2026-08-02 · 80k job ID `recLvgkl8wg1MjiUZ`*

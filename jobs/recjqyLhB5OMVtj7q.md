@@ -2,7 +2,7 @@
 title: "Operations Associate"
 employer: "Fish Welfare Initiative"
 job_id: "recjqyLhB5OMVtj7q"
-last_updated: "2026-08-01T05:32:01.217233Z"
+last_updated: "2026-08-02T05:31:58.245263Z"
 posted_at: "2026-07-21T00:00:00Z"
 status: ready
 apply_url: "https://www.fishwelfareinitiative.org/ops-associate"
@@ -34,4 +34,4 @@ areas:
 <p class="apply-cta"><a href="https://www.fishwelfareinitiative.org/ops-associate">Apply →</a></p>
 
 ---
-*Posted 2026-07-21 · Listing synced 2026-08-01 · 80k job ID `recjqyLhB5OMVtj7q`*
+*Posted 2026-07-21 · Listing synced 2026-08-02 · 80k job ID `recjqyLhB5OMVtj7q`*

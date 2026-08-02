@@ -2,7 +2,7 @@
 title: "Director, Events"
 employer: "Horizon Institute for Public Service"
 job_id: "recYY02j0t1FtbAaa"
-last_updated: "2026-08-01T05:31:42.706420Z"
+last_updated: "2026-08-02T05:31:39.937879Z"
 posted_at: "2026-07-31T00:05:00Z"
 status: ready
 apply_url: "https://horizonpublicservice.org/director-events/"
@@ -34,4 +34,4 @@ areas:
 <p class="apply-cta"><a href="https://horizonpublicservice.org/director-events/">Apply →</a></p>
 
 ---
-*Posted 2026-07-31 · Listing synced 2026-08-01 · 80k job ID `recYY02j0t1FtbAaa`*
+*Posted 2026-07-31 · Listing synced 2026-08-02 · 80k job ID `recYY02j0t1FtbAaa`*

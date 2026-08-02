@@ -2,7 +2,7 @@
 title: "General Counsel"
 employer: "FAR AI"
 job_id: "rectQBTgYR7iMj09i"
-last_updated: "2026-08-01T05:32:02.699182Z"
+last_updated: "2026-08-02T05:31:59.722260Z"
 posted_at: "2026-07-20T00:04:11Z"
 status: ready
 apply_url: "https://jobs.ashbyhq.com/far.ai/fd5ca7ec-dd10-414f-9882-e98c6b8ba0ad?embed=js"
@@ -34,4 +34,4 @@ areas:
 <p class="apply-cta"><a href="https://jobs.ashbyhq.com/far.ai/fd5ca7ec-dd10-414f-9882-e98c6b8ba0ad?embed=js">Apply →</a></p>
 
 ---
-*Posted 2026-07-20 · Listing synced 2026-08-01 · 80k job ID `rectQBTgYR7iMj09i`*
+*Posted 2026-07-20 · Listing synced 2026-08-02 · 80k job ID `rectQBTgYR7iMj09i`*

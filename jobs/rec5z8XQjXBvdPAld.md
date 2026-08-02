@@ -2,7 +2,7 @@
 title: "Operations Engineer"
 employer: "Amodo Design"
 job_id: "rec5z8XQjXBvdPAld"
-last_updated: "2026-08-01T05:32:37.300547Z"
+last_updated: "2026-08-02T05:32:32.825496Z"
 posted_at: "2026-06-09T00:00:00Z"
 status: ready
 apply_url: "https://amododesign.com/career/operations-engineer/"
@@ -34,4 +34,4 @@ areas:
 <p class="apply-cta"><a href="https://amododesign.com/career/operations-engineer/">Apply →</a></p>
 
 ---
-*Posted 2026-06-09 · Listing synced 2026-08-01 · 80k job ID `rec5z8XQjXBvdPAld`*
+*Posted 2026-06-09 · Listing synced 2026-08-02 · 80k job ID `rec5z8XQjXBvdPAld`*

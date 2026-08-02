@@ -2,7 +2,7 @@
 title: "Chief Technology Officer"
 employer: "Syntony"
 job_id: "reckm4yvOgVQxORZh"
-last_updated: "2026-08-01T05:32:16.263527Z"
+last_updated: "2026-08-02T05:32:12.042113Z"
 posted_at: "2026-07-09T00:00:00Z"
 status: ready
 apply_url: "https://www.syntonyresearch.ai/work/cto/"
@@ -15,7 +15,7 @@ areas:
 **[Syntony](https://www.syntonyresearch.ai/)**
 
 <dl class="job-meta">
-<dt>Location</dt><dd>London, UK, Singapore, Singapore, San Francisco Bay Area, Brussels, Belgium, Durham, NC, UK, USA, Singapore, Belgium, Europe (ex UK), Asia</dd>
+<dt>Location</dt><dd>Durham, NC, San Francisco Bay Area, London, UK, Brussels, Belgium, Singapore, Singapore, UK, USA, Singapore, Belgium, Europe (ex UK), Asia</dd>
 <dt>Role type</dt><dd>Full-time</dd>
 <dt>Experience</dt><dd>Mid (5-9 years experience), Senior (10+ years experience)</dd>
 <dt>Degree</dt><dd>Undergraduate degree or less</dd>
@@ -33,4 +33,4 @@ areas:
 <p class="apply-cta"><a href="https://www.syntonyresearch.ai/work/cto/">Apply →</a></p>
 
 ---
-*Posted 2026-07-09 · Listing synced 2026-08-01 · 80k job ID `reckm4yvOgVQxORZh`*
+*Posted 2026-07-09 · Listing synced 2026-08-02 · 80k job ID `reckm4yvOgVQxORZh`*

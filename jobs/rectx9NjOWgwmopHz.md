@@ -2,7 +2,7 @@
 title: "Talent Pool"
 employer: "GiveWell"
 job_id: "rectx9NjOWgwmopHz"
-last_updated: "2026-08-01T05:33:00.830802Z"
+last_updated: "2026-08-02T05:32:57.255343Z"
 posted_at: "2022-01-09T00:00:00Z"
 status: ready
 apply_url: "https://job-boards.greenhouse.io/givewell/jobs/4053379008?gh_src=28dfee808us"
@@ -29,4 +29,4 @@ areas:
 <p class="apply-cta"><a href="https://job-boards.greenhouse.io/givewell/jobs/4053379008?gh_src=28dfee808us">Apply →</a></p>
 
 ---
-*Posted 2022-01-09 · Listing synced 2026-08-01 · 80k job ID `rectx9NjOWgwmopHz`*
+*Posted 2022-01-09 · Listing synced 2026-08-02 · 80k job ID `rectx9NjOWgwmopHz`*

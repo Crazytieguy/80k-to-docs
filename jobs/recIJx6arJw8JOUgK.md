@@ -2,7 +2,7 @@
 title: "Expression of Interest, Cyber and Autonomous Systems Team"
 employer: "UK Government, AI Security Institute"
 job_id: "recIJx6arJw8JOUgK"
-last_updated: "2026-08-01T05:31:43.320049Z"
+last_updated: "2026-08-02T05:31:40.545637Z"
 posted_at: "2026-07-31T00:04:39Z"
 status: ready
 apply_url: "https://job-boards.eu.greenhouse.io/aisi/jobs/4941583101"
@@ -34,4 +34,4 @@ areas:
 <p class="apply-cta"><a href="https://job-boards.eu.greenhouse.io/aisi/jobs/4941583101">Apply →</a></p>
 
 ---
-*Posted 2026-07-31 · Listing synced 2026-08-01 · 80k job ID `recIJx6arJw8JOUgK`*
+*Posted 2026-07-31 · Listing synced 2026-08-02 · 80k job ID `recIJx6arJw8JOUgK`*

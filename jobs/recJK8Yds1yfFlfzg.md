@@ -2,7 +2,7 @@
 title: "Product and Growth Lead"
 employer: "Charles University, Centre for Theoretical Studies"
 job_id: "recJK8Yds1yfFlfzg"
-last_updated: "2026-08-01T05:31:50.755452Z"
+last_updated: "2026-08-02T05:31:48.001133Z"
 posted_at: "2026-07-29T00:00:00Z"
 status: ready
 apply_url: "https://acsresearch.org/hiring"
@@ -33,4 +33,4 @@ areas:
 <p class="apply-cta"><a href="https://acsresearch.org/hiring">Apply →</a></p>
 
 ---
-*Posted 2026-07-29 · Listing synced 2026-08-01 · 80k job ID `recJK8Yds1yfFlfzg`*
+*Posted 2026-07-29 · Listing synced 2026-08-02 · 80k job ID `recJK8Yds1yfFlfzg`*

@@ -2,7 +2,7 @@
 title: "Expression of Interest, Red Team"
 employer: "UK Government, AI Security Institute"
 job_id: "rec1JCTiLNUf6feSb"
-last_updated: "2026-08-01T05:32:44.340201Z"
+last_updated: "2026-08-02T05:32:41.324712Z"
 posted_at: "2026-05-27T00:04:00Z"
 status: ready
 apply_url: "https://job-boards.eu.greenhouse.io/aisi/jobs/4875305101"
@@ -34,4 +34,4 @@ areas:
 <p class="apply-cta"><a href="https://job-boards.eu.greenhouse.io/aisi/jobs/4875305101">Apply →</a></p>
 
 ---
-*Posted 2026-05-27 · Listing synced 2026-08-01 · 80k job ID `rec1JCTiLNUf6feSb`*
+*Posted 2026-05-27 · Listing synced 2026-08-02 · 80k job ID `rec1JCTiLNUf6feSb`*

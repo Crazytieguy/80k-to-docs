@@ -2,7 +2,7 @@
 title: "Research Fellow"
 employer: "GovAI"
 job_id: "recQPN6fxqH8d5EMG"
-last_updated: "2026-08-01T05:32:00.563172Z"
+last_updated: "2026-08-02T05:31:57.630813Z"
 posted_at: "2026-07-21T00:05:00Z"
 status: ready
 apply_url: "https://www.governance.ai/post/research-fellow"
@@ -34,4 +34,4 @@ areas:
 <p class="apply-cta"><a href="https://www.governance.ai/post/research-fellow">Apply →</a></p>
 
 ---
-*Posted 2026-07-21 · Listing synced 2026-08-01 · 80k job ID `recQPN6fxqH8d5EMG`*
+*Posted 2026-07-21 · Listing synced 2026-08-02 · 80k job ID `recQPN6fxqH8d5EMG`*

@@ -2,7 +2,7 @@
 title: "Joint Research Fellow, EU Integration"
 employer: "Egmont Institute"
 job_id: "recV1cU9KPEUaeIyu"
-last_updated: "2026-08-01T05:31:59.914710Z"
+last_updated: "2026-08-02T05:31:57.015002Z"
 posted_at: "2026-07-22T00:00:00Z"
 status: ready
 apply_url: "https://egmontinstitute.be/jobs-internships-and-opportunities/"
@@ -34,4 +34,4 @@ areas:
 <p class="apply-cta"><a href="https://egmontinstitute.be/jobs-internships-and-opportunities/">Apply →</a></p>
 
 ---
-*Posted 2026-07-22 · Listing synced 2026-08-01 · 80k job ID `recV1cU9KPEUaeIyu`*
+*Posted 2026-07-22 · Listing synced 2026-08-02 · 80k job ID `recV1cU9KPEUaeIyu`*

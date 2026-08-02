@@ -2,7 +2,7 @@
 title: "Head of Operations / Chief Operating Officer"
 employer: "Encode"
 job_id: "recHPWZt8Gqt45Lwz"
-last_updated: "2026-08-01T05:32:34.219392Z"
+last_updated: "2026-08-02T05:32:30.029670Z"
 posted_at: "2026-06-11T00:05:00Z"
 status: ready
 apply_url: "https://encode-careers.vercel.app/head-of-operations"
@@ -34,4 +34,4 @@ areas:
 <p class="apply-cta"><a href="https://encode-careers.vercel.app/head-of-operations">Apply →</a></p>
 
 ---
-*Posted 2026-06-11 · Listing synced 2026-08-01 · 80k job ID `recHPWZt8Gqt45Lwz`*
+*Posted 2026-06-11 · Listing synced 2026-08-02 · 80k job ID `recHPWZt8Gqt45Lwz`*

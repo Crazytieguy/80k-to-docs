@@ -2,7 +2,7 @@
 title: "Expression of Interest"
 employer: "Lead Exposure Elimination Project"
 job_id: "recDK6QGzMJYpI2fB"
-last_updated: "2026-08-01T05:33:29.208561Z"
+last_updated: "2026-08-02T05:33:24.423584Z"
 posted_at: "2022-01-03T00:00:00Z"
 status: ready
 apply_url: "https://airtable.com/appBdrnsWFu7s2we4/pagO4wQmkv2cA3UK7/form"
@@ -29,4 +29,4 @@ areas:
 <p class="apply-cta"><a href="https://airtable.com/appBdrnsWFu7s2we4/pagO4wQmkv2cA3UK7/form">Apply →</a></p>
 
 ---
-*Posted 2022-01-03 · Listing synced 2026-08-01 · 80k job ID `recDK6QGzMJYpI2fB`*
+*Posted 2022-01-03 · Listing synced 2026-08-02 · 80k job ID `recDK6QGzMJYpI2fB`*

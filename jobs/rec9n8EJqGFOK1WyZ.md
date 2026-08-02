@@ -2,7 +2,7 @@
 title: "Workstream Lead"
 employer: "UK Government, AI Security Institute"
 job_id: "rec9n8EJqGFOK1WyZ"
-last_updated: "2026-08-01T05:31:44.998735Z"
+last_updated: "2026-08-02T05:31:42.273494Z"
 posted_at: "2026-07-31T00:04:17Z"
 status: ready
 apply_url: "https://www.civilservicejobs.service.gov.uk/csr/jobs.cgi?jcode=2007002"
@@ -34,4 +34,4 @@ areas:
 <p class="apply-cta"><a href="https://www.civilservicejobs.service.gov.uk/csr/jobs.cgi?jcode=2007002">Apply →</a></p>
 
 ---
-*Posted 2026-07-31 · Listing synced 2026-08-01 · 80k job ID `rec9n8EJqGFOK1WyZ`*
+*Posted 2026-07-31 · Listing synced 2026-08-02 · 80k job ID `rec9n8EJqGFOK1WyZ`*

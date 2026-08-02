@@ -2,7 +2,7 @@
 title: "Executive Business Partner"
 employer: "MATS Research"
 job_id: "recQBtQ0HYnAZC1v7"
-last_updated: "2026-08-01T05:32:02.573793Z"
+last_updated: "2026-08-02T05:31:59.599332Z"
 posted_at: "2026-07-20T00:05:00Z"
 status: ready
 apply_url: "https://www.matsprogram.org/careers/executive-business-partner-london"
@@ -35,4 +35,4 @@ areas:
 <p class="apply-cta"><a href="https://www.matsprogram.org/careers/executive-business-partner-london">Apply →</a></p>
 
 ---
-*Posted 2026-07-20 · Listing synced 2026-08-01 · 80k job ID `recQBtQ0HYnAZC1v7`*
+*Posted 2026-07-20 · Listing synced 2026-08-02 · 80k job ID `recQBtQ0HYnAZC1v7`*

@@ -2,7 +2,7 @@
 title: "Backend Software Engineer, Research"
 employer: "Apollo Research"
 job_id: "recs9zLJ6oLlffEiP"
-last_updated: "2026-08-01T05:31:44.813955Z"
+last_updated: "2026-08-02T05:31:42.034640Z"
 posted_at: "2026-07-31T00:04:20Z"
 status: ready
 apply_url: "https://jobs.lever.co/apolloresearch/604b1964-c746-4b6a-bb7b-0ef9b421950a"
@@ -34,4 +34,4 @@ areas:
 <p class="apply-cta"><a href="https://jobs.lever.co/apolloresearch/604b1964-c746-4b6a-bb7b-0ef9b421950a">Apply →</a></p>
 
 ---
-*Posted 2026-07-31 · Listing synced 2026-08-01 · 80k job ID `recs9zLJ6oLlffEiP`*
+*Posted 2026-07-31 · Listing synced 2026-08-02 · 80k job ID `recs9zLJ6oLlffEiP`*

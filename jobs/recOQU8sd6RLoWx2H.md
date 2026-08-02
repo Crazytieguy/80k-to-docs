@@ -2,7 +2,7 @@
 title: "Program Manager, Talent Mobilization"
 employer: "Constellation"
 job_id: "recOQU8sd6RLoWx2H"
-last_updated: "2026-08-01T05:31:47.401748Z"
+last_updated: "2026-08-02T05:31:44.837474Z"
 posted_at: "2026-07-30T00:04:09Z"
 status: ready
 apply_url: "https://jobs.gem.com/constellation-institute/am9icG9zdDrJJHmLEGFVbwFIpU87HfHj"
@@ -34,4 +34,4 @@ areas:
 <p class="apply-cta"><a href="https://jobs.gem.com/constellation-institute/am9icG9zdDrJJHmLEGFVbwFIpU87HfHj">Apply →</a></p>
 
 ---
-*Posted 2026-07-30 · Listing synced 2026-08-01 · 80k job ID `recOQU8sd6RLoWx2H`*
+*Posted 2026-07-30 · Listing synced 2026-08-02 · 80k job ID `recOQU8sd6RLoWx2H`*
