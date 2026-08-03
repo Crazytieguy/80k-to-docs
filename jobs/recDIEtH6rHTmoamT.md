@@ -2,7 +2,7 @@
 title: "Residency Program"
 employer: "SandboxAQ"
 job_id: "recDIEtH6rHTmoamT"
-last_updated: "2026-08-02T05:33:33.693269Z"
+last_updated: "2026-08-03T05:33:33.432717Z"
 posted_at: "2022-01-02T00:00:00Z"
 status: ready
 apply_url: "https://www.sandboxaq.com/company/residencies"
@@ -15,7 +15,7 @@ areas:
 **[SandboxAQ](https://www.sandboxaq.com/)**
 
 <dl class="job-meta">
-<dt>Location</dt><dd>Remote, USA, Remote, Canada, Remote, UK, Remote, Europe, UK, USA, Canada, Europe, Europe (ex UK)</dd>
+<dt>Location</dt><dd>Remote, USA, Remote, UK, Remote, Canada, Remote, Europe, UK, USA, Canada, Europe, Europe (ex UK)</dd>
 <dt>Role type</dt><dd>Full-time</dd>
 <dt>Experience</dt><dd>Entry-level</dd>
 <dt>Degree</dt><dd>Master's degree</dd>
@@ -32,4 +32,4 @@ areas:
 <p class="apply-cta"><a href="https://www.sandboxaq.com/company/residencies">Apply →</a></p>
 
 ---
-*Posted 2022-01-02 · Listing synced 2026-08-02 · 80k job ID `recDIEtH6rHTmoamT`*
+*Posted 2022-01-02 · Listing synced 2026-08-03 · 80k job ID `recDIEtH6rHTmoamT`*

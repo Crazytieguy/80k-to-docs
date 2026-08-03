@@ -2,7 +2,7 @@
 title: "Federal Policy Manager"
 employer: "The Alliance for Secure AI"
 job_id: "recCNpuvTGaXgwSa5"
-last_updated: "2026-08-02T05:32:02.618869Z"
+last_updated: "2026-08-03T05:32:04.754489Z"
 posted_at: "2026-07-17T00:00:00Z"
 status: ready
 apply_url: "https://secureainow.org/career/federal-policy-manager/"
@@ -34,4 +34,4 @@ areas:
 <p class="apply-cta"><a href="https://secureainow.org/career/federal-policy-manager/">Apply →</a></p>
 
 ---
-*Posted 2026-07-17 · Listing synced 2026-08-02 · 80k job ID `recCNpuvTGaXgwSa5`*
+*Posted 2026-07-17 · Listing synced 2026-08-03 · 80k job ID `recCNpuvTGaXgwSa5`*

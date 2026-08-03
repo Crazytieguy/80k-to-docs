@@ -4,26 +4,21 @@ employer: "OpenAI"
 job_id: "rec9Q4u0USYA86lEi"
 last_updated: "2026-08-02T05:32:27.874985Z"
 posted_at: "2026-06-16T00:00:00Z"
-status: ready
+status: closed
+closed_at: "2026-08-03"
 apply_url: "https://openai.com/careers/biosafety-red-teaming-specialist-san-francisco/"
 areas:
   - "AI safety & policy"
   - "Biosecurity & pandemic preparedness"
 ---
 
+> ⚠️ **CLOSED on 2026-08-03** — this job is no longer listed on the 80,000 Hours board. Archived snapshot below.
+
 # Biosafety Red Teaming Specialist
 
-**[OpenAI](https://openai.com/)**
+**OpenAI**
 
-<dl class="job-meta">
-<dt>Location</dt><dd>San Francisco Bay Area, Seattle metro area, Remote, USA, USA</dd>
-<dt>Role type</dt><dd>Full-time</dd>
-<dt>Experience</dt><dd>Mid (5-9 years experience), Senior (10+ years experience)</dd>
-<dt>Degree</dt><dd>Undergraduate degree or less</dd>
-<dt>Salary</dt><dd>$158,400 – $320,000</dd>
-</dl>
-
-**Areas & skills:** AI safety & policy, Biosecurity & pandemic preparedness, Research, Strategy
+**Areas & skills:** AI safety & policy, Biosecurity & pandemic preparedness
 
 ## Summary
 - Lead bio red teaming work from a domain perspective, including shaping evaluation questions, scenarios, and success criteria for biology-relevant misuse pathways.

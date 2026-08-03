@@ -4,25 +4,20 @@ employer: "Coefficient Giving"
 job_id: "recDXCw7zkWLrOITc"
 last_updated: "2026-08-02T05:32:09.600362Z"
 posted_at: "2026-07-10T00:05:00Z"
-status: ready
+status: closed
+closed_at: "2026-08-03"
 apply_url: "https://jobs.ashbyhq.com/coefficientgiving/5496d5b6-d7d2-4390-b577-af6b0c3bf24b"
 areas:
   - "AI safety & policy"
 ---
 
+> ⚠️ **CLOSED on 2026-08-03** — this job is no longer listed on the 80,000 Hours board. Archived snapshot below.
+
 # Grantmakers, U.S. AI Policy and Public Policy
 
-**[Coefficient Giving](https://coefficientgiving.org/)**
+**Coefficient Giving**
 
-<dl class="job-meta">
-<dt>Location</dt><dd>Washington, DC metro area, USA, USA (Confirmed Visas)</dd>
-<dt>Role type</dt><dd>Full-time</dd>
-<dt>Experience</dt><dd>Multiple experience levels</dd>
-<dt>Degree</dt><dd>Undergraduate degree or less</dd>
-<dt>Salary</dt><dd>$16,450 – $255,500</dd>
-</dl>
-
-**Areas & skills:** AI safety & policy, Policy, Strategy
+**Areas & skills:** AI safety & policy
 
 ## Summary
 - In this role, you'll allocate millions in grants to build capacity and shape U.S. AI governance.

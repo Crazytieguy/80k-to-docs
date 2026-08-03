@@ -2,7 +2,7 @@
 title: "Operations Staff"
 employer: "Resolution"
 job_id: "recoucyrquyKAp2WX"
-last_updated: "2026-08-02T05:32:17.918662Z"
+last_updated: "2026-08-03T05:32:19.429057Z"
 posted_at: "2026-07-02T00:03:00Z"
 status: ready
 apply_url: "https://jobs.ashbyhq.com/resolution/3e9e55e0-49b0-4888-a9ef-38034e7c880c"
@@ -34,4 +34,4 @@ areas:
 <p class="apply-cta"><a href="https://jobs.ashbyhq.com/resolution/3e9e55e0-49b0-4888-a9ef-38034e7c880c">Apply →</a></p>
 
 ---
-*Posted 2026-07-02 · Listing synced 2026-08-02 · 80k job ID `recoucyrquyKAp2WX`*
+*Posted 2026-07-02 · Listing synced 2026-08-03 · 80k job ID `recoucyrquyKAp2WX`*

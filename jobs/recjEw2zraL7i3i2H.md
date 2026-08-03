@@ -2,7 +2,7 @@
 title: "Head of Emerging Technology and Security Initiative"
 employer: "Hewlett Foundation"
 job_id: "recjEw2zraL7i3i2H"
-last_updated: "2026-08-02T05:31:52.604080Z"
+last_updated: "2026-08-03T05:31:52.452552Z"
 posted_at: "2026-07-27T00:00:00Z"
 status: ready
 apply_url: "https://hewlett.org/careers/?jobId=82794138-7d1a-9b36-2196-ce4bb2eb2f53"
@@ -34,4 +34,4 @@ areas:
 <p class="apply-cta"><a href="https://hewlett.org/careers/?jobId=82794138-7d1a-9b36-2196-ce4bb2eb2f53">Apply →</a></p>
 
 ---
-*Posted 2026-07-27 · Listing synced 2026-08-02 · 80k job ID `recjEw2zraL7i3i2H`*
+*Posted 2026-07-27 · Listing synced 2026-08-03 · 80k job ID `recjEw2zraL7i3i2H`*

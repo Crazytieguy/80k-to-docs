@@ -2,7 +2,7 @@
 title: "Member of Technical Staff, Product Engineer"
 employer: "Valthos"
 job_id: "reci4I8ozApB384cP"
-last_updated: "2026-08-02T05:32:59.091484Z"
+last_updated: "2026-08-03T05:32:56.835662Z"
 posted_at: "2022-01-08T00:00:00Z"
 status: ready
 apply_url: "https://jobs.ashbyhq.com/valthos/704787e6-2b49-4282-8648-faaf106e7d78"
@@ -16,7 +16,7 @@ areas:
 **[Valthos](https://valthos.com/)**
 
 <dl class="job-meta">
-<dt>Location</dt><dd>New York, NY, San Francisco Bay Area, USA</dd>
+<dt>Location</dt><dd>San Francisco Bay Area, New York, NY, USA</dd>
 <dt>Role type</dt><dd>Full-time</dd>
 <dt>Experience</dt><dd>Junior (1-4 years experience), Mid (5-9 years experience)</dd>
 <dt>Degree</dt><dd>Undergraduate degree or less</dd>
@@ -33,4 +33,4 @@ areas:
 <p class="apply-cta"><a href="https://jobs.ashbyhq.com/valthos/704787e6-2b49-4282-8648-faaf106e7d78">Apply →</a></p>
 
 ---
-*Posted 2022-01-08 · Listing synced 2026-08-02 · 80k job ID `reci4I8ozApB384cP`*
+*Posted 2022-01-08 · Listing synced 2026-08-03 · 80k job ID `reci4I8ozApB384cP`*

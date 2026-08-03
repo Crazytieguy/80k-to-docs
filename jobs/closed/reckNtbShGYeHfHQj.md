@@ -4,24 +4,20 @@ employer: "LawZero"
 job_id: "reckNtbShGYeHfHQj"
 last_updated: "2026-08-02T05:33:07.946402Z"
 posted_at: "2022-01-06T00:00:00Z"
-status: ready
+status: closed
+closed_at: "2026-08-03"
 apply_url: "https://job-boards.greenhouse.io/lawzero/jobs/4187500009"
 areas:
   - "AI safety & policy"
 ---
 
+> ⚠️ **CLOSED on 2026-08-03** — this job is no longer listed on the 80,000 Hours board. Archived snapshot below.
+
 # ML Developer, Applied Research
 
-**[LawZero](https://lawzero.org/en)**
+**LawZero**
 
-<dl class="job-meta">
-<dt>Location</dt><dd>Montreal, Canada, Canada</dd>
-<dt>Role type</dt><dd>Full-time</dd>
-<dt>Experience</dt><dd>Junior (1-4 years experience)</dd>
-<dt>Degree</dt><dd>Undergraduate degree or less</dd>
-</dl>
-
-**Areas & skills:** AI safety & policy, Software engineering
+**Areas & skills:** AI safety & policy
 
 ## Summary
 - In this role, you'll accelerate applied research and deploy Scientist AI to real-world problems, collaborating with ML researchers and product stakeholders.

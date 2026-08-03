@@ -4,24 +4,20 @@ employer: "ERA"
 job_id: "rec3tTmmbARKr0W8Z"
 last_updated: "2026-08-02T05:31:46.865712Z"
 posted_at: "2026-07-30T00:00:00Z"
-status: ready
+status: closed
+closed_at: "2026-08-03"
 apply_url: "https://www.securefrontier.ai/"
 areas:
   - "AI safety & policy"
 ---
 
+> ⚠️ **CLOSED on 2026-08-03** — this job is no longer listed on the 80,000 Hours board. Archived snapshot below.
+
 # Residency, Frontier AI Security
 
-**[ERA](https://erafellowship.org/)**
+**ERA**
 
-<dl class="job-meta">
-<dt>Location</dt><dd>Cambridge, UK, UK</dd>
-<dt>Role type</dt><dd>Course</dd>
-<dt>Experience</dt><dd>Mid (5-9 years experience)</dd>
-<dt>Degree</dt><dd>Undergraduate degree or less</dd>
-</dl>
-
-**Areas & skills:** AI safety & policy, Software engineering, Information security
+**Areas & skills:** AI safety & policy
 
 ## Summary
 - This programme teaches frontier AI security and verification through an 8-week, fully-funded residency combining research projects, workshops, and expert mentorship.

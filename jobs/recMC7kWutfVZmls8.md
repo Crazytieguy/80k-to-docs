@@ -2,7 +2,7 @@
 title: "Headhunting Product Specialist"
 employer: "80,000 Hours"
 job_id: "recMC7kWutfVZmls8"
-last_updated: "2026-08-02T05:31:39.440996Z"
+last_updated: "2026-08-03T05:31:39.642982Z"
 posted_at: "2026-07-31T00:05:00Z"
 status: ready
 apply_url: "https://jobs.ashbyhq.com/80000hours/9576d650-a615-46c9-9187-9610e420a4a3"
@@ -15,11 +15,11 @@ areas:
 **[80,000 Hours](https://80000hours.org/)**
 
 <dl class="job-meta">
-<dt>Location</dt><dd>San Francisco Bay Area, Remote, Global, London, UK, Washington, DC metro area, UK, USA, USA (Confirmed Visas), UK (Confirmed Visas)</dd>
+<dt>Location</dt><dd>London, UK, Washington, DC metro area, San Francisco Bay Area, Remote, Global, UK, USA, USA (Confirmed Visas), UK (Confirmed Visas)</dd>
 <dt>Role type</dt><dd>Full-time</dd>
 <dt>Experience</dt><dd>Junior (1-4 years experience), Mid (5-9 years experience)</dd>
 <dt>Degree</dt><dd>Undergraduate degree or less</dd>
-<dt>Salary</dt><dd>$109,200 – $125,377</dd>
+<dt>Salary</dt><dd>$109,122 – $125,289</dd>
 </dl>
 
 **Areas & skills:** AI safety & policy, Software engineering, Strategy
@@ -34,4 +34,4 @@ areas:
 <p class="apply-cta"><a href="https://jobs.ashbyhq.com/80000hours/9576d650-a615-46c9-9187-9610e420a4a3">Apply →</a></p>
 
 ---
-*Posted 2026-07-31 · Listing synced 2026-08-02 · 80k job ID `recMC7kWutfVZmls8`*
+*Posted 2026-07-31 · Listing synced 2026-08-03 · 80k job ID `recMC7kWutfVZmls8`*

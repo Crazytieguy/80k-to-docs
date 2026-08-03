@@ -2,7 +2,7 @@
 title: "Expression of Interest"
 employer: "Concordia AI"
 job_id: "rec8EgM6xCuobgH3G"
-last_updated: "2026-08-02T05:32:52.587442Z"
+last_updated: "2026-08-03T05:32:50.567613Z"
 posted_at: "2022-01-11T00:00:00Z"
 status: ready
 apply_url: "https://docs.google.com/forms/d/e/1FAIpQLSefLWdsE_okD2GIWYNaMHtoibGRewwWa5CmVri-SVcXZax3Bg/viewform"
@@ -29,4 +29,4 @@ areas:
 <p class="apply-cta"><a href="https://docs.google.com/forms/d/e/1FAIpQLSefLWdsE_okD2GIWYNaMHtoibGRewwWa5CmVri-SVcXZax3Bg/viewform">Apply →</a></p>
 
 ---
-*Posted 2022-01-11 · Listing synced 2026-08-02 · 80k job ID `rec8EgM6xCuobgH3G`*
+*Posted 2022-01-11 · Listing synced 2026-08-03 · 80k job ID `rec8EgM6xCuobgH3G`*

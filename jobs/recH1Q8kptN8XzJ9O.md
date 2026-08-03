@@ -2,7 +2,7 @@
 title: "Volunteer Opportunities"
 employer: "AISafety.com"
 job_id: "recH1Q8kptN8XzJ9O"
-last_updated: "2026-08-02T05:33:02.549434Z"
+last_updated: "2026-08-03T05:33:01.888140Z"
 posted_at: "2022-01-06T00:00:00Z"
 status: ready
 apply_url: "https://www.aisafety.com/projects"
@@ -30,4 +30,4 @@ areas:
 <p class="apply-cta"><a href="https://www.aisafety.com/projects">Apply →</a></p>
 
 ---
-*Posted 2022-01-06 · Listing synced 2026-08-02 · 80k job ID `recH1Q8kptN8XzJ9O`*
+*Posted 2022-01-06 · Listing synced 2026-08-03 · 80k job ID `recH1Q8kptN8XzJ9O`*

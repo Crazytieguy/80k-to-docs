@@ -2,7 +2,7 @@
 title: "Software Engineer"
 employer: "FutureSearch"
 job_id: "recevFcZcW1GZlz4g"
-last_updated: "2026-08-02T05:32:00.988558Z"
+last_updated: "2026-08-03T05:32:03.139636Z"
 posted_at: "2026-07-20T00:00:00Z"
 status: ready
 apply_url: "https://apply.workable.com/futuresearch/j/00E7FC1B6F"
@@ -15,7 +15,7 @@ areas:
 **[FutureSearch](https://futuresearch.ai/)**
 
 <dl class="job-meta">
-<dt>Location</dt><dd>Remote, Global, San Francisco Bay Area, London, UK, New York, NY, UK, USA</dd>
+<dt>Location</dt><dd>London, UK, San Francisco Bay Area, New York, NY, Remote, Global, UK, USA</dd>
 <dt>Role type</dt><dd>Full-time</dd>
 <dt>Experience</dt><dd>Junior (1-4 years experience), Mid (5-9 years experience)</dd>
 <dt>Degree</dt><dd>Undergraduate degree or less</dd>
@@ -34,4 +34,4 @@ areas:
 <p class="apply-cta"><a href="https://apply.workable.com/futuresearch/j/00E7FC1B6F">Apply →</a></p>
 
 ---
-*Posted 2026-07-20 · Listing synced 2026-08-02 · 80k job ID `recevFcZcW1GZlz4g`*
+*Posted 2026-07-20 · Listing synced 2026-08-03 · 80k job ID `recevFcZcW1GZlz4g`*

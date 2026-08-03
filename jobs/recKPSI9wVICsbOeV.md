@@ -2,7 +2,7 @@
 title: "Communications Officer, Media Relations"
 employer: "Coefficient Giving"
 job_id: "recKPSI9wVICsbOeV"
-last_updated: "2026-08-02T05:31:50.782682Z"
+last_updated: "2026-08-03T05:31:50.644624Z"
 posted_at: "2026-07-27T00:04:55Z"
 status: ready
 apply_url: "https://jobs.ashbyhq.com/coefficientgiving/31143e32-ef63-49d2-a523-757b5514b637"
@@ -15,7 +15,7 @@ areas:
 **[Coefficient Giving](https://coefficientgiving.org/)**
 
 <dl class="job-meta">
-<dt>Location</dt><dd>New York, NY, San Francisco Bay Area, Remote, Global, Washington, DC metro area, USA</dd>
+<dt>Location</dt><dd>Washington, DC metro area, San Francisco Bay Area, New York, NY, Remote, Global, USA</dd>
 <dt>Role type</dt><dd>Full-time</dd>
 <dt>Experience</dt><dd>Junior (1-4 years experience), Mid (5-9 years experience)</dd>
 <dt>Degree</dt><dd>Undergraduate degree or less</dd>
@@ -34,4 +34,4 @@ areas:
 <p class="apply-cta"><a href="https://jobs.ashbyhq.com/coefficientgiving/31143e32-ef63-49d2-a523-757b5514b637">Apply →</a></p>
 
 ---
-*Posted 2026-07-27 · Listing synced 2026-08-02 · 80k job ID `recKPSI9wVICsbOeV`*
+*Posted 2026-07-27 · Listing synced 2026-08-03 · 80k job ID `recKPSI9wVICsbOeV`*

@@ -2,7 +2,7 @@
 title: "Research Scientist"
 employer: "Patronus AI"
 job_id: "recqq8HXisoyquMbT"
-last_updated: "2026-08-02T05:33:09.420538Z"
+last_updated: "2026-08-03T05:33:08.711373Z"
 posted_at: "2022-01-06T00:00:00Z"
 status: ready
 apply_url: "https://www.patronus.ai/job-detail?gh_jid=4241103009&role=member-of-technical-staff-research-scientist"
@@ -15,7 +15,7 @@ areas:
 **[Patronus AI](https://www.patronus.ai/)**
 
 <dl class="job-meta">
-<dt>Location</dt><dd>Remote, USA, San Francisco Bay Area, New York, NY, USA</dd>
+<dt>Location</dt><dd>San Francisco Bay Area, New York, NY, Remote, USA, USA</dd>
 <dt>Role type</dt><dd>Full-time</dd>
 <dt>Experience</dt><dd>Junior (1-4 years experience)</dd>
 <dt>Degree</dt><dd>Undergraduate degree or less</dd>
@@ -32,4 +32,4 @@ areas:
 <p class="apply-cta"><a href="https://www.patronus.ai/job-detail?gh_jid=4241103009&amp;role=member-of-technical-staff-research-scientist">Apply →</a></p>
 
 ---
-*Posted 2022-01-06 · Listing synced 2026-08-02 · 80k job ID `recqq8HXisoyquMbT`*
+*Posted 2022-01-06 · Listing synced 2026-08-03 · 80k job ID `recqq8HXisoyquMbT`*

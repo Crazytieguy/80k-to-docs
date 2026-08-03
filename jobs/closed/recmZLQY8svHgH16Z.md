@@ -4,24 +4,20 @@ employer: "Arms Control Association"
 job_id: "recmZLQY8svHgH16Z"
 last_updated: "2026-08-02T05:33:26.593018Z"
 posted_at: "2022-01-02T00:00:00Z"
-status: ready
+status: closed
+closed_at: "2026-08-03"
 apply_url: "https://www.armscontrol.org/internships"
 areas:
   - "Nuclear security"
 ---
 
+> ⚠️ **CLOSED on 2026-08-03** — this job is no longer listed on the 80,000 Hours board. Archived snapshot below.
+
 # Intern, Nuclear Policy Research
 
-**[Arms Control Association](https://www.armscontrol.org/)**
+**Arms Control Association**
 
-<dl class="job-meta">
-<dt>Location</dt><dd>Washington, DC metro area, USA</dd>
-<dt>Role type</dt><dd>Internship</dd>
-<dt>Experience</dt><dd>Entry-level</dd>
-<dt>Degree</dt><dd>Undergraduate degree or less</dd>
-</dl>
-
-**Areas & skills:** Nuclear security, Research, Policy
+**Areas & skills:** Nuclear security
 
 ## Summary
 - In this role, you'll gain experience in nuclear policy research while supporting the Arms Control Association's work in Washington, D.C.

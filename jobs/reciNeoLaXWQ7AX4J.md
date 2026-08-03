@@ -2,7 +2,7 @@
 title: "Assistant Director, Operations, Responsible Artificial Intelligence Safety and Education"
 employer: "New York State, Department of Financial Services"
 job_id: "reciNeoLaXWQ7AX4J"
-last_updated: "2026-08-02T05:31:40.387069Z"
+last_updated: "2026-08-03T05:31:40.582288Z"
 posted_at: "2026-07-31T00:05:00Z"
 status: ready
 apply_url: "https://www.dfs.ny.gov/system/files/documents/2026/07/ass_dir_ops_raise_spe_ass_ns_20260806.pdf"
@@ -34,4 +34,4 @@ areas:
 <p class="apply-cta"><a href="https://www.dfs.ny.gov/system/files/documents/2026/07/ass_dir_ops_raise_spe_ass_ns_20260806.pdf">Apply →</a></p>
 
 ---
-*Posted 2026-07-31 · Listing synced 2026-08-02 · 80k job ID `reciNeoLaXWQ7AX4J`*
+*Posted 2026-07-31 · Listing synced 2026-08-03 · 80k job ID `reciNeoLaXWQ7AX4J`*

@@ -2,7 +2,7 @@
 title: "Intern, Engineering (Spring 2027)"
 employer: "Blue Origin"
 job_id: "recWKSg6vriHQRHo5"
-last_updated: "2026-08-02T05:31:56.655711Z"
+last_updated: "2026-08-03T05:31:58.804201Z"
 posted_at: "2026-07-22T00:00:00Z"
 status: ready
 apply_url: "https://blueorigin.wd5.myworkdayjobs.com/BlueOrigin/job/Greater-Seattle-Area/Spring-2027--Engineering-Intern---Undergraduate_R69064"
@@ -15,7 +15,7 @@ areas:
 **[Blue Origin](https://www.blueorigin.com/)**
 
 <dl class="job-meta">
-<dt>Location</dt><dd>Seattle metro area, Huntsville, AL, Denver, CO, Space Coast, FL, Los Angeles, CA, USA</dd>
+<dt>Location</dt><dd>Seattle metro area, Los Angeles, CA, Huntsville, AL, Denver, CO, Space Coast, FL, USA</dd>
 <dt>Role type</dt><dd>Internship</dd>
 <dt>Experience</dt><dd>Entry-level</dd>
 <dt>Degree</dt><dd>Undergraduate degree or less</dd>
@@ -34,4 +34,4 @@ areas:
 <p class="apply-cta"><a href="https://blueorigin.wd5.myworkdayjobs.com/BlueOrigin/job/Greater-Seattle-Area/Spring-2027--Engineering-Intern---Undergraduate_R69064">Apply →</a></p>
 
 ---
-*Posted 2026-07-22 · Listing synced 2026-08-02 · 80k job ID `recWKSg6vriHQRHo5`*
+*Posted 2026-07-22 · Listing synced 2026-08-03 · 80k job ID `recWKSg6vriHQRHo5`*

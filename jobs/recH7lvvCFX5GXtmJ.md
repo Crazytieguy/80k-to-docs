@@ -2,7 +2,7 @@
 title: "Fellow Program, AI Security"
 employer: "Anthropic"
 job_id: "recH7lvvCFX5GXtmJ"
-last_updated: "2026-08-02T05:32:01.996345Z"
+last_updated: "2026-08-03T05:32:04.006455Z"
 posted_at: "2026-07-17T00:00:00Z"
 status: ready
 apply_url: "https://job-boards.greenhouse.io/anthropic/jobs/5030244008"
@@ -15,7 +15,7 @@ areas:
 **[Anthropic](https://www.anthropic.com/)**
 
 <dl class="job-meta">
-<dt>Location</dt><dd>San Francisco Bay Area, London, UK, Remote, Canada, Remote, UK, Remote, USA, UK, USA, Canada</dd>
+<dt>Location</dt><dd>London, UK, San Francisco Bay Area, Remote, USA, Remote, UK, Remote, Canada, UK, USA, Canada</dd>
 <dt>Role type</dt><dd>Fellowship</dd>
 <dt>Experience</dt><dd>Entry-level</dd>
 <dt>Degree</dt><dd>Undergraduate degree or less</dd>
@@ -34,4 +34,4 @@ areas:
 <p class="apply-cta"><a href="https://job-boards.greenhouse.io/anthropic/jobs/5030244008">Apply →</a></p>
 
 ---
-*Posted 2026-07-17 · Listing synced 2026-08-02 · 80k job ID `recH7lvvCFX5GXtmJ`*
+*Posted 2026-07-17 · Listing synced 2026-08-03 · 80k job ID `recH7lvvCFX5GXtmJ`*

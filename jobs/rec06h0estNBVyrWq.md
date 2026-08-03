@@ -2,7 +2,7 @@
 title: "Team Member, Futures, Frontier Risk and Alignment"
 employer: "Microsoft"
 job_id: "rec06h0estNBVyrWq"
-last_updated: "2026-08-02T05:32:12.777937Z"
+last_updated: "2026-08-03T05:32:14.370059Z"
 posted_at: "2026-07-08T00:01:00Z"
 status: ready
 apply_url: "https://apply.careers.microsoft.com/careers/job/1970393556827358?domain=microsoft.com&source=LinkedIn"
@@ -34,4 +34,4 @@ areas:
 <p class="apply-cta"><a href="https://apply.careers.microsoft.com/careers/job/1970393556827358?domain=microsoft.com&amp;source=LinkedIn">Apply →</a></p>
 
 ---
-*Posted 2026-07-08 · Listing synced 2026-08-02 · 80k job ID `rec06h0estNBVyrWq`*
+*Posted 2026-07-08 · Listing synced 2026-08-03 · 80k job ID `rec06h0estNBVyrWq`*

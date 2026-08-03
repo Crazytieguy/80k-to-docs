@@ -2,7 +2,7 @@
 title: "Threat Intelligence Manager, Chemical, Biological, Radiological, Nuclear, and Explosives and Advanced Weapons"
 employer: "Anthropic"
 job_id: "recSzGVBwUxPJPF4q"
-last_updated: "2026-08-02T05:32:11.838890Z"
+last_updated: "2026-08-03T05:32:13.427208Z"
 posted_at: "2026-07-09T00:00:00Z"
 status: ready
 apply_url: "https://job-boards.greenhouse.io/anthropic/jobs/5305631008"
@@ -15,7 +15,7 @@ areas:
 **[Anthropic](https://www.anthropic.com/)**
 
 <dl class="job-meta">
-<dt>Location</dt><dd>San Francisco Bay Area, New York, NY, Washington, DC metro area, USA, USA (Confirmed Visas)</dd>
+<dt>Location</dt><dd>Washington, DC metro area, San Francisco Bay Area, New York, NY, USA, USA (Confirmed Visas)</dd>
 <dt>Role type</dt><dd>Full-time</dd>
 <dt>Experience</dt><dd>Senior (10+ years experience)</dd>
 <dt>Degree</dt><dd>Undergraduate degree or less</dd>
@@ -34,4 +34,4 @@ areas:
 <p class="apply-cta"><a href="https://job-boards.greenhouse.io/anthropic/jobs/5305631008">Apply →</a></p>
 
 ---
-*Posted 2026-07-09 · Listing synced 2026-08-02 · 80k job ID `recSzGVBwUxPJPF4q`*
+*Posted 2026-07-09 · Listing synced 2026-08-03 · 80k job ID `recSzGVBwUxPJPF4q`*

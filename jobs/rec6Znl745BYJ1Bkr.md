@@ -2,7 +2,7 @@
 title: "Director, AI Policy"
 employer: "Federation of American Scientists"
 job_id: "rec6Znl745BYJ1Bkr"
-last_updated: "2026-08-02T05:32:30.490591Z"
+last_updated: "2026-08-03T05:32:30.999807Z"
 posted_at: "2026-06-11T00:02:00Z"
 status: ready
 apply_url: "https://fas.org/career/director-ai-policy/"
@@ -34,4 +34,4 @@ areas:
 <p class="apply-cta"><a href="https://fas.org/career/director-ai-policy/">Apply →</a></p>
 
 ---
-*Posted 2026-06-11 · Listing synced 2026-08-02 · 80k job ID `rec6Znl745BYJ1Bkr`*
+*Posted 2026-06-11 · Listing synced 2026-08-03 · 80k job ID `rec6Znl745BYJ1Bkr`*
