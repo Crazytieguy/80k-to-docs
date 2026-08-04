@@ -2,7 +2,7 @@
 title: "National Security Expert"
 employer: "Palisade Research"
 job_id: "rec04lety6eqcNfGw"
-last_updated: "2026-08-03T05:32:12.276988Z"
+last_updated: "2026-08-04T05:32:22.806514Z"
 posted_at: "2026-07-09T00:05:00Z"
 status: ready
 apply_url: "https://jobs.gusto.com/postings/palisade-research-national-security-expert-b4275a42-78be-4bbf-9f84-7c67e170a926"
@@ -34,4 +34,4 @@ areas:
 <p class="apply-cta"><a href="https://jobs.gusto.com/postings/palisade-research-national-security-expert-b4275a42-78be-4bbf-9f84-7c67e170a926">Apply →</a></p>
 
 ---
-*Posted 2026-07-09 · Listing synced 2026-08-03 · 80k job ID `rec04lety6eqcNfGw`*
+*Posted 2026-07-09 · Listing synced 2026-08-04 · 80k job ID `rec04lety6eqcNfGw`*

@@ -4,24 +4,20 @@ employer: "US Government, National Academies of Sciences, Engineering, and Medic
 job_id: "recccAUIYuF4EPXWs"
 last_updated: "2026-08-03T05:32:27.035360Z"
 posted_at: "2026-06-18T00:00:00Z"
-status: ready
+status: closed
+closed_at: "2026-08-04"
 apply_url: "https://www.nationalacademies.org/our-work/rap/nrc-research-associateship-programs"
 areas:
   - "Career development: Technical"
 ---
 
+> ⚠️ **CLOSED on 2026-08-04** — this job is no longer listed on the 80,000 Hours board. Archived snapshot below.
+
 # Research Associateship Programs, National Research Council
 
-**[US Government, National Academies of Sciences, Engineering, and Medicine](http://www.nasonline.org/programs/awards/)**
+**US Government, National Academies of Sciences, Engineering, and Medicine**
 
-<dl class="job-meta">
-<dt>Location</dt><dd>USA</dd>
-<dt>Role type</dt><dd>Funding</dd>
-<dt>Experience</dt><dd>Multiple experience levels</dd>
-<dt>Degree</dt><dd>Doctoral degree</dd>
-</dl>
-
-**Areas & skills:** Career development: Technical, Research
+**Areas & skills:** Career development: Technical
 
 ## Summary
 - This program allows participants to pursue self-directed research at federal laboratories with mentorship and state-of-the-art facilities.

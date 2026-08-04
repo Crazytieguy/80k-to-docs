@@ -4,25 +4,20 @@ employer: "Fish Welfare Initiative"
 job_id: "recjqyLhB5OMVtj7q"
 last_updated: "2026-08-03T05:32:00.332316Z"
 posted_at: "2026-07-21T00:00:00Z"
-status: ready
+status: closed
+closed_at: "2026-08-04"
 apply_url: "https://www.fishwelfareinitiative.org/ops-associate"
 areas:
   - "Animal welfare"
 ---
 
+> ⚠️ **CLOSED on 2026-08-04** — this job is no longer listed on the 80,000 Hours board. Archived snapshot below.
+
 # Operations Associate
 
-**[Fish Welfare Initiative](https://www.charityentrepreneurship.com/fish-welfare-initiative)**
+**Fish Welfare Initiative**
 
-<dl class="job-meta">
-<dt>Location</dt><dd>Eluru, India, India, Asia, Philippines</dd>
-<dt>Role type</dt><dd>Full-time</dd>
-<dt>Experience</dt><dd>Junior (1-4 years experience), Entry-level</dd>
-<dt>Degree</dt><dd>Undergraduate degree or less</dd>
-<dt>Salary</dt><dd>$8,827 – $11,349</dd>
-</dl>
-
-**Areas & skills:** Animal welfare, Operations, Finance
+**Areas & skills:** Animal welfare
 
 ## Summary
 - In this role, you'll execute and maintain FWI's operational systems including finance, admin, documentation, and hiring.

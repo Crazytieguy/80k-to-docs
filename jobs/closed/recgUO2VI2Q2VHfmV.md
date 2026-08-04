@@ -4,24 +4,20 @@ employer: "US Government, Congressional Research Service"
 job_id: "recgUO2VI2Q2VHfmV"
 last_updated: "2026-08-03T05:33:24.734193Z"
 posted_at: "2022-01-03T00:00:00Z"
-status: ready
+status: closed
+closed_at: "2026-08-04"
 apply_url: "https://www.loc.gov/crsinfo/opportunities/honors-attorney-program.html"
 areas:
   - "Career development: Policy & government"
 ---
 
+> ⚠️ **CLOSED on 2026-08-04** — this job is no longer listed on the 80,000 Hours board. Archived snapshot below.
+
 # Honors Attorney Program
 
-**[US Government, Congressional Research Service](https://www.loc.gov/)**
+**US Government, Congressional Research Service**
 
-<dl class="job-meta">
-<dt>Location</dt><dd>Washington, DC metro area, USA</dd>
-<dt>Role type</dt><dd>Full-time</dd>
-<dt>Experience</dt><dd>Junior (1-4 years experience), Entry-level</dd>
-<dt>Degree</dt><dd>Undergraduate degree or less</dd>
-</dl>
-
-**Areas & skills:** Career development: Policy & government, Legal
+**Areas & skills:** Career development: Policy & government
 
 ## Summary
 - In this role, CRS Honors Attorneys provide legal analysis for Congress, working closely with senior attorneys in the American Law Division and others in CRS.

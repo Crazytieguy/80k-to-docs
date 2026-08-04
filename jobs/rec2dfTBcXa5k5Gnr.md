@@ -2,7 +2,7 @@
 title: "Risk Modeling Lead"
 employer: "SaferAI"
 job_id: "rec2dfTBcXa5k5Gnr"
-last_updated: "2026-08-03T05:32:22.167801Z"
+last_updated: "2026-08-04T05:32:33.826503Z"
 posted_at: "2026-06-30T00:02:00Z"
 status: ready
 apply_url: "https://www.safer-ai.org/jobs/risk-modeling-lead"
@@ -33,4 +33,4 @@ areas:
 <p class="apply-cta"><a href="https://www.safer-ai.org/jobs/risk-modeling-lead">Apply →</a></p>
 
 ---
-*Posted 2026-06-30 · Listing synced 2026-08-03 · 80k job ID `rec2dfTBcXa5k5Gnr`*
+*Posted 2026-06-30 · Listing synced 2026-08-04 · 80k job ID `rec2dfTBcXa5k5Gnr`*

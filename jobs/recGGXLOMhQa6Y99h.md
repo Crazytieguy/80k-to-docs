@@ -2,7 +2,7 @@
 title: "Chief of Staff"
 employer: "Simon Institute for Longterm Governance"
 job_id: "recGGXLOMhQa6Y99h"
-last_updated: "2026-08-03T05:31:55.210495Z"
+last_updated: "2026-08-04T05:32:07.916542Z"
 posted_at: "2026-07-24T00:04:54Z"
 status: ready
 apply_url: "https://simoninstitute.ch/jobs/chief-of-staff"
@@ -19,7 +19,7 @@ areas:
 <dt>Role type</dt><dd>Full-time</dd>
 <dt>Experience</dt><dd>Mid (5-9 years experience), Senior (10+ years experience)</dd>
 <dt>Degree</dt><dd>Undergraduate degree or less</dd>
-<dt>Salary</dt><dd>$145,937 – $216,431</dd>
+<dt>Salary</dt><dd>$145,639 – $215,991</dd>
 </dl>
 
 **Areas & skills:** AI safety & policy, Operations, Management, Strategy
@@ -34,4 +34,4 @@ areas:
 <p class="apply-cta"><a href="https://simoninstitute.ch/jobs/chief-of-staff">Apply →</a></p>
 
 ---
-*Posted 2026-07-24 · Listing synced 2026-08-03 · 80k job ID `recGGXLOMhQa6Y99h`*
+*Posted 2026-07-24 · Listing synced 2026-08-04 · 80k job ID `recGGXLOMhQa6Y99h`*

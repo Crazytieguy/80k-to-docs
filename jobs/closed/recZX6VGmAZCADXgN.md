@@ -4,25 +4,20 @@ employer: "OpenAI"
 job_id: "recZX6VGmAZCADXgN"
 last_updated: "2026-08-03T05:32:47.189030Z"
 posted_at: "2022-01-12T00:00:00Z"
-status: ready
+status: closed
+closed_at: "2026-08-04"
 apply_url: "https://openai.com/careers/researcher-trustworthy-ai-san-francisco/"
 areas:
   - "AI safety & policy"
 ---
 
+> ⚠️ **CLOSED on 2026-08-04** — this job is no longer listed on the 80,000 Hours board. Archived snapshot below.
+
 # Researcher, Trustworthy AI
 
-**[OpenAI](https://openai.com/)**
+**OpenAI**
 
-<dl class="job-meta">
-<dt>Location</dt><dd>San Francisco Bay Area, USA</dd>
-<dt>Role type</dt><dd>Full-time</dd>
-<dt>Experience</dt><dd>Junior (1-4 years experience)</dd>
-<dt>Degree</dt><dd>Undergraduate degree or less</dd>
-<dt>Salary</dt><dd>$380,000</dd>
-</dl>
-
-**Areas & skills:** AI safety & policy, Research
+**Areas & skills:** AI safety & policy
 
 ## Summary
 - In this role, you'll conduct research to translate complex AI policy problems into technically measurable solutions that ensure safe deployment of advanced AI systems.

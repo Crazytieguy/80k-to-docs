@@ -4,25 +4,20 @@ employer: "Centre for Long-Term Resilience"
 job_id: "recRKYS61GuaeHVpn"
 last_updated: "2026-08-03T05:31:59.425980Z"
 posted_at: "2026-07-21T00:05:00Z"
-status: ready
+status: closed
+closed_at: "2026-08-04"
 apply_url: "https://www.longtermresilience.org/were-hiring-biosecurity-fellowship-manager/"
 areas:
   - "Biosecurity & pandemic preparedness"
 ---
 
+> ⚠️ **CLOSED on 2026-08-04** — this job is no longer listed on the 80,000 Hours board. Archived snapshot below.
+
 # Biosecurity Fellowship Manager
 
-**[Centre for Long-Term Resilience](https://www.longtermresilience.org/)**
+**Centre for Long-Term Resilience**
 
-<dl class="job-meta">
-<dt>Location</dt><dd>London, UK, UK</dd>
-<dt>Role type</dt><dd>Full-time</dd>
-<dt>Experience</dt><dd>Mid (5-9 years experience)</dd>
-<dt>Degree</dt><dd>Undergraduate degree or less</dd>
-<dt>Salary</dt><dd>$94,303 – $101,039</dd>
-</dl>
-
-**Areas & skills:** Biosecurity & pandemic preparedness, Operations, Strategy
+**Areas & skills:** Biosecurity & pandemic preparedness
 
 ## Summary
 - In this role, you'll lead the development and implementation of a new Biosecurity Fellowship Programme pilot from strategy to evaluation.

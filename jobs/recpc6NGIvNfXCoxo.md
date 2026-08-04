@@ -2,7 +2,7 @@
 title: "Assistant Director, Policy, Responsible Artificial Intelligence Safety and Education"
 employer: "New York State, Department of Financial Services"
 job_id: "recpc6NGIvNfXCoxo"
-last_updated: "2026-08-03T05:31:40.412478Z"
+last_updated: "2026-08-04T05:31:54.891531Z"
 posted_at: "2026-07-31T00:05:00Z"
 status: ready
 apply_url: "https://www.dfs.ny.gov/system/files/documents/2026/07/ass_dir_pol_raise_spe_ass_ns_20260806.pdf"
@@ -30,8 +30,9 @@ areas:
 - Manage AI experts and policy staff implementing regulatory requirements.
 - Coordinate with operational leadership to align policy goals with staffing and budgetary plans.
 - Maintain expertise in frontier AI models and evolving regulatory approaches.
+- For application support, contact implementation@secureaiproject.org.
 
 <p class="apply-cta"><a href="https://www.dfs.ny.gov/system/files/documents/2026/07/ass_dir_pol_raise_spe_ass_ns_20260806.pdf">Apply →</a></p>
 
 ---
-*Posted 2026-07-31 · Listing synced 2026-08-03 · 80k job ID `recpc6NGIvNfXCoxo`*
+*Posted 2026-07-31 · Listing synced 2026-08-04 · 80k job ID `recpc6NGIvNfXCoxo`*

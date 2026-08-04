@@ -2,7 +2,7 @@
 title: "Trainee, Indo-Pacific Program (Fall 2026)"
 employer: "German Marshall Fund"
 job_id: "rec76KJIDDldIYovW"
-last_updated: "2026-08-03T05:31:48.496382Z"
+last_updated: "2026-08-04T05:32:02.671060Z"
 posted_at: "2026-07-29T00:00:00Z"
 status: ready
 apply_url: "https://recruiting.paylocity.com/Recruiting/Jobs/Details/4208160"
@@ -34,4 +34,4 @@ areas:
 <p class="apply-cta"><a href="https://recruiting.paylocity.com/Recruiting/Jobs/Details/4208160">Apply →</a></p>
 
 ---
-*Posted 2026-07-29 · Listing synced 2026-08-03 · 80k job ID `rec76KJIDDldIYovW`*
+*Posted 2026-07-29 · Listing synced 2026-08-04 · 80k job ID `rec76KJIDDldIYovW`*

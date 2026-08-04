@@ -4,25 +4,20 @@ employer: "OpenAI"
 job_id: "recBCfddcjQlQv5eb"
 last_updated: "2026-08-03T05:32:52.562658Z"
 posted_at: "2022-01-11T00:00:00Z"
-status: ready
+status: closed
+closed_at: "2026-08-04"
 apply_url: "https://openai.com/careers/technical-lead-safety-research-san-francisco/"
 areas:
   - "AI safety & policy"
 ---
 
+> ⚠️ **CLOSED on 2026-08-04** — this job is no longer listed on the 80,000 Hours board. Archived snapshot below.
+
 # Technical Lead, Safety Research
 
-**[OpenAI](https://openai.com/)**
+**OpenAI**
 
-<dl class="job-meta">
-<dt>Location</dt><dd>San Francisco Bay Area, USA</dd>
-<dt>Role type</dt><dd>Full-time</dd>
-<dt>Experience</dt><dd>Mid (5-9 years experience)</dd>
-<dt>Degree</dt><dd>Doctoral degree</dd>
-<dt>Salary</dt><dd>$460,000 – $555,000</dd>
-</dl>
-
-**Areas & skills:** AI safety & policy, Research, Strategy
+**Areas & skills:** AI safety & policy
 
 ## Summary
 - In this role, you'll set research directions and strategies to make AI systems safer, more aligned, and more robust.

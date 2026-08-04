@@ -2,22 +2,27 @@
 title: "Frame Fellowship"
 employer: "Frame"
 job_id: "recx9FHHmFsAyoxlR"
-last_updated: "2026-08-01T05:32:31.160982Z"
+last_updated: "2026-08-04T05:32:39.585360Z"
 posted_at: "2026-06-16T00:04:00Z"
-status: closed
-closed_at: "2026-08-02"
+status: ready
 apply_url: "https://framefellowship.com/"
 areas:
   - "AI safety & policy"
 ---
 
-> ⚠️ **CLOSED on 2026-08-02** — this job is no longer listed on the 80,000 Hours board. Archived snapshot below.
-
 # Frame Fellowship
 
-**Frame**
+**[Frame](https://framefellowship.com/)**
 
-**Areas & skills:** AI safety & policy
+<dl class="job-meta">
+<dt>Location</dt><dd>San Francisco Bay Area, USA, Remote, Global, USA (Confirmed Visas)</dd>
+<dt>Role type</dt><dd>Fellowship</dd>
+<dt>Experience</dt><dd>Entry-level</dd>
+<dt>Degree</dt><dd>Undergraduate degree or less</dd>
+<dt>Salary</dt><dd>$10,000</dd>
+</dl>
+
+**Areas & skills:** AI safety & policy, Outreach, Other
 
 ## Summary
 - In this 10-week residency, you'll create high-quality video content educating audiences about AI and its societal implications.
@@ -29,4 +34,4 @@ areas:
 <p class="apply-cta"><a href="https://framefellowship.com/">Apply →</a></p>
 
 ---
-*Posted 2026-06-16 · Listing synced 2026-08-01 · 80k job ID `recx9FHHmFsAyoxlR`*
+*Posted 2026-06-16 · Listing synced 2026-08-04 · 80k job ID `recx9FHHmFsAyoxlR`*

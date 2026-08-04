@@ -4,25 +4,20 @@ employer: "Giving What We Can"
 job_id: "recjT4D8tkoN5ykP8"
 last_updated: "2026-08-03T05:32:11.262798Z"
 posted_at: "2026-07-13T00:00:00Z"
-status: ready
+status: closed
+closed_at: "2026-08-04"
 apply_url: "https://www.givingwhatwecan.org/grants-ops-associate"
 areas:
   - "Building effective altruism"
 ---
 
+> ⚠️ **CLOSED on 2026-08-04** — this job is no longer listed on the 80,000 Hours board. Archived snapshot below.
+
 # Grants and Operations Associate
 
-**[Giving What We Can](https://www.givingwhatwecan.org/)**
+**Giving What We Can**
 
-<dl class="job-meta">
-<dt>Location</dt><dd>Remote, Global</dd>
-<dt>Role type</dt><dd>Full-time</dd>
-<dt>Experience</dt><dd>Junior (1-4 years experience)</dd>
-<dt>Degree</dt><dd>Undergraduate degree or less</dd>
-<dt>Salary</dt><dd>$61,971 – $71,401</dd>
-</dl>
-
-**Areas & skills:** Building effective altruism, Operations
+**Areas & skills:** Building effective altruism
 
 ## Summary
 - In this role, you'll run grantmaking operations end to end, moving tens of millions of dollars to charities accurately and securely.

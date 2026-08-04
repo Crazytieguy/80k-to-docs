@@ -2,7 +2,7 @@
 title: "Security Engineer, Application Security, Seattle"
 employer: "OpenAI"
 job_id: "recA1g3MVlRWnIMO2"
-last_updated: "2026-08-03T05:32:51.959177Z"
+last_updated: "2026-08-04T05:33:03.089442Z"
 posted_at: "2022-01-11T00:00:00Z"
 status: ready
 apply_url: "https://openai.com/careers/security-engineer-application-security-seattle/"
@@ -33,4 +33,4 @@ areas:
 <p class="apply-cta"><a href="https://openai.com/careers/security-engineer-application-security-seattle/">Apply →</a></p>
 
 ---
-*Posted 2022-01-11 · Listing synced 2026-08-03 · 80k job ID `recA1g3MVlRWnIMO2`*
+*Posted 2022-01-11 · Listing synced 2026-08-04 · 80k job ID `recA1g3MVlRWnIMO2`*

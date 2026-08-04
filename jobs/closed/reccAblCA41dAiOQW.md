@@ -4,24 +4,20 @@ employer: "Apart Research"
 job_id: "reccAblCA41dAiOQW"
 last_updated: "2026-08-03T05:32:17.593189Z"
 posted_at: "2026-07-03T00:04:58Z"
-status: ready
+status: closed
+closed_at: "2026-08-04"
 apply_url: "https://apartresearch.notion.site/Co-Lead-Author-Open-Problems-in-Technical-AI-Governance-2026-Update-391fcfd1de9d805baec5e684ce5e3550?pvs=74"
 areas:
   - "AI safety & policy"
 ---
 
+> ⚠️ **CLOSED on 2026-08-04** — this job is no longer listed on the 80,000 Hours board. Archived snapshot below.
+
 # Co-Lead Author, Open Problems in Technical AI Governance
 
-**[Apart Research](https://apartresearch.com/)**
+**Apart Research**
 
-<dl class="job-meta">
-<dt>Location</dt><dd>Remote, Global</dd>
-<dt>Role type</dt><dd>Full-time</dd>
-<dt>Experience</dt><dd>Junior (1-4 years experience)</dd>
-<dt>Degree</dt><dd>Undergraduate degree or less</dd>
-</dl>
-
-**Areas & skills:** AI safety & policy, Research, Policy
+**Areas & skills:** AI safety & policy
 
 ## Summary
 - In this role, you'll co-lead the update of the Open Problems in Technical AI Governance paper from draft to publication-ready manuscript.

@@ -2,7 +2,7 @@
 title: "Expression of Interest"
 employer: "Centre for Effective Altruism"
 job_id: "rec1LOcRvZKwzShpp"
-last_updated: "2026-08-03T05:32:57.075096Z"
+last_updated: "2026-08-04T05:33:08.026485Z"
 posted_at: "2022-01-07T00:00:00Z"
 status: ready
 apply_url: "https://www.centreforeffectivealtruism.org/careers?ashby_jid=372827d7-ca62-49a6-bc75-077e63398577"
@@ -31,4 +31,4 @@ areas:
 <p class="apply-cta"><a href="https://www.centreforeffectivealtruism.org/careers?ashby_jid=372827d7-ca62-49a6-bc75-077e63398577">Apply →</a></p>
 
 ---
-*Posted 2022-01-07 · Listing synced 2026-08-03 · 80k job ID `rec1LOcRvZKwzShpp`*
+*Posted 2022-01-07 · Listing synced 2026-08-04 · 80k job ID `rec1LOcRvZKwzShpp`*

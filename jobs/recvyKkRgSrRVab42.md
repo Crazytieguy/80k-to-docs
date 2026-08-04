@@ -2,7 +2,7 @@
 title: "Field Lead, Biosecurity"
 employer: "Amodo Design"
 job_id: "recvyKkRgSrRVab42"
-last_updated: "2026-08-03T05:33:23.098100Z"
+last_updated: "2026-08-04T05:33:32.438558Z"
 posted_at: "2022-01-03T00:00:00Z"
 status: ready
 apply_url: "https://amododesign.com/career/biosec-lead/"
@@ -19,7 +19,7 @@ areas:
 <dt>Role type</dt><dd>Full-time</dd>
 <dt>Experience</dt><dd>Mid (5-9 years experience)</dd>
 <dt>Degree</dt><dd>Undergraduate degree or less</dd>
-<dt>Salary</dt><dd>$67,359 – $101,039</dd>
+<dt>Salary</dt><dd>$67,124 – $100,686</dd>
 </dl>
 
 **Areas & skills:** Biosecurity & pandemic preparedness, Engineering, Strategy
@@ -34,4 +34,4 @@ areas:
 <p class="apply-cta"><a href="https://amododesign.com/career/biosec-lead/">Apply →</a></p>
 
 ---
-*Posted 2022-01-03 · Listing synced 2026-08-03 · 80k job ID `recvyKkRgSrRVab42`*
+*Posted 2022-01-03 · Listing synced 2026-08-04 · 80k job ID `recvyKkRgSrRVab42`*

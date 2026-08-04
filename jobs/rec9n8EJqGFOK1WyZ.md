@@ -2,7 +2,7 @@
 title: "Workstream Lead"
 employer: "UK Government, AI Security Institute"
 job_id: "rec9n8EJqGFOK1WyZ"
-last_updated: "2026-08-03T05:31:42.387455Z"
+last_updated: "2026-08-04T05:31:56.783604Z"
 posted_at: "2026-07-31T00:04:17Z"
 status: ready
 apply_url: "https://www.civilservicejobs.service.gov.uk/csr/jobs.cgi?jcode=2007002"
@@ -19,7 +19,7 @@ areas:
 <dt>Role type</dt><dd>Full-time</dd>
 <dt>Experience</dt><dd>Mid (5-9 years experience), Senior (10+ years experience)</dd>
 <dt>Degree</dt><dd>Undergraduate degree or less</dd>
-<dt>Salary</dt><dd>$168,399 – $181,871</dd>
+<dt>Salary</dt><dd>$167,809 – $181,234</dd>
 </dl>
 
 **Areas & skills:** AI safety & policy, Research, Policy, Management
@@ -34,4 +34,4 @@ areas:
 <p class="apply-cta"><a href="https://www.civilservicejobs.service.gov.uk/csr/jobs.cgi?jcode=2007002">Apply →</a></p>
 
 ---
-*Posted 2026-07-31 · Listing synced 2026-08-03 · 80k job ID `rec9n8EJqGFOK1WyZ`*
+*Posted 2026-07-31 · Listing synced 2026-08-04 · 80k job ID `rec9n8EJqGFOK1WyZ`*

@@ -4,24 +4,20 @@ employer: "Experimental Microgrant Program"
 job_id: "recdhr2bmHmrusk7m"
 last_updated: "2026-08-03T05:32:17.894751Z"
 posted_at: "2026-07-03T00:02:00Z"
-status: ready
+status: closed
+closed_at: "2026-08-04"
 apply_url: "https://docs.google.com/document/d/10zAp2bXTkZgiPreIm4crp38TFco4KleFN14Kw5BprAs/edit?tab=t.0"
 areas:
   - "AI safety & policy"
 ---
 
+> ⚠️ **CLOSED on 2026-08-04** — this job is no longer listed on the 80,000 Hours board. Archived snapshot below.
+
 # Microgrants
 
-**[Experimental Microgrant Program](https://docs.google.com/document/d/10zAp2bXTkZgiPreIm4crp38TFco4KleFN14Kw5BprAs/edit?tab=t.0)**
+**Experimental Microgrant Program**
 
-<dl class="job-meta">
-<dt>Location</dt><dd>Remote, Global</dd>
-<dt>Role type</dt><dd>Funding</dd>
-<dt>Experience</dt><dd>Multiple experience levels</dd>
-<dt>Degree</dt><dd>Undergraduate degree or less</dd>
-</dl>
-
-**Areas & skills:** AI safety & policy, Strategy
+**Areas & skills:** AI safety & policy
 
 ## Summary
 - This is a minimally burueacratic program funding projects to make AGI go well for all of humanity.

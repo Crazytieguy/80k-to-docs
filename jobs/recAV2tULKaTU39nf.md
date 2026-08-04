@@ -2,7 +2,7 @@
 title: "Team Lead, GenAI Safety"
 employer: "Alice"
 job_id: "recAV2tULKaTU39nf"
-last_updated: "2026-08-03T05:31:46.057767Z"
+last_updated: "2026-08-04T05:32:00.314794Z"
 posted_at: "2026-07-30T00:01:00Z"
 status: ready
 apply_url: "https://alice.io/positions/position-01_f62"
@@ -34,4 +34,4 @@ areas:
 <p class="apply-cta"><a href="https://alice.io/positions/position-01_f62">Apply →</a></p>
 
 ---
-*Posted 2026-07-30 · Listing synced 2026-08-03 · 80k job ID `recAV2tULKaTU39nf`*
+*Posted 2026-07-30 · Listing synced 2026-08-04 · 80k job ID `recAV2tULKaTU39nf`*

@@ -2,7 +2,7 @@
 title: "Head of Operations"
 employer: "Good Impressions Media"
 job_id: "recV6DbnjT0YogEsx"
-last_updated: "2026-08-03T05:31:43.578780Z"
+last_updated: "2026-08-04T05:31:57.893282Z"
 posted_at: "2026-07-31T00:03:00Z"
 status: ready
 apply_url: "https://www.goodimpressionsmedia.com/jobs/head-of-operations"
@@ -34,4 +34,4 @@ areas:
 <p class="apply-cta"><a href="https://www.goodimpressionsmedia.com/jobs/head-of-operations">Apply →</a></p>
 
 ---
-*Posted 2026-07-31 · Listing synced 2026-08-03 · 80k job ID `recV6DbnjT0YogEsx`*
+*Posted 2026-07-31 · Listing synced 2026-08-04 · 80k job ID `recV6DbnjT0YogEsx`*

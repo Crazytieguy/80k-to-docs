@@ -4,24 +4,20 @@ employer: "United Nations"
 job_id: "recVKRIyZz72ichof"
 last_updated: "2026-08-03T05:31:57.676431Z"
 posted_at: "2026-07-23T00:00:00Z"
-status: ready
+status: closed
+closed_at: "2026-08-04"
 apply_url: "https://careers.un.org/jobSearchDescription/279758?language=en"
 areas:
   - "Career development: Policy & government"
 ---
 
+> ⚠️ **CLOSED on 2026-08-04** — this job is no longer listed on the 80,000 Hours board. Archived snapshot below.
+
 # Intern, Political Affairs
 
-**[United Nations](https://www.un.org/en/)**
+**United Nations**
 
-<dl class="job-meta">
-<dt>Location</dt><dd>Kathmandu, Nepal, Asia, Nepal</dd>
-<dt>Role type</dt><dd>Internship</dd>
-<dt>Experience</dt><dd>Entry-level</dd>
-<dt>Degree</dt><dd>Undergraduate degree or less</dd>
-</dl>
-
-**Areas & skills:** Career development: Policy & government, Research, Policy
+**Areas & skills:** Career development: Policy & government
 
 ## Summary
 - In this role, you'll provide support to the UN Regional Centre for Peace and Disarmament across key programmatic areas in Asia and the Pacific.
