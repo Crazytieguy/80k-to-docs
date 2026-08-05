@@ -2,7 +2,7 @@
 title: "Writer"
 employer: "Our World In Data"
 job_id: "recYMzm42ai7W4oSW"
-last_updated: "2026-08-04T05:33:09.534672Z"
+last_updated: "2026-08-05T05:33:11.015827Z"
 posted_at: "2022-01-07T00:00:00Z"
 status: ready
 apply_url: "https://ourworldindata.org/hiring-writer-2026"
@@ -19,7 +19,7 @@ areas:
 <dt>Role type</dt><dd>Full-time</dd>
 <dt>Experience</dt><dd>Multiple experience levels</dd>
 <dt>Degree</dt><dd>Undergraduate degree or less</dd>
-<dt>Salary</dt><dd>$107,398 – $161,097</dd>
+<dt>Salary</dt><dd>$107,642 – $161,463</dd>
 </dl>
 
 **Areas & skills:** Macrostrategy, Research, Other
@@ -34,4 +34,4 @@ areas:
 <p class="apply-cta"><a href="https://ourworldindata.org/hiring-writer-2026">Apply →</a></p>
 
 ---
-*Posted 2022-01-07 · Listing synced 2026-08-04 · 80k job ID `recYMzm42ai7W4oSW`*
+*Posted 2022-01-07 · Listing synced 2026-08-05 · 80k job ID `recYMzm42ai7W4oSW`*

@@ -2,7 +2,7 @@
 title: "U.S. Digital Service"
 employer: "US Government, Executive Office of the President"
 job_id: "rechRvHjhPZLJeiXm"
-last_updated: "2026-08-04T05:33:50.059197Z"
+last_updated: "2026-08-05T05:33:49.465078Z"
 posted_at: "2022-01-01T00:00:00Z"
 status: ready
 apply_url: "https://www.usds.gov/apply"
@@ -34,4 +34,4 @@ areas:
 <p class="apply-cta"><a href="https://www.usds.gov/apply">Apply →</a></p>
 
 ---
-*Posted 2022-01-01 · Listing synced 2026-08-04 · 80k job ID `rechRvHjhPZLJeiXm`*
+*Posted 2022-01-01 · Listing synced 2026-08-05 · 80k job ID `rechRvHjhPZLJeiXm`*

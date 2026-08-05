@@ -4,24 +4,20 @@ employer: "Anthropic"
 job_id: "recUjLMHTjOTzCv1h"
 last_updated: "2026-08-04T05:32:41.023244Z"
 posted_at: "2026-06-12T00:00:00Z"
-status: ready
+status: closed
+closed_at: "2026-08-05"
 apply_url: "https://job-boards.greenhouse.io/anthropic/jobs/5252342008"
 areas:
   - "AI safety & policy"
 ---
 
+> ⚠️ **CLOSED on 2026-08-05** — this job is no longer listed on the 80,000 Hours board. Archived snapshot below.
+
 # Security Engineer / Staff Security Engineer, Threat Intelligence
 
-**[Anthropic](https://www.anthropic.com/)**
+**Anthropic**
 
-<dl class="job-meta">
-<dt>Location</dt><dd>Zurich, Switzerland, Switzerland, Europe (ex UK)</dd>
-<dt>Role type</dt><dd>Full-time</dd>
-<dt>Experience</dt><dd>Mid (5-9 years experience), Senior (10+ years experience)</dd>
-<dt>Degree</dt><dd>Undergraduate degree or less</dd>
-</dl>
-
-**Areas & skills:** AI safety & policy, Software engineering, Information security
+**Areas & skills:** AI safety & policy
 
 ## Summary
 - In this role, you'll produce actionable threat intelligence driving detections, hunts, and defensive priorities at a frontier AI lab.

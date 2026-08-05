@@ -2,7 +2,7 @@
 title: "Volunteer"
 employer: "AI Alignment Network"
 job_id: "recFBfwll5C7BzeJI"
-last_updated: "2026-08-04T05:33:10.749391Z"
+last_updated: "2026-08-05T05:33:12.135953Z"
 posted_at: "2022-01-06T00:00:00Z"
 status: ready
 apply_url: "https://www.aialign.net/recruit"
@@ -33,4 +33,4 @@ areas:
 <p class="apply-cta"><a href="https://www.aialign.net/recruit">Apply →</a></p>
 
 ---
-*Posted 2022-01-06 · Listing synced 2026-08-04 · 80k job ID `recFBfwll5C7BzeJI`*
+*Posted 2022-01-06 · Listing synced 2026-08-05 · 80k job ID `recFBfwll5C7BzeJI`*

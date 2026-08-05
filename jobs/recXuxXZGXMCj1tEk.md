@@ -2,22 +2,27 @@
 title: "Infrastructure Engineer, Technical AI Safety"
 employer: "Centre for Long-Term Resilience"
 job_id: "recXuxXZGXMCj1tEk"
-last_updated: "2026-08-03T05:31:58.343683Z"
+last_updated: "2026-08-05T05:32:12.716661Z"
 posted_at: "2026-07-22T00:04:17Z"
-status: closed
-closed_at: "2026-08-04"
+status: ready
 apply_url: "https://www.longtermresilience.org/technical-ai-safety-infrastructure-engineer/"
 areas:
   - "AI safety & policy"
 ---
 
-> ⚠️ **CLOSED on 2026-08-04** — this job is no longer listed on the 80,000 Hours board. Archived snapshot below.
-
 # Infrastructure Engineer, Technical AI Safety
 
-**Centre for Long-Term Resilience**
+**[Centre for Long-Term Resilience](https://www.longtermresilience.org/)**
 
-**Areas & skills:** AI safety & policy
+<dl class="job-meta">
+<dt>Location</dt><dd>London, UK, Remote, Global, UK</dd>
+<dt>Role type</dt><dd>Full-time</dd>
+<dt>Experience</dt><dd>Junior (1-4 years experience), Mid (5-9 years experience)</dd>
+<dt>Degree</dt><dd>Undergraduate degree or less</dd>
+<dt>Salary</dt><dd>$94,187 – $100,914</dd>
+</dl>
+
+**Areas & skills:** AI safety & policy, Software engineering
 
 ## Summary
 - In this role, you'll maintain and scale infrastructure for the Loss of Control Observatory, a platform monitoring uncontrolled AI systems through data pipelines, classification systems, and dashboards.
@@ -28,4 +33,4 @@ areas:
 <p class="apply-cta"><a href="https://www.longtermresilience.org/technical-ai-safety-infrastructure-engineer/">Apply →</a></p>
 
 ---
-*Posted 2026-07-22 · Listing synced 2026-08-03 · 80k job ID `recXuxXZGXMCj1tEk`*
+*Posted 2026-07-22 · Listing synced 2026-08-05 · 80k job ID `recXuxXZGXMCj1tEk`*

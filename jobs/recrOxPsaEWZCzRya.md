@@ -2,7 +2,7 @@
 title: "Scientific Project Reviewers"
 employer: "Carbon Direct"
 job_id: "recrOxPsaEWZCzRya"
-last_updated: "2026-08-04T05:33:37.789467Z"
+last_updated: "2026-08-05T05:33:36.891670Z"
 posted_at: "2022-01-02T00:00:00Z"
 status: ready
 apply_url: "https://job-boards.greenhouse.io/carbondirect/jobs/4192394007"
@@ -32,4 +32,4 @@ areas:
 <p class="apply-cta"><a href="https://job-boards.greenhouse.io/carbondirect/jobs/4192394007">Apply →</a></p>
 
 ---
-*Posted 2022-01-02 · Listing synced 2026-08-04 · 80k job ID `recrOxPsaEWZCzRya`*
+*Posted 2022-01-02 · Listing synced 2026-08-05 · 80k job ID `recrOxPsaEWZCzRya`*

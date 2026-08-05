@@ -2,7 +2,7 @@
 title: "Fundraising Lead"
 employer: "Founders Pledge"
 job_id: "rec9UENbIb8KcFnQe"
-last_updated: "2026-08-04T05:31:59.667947Z"
+last_updated: "2026-08-05T05:32:01.090119Z"
 posted_at: "2026-07-30T00:02:00Z"
 status: ready
 apply_url: "https://careers.founderspledge.com/jobs/8139153-fundraising-lead"
@@ -19,7 +19,7 @@ areas:
 <dt>Role type</dt><dd>Full-time</dd>
 <dt>Experience</dt><dd>Junior (1-4 years experience), Mid (5-9 years experience)</dd>
 <dt>Degree</dt><dd>Undergraduate degree or less</dd>
-<dt>Salary</dt><dd>$87,261 – $93,973</dd>
+<dt>Salary</dt><dd>$87,459 – $94,187</dd>
 </dl>
 
 **Areas & skills:** Building effective altruism, Outreach
@@ -34,4 +34,4 @@ areas:
 <p class="apply-cta"><a href="https://careers.founderspledge.com/jobs/8139153-fundraising-lead">Apply →</a></p>
 
 ---
-*Posted 2026-07-30 · Listing synced 2026-08-04 · 80k job ID `rec9UENbIb8KcFnQe`*
+*Posted 2026-07-30 · Listing synced 2026-08-05 · 80k job ID `rec9UENbIb8KcFnQe`*

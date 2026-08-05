@@ -2,7 +2,7 @@
 title: "Events Specialist"
 employer: "Constellation"
 job_id: "rec4q6FqUVjwq8lZE"
-last_updated: "2026-08-04T05:32:52.254349Z"
+last_updated: "2026-08-05T05:32:53.718770Z"
 posted_at: "2026-05-25T00:04:00Z"
 status: ready
 apply_url: "https://jobs.gem.com/constellation-institute/am9icG9zdDo5K7MqF6_-ZQUxCbsHvORj"
@@ -34,4 +34,4 @@ areas:
 <p class="apply-cta"><a href="https://jobs.gem.com/constellation-institute/am9icG9zdDo5K7MqF6_-ZQUxCbsHvORj">Apply →</a></p>
 
 ---
-*Posted 2026-05-25 · Listing synced 2026-08-04 · 80k job ID `rec4q6FqUVjwq8lZE`*
+*Posted 2026-05-25 · Listing synced 2026-08-05 · 80k job ID `rec4q6FqUVjwq8lZE`*

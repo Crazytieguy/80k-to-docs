@@ -2,7 +2,7 @@
 title: "Deputy Communications Director"
 employer: "The AI Policy Network"
 job_id: "recAk718NCJoIZ2TH"
-last_updated: "2026-08-04T05:32:42.592632Z"
+last_updated: "2026-08-05T05:32:43.392554Z"
 posted_at: "2026-06-11T00:02:00Z"
 status: ready
 apply_url: "https://theaipn.org/careers/deputy-communications-director/"
@@ -34,4 +34,4 @@ areas:
 <p class="apply-cta"><a href="https://theaipn.org/careers/deputy-communications-director/">Apply →</a></p>
 
 ---
-*Posted 2026-06-11 · Listing synced 2026-08-04 · 80k job ID `recAk718NCJoIZ2TH`*
+*Posted 2026-06-11 · Listing synced 2026-08-05 · 80k job ID `recAk718NCJoIZ2TH`*

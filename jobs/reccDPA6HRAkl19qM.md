@@ -2,7 +2,7 @@
 title: "Team Member, Scaling Safe Autonomous Organizations"
 employer: "Andon Labs"
 job_id: "reccDPA6HRAkl19qM"
-last_updated: "2026-08-04T05:32:04.526727Z"
+last_updated: "2026-08-05T05:32:06.803184Z"
 posted_at: "2026-07-28T00:00:00Z"
 status: ready
 apply_url: "https://andonlabs.notion.site/32851e560a95816d8df3feb0dd3cba75"
@@ -34,4 +34,4 @@ areas:
 <p class="apply-cta"><a href="https://andonlabs.notion.site/32851e560a95816d8df3feb0dd3cba75">Apply →</a></p>
 
 ---
-*Posted 2026-07-28 · Listing synced 2026-08-04 · 80k job ID `reccDPA6HRAkl19qM`*
+*Posted 2026-07-28 · Listing synced 2026-08-05 · 80k job ID `reccDPA6HRAkl19qM`*

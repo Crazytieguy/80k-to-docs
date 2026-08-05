@@ -2,7 +2,7 @@
 title: "Product Engineer"
 employer: "Lucid Computing"
 job_id: "rec8ZzxhvyaZ3m606"
-last_updated: "2026-08-04T05:31:52.748179Z"
+last_updated: "2026-08-05T05:31:53.204940Z"
 posted_at: "2026-08-03T00:00:00Z"
 status: ready
 apply_url: "https://lucidcomputing.ai/careers#product-engineer"
@@ -33,4 +33,4 @@ areas:
 <p class="apply-cta"><a href="https://lucidcomputing.ai/careers#product-engineer">Apply →</a></p>
 
 ---
-*Posted 2026-08-03 · Listing synced 2026-08-04 · 80k job ID `rec8ZzxhvyaZ3m606`*
+*Posted 2026-08-03 · Listing synced 2026-08-05 · 80k job ID `rec8ZzxhvyaZ3m606`*

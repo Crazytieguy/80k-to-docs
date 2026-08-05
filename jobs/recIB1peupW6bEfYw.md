@@ -2,7 +2,7 @@
 title: "Student Employee, CBWNet Project"
 employer: "University of Hamburg, Institute for Peace Research and Security Policy"
 job_id: "recIB1peupW6bEfYw"
-last_updated: "2026-08-04T05:32:16.756592Z"
+last_updated: "2026-08-05T05:32:19.507271Z"
 posted_at: "2026-07-16T00:00:00Z"
 status: ready
 apply_url: "https://www.ifsh.de/karriere/details/job/studentischer-angestellter-im-projekt-cbwnet-2490761"
@@ -33,4 +33,4 @@ areas:
 <p class="apply-cta"><a href="https://www.ifsh.de/karriere/details/job/studentischer-angestellter-im-projekt-cbwnet-2490761">Apply →</a></p>
 
 ---
-*Posted 2026-07-16 · Listing synced 2026-08-04 · 80k job ID `recIB1peupW6bEfYw`*
+*Posted 2026-07-16 · Listing synced 2026-08-05 · 80k job ID `recIB1peupW6bEfYw`*

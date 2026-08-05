@@ -2,7 +2,7 @@
 title: "Finance Operations Associate / Lead"
 employer: "Coefficient Giving"
 job_id: "recBLajuq9vIAcDqu"
-last_updated: "2026-08-04T05:32:08.071095Z"
+last_updated: "2026-08-05T05:32:10.753847Z"
 posted_at: "2026-07-24T00:04:03Z"
 status: ready
 apply_url: "https://jobs.ashbyhq.com/coefficientgiving/35d8cb34-2db3-4be4-8ad3-c94ec3bc7868"
@@ -34,4 +34,4 @@ areas:
 <p class="apply-cta"><a href="https://jobs.ashbyhq.com/coefficientgiving/35d8cb34-2db3-4be4-8ad3-c94ec3bc7868">Apply →</a></p>
 
 ---
-*Posted 2026-07-24 · Listing synced 2026-08-04 · 80k job ID `recBLajuq9vIAcDqu`*
+*Posted 2026-07-24 · Listing synced 2026-08-05 · 80k job ID `recBLajuq9vIAcDqu`*

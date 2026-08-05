@@ -2,7 +2,7 @@
 title: "Research Resident, Emerging Technology and Security, Open Source"
 employer: "RAND Corporation"
 job_id: "recqe3JwI2itJPjGq"
-last_updated: "2026-08-04T05:31:56.917184Z"
+last_updated: "2026-08-05T05:31:58.235391Z"
 posted_at: "2026-07-31T00:04:16Z"
 status: ready
 apply_url: "https://rand.wd5.myworkdayjobs.com/en-US/External_Career_Site/job/Washington-DC-DC-Metro-Area/Open-Source-Research-Resident--Emerging-Technology---Security_R3599"
@@ -35,4 +35,4 @@ areas:
 <p class="apply-cta"><a href="https://rand.wd5.myworkdayjobs.com/en-US/External_Career_Site/job/Washington-DC-DC-Metro-Area/Open-Source-Research-Resident--Emerging-Technology---Security_R3599">Apply →</a></p>
 
 ---
-*Posted 2026-07-31 · Listing synced 2026-08-04 · 80k job ID `recqe3JwI2itJPjGq`*
+*Posted 2026-07-31 · Listing synced 2026-08-05 · 80k job ID `recqe3JwI2itJPjGq`*

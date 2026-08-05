@@ -4,25 +4,20 @@ employer: "Cogent"
 job_id: "recJVJAR3qNybHXWs"
 last_updated: "2026-08-04T05:32:38.680103Z"
 posted_at: "2026-06-17T00:00:00Z"
-status: ready
+status: closed
+closed_at: "2026-08-05"
 apply_url: "https://jobs.ashbyhq.com/cogent-security/e8314a0f-df06-40b6-9c56-3d97ea53f25a"
 areas:
   - "Career development: Technical"
 ---
 
+> ⚠️ **CLOSED on 2026-08-05** — this job is no longer listed on the 80,000 Hours board. Archived snapshot below.
+
 # Member of Technical Staff,  AI Fellowship
 
-**[Cogent](https://www.cogent.com/)**
+**Cogent**
 
-<dl class="job-meta">
-<dt>Location</dt><dd>San Francisco Bay Area, USA</dd>
-<dt>Role type</dt><dd>Fellowship</dd>
-<dt>Experience</dt><dd>Entry-level</dd>
-<dt>Degree</dt><dd>Doctoral degree</dd>
-<dt>Salary</dt><dd>$100,000 – $300,000</dd>
-</dl>
-
-**Areas & skills:** Career development: Technical, Research, Information security
+**Areas & skills:** Career development: Technical
 
 ## Summary
 - In this role, you'll pursue research at the intersection of AI and formal methods, taking ideas from prototype to production systems for cybersecurity.

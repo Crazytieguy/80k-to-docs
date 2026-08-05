@@ -2,7 +2,7 @@
 title: "Operations Associate / Manager"
 employer: "Forethought"
 job_id: "recqsvh9DXtDBKTSl"
-last_updated: "2026-08-04T05:31:58.855745Z"
+last_updated: "2026-08-05T05:32:00.165406Z"
 posted_at: "2026-07-30T00:04:12Z"
 status: ready
 apply_url: "https://www.forethought.org/careers/operations-associate-manager-q3-2026"
@@ -19,7 +19,7 @@ areas:
 <dt>Role type</dt><dd>Full-time</dd>
 <dt>Experience</dt><dd>Junior (1-4 years experience), Entry-level</dd>
 <dt>Degree</dt><dd>Undergraduate degree or less</dd>
-<dt>Salary</dt><dd>$100,686 – $134,247</dd>
+<dt>Salary</dt><dd>$100,914 – $134,553</dd>
 </dl>
 
 **Areas & skills:** AI safety & policy, Operations
@@ -34,4 +34,4 @@ areas:
 <p class="apply-cta"><a href="https://www.forethought.org/careers/operations-associate-manager-q3-2026">Apply →</a></p>
 
 ---
-*Posted 2026-07-30 · Listing synced 2026-08-04 · 80k job ID `recqsvh9DXtDBKTSl`*
+*Posted 2026-07-30 · Listing synced 2026-08-05 · 80k job ID `recqsvh9DXtDBKTSl`*

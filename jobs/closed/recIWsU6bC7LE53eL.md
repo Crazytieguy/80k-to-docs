@@ -4,24 +4,20 @@ employer: "PauseAI"
 job_id: "recIWsU6bC7LE53eL"
 last_updated: "2026-08-04T05:32:33.333179Z"
 posted_at: "2026-07-01T00:00:00Z"
-status: ready
+status: closed
+closed_at: "2026-08-05"
 apply_url: "https://pauseai.info/vacancies"
 areas:
   - "AI safety & policy"
 ---
 
+> ⚠️ **CLOSED on 2026-08-05** — this job is no longer listed on the 80,000 Hours board. Archived snapshot below.
+
 # Volunteer, Video Editor
 
-**[PauseAI](https://pauseai.info/)**
+**PauseAI**
 
-<dl class="job-meta">
-<dt>Location</dt><dd>Remote, Global</dd>
-<dt>Role type</dt><dd>Volunteering</dd>
-<dt>Experience</dt><dd>Entry-level</dd>
-<dt>Degree</dt><dd>Undergraduate degree or less</dd>
-</dl>
-
-**Areas & skills:** AI safety & policy, Other
+**Areas & skills:** AI safety & policy
 
 ## Summary
 - In this role, you'll produce compelling video content for campaigns, advocacy communications and key event coverage.

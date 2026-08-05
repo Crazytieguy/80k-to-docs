@@ -4,26 +4,21 @@ employer: "Alice"
 job_id: "recrOG5qIxWhsf4NK"
 last_updated: "2026-08-04T05:32:00.038047Z"
 posted_at: "2026-07-30T00:01:00Z"
-status: ready
+status: closed
+closed_at: "2026-08-05"
 apply_url: "https://alice.io/positions/position-61_f63"
 areas:
   - "AI safety & policy"
   - "Biosecurity & pandemic preparedness"
 ---
 
+> ⚠️ **CLOSED on 2026-08-05** — this job is no longer listed on the 80,000 Hours board. Archived snapshot below.
+
 # GenAI Chemical, Biological, Radiological, and Nuclear Expert
 
-**[Alice](https://alice.io/)**
+**Alice**
 
-<dl class="job-meta">
-<dt>Location</dt><dd>Remote, Global</dd>
-<dt>Role type</dt><dd>Full-time</dd>
-<dt>Experience</dt><dd>Multiple experience levels</dd>
-<dt>Degree</dt><dd>Master's degree</dd>
-<dt>Salary</dt><dd>$146,000 – $155,000</dd>
-</dl>
-
-**Areas & skills:** AI safety & policy, Biosecurity & pandemic preparedness, Research, Information security
+**Areas & skills:** AI safety & policy, Biosecurity & pandemic preparedness
 
 ## Summary
 - In this role, you'll ensure the safety and integrity of Generative AI systems by creating domain-specific CBRN prompts and evaluating AI-generated responses.

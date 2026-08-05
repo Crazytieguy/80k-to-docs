@@ -2,7 +2,7 @@
 title: "Program Associate / Program Manager, Policy and Leadership Network"
 employer: "Horizon Institute for Public Service"
 job_id: "recM9pBJwA711zVua"
-last_updated: "2026-08-04T05:31:55.734902Z"
+last_updated: "2026-08-05T05:31:57.007959Z"
 posted_at: "2026-07-31T00:04:31Z"
 status: ready
 apply_url: "https://horizonpublicservice.org/program-associate-program-manager-policy-and-leadership-network/"
@@ -34,4 +34,4 @@ areas:
 <p class="apply-cta"><a href="https://horizonpublicservice.org/program-associate-program-manager-policy-and-leadership-network/">Apply →</a></p>
 
 ---
-*Posted 2026-07-31 · Listing synced 2026-08-04 · 80k job ID `recM9pBJwA711zVua`*
+*Posted 2026-07-31 · Listing synced 2026-08-05 · 80k job ID `recM9pBJwA711zVua`*

@@ -2,7 +2,7 @@
 title: "Speculative Application"
 employer: "Animal Equality"
 job_id: "recXMPHlc9Ep1Kdir"
-last_updated: "2026-08-04T05:33:32.710599Z"
+last_updated: "2026-08-05T05:33:33.399297Z"
 posted_at: "2022-01-03T00:00:00Z"
 status: ready
 apply_url: "https://animal-equality-germany-ev.jobs.personio.de/job/1359239?language=de%3Flanguage%3D"
@@ -29,4 +29,4 @@ areas:
 <p class="apply-cta"><a href="https://animal-equality-germany-ev.jobs.personio.de/job/1359239?language=de%3Flanguage%3D">Apply →</a></p>
 
 ---
-*Posted 2022-01-03 · Listing synced 2026-08-04 · 80k job ID `recXMPHlc9Ep1Kdir`*
+*Posted 2022-01-03 · Listing synced 2026-08-05 · 80k job ID `recXMPHlc9Ep1Kdir`*

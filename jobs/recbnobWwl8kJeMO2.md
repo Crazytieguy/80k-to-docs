@@ -2,7 +2,7 @@
 title: "Program Associate"
 employer: "GiveWell"
 job_id: "recbnobWwl8kJeMO2"
-last_updated: "2026-08-04T05:33:06.468900Z"
+last_updated: "2026-08-05T05:33:07.910763Z"
 posted_at: "2022-01-08T00:00:00Z"
 status: ready
 apply_url: "https://job-boards.greenhouse.io/givewell/jobs/4944026008"
@@ -33,4 +33,4 @@ areas:
 <p class="apply-cta"><a href="https://job-boards.greenhouse.io/givewell/jobs/4944026008">Apply →</a></p>
 
 ---
-*Posted 2022-01-08 · Listing synced 2026-08-04 · 80k job ID `recbnobWwl8kJeMO2`*
+*Posted 2022-01-08 · Listing synced 2026-08-05 · 80k job ID `recbnobWwl8kJeMO2`*

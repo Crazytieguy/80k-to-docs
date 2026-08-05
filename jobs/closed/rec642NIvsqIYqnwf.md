@@ -4,25 +4,20 @@ employer: "MITRE"
 job_id: "rec642NIvsqIYqnwf"
 last_updated: "2026-08-04T05:32:38.120808Z"
 posted_at: "2026-06-19T00:00:00Z"
-status: ready
+status: closed
+closed_at: "2026-08-05"
 apply_url: "https://careers.mitre.org/us/en/job/R116847/Senior-Scientist"
 areas:
   - "Biosecurity & pandemic preparedness"
 ---
 
+> ⚠️ **CLOSED on 2026-08-05** — this job is no longer listed on the 80,000 Hours board. Archived snapshot below.
+
 # Senior Scientist, Biodefense and Biosecurity
 
-**[MITRE](https://www.mitre.org/)**
+**MITRE**
 
-<dl class="job-meta">
-<dt>Location</dt><dd>Washington, DC metro area, USA</dd>
-<dt>Role type</dt><dd>Full-time</dd>
-<dt>Experience</dt><dd>Mid (5-9 years experience)</dd>
-<dt>Degree</dt><dd>Undergraduate degree or less</dd>
-<dt>Salary</dt><dd>$119,500 – $179,500</dd>
-</dl>
-
-**Areas & skills:** Biosecurity & pandemic preparedness, Research, Policy
+**Areas & skills:** Biosecurity & pandemic preparedness
 
 ## Summary
 - In this role, you'll lead biodefense and biosecurity initiatives, assessing biological threats and developing solutions for government sponsors.
