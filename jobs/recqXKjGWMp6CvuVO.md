@@ -2,7 +2,7 @@
 title: "Hellman and Simons Fellow, Science, Engineering, and Technology"
 employer: "American Academy of Arts and Sciences"
 job_id: "recqXKjGWMp6CvuVO"
-last_updated: "2026-08-05T05:32:52.922331Z"
+last_updated: "2026-08-06T05:33:48.848273Z"
 posted_at: "2026-05-26T00:00:00Z"
 status: ready
 apply_url: "https://www.amacad.org/career/hellman-and-simons-fellow-science-engineering-technology"
@@ -34,4 +34,4 @@ areas:
 <p class="apply-cta"><a href="https://www.amacad.org/career/hellman-and-simons-fellow-science-engineering-technology">Apply →</a></p>
 
 ---
-*Posted 2026-05-26 · Listing synced 2026-08-05 · 80k job ID `recqXKjGWMp6CvuVO`*
+*Posted 2026-05-26 · Listing synced 2026-08-06 · 80k job ID `recqXKjGWMp6CvuVO`*

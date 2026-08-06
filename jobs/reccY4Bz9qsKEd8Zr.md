@@ -2,7 +2,7 @@
 title: "ML Engineer, AI Risk Initiative"
 employer: "Massachusetts Institute of Technology, FutureTech"
 job_id: "reccY4Bz9qsKEd8Zr"
-last_updated: "2026-08-05T05:33:18.835271Z"
+last_updated: "2026-08-06T05:34:15.822778Z"
 posted_at: "2022-01-06T00:00:00Z"
 status: ready
 apply_url: "https://forum.effectivealtruism.org/posts/QmLSW3yGXFayNcNgx/ml-engineer-mit-ai-risk-initiative-contractor-part-time-6"
@@ -33,4 +33,4 @@ areas:
 <p class="apply-cta"><a href="https://forum.effectivealtruism.org/posts/QmLSW3yGXFayNcNgx/ml-engineer-mit-ai-risk-initiative-contractor-part-time-6">Apply →</a></p>
 
 ---
-*Posted 2022-01-06 · Listing synced 2026-08-05 · 80k job ID `reccY4Bz9qsKEd8Zr`*
+*Posted 2022-01-06 · Listing synced 2026-08-06 · 80k job ID `reccY4Bz9qsKEd8Zr`*

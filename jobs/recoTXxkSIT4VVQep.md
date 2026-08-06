@@ -2,7 +2,7 @@
 title: "Internship Program"
 employer: "Singapore Institute of International Affairs"
 job_id: "recoTXxkSIT4VVQep"
-last_updated: "2026-08-05T05:33:43.325429Z"
+last_updated: "2026-08-06T05:34:40.563751Z"
 posted_at: "2022-01-02T00:00:00Z"
 status: ready
 apply_url: "https://www.siiaonline.org/work-at-siia/"
@@ -15,7 +15,7 @@ areas:
 **[Singapore Institute of International Affairs](http://www.siiaonline.org/)**
 
 <dl class="job-meta">
-<dt>Location</dt><dd>Singapore, Singapore, Singapore, Asia</dd>
+<dt>Location</dt><dd>Singapore, Singapore, Asia, Singapore</dd>
 <dt>Role type</dt><dd>Internship</dd>
 <dt>Experience</dt><dd>Entry-level</dd>
 <dt>Degree</dt><dd>Undergraduate degree or less</dd>
@@ -33,4 +33,4 @@ areas:
 <p class="apply-cta"><a href="https://www.siiaonline.org/work-at-siia/">Apply →</a></p>
 
 ---
-*Posted 2022-01-02 · Listing synced 2026-08-05 · 80k job ID `recoTXxkSIT4VVQep`*
+*Posted 2022-01-02 · Listing synced 2026-08-06 · 80k job ID `recoTXxkSIT4VVQep`*

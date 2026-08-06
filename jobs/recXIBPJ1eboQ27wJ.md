@@ -2,7 +2,7 @@
 title: "Research Intern, Technology and National Security (Fall 2026)"
 employer: "Hudson Institute"
 job_id: "recXIBPJ1eboQ27wJ"
-last_updated: "2026-08-05T05:32:25.115072Z"
+last_updated: "2026-08-06T05:33:22.675330Z"
 posted_at: "2026-07-10T00:00:00Z"
 status: ready
 apply_url: "https://recruiting.paylocity.com/Recruiting/Jobs/Details/4319505"
@@ -33,4 +33,4 @@ areas:
 <p class="apply-cta"><a href="https://recruiting.paylocity.com/Recruiting/Jobs/Details/4319505">Apply →</a></p>
 
 ---
-*Posted 2026-07-10 · Listing synced 2026-08-05 · 80k job ID `recXIBPJ1eboQ27wJ`*
+*Posted 2026-07-10 · Listing synced 2026-08-06 · 80k job ID `recXIBPJ1eboQ27wJ`*

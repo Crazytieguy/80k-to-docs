@@ -4,24 +4,20 @@ employer: "University of Hamburg, Institute for Peace Research and Security Poli
 job_id: "recIB1peupW6bEfYw"
 last_updated: "2026-08-05T05:32:19.507271Z"
 posted_at: "2026-07-16T00:00:00Z"
-status: ready
+status: closed
+closed_at: "2026-08-06"
 apply_url: "https://www.ifsh.de/karriere/details/job/studentischer-angestellter-im-projekt-cbwnet-2490761"
 areas:
   - "Biosecurity & pandemic preparedness"
 ---
 
+> ⚠️ **CLOSED on 2026-08-06** — this job is no longer listed on the 80,000 Hours board. Archived snapshot below.
+
 # Student Employee, CBWNet Project
 
-**[University of Hamburg, Institute for Peace Research and Security Policy](https://ifsh.de/)**
+**University of Hamburg, Institute for Peace Research and Security Policy**
 
-<dl class="job-meta">
-<dt>Location</dt><dd>Berlin, Germany, Germany, Europe (ex UK)</dd>
-<dt>Role type</dt><dd>Full-time</dd>
-<dt>Experience</dt><dd>Entry-level</dd>
-<dt>Degree</dt><dd>Undergraduate degree or less</dd>
-</dl>
-
-**Areas & skills:** Biosecurity & pandemic preparedness, Operations
+**Areas & skills:** Biosecurity & pandemic preparedness
 
 ## Summary
 - In this role, you'll support the organisational and administrative work of the CBWNet project on strengthening chemical and biological weapons control norms.

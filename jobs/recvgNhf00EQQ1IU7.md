@@ -2,7 +2,7 @@
 title: "National Security Lead, UK and Europe"
 employer: "Google DeepMind"
 job_id: "recvgNhf00EQQ1IU7"
-last_updated: "2026-08-05T05:32:17.936054Z"
+last_updated: "2026-08-06T05:33:16.126901Z"
 posted_at: "2026-07-17T00:00:00Z"
 status: ready
 apply_url: "https://www.google.com/about/careers/applications/jobs/results/98478468739539654-uk-and-europe-national-security-lead-deepmind?q=%22responsible+ai%22&has_remote=false&distance=50&hl=en_US&jlo=en_US"
@@ -33,4 +33,4 @@ areas:
 <p class="apply-cta"><a href="https://www.google.com/about/careers/applications/jobs/results/98478468739539654-uk-and-europe-national-security-lead-deepmind?q=%22responsible+ai%22&amp;has_remote=false&amp;distance=50&amp;hl=en_US&amp;jlo=en_US">Apply →</a></p>
 
 ---
-*Posted 2026-07-17 · Listing synced 2026-08-05 · 80k job ID `recvgNhf00EQQ1IU7`*
+*Posted 2026-07-17 · Listing synced 2026-08-06 · 80k job ID `recvgNhf00EQQ1IU7`*

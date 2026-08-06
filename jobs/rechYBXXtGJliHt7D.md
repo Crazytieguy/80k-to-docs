@@ -2,7 +2,7 @@
 title: "Research Engineer / Scientist, Frontier Red Team, Cyber"
 employer: "Anthropic"
 job_id: "rechYBXXtGJliHt7D"
-last_updated: "2026-08-05T05:33:02.368531Z"
+last_updated: "2026-08-06T05:33:57.450654Z"
 posted_at: "2022-01-11T00:00:00Z"
 status: ready
 apply_url: "https://job-boards.greenhouse.io/anthropic/jobs/5076477008"
@@ -34,4 +34,4 @@ areas:
 <p class="apply-cta"><a href="https://job-boards.greenhouse.io/anthropic/jobs/5076477008">Apply →</a></p>
 
 ---
-*Posted 2022-01-11 · Listing synced 2026-08-05 · 80k job ID `rechYBXXtGJliHt7D`*
+*Posted 2022-01-11 · Listing synced 2026-08-06 · 80k job ID `rechYBXXtGJliHt7D`*

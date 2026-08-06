@@ -2,7 +2,7 @@
 title: "Intern, South and Central Asian Defence Strategy and Diplomacy Programme"
 employer: "International Institute for Strategic Studies"
 job_id: "recstPomKN05v2jZt"
-last_updated: "2026-08-05T05:32:12.086277Z"
+last_updated: "2026-08-06T05:33:10.726039Z"
 posted_at: "2026-07-23T00:00:00Z"
 status: ready
 apply_url: "https://www.iiss.org/careers/jobs/2026/07/internship-in-the-south-and-central-asian-defence-strategy-and-diplomacy-programme/"
@@ -32,4 +32,4 @@ areas:
 <p class="apply-cta"><a href="https://www.iiss.org/careers/jobs/2026/07/internship-in-the-south-and-central-asian-defence-strategy-and-diplomacy-programme/">Apply →</a></p>
 
 ---
-*Posted 2026-07-23 · Listing synced 2026-08-05 · 80k job ID `recstPomKN05v2jZt`*
+*Posted 2026-07-23 · Listing synced 2026-08-06 · 80k job ID `recstPomKN05v2jZt`*

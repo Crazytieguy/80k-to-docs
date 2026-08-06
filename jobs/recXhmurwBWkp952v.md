@@ -2,7 +2,7 @@
 title: "Young Scientist / Young Researcher, Large-Scale Model Attack and Defense"
 employer: "Shanghai Artificial Intelligence Laboratory"
 job_id: "recXhmurwBWkp952v"
-last_updated: "2026-08-05T05:33:11.209702Z"
+last_updated: "2026-08-06T05:34:07.973005Z"
 posted_at: "2022-01-07T00:00:00Z"
 status: ready
 apply_url: "https://www.shlab.org.cn/joinus/detail/7562520187132643647"
@@ -33,4 +33,4 @@ areas:
 <p class="apply-cta"><a href="https://www.shlab.org.cn/joinus/detail/7562520187132643647">Apply →</a></p>
 
 ---
-*Posted 2022-01-07 · Listing synced 2026-08-05 · 80k job ID `recXhmurwBWkp952v`*
+*Posted 2022-01-07 · Listing synced 2026-08-06 · 80k job ID `recXhmurwBWkp952v`*

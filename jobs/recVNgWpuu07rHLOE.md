@@ -2,7 +2,7 @@
 title: "Senior Strategist, AI Governance Field Coordination"
 employer: "Future Matters"
 job_id: "recVNgWpuu07rHLOE"
-last_updated: "2026-08-05T05:32:03.219100Z"
+last_updated: "2026-08-06T05:33:03.269566Z"
 posted_at: "2026-07-29T00:01:00Z"
 status: ready
 apply_url: "https://careers.future-matters.org/40653"
@@ -34,4 +34,4 @@ areas:
 <p class="apply-cta"><a href="https://careers.future-matters.org/40653">Apply →</a></p>
 
 ---
-*Posted 2026-07-29 · Listing synced 2026-08-05 · 80k job ID `recVNgWpuu07rHLOE`*
+*Posted 2026-07-29 · Listing synced 2026-08-06 · 80k job ID `recVNgWpuu07rHLOE`*

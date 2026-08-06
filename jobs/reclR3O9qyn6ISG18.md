@@ -2,7 +2,7 @@
 title: "Logistics Manager"
 employer: "SecureBio"
 job_id: "reclR3O9qyn6ISG18"
-last_updated: "2026-08-05T05:32:11.075183Z"
+last_updated: "2026-08-06T05:33:09.707749Z"
 posted_at: "2026-07-24T00:04:00Z"
 status: ready
 apply_url: "https://securebio.org/careers/2026-logistics-manager"
@@ -34,4 +34,4 @@ areas:
 <p class="apply-cta"><a href="https://securebio.org/careers/2026-logistics-manager">Apply →</a></p>
 
 ---
-*Posted 2026-07-24 · Listing synced 2026-08-05 · 80k job ID `reclR3O9qyn6ISG18`*
+*Posted 2026-07-24 · Listing synced 2026-08-06 · 80k job ID `reclR3O9qyn6ISG18`*

@@ -4,25 +4,20 @@ employer: "OpenAI"
 job_id: "recG60IscfVSHZIln"
 last_updated: "2026-08-05T05:32:46.284357Z"
 posted_at: "2026-06-09T00:00:00Z"
-status: ready
+status: closed
+closed_at: "2026-08-06"
 apply_url: "https://openai.com/careers/product-policy-biosecurity-policy-manager-san-francisco/"
 areas:
   - "AI safety & policy"
 ---
 
+> ⚠️ **CLOSED on 2026-08-06** — this job is no longer listed on the 80,000 Hours board. Archived snapshot below.
+
 # Product Policy Manager, Biosecurity
 
-**[OpenAI](https://openai.com/)**
+**OpenAI**
 
-<dl class="job-meta">
-<dt>Location</dt><dd>San Francisco Bay Area, USA</dd>
-<dt>Role type</dt><dd>Full-time</dd>
-<dt>Experience</dt><dd>Mid (5-9 years experience)</dd>
-<dt>Degree</dt><dd>Undergraduate degree or less</dd>
-<dt>Salary</dt><dd>$261,000 – $290,000</dd>
-</dl>
-
-**Areas & skills:** AI safety & policy, Strategy
+**Areas & skills:** AI safety & policy
 
 ## Summary
 - In this role, you'll develop biosecurity policies enabling beneficial life sciences research while preventing biological misuse.

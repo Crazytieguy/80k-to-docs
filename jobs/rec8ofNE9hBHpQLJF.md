@@ -2,7 +2,7 @@
 title: "Machine Learning Infrastructure Engineer, Safeguards Research"
 employer: "Anthropic"
 job_id: "rec8ofNE9hBHpQLJF"
-last_updated: "2026-08-05T05:32:12.997834Z"
+last_updated: "2026-08-06T05:33:11.615342Z"
 posted_at: "2026-07-22T00:00:00Z"
 status: ready
 apply_url: "https://job-boards.greenhouse.io/anthropic/jobs/5364804008"
@@ -34,4 +34,4 @@ areas:
 <p class="apply-cta"><a href="https://job-boards.greenhouse.io/anthropic/jobs/5364804008">Apply →</a></p>
 
 ---
-*Posted 2026-07-22 · Listing synced 2026-08-05 · 80k job ID `rec8ofNE9hBHpQLJF`*
+*Posted 2026-07-22 · Listing synced 2026-08-06 · 80k job ID `rec8ofNE9hBHpQLJF`*

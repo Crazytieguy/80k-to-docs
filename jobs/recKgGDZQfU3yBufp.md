@@ -2,7 +2,7 @@
 title: "Junior Security Software Engineer"
 employer: "Openchip"
 job_id: "recKgGDZQfU3yBufp"
-last_updated: "2026-08-05T05:33:42.381841Z"
+last_updated: "2026-08-06T05:34:39.445802Z"
 posted_at: "2022-01-02T00:00:00Z"
 status: ready
 apply_url: "https://openchip.factorialhr.com/job_posting/junior-security-software-engineer-243261"
@@ -15,7 +15,7 @@ areas:
 **[Openchip](https://openchip.com/)**
 
 <dl class="job-meta">
-<dt>Location</dt><dd>Barcelona, Spain, Spain, Europe (ex UK)</dd>
+<dt>Location</dt><dd>Barcelona, Spain, Europe (ex UK), Spain</dd>
 <dt>Role type</dt><dd>Full-time</dd>
 <dt>Experience</dt><dd>Junior (1-4 years experience)</dd>
 <dt>Degree</dt><dd>Undergraduate degree or less</dd>
@@ -33,4 +33,4 @@ areas:
 <p class="apply-cta"><a href="https://openchip.factorialhr.com/job_posting/junior-security-software-engineer-243261">Apply →</a></p>
 
 ---
-*Posted 2022-01-02 · Listing synced 2026-08-05 · 80k job ID `recKgGDZQfU3yBufp`*
+*Posted 2022-01-02 · Listing synced 2026-08-06 · 80k job ID `recKgGDZQfU3yBufp`*

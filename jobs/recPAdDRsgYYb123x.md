@@ -2,7 +2,7 @@
 title: "Team Member, Model Policy, Frontier Cyber Risk"
 employer: "OpenAI"
 job_id: "recPAdDRsgYYb123x"
-last_updated: "2026-08-05T05:33:07.140357Z"
+last_updated: "2026-08-06T05:34:02.421477Z"
 posted_at: "2022-01-11T00:00:00Z"
 status: ready
 apply_url: "https://openai.com/careers/model-policy-frontier-cyber-risk-san-francisco/"
@@ -34,4 +34,4 @@ areas:
 <p class="apply-cta"><a href="https://openai.com/careers/model-policy-frontier-cyber-risk-san-francisco/">Apply →</a></p>
 
 ---
-*Posted 2022-01-11 · Listing synced 2026-08-05 · 80k job ID `recPAdDRsgYYb123x`*
+*Posted 2022-01-11 · Listing synced 2026-08-06 · 80k job ID `recPAdDRsgYYb123x`*

@@ -2,7 +2,7 @@
 title: "Specialist, US AI Policy"
 employer: "Simon Institute for Longterm Governance"
 job_id: "recjDKuHoOYWTVLFI"
-last_updated: "2026-08-05T05:32:23.142281Z"
+last_updated: "2026-08-06T05:33:20.767939Z"
 posted_at: "2026-07-13T00:04:07Z"
 status: ready
 apply_url: "https://simoninstitute.ch/jobs/us-ai-policy-specialist"
@@ -19,7 +19,7 @@ areas:
 <dt>Role type</dt><dd>Full-time</dd>
 <dt>Experience</dt><dd>Multiple experience levels</dd>
 <dt>Degree</dt><dd>Undergraduate degree or less</dd>
-<dt>Salary</dt><dd>$123,716 – $173,203</dd>
+<dt>Salary</dt><dd>$123,813 – $173,338</dd>
 </dl>
 
 **Areas & skills:** AI safety & policy, Research, Policy
@@ -34,4 +34,4 @@ areas:
 <p class="apply-cta"><a href="https://simoninstitute.ch/jobs/us-ai-policy-specialist">Apply →</a></p>
 
 ---
-*Posted 2026-07-13 · Listing synced 2026-08-05 · 80k job ID `recjDKuHoOYWTVLFI`*
+*Posted 2026-07-13 · Listing synced 2026-08-06 · 80k job ID `recjDKuHoOYWTVLFI`*

@@ -2,7 +2,7 @@
 title: "Opportunities, Latin America"
 employer: "Innovations for Poverty Action"
 job_id: "recT4KOxYfaio9ICB"
-last_updated: "2026-08-05T05:33:41.135048Z"
+last_updated: "2026-08-06T05:34:38.036839Z"
 posted_at: "2022-01-02T00:00:00Z"
 status: ready
 apply_url: "https://poverty-action.org/current-opportunities#:~:text=Latin%20America,-and%20North%20America"
@@ -15,7 +15,7 @@ areas:
 **[Innovations for Poverty Action](https://www.poverty-action.org)**
 
 <dl class="job-meta">
-<dt>Location</dt><dd>Colombia, Central America</dd>
+<dt>Location</dt><dd>Central America, Colombia</dd>
 <dt>Role type</dt><dd>Full-time</dd>
 <dt>Experience</dt><dd>Junior (1-4 years experience)</dd>
 <dt>Degree</dt><dd>Undergraduate degree or less</dd>
@@ -30,4 +30,4 @@ areas:
 <p class="apply-cta"><a href="https://poverty-action.org/current-opportunities#:~:text=Latin%20America,-and%20North%20America">Apply →</a></p>
 
 ---
-*Posted 2022-01-02 · Listing synced 2026-08-05 · 80k job ID `recT4KOxYfaio9ICB`*
+*Posted 2022-01-02 · Listing synced 2026-08-06 · 80k job ID `recT4KOxYfaio9ICB`*

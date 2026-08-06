@@ -4,24 +4,20 @@ employer: "US Government, Congressional Research Service"
 job_id: "recOYJ6G5JmPQeaEQ"
 last_updated: "2026-08-05T05:33:44.671998Z"
 posted_at: "2022-01-02T00:00:00Z"
-status: ready
+status: closed
+closed_at: "2026-08-06"
 apply_url: "https://www.loc.gov/crsinfo/opportunities/volunteer.html"
 areas:
   - "Career development: Policy & government"
 ---
 
+> ⚠️ **CLOSED on 2026-08-06** — this job is no longer listed on the 80,000 Hours board. Archived snapshot below.
+
 # Volunteer Internship Program
 
-**[US Government, Congressional Research Service](https://www.loc.gov/)**
+**US Government, Congressional Research Service**
 
-<dl class="job-meta">
-<dt>Location</dt><dd>Washington, DC metro area, USA</dd>
-<dt>Role type</dt><dd>Internship</dd>
-<dt>Experience</dt><dd>Entry-level</dd>
-<dt>Degree</dt><dd>Undergraduate degree or less</dd>
-</dl>
-
-**Areas & skills:** Career development: Policy & government, Research, Policy, Operations
+**Areas & skills:** Career development: Policy & government
 
 ## Summary
 - Internships range from three months to one year in duration.

@@ -2,7 +2,7 @@
 title: "Director, Policy and Leadership Network"
 employer: "Horizon Institute for Public Service"
 job_id: "recclc1Tef5kLZusM"
-last_updated: "2026-08-05T05:31:56.019718Z"
+last_updated: "2026-08-06T05:32:54.482763Z"
 posted_at: "2026-07-31T00:05:00Z"
 status: ready
 apply_url: "https://horizonpublicservice.org/director-policy-and-leadership-network/"
@@ -34,4 +34,4 @@ areas:
 <p class="apply-cta"><a href="https://horizonpublicservice.org/director-policy-and-leadership-network/">Apply →</a></p>
 
 ---
-*Posted 2026-07-31 · Listing synced 2026-08-05 · 80k job ID `recclc1Tef5kLZusM`*
+*Posted 2026-07-31 · Listing synced 2026-08-06 · 80k job ID `recclc1Tef5kLZusM`*

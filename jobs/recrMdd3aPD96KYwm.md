@@ -2,7 +2,7 @@
 title: "Research Scientist, System Security Researcher"
 employer: "Massachusetts Institute of Technology, Lincoln Laboratory"
 job_id: "recrMdd3aPD96KYwm"
-last_updated: "2026-08-05T05:33:41.645932Z"
+last_updated: "2026-08-06T05:34:38.636706Z"
 posted_at: "2022-01-02T00:00:00Z"
 status: ready
 apply_url: "https://careers.ll.mit.edu/job/Lexington-Research-Scientist-System-Security-Researcher-MA-02420/1328089000/"
@@ -33,4 +33,4 @@ areas:
 <p class="apply-cta"><a href="https://careers.ll.mit.edu/job/Lexington-Research-Scientist-System-Security-Researcher-MA-02420/1328089000/">Apply →</a></p>
 
 ---
-*Posted 2022-01-02 · Listing synced 2026-08-05 · 80k job ID `recrMdd3aPD96KYwm`*
+*Posted 2022-01-02 · Listing synced 2026-08-06 · 80k job ID `recrMdd3aPD96KYwm`*

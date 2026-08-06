@@ -2,7 +2,7 @@
 title: "Convenings Lead"
 employer: "Simon Institute for Longterm Governance"
 job_id: "recAu9sGuYULjj2Px"
-last_updated: "2026-08-05T05:32:10.014326Z"
+last_updated: "2026-08-06T05:33:08.897746Z"
 posted_at: "2026-07-24T00:04:58Z"
 status: ready
 apply_url: "https://simoninstitute.ch/jobs/convenings-lead"
@@ -19,7 +19,7 @@ areas:
 <dt>Role type</dt><dd>Full-time</dd>
 <dt>Experience</dt><dd>Junior (1-4 years experience), Mid (5-9 years experience)</dd>
 <dt>Degree</dt><dd>Undergraduate degree or less</dd>
-<dt>Salary</dt><dd>$128,665 – $178,152</dd>
+<dt>Salary</dt><dd>$128,765 – $178,291</dd>
 </dl>
 
 **Areas & skills:** AI safety & policy, Outreach, Operations
@@ -34,4 +34,4 @@ areas:
 <p class="apply-cta"><a href="https://simoninstitute.ch/jobs/convenings-lead">Apply →</a></p>
 
 ---
-*Posted 2026-07-24 · Listing synced 2026-08-05 · 80k job ID `recAu9sGuYULjj2Px`*
+*Posted 2026-07-24 · Listing synced 2026-08-06 · 80k job ID `recAu9sGuYULjj2Px`*

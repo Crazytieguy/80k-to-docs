@@ -2,7 +2,7 @@
 title: "Principal Expert / Group Leader, Emergency Preparedness and Response"
 employer: "European Union, Centre for Disease Prevention and Control"
 job_id: "rec4PIfhAEmR0jE1k"
-last_updated: "2026-08-05T05:32:31.483543Z"
+last_updated: "2026-08-06T05:33:28.625744Z"
 posted_at: "2026-07-03T00:00:00Z"
 status: ready
 apply_url: "https://erecruitment.ecdc.europa.eu/en/our-vacancies/principal-expert-group-leader-emergency-preparedness-and-response-175"
@@ -33,4 +33,4 @@ areas:
 <p class="apply-cta"><a href="https://erecruitment.ecdc.europa.eu/en/our-vacancies/principal-expert-group-leader-emergency-preparedness-and-response-175">Apply →</a></p>
 
 ---
-*Posted 2026-07-03 · Listing synced 2026-08-05 · 80k job ID `rec4PIfhAEmR0jE1k`*
+*Posted 2026-07-03 · Listing synced 2026-08-06 · 80k job ID `rec4PIfhAEmR0jE1k`*

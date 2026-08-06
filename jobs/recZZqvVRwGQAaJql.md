@@ -2,7 +2,7 @@
 title: "Product Engineer"
 employer: "Goodfire"
 job_id: "recZZqvVRwGQAaJql"
-last_updated: "2026-08-05T05:32:41.086704Z"
+last_updated: "2026-08-06T05:33:38.024420Z"
 posted_at: "2026-06-16T00:00:00Z"
 status: ready
 apply_url: "https://job-boards.greenhouse.io/goodfire/jobs/5253335008"
@@ -33,4 +33,4 @@ areas:
 <p class="apply-cta"><a href="https://job-boards.greenhouse.io/goodfire/jobs/5253335008">Apply →</a></p>
 
 ---
-*Posted 2026-06-16 · Listing synced 2026-08-05 · 80k job ID `recZZqvVRwGQAaJql`*
+*Posted 2026-06-16 · Listing synced 2026-08-06 · 80k job ID `recZZqvVRwGQAaJql`*

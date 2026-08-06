@@ -4,26 +4,21 @@ employer: "Pax Sapiens"
 job_id: "recq1MxeD8jReLUXo"
 last_updated: "2026-08-05T05:32:38.889907Z"
 posted_at: "2026-06-19T00:02:00Z"
-status: ready
+status: closed
+closed_at: "2026-08-06"
 apply_url: "https://paxsapiens.bamboohr.com/careers/56"
 areas:
   - "Biosecurity & pandemic preparedness"
   - "Nuclear security"
 ---
 
+> ⚠️ **CLOSED on 2026-08-06** — this job is no longer listed on the 80,000 Hours board. Archived snapshot below.
+
 # Communications Program Manager
 
-**[Pax Sapiens](https://paxsapiens.org/)**
+**Pax Sapiens**
 
-<dl class="job-meta">
-<dt>Location</dt><dd>Denver metro area, USA</dd>
-<dt>Role type</dt><dd>Full-time</dd>
-<dt>Experience</dt><dd>Mid (5-9 years experience), Senior (10+ years experience)</dd>
-<dt>Degree</dt><dd>Undergraduate degree or less</dd>
-<dt>Salary</dt><dd>$93,500 – $96,760</dd>
-</dl>
-
-**Areas & skills:** Biosecurity & pandemic preparedness, Nuclear security, Outreach, Management
+**Areas & skills:** Biosecurity & pandemic preparedness, Nuclear security
 
 ## Summary
 - In this role, you'll lead strategic communications initiatives for issue area programs across multiple offices to advance organizational goals.

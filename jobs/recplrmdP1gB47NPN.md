@@ -2,7 +2,7 @@
 title: "Senior Cloud Infrastructure Engineer"
 employer: "SecureBio"
 job_id: "recplrmdP1gB47NPN"
-last_updated: "2026-08-05T05:32:48.819376Z"
+last_updated: "2026-08-06T05:33:45.186170Z"
 posted_at: "2026-06-04T00:05:00Z"
 status: ready
 apply_url: "https://securebio.org/careers/2026-cloud-infra-engineer"
@@ -34,4 +34,4 @@ areas:
 <p class="apply-cta"><a href="https://securebio.org/careers/2026-cloud-infra-engineer">Apply →</a></p>
 
 ---
-*Posted 2026-06-04 · Listing synced 2026-08-05 · 80k job ID `recplrmdP1gB47NPN`*
+*Posted 2026-06-04 · Listing synced 2026-08-06 · 80k job ID `recplrmdP1gB47NPN`*

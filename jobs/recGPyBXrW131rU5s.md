@@ -2,7 +2,7 @@
 title: "Operations Manager"
 employer: "Collider"
 job_id: "recGPyBXrW131rU5s"
-last_updated: "2026-08-05T05:32:11.699381Z"
+last_updated: "2026-08-06T05:33:10.292043Z"
 posted_at: "2026-07-23T00:02:00Z"
 status: ready
 apply_url: "https://jobs.ashbyhq.com/collider/5306b6d4-40c2-4d20-b46c-e81bd22585df"
@@ -34,4 +34,4 @@ areas:
 <p class="apply-cta"><a href="https://jobs.ashbyhq.com/collider/5306b6d4-40c2-4d20-b46c-e81bd22585df">Apply →</a></p>
 
 ---
-*Posted 2026-07-23 · Listing synced 2026-08-05 · 80k job ID `recGPyBXrW131rU5s`*
+*Posted 2026-07-23 · Listing synced 2026-08-06 · 80k job ID `recGPyBXrW131rU5s`*

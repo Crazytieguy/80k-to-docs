@@ -2,7 +2,7 @@
 title: "Adviser / Senior Adviser, Policy and Operations"
 employer: "Good Ancestors New Zealand"
 job_id: "recNEd6MfAZY9AQu5"
-last_updated: "2026-08-05T05:31:46.713441Z"
+last_updated: "2026-08-06T05:32:47.410509Z"
 posted_at: "2026-08-04T00:02:00Z"
 status: ready
 apply_url: "https://www.goodancestors.org.nz/Adviser-Senior-Adviser-Policy-Operations.pdf"
@@ -33,4 +33,4 @@ areas:
 <p class="apply-cta"><a href="https://www.goodancestors.org.nz/Adviser-Senior-Adviser-Policy-Operations.pdf">Apply →</a></p>
 
 ---
-*Posted 2026-08-04 · Listing synced 2026-08-05 · 80k job ID `recNEd6MfAZY9AQu5`*
+*Posted 2026-08-04 · Listing synced 2026-08-06 · 80k job ID `recNEd6MfAZY9AQu5`*

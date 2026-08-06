@@ -2,7 +2,7 @@
 title: "Senior Software Engineer, AI Benchmarking"
 employer: "SecureBio"
 job_id: "recl6cv8gvhJWMo5V"
-last_updated: "2026-08-05T05:32:02.548550Z"
+last_updated: "2026-08-06T05:33:02.514679Z"
 posted_at: "2026-07-29T00:04:11Z"
 status: ready
 apply_url: "https://securebio.org/careers/senior-ai-benchmarking"
@@ -35,4 +35,4 @@ areas:
 <p class="apply-cta"><a href="https://securebio.org/careers/senior-ai-benchmarking">Apply →</a></p>
 
 ---
-*Posted 2026-07-29 · Listing synced 2026-08-05 · 80k job ID `recl6cv8gvhJWMo5V`*
+*Posted 2026-07-29 · Listing synced 2026-08-06 · 80k job ID `recl6cv8gvhJWMo5V`*

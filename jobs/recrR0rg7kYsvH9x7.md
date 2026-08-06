@@ -2,7 +2,7 @@
 title: "Volunteer Opportunities"
 employer: "High Impact Medicine"
 job_id: "recrR0rg7kYsvH9x7"
-last_updated: "2026-08-05T05:33:40.427031Z"
+last_updated: "2026-08-06T05:34:37.322248Z"
 posted_at: "2022-01-02T00:00:00Z"
 status: ready
 apply_url: "https://docs.google.com/document/d/1Nqz1vAJQzr4XOpB-mHg2YGzkIItX-RMj2b88pLROnjA/edit?tab=t.0#heading=h.6jynaot9cbnq"
@@ -30,4 +30,4 @@ areas:
 <p class="apply-cta"><a href="https://docs.google.com/document/d/1Nqz1vAJQzr4XOpB-mHg2YGzkIItX-RMj2b88pLROnjA/edit?tab=t.0#heading=h.6jynaot9cbnq">Apply →</a></p>
 
 ---
-*Posted 2022-01-02 · Listing synced 2026-08-05 · 80k job ID `recrR0rg7kYsvH9x7`*
+*Posted 2022-01-02 · Listing synced 2026-08-06 · 80k job ID `recrR0rg7kYsvH9x7`*

@@ -2,7 +2,7 @@
 title: "DevSecOps Engineer"
 employer: "Lucid Computing"
 job_id: "recVIc61ypobBphpV"
-last_updated: "2026-08-05T05:31:53.415111Z"
+last_updated: "2026-08-06T05:32:52.566964Z"
 posted_at: "2026-08-03T00:00:00Z"
 status: ready
 apply_url: "https://lucidcomputing.ai/careers#devsecops-engineer"
@@ -33,4 +33,4 @@ areas:
 <p class="apply-cta"><a href="https://lucidcomputing.ai/careers#devsecops-engineer">Apply →</a></p>
 
 ---
-*Posted 2026-08-03 · Listing synced 2026-08-05 · 80k job ID `recVIc61ypobBphpV`*
+*Posted 2026-08-03 · Listing synced 2026-08-06 · 80k job ID `recVIc61ypobBphpV`*

@@ -2,7 +2,7 @@
 title: "Operations Generalist"
 employer: "Transluce"
 job_id: "recu5w4YrSWQSmkOl"
-last_updated: "2026-08-05T05:33:21.795838Z"
+last_updated: "2026-08-06T05:34:18.637091Z"
 posted_at: "2022-01-06T00:00:00Z"
 status: ready
 apply_url: "https://jobs.gem.com/transluce/am9icG9zdDoq-FKTd-JXCK4eCHw1wzGA"
@@ -34,4 +34,4 @@ areas:
 <p class="apply-cta"><a href="https://jobs.gem.com/transluce/am9icG9zdDoq-FKTd-JXCK4eCHw1wzGA">Apply →</a></p>
 
 ---
-*Posted 2022-01-06 · Listing synced 2026-08-05 · 80k job ID `recu5w4YrSWQSmkOl`*
+*Posted 2022-01-06 · Listing synced 2026-08-06 · 80k job ID `recu5w4YrSWQSmkOl`*

@@ -2,7 +2,7 @@
 title: "Project Officer, International Coordination"
 employer: "General-Purpose AI Policy Lab"
 job_id: "recS3Eyhg05W0izva"
-last_updated: "2026-08-05T05:33:16.229325Z"
+last_updated: "2026-08-06T05:34:13.176694Z"
 posted_at: "2022-01-06T00:00:00Z"
 status: ready
 apply_url: "https://www.linkedin.com/posts/gpai-policy-lab_project-officer-international-coordination-activity-7297155426943422464-MhxW/"
@@ -15,11 +15,11 @@ areas:
 **[General-Purpose AI Policy Lab](https://gpai-policy-lab.org/)**
 
 <dl class="job-meta">
-<dt>Location</dt><dd>Paris, France, France, Europe (ex UK)</dd>
+<dt>Location</dt><dd>Paris, France, Europe (ex UK), France</dd>
 <dt>Role type</dt><dd>Full-time</dd>
 <dt>Experience</dt><dd>Junior (1-4 years experience), Mid (5-9 years experience)</dd>
 <dt>Degree</dt><dd>Undergraduate degree or less</dd>
-<dt>Salary</dt><dd>$33,220 – $41,525</dd>
+<dt>Salary</dt><dd>$33,252 – $41,565</dd>
 </dl>
 
 **Areas & skills:** AI safety & policy, Policy
@@ -33,4 +33,4 @@ areas:
 <p class="apply-cta"><a href="https://www.linkedin.com/posts/gpai-policy-lab_project-officer-international-coordination-activity-7297155426943422464-MhxW/">Apply →</a></p>
 
 ---
-*Posted 2022-01-06 · Listing synced 2026-08-05 · 80k job ID `recS3Eyhg05W0izva`*
+*Posted 2022-01-06 · Listing synced 2026-08-06 · 80k job ID `recS3Eyhg05W0izva`*

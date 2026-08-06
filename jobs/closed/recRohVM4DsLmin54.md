@@ -4,24 +4,20 @@ employer: "The British Academy"
 job_id: "recRohVM4DsLmin54"
 last_updated: "2026-08-05T05:32:42.254060Z"
 posted_at: "2026-06-12T00:00:00Z"
-status: ready
+status: closed
+closed_at: "2026-08-06"
 apply_url: "https://www.thebritishacademy.ac.uk/funding/schemes/innovation-fellowships-route-b-policy-led/"
 areas:
   - "Career development: Technical"
 ---
 
+> ⚠️ **CLOSED on 2026-08-06** — this job is no longer listed on the 80,000 Hours board. Archived snapshot below.
+
 # Innovation Fellowship, Policy-Led (2026-27)
 
-**[The British Academy](https://www.thebritishacademy.ac.uk/)**
+**The British Academy**
 
-<dl class="job-meta">
-<dt>Location</dt><dd>UK</dd>
-<dt>Role type</dt><dd>Fellowship</dd>
-<dt>Experience</dt><dd>Junior (1-4 years experience), Mid (5-9 years experience)</dd>
-<dt>Degree</dt><dd>Doctoral degree</dd>
-</dl>
-
-**Areas & skills:** Career development: Technical, Policy
+**Areas & skills:** Career development: Technical
 
 ## Summary
 - In this role, you'll work as a researcher fellow with a UK policy partner for 12 months to address innovation challenges.

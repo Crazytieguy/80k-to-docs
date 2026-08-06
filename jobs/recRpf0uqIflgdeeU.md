@@ -2,7 +2,7 @@
 title: "Executive Assistant"
 employer: "The AI Policy Network"
 job_id: "recRpf0uqIflgdeeU"
-last_updated: "2026-08-05T05:31:46.969715Z"
+last_updated: "2026-08-06T05:32:47.655120Z"
 posted_at: "2026-08-04T00:02:00Z"
 status: ready
 apply_url: "https://theaipn.org/careers/executive-assistant/"
@@ -34,4 +34,4 @@ areas:
 <p class="apply-cta"><a href="https://theaipn.org/careers/executive-assistant/">Apply →</a></p>
 
 ---
-*Posted 2026-08-04 · Listing synced 2026-08-05 · 80k job ID `recRpf0uqIflgdeeU`*
+*Posted 2026-08-04 · Listing synced 2026-08-06 · 80k job ID `recRpf0uqIflgdeeU`*

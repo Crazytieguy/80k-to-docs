@@ -4,24 +4,20 @@ employer: "South Park Commons"
 job_id: "rec5Yg8hPlA7FiWFY"
 last_updated: "2026-08-05T05:32:39.979361Z"
 posted_at: "2026-06-17T00:00:00Z"
-status: ready
+status: closed
+closed_at: "2026-08-06"
 apply_url: "https://www.southparkcommons.com/founder-fellowship"
 areas:
   - "Career development: Technical"
 ---
 
+> ⚠️ **CLOSED on 2026-08-06** — this job is no longer listed on the 80,000 Hours board. Archived snapshot below.
+
 # Founder Fellowship
 
-**[South Park Commons](https://www.southparkcommons.com/)**
+**South Park Commons**
 
-<dl class="job-meta">
-<dt>Location</dt><dd>San Francisco Bay Area, New York, NY, Bangalore, India, USA, India, Asia</dd>
-<dt>Role type</dt><dd>Fellowship</dd>
-<dt>Experience</dt><dd>Multiple experience levels</dd>
-<dt>Degree</dt><dd>Undergraduate degree or less</dd>
-</dl>
-
-**Areas & skills:** Career development: Technical, Strategy
+**Areas & skills:** Career development: Technical
 
 ## Summary
 - In this role, you'll build your company from pre-idea stage with guidance from experienced investors and a talent-dense community.
