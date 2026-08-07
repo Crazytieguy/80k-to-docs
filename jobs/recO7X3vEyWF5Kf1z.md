@@ -2,7 +2,7 @@
 title: "Scientific Community-Building Fellow"
 employer: "The Good Food Institute"
 job_id: "recO7X3vEyWF5Kf1z"
-last_updated: "2026-08-06T05:33:05.056018Z"
+last_updated: "2026-08-07T05:32:38.353457Z"
 posted_at: "2026-07-29T00:00:00Z"
 status: ready
 apply_url: "https://job-boards.greenhouse.io/thegoodfoodinstitute80/jobs/8653980002"
@@ -34,4 +34,4 @@ areas:
 <p class="apply-cta"><a href="https://job-boards.greenhouse.io/thegoodfoodinstitute80/jobs/8653980002">Apply →</a></p>
 
 ---
-*Posted 2026-07-29 · Listing synced 2026-08-06 · 80k job ID `recO7X3vEyWF5Kf1z`*
+*Posted 2026-07-29 · Listing synced 2026-08-07 · 80k job ID `recO7X3vEyWF5Kf1z`*

@@ -2,7 +2,7 @@
 title: "Head of Corporate Relations / Co-Director"
 employer: "Farmállatvédelem"
 job_id: "recGkDDHOP4AdrBKd"
-last_updated: "2026-08-06T05:32:49.211797Z"
+last_updated: "2026-08-07T05:32:23.878288Z"
 posted_at: "2026-08-04T00:00:00Z"
 status: ready
 apply_url: "https://docs.google.com/document/d/1-iSYLQiKZOfj6tywvskVV1STvXdRXXDoTqL1nX6_lIY/edit?tab=t.4c1epj147dhr"
@@ -19,7 +19,7 @@ areas:
 <dt>Role type</dt><dd>Full-time</dd>
 <dt>Experience</dt><dd>Multiple experience levels</dd>
 <dt>Degree</dt><dd>Undergraduate degree or less</dd>
-<dt>Salary</dt><dd>$17,210 – $22,947</dd>
+<dt>Salary</dt><dd>$17,027 – $22,703</dd>
 </dl>
 
 **Areas & skills:** Animal welfare, Outreach, Strategy
@@ -35,4 +35,4 @@ areas:
 <p class="apply-cta"><a href="https://docs.google.com/document/d/1-iSYLQiKZOfj6tywvskVV1STvXdRXXDoTqL1nX6_lIY/edit?tab=t.4c1epj147dhr">Apply →</a></p>
 
 ---
-*Posted 2026-08-04 · Listing synced 2026-08-06 · 80k job ID `recGkDDHOP4AdrBKd`*
+*Posted 2026-08-04 · Listing synced 2026-08-07 · 80k job ID `recGkDDHOP4AdrBKd`*

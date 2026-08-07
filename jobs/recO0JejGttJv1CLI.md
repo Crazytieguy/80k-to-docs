@@ -2,7 +2,7 @@
 title: "Harris Social Impact Fellow"
 employer: "University of Chicago, Harris School of Public Policy Studies"
 job_id: "recO0JejGttJv1CLI"
-last_updated: "2026-08-06T05:32:49.638119Z"
+last_updated: "2026-08-07T05:32:24.353375Z"
 posted_at: "2026-08-04T00:00:00Z"
 status: ready
 apply_url: "https://info.harris.uchicago.edu/social-impact-fellowship"
@@ -19,7 +19,7 @@ areas:
 <dt>Role type</dt><dd>Fellowship</dd>
 <dt>Experience</dt><dd>Entry-level</dd>
 <dt>Degree</dt><dd>Undergraduate degree or less</dd>
-<dt>Salary</dt><dd>$86,000</dd>
+<dt>Salary</dt><dd>$96,000</dd>
 </dl>
 
 **Areas & skills:** Career development: Policy & government, Research, Policy
@@ -34,4 +34,4 @@ areas:
 <p class="apply-cta"><a href="https://info.harris.uchicago.edu/social-impact-fellowship">Apply →</a></p>
 
 ---
-*Posted 2026-08-04 · Listing synced 2026-08-06 · 80k job ID `recO0JejGttJv1CLI`*
+*Posted 2026-08-04 · Listing synced 2026-08-07 · 80k job ID `recO0JejGttJv1CLI`*

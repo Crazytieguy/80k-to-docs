@@ -2,7 +2,7 @@
 title: "Research Engineer / Research Scientist"
 employer: "Center for AI Safety"
 job_id: "recFi4seRixx5IJGA"
-last_updated: "2026-08-06T05:33:12.890764Z"
+last_updated: "2026-08-07T05:32:46.447477Z"
 posted_at: "2026-07-21T00:04:18Z"
 status: ready
 apply_url: "https://job-boards.greenhouse.io/centerforartificialintelligencesafetyinc/jobs/4315227009"
@@ -34,4 +34,4 @@ areas:
 <p class="apply-cta"><a href="https://job-boards.greenhouse.io/centerforartificialintelligencesafetyinc/jobs/4315227009">Apply →</a></p>
 
 ---
-*Posted 2026-07-21 · Listing synced 2026-08-06 · 80k job ID `recFi4seRixx5IJGA`*
+*Posted 2026-07-21 · Listing synced 2026-08-07 · 80k job ID `recFi4seRixx5IJGA`*

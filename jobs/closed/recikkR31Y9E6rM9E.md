@@ -4,25 +4,20 @@ employer: "Pure Earth"
 job_id: "recikkR31Y9E6rM9E"
 last_updated: "2026-08-06T05:33:50.534666Z"
 posted_at: "2026-05-22T00:00:00Z"
-status: ready
+status: closed
+closed_at: "2026-08-07"
 apply_url: "https://www.pureearth.org/wp-content/uploads/2026/05/HR-Internship.pdf"
 areas:
   - "Global health & development"
 ---
 
+> ⚠️ **CLOSED on 2026-08-07** — this job is no longer listed on the 80,000 Hours board. Archived snapshot below.
+
 # Intern, Global HR Operations
 
-**[Pure Earth](https://www.pureearth.org/)**
+**Pure Earth**
 
-<dl class="job-meta">
-<dt>Location</dt><dd>New York, NY, USA</dd>
-<dt>Role type</dt><dd>Internship</dd>
-<dt>Experience</dt><dd>Entry-level</dd>
-<dt>Degree</dt><dd>Undergraduate degree or less</dd>
-<dt>Salary</dt><dd>$41,600</dd>
-</dl>
-
-**Areas & skills:** Global health & development, Operations
+**Areas & skills:** Global health & development
 
 ## Summary
 - In this role, you'll build scalable HR infrastructure by strengthening systems, standardization, and knowledge management across the organization.

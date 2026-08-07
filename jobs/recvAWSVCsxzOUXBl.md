@@ -2,7 +2,7 @@
 title: "Systems Software Engineer, Security, First Party Hardware"
 employer: "OpenAI"
 job_id: "recvAWSVCsxzOUXBl"
-last_updated: "2026-08-06T05:33:42.883528Z"
+last_updated: "2026-08-07T05:33:18.065052Z"
 posted_at: "2026-06-09T00:00:00Z"
 status: ready
 apply_url: "https://openai.com/careers/systems-software-engineer-security-first-party-hardware-san-francisco/"
@@ -34,4 +34,4 @@ areas:
 <p class="apply-cta"><a href="https://openai.com/careers/systems-software-engineer-security-first-party-hardware-san-francisco/">Apply →</a></p>
 
 ---
-*Posted 2026-06-09 · Listing synced 2026-08-06 · 80k job ID `recvAWSVCsxzOUXBl`*
+*Posted 2026-06-09 · Listing synced 2026-08-07 · 80k job ID `recvAWSVCsxzOUXBl`*

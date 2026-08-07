@@ -2,7 +2,7 @@
 title: "Facilities Coordinator / Facilities Specialist"
 employer: "Constellation"
 job_id: "recMyYwLie2PuuvPw"
-last_updated: "2026-08-06T05:33:44.162602Z"
+last_updated: "2026-08-07T05:33:19.224727Z"
 posted_at: "2026-06-05T00:04:45Z"
 status: ready
 apply_url: "https://jobs.gem.com/constellation-institute/am9icG9zdDpITbUcvuXF8QtJEb6eS_hp"
@@ -34,4 +34,4 @@ areas:
 <p class="apply-cta"><a href="https://jobs.gem.com/constellation-institute/am9icG9zdDpITbUcvuXF8QtJEb6eS_hp">Apply →</a></p>
 
 ---
-*Posted 2026-06-05 · Listing synced 2026-08-06 · 80k job ID `recMyYwLie2PuuvPw`*
+*Posted 2026-06-05 · Listing synced 2026-08-07 · 80k job ID `recMyYwLie2PuuvPw`*

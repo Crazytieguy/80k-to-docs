@@ -2,7 +2,7 @@
 title: "AI Security Engineer"
 employer: "MITRE"
 job_id: "rechagQJUYIwmK6QD"
-last_updated: "2026-08-06T05:34:39.049617Z"
+last_updated: "2026-08-07T05:34:15.860133Z"
 posted_at: "2022-01-02T00:00:00Z"
 status: ready
 apply_url: "https://careers.mitre.org/us/en/job/R116626/AI-Security-Engineer"
@@ -34,4 +34,4 @@ areas:
 <p class="apply-cta"><a href="https://careers.mitre.org/us/en/job/R116626/AI-Security-Engineer">Apply →</a></p>
 
 ---
-*Posted 2022-01-02 · Listing synced 2026-08-06 · 80k job ID `rechagQJUYIwmK6QD`*
+*Posted 2022-01-02 · Listing synced 2026-08-07 · 80k job ID `rechagQJUYIwmK6QD`*

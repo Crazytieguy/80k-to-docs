@@ -4,25 +4,20 @@ employer: "RAND Corporation"
 job_id: "recr6BOSS3YvUcsTF"
 last_updated: "2026-08-06T05:32:46.414182Z"
 posted_at: "2026-08-05T00:00:00Z"
-status: ready
+status: closed
+closed_at: "2026-08-07"
 apply_url: "https://www.rand.org/global-and-emerging-risks/centers/ai-security-and-technology/fellows.html"
 areas:
   - "AI safety & policy"
 ---
 
+> ⚠️ **CLOSED on 2026-08-07** — this job is no longer listed on the 80,000 Hours board. Archived snapshot below.
+
 # Fellows, Center on AI, Security, and Technology
 
-**[RAND Corporation](https://www.rand.org)**
+**RAND Corporation**
 
-<dl class="job-meta">
-<dt>Location</dt><dd>Washington, DC metro area, San Francisco Bay Area, UK, USA</dd>
-<dt>Role type</dt><dd>Fellowship</dd>
-<dt>Experience</dt><dd>Multiple experience levels</dd>
-<dt>Degree</dt><dd>Undergraduate degree or less</dd>
-<dt>Salary</dt><dd>$40,000 – $200,000</dd>
-</dl>
-
-**Areas & skills:** AI safety & policy, Research, Policy
+**Areas & skills:** AI safety & policy
 
 ## Summary
 - In this fellowship, you'll conduct research at the intersection of technology and security issues.

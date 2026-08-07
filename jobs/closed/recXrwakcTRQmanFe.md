@@ -4,25 +4,20 @@ employer: "SecureBio"
 job_id: "recXrwakcTRQmanFe"
 last_updated: "2026-08-06T05:33:46.385470Z"
 posted_at: "2026-06-01T00:05:00Z"
-status: ready
+status: closed
+closed_at: "2026-08-07"
 apply_url: "https://securebio.org/careers/2026-software-engineer-pipelines"
 areas:
   - "Biosecurity & pandemic preparedness"
 ---
 
+> ⚠️ **CLOSED on 2026-08-07** — this job is no longer listed on the 80,000 Hours board. Archived snapshot below.
+
 # Software Engineer, High-Performance Pipelines
 
-**[SecureBio](https://securebio.org/)**
+**SecureBio**
 
-<dl class="job-meta">
-<dt>Location</dt><dd>Boston metro area, USA</dd>
-<dt>Role type</dt><dd>Full-time</dd>
-<dt>Experience</dt><dd>Junior (1-4 years experience)</dd>
-<dt>Degree</dt><dd>Undergraduate degree or less</dd>
-<dt>Salary</dt><dd>$165,000 – $190,000</dd>
-</dl>
-
-**Areas & skills:** Biosecurity & pandemic preparedness, Software engineering
+**Areas & skills:** Biosecurity & pandemic preparedness
 
 ## Summary
 - In this role, you'll optimize metagenomic detection pipelines for pandemic early warning, scaling processing volume while reducing end-to-end computational time.

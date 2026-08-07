@@ -4,25 +4,20 @@ employer: "New York State, Department of Financial Services"
 job_id: "reciNeoLaXWQ7AX4J"
 last_updated: "2026-08-06T05:32:54.765076Z"
 posted_at: "2026-07-31T00:05:00Z"
-status: ready
+status: closed
+closed_at: "2026-08-07"
 apply_url: "https://www.dfs.ny.gov/system/files/documents/2026/07/ass_dir_ops_raise_spe_ass_ns_20260806.pdf"
 areas:
   - "AI safety & policy"
 ---
 
+> ⚠️ **CLOSED on 2026-08-07** — this job is no longer listed on the 80,000 Hours board. Archived snapshot below.
+
 # Assistant Director, Operations, Responsible Artificial Intelligence Safety and Education
 
-**[New York State, Department of Financial Services](https://www.dfs.ny.gov/)**
+**New York State, Department of Financial Services**
 
-<dl class="job-meta">
-<dt>Location</dt><dd>New York, NY, Albany, NY, USA</dd>
-<dt>Role type</dt><dd>Full-time</dd>
-<dt>Experience</dt><dd>Senior (10+ years experience)</dd>
-<dt>Degree</dt><dd>Undergraduate degree or less</dd>
-<dt>Salary</dt><dd>$127,507 – $160,911</dd>
-</dl>
-
-**Areas & skills:** AI safety & policy, Policy, Operations, Management
+**Areas & skills:** AI safety & policy
 
 ## Summary
 - In this role, you'll lead operations for implementing New York's frontier AI transparency and reporting requirements.

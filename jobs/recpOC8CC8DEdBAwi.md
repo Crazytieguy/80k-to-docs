@@ -2,7 +2,7 @@
 title: "Director, Government Affairs"
 employer: "The AI Policy Network"
 job_id: "recpOC8CC8DEdBAwi"
-last_updated: "2026-08-06T05:34:27.672245Z"
+last_updated: "2026-08-07T05:34:01.448245Z"
 posted_at: "2022-01-05T00:00:00Z"
 status: ready
 apply_url: "https://theaipn.org/careers/director-of-government-affairs/"
@@ -34,4 +34,4 @@ areas:
 <p class="apply-cta"><a href="https://theaipn.org/careers/director-of-government-affairs/">Apply →</a></p>
 
 ---
-*Posted 2022-01-05 · Listing synced 2026-08-06 · 80k job ID `recpOC8CC8DEdBAwi`*
+*Posted 2022-01-05 · Listing synced 2026-08-07 · 80k job ID `recpOC8CC8DEdBAwi`*

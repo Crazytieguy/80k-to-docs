@@ -4,25 +4,20 @@ employer: "Pure Earth"
 job_id: "recIUsoaG85sFzb2j"
 last_updated: "2026-08-06T05:33:46.124660Z"
 posted_at: "2026-06-02T00:00:00Z"
-status: ready
+status: closed
+closed_at: "2026-08-07"
 apply_url: "https://www.pureearth.org/wp-content/uploads/2026/05/Program-Assistant-Job-Description-BD.pdf"
 areas:
   - "Global health & development"
 ---
 
+> ⚠️ **CLOSED on 2026-08-07** — this job is no longer listed on the 80,000 Hours board. Archived snapshot below.
+
 # Program Assistant, Bangladesh
 
-**[Pure Earth](https://www.pureearth.org/)**
+**Pure Earth**
 
-<dl class="job-meta">
-<dt>Location</dt><dd>Dhaka, Bangladesh, Bangladesh, Asia</dd>
-<dt>Role type</dt><dd>Full-time</dd>
-<dt>Experience</dt><dd>Junior (1-4 years experience)</dd>
-<dt>Degree</dt><dd>Undergraduate degree or less</dd>
-<dt>Salary</dt><dd>$5,800</dd>
-</dl>
-
-**Areas & skills:** Global health & development, Operations
+**Areas & skills:** Global health & development
 
 ## Summary
 - In this role, you'll support program implementation, reporting, and coordination of activities focused on environmental pollution reduction.

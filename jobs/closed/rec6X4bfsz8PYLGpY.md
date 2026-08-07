@@ -4,25 +4,20 @@ employer: "80,000 Hours"
 job_id: "rec6X4bfsz8PYLGpY"
 last_updated: "2026-08-06T05:34:08.782117Z"
 posted_at: "2022-01-06T00:00:00Z"
-status: ready
+status: closed
+closed_at: "2026-08-07"
 apply_url: "https://80000hours.org/2026/02/expression-of-interest-contract-video-editor-for-the-podcast-team/"
 areas:
   - "AI safety & policy"
 ---
 
+> ⚠️ **CLOSED on 2026-08-07** — this job is no longer listed on the 80,000 Hours board. Archived snapshot below.
+
 # Expression of Interest, Contract Video Editor, Podcast
 
-**[80,000 Hours](https://80000hours.org/)**
+**80,000 Hours**
 
-<dl class="job-meta">
-<dt>Location</dt><dd>London, UK, UK</dd>
-<dt>Role type</dt><dd>Full-time</dd>
-<dt>Experience</dt><dd>Junior (1-4 years experience)</dd>
-<dt>Degree</dt><dd>Undergraduate degree or less</dd>
-<dt>Salary</dt><dd>$83,200 – $153,920</dd>
-</dl>
-
-**Areas & skills:** AI safety & policy, Other
+**Areas & skills:** AI safety & policy
 
 ## Summary
 - In this role, you'll edit long-form podcast episodes to a high standard using DaVinci Resolve.

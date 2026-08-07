@@ -2,7 +2,7 @@
 title: "Program Associate, AI Science Residency Program"
 employer: "California Council on Science and Technology"
 job_id: "recP0EfpSZacCgaVj"
-last_updated: "2026-08-06T05:32:45.726189Z"
+last_updated: "2026-08-07T05:32:20.442091Z"
 posted_at: "2026-08-05T00:00:00Z"
 status: ready
 apply_url: "https://ccst.us/program-associate-ai-science-residency-program/"
@@ -33,4 +33,4 @@ areas:
 <p class="apply-cta"><a href="https://ccst.us/program-associate-ai-science-residency-program/">Apply →</a></p>
 
 ---
-*Posted 2026-08-05 · Listing synced 2026-08-06 · 80k job ID `recP0EfpSZacCgaVj`*
+*Posted 2026-08-05 · Listing synced 2026-08-07 · 80k job ID `recP0EfpSZacCgaVj`*

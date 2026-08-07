@@ -2,7 +2,7 @@
 title: "Safeguards Enforcement Analyst, Radiological and Nuclear Harms"
 employer: "Anthropic"
 job_id: "recu8Msw9X3CDfRNP"
-last_updated: "2026-08-06T05:32:48.658769Z"
+last_updated: "2026-08-07T05:32:23.279930Z"
 posted_at: "2026-08-04T00:00:00Z"
 status: ready
 apply_url: "https://job-boards.greenhouse.io/anthropic/jobs/5319702008"
@@ -35,4 +35,4 @@ areas:
 <p class="apply-cta"><a href="https://job-boards.greenhouse.io/anthropic/jobs/5319702008">Apply →</a></p>
 
 ---
-*Posted 2026-08-04 · Listing synced 2026-08-06 · 80k job ID `recu8Msw9X3CDfRNP`*
+*Posted 2026-08-04 · Listing synced 2026-08-07 · 80k job ID `recu8Msw9X3CDfRNP`*

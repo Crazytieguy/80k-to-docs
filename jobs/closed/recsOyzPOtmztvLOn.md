@@ -4,25 +4,20 @@ employer: "Howard Hughes Medical Institute"
 job_id: "recsOyzPOtmztvLOn"
 last_updated: "2026-08-06T05:33:52.064614Z"
 posted_at: "2026-05-20T00:00:00Z"
-status: ready
+status: closed
+closed_at: "2026-08-07"
 apply_url: "https://hhmi.wd1.myworkdayjobs.com/en-US/External/details/Presidential-Fellow_R-4295-1?q=fellow"
 areas:
   - "Career development: Technical"
 ---
 
+> ⚠️ **CLOSED on 2026-08-07** — this job is no longer listed on the 80,000 Hours board. Archived snapshot below.
+
 # Presidential Fellow
 
-**[Howard Hughes Medical Institute](https://www.hhmi.org/)**
+**Howard Hughes Medical Institute**
 
-<dl class="job-meta">
-<dt>Location</dt><dd>Chevy Chase, MD, USA</dd>
-<dt>Role type</dt><dd>Fellowship</dd>
-<dt>Experience</dt><dd>Entry-level</dd>
-<dt>Degree</dt><dd>Undergraduate degree or less</dd>
-<dt>Salary</dt><dd>$150,000 – $200,000</dd>
-</dl>
-
-**Areas & skills:** Career development: Technical, Strategy
+**Areas & skills:** Career development: Technical
 
 ## Summary
 - In this role, you'll lead cross-functional strategic projects from concept to completion, reporting directly to the President and senior leadership.

@@ -2,13 +2,13 @@
 title: "Charity Entrepreneurship Incubation Program"
 employer: "Ambitious Impact"
 job_id: "recAaHFeHCOr20gQT"
-last_updated: "2026-08-06T05:32:48.432228Z"
+last_updated: "2026-08-07T05:32:23.010618Z"
 posted_at: "2026-08-04T00:00:00Z"
 status: ready
 apply_url: "https://www.charityentrepreneurship.com/incubation-program"
 areas:
-  - "Founder"
   - "Animal welfare"
+  - "Founder"
 ---
 
 # Charity Entrepreneurship Incubation Program
@@ -23,7 +23,7 @@ areas:
 <dt>Salary</dt><dd>$190,000</dd>
 </dl>
 
-**Areas & skills:** Founder, Animal welfare, Operations, Strategy
+**Areas & skills:** Animal welfare, Founder, Operations, Strategy
 
 ## Summary
 - This is a two-month training program to launch a high-impact charity.
@@ -35,4 +35,4 @@ areas:
 <p class="apply-cta"><a href="https://www.charityentrepreneurship.com/incubation-program">Apply →</a></p>
 
 ---
-*Posted 2026-08-04 · Listing synced 2026-08-06 · 80k job ID `recAaHFeHCOr20gQT`*
+*Posted 2026-08-04 · Listing synced 2026-08-07 · 80k job ID `recAaHFeHCOr20gQT`*

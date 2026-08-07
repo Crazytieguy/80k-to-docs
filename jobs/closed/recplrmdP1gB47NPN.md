@@ -4,25 +4,20 @@ employer: "SecureBio"
 job_id: "recplrmdP1gB47NPN"
 last_updated: "2026-08-06T05:33:45.186170Z"
 posted_at: "2026-06-04T00:05:00Z"
-status: ready
+status: closed
+closed_at: "2026-08-07"
 apply_url: "https://securebio.org/careers/2026-cloud-infra-engineer"
 areas:
   - "Biosecurity & pandemic preparedness"
 ---
 
+> ⚠️ **CLOSED on 2026-08-07** — this job is no longer listed on the 80,000 Hours board. Archived snapshot below.
+
 # Senior Cloud Infrastructure Engineer
 
-**[SecureBio](https://securebio.org/)**
+**SecureBio**
 
-<dl class="job-meta">
-<dt>Location</dt><dd>Boston metro area, USA</dd>
-<dt>Role type</dt><dd>Full-time</dd>
-<dt>Experience</dt><dd>Mid (5-9 years experience)</dd>
-<dt>Degree</dt><dd>Undergraduate degree or less</dd>
-<dt>Salary</dt><dd>$195,000 – $220,000</dd>
-</dl>
-
-**Areas & skills:** Biosecurity & pandemic preparedness, Software engineering, Information security
+**Areas & skills:** Biosecurity & pandemic preparedness
 
 ## Summary
 - In this role, you'll build and maintain cloud infrastructure for a pandemic detection system that processes high volumes of sequencing data.

@@ -4,25 +4,20 @@ employer: "GovAI"
 job_id: "recbyJuhqv3PvfkDA"
 last_updated: "2026-08-06T05:33:24.776608Z"
 posted_at: "2026-07-08T00:05:00Z"
-status: ready
+status: closed
+closed_at: "2026-08-07"
 apply_url: "https://www.governance.ai/post/head-of-us-policy"
 areas:
   - "AI safety & policy"
 ---
 
+> ⚠️ **CLOSED on 2026-08-07** — this job is no longer listed on the 80,000 Hours board. Archived snapshot below.
+
 # Head of US Policy
 
-**[GovAI](https://www.governance.ai/)**
+**GovAI**
 
-<dl class="job-meta">
-<dt>Location</dt><dd>Washington, DC metro area, USA, USA (Confirmed Visas)</dd>
-<dt>Role type</dt><dd>Full-time</dd>
-<dt>Experience</dt><dd>Mid (5-9 years experience), Senior (10+ years experience)</dd>
-<dt>Degree</dt><dd>Undergraduate degree or less</dd>
-<dt>Salary</dt><dd>$170,000 – $205,000</dd>
-</dl>
-
-**Areas & skills:** AI safety & policy, Policy, Management
+**Areas & skills:** AI safety & policy
 
 ## Summary
 - In this role, you'll establish GovAI as a trusted source of expertise while directing federal policy research and leading the DC office expansion.

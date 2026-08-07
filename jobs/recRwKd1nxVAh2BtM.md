@@ -2,7 +2,7 @@
 title: "Contractor, Landscape Assessment of Impact in Peace and Security Philanthropy"
 employer: "Pax Sapiens"
 job_id: "recRwKd1nxVAh2BtM"
-last_updated: "2026-08-06T05:32:50.890791Z"
+last_updated: "2026-08-07T05:32:25.624098Z"
 posted_at: "2026-08-03T00:01:00Z"
 status: ready
 apply_url: "https://paxsapiens.bamboohr.com/careers/60"
@@ -30,4 +30,4 @@ areas:
 <p class="apply-cta"><a href="https://paxsapiens.bamboohr.com/careers/60">Apply →</a></p>
 
 ---
-*Posted 2026-08-03 · Listing synced 2026-08-06 · 80k job ID `recRwKd1nxVAh2BtM`*
+*Posted 2026-08-03 · Listing synced 2026-08-07 · 80k job ID `recRwKd1nxVAh2BtM`*

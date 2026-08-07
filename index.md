@@ -2,22 +2,22 @@
 
 Daily-refreshed mirror of every job posting on the [80,000 Hours job board](https://jobs.80000hours.org/). One markdown file per job under `jobs/`. Closed jobs move to `jobs/closed/`.
 
-**831** active · **745** closed · last synced 2026-08-06 09:09 UTC
+**835** active · **758** closed · last synced 2026-08-07 07:45 UTC
 
 _See [README](./README.md) for how this is built. Source: [GitHub repo](https://github.com/Crazytieguy/80k-to-docs)._
 
 <div class="areas-filter" aria-label="Filter by area">
-<button type="button" class="chip is-active" data-area="all" aria-pressed="true">All (831)</button>
-<button type="button" class="chip" data-area="AI safety &amp; policy" aria-pressed="false">AI safety &amp; policy (513)</button>
-<button type="button" class="chip" data-area="Biosecurity &amp; pandemic preparedness" aria-pressed="false">Biosecurity &amp; pandemic preparedness (74)</button>
-<button type="button" class="chip" data-area="Career development: Policy &amp; government" aria-pressed="false">Career development: Policy &amp; government (65)</button>
-<button type="button" class="chip" data-area="Career development: Technical" aria-pressed="false">Career development: Technical (47)</button>
-<button type="button" class="chip" data-area="Building effective altruism" aria-pressed="false">Building effective altruism (40)</button>
+<button type="button" class="chip is-active" data-area="all" aria-pressed="true">All (835)</button>
+<button type="button" class="chip" data-area="AI safety &amp; policy" aria-pressed="false">AI safety &amp; policy (512)</button>
+<button type="button" class="chip" data-area="Biosecurity &amp; pandemic preparedness" aria-pressed="false">Biosecurity &amp; pandemic preparedness (73)</button>
+<button type="button" class="chip" data-area="Career development: Policy &amp; government" aria-pressed="false">Career development: Policy &amp; government (68)</button>
+<button type="button" class="chip" data-area="Career development: Technical" aria-pressed="false">Career development: Technical (48)</button>
+<button type="button" class="chip" data-area="Building effective altruism" aria-pressed="false">Building effective altruism (41)</button>
 <button type="button" class="chip" data-area="Global health &amp; development" aria-pressed="false">Global health &amp; development (40)</button>
-<button type="button" class="chip" data-area="Animal welfare" aria-pressed="false">Animal welfare (26)</button>
+<button type="button" class="chip" data-area="Animal welfare" aria-pressed="false">Animal welfare (27)</button>
 <button type="button" class="chip" data-area="Macrostrategy" aria-pressed="false">Macrostrategy (23)</button>
 <button type="button" class="chip" data-area="AI technical safety" aria-pressed="false">AI technical safety (12)</button>
-<button type="button" class="chip" data-area="Nuclear security" aria-pressed="false">Nuclear security (9)</button>
+<button type="button" class="chip" data-area="Nuclear security" aria-pressed="false">Nuclear security (10)</button>
 <button type="button" class="chip" data-area="Career development" aria-pressed="false">Career development (7)</button>
 <button type="button" class="chip" data-area="Climate change" aria-pressed="false">Climate change (6)</button>
 <button type="button" class="chip" data-area="Forecasting" aria-pressed="false">Forecasting (4)</button>
@@ -38,6 +38,15 @@ _See [README](./README.md) for how this is built. Source: [GitHub repo](https://
 
 ### AI safety & policy
 
+- `2026-08-06` · [Senior AI Fellow, California Governor's Office of Emergency Services](./jobs/recZkXHjKquo02ySD.md) — California Council on Science and Technology
+- `2026-08-06` · [Senior AI Fellow, California Department of Technology](./jobs/recykCTWyWSPKa1Pv.md) — California Council on Science and Technology
+- `2026-08-06` · [AI Governance Taskforce (Autumn 2026)](./jobs/recha8o4x9paYPfdX.md) — Arcadia Impact
+- `2026-08-06` · [AI Policy Research Fellowship (x2)](./jobs/recjXcz6KWVihnGjy.md) — INHR
+- `2026-08-06` · [Insider Risk Investigator](./jobs/rec8RL18UftBQe99A.md) — Anthropic
+- `2026-08-06` · [Foresight Fellowship](./jobs/rec8urynDFkaFMRFX.md) — Foresight Institute
+- `2026-08-06` · [Request for Proposals, AI Safety Grant](./jobs/recsFXcYzJcokzQPq.md) — Foresight Institute
+- `2026-08-06` · [Member of Technical Staff](./jobs/recv97sE5dokvKFWu.md) — Artificial Intelligence Underwriting Company
+- `2026-08-06` · [Request for Proposals, The Launch Sequence](./jobs/recxfcV8eo1wcUb21.md) — Institute for Progress
 - `2026-08-05` · [Supervised Program for Alignment Research (Fall 2026)](./jobs/recfYgfPES4sXUrZC.md) — Kairos
 - `2026-08-05` · [Production Coordinator / Associate, Studio Team](./jobs/rec3jWndfY5YJG3r3.md) — 80,000 Hours
 - `2026-08-05` · [Special Projects Associate / Analyst, Studio Team](./jobs/recgCRsJV6ULWBFri.md) — 80,000 Hours
@@ -49,7 +58,6 @@ _See [README](./README.md) for how this is built. Source: [GitHub repo](https://
 - `2026-08-05` · [Researcher, Alignment Chain of Thought Monitorability](./jobs/rec3ZevF3BIGNj8Oa.md) — OpenAI
 - `2026-08-05` · [Program Associate, AI Science Residency Program](./jobs/recP0EfpSZacCgaVj.md) — California Council on Science and Technology
 - `2026-08-05` · [Longitude DC Intensive](./jobs/recp3AuHi4AqF8SGE.md) — Longitude DC Intensive
-- `2026-08-05` · [Fellows, Center on AI, Security, and Technology](./jobs/recr6BOSS3YvUcsTF.md) — RAND Corporation
 - `2026-08-04` · [Research Manager](./jobs/recVTKyIwNGqY5FSQ.md) — Principles of Intelligence
 - `2026-08-04` · [Contract Work, Application Screening](./jobs/recumI6RQcRkNK7hM.md) — London AI Safety Research Labs
 - `2026-08-04` · [Fractional Controller](./jobs/rec1noKmfb1GJE6UP.md) — The AI Policy Network
@@ -67,14 +75,12 @@ _See [README](./README.md) for how this is built. Source: [GitHub repo](https://
 - `2026-08-04` · [Senior DevOps Engineer](./jobs/reczG1onpfPk4i3xm.md) — Irregular
 - `2026-08-03` · [Product Manager, Agentic Products](./jobs/recHePETbX2FCCBPr.md) — Center for AI Safety
 - `2026-08-03` · [Communications and Marketing Associate](./jobs/recYl8PyAGI6CUlgw.md) — ML4Good
-- `2026-08-03` · [Product Engineer](./jobs/rec8ZzxhvyaZ3m606.md) — Lucid Computing
 - `2026-08-03` · [Cyber Security Engineer](./jobs/recBWEpezcgKC24Ed.md) — Gray Swan
 - `2026-08-03` · [Technical Program Manager](./jobs/recCZEf1foE5AeylJ.md) — Lucid Computing
 - `2026-08-03` · [Hardware Engineer](./jobs/recNnnBYoSIcpgVo8.md) — Lucid Computing
 - `2026-08-03` · [Senior Research Associate, Logic and Programming Languages for AI Safety](./jobs/recROkS4JxUVfwyCE.md) — University of Bristol, Department of Computer Science
 - `2026-08-03` · [Software Engineer, Infrastructure](./jobs/recTTOEOCW5pfyhSw.md) — Gray Swan
 - `2026-08-03` · [OpenAI Cybersecurity Grant Program](./jobs/recV1kwLisJ94m73E.md) — OpenAI
-- `2026-08-03` · [DevSecOps Engineer](./jobs/recVIc61ypobBphpV.md) — Lucid Computing
 - `2026-08-03` · [Staff Software Engineer](./jobs/recVf9uzD9FVmhOIg.md) — Gray Swan
 - `2026-08-03` · [Funding, Scaling AI Safety for a Multi-Agent World](./jobs/recYo5AQZKJMb2uPJ.md) — Schmidt Sciences
 - `2026-08-03` · [Strategic Partnership Manager, AI Safety](./jobs/recabe5h4iLeqat2p.md) — Gray Swan
@@ -87,8 +93,6 @@ _See [README](./README.md) for how this is built. Source: [GitHub repo](https://
 - `2026-07-31` · [Headhunting Associate / Specialist](./jobs/recSKQVWqFGUYcsbp.md) — 80,000 Hours
 - `2026-07-31` · [Director, Events](./jobs/recYY02j0t1FtbAaa.md) — Horizon Institute for Public Service
 - `2026-07-31` · [Director, Policy and Leadership Network](./jobs/recclc1Tef5kLZusM.md) — Horizon Institute for Public Service
-- `2026-07-31` · [Assistant Director, Operations, Responsible Artificial Intelligence Safety and Education](./jobs/reciNeoLaXWQ7AX4J.md) — New York State, Department of Financial Services
-- `2026-07-31` · [Assistant Director, Policy, Responsible Artificial Intelligence Safety and Education](./jobs/recpc6NGIvNfXCoxo.md) — New York State, Department of Financial Services
 - `2026-07-31` · [Expression of Interest, Cyber and Autonomous Systems Team](./jobs/recIJx6arJw8JOUgK.md) — UK Government, AI Security Institute
 - `2026-07-31` · [Program Associate / Program Manager, Talent and Strategic Partnerships](./jobs/recFdPCGFc2jP2bX1.md) — Horizon Institute for Public Service
 - `2026-07-31` · [Program Associate / Program Manager, Systems and Security](./jobs/recViR4XnHnRtz5Jc.md) — Horizon Institute for Public Service
@@ -175,7 +179,6 @@ _See [README](./README.md) for how this is built. Source: [GitHub repo](https://
 - `2026-07-20` · [Head of Policy and Research](./jobs/recFyPYgkXXtDuDZ0.md) — AI Diplomatic Engagement Network
 - `2026-07-20` · [Board Member](./jobs/reclNwBhz3bFt7yr1.md) — Berkeley Existential Risk Initiative
 - `2026-07-17` · [Chief of Staff, DC](./jobs/reckfdcjjQEaZ45mG.md) — GovAI
-- `2026-07-17` · [Frontier AI Security, Training Program](./jobs/recxGlo5vps94kPsu.md) — SASH
 - `2026-07-17` · [Federal Policy Manager](./jobs/recCNpuvTGaXgwSa5.md) — The Alliance for Secure AI
 - `2026-07-17` · [Fellow Program, AI Security](./jobs/recH7lvvCFX5GXtmJ.md) — Anthropic
 - `2026-07-17` · [External Affairs and Coalitions Associate, Defense, National Security and First Responders](./jobs/recQr4tgaIFMoVSKA.md) — The Alliance for Secure AI
@@ -215,7 +218,6 @@ _See [README](./README.md) for how this is built. Source: [GitHub repo](https://
 - `2026-07-09` · [Fund, Multi-Agent Safety](./jobs/recpouD1kdZC7jh0M.md) — Cooperative AI Foundation
 - `2026-07-09` · [Threat Intelligence Manager, Chemical, Biological, Radiological, Nuclear, and Explosives and Advanced Weapons](./jobs/recSzGVBwUxPJPF4q.md) — Anthropic
 - `2026-07-09` · [Chief Technology Officer](./jobs/reckm4yvOgVQxORZh.md) — Syntony
-- `2026-07-08` · [Head of US Policy](./jobs/recbyJuhqv3PvfkDA.md) — GovAI
 - `2026-07-08` · [Technology Reporter, Business of Tech, AI and Power](./jobs/recKFFXBBWmceydEh.md) — Semafor
 - `2026-07-08` · [Team Member, Futures, Frontier Risk and Alignment](./jobs/rec06h0estNBVyrWq.md) — Microsoft
 - `2026-07-08` · [AI Research Engineer, Safety Pretraining for Open Frontier Models, EPFL (x3)](./jobs/recHkoHsj8YECdxwT.md) — Swiss AI Initiative
@@ -270,7 +272,6 @@ _See [README](./README.md) for how this is built. Source: [GitHub repo](https://
 - `2026-06-22` · [Senior Research Engineer](./jobs/recRzRjGXxPWK8jxo.md) — FAR AI
 - `2026-06-22` · [Assistant AI Security Researcher](./jobs/recwd6rbAufS2b2hv.md) — Carnegie Mellon University, Software Engineering Institute
 - `2026-06-19` · [Chief Data Scientist, AI Safety](./jobs/recuRM3gz1Fl2vgN8.md) — US Government, Pacific Northwest National Laboratory
-- `2026-06-19` · [Request for Proposals, The Launch Sequence](./jobs/recxfcV8eo1wcUb21.md) — Institute for Progress
 - `2026-06-18` · [Finance Associate](./jobs/recrlVLtLG6ra2FQj.md) — Apollo Research
 - `2026-06-18` · [Head of AI Assurance](./jobs/rec2f5ATGLBZHBVHc.md) — Faculty
 - `2026-06-17` · [ML Researcher](./jobs/recMDoDVHEnuYqhtR.md) — Tilde Research
@@ -303,7 +304,6 @@ _See [README](./README.md) for how this is built. Source: [GitHub repo](https://
 - `2026-06-09` · [Systems Software Engineer, Security, First Party Hardware](./jobs/recvAWSVCsxzOUXBl.md) — OpenAI
 - `2026-06-08` · [Head of Communications](./jobs/recMx5eXofTfk0AfW.md) — Evitable
 - `2026-06-08` · [Course, The Economics of AI](./jobs/recRtRAEsxdQxalxd.md) — University of Virginia
-- `2026-06-08` · [Request for Proposals, AI Safety Grant](./jobs/recsFXcYzJcokzQPq.md) — Foresight Institute
 - `2026-06-05` · [Facilities Coordinator / Facilities Specialist](./jobs/recMyYwLie2PuuvPw.md) — Constellation
 - `2026-06-05` · [IT Coordinator / IT Specialist](./jobs/recEtFx5yKdRcY2MX.md) — Constellation
 - `2026-06-05` · [Red Teaming Fellowship](./jobs/recXL4JkjCIqTqX43.md) — 10a Labs
@@ -346,8 +346,6 @@ _See [README](./README.md) for how this is built. Source: [GitHub repo](https://
 - `2026-05-20` · [Research Scientist, Safety Post-Training](./jobs/recdnRDEacIbHDVQk.md) — Scale AI
 - `2026-05-20` · [Vice President of Engineering](./jobs/recqV1ixjKEAoQgJC.md) — Transluce
 - `2026-05-20` · [AI / Emerging Technology Security Analyst](./jobs/reczoVL3q9waCszGi.md) — Alignerr
-- `2026-05-19` · [Team Member, Model Policy](./jobs/recCUBvyTnh6aOZ9n.md) — OpenAI
-- `2026-05-19` · [Security Preparedness Lead, Coding Agents](./jobs/recuRkQMf5ZkGz2Tf.md) — OpenAI
 - `2022-01-13` · [Team Member, Model Policy, Chemical and Biological Risk](./jobs/rec2QlSs55Q9fEriL.md) — OpenAI
 - `2022-01-13` · [Expression of Interest, Pannu Lab](./jobs/rec4yFSYJwM7mFO2P.md) — Johns Hopkins University, Center for Health Security
 - `2022-01-13` · [General Application](./jobs/recgK4Kc5ag6YQN4f.md) — Coefficient Giving
@@ -369,6 +367,7 @@ _See [README](./README.md) for how this is built. Source: [GitHub repo](https://
 - `2022-01-11` · [Frontier AI Research Lead](./jobs/rec9i3feQTcjF2lA1.md) — Georgetown University, Center for Security and Emerging Technology
 - `2022-01-11` · [Security Engineer, Application Security, Seattle](./jobs/recA1g3MVlRWnIMO2.md) — OpenAI
 - `2022-01-11` · [Researcher, Safety Oversight](./jobs/recAurL0kSCGOSRJe.md) — OpenAI
+- `2022-01-11` · [Team Member, Model Policy](./jobs/recCUBvyTnh6aOZ9n.md) — OpenAI
 - `2022-01-11` · [Technical Cyber Threat Investigator](./jobs/recGFnhtHhnRqAWhU.md) — Anthropic
 - `2022-01-11` · [Funding, Work That Builds Capacity to Address Risks From Transformative AI](./jobs/recHfhpau0WaNwGGo.md) — Coefficient Giving
 - `2022-01-11` · [Software Engineer, Cybersecurity Products](./jobs/recJPxzXSR5HXS8vo.md) — Anthropic
@@ -397,6 +396,7 @@ _See [README](./README.md) for how this is built. Source: [GitHub repo](https://
 - `2022-01-11` · [Staff Software Security Engineer](./jobs/recqabCW8NA7McMul.md) — Anthropic
 - `2022-01-11` · [Researcher, Robustness and Safety Training, Safety Systems](./jobs/recs2erKZeKlB5ROy.md) — OpenAI
 - `2022-01-11` · [Research Engineer, Cybersecurity RL](./jobs/recsOEKUYmdmn5qUq.md) — Anthropic
+- `2022-01-11` · [Security Preparedness Lead, Coding Agents](./jobs/recuRkQMf5ZkGz2Tf.md) — OpenAI
 - `2022-01-11` · [Software Engineer, Infrastructure Security](./jobs/recwldYT3YSzZgpvn.md) — OpenAI
 - `2022-01-11` · [Researcher / Senior Researcher](./jobs/recz34TsbybhxNsFy.md) — Epoch AI
 - `2022-01-08` · [Computational Biologist](./jobs/recXec8pWPMIbEz9J.md) — Valthos
@@ -419,7 +419,6 @@ _See [README](./README.md) for how this is built. Source: [GitHub repo](https://
 - `2022-01-06` · [Program Coordinator, User Experience](./jobs/rec49fBTHpKNoftdo.md) — Constellation
 - `2022-01-06` · [Expression of Interest, Director / Co-Director](./jobs/rec5DE4d3ALkOiHCh.md) — Zurich AI Safety
 - `2022-01-06` · [Junior Associate](./jobs/rec5roJBM9Lg5dEc8.md) — The AI Policy Network
-- `2022-01-06` · [Expression of Interest, Contract Video Editor, Podcast](./jobs/rec6X4bfsz8PYLGpY.md) — 80,000 Hours
 - `2022-01-06` · [Full-Stack Software Engineer, S-Process](./jobs/rec6nOL5EaSPWO1m9.md) — Survival and Flourishing
 - `2022-01-06` · [Associate AI Security Researcher](./jobs/rec7MvKHfByglpbjd.md) — Carnegie Mellon University, Software Engineering Institute
 - `2022-01-06` · [Research Manager, AIxBio](./jobs/rec8dYb1hLTrd3bKI.md) — Cambridge Boston Alignment Initiative
@@ -554,6 +553,8 @@ _See [README](./README.md) for how this is built. Source: [GitHub repo](https://
 
 ### Biosecurity & pandemic preparedness
 
+- `2026-08-06` · [Hi-Med Career Planning Course](./jobs/recUAsW4FSpXr5Fjm.md) — High Impact Medicine
+- `2026-08-06` · [Request for Proposals, The Launch Sequence](./jobs/recxfcV8eo1wcUb21.md) — Institute for Progress
 - `2026-08-04` · [Public Health Response Manager](./jobs/rec8JAu6AcaetDY6a.md) — SecureBio
 - `2026-08-03` · [Managing Director](./jobs/recu0Cso7cfbY8VYw.md) — Secure DNA Project
 - `2026-07-31` · [Research Resident, Emerging Technology and Security, Open Source](./jobs/recqe3JwI2itJPjGq.md) — RAND Corporation
@@ -591,13 +592,10 @@ _See [README](./README.md) for how this is built. Source: [GitHub repo](https://
 - `2026-07-03` · [Principal Expert / Group Leader, Emergency Preparedness and Response](./jobs/rec4PIfhAEmR0jE1k.md) — European Union, Centre for Disease Prevention and Control
 - `2026-07-03` · [Rosalind Biodefense Program](./jobs/recybLCJC9c2aJmrn.md) — OpenAI
 - `2026-06-24` · [Biotechnology Regulatory Fellowship](./jobs/recvcpeG1rpokYoNI.md) — US Government, National Academies of Sciences, Engineering, and Medicine
-- `2026-06-19` · [Request for Proposals, The Launch Sequence](./jobs/recxfcV8eo1wcUb21.md) — Institute for Progress
 - `2026-06-15` · [Program Director, Clinical Trial Abundance](./jobs/recGBbgTLMik6E3MT.md) — 1Day Sooner
 - `2026-06-11` · [Senior Program Officer, Biosecurity Chokepoints](./jobs/rec1Q5lzJxgY7Io32.md) — Sentinel Bio
 - `2026-06-10` · [Chief Operating Officer](./jobs/recNZZuNe2MRTlSyX.md) — Sentinel Bio
 - `2026-06-05` · [Staff Software Engineer, Security Engineering, AI Compute](./jobs/reczde7EDnkAXXzBD.md) — Biohub
-- `2026-06-04` · [Senior Cloud Infrastructure Engineer](./jobs/recplrmdP1gB47NPN.md) — SecureBio
-- `2026-06-01` · [Software Engineer, High-Performance Pipelines](./jobs/recXrwakcTRQmanFe.md) — SecureBio
 - `2022-01-13` · [Team Member, Model Policy, Chemical and Biological Risk](./jobs/rec2QlSs55Q9fEriL.md) — OpenAI
 - `2022-01-13` · [Expression of Interest, Pannu Lab](./jobs/rec4yFSYJwM7mFO2P.md) — Johns Hopkins University, Center for Health Security
 - `2022-01-13` · [General Application](./jobs/recgK4Kc5ag6YQN4f.md) — Coefficient Giving
@@ -631,6 +629,9 @@ _See [README](./README.md) for how this is built. Source: [GitHub repo](https://
 
 ### Career development: Policy & government
 
+- `2026-08-06` · [Jill Hruby Fellowship](./jobs/recGqREl4oBJ2eGqO.md) — Sandia National Laboratories
+- `2026-08-06` · [Health Policy Fellow](./jobs/recn6dUvrSkYW1jgS.md) — Robert Wood Johnson Foundation
+- `2026-08-06` · [Truman Fellowship](./jobs/reczdqJpFQyuASfvN.md) — Sandia National Laboratories
 - `2026-08-05` · [Fall Intern](./jobs/recPauPmdUY9J9bOw.md) — Asia Society Policy Institute
 - `2026-08-05` · [List of Top US Policy Master's Programmes](./jobs/recia9Ivw5rzdn6hE.md) — Various US Universities
 - `2026-08-04` · [List of Staff Opportunities, U.S. House of Representatives](./jobs/recCtIfjqpK2vH2cM.md) — US Government, Congress
@@ -699,6 +700,8 @@ _See [README](./README.md) for how this is built. Source: [GitHub repo](https://
 
 ### Career development: Technical
 
+- `2026-08-06` · [Backend Engineer](./jobs/recDsEGIQhl48OCPx.md) — AIM Intelligence
+- `2026-08-06` · [Linus Pauling Distinguished Postdoctoral Fellowship](./jobs/recZRtgCVTacfR6Ty.md) — US Government, Pacific Northwest National Laboratory
 - `2026-08-03` · [Pioneers Program](./jobs/rec4SfUoMbSO5M35W.md) — World Bank Group
 - `2026-08-03` · [Industry Fellowship](./jobs/recd3XSyFsPlNYjDr.md) — The Royal Society
 - `2026-07-27` · [GenAI Analyst](./jobs/rec7nkTQMUP7gbvt2.md) — Alice
@@ -722,7 +725,6 @@ _See [README](./README.md) for how this is built. Source: [GitHub repo](https://
 - `2026-06-08` · [Intern, Governance, Risk, and Compliance (Summer 2026)](./jobs/recj8HvXMj0cOjM8S.md) — Cloudflare
 - `2026-06-05` · [Intern, Security and Intelligence, Security Analyst (Fall 2026)](./jobs/recsYqxN967sPrQJ9.md) — Tesla
 - `2026-05-26` · [List of Internship and Residency Programs, Machine Learning / Software Engineering](./jobs/recgot5Ws9X1GM6k6.md) — Various Tech Companies / Research Institutes
-- `2026-05-20` · [Presidential Fellow](./jobs/recsOyzPOtmztvLOn.md) — Howard Hughes Medical Institute
 - `2022-01-03` · [Associate Data Scientist](./jobs/recG49UEBjfVvNUfA.md) — Carnegie Mellon University, Software Engineering Institute
 - `2022-01-02` · [Forward Deployed Research Scientist, Biology](./jobs/rec3GVDP0GkdAhaxo.md) — Goodfire
 - `2022-01-02` · [AI Red Teamer, Frontier AI Safety](./jobs/rec4TRePBiEUOjScU.md) — July AI
@@ -749,6 +751,7 @@ _See [README](./README.md) for how this is built. Source: [GitHub repo](https://
 
 ### Building effective altruism
 
+- `2026-08-06` · [Head of IT](./jobs/recl2zbsc4zcFWxNt.md) — Founders Pledge
 - `2026-08-05` · [Community Builder (x6)](./jobs/rec9whknajBuQiw9u.md) — Network for EA Support and Training
 - `2026-08-03` · [Brand and Graphic Designer](./jobs/reccJhimk76KrbjRt.md) — Founders Pledge
 - `2026-07-31` · [Expression of Interest, Good Impressions and Partner Organizations](./jobs/rec9X7SfKH26p7AIE.md) — Good Impressions Media
@@ -792,6 +795,8 @@ _See [README](./README.md) for how this is built. Source: [GitHub repo](https://
 
 ### Global health & development
 
+- `2026-08-06` · [Research Analyst](./jobs/rec0RPnAmldK9qdz6.md) — Innovations for Poverty Action
+- `2026-08-06` · [Hi-Med Career Planning Course](./jobs/recUAsW4FSpXr5Fjm.md) — High Impact Medicine
 - `2026-07-27` · [Program Associate, Strategic Impact Evaluation and Learning](./jobs/rece9STaUzycViGAe.md) — Innovations for Poverty Action
 - `2026-07-23` · [Grant and Finance Associate](./jobs/recLwbZIK8nhAmfh1.md) — University of Chicago, Development Innovation Lab
 - `2026-07-07` · [Admin Coordinator](./jobs/recM9Sx1QF0e1hmyi.md) — MiracleFeet
@@ -803,9 +808,7 @@ _See [README](./README.md) for how this is built. Source: [GitHub repo](https://
 - `2026-06-08` · [Researcher, Gender Equality Metrics](./jobs/rec2HkIaKG0cQsYef.md) — University of Washington, Institute for Health Metrics and Evaluation
 - `2026-06-08` · [Staff Associate](./jobs/recAISx0V83AzXIdd.md) — Columbia University, Department of Microbiology and Immunology
 - `2026-06-08` · [Internship, Rwanda](./jobs/recvcFFIzJPaUMvxW.md) — One Acre Fund
-- `2026-06-02` · [Program Assistant, Bangladesh](./jobs/recIUsoaG85sFzb2j.md) — Pure Earth
 - `2026-05-29` · [Group Facilitator](./jobs/recA1wTd9fQfF1RuX.md) — Rethink Wellbeing
-- `2026-05-22` · [Intern, Global HR Operations](./jobs/recikkR31Y9E6rM9E.md) — Pure Earth
 - `2022-01-13` · [General Application](./jobs/recgK4Kc5ag6YQN4f.md) — Coefficient Giving
 - `2022-01-09` · [Talent Pool](./jobs/rectx9NjOWgwmopHz.md) — GiveWell
 - `2022-01-08` · [Research Analyst, Commons](./jobs/rec1ljJ8MMmHRGDQ2.md) — GiveWell
@@ -835,6 +838,7 @@ _See [README](./README.md) for how this is built. Source: [GitHub repo](https://
 
 ### Animal welfare
 
+- `2026-08-06` · [Campaign Specialist, US / Canada](./jobs/recxe3FMIIFekxSmA.md) — Mercy for Animals
 - `2026-08-05` · [Manager of Institutional Affairs, Mexico](./jobs/recxnoNeV3SYcUgTl.md) — Mercy for Animals
 - `2026-08-04` · [Charity Entrepreneurship Incubation Program](./jobs/recAaHFeHCOr20gQT.md) — Ambitious Impact
 - `2026-08-04` · [Head of Corporate Relations / Co-Director](./jobs/recGkDDHOP4AdrBKd.md) — Farmállatvédelem
@@ -905,6 +909,7 @@ _See [README](./README.md) for how this is built. Source: [GitHub repo](https://
 
 ### Nuclear security
 
+- `2026-08-06` · [Director, Peace](./jobs/recs9V0uuM3QiO3oa.md) — MacArthur Foundation
 - `2026-08-04` · [Safeguards Enforcement Analyst, Radiological and Nuclear Harms](./jobs/recu8Msw9X3CDfRNP.md) — Anthropic
 - `2026-07-15` · [Nuclear Policy Certificate Program (2026)](./jobs/rec2927MDaSs9pqxJ.md) — Nonproliferation Policy Education Center
 - `2026-07-13` · [eLearning Course, EU Non-Proliferation and Disarmament](./jobs/recjfUBbREkpVMtGa.md) — Peace Research Institute Frankfurt
@@ -985,6 +990,19 @@ _See [README](./README.md) for how this is built. Source: [GitHub repo](https://
 
 ## Recently closed
 
+- `2026-08-07` · [Expression of Interest, Contract Video Editor, Podcast](./jobs/closed/rec6X4bfsz8PYLGpY.md) — 80,000 Hours
+- `2026-08-07` · [Product Engineer](./jobs/closed/rec8ZzxhvyaZ3m606.md) — Lucid Computing
+- `2026-08-07` · [Program Assistant, Bangladesh](./jobs/closed/recIUsoaG85sFzb2j.md) — Pure Earth
+- `2026-08-07` · [DevSecOps Engineer](./jobs/closed/recVIc61ypobBphpV.md) — Lucid Computing
+- `2026-08-07` · [Software Engineer, High-Performance Pipelines](./jobs/closed/recXrwakcTRQmanFe.md) — SecureBio
+- `2026-08-07` · [Head of US Policy](./jobs/closed/recbyJuhqv3PvfkDA.md) — GovAI
+- `2026-08-07` · [Assistant Director, Operations, Responsible Artificial Intelligence Safety and Education](./jobs/closed/reciNeoLaXWQ7AX4J.md) — New York State, Department of Financial Services
+- `2026-08-07` · [Intern, Global HR Operations](./jobs/closed/recikkR31Y9E6rM9E.md) — Pure Earth
+- `2026-08-07` · [Assistant Director, Policy, Responsible Artificial Intelligence Safety and Education](./jobs/closed/recpc6NGIvNfXCoxo.md) — New York State, Department of Financial Services
+- `2026-08-07` · [Senior Cloud Infrastructure Engineer](./jobs/closed/recplrmdP1gB47NPN.md) — SecureBio
+- `2026-08-07` · [Fellows, Center on AI, Security, and Technology](./jobs/closed/recr6BOSS3YvUcsTF.md) — RAND Corporation
+- `2026-08-07` · [Presidential Fellow](./jobs/closed/recsOyzPOtmztvLOn.md) — Howard Hughes Medical Institute
+- `2026-08-07` · [Frontier AI Security, Training Program](./jobs/closed/recxGlo5vps94kPsu.md) — SASH
 - `2026-08-06` · [Founder Fellowship](./jobs/closed/rec5Yg8hPlA7FiWFY.md) — South Park Commons
 - `2026-08-06` · [Product Policy Manager, Biosecurity](./jobs/closed/recG60IscfVSHZIln.md) — OpenAI
 - `2026-08-06` · [Student Employee, CBWNet Project](./jobs/closed/recIB1peupW6bEfYw.md) — University of Hamburg, Institute for Peace Research and Security Policy
@@ -1022,18 +1040,5 @@ _See [README](./README.md) for how this is built. Source: [GitHub repo](https://
 - `2026-08-03` · [Biosafety Red Teaming Specialist](./jobs/closed/rec9Q4u0USYA86lEi.md) — OpenAI
 - `2026-08-03` · [Grantmakers, U.S. AI Policy and Public Policy](./jobs/closed/recDXCw7zkWLrOITc.md) — Coefficient Giving
 - `2026-08-03` · [Chief of Staff, U.S. AI Policy and Public Policy](./jobs/closed/recEkqdOrNml8tNQU.md) — Coefficient Giving
-- `2026-08-03` · [Teacher, Technical AI Safety / AI Governance and Strategy](./jobs/closed/recGc6OKSvvJvaCZ6.md) — ML4Good
-- `2026-08-03` · [Policy Director, Economic and Societal Transformation](./jobs/closed/recMb1lpCYgX4URMz.md) — Americans for Responsible Innovation
-- `2026-08-03` · [ML Developer, Applied Research](./jobs/closed/reckNtbShGYeHfHQj.md) — LawZero
-- `2026-08-03` · [Intern, Nuclear Policy Research](./jobs/closed/recmZLQY8svHgH16Z.md) — Arms Control Association
-- `2026-08-02` · [Research Strategist, Emerging Impacts Team](./jobs/closed/recPLOSt69C9RO14l.md) — Google DeepMind
-- `2026-08-02` · [Molecular Biology Associate](./jobs/closed/recTGatSHDmuj4lrG.md) — Active Site
-- `2026-08-02` · [Senior ML Researcher, Foundation Models, Responsible AI](./jobs/closed/recz95wAxc9zvan8x.md) — Apple
-- `2026-08-01` · [Fellowship, Hague Code of Conduct Youth Group](./jobs/closed/rec6RjEGPhcxxCKzV.md) — Fondation pour la Recherche Stratégique
-- `2026-08-01` · [Researcher, Alignment Science](./jobs/closed/rec75nGbowyUDqDBk.md) — OpenAI
-- `2026-08-01` · [Researcher, Alignment Oversight](./jobs/closed/rec9Bbnn1fiMUvUC7.md) — OpenAI
-- `2026-08-01` · [Foresight Fellowship (2027)](./jobs/closed/recBL78ninmG9gBdK.md) — Foresight Institute
-- `2026-08-01` · [Machine Learning Engineer, Secure AI Lab](./jobs/closed/recBut7dVtMlLa6zj.md) — Carnegie Mellon University, Software Engineering Institute
-- `2026-08-01` · [Contract Software Engineer](./jobs/closed/recLHNWGEH7ju94Gt.md) — Kairos
 
 _Browse the rest in [`jobs/closed/`](./jobs/closed/)._

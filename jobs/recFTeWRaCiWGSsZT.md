@@ -2,7 +2,7 @@
 title: "Senior Software Engineer"
 employer: "Elicit"
 job_id: "recFTeWRaCiWGSsZT"
-last_updated: "2026-08-06T05:33:58.693722Z"
+last_updated: "2026-08-07T05:33:33.134606Z"
 posted_at: "2022-01-11T00:00:00Z"
 status: ready
 apply_url: "https://elicit.com/careers?ashby_jid=aa99e2e9-5b15-4cd3-ac9d-9c9177ff61c8"
@@ -33,4 +33,4 @@ areas:
 <p class="apply-cta"><a href="https://elicit.com/careers?ashby_jid=aa99e2e9-5b15-4cd3-ac9d-9c9177ff61c8">Apply →</a></p>
 
 ---
-*Posted 2022-01-11 · Listing synced 2026-08-06 · 80k job ID `recFTeWRaCiWGSsZT`*
+*Posted 2022-01-11 · Listing synced 2026-08-07 · 80k job ID `recFTeWRaCiWGSsZT`*
