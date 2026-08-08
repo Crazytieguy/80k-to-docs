@@ -2,7 +2,7 @@
 title: "Computer Scientist, AI Test and Evaluation"
 employer: "US Government, Defense Threat Reduction Agency"
 job_id: "rec7JCITDQvgbiqmH"
-last_updated: "2026-08-07T05:32:22.858497Z"
+last_updated: "2026-08-08T05:32:13.154415Z"
 posted_at: "2026-08-04T00:01:00Z"
 status: ready
 apply_url: "https://www.usajobs.gov/job/878826000"
@@ -34,4 +34,4 @@ areas:
 <p class="apply-cta"><a href="https://www.usajobs.gov/job/878826000">Apply →</a></p>
 
 ---
-*Posted 2026-08-04 · Listing synced 2026-08-07 · 80k job ID `rec7JCITDQvgbiqmH`*
+*Posted 2026-08-04 · Listing synced 2026-08-08 · 80k job ID `rec7JCITDQvgbiqmH`*

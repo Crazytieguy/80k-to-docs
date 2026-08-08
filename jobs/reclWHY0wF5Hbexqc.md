@@ -2,10 +2,10 @@
 title: "Principal Software Engineer, Infrastructure Security"
 employer: "OpenAI"
 job_id: "reclWHY0wF5Hbexqc"
-last_updated: "2026-08-07T05:33:36.777906Z"
+last_updated: "2026-08-08T05:33:29.617323Z"
 posted_at: "2022-01-11T00:00:00Z"
 status: ready
-apply_url: "https://openai.com/careers/principal-software-engineer-infrastructure-security-remote-us/"
+apply_url: "https://openai.com/careers/principal-software-engineer-infrastructure-security-us-remote/"
 areas:
   - "AI safety & policy"
 ---
@@ -31,7 +31,7 @@ areas:
 - Develop automation and detection tooling using frontier models to identify and mitigate risks in cloud environments.
 - Mentor engineers across security teams on engineering quality and secure-by-default practices.
 
-<p class="apply-cta"><a href="https://openai.com/careers/principal-software-engineer-infrastructure-security-remote-us/">Apply →</a></p>
+<p class="apply-cta"><a href="https://openai.com/careers/principal-software-engineer-infrastructure-security-us-remote/">Apply →</a></p>
 
 ---
-*Posted 2022-01-11 · Listing synced 2026-08-07 · 80k job ID `reclWHY0wF5Hbexqc`*
+*Posted 2022-01-11 · Listing synced 2026-08-08 · 80k job ID `reclWHY0wF5Hbexqc`*

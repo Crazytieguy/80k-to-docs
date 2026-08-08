@@ -2,7 +2,7 @@
 title: "Postdoctoral Fellowship"
 employer: "The British Academy"
 job_id: "recAVisw6OJi98bFH"
-last_updated: "2026-08-07T05:33:06.399353Z"
+last_updated: "2026-08-08T05:32:56.793035Z"
 posted_at: "2026-07-02T00:00:00Z"
 status: ready
 apply_url: "https://www.thebritishacademy.ac.uk/funding/schemes/postdoctoral-fellowships/"
@@ -33,4 +33,4 @@ areas:
 <p class="apply-cta"><a href="https://www.thebritishacademy.ac.uk/funding/schemes/postdoctoral-fellowships/">Apply →</a></p>
 
 ---
-*Posted 2026-07-02 · Listing synced 2026-08-07 · 80k job ID `recAVisw6OJi98bFH`*
+*Posted 2026-07-02 · Listing synced 2026-08-08 · 80k job ID `recAVisw6OJi98bFH`*

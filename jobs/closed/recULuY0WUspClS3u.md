@@ -4,25 +4,20 @@ employer: "Cambridge Boston Alignment Initiative"
 job_id: "recULuY0WUspClS3u"
 last_updated: "2026-08-07T05:33:45.202219Z"
 posted_at: "2022-01-06T00:00:00Z"
-status: ready
+status: closed
+closed_at: "2026-08-08"
 apply_url: "https://jobs.ashbyhq.com/cbai/404d4d26-760e-41a7-9bf2-b0da235246b3"
 areas:
   - "AI safety & policy"
 ---
 
+> ⚠️ **CLOSED on 2026-08-08** — this job is no longer listed on the 80,000 Hours board. Archived snapshot below.
+
 # Workshops and Events Lead
 
-**[Cambridge Boston Alignment Initiative](https://www.cbai.ai/)**
+**Cambridge Boston Alignment Initiative**
 
-<dl class="job-meta">
-<dt>Location</dt><dd>Boston metro area, USA</dd>
-<dt>Role type</dt><dd>Full-time</dd>
-<dt>Experience</dt><dd>Junior (1-4 years experience)</dd>
-<dt>Degree</dt><dd>Undergraduate degree or less</dd>
-<dt>Salary</dt><dd>$80,000 – $100,000</dd>
-</dl>
-
-**Areas & skills:** AI safety & policy, Operations, Strategy
+**Areas & skills:** AI safety & policy
 
 ## Summary
 - In this role, you'll own CBAI's event portfolio, scaling Harvard-MIT workshops, running monthly networking events, and sourcing specialized research workshops.

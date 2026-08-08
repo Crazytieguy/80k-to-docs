@@ -2,7 +2,7 @@
 title: "Social and Community Manager"
 employer: "Center for AI Safety"
 job_id: "recVDRSYDe9HkR2yu"
-last_updated: "2026-08-07T05:33:17.039569Z"
+last_updated: "2026-08-08T05:33:07.920405Z"
 posted_at: "2026-06-09T00:04:00Z"
 status: ready
 apply_url: "https://job-boards.greenhouse.io/centerforartificialintelligencesafetyinc/jobs/4297101009"
@@ -34,4 +34,4 @@ areas:
 <p class="apply-cta"><a href="https://job-boards.greenhouse.io/centerforartificialintelligencesafetyinc/jobs/4297101009">Apply →</a></p>
 
 ---
-*Posted 2026-06-09 · Listing synced 2026-08-07 · 80k job ID `recVDRSYDe9HkR2yu`*
+*Posted 2026-06-09 · Listing synced 2026-08-08 · 80k job ID `recVDRSYDe9HkR2yu`*

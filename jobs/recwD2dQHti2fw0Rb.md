@@ -2,7 +2,7 @@
 title: "Summer Programme, Hostačov"
 employer: "Effective Altruism Czechia"
 job_id: "recwD2dQHti2fw0Rb"
-last_updated: "2026-08-07T05:32:43.473527Z"
+last_updated: "2026-08-08T05:32:34.788143Z"
 posted_at: "2026-07-24T00:00:00Z"
 status: ready
 apply_url: "https://www.efektivni-altruismus.cz/en/all-events/summer-in-hostacov/"
@@ -32,4 +32,4 @@ areas:
 <p class="apply-cta"><a href="https://www.efektivni-altruismus.cz/en/all-events/summer-in-hostacov/">Apply →</a></p>
 
 ---
-*Posted 2026-07-24 · Listing synced 2026-08-07 · 80k job ID `recwD2dQHti2fw0Rb`*
+*Posted 2026-07-24 · Listing synced 2026-08-08 · 80k job ID `recwD2dQHti2fw0Rb`*

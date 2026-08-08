@@ -2,7 +2,7 @@
 title: "Teaching Associate, MPhil in Global Risk and Resilience"
 employer: "Cambridge University, Centre for the Study of Existential Risk"
 job_id: "rece0lDdb1mrvI1Cu"
-last_updated: "2026-08-07T05:33:02.903296Z"
+last_updated: "2026-08-08T05:32:53.443114Z"
 posted_at: "2026-07-06T00:00:00Z"
 status: ready
 apply_url: "https://www.cser.ac.uk/teaching-associate-fixed-term/"
@@ -33,4 +33,4 @@ areas:
 <p class="apply-cta"><a href="https://www.cser.ac.uk/teaching-associate-fixed-term/">Apply →</a></p>
 
 ---
-*Posted 2026-07-06 · Listing synced 2026-08-07 · 80k job ID `rece0lDdb1mrvI1Cu`*
+*Posted 2026-07-06 · Listing synced 2026-08-08 · 80k job ID `rece0lDdb1mrvI1Cu`*

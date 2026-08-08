@@ -2,7 +2,7 @@
 title: "Program Associate"
 employer: "Outrider Foundation"
 job_id: "recmyUv3jETPFhedW"
-last_updated: "2026-08-07T05:33:24.662208Z"
+last_updated: "2026-08-08T05:33:17.940122Z"
 posted_at: "2026-05-25T00:00:00Z"
 status: ready
 apply_url: "https://outrider.org/outrider-foundation-seeks-program-associate"
@@ -35,4 +35,4 @@ areas:
 <p class="apply-cta"><a href="https://outrider.org/outrider-foundation-seeks-program-associate">Apply →</a></p>
 
 ---
-*Posted 2026-05-25 · Listing synced 2026-08-07 · 80k job ID `recmyUv3jETPFhedW`*
+*Posted 2026-05-25 · Listing synced 2026-08-08 · 80k job ID `recmyUv3jETPFhedW`*

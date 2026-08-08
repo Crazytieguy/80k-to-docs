@@ -2,7 +2,7 @@
 title: "Research Intern, Political-Military Analysis Department (Fall 2026)"
 employer: "Hudson Institute"
 job_id: "recsYVrIcKZ7km0DV"
-last_updated: "2026-08-07T05:32:52.483195Z"
+last_updated: "2026-08-08T05:32:43.611098Z"
 posted_at: "2026-07-15T00:00:00Z"
 status: ready
 apply_url: "https://recruiting.paylocity.com/Recruiting/Jobs/Details/4327956"
@@ -33,4 +33,4 @@ areas:
 <p class="apply-cta"><a href="https://recruiting.paylocity.com/Recruiting/Jobs/Details/4327956">Apply →</a></p>
 
 ---
-*Posted 2026-07-15 · Listing synced 2026-08-07 · 80k job ID `recsYVrIcKZ7km0DV`*
+*Posted 2026-07-15 · Listing synced 2026-08-08 · 80k job ID `recsYVrIcKZ7km0DV`*

@@ -2,7 +2,7 @@
 title: "Global Rice Leadership Awards"
 employer: "Global Rice Research Foundation"
 job_id: "rec1SIHGsRPYoWpMX"
-last_updated: "2026-08-07T05:34:06.546934Z"
+last_updated: "2026-08-08T05:34:00.042350Z"
 posted_at: "2022-01-03T00:00:00Z"
 status: ready
 apply_url: "https://ricefound.org/awards/"
@@ -17,7 +17,7 @@ areas:
 <dl class="job-meta">
 <dt>Location</dt><dd>Remote, Global</dd>
 <dt>Role type</dt><dd>Funding</dd>
-<dt>Experience</dt><dd>Entry-level, Junior (1-4 years experience)</dd>
+<dt>Experience</dt><dd>Junior (1-4 years experience), Entry-level</dd>
 <dt>Degree</dt><dd>Undergraduate degree or less</dd>
 <dt>Salary</dt><dd>$7,500</dd>
 </dl>
@@ -34,4 +34,4 @@ areas:
 <p class="apply-cta"><a href="https://ricefound.org/awards/">Apply →</a></p>
 
 ---
-*Posted 2022-01-03 · Listing synced 2026-08-07 · 80k job ID `rec1SIHGsRPYoWpMX`*
+*Posted 2022-01-03 · Listing synced 2026-08-08 · 80k job ID `rec1SIHGsRPYoWpMX`*

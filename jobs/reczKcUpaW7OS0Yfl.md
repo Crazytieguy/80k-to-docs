@@ -2,13 +2,13 @@
 title: "List of Internship Opportunities, U.S. House of Representatives"
 employer: "US Government, Congress"
 job_id: "reczKcUpaW7OS0Yfl"
-last_updated: "2026-08-07T05:32:24.487283Z"
+last_updated: "2026-08-08T05:32:14.985345Z"
 posted_at: "2026-08-04T00:00:00Z"
 status: ready
 apply_url: "https://drive.google.com/file/d/1F3ed9CfyLAFYbzXC0sEjUZnq94xAqq2R/view?usp=sharing"
 areas:
-  - "Career development: Policy & government"
   - "Congressional staffer"
+  - "Career development: Policy & government"
 ---
 
 # List of Internship Opportunities, U.S. House of Representatives
@@ -22,7 +22,7 @@ areas:
 <dt>Degree</dt><dd>Undergraduate degree or less</dd>
 </dl>
 
-**Areas & skills:** Career development: Policy & government, Congressional staffer, Policy
+**Areas & skills:** Congressional staffer, Career development: Policy & government, Policy
 
 ## Summary
 - You can find internship opportunities working in offices within the United States House of Representatives in the following bulletin (which is updated every week).
@@ -31,4 +31,4 @@ areas:
 <p class="apply-cta"><a href="https://drive.google.com/file/d/1F3ed9CfyLAFYbzXC0sEjUZnq94xAqq2R/view?usp=sharing">Apply →</a></p>
 
 ---
-*Posted 2026-08-04 · Listing synced 2026-08-07 · 80k job ID `reczKcUpaW7OS0Yfl`*
+*Posted 2026-08-04 · Listing synced 2026-08-08 · 80k job ID `reczKcUpaW7OS0Yfl`*

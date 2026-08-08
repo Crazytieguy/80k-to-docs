@@ -4,24 +4,20 @@ employer: "International Institute for Strategic Studies"
 job_id: "recstPomKN05v2jZt"
 last_updated: "2026-08-07T05:32:44.169544Z"
 posted_at: "2026-07-23T00:00:00Z"
-status: ready
+status: closed
+closed_at: "2026-08-08"
 apply_url: "https://www.iiss.org/careers/jobs/2026/07/internship-in-the-south-and-central-asian-defence-strategy-and-diplomacy-programme/"
 areas:
   - "Career development: Policy & government"
 ---
 
+> ⚠️ **CLOSED on 2026-08-08** — this job is no longer listed on the 80,000 Hours board. Archived snapshot below.
+
 # Intern, South and Central Asian Defence Strategy and Diplomacy Programme
 
-**[International Institute for Strategic Studies](https://www.iiss.org/)**
+**International Institute for Strategic Studies**
 
-<dl class="job-meta">
-<dt>Location</dt><dd>London, UK, UK</dd>
-<dt>Role type</dt><dd>Internship</dd>
-<dt>Experience</dt><dd>Entry-level</dd>
-<dt>Degree</dt><dd>Undergraduate degree or less</dd>
-</dl>
-
-**Areas & skills:** Career development: Policy & government, Policy
+**Areas & skills:** Career development: Policy & government
 
 ## Summary
 - In this role, you'll assist the IISS South and Central Asia Programme Head on regional security and defence research, focusing on India-Pakistan-Afghanistan issues.

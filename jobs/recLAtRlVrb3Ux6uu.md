@@ -2,7 +2,7 @@
 title: "Postdoctoral Associate, AI Performance and Safety"
 employer: "Massachusetts Institute of Technology, FutureTech"
 job_id: "recLAtRlVrb3Ux6uu"
-last_updated: "2026-08-07T05:33:48.538924Z"
+last_updated: "2026-08-08T05:33:42.577707Z"
 posted_at: "2022-01-06T00:00:00Z"
 status: ready
 apply_url: "https://futuretech.mit.edu/opportunities/postdoctoral-associate---ai-performance-and-safety"
@@ -33,4 +33,4 @@ areas:
 <p class="apply-cta"><a href="https://futuretech.mit.edu/opportunities/postdoctoral-associate---ai-performance-and-safety">Apply →</a></p>
 
 ---
-*Posted 2022-01-06 · Listing synced 2026-08-07 · 80k job ID `recLAtRlVrb3Ux6uu`*
+*Posted 2022-01-06 · Listing synced 2026-08-08 · 80k job ID `recLAtRlVrb3Ux6uu`*

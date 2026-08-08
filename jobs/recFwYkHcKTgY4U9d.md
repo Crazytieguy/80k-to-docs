@@ -2,7 +2,7 @@
 title: "Strategy Fellow"
 employer: "Forecasting Research Institute"
 job_id: "recFwYkHcKTgY4U9d"
-last_updated: "2026-08-07T05:33:57.775841Z"
+last_updated: "2026-08-08T05:33:52.288326Z"
 posted_at: "2022-01-05T00:00:00Z"
 status: ready
 apply_url: "https://forecastingresearch.org/careers/strategy-fellow"
@@ -34,4 +34,4 @@ areas:
 <p class="apply-cta"><a href="https://forecastingresearch.org/careers/strategy-fellow">Apply →</a></p>
 
 ---
-*Posted 2022-01-05 · Listing synced 2026-08-07 · 80k job ID `recFwYkHcKTgY4U9d`*
+*Posted 2022-01-05 · Listing synced 2026-08-08 · 80k job ID `recFwYkHcKTgY4U9d`*

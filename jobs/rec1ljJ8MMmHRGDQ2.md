@@ -2,7 +2,7 @@
 title: "Research Analyst, Commons"
 employer: "GiveWell"
 job_id: "rec1ljJ8MMmHRGDQ2"
-last_updated: "2026-08-07T05:33:38.222185Z"
+last_updated: "2026-08-08T05:33:30.998245Z"
 posted_at: "2022-01-08T00:00:00Z"
 status: ready
 apply_url: "https://grnh.se/0b4ueh0k8us"
@@ -34,4 +34,4 @@ areas:
 <p class="apply-cta"><a href="https://grnh.se/0b4ueh0k8us">Apply →</a></p>
 
 ---
-*Posted 2022-01-08 · Listing synced 2026-08-07 · 80k job ID `rec1ljJ8MMmHRGDQ2`*
+*Posted 2022-01-08 · Listing synced 2026-08-08 · 80k job ID `rec1ljJ8MMmHRGDQ2`*

@@ -2,7 +2,7 @@
 title: "Head of Communications and Public Relations"
 employer: "Apollo Research"
 job_id: "recOY0cfd34xXjc5b"
-last_updated: "2026-08-07T05:32:30.723486Z"
+last_updated: "2026-08-08T05:32:21.475946Z"
 posted_at: "2026-07-31T00:04:24Z"
 status: ready
 apply_url: "https://jobs.lever.co/apolloresearch/3b988445-6370-48a9-9718-9f8ba57307b2"
@@ -34,4 +34,4 @@ areas:
 <p class="apply-cta"><a href="https://jobs.lever.co/apolloresearch/3b988445-6370-48a9-9718-9f8ba57307b2">Apply →</a></p>
 
 ---
-*Posted 2026-07-31 · Listing synced 2026-08-07 · 80k job ID `recOY0cfd34xXjc5b`*
+*Posted 2026-07-31 · Listing synced 2026-08-08 · 80k job ID `recOY0cfd34xXjc5b`*

@@ -2,10 +2,10 @@
 title: "Software Engineer, Infrastructure Security"
 employer: "OpenAI"
 job_id: "recwldYT3YSzZgpvn"
-last_updated: "2026-08-07T05:33:35.405543Z"
+last_updated: "2026-08-08T05:33:28.378372Z"
 posted_at: "2022-01-11T00:00:00Z"
 status: ready
-apply_url: "https://openai.com/careers/software-engineer-infrastructure-security-remote-us/"
+apply_url: "https://openai.com/careers/software-engineer-infrastructure-security-us-remote/"
 areas:
   - "AI safety & policy"
 ---
@@ -31,7 +31,7 @@ areas:
 - Develop automation and detection tooling to identify and mitigate risks in cloud and on-prem environments.
 - Lead design reviews and threat models to ensure new systems launch with strong security foundations.
 
-<p class="apply-cta"><a href="https://openai.com/careers/software-engineer-infrastructure-security-remote-us/">Apply →</a></p>
+<p class="apply-cta"><a href="https://openai.com/careers/software-engineer-infrastructure-security-us-remote/">Apply →</a></p>
 
 ---
-*Posted 2022-01-11 · Listing synced 2026-08-07 · 80k job ID `recwldYT3YSzZgpvn`*
+*Posted 2022-01-11 · Listing synced 2026-08-08 · 80k job ID `recwldYT3YSzZgpvn`*

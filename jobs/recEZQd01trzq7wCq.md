@@ -2,7 +2,7 @@
 title: "Request for Proposals, Pathogen-Agnostic Biothreat Detection"
 employer: "Blueprint Biosecurity"
 job_id: "recEZQd01trzq7wCq"
-last_updated: "2026-08-07T05:32:54.113474Z"
+last_updated: "2026-08-08T05:32:45.588528Z"
 posted_at: "2026-07-13T00:04:38Z"
 status: ready
 apply_url: "https://blueprintbiosecurity.org/biosurveillance-rfp-2026/"
@@ -32,4 +32,4 @@ areas:
 <p class="apply-cta"><a href="https://blueprintbiosecurity.org/biosurveillance-rfp-2026/">Apply →</a></p>
 
 ---
-*Posted 2026-07-13 · Listing synced 2026-08-07 · 80k job ID `recEZQd01trzq7wCq`*
+*Posted 2026-07-13 · Listing synced 2026-08-08 · 80k job ID `recEZQd01trzq7wCq`*

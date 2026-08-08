@@ -2,7 +2,7 @@
 title: "Research Manager"
 employer: "Center for AI Safety"
 job_id: "recj5EBFLPq9f5Rkp"
-last_updated: "2026-08-07T05:32:46.315086Z"
+last_updated: "2026-08-08T05:32:37.464777Z"
 posted_at: "2026-07-21T00:04:19Z"
 status: ready
 apply_url: "https://job-boards.greenhouse.io/centerforartificialintelligencesafetyinc/jobs/4316930009"
@@ -34,4 +34,4 @@ areas:
 <p class="apply-cta"><a href="https://job-boards.greenhouse.io/centerforartificialintelligencesafetyinc/jobs/4316930009">Apply →</a></p>
 
 ---
-*Posted 2026-07-21 · Listing synced 2026-08-07 · 80k job ID `recj5EBFLPq9f5Rkp`*
+*Posted 2026-07-21 · Listing synced 2026-08-08 · 80k job ID `recj5EBFLPq9f5Rkp`*

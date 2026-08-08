@@ -2,7 +2,7 @@
 title: "AI Security Guide, Course"
 employer: "University of Chicago, Existential Risk Laboratory"
 job_id: "recWytRsCHbzgAyPs"
-last_updated: "2026-08-07T05:33:21.295831Z"
+last_updated: "2026-08-08T05:33:12.139932Z"
 posted_at: "2026-06-02T00:00:00Z"
 status: ready
 apply_url: "https://xlabaisecurity.com/getting-started/welcome/"
@@ -32,4 +32,4 @@ areas:
 <p class="apply-cta"><a href="https://xlabaisecurity.com/getting-started/welcome/">Apply →</a></p>
 
 ---
-*Posted 2026-06-02 · Listing synced 2026-08-07 · 80k job ID `recWytRsCHbzgAyPs`*
+*Posted 2026-06-02 · Listing synced 2026-08-08 · 80k job ID `recWytRsCHbzgAyPs`*

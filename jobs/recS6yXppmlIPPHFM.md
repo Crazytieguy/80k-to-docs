@@ -2,7 +2,7 @@
 title: "Research Engineer, Safety Oversight, London"
 employer: "Google DeepMind"
 job_id: "recS6yXppmlIPPHFM"
-last_updated: "2026-08-07T05:32:41.218039Z"
+last_updated: "2026-08-08T05:32:32.128932Z"
 posted_at: "2026-07-27T00:00:00Z"
 status: ready
 apply_url: "https://www.google.com/about/careers/applications/jobs/results/136315616641327814-research-engineer-safety-oversight-deepmind?company=DeepMind"
@@ -33,4 +33,4 @@ areas:
 <p class="apply-cta"><a href="https://www.google.com/about/careers/applications/jobs/results/136315616641327814-research-engineer-safety-oversight-deepmind?company=DeepMind">Apply →</a></p>
 
 ---
-*Posted 2026-07-27 · Listing synced 2026-08-07 · 80k job ID `recS6yXppmlIPPHFM`*
+*Posted 2026-07-27 · Listing synced 2026-08-08 · 80k job ID `recS6yXppmlIPPHFM`*

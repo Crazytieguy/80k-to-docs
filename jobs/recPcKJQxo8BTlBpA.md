@@ -2,7 +2,7 @@
 title: "Graduate Software Engineer"
 employer: "Amodo Design"
 job_id: "recPcKJQxo8BTlBpA"
-last_updated: "2026-08-07T05:34:07.753259Z"
+last_updated: "2026-08-08T05:34:01.108768Z"
 posted_at: "2022-01-02T00:00:00Z"
 status: ready
 apply_url: "https://amododesign.com/career/graduate-software-engineer/"
@@ -15,11 +15,11 @@ areas:
 **[Amodo Design](https://amododesign.com/)**
 
 <dl class="job-meta">
-<dt>Location</dt><dd>Sheffield, UK, Remote, UK, UK</dd>
+<dt>Location</dt><dd>Remote, UK, Sheffield, UK, UK</dd>
 <dt>Role type</dt><dd>Full-time</dd>
 <dt>Experience</dt><dd>Entry-level</dd>
 <dt>Degree</dt><dd>Undergraduate degree or less</dd>
-<dt>Salary</dt><dd>$47,085 – $60,538</dd>
+<dt>Salary</dt><dd>$47,222 – $60,714</dd>
 </dl>
 
 **Areas & skills:** Career development: Technical, Software engineering
@@ -34,4 +34,4 @@ areas:
 <p class="apply-cta"><a href="https://amododesign.com/career/graduate-software-engineer/">Apply →</a></p>
 
 ---
-*Posted 2022-01-02 · Listing synced 2026-08-07 · 80k job ID `recPcKJQxo8BTlBpA`*
+*Posted 2022-01-02 · Listing synced 2026-08-08 · 80k job ID `recPcKJQxo8BTlBpA`*

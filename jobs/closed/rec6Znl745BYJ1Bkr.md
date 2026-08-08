@@ -4,25 +4,20 @@ employer: "Federation of American Scientists"
 job_id: "rec6Znl745BYJ1Bkr"
 last_updated: "2026-08-07T05:33:15.048115Z"
 posted_at: "2026-06-11T00:02:00Z"
-status: ready
+status: closed
+closed_at: "2026-08-08"
 apply_url: "https://fas.org/career/director-ai-policy/"
 areas:
   - "AI safety & policy"
 ---
 
+> ⚠️ **CLOSED on 2026-08-08** — this job is no longer listed on the 80,000 Hours board. Archived snapshot below.
+
 # Director, AI Policy
 
-**[Federation of American Scientists](https://fas.org/about-fas/)**
+**Federation of American Scientists**
 
-<dl class="job-meta">
-<dt>Location</dt><dd>Washington, DC metro area, USA</dd>
-<dt>Role type</dt><dd>Full-time</dd>
-<dt>Experience</dt><dd>Senior (10+ years experience)</dd>
-<dt>Degree</dt><dd>Master's degree</dd>
-<dt>Salary</dt><dd>$175,000 – $215,000</dd>
-</dl>
-
-**Areas & skills:** AI safety & policy, Policy, Management, Strategy
+**Areas & skills:** AI safety & policy
 
 ## Summary
 - In this role, you'll lead the Federation of American Scientists' growing AI policy portfolio across multiple interconnected domains.

@@ -2,7 +2,7 @@
 title: "Board Member"
 employer: "Effective Altruism Netherlands"
 job_id: "recYFOFpZNOpnHYCF"
-last_updated: "2026-08-07T05:32:51.989041Z"
+last_updated: "2026-08-08T05:32:43.034907Z"
 posted_at: "2026-07-15T00:00:00Z"
 status: ready
 apply_url: "https://effectiefaltruisme.nl/en/roles/english"
@@ -33,4 +33,4 @@ areas:
 <p class="apply-cta"><a href="https://effectiefaltruisme.nl/en/roles/english">Apply →</a></p>
 
 ---
-*Posted 2026-07-15 · Listing synced 2026-08-07 · 80k job ID `recYFOFpZNOpnHYCF`*
+*Posted 2026-07-15 · Listing synced 2026-08-08 · 80k job ID `recYFOFpZNOpnHYCF`*

@@ -4,25 +4,20 @@ employer: "Federation of American Scientists"
 job_id: "recJBMZmhOnB4QSLK"
 last_updated: "2026-08-07T05:33:25.690090Z"
 posted_at: "2026-05-21T00:02:00Z"
-status: ready
+status: closed
+closed_at: "2026-08-08"
 apply_url: "https://fas.org/career/senior-manager-ai-safety-and-security-policy/"
 areas:
   - "AI safety & policy"
 ---
 
+> ⚠️ **CLOSED on 2026-08-08** — this job is no longer listed on the 80,000 Hours board. Archived snapshot below.
+
 # Senior Manager, AI Safety and Security Policy
 
-**[Federation of American Scientists](https://fas.org/about-fas/)**
+**Federation of American Scientists**
 
-<dl class="job-meta">
-<dt>Location</dt><dd>Washington, DC metro area, USA</dd>
-<dt>Role type</dt><dd>Full-time</dd>
-<dt>Experience</dt><dd>Mid (5-9 years experience)</dd>
-<dt>Degree</dt><dd>Master's degree</dd>
-<dt>Salary</dt><dd>$110,000 – $135,000</dd>
-</dl>
-
-**Areas & skills:** AI safety & policy, Policy
+**Areas & skills:** AI safety & policy
 
 ## Summary
 - In this role, you'll advance AI safety and security policy, translating technical insights into tangible policy change.
