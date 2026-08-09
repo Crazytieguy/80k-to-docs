@@ -2,7 +2,7 @@
 title: "Research Scientist"
 employer: "Goodfire"
 job_id: "recjHzF2YdjiyeYY9"
-last_updated: "2026-08-08T05:32:04.315014Z"
+last_updated: "2026-08-09T05:31:36.417281Z"
 posted_at: "2026-08-07T00:00:00Z"
 status: ready
 apply_url: "https://job-boards.greenhouse.io/goodfire/jobs/5382137008"
@@ -34,4 +34,4 @@ areas:
 <p class="apply-cta"><a href="https://job-boards.greenhouse.io/goodfire/jobs/5382137008">Apply →</a></p>
 
 ---
-*Posted 2026-08-07 · Listing synced 2026-08-08 · 80k job ID `recjHzF2YdjiyeYY9`*
+*Posted 2026-08-07 · Listing synced 2026-08-09 · 80k job ID `recjHzF2YdjiyeYY9`*

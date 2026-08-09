@@ -2,7 +2,7 @@
 title: "Contract Work, Application Screening"
 employer: "London AI Safety Research Labs"
 job_id: "recumI6RQcRkNK7hM"
-last_updated: "2026-08-08T05:32:10.834197Z"
+last_updated: "2026-08-09T05:31:43.718360Z"
 posted_at: "2026-08-04T00:03:00Z"
 status: ready
 apply_url: "https://www.lasrlabs.org/contract-work/"
@@ -34,4 +34,4 @@ areas:
 <p class="apply-cta"><a href="https://www.lasrlabs.org/contract-work/">Apply →</a></p>
 
 ---
-*Posted 2026-08-04 · Listing synced 2026-08-08 · 80k job ID `recumI6RQcRkNK7hM`*
+*Posted 2026-08-04 · Listing synced 2026-08-09 · 80k job ID `recumI6RQcRkNK7hM`*

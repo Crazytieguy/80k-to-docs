@@ -2,7 +2,7 @@
 title: "Chief of Staff"
 employer: "Simon Institute for Longterm Governance"
 job_id: "recGGXLOMhQa6Y99h"
-last_updated: "2026-08-08T05:32:33.978685Z"
+last_updated: "2026-08-09T05:32:05.705171Z"
 posted_at: "2026-07-24T00:04:54Z"
 status: ready
 apply_url: "https://simoninstitute.ch/jobs/chief-of-staff"
@@ -34,4 +34,4 @@ areas:
 <p class="apply-cta"><a href="https://simoninstitute.ch/jobs/chief-of-staff">Apply →</a></p>
 
 ---
-*Posted 2026-07-24 · Listing synced 2026-08-08 · 80k job ID `recGGXLOMhQa6Y99h`*
+*Posted 2026-07-24 · Listing synced 2026-08-09 · 80k job ID `recGGXLOMhQa6Y99h`*

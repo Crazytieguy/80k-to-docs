@@ -2,7 +2,7 @@
 title: "Brand and Graphic Designer"
 employer: "Founders Pledge"
 job_id: "reccJhimk76KrbjRt"
-last_updated: "2026-08-08T05:32:15.688451Z"
+last_updated: "2026-08-09T05:31:48.450998Z"
 posted_at: "2026-08-03T00:03:00Z"
 status: ready
 apply_url: "https://careers.founderspledge.com/jobs/8130278-brand-graphic-designer"
@@ -34,4 +34,4 @@ areas:
 <p class="apply-cta"><a href="https://careers.founderspledge.com/jobs/8130278-brand-graphic-designer">Apply →</a></p>
 
 ---
-*Posted 2026-08-03 · Listing synced 2026-08-08 · 80k job ID `reccJhimk76KrbjRt`*
+*Posted 2026-08-03 · Listing synced 2026-08-09 · 80k job ID `reccJhimk76KrbjRt`*

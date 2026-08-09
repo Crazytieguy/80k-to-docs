@@ -2,7 +2,7 @@
 title: "Fellow in Residence, AI Institute"
 employer: "Schmidt Sciences"
 job_id: "recD2kk29ILn3ng4g"
-last_updated: "2026-08-08T05:32:56.570004Z"
+last_updated: "2026-08-09T05:32:26.158064Z"
 posted_at: "2026-07-02T00:00:00Z"
 status: ready
 apply_url: "https://jobs.lever.co/schmidt-entities/c42b4c52-d92a-4bd6-bac6-6b2d94159b35"
@@ -33,4 +33,4 @@ areas:
 <p class="apply-cta"><a href="https://jobs.lever.co/schmidt-entities/c42b4c52-d92a-4bd6-bac6-6b2d94159b35">Apply →</a></p>
 
 ---
-*Posted 2026-07-02 · Listing synced 2026-08-08 · 80k job ID `recD2kk29ILn3ng4g`*
+*Posted 2026-07-02 · Listing synced 2026-08-09 · 80k job ID `recD2kk29ILn3ng4g`*

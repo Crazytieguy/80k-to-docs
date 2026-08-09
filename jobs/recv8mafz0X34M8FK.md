@@ -2,7 +2,7 @@
 title: "Producer, Studio Team"
 employer: "80,000 Hours"
 job_id: "recv8mafz0X34M8FK"
-last_updated: "2026-08-08T05:32:07.992590Z"
+last_updated: "2026-08-09T05:31:40.202980Z"
 posted_at: "2026-08-05T00:04:26Z"
 status: ready
 apply_url: "https://jobs.ashbyhq.com/80000hours/51f13f82-2328-432e-bbb5-e38f04b2bb07"
@@ -34,4 +34,4 @@ areas:
 <p class="apply-cta"><a href="https://jobs.ashbyhq.com/80000hours/51f13f82-2328-432e-bbb5-e38f04b2bb07">Apply →</a></p>
 
 ---
-*Posted 2026-08-05 · Listing synced 2026-08-08 · 80k job ID `recv8mafz0X34M8FK`*
+*Posted 2026-08-05 · Listing synced 2026-08-09 · 80k job ID `recv8mafz0X34M8FK`*

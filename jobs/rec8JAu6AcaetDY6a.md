@@ -2,7 +2,7 @@
 title: "Public Health Response Manager"
 employer: "SecureBio"
 job_id: "rec8JAu6AcaetDY6a"
-last_updated: "2026-08-08T05:32:10.585586Z"
+last_updated: "2026-08-09T05:31:43.494185Z"
 posted_at: "2026-08-04T00:05:00Z"
 status: ready
 apply_url: "https://securebio.org/careers/public-health-response-manager"
@@ -34,4 +34,4 @@ areas:
 <p class="apply-cta"><a href="https://securebio.org/careers/public-health-response-manager">Apply →</a></p>
 
 ---
-*Posted 2026-08-04 · Listing synced 2026-08-08 · 80k job ID `rec8JAu6AcaetDY6a`*
+*Posted 2026-08-04 · Listing synced 2026-08-09 · 80k job ID `rec8JAu6AcaetDY6a`*

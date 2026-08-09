@@ -2,7 +2,7 @@
 title: "Communications Lead"
 employer: "Simon Institute for Longterm Governance"
 job_id: "recPHQh43sgm08ZsI"
-last_updated: "2026-08-08T05:32:33.767199Z"
+last_updated: "2026-08-09T05:32:05.562992Z"
 posted_at: "2026-07-24T00:04:55Z"
 status: ready
 apply_url: "https://simoninstitute.ch/jobs/communications-lead"
@@ -34,4 +34,4 @@ areas:
 <p class="apply-cta"><a href="https://simoninstitute.ch/jobs/communications-lead">Apply →</a></p>
 
 ---
-*Posted 2026-07-24 · Listing synced 2026-08-08 · 80k job ID `recPHQh43sgm08ZsI`*
+*Posted 2026-07-24 · Listing synced 2026-08-09 · 80k job ID `recPHQh43sgm08ZsI`*

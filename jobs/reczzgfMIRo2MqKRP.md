@@ -2,7 +2,7 @@
 title: "Operations Associate"
 employer: "Fairer Fields"
 job_id: "reczzgfMIRo2MqKRP"
-last_updated: "2026-08-08T05:32:27.713585Z"
+last_updated: "2026-08-09T05:31:59.927958Z"
 posted_at: "2026-07-29T00:00:00Z"
 status: ready
 apply_url: "https://docs.google.com/document/d/1XWLTlwT2a9SjRP0q-iMcqAfcmAiQW4nFAQzJC6Mvp0o/edit?tab=t.0#heading=h.zempbe3n5qso"
@@ -34,4 +34,4 @@ areas:
 <p class="apply-cta"><a href="https://docs.google.com/document/d/1XWLTlwT2a9SjRP0q-iMcqAfcmAiQW4nFAQzJC6Mvp0o/edit?tab=t.0#heading=h.zempbe3n5qso">Apply →</a></p>
 
 ---
-*Posted 2026-07-29 · Listing synced 2026-08-08 · 80k job ID `reczzgfMIRo2MqKRP`*
+*Posted 2026-07-29 · Listing synced 2026-08-09 · 80k job ID `reczzgfMIRo2MqKRP`*

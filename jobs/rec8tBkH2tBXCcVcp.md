@@ -2,7 +2,7 @@
 title: "Head of Finance"
 employer: "MATS Research"
 job_id: "rec8tBkH2tBXCcVcp"
-last_updated: "2026-08-08T05:32:29.806326Z"
+last_updated: "2026-08-09T05:32:01.887448Z"
 posted_at: "2026-07-28T00:04:15Z"
 status: ready
 apply_url: "https://www.matsprogram.org/careers/head-of-finance"
@@ -34,4 +34,4 @@ areas:
 <p class="apply-cta"><a href="https://www.matsprogram.org/careers/head-of-finance">Apply →</a></p>
 
 ---
-*Posted 2026-07-28 · Listing synced 2026-08-08 · 80k job ID `rec8tBkH2tBXCcVcp`*
+*Posted 2026-07-28 · Listing synced 2026-08-09 · 80k job ID `rec8tBkH2tBXCcVcp`*

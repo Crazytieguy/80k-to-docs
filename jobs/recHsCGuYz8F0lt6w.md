@@ -2,7 +2,7 @@
 title: "Field Research Fellowship"
 employer: "Taimaka"
 job_id: "recHsCGuYz8F0lt6w"
-last_updated: "2026-08-08T05:34:11.957925Z"
+last_updated: "2026-08-09T05:33:38.451300Z"
 posted_at: "2022-01-02T00:00:00Z"
 status: ready
 apply_url: "https://docs.google.com/forms/d/e/1FAIpQLSdSZx0TZ1_wFfks9XC_nz0wuQ4h_QqY6K1OP7aZ1tPw299Guw/viewform"
@@ -34,4 +34,4 @@ areas:
 <p class="apply-cta"><a href="https://docs.google.com/forms/d/e/1FAIpQLSdSZx0TZ1_wFfks9XC_nz0wuQ4h_QqY6K1OP7aZ1tPw299Guw/viewform">Apply →</a></p>
 
 ---
-*Posted 2022-01-02 · Listing synced 2026-08-08 · 80k job ID `recHsCGuYz8F0lt6w`*
+*Posted 2022-01-02 · Listing synced 2026-08-09 · 80k job ID `recHsCGuYz8F0lt6w`*

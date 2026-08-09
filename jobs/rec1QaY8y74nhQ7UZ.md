@@ -2,7 +2,7 @@
 title: "Research Manager"
 employer: "Center on Long-Term Risk"
 job_id: "rec1QaY8y74nhQ7UZ"
-last_updated: "2026-08-08T05:32:55.508566Z"
+last_updated: "2026-08-09T05:32:25.099606Z"
 posted_at: "2026-07-02T00:04:46Z"
 status: ready
 apply_url: "https://longtermrisk.org/2026-research-manager/"
@@ -34,4 +34,4 @@ areas:
 <p class="apply-cta"><a href="https://longtermrisk.org/2026-research-manager/">Apply →</a></p>
 
 ---
-*Posted 2026-07-02 · Listing synced 2026-08-08 · 80k job ID `rec1QaY8y74nhQ7UZ`*
+*Posted 2026-07-02 · Listing synced 2026-08-09 · 80k job ID `rec1QaY8y74nhQ7UZ`*

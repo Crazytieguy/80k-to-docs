@@ -2,7 +2,7 @@
 title: "Senior Software Engineer, Chem-Bio"
 employer: "UK Government, AI Security Institute"
 job_id: "rec5upFDsUrTNcaaE"
-last_updated: "2026-08-08T05:32:29.265573Z"
+last_updated: "2026-08-09T05:32:01.438718Z"
 posted_at: "2026-07-28T00:04:20Z"
 status: ready
 apply_url: "https://job-boards.eu.greenhouse.io/aisi/jobs/4847773101"
@@ -34,4 +34,4 @@ areas:
 <p class="apply-cta"><a href="https://job-boards.eu.greenhouse.io/aisi/jobs/4847773101">Apply →</a></p>
 
 ---
-*Posted 2026-07-28 · Listing synced 2026-08-08 · 80k job ID `rec5upFDsUrTNcaaE`*
+*Posted 2026-07-28 · Listing synced 2026-08-09 · 80k job ID `rec5upFDsUrTNcaaE`*

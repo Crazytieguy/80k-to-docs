@@ -2,7 +2,7 @@
 title: "Expressions of Interest, Director of Operations"
 employer: "GovAI"
 job_id: "recQ2wqXJ2oksJ1Or"
-last_updated: "2026-08-08T05:33:18.577638Z"
+last_updated: "2026-08-09T05:32:48.205792Z"
 posted_at: "2026-05-22T00:00:00Z"
 status: ready
 apply_url: "https://www.governance.ai/post/doo-eoi-2026"
@@ -34,4 +34,4 @@ areas:
 <p class="apply-cta"><a href="https://www.governance.ai/post/doo-eoi-2026">Apply →</a></p>
 
 ---
-*Posted 2026-05-22 · Listing synced 2026-08-08 · 80k job ID `recQ2wqXJ2oksJ1Or`*
+*Posted 2026-05-22 · Listing synced 2026-08-09 · 80k job ID `recQ2wqXJ2oksJ1Or`*

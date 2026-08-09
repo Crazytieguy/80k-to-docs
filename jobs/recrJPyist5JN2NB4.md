@@ -2,7 +2,7 @@
 title: "Operations Associate / Specialist"
 employer: "SecureBio"
 job_id: "recrJPyist5JN2NB4"
-last_updated: "2026-08-08T05:32:28.807515Z"
+last_updated: "2026-08-09T05:32:01.048506Z"
 posted_at: "2026-07-29T00:00:00Z"
 status: ready
 apply_url: "https://securebio.org/careers/2026-operations-associate-specialist"
@@ -34,4 +34,4 @@ areas:
 <p class="apply-cta"><a href="https://securebio.org/careers/2026-operations-associate-specialist">Apply →</a></p>
 
 ---
-*Posted 2026-07-29 · Listing synced 2026-08-08 · 80k job ID `recrJPyist5JN2NB4`*
+*Posted 2026-07-29 · Listing synced 2026-08-09 · 80k job ID `recrJPyist5JN2NB4`*

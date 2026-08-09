@@ -2,7 +2,7 @@
 title: "Headhunting Associate / Specialist"
 employer: "80,000 Hours"
 job_id: "recSKQVWqFGUYcsbp"
-last_updated: "2026-08-08T05:32:18.971034Z"
+last_updated: "2026-08-09T05:31:51.694715Z"
 posted_at: "2026-07-31T00:05:00Z"
 status: ready
 apply_url: "https://jobs.ashbyhq.com/80000hours/7082c79b-193a-4a1e-970b-f956a579c11e"
@@ -34,4 +34,4 @@ areas:
 <p class="apply-cta"><a href="https://jobs.ashbyhq.com/80000hours/7082c79b-193a-4a1e-970b-f956a579c11e">Apply →</a></p>
 
 ---
-*Posted 2026-07-31 · Listing synced 2026-08-08 · 80k job ID `recSKQVWqFGUYcsbp`*
+*Posted 2026-07-31 · Listing synced 2026-08-09 · 80k job ID `recSKQVWqFGUYcsbp`*

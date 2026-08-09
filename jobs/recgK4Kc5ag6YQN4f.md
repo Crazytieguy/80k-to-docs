@@ -2,7 +2,7 @@
 title: "General Application"
 employer: "Coefficient Giving"
 job_id: "recgK4Kc5ag6YQN4f"
-last_updated: "2026-08-08T05:33:20.229392Z"
+last_updated: "2026-08-09T05:32:49.263592Z"
 posted_at: "2022-01-13T00:00:00Z"
 status: ready
 apply_url: "https://jobs.ashbyhq.com/coefficientgiving/2cc48fa8-97aa-47d8-b367-bf3b66cdba3f"
@@ -33,4 +33,4 @@ areas:
 <p class="apply-cta"><a href="https://jobs.ashbyhq.com/coefficientgiving/2cc48fa8-97aa-47d8-b367-bf3b66cdba3f">Apply →</a></p>
 
 ---
-*Posted 2022-01-13 · Listing synced 2026-08-08 · 80k job ID `recgK4Kc5ag6YQN4f`*
+*Posted 2022-01-13 · Listing synced 2026-08-09 · 80k job ID `recgK4Kc5ag6YQN4f`*

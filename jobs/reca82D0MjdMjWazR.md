@@ -2,7 +2,7 @@
 title: "Full-Stack Software Engineer, Research"
 employer: "Apollo Research"
 job_id: "reca82D0MjdMjWazR"
-last_updated: "2026-08-08T05:32:21.686706Z"
+last_updated: "2026-08-09T05:31:54.058992Z"
 posted_at: "2026-07-31T00:04:22Z"
 status: ready
 apply_url: "https://jobs.lever.co/apolloresearch/421c9d78-2ca3-4b9e-9e4a-22044d837571"
@@ -34,4 +34,4 @@ areas:
 <p class="apply-cta"><a href="https://jobs.lever.co/apolloresearch/421c9d78-2ca3-4b9e-9e4a-22044d837571">Apply →</a></p>
 
 ---
-*Posted 2026-07-31 · Listing synced 2026-08-08 · 80k job ID `reca82D0MjdMjWazR`*
+*Posted 2026-07-31 · Listing synced 2026-08-09 · 80k job ID `reca82D0MjdMjWazR`*

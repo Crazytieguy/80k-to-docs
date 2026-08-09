@@ -2,7 +2,7 @@
 title: "Better Futures Fellowship"
 employer: "European Network For AI Safety"
 job_id: "rec8JxV2CblTOvWQS"
-last_updated: "2026-08-08T05:32:11.281053Z"
+last_updated: "2026-08-09T05:31:44.176606Z"
 posted_at: "2026-08-04T00:02:00Z"
 status: ready
 apply_url: "https://lavish-raft-3ec.notion.site/AI-Safety-Collab-21ecc955fe3380729a53d88a300966e4"
@@ -33,4 +33,4 @@ areas:
 <p class="apply-cta"><a href="https://lavish-raft-3ec.notion.site/AI-Safety-Collab-21ecc955fe3380729a53d88a300966e4">Apply →</a></p>
 
 ---
-*Posted 2026-08-04 · Listing synced 2026-08-08 · 80k job ID `rec8JxV2CblTOvWQS`*
+*Posted 2026-08-04 · Listing synced 2026-08-09 · 80k job ID `rec8JxV2CblTOvWQS`*

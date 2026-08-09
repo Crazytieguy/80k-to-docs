@@ -2,7 +2,7 @@
 title: "Policy Advisor / Senior Policy Advisor"
 employer: "Encode"
 job_id: "recoCJT05CfUgCruE"
-last_updated: "2026-08-08T05:32:38.125689Z"
+last_updated: "2026-08-09T05:32:09.404888Z"
 posted_at: "2026-07-20T00:05:00Z"
 status: ready
 apply_url: "https://encode-careers.vercel.app/policy-advisor"
@@ -34,4 +34,4 @@ areas:
 <p class="apply-cta"><a href="https://encode-careers.vercel.app/policy-advisor">Apply →</a></p>
 
 ---
-*Posted 2026-07-20 · Listing synced 2026-08-08 · 80k job ID `recoCJT05CfUgCruE`*
+*Posted 2026-07-20 · Listing synced 2026-08-09 · 80k job ID `recoCJT05CfUgCruE`*

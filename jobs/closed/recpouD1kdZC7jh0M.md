@@ -4,24 +4,20 @@ employer: "Cooperative AI Foundation"
 job_id: "recpouD1kdZC7jh0M"
 last_updated: "2026-08-08T05:32:50.020715Z"
 posted_at: "2026-07-09T00:01:00Z"
-status: ready
+status: closed
+closed_at: "2026-08-09"
 apply_url: "https://www.cooperativeai.com/calls-for-proposals/scaling-ai-safety-for-a-multi-agent-world"
 areas:
   - "AI safety & policy"
 ---
 
+> ⚠️ **CLOSED on 2026-08-09** — this job is no longer listed on the 80,000 Hours board. Archived snapshot below.
+
 # Fund, Multi-Agent Safety
 
-**[Cooperative AI Foundation](https://www.cooperativeai.com/)**
+**Cooperative AI Foundation**
 
-<dl class="job-meta">
-<dt>Location</dt><dd>Remote, Global</dd>
-<dt>Role type</dt><dd>Funding</dd>
-<dt>Experience</dt><dd>Multiple experience levels</dd>
-<dt>Degree</dt><dd>Undergraduate degree or less</dd>
-</dl>
-
-**Areas & skills:** AI safety & policy, Research
+**Areas & skills:** AI safety & policy
 
 ## Summary
 - $10m fund to support the foundational scientific research needed to understand, evaluate, and control risks emerging from large-scale ecosystems of interacting AI agents, deployed by multiple actors.

@@ -4,25 +4,20 @@ employer: "Technical Alignment Research Accelerator"
 job_id: "recUiGxhkiKWi7A5O"
 last_updated: "2026-08-08T05:32:42.538626Z"
 posted_at: "2026-07-15T00:03:00Z"
-status: ready
+status: closed
+closed_at: "2026-08-09"
 apply_url: "https://docs.google.com/document/d/1VbQCRnfhHKDKqcYQQB2hESul_-E-G6xmZQMcpYf5zj8/edit?tab=t.0#heading=h.ewt0qmeqot2d"
 areas:
   - "AI safety & policy"
 ---
 
+> ⚠️ **CLOSED on 2026-08-09** — this job is no longer listed on the 80,000 Hours board. Archived snapshot below.
+
 # Teacher
 
-**[Technical Alignment Research Accelerator](https://www.taraprogram.org/)**
+**Technical Alignment Research Accelerator**
 
-<dl class="job-meta">
-<dt>Location</dt><dd>Remote, Global</dd>
-<dt>Role type</dt><dd>Part-time</dd>
-<dt>Experience</dt><dd>Junior (1-4 years experience), Mid (5-9 years experience)</dd>
-<dt>Degree</dt><dd>Undergraduate degree or less</dd>
-<dt>Salary</dt><dd>$117,597</dd>
-</dl>
-
-**Areas & skills:** AI safety & policy, Other
+**Areas & skills:** AI safety & policy
 
 ## Summary
 - In this role, you'll guide 25–30 participants in a 14-week AI safety program by leading Saturday sessions and providing remote support.
