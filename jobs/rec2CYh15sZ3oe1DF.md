@@ -2,7 +2,7 @@
 title: "Regulatory and Legal Policy Expert"
 employer: "Palisade Research"
 job_id: "rec2CYh15sZ3oe1DF"
-last_updated: "2026-08-09T05:32:18.981885Z"
+last_updated: "2026-08-10T05:32:53.775167Z"
 posted_at: "2026-07-09T00:05:00Z"
 status: ready
 apply_url: "https://jobs.gusto.com/postings/palisade-research-regulatory-and-legal-policy-expert-27572c55-be63-4f9f-b5a8-d813ecbb8664"
@@ -34,4 +34,4 @@ areas:
 <p class="apply-cta"><a href="https://jobs.gusto.com/postings/palisade-research-regulatory-and-legal-policy-expert-27572c55-be63-4f9f-b5a8-d813ecbb8664">Apply →</a></p>
 
 ---
-*Posted 2026-07-09 · Listing synced 2026-08-09 · 80k job ID `rec2CYh15sZ3oe1DF`*
+*Posted 2026-07-09 · Listing synced 2026-08-10 · 80k job ID `rec2CYh15sZ3oe1DF`*

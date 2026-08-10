@@ -2,7 +2,7 @@
 title: "Security Engineer"
 employer: "Magic"
 job_id: "recUa5a1dSjZCAyis"
-last_updated: "2026-08-09T05:33:42.536489Z"
+last_updated: "2026-08-10T05:34:21.328380Z"
 posted_at: "2022-01-01T00:00:00Z"
 status: ready
 apply_url: "https://magic.dev/careers/f9b3e872-cffa-400a-b9e0-621149c5f566"
@@ -34,4 +34,4 @@ areas:
 <p class="apply-cta"><a href="https://magic.dev/careers/f9b3e872-cffa-400a-b9e0-621149c5f566">Apply →</a></p>
 
 ---
-*Posted 2022-01-01 · Listing synced 2026-08-09 · 80k job ID `recUa5a1dSjZCAyis`*
+*Posted 2022-01-01 · Listing synced 2026-08-10 · 80k job ID `recUa5a1dSjZCAyis`*

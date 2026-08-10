@@ -2,22 +2,27 @@
 title: "Researcher, Built Environment"
 employer: "Blueprint Biosecurity"
 job_id: "recVPszOIPD08p4AQ"
-last_updated: "2026-08-07T05:32:46.891178Z"
+last_updated: "2026-08-10T05:32:44.798230Z"
 posted_at: "2026-07-20T00:05:00Z"
-status: closed
-closed_at: "2026-08-08"
+status: ready
 apply_url: "https://blueprintbiosecurity.pinpointhq.com/en/postings/c3dfb913-dc43-43d0-a9a7-32bff0f93ac5"
 areas:
   - "Biosecurity & pandemic preparedness"
 ---
 
-> ⚠️ **CLOSED on 2026-08-08** — this job is no longer listed on the 80,000 Hours board. Archived snapshot below.
-
 # Researcher, Built Environment
 
-**Blueprint Biosecurity**
+**[Blueprint Biosecurity](https://blueprintbiosecurity.org/)**
 
-**Areas & skills:** Biosecurity & pandemic preparedness
+<dl class="job-meta">
+<dt>Location</dt><dd>Washington, DC metro area, USA</dd>
+<dt>Role type</dt><dd>Full-time</dd>
+<dt>Experience</dt><dd>Junior (1-4 years experience)</dd>
+<dt>Degree</dt><dd>Undergraduate degree or less</dd>
+<dt>Salary</dt><dd>$127,000 – $162,000</dd>
+</dl>
+
+**Areas & skills:** Biosecurity & pandemic preparedness, Research
 
 ## Summary
 - In this role, you'll strengthen pandemic preparedness through research and strategic implementation of biosecurity solutions.
@@ -29,4 +34,4 @@ areas:
 <p class="apply-cta"><a href="https://blueprintbiosecurity.pinpointhq.com/en/postings/c3dfb913-dc43-43d0-a9a7-32bff0f93ac5">Apply →</a></p>
 
 ---
-*Posted 2026-07-20 · Listing synced 2026-08-07 · 80k job ID `recVPszOIPD08p4AQ`*
+*Posted 2026-07-20 · Listing synced 2026-08-10 · 80k job ID `recVPszOIPD08p4AQ`*

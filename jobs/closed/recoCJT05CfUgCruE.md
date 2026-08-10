@@ -4,25 +4,20 @@ employer: "Encode"
 job_id: "recoCJT05CfUgCruE"
 last_updated: "2026-08-09T05:32:09.404888Z"
 posted_at: "2026-07-20T00:05:00Z"
-status: ready
+status: closed
+closed_at: "2026-08-10"
 apply_url: "https://encode-careers.vercel.app/policy-advisor"
 areas:
   - "AI safety & policy"
 ---
 
+> ⚠️ **CLOSED on 2026-08-10** — this job is no longer listed on the 80,000 Hours board. Archived snapshot below.
+
 # Policy Advisor / Senior Policy Advisor
 
-**[Encode](https://encodeai.org/)**
+**Encode**
 
-<dl class="job-meta">
-<dt>Location</dt><dd>Washington, DC metro area, USA</dd>
-<dt>Role type</dt><dd>Full-time</dd>
-<dt>Experience</dt><dd>Multiple experience levels</dd>
-<dt>Degree</dt><dd>Undergraduate degree or less</dd>
-<dt>Salary</dt><dd>$110,000 – $180,000</dd>
-</dl>
-
-**Areas & skills:** AI safety & policy, Policy
+**Areas & skills:** AI safety & policy
 
 ## Summary
 - In this role, you'll build campaigns to pass state AI laws through policy development, implementation support, and coalition building.

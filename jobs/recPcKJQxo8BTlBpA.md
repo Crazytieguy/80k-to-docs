@@ -2,7 +2,7 @@
 title: "Graduate Software Engineer"
 employer: "Amodo Design"
 job_id: "recPcKJQxo8BTlBpA"
-last_updated: "2026-08-09T05:33:28.948171Z"
+last_updated: "2026-08-10T05:34:07.579641Z"
 posted_at: "2022-01-02T00:00:00Z"
 status: ready
 apply_url: "https://amododesign.com/career/graduate-software-engineer/"
@@ -19,7 +19,7 @@ areas:
 <dt>Role type</dt><dd>Full-time</dd>
 <dt>Experience</dt><dd>Entry-level</dd>
 <dt>Degree</dt><dd>Undergraduate degree or less</dd>
-<dt>Salary</dt><dd>$47,222 – $60,714</dd>
+<dt>Salary</dt><dd>$47,209 – $60,697</dd>
 </dl>
 
 **Areas & skills:** Career development: Technical, Software engineering
@@ -34,4 +34,4 @@ areas:
 <p class="apply-cta"><a href="https://amododesign.com/career/graduate-software-engineer/">Apply →</a></p>
 
 ---
-*Posted 2022-01-02 · Listing synced 2026-08-09 · 80k job ID `recPcKJQxo8BTlBpA`*
+*Posted 2022-01-02 · Listing synced 2026-08-10 · 80k job ID `recPcKJQxo8BTlBpA`*

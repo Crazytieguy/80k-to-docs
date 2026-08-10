@@ -2,7 +2,7 @@
 title: "Researcher, Alignment Chain of Thought Monitorability"
 employer: "OpenAI"
 job_id: "rec3ZevF3BIGNj8Oa"
-last_updated: "2026-08-09T05:31:42.429697Z"
+last_updated: "2026-08-10T05:32:20.216984Z"
 posted_at: "2026-08-05T00:00:00Z"
 status: ready
 apply_url: "https://openai.com/careers/researcher-alignment-cot-monitorability-san-francisco/"
@@ -34,4 +34,4 @@ areas:
 <p class="apply-cta"><a href="https://openai.com/careers/researcher-alignment-cot-monitorability-san-francisco/">Apply →</a></p>
 
 ---
-*Posted 2026-08-05 · Listing synced 2026-08-09 · 80k job ID `rec3ZevF3BIGNj8Oa`*
+*Posted 2026-08-05 · Listing synced 2026-08-10 · 80k job ID `rec3ZevF3BIGNj8Oa`*

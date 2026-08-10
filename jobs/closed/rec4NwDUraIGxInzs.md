@@ -4,25 +4,20 @@ employer: "UK Government, AI Security Institute"
 job_id: "rec4NwDUraIGxInzs"
 last_updated: "2026-08-09T05:32:01.557075Z"
 posted_at: "2026-07-28T00:04:18Z"
-status: ready
+status: closed
+closed_at: "2026-08-10"
 apply_url: "https://job-boards.eu.greenhouse.io/csjobs/jobs/4933887101"
 areas:
   - "AI safety & policy"
 ---
 
+> ⚠️ **CLOSED on 2026-08-10** — this job is no longer listed on the 80,000 Hours board. Archived snapshot below.
+
 # Delivery Advisor, Red Team
 
-**[UK Government, AI Security Institute](https://www.aisi.gov.uk/)**
+**UK Government, AI Security Institute**
 
-<dl class="job-meta">
-<dt>Location</dt><dd>London, UK, Manchester, UK, UK</dd>
-<dt>Role type</dt><dd>Full-time</dd>
-<dt>Experience</dt><dd>Junior (1-4 years experience)</dd>
-<dt>Degree</dt><dd>Undergraduate degree or less</dd>
-<dt>Salary</dt><dd>$60,201 – $70,280</dd>
-</dl>
-
-**Areas & skills:** AI safety & policy, Operations
+**Areas & skills:** AI safety & policy
 
 ## Summary
 - In this role, you'll own several operational domains end-to-end and shape how the Red Team runs as it scales.

@@ -2,7 +2,7 @@
 title: "Engineer, Robotics and Hardware"
 employer: "Andon Labs"
 job_id: "recTrREKaQTXl7CIg"
-last_updated: "2026-08-09T05:32:02.411607Z"
+last_updated: "2026-08-10T05:32:37.764644Z"
 posted_at: "2026-07-28T00:00:00Z"
 status: ready
 apply_url: "https://andonlabs.notion.site/32851e560a95819d8c67db922e5a7cf2"
@@ -34,4 +34,4 @@ areas:
 <p class="apply-cta"><a href="https://andonlabs.notion.site/32851e560a95819d8c67db922e5a7cf2">Apply →</a></p>
 
 ---
-*Posted 2026-07-28 · Listing synced 2026-08-09 · 80k job ID `recTrREKaQTXl7CIg`*
+*Posted 2026-07-28 · Listing synced 2026-08-10 · 80k job ID `recTrREKaQTXl7CIg`*

@@ -2,7 +2,7 @@
 title: "AI Talent and Special Projects Manager, Center on AI, Security, and Technology"
 employer: "RAND Corporation"
 job_id: "recdyMjJkEwxjdAQ0"
-last_updated: "2026-08-09T05:31:34.360013Z"
+last_updated: "2026-08-10T05:32:12.117707Z"
 posted_at: "2026-08-07T00:05:00Z"
 status: ready
 apply_url: "https://docs.google.com/document/d/1I2VaBMrvYPhZF5rVdiOi_wCOe3Nx9_QppfhdXqxMjeI/edit?tab=t.0#heading=h.dx76zrtyqdr5"
@@ -33,4 +33,4 @@ areas:
 <p class="apply-cta"><a href="https://docs.google.com/document/d/1I2VaBMrvYPhZF5rVdiOi_wCOe3Nx9_QppfhdXqxMjeI/edit?tab=t.0#heading=h.dx76zrtyqdr5">Apply →</a></p>
 
 ---
-*Posted 2026-08-07 · Listing synced 2026-08-09 · 80k job ID `recdyMjJkEwxjdAQ0`*
+*Posted 2026-08-07 · Listing synced 2026-08-10 · 80k job ID `recdyMjJkEwxjdAQ0`*

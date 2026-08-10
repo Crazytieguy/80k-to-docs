@@ -2,7 +2,7 @@
 title: "Fractional Controller"
 employer: "The AI Policy Network"
 job_id: "rec1noKmfb1GJE6UP"
-last_updated: "2026-08-09T05:31:45.316477Z"
+last_updated: "2026-08-10T05:32:21.640324Z"
 posted_at: "2026-08-04T00:02:00Z"
 status: ready
 apply_url: "https://theaipn.org/careers/fractional-controller/"
@@ -34,4 +34,4 @@ areas:
 <p class="apply-cta"><a href="https://theaipn.org/careers/fractional-controller/">Apply →</a></p>
 
 ---
-*Posted 2026-08-04 · Listing synced 2026-08-09 · 80k job ID `rec1noKmfb1GJE6UP`*
+*Posted 2026-08-04 · Listing synced 2026-08-10 · 80k job ID `rec1noKmfb1GJE6UP`*

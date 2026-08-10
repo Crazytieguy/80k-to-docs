@@ -2,7 +2,7 @@
 title: "Member of Technical Staff, Research"
 employer: "Model Evaluation and Threat Research"
 job_id: "recgrQBzgbmzLUJNj"
-last_updated: "2026-08-09T05:32:55.893630Z"
+last_updated: "2026-08-10T05:33:31.142492Z"
 posted_at: "2022-01-11T00:00:00Z"
 status: ready
 apply_url: "https://jobs.lever.co/metr/93baec4d-1e47-40f7-9990-6d7fef12da00"
@@ -34,4 +34,4 @@ areas:
 <p class="apply-cta"><a href="https://jobs.lever.co/metr/93baec4d-1e47-40f7-9990-6d7fef12da00">Apply →</a></p>
 
 ---
-*Posted 2022-01-11 · Listing synced 2026-08-09 · 80k job ID `recgrQBzgbmzLUJNj`*
+*Posted 2022-01-11 · Listing synced 2026-08-10 · 80k job ID `recgrQBzgbmzLUJNj`*

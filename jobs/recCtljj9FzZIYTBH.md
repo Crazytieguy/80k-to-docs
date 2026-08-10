@@ -2,7 +2,7 @@
 title: "Fellows"
 employer: "fp21"
 job_id: "recCtljj9FzZIYTBH"
-last_updated: "2026-08-09T05:33:41.798735Z"
+last_updated: "2026-08-10T05:34:20.446157Z"
 posted_at: "2022-01-01T00:00:00Z"
 status: ready
 apply_url: "https://drive.google.com/file/d/18G_FSF46BunvO9qYQ1C1qU2RTJr8jOa7/view"
@@ -33,4 +33,4 @@ areas:
 <p class="apply-cta"><a href="https://drive.google.com/file/d/18G_FSF46BunvO9qYQ1C1qU2RTJr8jOa7/view">Apply →</a></p>
 
 ---
-*Posted 2022-01-01 · Listing synced 2026-08-09 · 80k job ID `recCtljj9FzZIYTBH`*
+*Posted 2022-01-01 · Listing synced 2026-08-10 · 80k job ID `recCtljj9FzZIYTBH`*

@@ -4,24 +4,20 @@ employer: "Schmidt Sciences"
 job_id: "recYo5AQZKJMb2uPJ"
 last_updated: "2026-08-09T05:31:50.981171Z"
 posted_at: "2026-08-03T00:00:00Z"
-status: ready
+status: closed
+closed_at: "2026-08-10"
 apply_url: "https://schmidtsciences.smapply.io/prog/scaling_ai_safety_for_a_multi_agent_world/"
 areas:
   - "AI safety & policy"
 ---
 
+> ⚠️ **CLOSED on 2026-08-10** — this job is no longer listed on the 80,000 Hours board. Archived snapshot below.
+
 # Funding, Scaling AI Safety for a Multi-Agent World
 
-**[Schmidt Sciences](https://www.schmidtsciences.org/)**
+**Schmidt Sciences**
 
-<dl class="job-meta">
-<dt>Location</dt><dd>Remote, Global</dd>
-<dt>Role type</dt><dd>Funding</dd>
-<dt>Experience</dt><dd>Multiple experience levels</dd>
-<dt>Degree</dt><dd>Undergraduate degree or less</dd>
-</dl>
-
-**Areas & skills:** AI safety & policy, Research
+**Areas & skills:** AI safety & policy
 
 ## Summary
 - A funding call to answer how to ensure safety in a world with millions of interacting agents, built and deployed by many different actors.

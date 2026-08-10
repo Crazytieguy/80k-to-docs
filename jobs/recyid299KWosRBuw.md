@@ -2,7 +2,7 @@
 title: "Research Scholar"
 employer: "GovAI"
 job_id: "recyid299KWosRBuw"
-last_updated: "2026-08-09T05:32:08.470981Z"
+last_updated: "2026-08-10T05:32:43.866074Z"
 posted_at: "2026-07-21T00:05:00Z"
 status: ready
 apply_url: "https://www.governance.ai/post/research-scholar"
@@ -19,7 +19,7 @@ areas:
 <dt>Role type</dt><dd>Other</dd>
 <dt>Experience</dt><dd>Junior (1-4 years experience), Entry-level</dd>
 <dt>Degree</dt><dd>Undergraduate degree or less</dd>
-<dt>Salary</dt><dd>$101,190 – $139,642</dd>
+<dt>Salary</dt><dd>$101,161 – $139,603</dd>
 </dl>
 
 **Areas & skills:** AI safety & policy, Research, Policy
@@ -34,4 +34,4 @@ areas:
 <p class="apply-cta"><a href="https://www.governance.ai/post/research-scholar">Apply →</a></p>
 
 ---
-*Posted 2026-07-21 · Listing synced 2026-08-09 · 80k job ID `recyid299KWosRBuw`*
+*Posted 2026-07-21 · Listing synced 2026-08-10 · 80k job ID `recyid299KWosRBuw`*

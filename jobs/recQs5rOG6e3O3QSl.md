@@ -2,7 +2,7 @@
 title: "Head of Communications"
 employer: "FAR AI"
 job_id: "recQs5rOG6e3O3QSl"
-last_updated: "2026-08-09T05:32:22.297519Z"
+last_updated: "2026-08-10T05:32:56.798636Z"
 posted_at: "2026-07-07T00:05:00Z"
 status: ready
 apply_url: "https://jobs.ashbyhq.com/far.ai/7d1a985d-18cf-4775-af06-d4022d3e6012?embed=js"
@@ -34,4 +34,4 @@ areas:
 <p class="apply-cta"><a href="https://jobs.ashbyhq.com/far.ai/7d1a985d-18cf-4775-af06-d4022d3e6012?embed=js">Apply →</a></p>
 
 ---
-*Posted 2026-07-07 · Listing synced 2026-08-09 · 80k job ID `recQs5rOG6e3O3QSl`*
+*Posted 2026-07-07 · Listing synced 2026-08-10 · 80k job ID `recQs5rOG6e3O3QSl`*

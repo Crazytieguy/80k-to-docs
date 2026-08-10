@@ -2,7 +2,7 @@
 title: "Chief of Staff"
 employer: "Alignment Research Center"
 job_id: "rec10gqtDOaCBtBNz"
-last_updated: "2026-08-09T05:31:40.908334Z"
+last_updated: "2026-08-10T05:32:18.881321Z"
 posted_at: "2026-08-05T00:04:00Z"
 status: ready
 apply_url: "https://jobs.lever.co/alignment.org/92a375c0-e47e-4505-bacc-03eea7772d80"
@@ -34,4 +34,4 @@ areas:
 <p class="apply-cta"><a href="https://jobs.lever.co/alignment.org/92a375c0-e47e-4505-bacc-03eea7772d80">Apply →</a></p>
 
 ---
-*Posted 2026-08-05 · Listing synced 2026-08-09 · 80k job ID `rec10gqtDOaCBtBNz`*
+*Posted 2026-08-05 · Listing synced 2026-08-10 · 80k job ID `rec10gqtDOaCBtBNz`*

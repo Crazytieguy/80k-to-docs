@@ -2,7 +2,7 @@
 title: "Founding Member, Technical Staff"
 employer: "Neolithic"
 job_id: "rec1JklxLzA4VUctm"
-last_updated: "2026-08-09T05:31:42.181417Z"
+last_updated: "2026-08-10T05:32:20.075060Z"
 posted_at: "2026-08-05T00:00:00Z"
 status: ready
 apply_url: "https://neolithic.org/careers/founding-member-of-technical-staff/"
@@ -34,4 +34,4 @@ areas:
 <p class="apply-cta"><a href="https://neolithic.org/careers/founding-member-of-technical-staff/">Apply →</a></p>
 
 ---
-*Posted 2026-08-05 · Listing synced 2026-08-09 · 80k job ID `rec1JklxLzA4VUctm`*
+*Posted 2026-08-05 · Listing synced 2026-08-10 · 80k job ID `rec1JklxLzA4VUctm`*

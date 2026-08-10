@@ -2,7 +2,7 @@
 title: "Campaign Specialist, US / Canada"
 employer: "Mercy for Animals"
 job_id: "recxe3FMIIFekxSmA"
-last_updated: "2026-08-09T05:31:39.182779Z"
+last_updated: "2026-08-10T05:32:17.203447Z"
 posted_at: "2026-08-06T00:00:00Z"
 status: ready
 apply_url: "https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=9b16364c-5e0e-4e66-be82-8f108b1eb279&ccId=19000101_000001&source=CC2&lang=en_US&selectedMenuKey=CurrentOpenings&jobId=555990"
@@ -34,4 +34,4 @@ areas:
 <p class="apply-cta"><a href="https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=9b16364c-5e0e-4e66-be82-8f108b1eb279&amp;ccId=19000101_000001&amp;source=CC2&amp;lang=en_US&amp;selectedMenuKey=CurrentOpenings&amp;jobId=555990">Apply →</a></p>
 
 ---
-*Posted 2026-08-06 · Listing synced 2026-08-09 · 80k job ID `recxe3FMIIFekxSmA`*
+*Posted 2026-08-06 · Listing synced 2026-08-10 · 80k job ID `recxe3FMIIFekxSmA`*

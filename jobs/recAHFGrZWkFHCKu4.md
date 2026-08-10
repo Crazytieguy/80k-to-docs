@@ -2,7 +2,7 @@
 title: "Sourcing and Programs Staff, AI State Capacity"
 employer: "Institute for Progress"
 job_id: "recAHFGrZWkFHCKu4"
-last_updated: "2026-08-09T05:31:41.230785Z"
+last_updated: "2026-08-10T05:32:19.181914Z"
 posted_at: "2026-08-05T00:02:00Z"
 status: ready
 apply_url: "https://ifp.org/opportunity/sourcing-programs-staff-ai-state-capacity/"
@@ -34,4 +34,4 @@ areas:
 <p class="apply-cta"><a href="https://ifp.org/opportunity/sourcing-programs-staff-ai-state-capacity/">Apply →</a></p>
 
 ---
-*Posted 2026-08-05 · Listing synced 2026-08-09 · 80k job ID `recAHFGrZWkFHCKu4`*
+*Posted 2026-08-05 · Listing synced 2026-08-10 · 80k job ID `recAHFGrZWkFHCKu4`*

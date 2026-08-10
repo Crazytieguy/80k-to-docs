@@ -2,8 +2,8 @@
 title: "Research Fellow"
 employer: "University of California, Center for Human-Compatible Artificial Intelligence"
 job_id: "recuHoW48ZzFUjAT3"
-last_updated: "2026-08-09T05:32:48.453053Z"
-posted_at: "2026-05-22T00:00:00Z"
+last_updated: "2026-08-10T05:33:34.612026Z"
+posted_at: "2022-01-11T00:00:00Z"
 status: ready
 apply_url: "https://humancompatible.ai/jobs#the-chai-research-fellowship"
 areas:
@@ -33,4 +33,4 @@ areas:
 <p class="apply-cta"><a href="https://humancompatible.ai/jobs#the-chai-research-fellowship">Apply →</a></p>
 
 ---
-*Posted 2026-05-22 · Listing synced 2026-08-09 · 80k job ID `recuHoW48ZzFUjAT3`*
+*Posted 2022-01-11 · Listing synced 2026-08-10 · 80k job ID `recuHoW48ZzFUjAT3`*

@@ -4,24 +4,20 @@ employer: "Jewish Social Impact Network"
 job_id: "recI03p4Y9zcFZl4n"
 last_updated: "2026-08-09T05:32:12.046746Z"
 posted_at: "2026-07-17T00:00:00Z"
-status: ready
+status: closed
+closed_at: "2026-08-10"
 apply_url: "https://jewishsocialimpact.org/fellowship/"
 areas:
   - "Building effective altruism"
 ---
 
+> ⚠️ **CLOSED on 2026-08-10** — this job is no longer listed on the 80,000 Hours board. Archived snapshot below.
+
 # Careers Fellowship
 
-**[Jewish Social Impact Network](https://jewishsocialimpact.org/)**
+**Jewish Social Impact Network**
 
-<dl class="job-meta">
-<dt>Location</dt><dd>Remote, Global</dd>
-<dt>Role type</dt><dd>Fellowship</dd>
-<dt>Experience</dt><dd>Multiple experience levels</dd>
-<dt>Degree</dt><dd>Undergraduate degree or less</dd>
-</dl>
-
-**Areas & skills:** Building effective altruism, Other
+**Areas & skills:** Building effective altruism
 
 ## Summary
 - In this 8-week cohort-based fellowship, you'll align your career with Jewish values and evidence-based impact.

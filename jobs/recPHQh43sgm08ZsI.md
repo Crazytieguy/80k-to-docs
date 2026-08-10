@@ -2,7 +2,7 @@
 title: "Communications Lead"
 employer: "Simon Institute for Longterm Governance"
 job_id: "recPHQh43sgm08ZsI"
-last_updated: "2026-08-09T05:32:05.562992Z"
+last_updated: "2026-08-10T05:32:40.869478Z"
 posted_at: "2026-07-24T00:04:55Z"
 status: ready
 apply_url: "https://simoninstitute.ch/jobs/communications-lead"
@@ -19,7 +19,7 @@ areas:
 <dt>Role type</dt><dd>Full-time</dd>
 <dt>Experience</dt><dd>Mid (5-9 years experience)</dd>
 <dt>Degree</dt><dd>Undergraduate degree or less</dd>
-<dt>Salary</dt><dd>$128,730 – $178,242</dd>
+<dt>Salary</dt><dd>$128,493 – $177,914</dd>
 </dl>
 
 **Areas & skills:** AI safety & policy, Outreach
@@ -34,4 +34,4 @@ areas:
 <p class="apply-cta"><a href="https://simoninstitute.ch/jobs/communications-lead">Apply →</a></p>
 
 ---
-*Posted 2026-07-24 · Listing synced 2026-08-09 · 80k job ID `recPHQh43sgm08ZsI`*
+*Posted 2026-07-24 · Listing synced 2026-08-10 · 80k job ID `recPHQh43sgm08ZsI`*

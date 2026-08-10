@@ -2,7 +2,7 @@
 title: "Intern, Platform Engineering"
 employer: "Model Evaluation and Threat Research"
 job_id: "recro17Xea8zM5KFW"
-last_updated: "2026-08-09T05:31:56.323310Z"
+last_updated: "2026-08-10T05:32:31.892424Z"
 posted_at: "2026-07-30T00:05:00Z"
 status: ready
 apply_url: "https://jobs.lever.co/metr/52fca070-da6a-441e-b1d1-8184c51b52e6"
@@ -34,4 +34,4 @@ areas:
 <p class="apply-cta"><a href="https://jobs.lever.co/metr/52fca070-da6a-441e-b1d1-8184c51b52e6">Apply →</a></p>
 
 ---
-*Posted 2026-07-30 · Listing synced 2026-08-09 · 80k job ID `recro17Xea8zM5KFW`*
+*Posted 2026-07-30 · Listing synced 2026-08-10 · 80k job ID `recro17Xea8zM5KFW`*

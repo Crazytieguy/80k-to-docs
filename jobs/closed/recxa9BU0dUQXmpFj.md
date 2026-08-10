@@ -4,25 +4,21 @@ employer: "Sentient Futures"
 job_id: "recxa9BU0dUQXmpFj"
 last_updated: "2026-08-09T05:32:15.092804Z"
 posted_at: "2026-07-14T00:02:00Z"
-status: ready
+status: closed
+closed_at: "2026-08-10"
 apply_url: "https://sentientfutures.ai/projectincubator/"
 areas:
   - "AI safety & policy"
   - "Animal welfare"
 ---
 
+> ⚠️ **CLOSED on 2026-08-10** — this job is no longer listed on the 80,000 Hours board. Archived snapshot below.
+
 # Project Incubator (2026)
 
-**[Sentient Futures](https://www.sentientfutures.ai/)**
+**Sentient Futures**
 
-<dl class="job-meta">
-<dt>Location</dt><dd>Remote, Global</dd>
-<dt>Role type</dt><dd>Fellowship</dd>
-<dt>Experience</dt><dd>Multiple experience levels</dd>
-<dt>Degree</dt><dd>Undergraduate degree or less</dd>
-</dl>
-
-**Areas & skills:** AI safety & policy, Animal welfare, Research
+**Areas & skills:** AI safety & policy, Animal welfare
 
 ## Summary
 - This is a 10-week remote program pairing with a mentor to work on projects improving sentient welfare.

@@ -2,7 +2,7 @@
 title: "Product Lead, Opportunities Board"
 employer: "Centre for Effective Altruism"
 job_id: "recOEKYoLHjIgL0CE"
-last_updated: "2026-08-09T05:32:12.665296Z"
+last_updated: "2026-08-10T05:32:47.790979Z"
 posted_at: "2026-07-16T00:04:40Z"
 status: ready
 apply_url: "https://www.centreforeffectivealtruism.org/careers?ashby_jid=97c6c334-bd3d-4fc3-a3f9-3d3928c343d1"
@@ -33,4 +33,4 @@ areas:
 <p class="apply-cta"><a href="https://www.centreforeffectivealtruism.org/careers?ashby_jid=97c6c334-bd3d-4fc3-a3f9-3d3928c343d1">Apply →</a></p>
 
 ---
-*Posted 2026-07-16 · Listing synced 2026-08-09 · 80k job ID `recOEKYoLHjIgL0CE`*
+*Posted 2026-07-16 · Listing synced 2026-08-10 · 80k job ID `recOEKYoLHjIgL0CE`*

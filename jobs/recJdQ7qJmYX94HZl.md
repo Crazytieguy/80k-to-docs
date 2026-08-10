@@ -2,7 +2,7 @@
 title: "Development Specialist"
 employer: "New Roots Institute"
 job_id: "recJdQ7qJmYX94HZl"
-last_updated: "2026-08-09T05:32:26.008659Z"
+last_updated: "2026-08-10T05:33:01.979493Z"
 posted_at: "2026-07-02T00:00:00Z"
 status: ready
 apply_url: "https://new-roots-institute.rippling-ats.com/job/1034869/development-specialist"
@@ -34,4 +34,4 @@ areas:
 <p class="apply-cta"><a href="https://new-roots-institute.rippling-ats.com/job/1034869/development-specialist">Apply →</a></p>
 
 ---
-*Posted 2026-07-02 · Listing synced 2026-08-09 · 80k job ID `recJdQ7qJmYX94HZl`*
+*Posted 2026-07-02 · Listing synced 2026-08-10 · 80k job ID `recJdQ7qJmYX94HZl`*

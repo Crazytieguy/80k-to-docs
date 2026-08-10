@@ -2,7 +2,7 @@
 title: "Program Associate / Program Manager, People Systems"
 employer: "Horizon Institute for Public Service"
 job_id: "recAlEpGn9TJNp05b"
-last_updated: "2026-08-09T05:31:53.157265Z"
+last_updated: "2026-08-10T05:32:28.835566Z"
 posted_at: "2026-07-31T00:04:31Z"
 status: ready
 apply_url: "https://horizonpublicservice.org/program-associate-program-manager-people-systems/"
@@ -34,4 +34,4 @@ areas:
 <p class="apply-cta"><a href="https://horizonpublicservice.org/program-associate-program-manager-people-systems/">Apply →</a></p>
 
 ---
-*Posted 2026-07-31 · Listing synced 2026-08-09 · 80k job ID `recAlEpGn9TJNp05b`*
+*Posted 2026-07-31 · Listing synced 2026-08-10 · 80k job ID `recAlEpGn9TJNp05b`*

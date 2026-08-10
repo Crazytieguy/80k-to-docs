@@ -2,7 +2,7 @@
 title: "Head of IT"
 employer: "Founders Pledge"
 job_id: "recl2zbsc4zcFWxNt"
-last_updated: "2026-08-09T05:31:37.777578Z"
+last_updated: "2026-08-10T05:32:15.662115Z"
 posted_at: "2026-08-06T00:01:00Z"
 status: ready
 apply_url: "https://careers.founderspledge.com/jobs/8169840-head-of-it"
@@ -19,7 +19,7 @@ areas:
 <dt>Role type</dt><dd>Full-time</dd>
 <dt>Experience</dt><dd>Mid (5-9 years experience)</dd>
 <dt>Degree</dt><dd>Undergraduate degree or less</dd>
-<dt>Salary</dt><dd>$107,936</dd>
+<dt>Salary</dt><dd>$107,906</dd>
 </dl>
 
 **Areas & skills:** Building effective altruism, Operations, Information security
@@ -33,4 +33,4 @@ areas:
 <p class="apply-cta"><a href="https://careers.founderspledge.com/jobs/8169840-head-of-it">Apply →</a></p>
 
 ---
-*Posted 2026-08-06 · Listing synced 2026-08-09 · 80k job ID `recl2zbsc4zcFWxNt`*
+*Posted 2026-08-06 · Listing synced 2026-08-10 · 80k job ID `recl2zbsc4zcFWxNt`*

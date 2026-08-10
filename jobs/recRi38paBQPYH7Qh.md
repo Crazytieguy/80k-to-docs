@@ -2,7 +2,7 @@
 title: "Recruiter"
 employer: "Coefficient Giving"
 job_id: "recRi38paBQPYH7Qh"
-last_updated: "2026-08-09T05:31:54.805005Z"
+last_updated: "2026-08-10T05:32:30.366804Z"
 posted_at: "2026-07-31T00:04:14Z"
 status: ready
 apply_url: "https://jobs.ashbyhq.com/coefficientgiving/c2f19d86-c6ae-427d-abac-bede35f397c6"
@@ -33,4 +33,4 @@ areas:
 <p class="apply-cta"><a href="https://jobs.ashbyhq.com/coefficientgiving/c2f19d86-c6ae-427d-abac-bede35f397c6">Apply →</a></p>
 
 ---
-*Posted 2026-07-31 · Listing synced 2026-08-09 · 80k job ID `recRi38paBQPYH7Qh`*
+*Posted 2026-07-31 · Listing synced 2026-08-10 · 80k job ID `recRi38paBQPYH7Qh`*

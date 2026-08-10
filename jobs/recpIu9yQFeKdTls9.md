@@ -2,7 +2,7 @@
 title: "Application Security Engineer"
 employer: "xAI"
 job_id: "recpIu9yQFeKdTls9"
-last_updated: "2026-08-09T05:33:15.575469Z"
+last_updated: "2026-08-10T05:33:51.869343Z"
 posted_at: "2022-01-06T00:00:00Z"
 status: ready
 apply_url: "https://job-boards.greenhouse.io/xai/jobs/4559147007"
@@ -33,4 +33,4 @@ areas:
 <p class="apply-cta"><a href="https://job-boards.greenhouse.io/xai/jobs/4559147007">Apply →</a></p>
 
 ---
-*Posted 2022-01-06 · Listing synced 2026-08-09 · 80k job ID `recpIu9yQFeKdTls9`*
+*Posted 2022-01-06 · Listing synced 2026-08-10 · 80k job ID `recpIu9yQFeKdTls9`*

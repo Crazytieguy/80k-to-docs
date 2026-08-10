@@ -2,7 +2,7 @@
 title: "Computational Biologist"
 employer: "Valthos"
 job_id: "recXec8pWPMIbEz9J"
-last_updated: "2026-08-09T05:33:00.858024Z"
+last_updated: "2026-08-10T05:33:36.994311Z"
 posted_at: "2022-01-08T00:00:00Z"
 status: ready
 apply_url: "https://jobs.ashbyhq.com/valthos/dd6c0d36-e5ae-4ff5-9d5a-34b562a5e694"
@@ -33,4 +33,4 @@ areas:
 <p class="apply-cta"><a href="https://jobs.ashbyhq.com/valthos/dd6c0d36-e5ae-4ff5-9d5a-34b562a5e694">Apply →</a></p>
 
 ---
-*Posted 2022-01-08 · Listing synced 2026-08-09 · 80k job ID `recXec8pWPMIbEz9J`*
+*Posted 2022-01-08 · Listing synced 2026-08-10 · 80k job ID `recXec8pWPMIbEz9J`*

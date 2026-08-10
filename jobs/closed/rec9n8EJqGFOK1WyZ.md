@@ -4,25 +4,20 @@ employer: "UK Government, AI Security Institute"
 job_id: "rec9n8EJqGFOK1WyZ"
 last_updated: "2026-08-09T05:31:54.418834Z"
 posted_at: "2026-07-31T00:04:17Z"
-status: ready
+status: closed
+closed_at: "2026-08-10"
 apply_url: "https://www.civilservicejobs.service.gov.uk/csr/jobs.cgi?jcode=2007002"
 areas:
   - "AI safety & policy"
 ---
 
+> ⚠️ **CLOSED on 2026-08-10** — this job is no longer listed on the 80,000 Hours board. Archived snapshot below.
+
 # Workstream Lead
 
-**[UK Government, AI Security Institute](https://www.aisi.gov.uk/)**
+**UK Government, AI Security Institute**
 
-<dl class="job-meta">
-<dt>Location</dt><dd>London, UK, UK</dd>
-<dt>Role type</dt><dd>Full-time</dd>
-<dt>Experience</dt><dd>Mid (5-9 years experience), Senior (10+ years experience)</dd>
-<dt>Degree</dt><dd>Undergraduate degree or less</dd>
-<dt>Salary</dt><dd>$168,650 – $182,142</dd>
-</dl>
-
-**Areas & skills:** AI safety & policy, Research, Policy, Management
+**Areas & skills:** AI safety & policy
 
 ## Summary
 - In this role, you'll lead multidisciplinary research teams advancing frontier AI safety and risk mitigation at the AI Security Institute.

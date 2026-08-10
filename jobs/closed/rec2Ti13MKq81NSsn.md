@@ -4,24 +4,20 @@ employer: "Cambridge University, Centre for the Study of Existential Risk"
 job_id: "rec2Ti13MKq81NSsn"
 last_updated: "2026-08-09T05:32:30.898471Z"
 posted_at: "2026-06-22T00:01:00Z"
-status: ready
+status: closed
+closed_at: "2026-08-10"
 apply_url: "https://www.cser.ac.uk/research-associate-fixed-term/"
 areas:
   - "Macrostrategy"
 ---
 
+> ⚠️ **CLOSED on 2026-08-10** — this job is no longer listed on the 80,000 Hours board. Archived snapshot below.
+
 # Research Associate
 
-**[Cambridge University, Centre for the Study of Existential Risk](https://www.cser.ac.uk/)**
+**Cambridge University, Centre for the Study of Existential Risk**
 
-<dl class="job-meta">
-<dt>Location</dt><dd>Cambridge, UK, UK</dd>
-<dt>Role type</dt><dd>Full-time</dd>
-<dt>Experience</dt><dd>Junior (1-4 years experience)</dd>
-<dt>Degree</dt><dd>Doctoral degree</dd>
-</dl>
-
-**Areas & skills:** Macrostrategy, Research
+**Areas & skills:** Macrostrategy
 
 ## Summary
 - In this role, you'll conduct independent research on environmental catastrophic risks and their global effects to inform interventions for planetary health.

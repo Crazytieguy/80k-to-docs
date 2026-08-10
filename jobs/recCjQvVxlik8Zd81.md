@@ -2,7 +2,7 @@
 title: "Research Fellow"
 employer: "10a Labs"
 job_id: "recCjQvVxlik8Zd81"
-last_updated: "2026-08-09T05:32:44.123884Z"
+last_updated: "2026-08-10T05:33:21.939589Z"
 posted_at: "2026-05-27T00:00:00Z"
 status: ready
 apply_url: "https://job-boards.greenhouse.io/10alabs/jobs/4007350009"
@@ -34,4 +34,4 @@ areas:
 <p class="apply-cta"><a href="https://job-boards.greenhouse.io/10alabs/jobs/4007350009">Apply →</a></p>
 
 ---
-*Posted 2026-05-27 · Listing synced 2026-08-09 · 80k job ID `recCjQvVxlik8Zd81`*
+*Posted 2026-05-27 · Listing synced 2026-08-10 · 80k job ID `recCjQvVxlik8Zd81`*

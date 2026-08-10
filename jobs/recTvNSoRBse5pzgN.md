@@ -2,22 +2,27 @@
 title: "Program Officer, Respiratory Protection"
 employer: "Blueprint Biosecurity"
 job_id: "recTvNSoRBse5pzgN"
-last_updated: "2026-08-07T05:32:47.015144Z"
+last_updated: "2026-08-10T05:32:44.921597Z"
 posted_at: "2026-07-20T00:05:00Z"
-status: closed
-closed_at: "2026-08-08"
+status: ready
 apply_url: "https://blueprintbiosecurity.pinpointhq.com/en/postings/a45f0de9-e338-4c4d-ab76-ecd18c620693"
 areas:
   - "Biosecurity & pandemic preparedness"
 ---
 
-> ⚠️ **CLOSED on 2026-08-08** — this job is no longer listed on the 80,000 Hours board. Archived snapshot below.
-
 # Program Officer, Respiratory Protection
 
-**Blueprint Biosecurity**
+**[Blueprint Biosecurity](https://blueprintbiosecurity.org/)**
 
-**Areas & skills:** Biosecurity & pandemic preparedness
+<dl class="job-meta">
+<dt>Location</dt><dd>Washington, DC metro area, USA</dd>
+<dt>Role type</dt><dd>Full-time</dd>
+<dt>Experience</dt><dd>Mid (5-9 years experience)</dd>
+<dt>Degree</dt><dd>Undergraduate degree or less</dd>
+<dt>Salary</dt><dd>$122,000 – $165,000</dd>
+</dl>
+
+**Areas & skills:** Biosecurity & pandemic preparedness, Research, Operations
 
 ## Summary
 - In this role, you'll oversee respiratory protection programs advancing pandemic preparedness and response.
@@ -29,4 +34,4 @@ areas:
 <p class="apply-cta"><a href="https://blueprintbiosecurity.pinpointhq.com/en/postings/a45f0de9-e338-4c4d-ab76-ecd18c620693">Apply →</a></p>
 
 ---
-*Posted 2026-07-20 · Listing synced 2026-08-07 · 80k job ID `recTvNSoRBse5pzgN`*
+*Posted 2026-07-20 · Listing synced 2026-08-10 · 80k job ID `recTvNSoRBse5pzgN`*

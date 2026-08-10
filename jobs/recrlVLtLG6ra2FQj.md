@@ -2,7 +2,7 @@
 title: "Finance Associate"
 employer: "Apollo Research"
 job_id: "recrlVLtLG6ra2FQj"
-last_updated: "2026-08-09T05:32:32.372409Z"
+last_updated: "2026-08-10T05:33:08.580517Z"
 posted_at: "2026-06-18T00:05:00Z"
 status: ready
 apply_url: "https://jobs.lever.co/apolloresearch/d2bad2ec-3d00-4d1a-89b8-f93df491f3f4"
@@ -19,7 +19,7 @@ areas:
 <dt>Role type</dt><dd>Full-time</dd>
 <dt>Experience</dt><dd>Junior (1-4 years experience)</dd>
 <dt>Degree</dt><dd>Undergraduate degree or less</dd>
-<dt>Salary</dt><dd>$53,968 – $67,460</dd>
+<dt>Salary</dt><dd>$53,953 – $67,441</dd>
 </dl>
 
 **Areas & skills:** AI safety & policy, Finance
@@ -34,4 +34,4 @@ areas:
 <p class="apply-cta"><a href="https://jobs.lever.co/apolloresearch/d2bad2ec-3d00-4d1a-89b8-f93df491f3f4">Apply →</a></p>
 
 ---
-*Posted 2026-06-18 · Listing synced 2026-08-09 · 80k job ID `recrlVLtLG6ra2FQj`*
+*Posted 2026-06-18 · Listing synced 2026-08-10 · 80k job ID `recrlVLtLG6ra2FQj`*
