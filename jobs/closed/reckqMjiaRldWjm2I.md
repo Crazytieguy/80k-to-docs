@@ -4,25 +4,20 @@ employer: "Successif"
 job_id: "reckqMjiaRldWjm2I"
 last_updated: "2026-08-10T05:33:49.826248Z"
 posted_at: "2022-01-06T00:00:00Z"
-status: ready
+status: closed
+closed_at: "2026-08-11"
 apply_url: "https://www.successif.org/application-scorer"
 areas:
   - "AI safety & policy"
 ---
 
+> ⚠️ **CLOSED on 2026-08-11** — this job is no longer listed on the 80,000 Hours board. Archived snapshot below.
+
 # Application Scorer
 
-**[Successif](https://www.successif.org/)**
+**Successif**
 
-<dl class="job-meta">
-<dt>Location</dt><dd>Remote, Global</dd>
-<dt>Role type</dt><dd>Part-time</dd>
-<dt>Experience</dt><dd>Entry-level</dd>
-<dt>Degree</dt><dd>Undergraduate degree or less</dd>
-<dt>Salary</dt><dd>$62,400</dd>
-</dl>
-
-**Areas & skills:** AI safety & policy, Operations
+**Areas & skills:** AI safety & policy
 
 ## Summary
 - In this role, you'll score applications to an AI safety advising program using a structured rubric, evaluating candidate background, motivation, and fit.

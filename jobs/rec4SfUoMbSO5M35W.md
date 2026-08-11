@@ -2,7 +2,7 @@
 title: "Pioneers Program"
 employer: "World Bank Group"
 job_id: "rec4SfUoMbSO5M35W"
-last_updated: "2026-08-10T05:32:27.111988Z"
+last_updated: "2026-08-11T05:31:56.955570Z"
 posted_at: "2026-08-03T00:00:00Z"
 status: ready
 apply_url: "https://www.worldbank.org/en/about/careers/WBG-Pioneers"
@@ -33,4 +33,4 @@ areas:
 <p class="apply-cta"><a href="https://www.worldbank.org/en/about/careers/WBG-Pioneers">Apply →</a></p>
 
 ---
-*Posted 2026-08-03 · Listing synced 2026-08-10 · 80k job ID `rec4SfUoMbSO5M35W`*
+*Posted 2026-08-03 · Listing synced 2026-08-11 · 80k job ID `rec4SfUoMbSO5M35W`*

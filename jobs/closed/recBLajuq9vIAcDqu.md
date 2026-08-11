@@ -4,25 +4,20 @@ employer: "Coefficient Giving"
 job_id: "recBLajuq9vIAcDqu"
 last_updated: "2026-08-10T05:32:41.164683Z"
 posted_at: "2026-07-24T00:04:03Z"
-status: ready
+status: closed
+closed_at: "2026-08-11"
 apply_url: "https://jobs.ashbyhq.com/coefficientgiving/35d8cb34-2db3-4be4-8ad3-c94ec3bc7868"
 areas:
   - "Building effective altruism"
 ---
 
+> ⚠️ **CLOSED on 2026-08-11** — this job is no longer listed on the 80,000 Hours board. Archived snapshot below.
+
 # Finance Operations Associate / Lead
 
-**[Coefficient Giving](https://coefficientgiving.org/)**
+**Coefficient Giving**
 
-<dl class="job-meta">
-<dt>Location</dt><dd>Remote, Global</dd>
-<dt>Role type</dt><dd>Full-time</dd>
-<dt>Experience</dt><dd>Junior (1-4 years experience), Mid (5-9 years experience)</dd>
-<dt>Degree</dt><dd>Undergraduate degree or less</dd>
-<dt>Salary</dt><dd>$113,500 – $130,525</dd>
-</dl>
-
-**Areas & skills:** Building effective altruism, Operations, Finance
+**Areas & skills:** Building effective altruism
 
 ## Summary
 - In this role, you'll manage core finance operations and special projects to support Coefficient Giving's growth.

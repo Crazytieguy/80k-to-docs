@@ -2,7 +2,7 @@
 title: "Member of Technical Staff"
 employer: "Artificial Intelligence Underwriting Company"
 job_id: "recv97sE5dokvKFWu"
-last_updated: "2026-08-10T05:32:16.200345Z"
+last_updated: "2026-08-11T05:31:45.953405Z"
 posted_at: "2026-08-06T00:00:00Z"
 status: ready
 apply_url: "https://jobs.ashbyhq.com/aiuc/2816bb05-2a1f-4600-8780-deb152ac11ad"
@@ -34,4 +34,4 @@ areas:
 <p class="apply-cta"><a href="https://jobs.ashbyhq.com/aiuc/2816bb05-2a1f-4600-8780-deb152ac11ad">Apply →</a></p>
 
 ---
-*Posted 2026-08-06 · Listing synced 2026-08-10 · 80k job ID `recv97sE5dokvKFWu`*
+*Posted 2026-08-06 · Listing synced 2026-08-11 · 80k job ID `recv97sE5dokvKFWu`*

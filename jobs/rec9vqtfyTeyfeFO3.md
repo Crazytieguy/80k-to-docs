@@ -2,7 +2,7 @@
 title: "Internship, Governance Program (Fall 2026)"
 employer: "Bipartisan Policy Center"
 job_id: "rec9vqtfyTeyfeFO3"
-last_updated: "2026-08-10T05:32:39.116485Z"
+last_updated: "2026-08-11T05:32:09.605077Z"
 posted_at: "2026-07-27T00:00:00Z"
 status: ready
 apply_url: "https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=b7ec3708-935d-4824-b8ca-81a1101b34c3&ccId=19000101_000003&lang=en_US&jobId=570293&jwId=SYS%3AJW%3A001"
@@ -34,4 +34,4 @@ areas:
 <p class="apply-cta"><a href="https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=b7ec3708-935d-4824-b8ca-81a1101b34c3&amp;ccId=19000101_000003&amp;lang=en_US&amp;jobId=570293&amp;jwId=SYS%3AJW%3A001">Apply →</a></p>
 
 ---
-*Posted 2026-07-27 · Listing synced 2026-08-10 · 80k job ID `rec9vqtfyTeyfeFO3`*
+*Posted 2026-07-27 · Listing synced 2026-08-11 · 80k job ID `rec9vqtfyTeyfeFO3`*

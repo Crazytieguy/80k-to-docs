@@ -2,10 +2,10 @@
 title: "Director, Government Affairs"
 employer: "The AI Policy Network"
 job_id: "recpOC8CC8DEdBAwi"
-last_updated: "2026-08-10T05:34:01.509884Z"
+last_updated: "2026-08-11T05:33:29.465066Z"
 posted_at: "2022-01-05T00:00:00Z"
 status: ready
-apply_url: "https://theaipn.org/careers/director-of-government-affairs/"
+apply_url: "https://job-boards.greenhouse.io/aipn/jobs/4342935009"
 areas:
   - "AI safety & policy"
 ---
@@ -31,7 +31,7 @@ areas:
 - Draft amendments, hearing questions, and policy materials tailored to House audiences.
 - Track legislation and coordinate with AIPN's policy and communications teams.
 
-<p class="apply-cta"><a href="https://theaipn.org/careers/director-of-government-affairs/">Apply →</a></p>
+<p class="apply-cta"><a href="https://job-boards.greenhouse.io/aipn/jobs/4342935009">Apply →</a></p>
 
 ---
-*Posted 2022-01-05 · Listing synced 2026-08-10 · 80k job ID `recpOC8CC8DEdBAwi`*
+*Posted 2022-01-05 · Listing synced 2026-08-11 · 80k job ID `recpOC8CC8DEdBAwi`*

@@ -2,7 +2,7 @@
 title: "Impact Cohort Manager"
 employer: "Effective Altruism Switzerland"
 job_id: "recLvgkl8wg1MjiUZ"
-last_updated: "2026-08-10T05:32:51.959216Z"
+last_updated: "2026-08-11T05:32:24.812628Z"
 posted_at: "2026-07-13T00:01:00Z"
 status: ready
 apply_url: "https://docs.google.com/document/d/1DMkW4EP7c28tZTxFLBA9tb5tIvkTH2ZxkQbv7LbilpU/edit?tab=t.0"
@@ -19,7 +19,7 @@ areas:
 <dt>Role type</dt><dd>Full-time</dd>
 <dt>Experience</dt><dd>Junior (1-4 years experience), Mid (5-9 years experience)</dd>
 <dt>Degree</dt><dd>Undergraduate degree or less</dd>
-<dt>Salary</dt><dd>$92,664 – $98,841</dd>
+<dt>Salary</dt><dd>$92,563 – $98,734</dd>
 </dl>
 
 **Areas & skills:** Building effective altruism, Other, Strategy
@@ -34,4 +34,4 @@ areas:
 <p class="apply-cta"><a href="https://docs.google.com/document/d/1DMkW4EP7c28tZTxFLBA9tb5tIvkTH2ZxkQbv7LbilpU/edit?tab=t.0">Apply →</a></p>
 
 ---
-*Posted 2026-07-13 · Listing synced 2026-08-10 · 80k job ID `recLvgkl8wg1MjiUZ`*
+*Posted 2026-07-13 · Listing synced 2026-08-11 · 80k job ID `recLvgkl8wg1MjiUZ`*

@@ -2,7 +2,7 @@
 title: "AGI Governance Fellowship"
 employer: "Johns Hopkins University, School of Government and Policy"
 job_id: "recIstCWxan36W5x3"
-last_updated: "2026-08-10T05:32:33.686401Z"
+last_updated: "2026-08-11T05:32:03.943774Z"
 posted_at: "2026-07-30T00:01:00Z"
 status: ready
 apply_url: "https://sogp.jh.edu/agi-governance-fellowship/"
@@ -33,4 +33,4 @@ areas:
 <p class="apply-cta"><a href="https://sogp.jh.edu/agi-governance-fellowship/">Apply →</a></p>
 
 ---
-*Posted 2026-07-30 · Listing synced 2026-08-10 · 80k job ID `recIstCWxan36W5x3`*
+*Posted 2026-07-30 · Listing synced 2026-08-11 · 80k job ID `recIstCWxan36W5x3`*

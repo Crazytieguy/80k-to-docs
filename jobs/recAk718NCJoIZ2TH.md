@@ -2,10 +2,10 @@
 title: "Deputy Communications Director"
 employer: "The AI Policy Network"
 job_id: "recAk718NCJoIZ2TH"
-last_updated: "2026-08-10T05:33:12.346282Z"
+last_updated: "2026-08-11T05:32:41.638066Z"
 posted_at: "2026-06-11T00:02:00Z"
 status: ready
-apply_url: "https://theaipn.org/careers/deputy-communications-director/"
+apply_url: "https://job-boards.greenhouse.io/aipn/jobs/4353606009"
 areas:
   - "AI safety & policy"
 ---
@@ -31,7 +31,7 @@ areas:
 - Manage communications projects end-to-end, coordinating across Government Affairs, Digital Organizing, and vendors.
 - Supervise junior staff, contractors, and freelancers as the team grows.
 
-<p class="apply-cta"><a href="https://theaipn.org/careers/deputy-communications-director/">Apply →</a></p>
+<p class="apply-cta"><a href="https://job-boards.greenhouse.io/aipn/jobs/4353606009">Apply →</a></p>
 
 ---
-*Posted 2026-06-11 · Listing synced 2026-08-10 · 80k job ID `recAk718NCJoIZ2TH`*
+*Posted 2026-06-11 · Listing synced 2026-08-11 · 80k job ID `recAk718NCJoIZ2TH`*

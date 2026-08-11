@@ -4,25 +4,20 @@ employer: "Centre for Effective Altruism"
 job_id: "recCDf9wZlIg5ibhM"
 last_updated: "2026-08-10T05:32:48.489454Z"
 posted_at: "2026-07-15T00:04:15Z"
-status: ready
+status: closed
+closed_at: "2026-08-11"
 apply_url: "https://www.centreforeffectivealtruism.org/careers?ashby_jid=d7fc81f3-5553-42cf-bc4d-a64e7535c101"
 areas:
   - "Building effective altruism"
 ---
 
+> ⚠️ **CLOSED on 2026-08-11** — this job is no longer listed on the 80,000 Hours board. Archived snapshot below.
+
 # Career Bootcamp Lead
 
-**[Centre for Effective Altruism](https://www.centreforeffectivealtruism.org)**
+**Centre for Effective Altruism**
 
-<dl class="job-meta">
-<dt>Location</dt><dd>Remote, Global</dd>
-<dt>Role type</dt><dd>Full-time</dd>
-<dt>Experience</dt><dd>Mid (5-9 years experience)</dd>
-<dt>Degree</dt><dd>Undergraduate degree or less</dd>
-<dt>Salary</dt><dd>$119,989</dd>
-</dl>
-
-**Areas & skills:** Building effective altruism, Management, Strategy
+**Areas & skills:** Building effective altruism
 
 ## Summary
 - In this role, you'll lead the strategy and growth of the Career Bootcamp, helping accomplished professionals identify high-impact career opportunities.

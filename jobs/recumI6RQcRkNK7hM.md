@@ -2,7 +2,7 @@
 title: "Contract Work, Application Screening"
 employer: "London AI Safety Research Labs"
 job_id: "recumI6RQcRkNK7hM"
-last_updated: "2026-08-10T05:32:20.969889Z"
+last_updated: "2026-08-11T05:31:50.818157Z"
 posted_at: "2026-08-04T00:03:00Z"
 status: ready
 apply_url: "https://www.lasrlabs.org/contract-work/"
@@ -19,7 +19,7 @@ areas:
 <dt>Role type</dt><dd>Full-time</dd>
 <dt>Experience</dt><dd>Entry-level</dd>
 <dt>Degree</dt><dd>Undergraduate degree or less</dd>
-<dt>Salary</dt><dd>$140,277</dd>
+<dt>Salary</dt><dd>$140,485</dd>
 </dl>
 
 **Areas & skills:** AI safety & policy, Operations
@@ -34,4 +34,4 @@ areas:
 <p class="apply-cta"><a href="https://www.lasrlabs.org/contract-work/">Apply →</a></p>
 
 ---
-*Posted 2026-08-04 · Listing synced 2026-08-10 · 80k job ID `recumI6RQcRkNK7hM`*
+*Posted 2026-08-04 · Listing synced 2026-08-11 · 80k job ID `recumI6RQcRkNK7hM`*

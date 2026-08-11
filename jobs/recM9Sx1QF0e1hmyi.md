@@ -2,7 +2,7 @@
 title: "Admin Coordinator"
 employer: "MiracleFeet"
 job_id: "recM9Sx1QF0e1hmyi"
-last_updated: "2026-08-10T05:32:57.491200Z"
+last_updated: "2026-08-11T05:32:30.039700Z"
 posted_at: "2026-07-07T00:00:00Z"
 status: ready
 apply_url: "https://miraclefeet.bamboohr.com/careers/101?source=aWQ9MTU%3D"
@@ -34,4 +34,4 @@ areas:
 <p class="apply-cta"><a href="https://miraclefeet.bamboohr.com/careers/101?source=aWQ9MTU%3D">Apply →</a></p>
 
 ---
-*Posted 2026-07-07 · Listing synced 2026-08-10 · 80k job ID `recM9Sx1QF0e1hmyi`*
+*Posted 2026-07-07 · Listing synced 2026-08-11 · 80k job ID `recM9Sx1QF0e1hmyi`*

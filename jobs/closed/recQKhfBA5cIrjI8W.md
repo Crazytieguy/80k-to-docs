@@ -4,25 +4,20 @@ employer: "Windfall Trust"
 job_id: "recQKhfBA5cIrjI8W"
 last_updated: "2026-08-10T05:33:07.849668Z"
 posted_at: "2026-06-22T00:00:00Z"
-status: ready
+status: closed
+closed_at: "2026-08-11"
 apply_url: "https://jobs.ashbyhq.com/windfall/6ee76fd2-df83-482d-af1f-9f0d81313b18"
 areas:
   - "AI safety & policy"
 ---
 
+> ⚠️ **CLOSED on 2026-08-11** — this job is no longer listed on the 80,000 Hours board. Archived snapshot below.
+
 # Senior Engagement Manager, Scenarios Advisory
 
-**[Windfall Trust](https://windfalltrust.org/)**
+**Windfall Trust**
 
-<dl class="job-meta">
-<dt>Location</dt><dd>Remote, USA, USA</dd>
-<dt>Role type</dt><dd>Full-time</dd>
-<dt>Experience</dt><dd>Mid (5-9 years experience)</dd>
-<dt>Degree</dt><dd>Undergraduate degree or less</dd>
-<dt>Salary</dt><dd>$150,000 – $200,000</dd>
-</dl>
-
-**Areas & skills:** AI safety & policy, Strategy
+**Areas & skills:** AI safety & policy
 
 ## Summary
 - In this role, you'll lead customized scenarios engagements with senior partners, turning strategic questions about AI's economic impact into structured processes and outputs.

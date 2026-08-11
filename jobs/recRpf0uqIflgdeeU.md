@@ -2,10 +2,10 @@
 title: "Executive Assistant"
 employer: "The AI Policy Network"
 job_id: "recRpf0uqIflgdeeU"
-last_updated: "2026-08-10T05:32:21.515971Z"
+last_updated: "2026-08-11T05:31:51.384100Z"
 posted_at: "2026-08-04T00:02:00Z"
 status: ready
-apply_url: "https://theaipn.org/careers/executive-assistant/"
+apply_url: "https://job-boards.greenhouse.io/aipn/jobs/4353630009"
 areas:
   - "AI safety & policy"
 ---
@@ -31,7 +31,7 @@ areas:
 - Plan and coordinate domestic and international travel, logistics, and events while managing expenses.
 - Organize documents and materials, prepare for leadership meetings, and handle operational tasks.
 
-<p class="apply-cta"><a href="https://theaipn.org/careers/executive-assistant/">Apply →</a></p>
+<p class="apply-cta"><a href="https://job-boards.greenhouse.io/aipn/jobs/4353630009">Apply →</a></p>
 
 ---
-*Posted 2026-08-04 · Listing synced 2026-08-10 · 80k job ID `recRpf0uqIflgdeeU`*
+*Posted 2026-08-04 · Listing synced 2026-08-11 · 80k job ID `recRpf0uqIflgdeeU`*

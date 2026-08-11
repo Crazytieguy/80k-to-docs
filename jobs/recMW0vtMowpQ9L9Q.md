@@ -2,10 +2,10 @@
 title: "Recruiter"
 employer: "The AI Policy Network"
 job_id: "recMW0vtMowpQ9L9Q"
-last_updated: "2026-08-10T05:33:12.203510Z"
+last_updated: "2026-08-11T05:32:41.510176Z"
 posted_at: "2026-06-11T00:02:00Z"
 status: ready
-apply_url: "https://theaipn.org/careers/recruiter/"
+apply_url: "https://job-boards.greenhouse.io/aipn/jobs/4353566009"
 areas:
   - "AI safety & policy"
 ---
@@ -31,7 +31,7 @@ areas:
 - Manage candidate pipelines, maintain accurate applicant tracking, and coordinate interview scheduling.
 - Track recruiting metrics and maintain current job descriptions and careers page listings.
 
-<p class="apply-cta"><a href="https://theaipn.org/careers/recruiter/">Apply →</a></p>
+<p class="apply-cta"><a href="https://job-boards.greenhouse.io/aipn/jobs/4353566009">Apply →</a></p>
 
 ---
-*Posted 2026-06-11 · Listing synced 2026-08-10 · 80k job ID `recMW0vtMowpQ9L9Q`*
+*Posted 2026-06-11 · Listing synced 2026-08-11 · 80k job ID `recMW0vtMowpQ9L9Q`*

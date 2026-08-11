@@ -2,7 +2,7 @@
 title: "Local Event Coordinator, Thailand"
 employer: "Animal Alliance Asia"
 job_id: "recQn0oKjjuWyiVUI"
-last_updated: "2026-08-10T05:32:47.907015Z"
+last_updated: "2026-08-11T05:32:20.866886Z"
 posted_at: "2026-07-16T00:00:00Z"
 status: ready
 apply_url: "https://www.animalallianceasia.org/local-event-coordinator"
@@ -34,4 +34,4 @@ areas:
 <p class="apply-cta"><a href="https://www.animalallianceasia.org/local-event-coordinator">Apply →</a></p>
 
 ---
-*Posted 2026-07-16 · Listing synced 2026-08-10 · 80k job ID `recQn0oKjjuWyiVUI`*
+*Posted 2026-07-16 · Listing synced 2026-08-11 · 80k job ID `recQn0oKjjuWyiVUI`*

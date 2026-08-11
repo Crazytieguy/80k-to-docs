@@ -2,7 +2,7 @@
 title: "Research Associate / Associate Fellow, Wadhwani AI Center"
 employer: "Center for Strategic and International Studies"
 job_id: "recCo2AMZX3pFnjja"
-last_updated: "2026-08-10T05:32:12.637822Z"
+last_updated: "2026-08-11T05:31:42.552641Z"
 posted_at: "2026-08-07T00:03:00Z"
 status: ready
 apply_url: "https://job-boards.greenhouse.io/centerforstrategicandinternationalstudiesinc/jobs/4330579009?gh_src=6cm7xvkl9us&t=3253f722teu"
@@ -34,4 +34,4 @@ areas:
 <p class="apply-cta"><a href="https://job-boards.greenhouse.io/centerforstrategicandinternationalstudiesinc/jobs/4330579009?gh_src=6cm7xvkl9us&amp;t=3253f722teu">Apply →</a></p>
 
 ---
-*Posted 2026-08-07 · Listing synced 2026-08-10 · 80k job ID `recCo2AMZX3pFnjja`*
+*Posted 2026-08-07 · Listing synced 2026-08-11 · 80k job ID `recCo2AMZX3pFnjja`*

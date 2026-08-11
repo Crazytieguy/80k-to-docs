@@ -2,10 +2,10 @@
 title: "Vice President, Government Affairs, Senate Focus"
 employer: "The AI Policy Network"
 job_id: "recS7FG8RDcrDOQvl"
-last_updated: "2026-08-10T05:34:01.285492Z"
+last_updated: "2026-08-11T05:33:29.339234Z"
 posted_at: "2022-01-05T00:00:00Z"
 status: ready
-apply_url: "https://theaipn.org/careers/vice-president-of-government-affairs-senate-focus/"
+apply_url: "https://job-boards.greenhouse.io/aipn/jobs/4352666009"
 areas:
   - "AI safety & policy"
 ---
@@ -31,7 +31,7 @@ areas:
 - Draft bill language, amendments, testimony, and policy materials tailored to Senate audiences.
 - Coordinate bicameral legislative strategy and identify opportunities to advance AIPN's policy priorities.
 
-<p class="apply-cta"><a href="https://theaipn.org/careers/vice-president-of-government-affairs-senate-focus/">Apply →</a></p>
+<p class="apply-cta"><a href="https://job-boards.greenhouse.io/aipn/jobs/4352666009">Apply →</a></p>
 
 ---
-*Posted 2022-01-05 · Listing synced 2026-08-10 · 80k job ID `recS7FG8RDcrDOQvl`*
+*Posted 2022-01-05 · Listing synced 2026-08-11 · 80k job ID `recS7FG8RDcrDOQvl`*

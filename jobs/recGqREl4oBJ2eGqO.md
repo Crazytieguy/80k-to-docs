@@ -2,7 +2,7 @@
 title: "Jill Hruby Fellowship"
 employer: "Sandia National Laboratories"
 job_id: "recGqREl4oBJ2eGqO"
-last_updated: "2026-08-10T05:32:17.497697Z"
+last_updated: "2026-08-11T05:31:47.424622Z"
 posted_at: "2026-08-06T00:00:00Z"
 status: ready
 apply_url: "https://www.sandia.gov/careers/careers/students-and-postdocs/fellowships/jill-hruby-fellowship/"
@@ -34,4 +34,4 @@ areas:
 <p class="apply-cta"><a href="https://www.sandia.gov/careers/careers/students-and-postdocs/fellowships/jill-hruby-fellowship/">Apply →</a></p>
 
 ---
-*Posted 2026-08-06 · Listing synced 2026-08-10 · 80k job ID `recGqREl4oBJ2eGqO`*
+*Posted 2026-08-06 · Listing synced 2026-08-11 · 80k job ID `recGqREl4oBJ2eGqO`*

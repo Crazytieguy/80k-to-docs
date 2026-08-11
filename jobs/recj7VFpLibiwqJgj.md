@@ -2,10 +2,10 @@
 title: "General Application"
 employer: "Center on Long-Term Risk"
 job_id: "recj7VFpLibiwqJgj"
-last_updated: "2026-08-10T05:33:29.266913Z"
+last_updated: "2026-08-11T05:32:56.211996Z"
 posted_at: "2022-01-11T00:00:00Z"
 status: ready
-apply_url: "https://longtermrisk.org/interest/"
+apply_url: "https://longtermrisk.org/jobs/interest/"
 areas:
   - "AI safety & policy"
 ---
@@ -26,7 +26,7 @@ areas:
 ## Summary
 - This is a general expression of interest to work with the Center on Long-Term Risk.
 
-<p class="apply-cta"><a href="https://longtermrisk.org/interest/">Apply →</a></p>
+<p class="apply-cta"><a href="https://longtermrisk.org/jobs/interest/">Apply →</a></p>
 
 ---
-*Posted 2022-01-11 · Listing synced 2026-08-10 · 80k job ID `recj7VFpLibiwqJgj`*
+*Posted 2022-01-11 · Listing synced 2026-08-11 · 80k job ID `recj7VFpLibiwqJgj`*

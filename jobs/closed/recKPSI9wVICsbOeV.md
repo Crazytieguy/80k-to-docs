@@ -4,25 +4,20 @@ employer: "Coefficient Giving"
 job_id: "recKPSI9wVICsbOeV"
 last_updated: "2026-08-10T05:32:37.900351Z"
 posted_at: "2026-07-27T00:04:55Z"
-status: ready
+status: closed
+closed_at: "2026-08-11"
 apply_url: "https://jobs.ashbyhq.com/coefficientgiving/31143e32-ef63-49d2-a523-757b5514b637"
 areas:
   - "Macrostrategy"
 ---
 
+> ⚠️ **CLOSED on 2026-08-11** — this job is no longer listed on the 80,000 Hours board. Archived snapshot below.
+
 # Communications Officer, Media Relations
 
-**[Coefficient Giving](https://coefficientgiving.org/)**
+**Coefficient Giving**
 
-<dl class="job-meta">
-<dt>Location</dt><dd>Washington, DC metro area, San Francisco Bay Area, New York, NY, Remote, Global, USA</dd>
-<dt>Role type</dt><dd>Full-time</dd>
-<dt>Experience</dt><dd>Junior (1-4 years experience), Mid (5-9 years experience)</dd>
-<dt>Degree</dt><dd>Undergraduate degree or less</dd>
-<dt>Salary</dt><dd>$166,750</dd>
-</dl>
-
-**Areas & skills:** Macrostrategy, Outreach
+**Areas & skills:** Macrostrategy
 
 ## Summary
 - In this role, you'll serve as a media relations representative, securing accurate, high-quality coverage of Coefficient Giving's work.

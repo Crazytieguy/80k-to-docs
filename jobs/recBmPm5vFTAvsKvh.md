@@ -2,7 +2,7 @@
 title: "Event and Travel Coordinator"
 employer: "Simon Institute for Longterm Governance"
 job_id: "recBmPm5vFTAvsKvh"
-last_updated: "2026-08-10T05:32:40.730889Z"
+last_updated: "2026-08-11T05:32:11.318771Z"
 posted_at: "2026-07-24T00:04:57Z"
 status: ready
 apply_url: "https://simoninstitute.ch/jobs/event-travel-coordinator"
@@ -19,7 +19,7 @@ areas:
 <dt>Role type</dt><dd>Full-time</dd>
 <dt>Experience</dt><dd>Junior (1-4 years experience), Mid (5-9 years experience)</dd>
 <dt>Degree</dt><dd>Undergraduate degree or less</dd>
-<dt>Salary</dt><dd>$102,548 – $169,265</dd>
+<dt>Salary</dt><dd>$102,436 – $169,082</dd>
 </dl>
 
 **Areas & skills:** AI safety & policy, Operations
@@ -34,4 +34,4 @@ areas:
 <p class="apply-cta"><a href="https://simoninstitute.ch/jobs/event-travel-coordinator">Apply →</a></p>
 
 ---
-*Posted 2026-07-24 · Listing synced 2026-08-10 · 80k job ID `recBmPm5vFTAvsKvh`*
+*Posted 2026-07-24 · Listing synced 2026-08-11 · 80k job ID `recBmPm5vFTAvsKvh`*

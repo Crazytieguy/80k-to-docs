@@ -2,10 +2,10 @@
 title: "Chief of Staff"
 employer: "The AI Policy Network"
 job_id: "rec4JaOvpslEbtSq6"
-last_updated: "2026-08-10T05:32:21.400531Z"
+last_updated: "2026-08-11T05:31:51.264323Z"
 posted_at: "2026-08-04T00:02:00Z"
 status: ready
-apply_url: "https://theaipn.org/careers/chief-of-staff/"
+apply_url: "https://job-boards.greenhouse.io/aipn/jobs/4353638009"
 areas:
   - "AI safety & policy"
 ---
@@ -31,7 +31,7 @@ areas:
 - Prepare briefings for board and donor engagements, represent the Executive Director with partners, and coordinate external firms.
 - Synthesise cross-team signals to identify underlying issues and draft strategy documents, memos, and communications.
 
-<p class="apply-cta"><a href="https://theaipn.org/careers/chief-of-staff/">Apply →</a></p>
+<p class="apply-cta"><a href="https://job-boards.greenhouse.io/aipn/jobs/4353638009">Apply →</a></p>
 
 ---
-*Posted 2026-08-04 · Listing synced 2026-08-10 · 80k job ID `rec4JaOvpslEbtSq6`*
+*Posted 2026-08-04 · Listing synced 2026-08-11 · 80k job ID `rec4JaOvpslEbtSq6`*

@@ -4,25 +4,20 @@ employer: "New Roots Institute"
 job_id: "recJdQ7qJmYX94HZl"
 last_updated: "2026-08-10T05:33:01.979493Z"
 posted_at: "2026-07-02T00:00:00Z"
-status: ready
+status: closed
+closed_at: "2026-08-11"
 apply_url: "https://new-roots-institute.rippling-ats.com/job/1034869/development-specialist"
 areas:
   - "Animal welfare"
 ---
 
+> ⚠️ **CLOSED on 2026-08-11** — this job is no longer listed on the 80,000 Hours board. Archived snapshot below.
+
 # Development Specialist
 
-**[New Roots Institute](https://www.newrootsinstitute.org)**
+**New Roots Institute**
 
-<dl class="job-meta">
-<dt>Location</dt><dd>Remote, Global</dd>
-<dt>Role type</dt><dd>Full-time</dd>
-<dt>Experience</dt><dd>Junior (1-4 years experience)</dd>
-<dt>Degree</dt><dd>Undergraduate degree or less</dd>
-<dt>Salary</dt><dd>$71,000</dd>
-</dl>
-
-**Areas & skills:** Animal welfare, Operations
+**Areas & skills:** Animal welfare
 
 ## Summary
 - In this role, you'll manage grants systems, fundraising operations, and donor stewardship initiatives to support the organization's development goals.

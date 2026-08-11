@@ -2,22 +2,26 @@
 title: "Incubator Week"
 employer: "BlueDot Impact"
 job_id: "rechEN1uDnTbUV1Dj"
-last_updated: "2026-08-07T05:32:43.359905Z"
+last_updated: "2026-08-11T05:32:12.869030Z"
 posted_at: "2026-07-24T00:00:00Z"
-status: closed
-closed_at: "2026-08-08"
+status: ready
 apply_url: "https://bluedot.org/programs/incubator-week"
 areas:
   - "AI safety & policy"
 ---
 
-> ⚠️ **CLOSED on 2026-08-08** — this job is no longer listed on the 80,000 Hours board. Archived snapshot below.
-
 # Incubator Week
 
-**BlueDot Impact**
+**[BlueDot Impact](https://www.bluedotimpact.org/)**
 
-**Areas & skills:** AI safety & policy
+<dl class="job-meta">
+<dt>Location</dt><dd>USA</dd>
+<dt>Role type</dt><dd>Funding</dd>
+<dt>Experience</dt><dd>Multiple experience levels</dd>
+<dt>Degree</dt><dd>Undergraduate degree or less</dd>
+</dl>
+
+**Areas & skills:** AI safety & policy, Strategy
 
 ## Summary
 - In this -day programme, you'll develop and pitch a solution addressing AI safety, biosecurity, or catastrophic risk during an intensive 5.
@@ -29,4 +33,4 @@ areas:
 <p class="apply-cta"><a href="https://bluedot.org/programs/incubator-week">Apply →</a></p>
 
 ---
-*Posted 2026-07-24 · Listing synced 2026-08-07 · 80k job ID `rechEN1uDnTbUV1Dj`*
+*Posted 2026-07-24 · Listing synced 2026-08-11 · 80k job ID `rechEN1uDnTbUV1Dj`*

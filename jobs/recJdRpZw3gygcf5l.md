@@ -2,7 +2,7 @@
 title: "Contract Staff, AI-Related Environment Development and Promotion Work, Digital Infrastructure Center"
 employer: "Information-Technology Promotion Agency"
 job_id: "recJdRpZw3gygcf5l"
-last_updated: "2026-08-10T05:33:45.988767Z"
+last_updated: "2026-08-11T05:33:13.670296Z"
 posted_at: "2022-01-06T00:00:00Z"
 status: ready
 apply_url: "https://www.ipa.go.jp/recruit/shokutaku/shokutaku-di04.html"
@@ -32,4 +32,4 @@ areas:
 <p class="apply-cta"><a href="https://www.ipa.go.jp/recruit/shokutaku/shokutaku-di04.html">Apply →</a></p>
 
 ---
-*Posted 2022-01-06 · Listing synced 2026-08-10 · 80k job ID `recJdRpZw3gygcf5l`*
+*Posted 2022-01-06 · Listing synced 2026-08-11 · 80k job ID `recJdRpZw3gygcf5l`*

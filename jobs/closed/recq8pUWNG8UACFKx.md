@@ -4,25 +4,20 @@ employer: "FAR AI"
 job_id: "recq8pUWNG8UACFKx"
 last_updated: "2026-08-10T05:32:48.613815Z"
 posted_at: "2026-07-15T00:04:10Z"
-status: ready
+status: closed
+closed_at: "2026-08-11"
 apply_url: "https://jobs.ashbyhq.com/far.ai/a102739c-94ee-42fe-afb8-e55318322003?embed=js"
 areas:
   - "AI safety & policy"
 ---
 
+> ⚠️ **CLOSED on 2026-08-11** — this job is no longer listed on the 80,000 Hours board. Archived snapshot below.
+
 # Recruiting Coordinator
 
-**[FAR AI](https://far.ai/)**
+**FAR AI**
 
-<dl class="job-meta">
-<dt>Location</dt><dd>San Francisco Bay Area, Remote, USA, USA</dd>
-<dt>Role type</dt><dd>Full-time</dd>
-<dt>Experience</dt><dd>Junior (1-4 years experience)</dd>
-<dt>Degree</dt><dd>Undergraduate degree or less</dd>
-<dt>Salary</dt><dd>$80,000 – $125,000</dd>
-</dl>
-
-**Areas & skills:** AI safety & policy, Operations
+**Areas & skills:** AI safety & policy
 
 ## Summary
 - In this role, you'll coordinate recruiting and onboarding operations, ensuring a seamless experience for candidates and new hires.

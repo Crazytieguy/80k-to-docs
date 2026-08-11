@@ -2,7 +2,7 @@
 title: "Longitude DC Intensive"
 employer: "Longitude DC Intensive"
 job_id: "recp3AuHi4AqF8SGE"
-last_updated: "2026-08-10T05:32:19.796055Z"
+last_updated: "2026-08-11T05:31:49.483925Z"
 posted_at: "2026-08-05T00:00:00Z"
 status: ready
 apply_url: "https://www.longitudepolicy.org/"
@@ -32,4 +32,4 @@ areas:
 <p class="apply-cta"><a href="https://www.longitudepolicy.org/">Apply →</a></p>
 
 ---
-*Posted 2026-08-05 · Listing synced 2026-08-10 · 80k job ID `recp3AuHi4AqF8SGE`*
+*Posted 2026-08-05 · Listing synced 2026-08-11 · 80k job ID `recp3AuHi4AqF8SGE`*

@@ -4,24 +4,20 @@ employer: "Coefficient Giving"
 job_id: "recvOwNRnzForsW1Q"
 last_updated: "2026-08-10T05:33:13.152501Z"
 posted_at: "2026-06-10T00:02:00Z"
-status: ready
+status: closed
+closed_at: "2026-08-11"
 apply_url: "https://coefficientgiving.org/funds/farm-animal-welfare/request-for-proposals-alternative-protein-rd/"
 areas:
   - "Animal welfare"
 ---
 
+> ⚠️ **CLOSED on 2026-08-11** — this job is no longer listed on the 80,000 Hours board. Archived snapshot below.
+
 # Request for Proposals, Alternative Protein Research and Development
 
-**[Coefficient Giving](https://coefficientgiving.org/)**
+**Coefficient Giving**
 
-<dl class="job-meta">
-<dt>Location</dt><dd>Remote, Global</dd>
-<dt>Role type</dt><dd>Funding</dd>
-<dt>Experience</dt><dd>Multiple experience levels</dd>
-<dt>Degree</dt><dd>Undergraduate degree or less</dd>
-</dl>
-
-**Areas & skills:** Animal welfare, Research
+**Areas & skills:** Animal welfare
 
 ## Summary
 - Funding provided for research addressing taste and price barriers preventing mainstream adoption of alternative proteins.
