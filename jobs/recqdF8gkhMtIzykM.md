@@ -2,7 +2,7 @@
 title: "Recruitment Intern, Nigeria"
 employer: "One Acre Fund"
 job_id: "recqdF8gkhMtIzykM"
-last_updated: "2026-08-11T05:31:41.344326Z"
+last_updated: "2026-08-12T05:31:52.257276Z"
 posted_at: "2026-08-10T00:00:00Z"
 status: ready
 apply_url: "https://oneacrefund.org/vacancies/nigeria-recruitment-intern-minna-niger-state"
@@ -33,4 +33,4 @@ areas:
 <p class="apply-cta"><a href="https://oneacrefund.org/vacancies/nigeria-recruitment-intern-minna-niger-state">Apply →</a></p>
 
 ---
-*Posted 2026-08-10 · Listing synced 2026-08-11 · 80k job ID `recqdF8gkhMtIzykM`*
+*Posted 2026-08-10 · Listing synced 2026-08-12 · 80k job ID `recqdF8gkhMtIzykM`*

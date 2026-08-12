@@ -2,7 +2,7 @@
 title: "Senior ML Research Developer"
 employer: "LawZero"
 job_id: "reczD6xRKgxWdJHtQ"
-last_updated: "2026-08-11T05:33:27.421285Z"
+last_updated: "2026-08-12T05:33:36.246085Z"
 posted_at: "2022-01-05T00:00:00Z"
 status: ready
 apply_url: "https://job-boards.greenhouse.io/lawzero/jobs/4002929009"
@@ -33,4 +33,4 @@ areas:
 <p class="apply-cta"><a href="https://job-boards.greenhouse.io/lawzero/jobs/4002929009">Apply →</a></p>
 
 ---
-*Posted 2022-01-05 · Listing synced 2026-08-11 · 80k job ID `reczD6xRKgxWdJHtQ`*
+*Posted 2022-01-05 · Listing synced 2026-08-12 · 80k job ID `reczD6xRKgxWdJHtQ`*

@@ -4,25 +4,20 @@ employer: "Booz Allen Hamilton"
 job_id: "recKOflF0O3vZuiyi"
 last_updated: "2026-08-11T05:32:09.931888Z"
 posted_at: "2026-07-27T00:00:00Z"
-status: ready
+status: closed
+closed_at: "2026-08-12"
 apply_url: "https://careers.boozallen.com/careers/JobDetail?jobId=121375&source=JB-16500"
 areas:
   - "Career development: Technical"
 ---
 
+> ⚠️ **CLOSED on 2026-08-12** — this job is no longer listed on the 80,000 Hours board. Archived snapshot below.
+
 # Intern, Enterprise Cybersecurity Threat Intelligence
 
-**[Booz Allen Hamilton](https://careers.boozallen.com/jobs/search)**
+**Booz Allen Hamilton**
 
-<dl class="job-meta">
-<dt>Location</dt><dd>Washington, DC metro area, USA</dd>
-<dt>Role type</dt><dd>Internship</dd>
-<dt>Experience</dt><dd>Entry-level</dd>
-<dt>Degree</dt><dd>Undergraduate degree or less</dd>
-<dt>Salary</dt><dd>$55,200 – $126,000</dd>
-</dl>
-
-**Areas & skills:** Career development: Technical, Research, Information security
+**Areas & skills:** Career development: Technical
 
 ## Summary
 - In this role, you'll support the Cyber Threat Intelligence team in collecting, processing, and analyzing cyber threat information.

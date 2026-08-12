@@ -4,25 +4,20 @@ employer: "Founders Pledge"
 job_id: "reccJhimk76KrbjRt"
 last_updated: "2026-08-11T05:31:54.254107Z"
 posted_at: "2026-08-03T00:03:00Z"
-status: ready
+status: closed
+closed_at: "2026-08-12"
 apply_url: "https://careers.founderspledge.com/jobs/8130278-brand-graphic-designer"
 areas:
   - "Building effective altruism"
 ---
 
+> ⚠️ **CLOSED on 2026-08-12** — this job is no longer listed on the 80,000 Hours board. Archived snapshot below.
+
 # Brand and Graphic Designer
 
-**[Founders Pledge](https://www.founderspledge.com/)**
+**Founders Pledge**
 
-<dl class="job-meta">
-<dt>Location</dt><dd>London, UK, UK</dd>
-<dt>Role type</dt><dd>Full-time</dd>
-<dt>Experience</dt><dd>Junior (1-4 years experience), Mid (5-9 years experience)</dd>
-<dt>Degree</dt><dd>Undergraduate degree or less</dd>
-<dt>Salary</dt><dd>$74,295</dd>
-</dl>
-
-**Areas & skills:** Building effective altruism, Outreach
+**Areas & skills:** Building effective altruism
 
 ## Summary
 - In this role, you'll steward Founders Pledge's visual identity across social media, website, marketing collateral, and public channels.

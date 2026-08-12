@@ -4,25 +4,20 @@ employer: "Bipartisan Policy Center"
 job_id: "recDTXLQh3FMfHjIT"
 last_updated: "2026-08-11T05:32:09.464038Z"
 posted_at: "2026-07-27T00:00:00Z"
-status: ready
+status: closed
+closed_at: "2026-08-12"
 apply_url: "https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=b7ec3708-935d-4824-b8ca-81a1101b34c3&ccId=19000101_000003&lang=en_US&jobId=570285&jwId=SYS%3AJW%3A001"
 areas:
   - "Career development: Policy & government"
 ---
 
+> ⚠️ **CLOSED on 2026-08-12** — this job is no longer listed on the 80,000 Hours board. Archived snapshot below.
+
 # Internship, Government Relations (Fall 2026)
 
-**[Bipartisan Policy Center](https://bipartisanpolicy.org/)**
+**Bipartisan Policy Center**
 
-<dl class="job-meta">
-<dt>Location</dt><dd>Washington, DC metro area, USA</dd>
-<dt>Role type</dt><dd>Internship</dd>
-<dt>Experience</dt><dd>Entry-level</dd>
-<dt>Degree</dt><dd>Undergraduate degree or less</dd>
-<dt>Salary</dt><dd>$3,000</dd>
-</dl>
-
-**Areas & skills:** Career development: Policy & government, Research, Policy
+**Areas & skills:** Career development: Policy & government
 
 ## Summary
 - In this role, you'll support government relations efforts through legislative research and communications work across multiple policy areas.

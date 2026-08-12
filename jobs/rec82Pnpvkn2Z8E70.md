@@ -2,7 +2,7 @@
 title: "Chief of Staff to the Chief Executive Officer"
 employer: "General-Purpose AI Policy Lab"
 job_id: "rec82Pnpvkn2Z8E70"
-last_updated: "2026-08-11T05:33:25.956589Z"
+last_updated: "2026-08-12T05:33:34.763405Z"
 posted_at: "2022-01-05T00:00:00Z"
 status: ready
 apply_url: "https://docs.google.com/document/d/1oXWkoQEL9_jE2rCJ0IDV8871dP0M0sXg-jlNVdV0EJw/edit?tab=t.0#heading=h.q8n18m4w7f2n"
@@ -19,7 +19,7 @@ areas:
 <dt>Role type</dt><dd>Full-time</dd>
 <dt>Experience</dt><dd>Mid (5-9 years experience)</dd>
 <dt>Degree</dt><dd>Undergraduate degree or less</dd>
-<dt>Salary</dt><dd>$75,016 – $109,639</dd>
+<dt>Salary</dt><dd>$74,963 – $109,562</dd>
 </dl>
 
 **Areas & skills:** AI safety & policy, Operations
@@ -33,4 +33,4 @@ areas:
 <p class="apply-cta"><a href="https://docs.google.com/document/d/1oXWkoQEL9_jE2rCJ0IDV8871dP0M0sXg-jlNVdV0EJw/edit?tab=t.0#heading=h.q8n18m4w7f2n">Apply →</a></p>
 
 ---
-*Posted 2022-01-05 · Listing synced 2026-08-11 · 80k job ID `rec82Pnpvkn2Z8E70`*
+*Posted 2022-01-05 · Listing synced 2026-08-12 · 80k job ID `rec82Pnpvkn2Z8E70`*

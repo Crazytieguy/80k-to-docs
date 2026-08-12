@@ -2,7 +2,7 @@
 title: "Intern, ML Research Engineering"
 employer: "Dynamo AI"
 job_id: "rec25SLVQgUoAoWit"
-last_updated: "2026-08-11T05:31:43.906095Z"
+last_updated: "2026-08-12T05:31:55.088370Z"
 posted_at: "2026-08-07T00:00:00Z"
 status: ready
 apply_url: "https://www.ycombinator.com/companies/dynamo-ai/jobs/bUcFnbU-ml-research-engineer-intern-dynamo-guard-dynamo-eval-agentwarden"
@@ -33,4 +33,4 @@ areas:
 <p class="apply-cta"><a href="https://www.ycombinator.com/companies/dynamo-ai/jobs/bUcFnbU-ml-research-engineer-intern-dynamo-guard-dynamo-eval-agentwarden">Apply →</a></p>
 
 ---
-*Posted 2026-08-07 · Listing synced 2026-08-11 · 80k job ID `rec25SLVQgUoAoWit`*
+*Posted 2026-08-07 · Listing synced 2026-08-12 · 80k job ID `rec25SLVQgUoAoWit`*

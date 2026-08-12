@@ -4,24 +4,20 @@ employer: "Commonwealth Scientific and Industrial Research Organisation"
 job_id: "recVM2F9zELNvPt2q"
 last_updated: "2026-08-11T05:32:21.232382Z"
 posted_at: "2026-07-16T00:00:00Z"
-status: ready
+status: closed
+closed_at: "2026-08-12"
 apply_url: "https://jobs.csiro.au/job/Melbourne%2C-VIC-Undergraduate-Vacation-Studentships-CSIRO-Futures/1364393866/"
 areas:
   - "Career development"
 ---
 
+> ⚠️ **CLOSED on 2026-08-12** — this job is no longer listed on the 80,000 Hours board. Archived snapshot below.
+
 # Undergraduate Vacation Studentship, CSIRO Futures
 
-**[Commonwealth Scientific and Industrial Research Organisation](https://www.csiro.au/en/)**
+**Commonwealth Scientific and Industrial Research Organisation**
 
-<dl class="job-meta">
-<dt>Location</dt><dd>Melbourne, Australia, Australia, Oceania</dd>
-<dt>Role type</dt><dd>Internship</dd>
-<dt>Experience</dt><dd>Entry-level</dd>
-<dt>Degree</dt><dd>Undergraduate degree or less</dd>
-</dl>
-
-**Areas & skills:** Career development, Research, Policy
+**Areas & skills:** Career development
 
 ## Summary
 - In this role, you'll collaborate with CSIRO researchers on strategic consulting projects addressing national challenges in energy, minerals, agriculture and biosecurity.

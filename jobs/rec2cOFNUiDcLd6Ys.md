@@ -2,7 +2,7 @@
 title: "Junior Program Manager"
 employer: "Rethink Wellbeing"
 job_id: "rec2cOFNUiDcLd6Ys"
-last_updated: "2026-08-11T05:33:43.082707Z"
+last_updated: "2026-08-12T05:33:52.297209Z"
 posted_at: "2022-01-02T00:00:00Z"
 status: ready
 apply_url: "https://docs.google.com/forms/d/e/1FAIpQLSeJmBjaIbBDT2AaFpTYSfCoDNlafY2BgQpKubqLgfMyeOPG1A/viewform"
@@ -34,4 +34,4 @@ areas:
 <p class="apply-cta"><a href="https://docs.google.com/forms/d/e/1FAIpQLSeJmBjaIbBDT2AaFpTYSfCoDNlafY2BgQpKubqLgfMyeOPG1A/viewform">Apply →</a></p>
 
 ---
-*Posted 2022-01-02 · Listing synced 2026-08-11 · 80k job ID `rec2cOFNUiDcLd6Ys`*
+*Posted 2022-01-02 · Listing synced 2026-08-12 · 80k job ID `rec2cOFNUiDcLd6Ys`*

@@ -4,24 +4,20 @@ employer: "Center for a New American Security"
 job_id: "recXhlqzLhWyh7gQb"
 last_updated: "2026-08-11T05:32:48.962810Z"
 posted_at: "2026-05-28T00:03:00Z"
-status: ready
+status: closed
+closed_at: "2026-08-12"
 apply_url: "https://www.cnas.org/careers/project-coordinator"
 areas:
   - "AI safety & policy"
 ---
 
+> ⚠️ **CLOSED on 2026-08-12** — this job is no longer listed on the 80,000 Hours board. Archived snapshot below.
+
 # Project Coordinator
 
-**[Center for a New American Security](https://www.cnas.org/)**
+**Center for a New American Security**
 
-<dl class="job-meta">
-<dt>Location</dt><dd>Washington, DC metro area, USA</dd>
-<dt>Role type</dt><dd>Full-time</dd>
-<dt>Experience</dt><dd>Junior (1-4 years experience)</dd>
-<dt>Degree</dt><dd>Undergraduate degree or less</dd>
-</dl>
-
-**Areas & skills:** AI safety & policy, Operations
+**Areas & skills:** AI safety & policy
 
 ## Summary
 - In this role, you'll coordinate a major AI security initiative supporting national security policy research.

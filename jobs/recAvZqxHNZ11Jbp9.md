@@ -2,7 +2,7 @@
 title: "Software Engineer"
 employer: "Kickstarting for Good"
 job_id: "recAvZqxHNZ11Jbp9"
-last_updated: "2026-08-11T05:32:10.621458Z"
+last_updated: "2026-08-12T05:32:21.686302Z"
 posted_at: "2026-07-27T00:00:00Z"
 status: ready
 apply_url: "https://jobs.kickstarting.org/software-engineer"
@@ -19,7 +19,7 @@ areas:
 <dt>Role type</dt><dd>Full-time</dd>
 <dt>Experience</dt><dd>Junior (1-4 years experience)</dd>
 <dt>Degree</dt><dd>Undergraduate degree or less</dd>
-<dt>Salary</dt><dd>$51,934 – $63,475</dd>
+<dt>Salary</dt><dd>$51,898 – $63,430</dd>
 </dl>
 
 **Areas & skills:** Animal welfare, Software engineering
@@ -34,4 +34,4 @@ areas:
 <p class="apply-cta"><a href="https://jobs.kickstarting.org/software-engineer">Apply →</a></p>
 
 ---
-*Posted 2026-07-27 · Listing synced 2026-08-11 · 80k job ID `recAvZqxHNZ11Jbp9`*
+*Posted 2026-07-27 · Listing synced 2026-08-12 · 80k job ID `recAvZqxHNZ11Jbp9`*

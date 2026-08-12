@@ -2,7 +2,7 @@
 title: "Technical and Translational Lead, Safeguarded AI, Cybersecurity"
 employer: "Advanced Research and Invention Agency"
 job_id: "recAqPOY9hTa9gFWv"
-last_updated: "2026-08-11T05:32:30.300732Z"
+last_updated: "2026-08-12T05:32:40.056274Z"
 posted_at: "2026-07-06T00:01:00Z"
 status: ready
 apply_url: "https://aria.pinpointhq.com/en/postings/f1288172-37fe-4da5-96ed-de7e719d65e8"
@@ -19,7 +19,7 @@ areas:
 <dt>Role type</dt><dd>Full-time</dd>
 <dt>Experience</dt><dd>Mid (5-9 years experience), Senior (10+ years experience)</dd>
 <dt>Degree</dt><dd>Undergraduate degree or less</dd>
-<dt>Salary</dt><dd>$141,836</dd>
+<dt>Salary</dt><dd>$141,777</dd>
 </dl>
 
 **Areas & skills:** AI safety & policy, Information security, Strategy
@@ -34,4 +34,4 @@ areas:
 <p class="apply-cta"><a href="https://aria.pinpointhq.com/en/postings/f1288172-37fe-4da5-96ed-de7e719d65e8">Apply →</a></p>
 
 ---
-*Posted 2026-07-06 · Listing synced 2026-08-11 · 80k job ID `recAqPOY9hTa9gFWv`*
+*Posted 2026-07-06 · Listing synced 2026-08-12 · 80k job ID `recAqPOY9hTa9gFWv`*

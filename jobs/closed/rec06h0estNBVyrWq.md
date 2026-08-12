@@ -4,25 +4,20 @@ employer: "Microsoft"
 job_id: "rec06h0estNBVyrWq"
 last_updated: "2026-08-11T05:32:28.273226Z"
 posted_at: "2026-07-08T00:01:00Z"
-status: ready
+status: closed
+closed_at: "2026-08-12"
 apply_url: "https://apply.careers.microsoft.com/careers/job/1970393556827358?domain=microsoft.com&source=LinkedIn"
 areas:
   - "AI safety & policy"
 ---
 
+> ⚠️ **CLOSED on 2026-08-12** — this job is no longer listed on the 80,000 Hours board. Archived snapshot below.
+
 # Team Member, Futures, Frontier Risk and Alignment
 
-**[Microsoft](https://www.microsoft.com/en-us/about/company)**
+**Microsoft**
 
-<dl class="job-meta">
-<dt>Location</dt><dd>New York, NY, USA</dd>
-<dt>Role type</dt><dd>Full-time</dd>
-<dt>Experience</dt><dd>Junior (1-4 years experience)</dd>
-<dt>Degree</dt><dd>Doctoral degree</dd>
-<dt>Salary</dt><dd>$119,800 – $304,200</dd>
-</dl>
-
-**Areas & skills:** AI safety & policy, Research
+**Areas & skills:** AI safety & policy
 
 ## Summary
 - In this role, you'll lead frontier AI risk research and inform Microsoft's safety and alignment strategy.

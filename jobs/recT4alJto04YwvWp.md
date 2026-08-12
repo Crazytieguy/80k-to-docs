@@ -2,7 +2,7 @@
 title: "Software Security Engineering Manager, Secure Frameworks"
 employer: "Anthropic"
 job_id: "recT4alJto04YwvWp"
-last_updated: "2026-08-11T05:32:21.638189Z"
+last_updated: "2026-08-12T05:32:31.064776Z"
 posted_at: "2026-07-15T00:00:00Z"
 status: ready
 apply_url: "https://job-boards.greenhouse.io/anthropic/jobs/5324758008"
@@ -34,4 +34,4 @@ areas:
 <p class="apply-cta"><a href="https://job-boards.greenhouse.io/anthropic/jobs/5324758008">Apply →</a></p>
 
 ---
-*Posted 2026-07-15 · Listing synced 2026-08-11 · 80k job ID `recT4alJto04YwvWp`*
+*Posted 2026-07-15 · Listing synced 2026-08-12 · 80k job ID `recT4alJto04YwvWp`*

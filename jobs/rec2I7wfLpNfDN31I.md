@@ -2,7 +2,7 @@
 title: "Volunteer"
 employer: "Giving What We Can"
 job_id: "rec2I7wfLpNfDN31I"
-last_updated: "2026-08-11T05:33:02.235331Z"
+last_updated: "2026-08-12T05:33:14.085664Z"
 posted_at: "2022-01-08T00:00:00Z"
 status: ready
 apply_url: "https://www.givingwhatwecan.org/get-involved#volunteer"
@@ -35,4 +35,4 @@ areas:
 <p class="apply-cta"><a href="https://www.givingwhatwecan.org/get-involved#volunteer">Apply →</a></p>
 
 ---
-*Posted 2022-01-08 · Listing synced 2026-08-11 · 80k job ID `rec2I7wfLpNfDN31I`*
+*Posted 2022-01-08 · Listing synced 2026-08-12 · 80k job ID `rec2I7wfLpNfDN31I`*

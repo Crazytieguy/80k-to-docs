@@ -4,25 +4,20 @@ employer: "Anthropic"
 job_id: "recH7lvvCFX5GXtmJ"
 last_updated: "2026-08-11T05:32:19.725734Z"
 posted_at: "2026-07-17T00:00:00Z"
-status: ready
+status: closed
+closed_at: "2026-08-12"
 apply_url: "https://job-boards.greenhouse.io/anthropic/jobs/5030244008"
 areas:
   - "AI safety & policy"
 ---
 
+> ⚠️ **CLOSED on 2026-08-12** — this job is no longer listed on the 80,000 Hours board. Archived snapshot below.
+
 # Fellow Program, AI Security
 
-**[Anthropic](https://www.anthropic.com/)**
+**Anthropic**
 
-<dl class="job-meta">
-<dt>Location</dt><dd>London, UK, San Francisco Bay Area, Remote, USA, Remote, UK, Remote, Canada, UK, USA, Canada</dd>
-<dt>Role type</dt><dd>Fellowship</dd>
-<dt>Experience</dt><dd>Entry-level</dd>
-<dt>Degree</dt><dd>Undergraduate degree or less</dd>
-<dt>Salary</dt><dd>$3,850</dd>
-</dl>
-
-**Areas & skills:** AI safety & policy, Research, Software engineering, Information security
+**Areas & skills:** AI safety & policy
 
 ## Summary
 - In this fellowship, you'll conduct AI security research for four months, working to identify and address potential risks from advanced AI systems while producing publishable outputs.

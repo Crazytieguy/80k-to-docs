@@ -2,7 +2,7 @@
 title: "Machine Learning Engineer"
 employer: "Goodfire"
 job_id: "recaERcc4C2uw6tuS"
-last_updated: "2026-08-11T05:33:26.343685Z"
+last_updated: "2026-08-12T05:33:35.213337Z"
 posted_at: "2022-01-05T00:00:00Z"
 status: ready
 apply_url: "https://job-boards.greenhouse.io/goodfire/jobs/5019847008"
@@ -34,4 +34,4 @@ areas:
 <p class="apply-cta"><a href="https://job-boards.greenhouse.io/goodfire/jobs/5019847008">Apply →</a></p>
 
 ---
-*Posted 2022-01-05 · Listing synced 2026-08-11 · 80k job ID `recaERcc4C2uw6tuS`*
+*Posted 2022-01-05 · Listing synced 2026-08-12 · 80k job ID `recaERcc4C2uw6tuS`*

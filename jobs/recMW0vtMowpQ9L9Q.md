@@ -2,7 +2,7 @@
 title: "Recruiter"
 employer: "The AI Policy Network"
 job_id: "recMW0vtMowpQ9L9Q"
-last_updated: "2026-08-11T05:32:41.510176Z"
+last_updated: "2026-08-12T05:32:53.221920Z"
 posted_at: "2026-06-11T00:02:00Z"
 status: ready
 apply_url: "https://job-boards.greenhouse.io/aipn/jobs/4353566009"
@@ -34,4 +34,4 @@ areas:
 <p class="apply-cta"><a href="https://job-boards.greenhouse.io/aipn/jobs/4353566009">Apply →</a></p>
 
 ---
-*Posted 2026-06-11 · Listing synced 2026-08-11 · 80k job ID `recMW0vtMowpQ9L9Q`*
+*Posted 2026-06-11 · Listing synced 2026-08-12 · 80k job ID `recMW0vtMowpQ9L9Q`*

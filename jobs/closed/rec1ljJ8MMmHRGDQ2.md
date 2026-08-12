@@ -4,25 +4,20 @@ employer: "GiveWell"
 job_id: "rec1ljJ8MMmHRGDQ2"
 last_updated: "2026-08-11T05:33:01.684280Z"
 posted_at: "2022-01-08T00:00:00Z"
-status: ready
+status: closed
+closed_at: "2026-08-12"
 apply_url: "https://grnh.se/0b4ueh0k8us"
 areas:
   - "Global health & development"
 ---
 
+> ⚠️ **CLOSED on 2026-08-12** — this job is no longer listed on the 80,000 Hours board. Archived snapshot below.
+
 # Research Analyst, Commons
 
-**[GiveWell](https://www.givewell.org)**
+**GiveWell**
 
-<dl class="job-meta">
-<dt>Location</dt><dd>USA</dd>
-<dt>Role type</dt><dd>Full-time</dd>
-<dt>Experience</dt><dd>Junior (1-4 years experience)</dd>
-<dt>Degree</dt><dd>Undergraduate degree or less</dd>
-<dt>Salary</dt><dd>$98,600 – $108,800</dd>
-</dl>
-
-**Areas & skills:** Global health & development, Research
+**Areas & skills:** Global health & development
 
 ## Summary
 - In this role, you'll support GiveWell's research team in identifying cost-effective global health giving opportunities that impact hundreds of millions in funding decisions.

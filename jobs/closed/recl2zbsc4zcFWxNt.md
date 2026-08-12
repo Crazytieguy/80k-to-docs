@@ -4,25 +4,20 @@ employer: "Founders Pledge"
 job_id: "recl2zbsc4zcFWxNt"
 last_updated: "2026-08-11T05:31:45.447398Z"
 posted_at: "2026-08-06T00:01:00Z"
-status: ready
+status: closed
+closed_at: "2026-08-12"
 apply_url: "https://careers.founderspledge.com/jobs/8169840-head-of-it"
 areas:
   - "Building effective altruism"
 ---
 
+> ⚠️ **CLOSED on 2026-08-12** — this job is no longer listed on the 80,000 Hours board. Archived snapshot below.
+
 # Head of IT
 
-**[Founders Pledge](https://www.founderspledge.com/)**
+**Founders Pledge**
 
-<dl class="job-meta">
-<dt>Location</dt><dd>London, UK, UK</dd>
-<dt>Role type</dt><dd>Full-time</dd>
-<dt>Experience</dt><dd>Mid (5-9 years experience)</dd>
-<dt>Degree</dt><dd>Undergraduate degree or less</dd>
-<dt>Salary</dt><dd>$108,065</dd>
-</dl>
-
-**Areas & skills:** Building effective altruism, Operations, Information security
+**Areas & skills:** Building effective altruism
 
 ## Summary
 - In this role, you'll lead IT security, operations and technology administration for a global philanthropy organisation, serving as senior technical escalation point.

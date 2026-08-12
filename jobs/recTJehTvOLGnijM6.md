@@ -2,7 +2,7 @@
 title: "Member of Technical Staff, Design Engineer"
 employer: "Valthos"
 job_id: "recTJehTvOLGnijM6"
-last_updated: "2026-08-11T05:32:04.391835Z"
+last_updated: "2026-08-12T05:32:16.011488Z"
 posted_at: "2026-07-30T00:01:00Z"
 status: ready
 apply_url: "https://jobs.ashbyhq.com/valthos/9b7ea5d6-7900-4013-bfe7-2c28d90fd6d2"
@@ -34,4 +34,4 @@ areas:
 <p class="apply-cta"><a href="https://jobs.ashbyhq.com/valthos/9b7ea5d6-7900-4013-bfe7-2c28d90fd6d2">Apply →</a></p>
 
 ---
-*Posted 2026-07-30 · Listing synced 2026-08-11 · 80k job ID `recTJehTvOLGnijM6`*
+*Posted 2026-07-30 · Listing synced 2026-08-12 · 80k job ID `recTJehTvOLGnijM6`*

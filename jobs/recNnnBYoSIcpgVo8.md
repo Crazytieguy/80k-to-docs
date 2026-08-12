@@ -2,7 +2,7 @@
 title: "Hardware Engineer"
 employer: "Lucid Computing"
 job_id: "recNnnBYoSIcpgVo8"
-last_updated: "2026-08-11T05:31:56.138147Z"
+last_updated: "2026-08-12T05:32:07.457240Z"
 posted_at: "2026-08-03T00:00:00Z"
 status: ready
 apply_url: "https://lucidcomputing.ai/careers#hardware-engineer"
@@ -32,4 +32,4 @@ areas:
 <p class="apply-cta"><a href="https://lucidcomputing.ai/careers#hardware-engineer">Apply →</a></p>
 
 ---
-*Posted 2026-08-03 · Listing synced 2026-08-11 · 80k job ID `recNnnBYoSIcpgVo8`*
+*Posted 2026-08-03 · Listing synced 2026-08-12 · 80k job ID `recNnnBYoSIcpgVo8`*

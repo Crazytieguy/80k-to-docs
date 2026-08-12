@@ -2,7 +2,7 @@
 title: "AI Policy Research Fellowship (x2)"
 employer: "INHR"
 job_id: "recjXcz6KWVihnGjy"
-last_updated: "2026-08-11T05:31:45.332415Z"
+last_updated: "2026-08-12T05:31:56.597303Z"
 posted_at: "2026-08-06T00:02:00Z"
 status: ready
 apply_url: "https://docs.google.com/document/d/1brejHNr1FXHVjuuxlpQ-Kucny3R8nR-s/edit?usp=sharing&ouid=116170959638186777523&rtpof=true&sd=true"
@@ -33,4 +33,4 @@ areas:
 <p class="apply-cta"><a href="https://docs.google.com/document/d/1brejHNr1FXHVjuuxlpQ-Kucny3R8nR-s/edit?usp=sharing&amp;ouid=116170959638186777523&amp;rtpof=true&amp;sd=true">Apply →</a></p>
 
 ---
-*Posted 2026-08-06 · Listing synced 2026-08-11 · 80k job ID `recjXcz6KWVihnGjy`*
+*Posted 2026-08-06 · Listing synced 2026-08-12 · 80k job ID `recjXcz6KWVihnGjy`*
