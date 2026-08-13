@@ -2,7 +2,7 @@
 title: "Chief of Staff, DC"
 employer: "GovAI"
 job_id: "reckfdcjjQEaZ45mG"
-last_updated: "2026-08-12T05:32:29.360329Z"
+last_updated: "2026-08-13T05:32:29.895604Z"
 posted_at: "2026-07-17T00:04:24Z"
 status: ready
 apply_url: "https://www.governance.ai/post/dc-chief-of-staff"
@@ -34,4 +34,4 @@ areas:
 <p class="apply-cta"><a href="https://www.governance.ai/post/dc-chief-of-staff">Apply →</a></p>
 
 ---
-*Posted 2026-07-17 · Listing synced 2026-08-12 · 80k job ID `reckfdcjjQEaZ45mG`*
+*Posted 2026-07-17 · Listing synced 2026-08-13 · 80k job ID `reckfdcjjQEaZ45mG`*

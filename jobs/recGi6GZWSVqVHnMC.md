@@ -2,7 +2,7 @@
 title: "Research Fellowship"
 employer: "AI Alignment Foundation"
 job_id: "recGi6GZWSVqVHnMC"
-last_updated: "2026-08-12T05:32:30.886489Z"
+last_updated: "2026-08-13T05:32:31.612723Z"
 posted_at: "2026-07-15T00:01:00Z"
 status: ready
 apply_url: "https://www.aialignmentfoundation.org/fellowship"
@@ -34,4 +34,4 @@ areas:
 <p class="apply-cta"><a href="https://www.aialignmentfoundation.org/fellowship">Apply →</a></p>
 
 ---
-*Posted 2026-07-15 · Listing synced 2026-08-12 · 80k job ID `recGi6GZWSVqVHnMC`*
+*Posted 2026-07-15 · Listing synced 2026-08-13 · 80k job ID `recGi6GZWSVqVHnMC`*

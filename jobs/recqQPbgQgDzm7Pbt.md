@@ -2,7 +2,7 @@
 title: "Research Fellow, Malaria Vector Control"
 employer: "University of London, School of Hygiene and Tropical Medicine"
 job_id: "recqQPbgQgDzm7Pbt"
-last_updated: "2026-08-12T05:31:48.616676Z"
+last_updated: "2026-08-13T05:31:49.922845Z"
 posted_at: "2026-08-11T00:00:00Z"
 status: ready
 apply_url: "https://jobs.lshtm.ac.uk/vacancy.aspx?ref=EPH-EPIH-2026-09"
@@ -19,7 +19,7 @@ areas:
 <dt>Role type</dt><dd>Fellowship</dd>
 <dt>Experience</dt><dd>Junior (1-4 years experience)</dd>
 <dt>Degree</dt><dd>Master's degree</dd>
-<dt>Salary</dt><dd>$61,745 – $69,980</dd>
+<dt>Salary</dt><dd>$61,715 – $69,947</dd>
 </dl>
 
 **Areas & skills:** Global health & development, Research
@@ -34,4 +34,4 @@ areas:
 <p class="apply-cta"><a href="https://jobs.lshtm.ac.uk/vacancy.aspx?ref=EPH-EPIH-2026-09">Apply →</a></p>
 
 ---
-*Posted 2026-08-11 · Listing synced 2026-08-12 · 80k job ID `recqQPbgQgDzm7Pbt`*
+*Posted 2026-08-11 · Listing synced 2026-08-13 · 80k job ID `recqQPbgQgDzm7Pbt`*

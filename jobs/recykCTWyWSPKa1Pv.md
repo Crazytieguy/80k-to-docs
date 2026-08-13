@@ -2,7 +2,7 @@
 title: "Senior AI Fellow, California Department of Technology"
 employer: "California Council on Science and Technology"
 job_id: "recykCTWyWSPKa1Pv"
-last_updated: "2026-08-12T05:31:56.267264Z"
+last_updated: "2026-08-13T05:31:56.369994Z"
 posted_at: "2026-08-06T00:04:00Z"
 status: ready
 apply_url: "https://ccst.us/senior-ai-fellow-cdt/"
@@ -30,8 +30,9 @@ areas:
 - Coordinate with AI governance leads across government, academia, private sector, federal labs, and community organisations.
 - Develop reports and written content for the State Legislature with recommendations on AI safety.
 - Support AI adoption and identify emerging AI governance opportunities and challenges for state government services.
+- If you decide to apply, the Secure AI Project encourages you to reach out to implementation@secureaiproject.org.
 
 <p class="apply-cta"><a href="https://ccst.us/senior-ai-fellow-cdt/">Apply →</a></p>
 
 ---
-*Posted 2026-08-06 · Listing synced 2026-08-12 · 80k job ID `recykCTWyWSPKa1Pv`*
+*Posted 2026-08-06 · Listing synced 2026-08-13 · 80k job ID `recykCTWyWSPKa1Pv`*

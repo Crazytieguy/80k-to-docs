@@ -4,25 +4,20 @@ employer: "Google DeepMind"
 job_id: "rec6DzN6RoUeYrwaY"
 last_updated: "2026-08-12T05:32:18.235018Z"
 posted_at: "2026-07-29T00:00:00Z"
-status: ready
+status: closed
+closed_at: "2026-08-13"
 apply_url: "https://www.google.com/about/careers/applications/jobs/results/125154517057446598-principal-virologist-responsible-development-and-innovation-deepmind?company=DeepMind&page=5"
 areas:
   - "AI safety & policy"
 ---
 
+> ⚠️ **CLOSED on 2026-08-13** — this job is no longer listed on the 80,000 Hours board. Archived snapshot below.
+
 # Principal Virologist, Responsible Development and Innovation
 
-**[Google DeepMind](https://www.deepmind.com)**
+**Google DeepMind**
 
-<dl class="job-meta">
-<dt>Location</dt><dd>Various, USA, USA</dd>
-<dt>Role type</dt><dd>Full-time</dd>
-<dt>Experience</dt><dd>Senior (10+ years experience)</dd>
-<dt>Degree</dt><dd>Doctoral degree</dd>
-<dt>Salary</dt><dd>$307,000 – $427,000</dd>
-</dl>
-
-**Areas & skills:** AI safety & policy, Strategy
+**Areas & skills:** AI safety & policy
 
 ## Summary
 - In this role, you will integrate ongoing scientific community insights regarding biological pathogens to ensure safety frameworks reflect real-world threat vectors.

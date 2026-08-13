@@ -2,7 +2,7 @@
 title: "Research Manager"
 employer: "Principles of Intelligence"
 job_id: "recVTKyIwNGqY5FSQ"
-last_updated: "2026-08-12T05:32:02.362080Z"
+last_updated: "2026-08-13T05:32:02.257712Z"
 posted_at: "2026-08-04T00:03:00Z"
 status: ready
 apply_url: "https://princint.ai/now-hiring-research-manager-winter-2026-2027-pibbss-fellowship/"
@@ -34,4 +34,4 @@ areas:
 <p class="apply-cta"><a href="https://princint.ai/now-hiring-research-manager-winter-2026-2027-pibbss-fellowship/">Apply →</a></p>
 
 ---
-*Posted 2026-08-04 · Listing synced 2026-08-12 · 80k job ID `recVTKyIwNGqY5FSQ`*
+*Posted 2026-08-04 · Listing synced 2026-08-13 · 80k job ID `recVTKyIwNGqY5FSQ`*

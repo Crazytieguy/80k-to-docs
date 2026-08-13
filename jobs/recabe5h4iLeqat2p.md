@@ -2,7 +2,7 @@
 title: "Strategic Partnership Manager, AI Safety"
 employer: "Gray Swan"
 job_id: "recabe5h4iLeqat2p"
-last_updated: "2026-08-12T05:32:06.363995Z"
+last_updated: "2026-08-13T05:32:05.954572Z"
 posted_at: "2026-08-03T00:00:00Z"
 status: ready
 apply_url: "https://jobs.ashbyhq.com/Gray%20Swan%20AI/a7ea5c42-edd7-4b15-834e-0bfa66c071c4"
@@ -34,4 +34,4 @@ areas:
 <p class="apply-cta"><a href="https://jobs.ashbyhq.com/Gray%20Swan%20AI/a7ea5c42-edd7-4b15-834e-0bfa66c071c4">Apply →</a></p>
 
 ---
-*Posted 2026-08-03 · Listing synced 2026-08-12 · 80k job ID `recabe5h4iLeqat2p`*
+*Posted 2026-08-03 · Listing synced 2026-08-13 · 80k job ID `recabe5h4iLeqat2p`*

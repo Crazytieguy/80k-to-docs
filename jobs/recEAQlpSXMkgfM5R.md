@@ -2,7 +2,7 @@
 title: "Talent Database Lead"
 employer: "80,000 Hours"
 job_id: "recEAQlpSXMkgfM5R"
-last_updated: "2026-08-12T05:32:09.220753Z"
+last_updated: "2026-08-13T05:32:08.266091Z"
 posted_at: "2026-07-31T00:05:00Z"
 status: ready
 apply_url: "https://jobs.ashbyhq.com/80000hours/9d2e1a75-78e2-4d4b-8562-21bbc5c0dec4"
@@ -19,7 +19,7 @@ areas:
 <dt>Role type</dt><dd>Full-time</dd>
 <dt>Experience</dt><dd>Junior (1-4 years experience), Mid (5-9 years experience)</dd>
 <dt>Degree</dt><dd>Undergraduate degree or less</dd>
-<dt>Salary</dt><dd>$130,975 – $175,533</dd>
+<dt>Salary</dt><dd>$130,913 – $175,451</dd>
 </dl>
 
 **Areas & skills:** AI safety & policy, Strategy
@@ -34,4 +34,4 @@ areas:
 <p class="apply-cta"><a href="https://jobs.ashbyhq.com/80000hours/9d2e1a75-78e2-4d4b-8562-21bbc5c0dec4">Apply →</a></p>
 
 ---
-*Posted 2026-07-31 · Listing synced 2026-08-12 · 80k job ID `recEAQlpSXMkgfM5R`*
+*Posted 2026-07-31 · Listing synced 2026-08-13 · 80k job ID `recEAQlpSXMkgfM5R`*

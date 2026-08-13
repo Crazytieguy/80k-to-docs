@@ -2,7 +2,7 @@
 title: "Senior AI Fellow, California Governor's Office of Emergency Services"
 employer: "California Council on Science and Technology"
 job_id: "recZkXHjKquo02ySD"
-last_updated: "2026-08-12T05:31:56.127892Z"
+last_updated: "2026-08-13T05:31:56.248716Z"
 posted_at: "2026-08-06T00:04:00Z"
 status: ready
 apply_url: "https://ccst.us/senior-ai-fellow-cal-oes/"
@@ -30,8 +30,9 @@ areas:
 - Coordinate with AI governance teams across Cal OES, state agencies, academia, and industry.
 - Gather expertise from diverse sources to inform AI adoption, safety, and cybersecurity decisions.
 - Identify emerging AI governance challenges and support responsible AI use in government.
+- If you decide to apply, the Secure AI Project encourages you to reach out to implementation@secureaiproject.org.
 
 <p class="apply-cta"><a href="https://ccst.us/senior-ai-fellow-cal-oes/">Apply →</a></p>
 
 ---
-*Posted 2026-08-06 · Listing synced 2026-08-12 · 80k job ID `recZkXHjKquo02ySD`*
+*Posted 2026-08-06 · Listing synced 2026-08-13 · 80k job ID `recZkXHjKquo02ySD`*

@@ -4,24 +4,20 @@ employer: "One Acre Fund"
 job_id: "recqdF8gkhMtIzykM"
 last_updated: "2026-08-12T05:31:52.257276Z"
 posted_at: "2026-08-10T00:00:00Z"
-status: ready
+status: closed
+closed_at: "2026-08-13"
 apply_url: "https://oneacrefund.org/vacancies/nigeria-recruitment-intern-minna-niger-state"
 areas:
   - "Global health & development"
 ---
 
+> ⚠️ **CLOSED on 2026-08-13** — this job is no longer listed on the 80,000 Hours board. Archived snapshot below.
+
 # Recruitment Intern, Nigeria
 
-**[One Acre Fund](https://oneacrefund.org/)**
+**One Acre Fund**
 
-<dl class="job-meta">
-<dt>Location</dt><dd>Niger, Nigeria, Minna, Nigeria, Nigeria, Africa</dd>
-<dt>Role type</dt><dd>Internship</dd>
-<dt>Experience</dt><dd>Entry-level</dd>
-<dt>Degree</dt><dd>Undergraduate degree or less</dd>
-</dl>
-
-**Areas & skills:** Global health & development, Operations
+**Areas & skills:** Global health & development
 
 ## Summary
 - In this role, you'll kickstart your recruitment career by mastering hiring processes and driving candidate experience.

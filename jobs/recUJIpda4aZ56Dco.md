@@ -2,7 +2,7 @@
 title: "Workshop Lead"
 employer: "Cambridge Boston Alignment Initiative"
 job_id: "recUJIpda4aZ56Dco"
-last_updated: "2026-08-12T05:31:47.423255Z"
+last_updated: "2026-08-13T05:31:48.819180Z"
 posted_at: "2026-08-11T00:03:00Z"
 status: ready
 apply_url: "https://jobs.ashbyhq.com/cbai/db757c40-3c53-4473-bd32-e86a211dc0d7"
@@ -19,7 +19,7 @@ areas:
 <dt>Role type</dt><dd>Full-time</dd>
 <dt>Experience</dt><dd>Junior (1-4 years experience), Mid (5-9 years experience)</dd>
 <dt>Degree</dt><dd>Undergraduate degree or less</dd>
-<dt>Salary</dt><dd>$90,000 – $150,000</dd>
+<dt>Salary</dt><dd>$100,000 – $150,000</dd>
 </dl>
 
 **Areas & skills:** AI safety & policy, Operations
@@ -34,4 +34,4 @@ areas:
 <p class="apply-cta"><a href="https://jobs.ashbyhq.com/cbai/db757c40-3c53-4473-bd32-e86a211dc0d7">Apply →</a></p>
 
 ---
-*Posted 2026-08-11 · Listing synced 2026-08-12 · 80k job ID `recUJIpda4aZ56Dco`*
+*Posted 2026-08-11 · Listing synced 2026-08-13 · 80k job ID `recUJIpda4aZ56Dco`*

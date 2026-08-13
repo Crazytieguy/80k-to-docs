@@ -2,7 +2,7 @@
 title: "Deputy Director and Senior Fellow, Wadhwani AI Center"
 employer: "Center for Strategic and International Studies"
 job_id: "rec46zosBN2LQZxUi"
-last_updated: "2026-08-12T05:31:54.962737Z"
+last_updated: "2026-08-13T05:31:55.182061Z"
 posted_at: "2026-08-07T00:00:00Z"
 status: ready
 apply_url: "https://job-boards.greenhouse.io/centerforstrategicandinternationalstudiesinc/jobs/4305252009"
@@ -34,4 +34,4 @@ areas:
 <p class="apply-cta"><a href="https://job-boards.greenhouse.io/centerforstrategicandinternationalstudiesinc/jobs/4305252009">Apply →</a></p>
 
 ---
-*Posted 2026-08-07 · Listing synced 2026-08-12 · 80k job ID `rec46zosBN2LQZxUi`*
+*Posted 2026-08-07 · Listing synced 2026-08-13 · 80k job ID `rec46zosBN2LQZxUi`*

@@ -4,26 +4,21 @@ employer: "1Day Sooner"
 job_id: "recGBbgTLMik6E3MT"
 last_updated: "2026-08-12T05:32:51.784887Z"
 posted_at: "2026-06-15T00:00:00Z"
-status: ready
+status: closed
+closed_at: "2026-08-13"
 apply_url: "https://www.1daysooner.org/jobs/"
 areas:
   - "Biosecurity & pandemic preparedness"
   - "Global health & development"
 ---
 
+> ⚠️ **CLOSED on 2026-08-13** — this job is no longer listed on the 80,000 Hours board. Archived snapshot below.
+
 # Program Director, Clinical Trial Abundance
 
-**[1Day Sooner](https://www.onedaysooner.org/)**
+**1Day Sooner**
 
-<dl class="job-meta">
-<dt>Location</dt><dd>Washington, DC metro area, Remote, Global, USA</dd>
-<dt>Role type</dt><dd>Full-time</dd>
-<dt>Experience</dt><dd>Mid (5-9 years experience)</dd>
-<dt>Degree</dt><dd>Undergraduate degree or less</dd>
-<dt>Salary</dt><dd>$150,000 – $225,000</dd>
-</dl>
-
-**Areas & skills:** Biosecurity & pandemic preparedness, Global health & development, Management, Strategy
+**Areas & skills:** Biosecurity & pandemic preparedness, Global health & development
 
 ## Summary
 - In this role, you'll lead the Clinical Trial Abundance program to reduce clinical trial costs and increase health evidence value.

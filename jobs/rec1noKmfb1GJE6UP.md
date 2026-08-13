@@ -2,7 +2,7 @@
 title: "Fractional Controller"
 employer: "The AI Policy Network"
 job_id: "rec1noKmfb1GJE6UP"
-last_updated: "2026-08-12T05:32:03.015181Z"
+last_updated: "2026-08-13T05:32:02.834083Z"
 posted_at: "2026-08-04T00:02:00Z"
 status: ready
 apply_url: "https://job-boards.greenhouse.io/aipn/jobs/4353618009"
@@ -34,4 +34,4 @@ areas:
 <p class="apply-cta"><a href="https://job-boards.greenhouse.io/aipn/jobs/4353618009">Apply →</a></p>
 
 ---
-*Posted 2026-08-04 · Listing synced 2026-08-12 · 80k job ID `rec1noKmfb1GJE6UP`*
+*Posted 2026-08-04 · Listing synced 2026-08-13 · 80k job ID `rec1noKmfb1GJE6UP`*
