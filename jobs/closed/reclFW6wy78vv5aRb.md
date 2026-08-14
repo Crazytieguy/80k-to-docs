@@ -4,24 +4,20 @@ employer: "Ellison Institute of Technology"
 job_id: "reclFW6wy78vv5aRb"
 last_updated: "2026-08-13T05:33:42.549656Z"
 posted_at: "2022-01-03T00:00:00Z"
-status: ready
+status: closed
+closed_at: "2026-08-14"
 apply_url: "https://apply.workable.com/ellison-institute-of-technology/j/D14CD808EC/"
 areas:
   - "Biosecurity & pandemic preparedness"
 ---
 
+> ⚠️ **CLOSED on 2026-08-14** — this job is no longer listed on the 80,000 Hours board. Archived snapshot below.
+
 # Head of Responsible Innovation, Generative Biology Institute
 
-**[Ellison Institute of Technology](https://eit.org/)**
+**Ellison Institute of Technology**
 
-<dl class="job-meta">
-<dt>Location</dt><dd>Oxford, UK, UK</dd>
-<dt>Role type</dt><dd>Full-time</dd>
-<dt>Experience</dt><dd>Mid (5-9 years experience), Senior (10+ years experience)</dd>
-<dt>Degree</dt><dd>Doctoral degree</dd>
-</dl>
-
-**Areas & skills:** Biosecurity & pandemic preparedness, Strategy
+**Areas & skills:** Biosecurity & pandemic preparedness
 
 ## Summary
 - In this role, you'll lead the development and implementation of ethical, secure, and socially conscious research practices within the Generative Biology Institute.

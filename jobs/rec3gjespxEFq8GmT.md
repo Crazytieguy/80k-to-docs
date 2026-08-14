@@ -2,7 +2,7 @@
 title: "AI Fellowship"
 employer: "Transfyr"
 job_id: "rec3gjespxEFq8GmT"
-last_updated: "2026-08-13T05:31:48.078155Z"
+last_updated: "2026-08-14T05:31:49.399450Z"
 posted_at: "2026-08-12T00:00:00Z"
 status: ready
 apply_url: "https://fellowship.transfyr.ai/"
@@ -36,4 +36,4 @@ areas:
 <p class="apply-cta"><a href="https://fellowship.transfyr.ai/">Apply →</a></p>
 
 ---
-*Posted 2026-08-12 · Listing synced 2026-08-13 · 80k job ID `rec3gjespxEFq8GmT`*
+*Posted 2026-08-12 · Listing synced 2026-08-14 · 80k job ID `rec3gjespxEFq8GmT`*

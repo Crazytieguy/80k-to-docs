@@ -4,25 +4,20 @@ employer: "GovAI"
 job_id: "recQ2wqXJ2oksJ1Or"
 last_updated: "2026-08-13T05:33:07.683032Z"
 posted_at: "2022-01-11T00:00:00Z"
-status: ready
+status: closed
+closed_at: "2026-08-14"
 apply_url: "https://www.governance.ai/post/doo-eoi-2026"
 areas:
   - "AI safety & policy"
 ---
 
+> ⚠️ **CLOSED on 2026-08-14** — this job is no longer listed on the 80,000 Hours board. Archived snapshot below.
+
 # Expressions of Interest, Director of Operations
 
-**[GovAI](https://www.governance.ai/)**
+**GovAI**
 
-<dl class="job-meta">
-<dt>Location</dt><dd>London, UK, Remote, USA, UK, USA, USA (Confirmed Visas), UK (Confirmed Visas)</dd>
-<dt>Role type</dt><dd>Full-time</dd>
-<dt>Experience</dt><dd>Mid (5-9 years experience), Senior (10+ years experience)</dd>
-<dt>Degree</dt><dd>Undergraduate degree or less</dd>
-<dt>Salary</dt><dd>$155,000 – $190,000</dd>
-</dl>
-
-**Areas & skills:** AI safety & policy, Operations, Management, Strategy
+**Areas & skills:** AI safety & policy
 
 ## Summary
 - In this role, you'll lead the operations team supporting GovAI's programmes, people, and growth into its next phase.

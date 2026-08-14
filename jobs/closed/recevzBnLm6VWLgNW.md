@@ -4,25 +4,20 @@ employer: "Giving What We Can"
 job_id: "recevzBnLm6VWLgNW"
 last_updated: "2026-08-13T05:33:16.359540Z"
 posted_at: "2022-01-07T00:00:00Z"
-status: ready
+status: closed
+closed_at: "2026-08-14"
 apply_url: "https://www.givingwhatwecan.org/head-of-marketing"
 areas:
   - "Building effective altruism"
 ---
 
+> ⚠️ **CLOSED on 2026-08-14** — this job is no longer listed on the 80,000 Hours board. Archived snapshot below.
+
 # Head of Marketing
 
-**[Giving What We Can](https://www.givingwhatwecan.org/)**
+**Giving What We Can**
 
-<dl class="job-meta">
-<dt>Location</dt><dd>Remote, Global</dd>
-<dt>Role type</dt><dd>Full-time</dd>
-<dt>Experience</dt><dd>Multiple experience levels</dd>
-<dt>Degree</dt><dd>Undergraduate degree or less</dd>
-<dt>Salary</dt><dd>$50,000 – $140,000</dd>
-</dl>
-
-**Areas & skills:** Building effective altruism, Outreach
+**Areas & skills:** Building effective altruism
 
 ## Summary
 - In this role, you'll lead marketing to scale donations to high-impact charities by creating compelling campaigns that inspire audiences beyond Giving What We Can's current community.

@@ -2,7 +2,7 @@
 title: "Senior Computational Synthetic Biologist"
 employer: "Perimeter"
 job_id: "recVHxdE54esJZaFl"
-last_updated: "2026-08-13T05:31:47.917299Z"
+last_updated: "2026-08-14T05:31:49.274896Z"
 posted_at: "2026-08-12T00:00:00Z"
 status: ready
 apply_url: "https://www.linkedin.com/jobs/view/4452490465/?alternateChannel=search&refId=i2h%2FF3CbVSWvCL83UjcSEQ%3D%3D&trackingId=4YQQjH3x%2Brru%2BPS8Cge7gQ%3D%3D"
@@ -33,4 +33,4 @@ areas:
 <p class="apply-cta"><a href="https://www.linkedin.com/jobs/view/4452490465/?alternateChannel=search&amp;refId=i2h%2FF3CbVSWvCL83UjcSEQ%3D%3D&amp;trackingId=4YQQjH3x%2Brru%2BPS8Cge7gQ%3D%3D">Apply →</a></p>
 
 ---
-*Posted 2026-08-12 · Listing synced 2026-08-13 · 80k job ID `recVHxdE54esJZaFl`*
+*Posted 2026-08-12 · Listing synced 2026-08-14 · 80k job ID `recVHxdE54esJZaFl`*

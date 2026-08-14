@@ -4,25 +4,20 @@ employer: "Kairos"
 job_id: "recu3YgRza9wAOOQW"
 last_updated: "2026-08-13T05:32:51.741505Z"
 posted_at: "2026-06-11T00:03:00Z"
-status: ready
+status: closed
+closed_at: "2026-08-14"
 apply_url: "https://jobs.ashbyhq.com/kairos-project/11e789b2-5024-42d8-9312-966d301ac0db"
 areas:
   - "AI safety & policy"
 ---
 
+> ⚠️ **CLOSED on 2026-08-14** — this job is no longer listed on the 80,000 Hours board. Archived snapshot below.
+
 # Head of Operations
 
-**[Kairos](https://kairos-project.org/)**
+**Kairos**
 
-<dl class="job-meta">
-<dt>Location</dt><dd>Remote, Global</dd>
-<dt>Role type</dt><dd>Full-time</dd>
-<dt>Experience</dt><dd>Mid (5-9 years experience)</dd>
-<dt>Degree</dt><dd>Undergraduate degree or less</dd>
-<dt>Salary</dt><dd>$170,000 – $260,000</dd>
-</dl>
-
-**Areas & skills:** AI safety & policy, Operations, Finance
+**Areas & skills:** AI safety & policy
 
 ## Summary
 - In this role, you'll own Kairos's full operations across finance, compliance, HR, and systems while launching the Kairos Labs incubator.

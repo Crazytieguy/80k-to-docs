@@ -2,7 +2,7 @@
 title: "List of Potential PhD Supervisors, AI Alignment / Safety"
 employer: "Various Potential PhD Supervisors"
 job_id: "rectBBkqGlVpemMXl"
-last_updated: "2026-08-13T05:33:29.432204Z"
+last_updated: "2026-08-14T05:33:18.079582Z"
 posted_at: "2022-01-06T00:00:00Z"
 status: ready
 apply_url: "https://airtable.com/app53PsYpHxJW61l3/shr7NG7EmN5On6lQG"
@@ -29,4 +29,4 @@ areas:
 <p class="apply-cta"><a href="https://airtable.com/app53PsYpHxJW61l3/shr7NG7EmN5On6lQG">Apply →</a></p>
 
 ---
-*Posted 2022-01-06 · Listing synced 2026-08-13 · 80k job ID `rectBBkqGlVpemMXl`*
+*Posted 2022-01-06 · Listing synced 2026-08-14 · 80k job ID `rectBBkqGlVpemMXl`*

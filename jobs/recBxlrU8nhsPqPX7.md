@@ -2,13 +2,13 @@
 title: "Funding, Programs and Events on Global Catastrophic Risk, Effective Altruism, and Other Topics"
 employer: "Coefficient Giving"
 job_id: "recBxlrU8nhsPqPX7"
-last_updated: "2026-08-13T05:33:15.531148Z"
+last_updated: "2026-08-14T05:33:04.593860Z"
 posted_at: "2022-01-07T00:00:00Z"
 status: ready
 apply_url: "https://www.openphilanthropy.org/funding-for-programs-and-events-on-global-catastrophic-risk-effective-altruism-and-other-topics/"
 areas:
-  - "Building effective altruism"
   - "Macrostrategy"
+  - "Building effective altruism"
 ---
 
 # Funding, Programs and Events on Global Catastrophic Risk, Effective Altruism, and Other Topics
@@ -22,7 +22,7 @@ areas:
 <dt>Degree</dt><dd>Undergraduate degree or less</dd>
 </dl>
 
-**Areas & skills:** Building effective altruism, Macrostrategy, Outreach, Operations
+**Areas & skills:** Macrostrategy, Building effective altruism, Outreach, Operations
 
 ## Summary
 - Apply for funding for programs and events covering topics like effective altruism, global catastrophic risks, biosecurity, AI for epistemics, and forecasting.
@@ -33,4 +33,4 @@ areas:
 <p class="apply-cta"><a href="https://www.openphilanthropy.org/funding-for-programs-and-events-on-global-catastrophic-risk-effective-altruism-and-other-topics/">Apply →</a></p>
 
 ---
-*Posted 2022-01-07 · Listing synced 2026-08-13 · 80k job ID `recBxlrU8nhsPqPX7`*
+*Posted 2022-01-07 · Listing synced 2026-08-14 · 80k job ID `recBxlrU8nhsPqPX7`*

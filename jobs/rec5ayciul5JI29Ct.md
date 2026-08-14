@@ -2,7 +2,7 @@
 title: "Intern, Communications (Fall 2026)"
 employer: "Center for Strategic and International Studies"
 job_id: "rec5ayciul5JI29Ct"
-last_updated: "2026-08-13T05:31:52.589370Z"
+last_updated: "2026-08-14T05:31:53.634686Z"
 posted_at: "2026-08-10T00:00:00Z"
 status: ready
 apply_url: "https://job-boards.greenhouse.io/centerforstrategicandinternationalstudiesinc/jobs/4314136009"
@@ -34,4 +34,4 @@ areas:
 <p class="apply-cta"><a href="https://job-boards.greenhouse.io/centerforstrategicandinternationalstudiesinc/jobs/4314136009">Apply →</a></p>
 
 ---
-*Posted 2026-08-10 · Listing synced 2026-08-13 · 80k job ID `rec5ayciul5JI29Ct`*
+*Posted 2026-08-10 · Listing synced 2026-08-14 · 80k job ID `rec5ayciul5JI29Ct`*

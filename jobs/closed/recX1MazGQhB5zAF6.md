@@ -4,24 +4,20 @@ employer: "Effective Altruism Hong Kong"
 job_id: "recX1MazGQhB5zAF6"
 last_updated: "2026-08-13T05:33:47.438349Z"
 posted_at: "2022-01-02T00:00:00Z"
-status: ready
+status: closed
+closed_at: "2026-08-14"
 apply_url: "https://www.eahongkong.org/join-our-team"
 areas:
   - "Building effective altruism"
 ---
 
+> ⚠️ **CLOSED on 2026-08-14** — this job is no longer listed on the 80,000 Hours board. Archived snapshot below.
+
 # Volunteer, Writer, GiveWise
 
-**[Effective Altruism Hong Kong](https://www.eahongkong.org/)**
+**Effective Altruism Hong Kong**
 
-<dl class="job-meta">
-<dt>Location</dt><dd>Hong Kong, China, China, Asia</dd>
-<dt>Role type</dt><dd>Volunteering</dd>
-<dt>Experience</dt><dd>Entry-level</dd>
-<dt>Degree</dt><dd>Undergraduate degree or less</dd>
-</dl>
-
-**Areas & skills:** Building effective altruism, Other
+**Areas & skills:** Building effective altruism
 
 ## Summary
 - In this role, you'll write content to help build EA Hong Kong's growing content engine.

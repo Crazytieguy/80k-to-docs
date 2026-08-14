@@ -2,10 +2,10 @@
 title: "Managing Director"
 employer: "Secure DNA Project"
 job_id: "recu0Cso7cfbY8VYw"
-last_updated: "2026-08-13T05:32:05.335125Z"
+last_updated: "2026-08-14T05:32:04.814720Z"
 posted_at: "2026-08-03T00:03:00Z"
 status: ready
-apply_url: "https://securedna.org/careers/managing-director/job-description/"
+apply_url: "https://securedna.org/careers/managing-director/"
 areas:
   - "Biosecurity & pandemic preparedness"
 ---
@@ -31,7 +31,7 @@ areas:
 - Manage, mentor, and support existing staff.
 - Own SecureDNA’s long- and short-term financial sustainability, including funding strategy and financial control.
 
-<p class="apply-cta"><a href="https://securedna.org/careers/managing-director/job-description/">Apply →</a></p>
+<p class="apply-cta"><a href="https://securedna.org/careers/managing-director/">Apply →</a></p>
 
 ---
-*Posted 2026-08-03 · Listing synced 2026-08-13 · 80k job ID `recu0Cso7cfbY8VYw`*
+*Posted 2026-08-03 · Listing synced 2026-08-14 · 80k job ID `recu0Cso7cfbY8VYw`*

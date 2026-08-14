@@ -2,7 +2,7 @@
 title: "Lab Operations Associate"
 employer: "Active Site"
 job_id: "rec1FnUDdrggfqMaO"
-last_updated: "2026-08-13T05:31:51.560630Z"
+last_updated: "2026-08-14T05:31:52.721965Z"
 posted_at: "2026-08-10T00:03:00Z"
 status: ready
 apply_url: "https://jobs.ashbyhq.com/activesite/c9e39234-c465-4a6b-9b24-a49b80750f83"
@@ -34,4 +34,4 @@ areas:
 <p class="apply-cta"><a href="https://jobs.ashbyhq.com/activesite/c9e39234-c465-4a6b-9b24-a49b80750f83">Apply →</a></p>
 
 ---
-*Posted 2026-08-10 · Listing synced 2026-08-13 · 80k job ID `rec1FnUDdrggfqMaO`*
+*Posted 2026-08-10 · Listing synced 2026-08-14 · 80k job ID `rec1FnUDdrggfqMaO`*

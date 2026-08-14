@@ -4,24 +4,20 @@ employer: "Effective Altruism Hong Kong"
 job_id: "recNzDOocqTU5cgjN"
 last_updated: "2026-08-13T05:32:58.414807Z"
 posted_at: "2026-06-01T00:00:00Z"
-status: ready
+status: closed
+closed_at: "2026-08-14"
 apply_url: "https://www.eahongkong.org/job-listing-part-time-developer"
 areas:
   - "Building effective altruism"
 ---
 
+> ⚠️ **CLOSED on 2026-08-14** — this job is no longer listed on the 80,000 Hours board. Archived snapshot below.
+
 # Part-Time Contract Developer, GiveWise
 
-**[Effective Altruism Hong Kong](https://www.eahongkong.org/)**
+**Effective Altruism Hong Kong**
 
-<dl class="job-meta">
-<dt>Location</dt><dd>Remote, Global</dd>
-<dt>Role type</dt><dd>Part-time</dd>
-<dt>Experience</dt><dd>Junior (1-4 years experience), Mid (5-9 years experience)</dd>
-<dt>Salary</dt><dd>$42,412</dd>
-</dl>
-
-**Areas & skills:** Building effective altruism, Software engineering
+**Areas & skills:** Building effective altruism
 
 ## Summary
 - In this role, you'll be the primary software developer for GiveWise, owning all technical aspects and maintaining the donation platform.

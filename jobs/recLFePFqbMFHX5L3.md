@@ -2,7 +2,7 @@
 title: "Operations Lead"
 employer: "Frame"
 job_id: "recLFePFqbMFHX5L3"
-last_updated: "2026-08-13T05:32:34.981414Z"
+last_updated: "2026-08-14T05:32:29.680666Z"
 posted_at: "2026-07-13T00:02:00Z"
 status: ready
 apply_url: "https://docs.google.com/document/d/1lAABbT6rqNL2hT8mXqAUmyMKQLDxb4NT3XaNRKMP15M/edit?usp=sharing"
@@ -34,4 +34,4 @@ areas:
 <p class="apply-cta"><a href="https://docs.google.com/document/d/1lAABbT6rqNL2hT8mXqAUmyMKQLDxb4NT3XaNRKMP15M/edit?usp=sharing">Apply →</a></p>
 
 ---
-*Posted 2026-07-13 · Listing synced 2026-08-13 · 80k job ID `recLFePFqbMFHX5L3`*
+*Posted 2026-07-13 · Listing synced 2026-08-14 · 80k job ID `recLFePFqbMFHX5L3`*

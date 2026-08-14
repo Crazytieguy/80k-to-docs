@@ -2,13 +2,13 @@
 title: "Engineering PhD student (with Dr. David Denkenberger, ALLFED)"
 employer: "University of Canterbury"
 job_id: "recYOH6WjgvTNSiYD"
-last_updated: "2026-08-13T05:33:41.528619Z"
+last_updated: "2026-08-14T05:33:29.173027Z"
 posted_at: "2022-01-04T00:00:00Z"
 status: ready
 apply_url: "https://eahire.notion.site/eahire/Multiple-high-impact-PhD-student-positions-4f539332738a49cc8915aaa8731f9a3e"
 areas:
-  - "Biosecurity & pandemic preparedness"
   - "Nuclear security"
+  - "Biosecurity & pandemic preparedness"
   - "Civilisation resilience"
 ---
 
@@ -17,13 +17,13 @@ areas:
 **[University of Canterbury](https://www.canterbury.ac.nz/)**
 
 <dl class="job-meta">
-<dt>Location</dt><dd>Christchurch, New Zealand, New Zealand, Oceania</dd>
+<dt>Location</dt><dd>Christchurch, New Zealand, Oceania, New Zealand</dd>
 <dt>Role type</dt><dd>Full-time</dd>
 <dt>Experience</dt><dd>Entry-level</dd>
 <dt>Degree</dt><dd>Undergraduate degree or less</dd>
 </dl>
 
-**Areas & skills:** Biosecurity & pandemic preparedness, Nuclear security, Civilisation resilience, Research
+**Areas & skills:** Nuclear security, Biosecurity & pandemic preparedness, Civilisation resilience, Research
 
 ## Summary
 - This role offers a PhD in mechanical engineering at University of Canterbury under Dr. David Denkenberger.
@@ -35,4 +35,4 @@ areas:
 <p class="apply-cta"><a href="https://eahire.notion.site/eahire/Multiple-high-impact-PhD-student-positions-4f539332738a49cc8915aaa8731f9a3e">Apply →</a></p>
 
 ---
-*Posted 2022-01-04 · Listing synced 2026-08-13 · 80k job ID `recYOH6WjgvTNSiYD`*
+*Posted 2022-01-04 · Listing synced 2026-08-14 · 80k job ID `recYOH6WjgvTNSiYD`*

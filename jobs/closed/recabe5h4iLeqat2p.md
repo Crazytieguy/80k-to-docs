@@ -4,25 +4,20 @@ employer: "Gray Swan"
 job_id: "recabe5h4iLeqat2p"
 last_updated: "2026-08-13T05:32:05.954572Z"
 posted_at: "2026-08-03T00:00:00Z"
-status: ready
+status: closed
+closed_at: "2026-08-14"
 apply_url: "https://jobs.ashbyhq.com/Gray%20Swan%20AI/a7ea5c42-edd7-4b15-834e-0bfa66c071c4"
 areas:
   - "AI safety & policy"
 ---
 
+> ⚠️ **CLOSED on 2026-08-14** — this job is no longer listed on the 80,000 Hours board. Archived snapshot below.
+
 # Strategic Partnership Manager, AI Safety
 
-**[Gray Swan](https://www.grayswan.ai/)**
+**Gray Swan**
 
-<dl class="job-meta">
-<dt>Location</dt><dd>Remote, USA, USA, USA (Confirmed Visas)</dd>
-<dt>Role type</dt><dd>Full-time</dd>
-<dt>Experience</dt><dd>Junior (1-4 years experience)</dd>
-<dt>Degree</dt><dd>Undergraduate degree or less</dd>
-<dt>Salary</dt><dd>$86,000 – $153,000</dd>
-</dl>
-
-**Areas & skills:** AI safety & policy, Outreach
+**Areas & skills:** AI safety & policy
 
 ## Summary
 - In this role, you'll coordinate frontier lab relationships, serving as the operational backbone between customers and internal teams.

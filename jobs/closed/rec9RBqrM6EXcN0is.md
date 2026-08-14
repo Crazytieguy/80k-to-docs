@@ -4,25 +4,20 @@ employer: "Effective Altruism Hong Kong"
 job_id: "rec9RBqrM6EXcN0is"
 last_updated: "2026-08-13T05:33:47.318216Z"
 posted_at: "2022-01-02T00:00:00Z"
-status: ready
+status: closed
+closed_at: "2026-08-14"
 apply_url: "https://www.eahongkong.org/job-listing-part-time-social-media"
 areas:
   - "Building effective altruism"
 ---
 
+> ⚠️ **CLOSED on 2026-08-14** — this job is no longer listed on the 80,000 Hours board. Archived snapshot below.
+
 # Social Media Manager
 
-**[Effective Altruism Hong Kong](https://www.eahongkong.org/)**
+**Effective Altruism Hong Kong**
 
-<dl class="job-meta">
-<dt>Location</dt><dd>Remote, Global</dd>
-<dt>Role type</dt><dd>Part-time</dd>
-<dt>Experience</dt><dd>Junior (1-4 years experience)</dd>
-<dt>Degree</dt><dd>Undergraduate degree or less</dd>
-<dt>Salary</dt><dd>$39,761</dd>
-</dl>
-
-**Areas & skills:** Building effective altruism, Outreach
+**Areas & skills:** Building effective altruism
 
 ## Summary
 - In this role, you'll develop and execute a social media content strategy across Instagram, Facebook, and LinkedIn to educate the community.

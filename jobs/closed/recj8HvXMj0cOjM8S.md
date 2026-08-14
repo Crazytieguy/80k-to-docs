@@ -4,24 +4,20 @@ employer: "Cloudflare"
 job_id: "recj8HvXMj0cOjM8S"
 last_updated: "2026-08-13T05:32:55.133318Z"
 posted_at: "2026-06-08T00:00:00Z"
-status: ready
+status: closed
+closed_at: "2026-08-14"
 apply_url: "https://boards.greenhouse.io/cloudflare/jobs/7577564?gh_jid=7577564"
 areas:
   - "Career development: Technical"
 ---
 
+> ⚠️ **CLOSED on 2026-08-14** — this job is no longer listed on the 80,000 Hours board. Archived snapshot below.
+
 # Intern, Governance, Risk, and Compliance (Summer 2026)
 
-**[Cloudflare](https://www.cloudflare.com/)**
+**Cloudflare**
 
-<dl class="job-meta">
-<dt>Location</dt><dd>London, UK, UK</dd>
-<dt>Role type</dt><dd>Internship</dd>
-<dt>Experience</dt><dd>Entry-level</dd>
-<dt>Degree</dt><dd>Undergraduate degree or less</dd>
-</dl>
-
-**Areas & skills:** Career development: Technical, Information security
+**Areas & skills:** Career development: Technical
 
 ## Summary
 - In this role, you'll execute a project improving Cloudflare's security posture within the Governance, Risk and Compliance team.

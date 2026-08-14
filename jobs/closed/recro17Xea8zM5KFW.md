@@ -4,25 +4,20 @@ employer: "Model Evaluation and Threat Research"
 job_id: "recro17Xea8zM5KFW"
 last_updated: "2026-08-13T05:32:14.527334Z"
 posted_at: "2026-07-30T00:05:00Z"
-status: ready
+status: closed
+closed_at: "2026-08-14"
 apply_url: "https://jobs.lever.co/metr/52fca070-da6a-441e-b1d1-8184c51b52e6"
 areas:
   - "AI safety & policy"
 ---
 
+> ⚠️ **CLOSED on 2026-08-14** — this job is no longer listed on the 80,000 Hours board. Archived snapshot below.
+
 # Intern, Platform Engineering
 
-**[Model Evaluation and Threat Research](https://metr.org/)**
+**Model Evaluation and Threat Research**
 
-<dl class="job-meta">
-<dt>Location</dt><dd>San Francisco Bay Area, USA, USA (Confirmed Visas)</dd>
-<dt>Role type</dt><dd>Internship</dd>
-<dt>Experience</dt><dd>Entry-level</dd>
-<dt>Degree</dt><dd>Undergraduate degree or less</dd>
-<dt>Salary</dt><dd>$312,000</dd>
-</dl>
-
-**Areas & skills:** AI safety & policy, Software engineering
+**Areas & skills:** AI safety & policy
 
 ## Summary
 - In this role, you'll build and maintain METR's open-source LLM evaluation platform, which powers AI safety research.
