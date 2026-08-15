@@ -2,7 +2,7 @@
 title: "AI Security Resident, Center on AI, Security, and Technology"
 employer: "RAND Corporation"
 job_id: "recVIxqZRz0k3sTRm"
-last_updated: "2026-08-14T05:31:45.853307Z"
+last_updated: "2026-08-15T05:31:38.543796Z"
 posted_at: "2026-08-13T00:05:00Z"
 status: ready
 apply_url: "https://rand.wd5.myworkdayjobs.com/en-US/External_Career_Site/job/Washington-DC-DC-Metro-Area/Visiting-AI-Security-Resident_R3005"
@@ -32,4 +32,4 @@ areas:
 <p class="apply-cta"><a href="https://rand.wd5.myworkdayjobs.com/en-US/External_Career_Site/job/Washington-DC-DC-Metro-Area/Visiting-AI-Security-Resident_R3005">Apply →</a></p>
 
 ---
-*Posted 2026-08-13 · Listing synced 2026-08-14 · 80k job ID `recVIxqZRz0k3sTRm`*
+*Posted 2026-08-13 · Listing synced 2026-08-15 · 80k job ID `recVIxqZRz0k3sTRm`*

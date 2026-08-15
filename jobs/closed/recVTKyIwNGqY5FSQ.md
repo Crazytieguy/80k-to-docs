@@ -4,25 +4,20 @@ employer: "Principles of Intelligence"
 job_id: "recVTKyIwNGqY5FSQ"
 last_updated: "2026-08-14T05:32:01.949335Z"
 posted_at: "2026-08-04T00:03:00Z"
-status: ready
+status: closed
+closed_at: "2026-08-15"
 apply_url: "https://princint.ai/now-hiring-research-manager-winter-2026-2027-pibbss-fellowship/"
 areas:
   - "AI safety & policy"
 ---
 
+> ⚠️ **CLOSED on 2026-08-15** — this job is no longer listed on the 80,000 Hours board. Archived snapshot below.
+
 # Research Manager
 
-**[Principles of Intelligence](https://princint.ai/)**
+**Principles of Intelligence**
 
-<dl class="job-meta">
-<dt>Location</dt><dd>Cape Town, South Africa, South Africa, Africa</dd>
-<dt>Role type</dt><dd>Full-time</dd>
-<dt>Experience</dt><dd>Junior (1-4 years experience), Mid (5-9 years experience)</dd>
-<dt>Degree</dt><dd>Undergraduate degree or less</dd>
-<dt>Salary</dt><dd>$72,000 – $108,000</dd>
-</dl>
-
-**Areas & skills:** AI safety & policy, Operations
+**Areas & skills:** AI safety & policy
 
 ## Summary
 - In this role, you'll manage day-to-day execution of a 3-month AI safety fellowship in Cape Town for 24 fellows, keeping them unblocked and maintaining research quality.

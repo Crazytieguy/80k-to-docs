@@ -2,10 +2,10 @@
 title: "AI Red Teamer"
 employer: "Trajectory Labs"
 job_id: "recoU0KdNvLVriLZS"
-last_updated: "2026-08-14T05:33:17.076172Z"
+last_updated: "2026-08-15T05:33:10.126230Z"
 posted_at: "2022-01-06T00:00:00Z"
 status: ready
-apply_url: "https://trajectorylabs.net/careers/ai-red-teamer"
+apply_url: "https://www.trajectorylabs.com/careers/ai-red-teamer"
 areas:
   - "AI safety & policy"
 ---
@@ -31,7 +31,7 @@ areas:
 - Work independently to drive security testing projects to completion with minimal supervision.
 - Document vulnerabilities and collaborate with AI safety researchers to recommend mitigations.
 
-<p class="apply-cta"><a href="https://trajectorylabs.net/careers/ai-red-teamer">Apply →</a></p>
+<p class="apply-cta"><a href="https://www.trajectorylabs.com/careers/ai-red-teamer">Apply →</a></p>
 
 ---
-*Posted 2022-01-06 · Listing synced 2026-08-14 · 80k job ID `recoU0KdNvLVriLZS`*
+*Posted 2022-01-06 · Listing synced 2026-08-15 · 80k job ID `recoU0KdNvLVriLZS`*

@@ -2,7 +2,7 @@
 title: "Head of AI Assurance"
 employer: "Faculty"
 job_id: "rec2f5ATGLBZHBVHc"
-last_updated: "2026-08-14T05:32:41.801981Z"
+last_updated: "2026-08-15T05:32:34.992319Z"
 posted_at: "2026-06-18T00:00:00Z"
 status: ready
 apply_url: "https://jobs.ashbyhq.com/faculty/d2d0ef45-de48-4c48-9781-5c85c9d49f42"
@@ -33,4 +33,4 @@ areas:
 <p class="apply-cta"><a href="https://jobs.ashbyhq.com/faculty/d2d0ef45-de48-4c48-9781-5c85c9d49f42">Apply →</a></p>
 
 ---
-*Posted 2026-06-18 · Listing synced 2026-08-14 · 80k job ID `rec2f5ATGLBZHBVHc`*
+*Posted 2026-06-18 · Listing synced 2026-08-15 · 80k job ID `rec2f5ATGLBZHBVHc`*

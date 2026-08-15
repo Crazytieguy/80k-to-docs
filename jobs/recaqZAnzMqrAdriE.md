@@ -2,7 +2,7 @@
 title: "AI Security Researcher"
 employer: "Microsoft"
 job_id: "recaqZAnzMqrAdriE"
-last_updated: "2026-08-14T05:31:56.449200Z"
+last_updated: "2026-08-15T05:31:49.211720Z"
 posted_at: "2026-08-07T00:00:00Z"
 status: ready
 apply_url: "https://apply.careers.microsoft.com/careers/job/1970393556943706"
@@ -34,4 +34,4 @@ areas:
 <p class="apply-cta"><a href="https://apply.careers.microsoft.com/careers/job/1970393556943706">Apply →</a></p>
 
 ---
-*Posted 2026-08-07 · Listing synced 2026-08-14 · 80k job ID `recaqZAnzMqrAdriE`*
+*Posted 2026-08-07 · Listing synced 2026-08-15 · 80k job ID `recaqZAnzMqrAdriE`*

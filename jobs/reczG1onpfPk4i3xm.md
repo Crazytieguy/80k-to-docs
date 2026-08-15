@@ -2,7 +2,7 @@
 title: "Senior DevOps Engineer"
 employer: "Irregular"
 job_id: "reczG1onpfPk4i3xm"
-last_updated: "2026-08-14T05:32:04.201643Z"
+last_updated: "2026-08-15T05:31:57.118729Z"
 posted_at: "2026-08-04T00:00:00Z"
 status: ready
 apply_url: "https://jobs.ashbyhq.com/Irregular/87328861-4fc4-4846-a472-a56ba3511d6f"
@@ -33,4 +33,4 @@ areas:
 <p class="apply-cta"><a href="https://jobs.ashbyhq.com/Irregular/87328861-4fc4-4846-a472-a56ba3511d6f">Apply →</a></p>
 
 ---
-*Posted 2026-08-04 · Listing synced 2026-08-14 · 80k job ID `reczG1onpfPk4i3xm`*
+*Posted 2026-08-04 · Listing synced 2026-08-15 · 80k job ID `reczG1onpfPk4i3xm`*

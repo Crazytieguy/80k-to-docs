@@ -4,24 +4,20 @@ employer: "ERA"
 job_id: "rec8e5WOrM2v99Er8"
 last_updated: "2026-08-14T05:32:24.542103Z"
 posted_at: "2026-07-20T00:02:00Z"
-status: ready
+status: closed
+closed_at: "2026-08-15"
 apply_url: "https://docs.google.com/document/d/1UBCGRbWNCS7UqMskhK2lL3g56B3vkpT0zO-v2GQMdAo/edit?usp=sharing"
 areas:
   - "AI safety & policy"
 ---
 
+> ⚠️ **CLOSED on 2026-08-15** — this job is no longer listed on the 80,000 Hours board. Archived snapshot below.
+
 # Board Member
 
-**[ERA](https://erafellowship.org/)**
+**ERA**
 
-<dl class="job-meta">
-<dt>Location</dt><dd>Remote, UK, UK</dd>
-<dt>Role type</dt><dd>Volunteering</dd>
-<dt>Experience</dt><dd>Mid (5-9 years experience), Senior (10+ years experience)</dd>
-<dt>Degree</dt><dd>Undergraduate degree or less</dd>
-</dl>
-
-**Areas & skills:** AI safety & policy, Strategy
+**Areas & skills:** AI safety & policy
 
 ## Summary
 - In this role, you will act as a thought partner to the Executive Director, hold the organisation to account, and exercise judgement on the decisions that matter most to ERA's mission. As part of ERA's first board, you'll help shape how the organisation is governed as it grows.

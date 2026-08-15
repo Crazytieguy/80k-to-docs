@@ -2,7 +2,7 @@
 title: "Research Assistant, Nuclear Policy Program"
 employer: "Carnegie Endowment for International Peace"
 job_id: "recFbLokcdOqxWBdi"
-last_updated: "2026-08-14T05:31:46.867500Z"
+last_updated: "2026-08-15T05:31:39.359213Z"
 posted_at: "2026-08-13T00:01:00Z"
 status: ready
 apply_url: "https://carnegieendowment.applicantpro.com/jobs/4169113"
@@ -34,4 +34,4 @@ areas:
 <p class="apply-cta"><a href="https://carnegieendowment.applicantpro.com/jobs/4169113">Apply →</a></p>
 
 ---
-*Posted 2026-08-13 · Listing synced 2026-08-14 · 80k job ID `recFbLokcdOqxWBdi`*
+*Posted 2026-08-13 · Listing synced 2026-08-15 · 80k job ID `recFbLokcdOqxWBdi`*

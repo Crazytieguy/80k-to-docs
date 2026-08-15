@@ -2,7 +2,7 @@
 title: "Joseph S. Nye, Jr. National Security Internship and Mentoring Program"
 employer: "Center for a New American Security"
 job_id: "recKaQZzZOWHxqvs8"
-last_updated: "2026-08-14T05:31:53.515765Z"
+last_updated: "2026-08-15T05:31:46.137953Z"
 posted_at: "2026-08-10T00:00:00Z"
 status: ready
 apply_url: "https://center-for-a-new-american-security.breezy.hr/p/5e0162b7f5ba-joseph-s-nye-jr--national-security-internship-and-mentoring-program"
@@ -34,4 +34,4 @@ areas:
 <p class="apply-cta"><a href="https://center-for-a-new-american-security.breezy.hr/p/5e0162b7f5ba-joseph-s-nye-jr--national-security-internship-and-mentoring-program">Apply →</a></p>
 
 ---
-*Posted 2026-08-10 · Listing synced 2026-08-14 · 80k job ID `recKaQZzZOWHxqvs8`*
+*Posted 2026-08-10 · Listing synced 2026-08-15 · 80k job ID `recKaQZzZOWHxqvs8`*

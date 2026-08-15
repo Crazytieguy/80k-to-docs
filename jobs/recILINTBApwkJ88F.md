@@ -2,7 +2,7 @@
 title: "Program Associate"
 employer: "National Committee on US-China Relations"
 job_id: "recILINTBApwkJ88F"
-last_updated: "2026-08-14T05:32:28.543775Z"
+last_updated: "2026-08-15T05:32:21.353953Z"
 posted_at: "2026-07-14T00:00:00Z"
 status: ready
 apply_url: "https://www.ncuscr.org/employment/"
@@ -34,4 +34,4 @@ areas:
 <p class="apply-cta"><a href="https://www.ncuscr.org/employment/">Apply →</a></p>
 
 ---
-*Posted 2026-07-14 · Listing synced 2026-08-14 · 80k job ID `recILINTBApwkJ88F`*
+*Posted 2026-07-14 · Listing synced 2026-08-15 · 80k job ID `recILINTBApwkJ88F`*

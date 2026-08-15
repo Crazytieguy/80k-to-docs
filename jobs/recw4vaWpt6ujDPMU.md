@@ -2,7 +2,7 @@
 title: "Economist, Scenarios and Modelling"
 employer: "Windfall Trust"
 job_id: "recw4vaWpt6ujDPMU"
-last_updated: "2026-08-14T05:32:14.065969Z"
+last_updated: "2026-08-15T05:32:07.396100Z"
 posted_at: "2026-07-29T00:02:00Z"
 status: ready
 apply_url: "https://jobs.ashbyhq.com/windfall/d47809d8-1670-480a-8dc9-728d5548d7c2"
@@ -34,4 +34,4 @@ areas:
 <p class="apply-cta"><a href="https://jobs.ashbyhq.com/windfall/d47809d8-1670-480a-8dc9-728d5548d7c2">Apply →</a></p>
 
 ---
-*Posted 2026-07-29 · Listing synced 2026-08-14 · 80k job ID `recw4vaWpt6ujDPMU`*
+*Posted 2026-07-29 · Listing synced 2026-08-15 · 80k job ID `recw4vaWpt6ujDPMU`*

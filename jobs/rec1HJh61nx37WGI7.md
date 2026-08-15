@@ -2,7 +2,7 @@
 title: "Fellow, Strategic Technologies Program"
 employer: "Center for Strategic and International Studies"
 job_id: "rec1HJh61nx37WGI7"
-last_updated: "2026-08-14T05:31:55.918908Z"
+last_updated: "2026-08-15T05:31:48.601512Z"
 posted_at: "2026-08-07T00:00:00Z"
 status: ready
 apply_url: "https://job-boards.greenhouse.io/centerforstrategicandinternationalstudiesinc/jobs/4323001009"
@@ -34,4 +34,4 @@ areas:
 <p class="apply-cta"><a href="https://job-boards.greenhouse.io/centerforstrategicandinternationalstudiesinc/jobs/4323001009">Apply →</a></p>
 
 ---
-*Posted 2026-08-07 · Listing synced 2026-08-14 · 80k job ID `rec1HJh61nx37WGI7`*
+*Posted 2026-08-07 · Listing synced 2026-08-15 · 80k job ID `rec1HJh61nx37WGI7`*
