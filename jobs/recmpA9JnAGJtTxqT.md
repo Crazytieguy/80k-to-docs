@@ -2,7 +2,7 @@
 title: "Research Associate / Research Fellow, Safe AI Systems"
 employer: "University of York, Department of Computer Science"
 job_id: "recmpA9JnAGJtTxqT"
-last_updated: "2026-08-15T05:31:48.117699Z"
+last_updated: "2026-08-16T05:32:48.562421Z"
 posted_at: "2026-08-07T00:01:00Z"
 status: ready
 apply_url: "https://www.jobs.ac.uk/job/DSK720/research-associate-research-fellow-in-safe-ai-systems?uuid=676834cd-8bb9-11f1-9cb0-064da8edb92a&campaign=jbe20260730&source=jbe"
@@ -34,4 +34,4 @@ areas:
 <p class="apply-cta"><a href="https://www.jobs.ac.uk/job/DSK720/research-associate-research-fellow-in-safe-ai-systems?uuid=676834cd-8bb9-11f1-9cb0-064da8edb92a&amp;campaign=jbe20260730&amp;source=jbe">Apply →</a></p>
 
 ---
-*Posted 2026-08-07 · Listing synced 2026-08-15 · 80k job ID `recmpA9JnAGJtTxqT`*
+*Posted 2026-08-07 · Listing synced 2026-08-16 · 80k job ID `recmpA9JnAGJtTxqT`*

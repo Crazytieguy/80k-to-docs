@@ -2,7 +2,7 @@
 title: "Researcher, Built Environment"
 employer: "Blueprint Biosecurity"
 job_id: "recVPszOIPD08p4AQ"
-last_updated: "2026-08-15T05:32:16.717378Z"
+last_updated: "2026-08-16T05:33:16.191674Z"
 posted_at: "2026-07-20T00:05:00Z"
 status: ready
 apply_url: "https://blueprintbiosecurity.pinpointhq.com/en/postings/c3dfb913-dc43-43d0-a9a7-32bff0f93ac5"
@@ -34,4 +34,4 @@ areas:
 <p class="apply-cta"><a href="https://blueprintbiosecurity.pinpointhq.com/en/postings/c3dfb913-dc43-43d0-a9a7-32bff0f93ac5">Apply →</a></p>
 
 ---
-*Posted 2026-07-20 · Listing synced 2026-08-15 · 80k job ID `recVPszOIPD08p4AQ`*
+*Posted 2026-07-20 · Listing synced 2026-08-16 · 80k job ID `recVPszOIPD08p4AQ`*

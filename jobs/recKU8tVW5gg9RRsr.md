@@ -2,7 +2,7 @@
 title: "Researcher, Interpretability"
 employer: "EleutherAI"
 job_id: "recKU8tVW5gg9RRsr"
-last_updated: "2026-08-15T05:33:14.843732Z"
+last_updated: "2026-08-16T05:34:14.980128Z"
 posted_at: "2022-01-05T00:00:00Z"
 status: ready
 apply_url: "https://docs.google.com/document/d/1VC3ErFnM5mSu5ZzPrwrurDpxsN5RfYp_mzh3WHI8g4w/mobilebasic"
@@ -34,4 +34,4 @@ areas:
 <p class="apply-cta"><a href="https://docs.google.com/document/d/1VC3ErFnM5mSu5ZzPrwrurDpxsN5RfYp_mzh3WHI8g4w/mobilebasic">Apply →</a></p>
 
 ---
-*Posted 2022-01-05 · Listing synced 2026-08-15 · 80k job ID `recKU8tVW5gg9RRsr`*
+*Posted 2022-01-05 · Listing synced 2026-08-16 · 80k job ID `recKU8tVW5gg9RRsr`*

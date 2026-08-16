@@ -2,7 +2,7 @@
 title: "Program Manager"
 employer: "CivAI"
 job_id: "recAdNP3GR2cHDRfa"
-last_updated: "2026-08-15T05:32:43.115253Z"
+last_updated: "2026-08-16T05:33:43.476278Z"
 posted_at: "2026-06-04T00:05:00Z"
 status: ready
 apply_url: "https://civai.org/jobs/program-manager"
@@ -34,4 +34,4 @@ areas:
 <p class="apply-cta"><a href="https://civai.org/jobs/program-manager">Apply →</a></p>
 
 ---
-*Posted 2026-06-04 · Listing synced 2026-08-15 · 80k job ID `recAdNP3GR2cHDRfa`*
+*Posted 2026-06-04 · Listing synced 2026-08-16 · 80k job ID `recAdNP3GR2cHDRfa`*

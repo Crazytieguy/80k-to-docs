@@ -2,7 +2,7 @@
 title: "Program Associate / Program Manager, Talent and Strategic Partnerships"
 employer: "Horizon Institute for Public Service"
 job_id: "recFdPCGFc2jP2bX1"
-last_updated: "2026-08-15T05:32:01.316885Z"
+last_updated: "2026-08-16T05:33:01.705188Z"
 posted_at: "2026-07-31T00:04:34Z"
 status: ready
 apply_url: "https://horizonpublicservice.org/program-associate-program-manager-talent-strategic-partnerships/"
@@ -34,4 +34,4 @@ areas:
 <p class="apply-cta"><a href="https://horizonpublicservice.org/program-associate-program-manager-talent-strategic-partnerships/">Apply →</a></p>
 
 ---
-*Posted 2026-07-31 · Listing synced 2026-08-15 · 80k job ID `recFdPCGFc2jP2bX1`*
+*Posted 2026-07-31 · Listing synced 2026-08-16 · 80k job ID `recFdPCGFc2jP2bX1`*

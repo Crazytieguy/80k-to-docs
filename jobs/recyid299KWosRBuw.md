@@ -2,7 +2,7 @@
 title: "Research Scholar"
 employer: "GovAI"
 job_id: "recyid299KWosRBuw"
-last_updated: "2026-08-15T05:32:15.766816Z"
+last_updated: "2026-08-16T05:33:15.257463Z"
 posted_at: "2026-07-21T00:05:00Z"
 status: ready
 apply_url: "https://www.governance.ai/post/research-scholar"
@@ -34,4 +34,4 @@ areas:
 <p class="apply-cta"><a href="https://www.governance.ai/post/research-scholar">Apply →</a></p>
 
 ---
-*Posted 2026-07-21 · Listing synced 2026-08-15 · 80k job ID `recyid299KWosRBuw`*
+*Posted 2026-07-21 · Listing synced 2026-08-16 · 80k job ID `recyid299KWosRBuw`*

@@ -2,7 +2,7 @@
 title: "Headhunting Product Specialist"
 employer: "80,000 Hours"
 job_id: "recMC7kWutfVZmls8"
-last_updated: "2026-08-15T05:32:00.226323Z"
+last_updated: "2026-08-16T05:33:00.634914Z"
 posted_at: "2026-07-31T00:05:00Z"
 status: ready
 apply_url: "https://jobs.ashbyhq.com/80000hours/9576d650-a615-46c9-9187-9610e420a4a3"
@@ -34,4 +34,4 @@ areas:
 <p class="apply-cta"><a href="https://jobs.ashbyhq.com/80000hours/9576d650-a615-46c9-9187-9610e420a4a3">Apply →</a></p>
 
 ---
-*Posted 2026-07-31 · Listing synced 2026-08-15 · 80k job ID `recMC7kWutfVZmls8`*
+*Posted 2026-07-31 · Listing synced 2026-08-16 · 80k job ID `recMC7kWutfVZmls8`*

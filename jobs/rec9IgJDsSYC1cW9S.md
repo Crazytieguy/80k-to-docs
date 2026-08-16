@@ -2,7 +2,7 @@
 title: "AI Security Bootcamp, San Francisco"
 employer: "AI Security Bootcamp"
 job_id: "rec9IgJDsSYC1cW9S"
-last_updated: "2026-08-15T05:31:42.916404Z"
+last_updated: "2026-08-16T05:32:43.573273Z"
 posted_at: "2026-08-11T00:02:00Z"
 status: ready
 apply_url: "https://aisb.dev/sf26/"
@@ -32,4 +32,4 @@ areas:
 <p class="apply-cta"><a href="https://aisb.dev/sf26/">Apply →</a></p>
 
 ---
-*Posted 2026-08-11 · Listing synced 2026-08-15 · 80k job ID `rec9IgJDsSYC1cW9S`*
+*Posted 2026-08-11 · Listing synced 2026-08-16 · 80k job ID `rec9IgJDsSYC1cW9S`*

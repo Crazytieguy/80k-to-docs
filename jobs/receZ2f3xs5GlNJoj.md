@@ -2,7 +2,7 @@
 title: "Staff Software Engineer, Data Pipelines"
 employer: "Perimeter"
 job_id: "receZ2f3xs5GlNJoj"
-last_updated: "2026-08-15T05:32:27.330395Z"
+last_updated: "2026-08-16T05:33:27.000319Z"
 posted_at: "2026-07-07T00:01:00Z"
 status: ready
 apply_url: "https://www.linkedin.com/jobs/view/4437183894/?alternateChannel=search&eBP=NON_CHARGEABLE_CHANNEL&trk=d_flagship3_search_srp_jobs&refId=5xhUbSAZBLjrZtmN833Zeg%3D%3D&trackingId=YL9py16%2B5Y8GRfH%2BTmZzgQ%3D%3D"
@@ -33,4 +33,4 @@ areas:
 <p class="apply-cta"><a href="https://www.linkedin.com/jobs/view/4437183894/?alternateChannel=search&amp;eBP=NON_CHARGEABLE_CHANNEL&amp;trk=d_flagship3_search_srp_jobs&amp;refId=5xhUbSAZBLjrZtmN833Zeg%3D%3D&amp;trackingId=YL9py16%2B5Y8GRfH%2BTmZzgQ%3D%3D">Apply →</a></p>
 
 ---
-*Posted 2026-07-07 · Listing synced 2026-08-15 · 80k job ID `receZ2f3xs5GlNJoj`*
+*Posted 2026-07-07 · Listing synced 2026-08-16 · 80k job ID `receZ2f3xs5GlNJoj`*

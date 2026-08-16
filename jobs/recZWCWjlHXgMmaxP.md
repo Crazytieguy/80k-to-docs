@@ -2,7 +2,7 @@
 title: "Funding, Involve and Engage, Social Sciences, Humanities and the Arts for People and the Economy"
 employer: "The British Academy"
 job_id: "recZWCWjlHXgMmaxP"
-last_updated: "2026-08-15T05:32:41.768788Z"
+last_updated: "2026-08-16T05:33:42.192141Z"
 posted_at: "2026-06-08T00:00:00Z"
 status: ready
 apply_url: "https://www.thebritishacademy.ac.uk/funding/schemes/shape-involve-and-engage/"
@@ -32,4 +32,4 @@ areas:
 <p class="apply-cta"><a href="https://www.thebritishacademy.ac.uk/funding/schemes/shape-involve-and-engage/">Apply →</a></p>
 
 ---
-*Posted 2026-06-08 · Listing synced 2026-08-15 · 80k job ID `recZWCWjlHXgMmaxP`*
+*Posted 2026-06-08 · Listing synced 2026-08-16 · 80k job ID `recZWCWjlHXgMmaxP`*

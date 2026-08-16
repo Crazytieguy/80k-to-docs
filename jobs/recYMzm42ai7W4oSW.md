@@ -2,7 +2,7 @@
 title: "Writer"
 employer: "Our World In Data"
 job_id: "recYMzm42ai7W4oSW"
-last_updated: "2026-08-15T05:32:59.446436Z"
+last_updated: "2026-08-16T05:33:59.034313Z"
 posted_at: "2022-01-07T00:00:00Z"
 status: ready
 apply_url: "https://ourworldindata.org/hiring-writer-2026"
@@ -34,4 +34,4 @@ areas:
 <p class="apply-cta"><a href="https://ourworldindata.org/hiring-writer-2026">Apply →</a></p>
 
 ---
-*Posted 2022-01-07 · Listing synced 2026-08-15 · 80k job ID `recYMzm42ai7W4oSW`*
+*Posted 2022-01-07 · Listing synced 2026-08-16 · 80k job ID `recYMzm42ai7W4oSW`*

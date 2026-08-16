@@ -2,7 +2,7 @@
 title: "Expression of Interest, Director / Co-Director"
 employer: "Zurich AI Safety"
 job_id: "rec5DE4d3ALkOiHCh"
-last_updated: "2026-08-15T05:33:11.696287Z"
+last_updated: "2026-08-16T05:34:11.810846Z"
 posted_at: "2022-01-06T00:00:00Z"
 status: ready
 apply_url: "https://forum.effectivealtruism.org/posts/NvvHgGxojoTEq2HkA/zurich-ai-safety-is-looking-for-co-directors-eoi"
@@ -34,4 +34,4 @@ areas:
 <p class="apply-cta"><a href="https://forum.effectivealtruism.org/posts/NvvHgGxojoTEq2HkA/zurich-ai-safety-is-looking-for-co-directors-eoi">Apply →</a></p>
 
 ---
-*Posted 2022-01-06 · Listing synced 2026-08-15 · 80k job ID `rec5DE4d3ALkOiHCh`*
+*Posted 2022-01-06 · Listing synced 2026-08-16 · 80k job ID `rec5DE4d3ALkOiHCh`*

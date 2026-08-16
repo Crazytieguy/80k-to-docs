@@ -4,25 +4,20 @@ employer: "Charles University, Centre for Theoretical Studies"
 job_id: "recJK8Yds1yfFlfzg"
 last_updated: "2026-08-15T05:32:08.246478Z"
 posted_at: "2026-07-29T00:00:00Z"
-status: ready
+status: closed
+closed_at: "2026-08-16"
 apply_url: "https://acsresearch.org/hiring"
 areas:
   - "AI safety & policy"
 ---
 
+> ⚠️ **CLOSED on 2026-08-16** — this job is no longer listed on the 80,000 Hours board. Archived snapshot below.
+
 # Product and Growth Lead
 
-**[Charles University, Centre for Theoretical Studies](https://cuni.cz/)**
+**Charles University, Centre for Theoretical Studies**
 
-<dl class="job-meta">
-<dt>Location</dt><dd>Remote, Global</dd>
-<dt>Role type</dt><dd>Full-time</dd>
-<dt>Experience</dt><dd>Junior (1-4 years experience), Mid (5-9 years experience)</dd>
-<dt>Degree</dt><dd>Undergraduate degree or less</dd>
-<dt>Salary</dt><dd>$70,000 – $200,000</dd>
-</dl>
-
-**Areas & skills:** AI safety & policy, Strategy
+**Areas & skills:** AI safety & policy
 
 ## Summary
 - In this role, you'll drive platform growth and ensure active researcher engagement.

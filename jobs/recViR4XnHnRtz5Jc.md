@@ -2,7 +2,7 @@
 title: "Program Associate / Program Manager, Systems and Security"
 employer: "Horizon Institute for Public Service"
 job_id: "recViR4XnHnRtz5Jc"
-last_updated: "2026-08-15T05:32:01.161825Z"
+last_updated: "2026-08-16T05:33:01.559062Z"
 posted_at: "2026-07-31T00:04:34Z"
 status: ready
 apply_url: "https://horizonpublicservice.org/program-associate-program-manager-systems-and-security/"
@@ -34,4 +34,4 @@ areas:
 <p class="apply-cta"><a href="https://horizonpublicservice.org/program-associate-program-manager-systems-and-security/">Apply →</a></p>
 
 ---
-*Posted 2026-07-31 · Listing synced 2026-08-15 · 80k job ID `recViR4XnHnRtz5Jc`*
+*Posted 2026-07-31 · Listing synced 2026-08-16 · 80k job ID `recViR4XnHnRtz5Jc`*

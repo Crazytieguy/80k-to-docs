@@ -2,7 +2,7 @@
 title: "Cyber Security Engineer"
 employer: "Gray Swan"
 job_id: "recBWEpezcgKC24Ed"
-last_updated: "2026-08-15T05:31:58.406028Z"
+last_updated: "2026-08-16T05:32:58.990239Z"
 posted_at: "2026-08-03T00:00:00Z"
 status: ready
 apply_url: "https://jobs.ashbyhq.com/Gray%20Swan%20AI/4d123140-c24e-4612-8f2b-38b85119ca64"
@@ -34,4 +34,4 @@ areas:
 <p class="apply-cta"><a href="https://jobs.ashbyhq.com/Gray%20Swan%20AI/4d123140-c24e-4612-8f2b-38b85119ca64">Apply →</a></p>
 
 ---
-*Posted 2026-08-03 · Listing synced 2026-08-15 · 80k job ID `recBWEpezcgKC24Ed`*
+*Posted 2026-08-03 · Listing synced 2026-08-16 · 80k job ID `recBWEpezcgKC24Ed`*

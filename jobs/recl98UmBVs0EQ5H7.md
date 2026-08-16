@@ -2,7 +2,7 @@
 title: "Senior Software Security Engineer"
 employer: "Anthropic"
 job_id: "recl98UmBVs0EQ5H7"
-last_updated: "2026-08-15T05:32:32.536519Z"
+last_updated: "2026-08-16T05:33:32.045984Z"
 posted_at: "2026-06-29T00:00:00Z"
 status: ready
 apply_url: "https://job-boards.greenhouse.io/anthropic/jobs/4887959008"
@@ -34,4 +34,4 @@ areas:
 <p class="apply-cta"><a href="https://job-boards.greenhouse.io/anthropic/jobs/4887959008">Apply →</a></p>
 
 ---
-*Posted 2026-06-29 · Listing synced 2026-08-15 · 80k job ID `recl98UmBVs0EQ5H7`*
+*Posted 2026-06-29 · Listing synced 2026-08-16 · 80k job ID `recl98UmBVs0EQ5H7`*

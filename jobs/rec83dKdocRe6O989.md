@@ -2,7 +2,7 @@
 title: "Executive Director"
 employer: "Centre For Enabling EA Learning and Research"
 job_id: "rec83dKdocRe6O989"
-last_updated: "2026-08-15T05:32:04.610190Z"
+last_updated: "2026-08-16T05:33:04.559158Z"
 posted_at: "2026-07-31T00:00:00Z"
 status: ready
 apply_url: "https://forum.effectivealtruism.org/posts/hpBsjQPQehv5vtKi4/job-executive-director-of-ceealar-ea-hotel-1"
@@ -34,4 +34,4 @@ areas:
 <p class="apply-cta"><a href="https://forum.effectivealtruism.org/posts/hpBsjQPQehv5vtKi4/job-executive-director-of-ceealar-ea-hotel-1">Apply →</a></p>
 
 ---
-*Posted 2026-07-31 · Listing synced 2026-08-15 · 80k job ID `rec83dKdocRe6O989`*
+*Posted 2026-07-31 · Listing synced 2026-08-16 · 80k job ID `rec83dKdocRe6O989`*

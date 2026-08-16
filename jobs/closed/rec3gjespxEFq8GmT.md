@@ -4,26 +4,21 @@ employer: "Transfyr"
 job_id: "rec3gjespxEFq8GmT"
 last_updated: "2026-08-15T05:31:41.961755Z"
 posted_at: "2026-08-12T00:00:00Z"
-status: ready
+status: closed
+closed_at: "2026-08-16"
 apply_url: "https://fellowship.transfyr.ai/"
 areas:
   - "AI safety & policy"
   - "Biosecurity & pandemic preparedness"
 ---
 
+> ⚠️ **CLOSED on 2026-08-16** — this job is no longer listed on the 80,000 Hours board. Archived snapshot below.
+
 # AI Fellowship
 
-**[Transfyr](https://transfyr.ai/)**
+**Transfyr**
 
-<dl class="job-meta">
-<dt>Location</dt><dd>Boston metro area, USA, USA (Confirmed Visas)</dd>
-<dt>Role type</dt><dd>Fellowship</dd>
-<dt>Experience</dt><dd>Entry-level</dd>
-<dt>Degree</dt><dd>Undergraduate degree or less</dd>
-<dt>Salary</dt><dd>$125,000</dd>
-</dl>
-
-**Areas & skills:** AI safety & policy, Biosecurity & pandemic preparedness, Research, Software engineering
+**Areas & skills:** AI safety & policy, Biosecurity & pandemic preparedness
 
 ## Summary
 - In this fellowship, you'll lead a 12-month research project solving frontier machine learning problems in scientific execution.

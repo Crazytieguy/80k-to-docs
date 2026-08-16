@@ -2,7 +2,7 @@
 title: "Research Associate, Outer Space"
 employer: "Vienna Center for Disarmament and Non-Proliferation"
 job_id: "recvEXcdUFXqLT966"
-last_updated: "2026-08-15T05:31:38.084607Z"
+last_updated: "2026-08-16T05:32:39.003749Z"
 posted_at: "2026-08-14T00:00:00Z"
 status: ready
 apply_url: "https://vcdnp.org/research-associate-outer-space/"
@@ -35,4 +35,4 @@ areas:
 <p class="apply-cta"><a href="https://vcdnp.org/research-associate-outer-space/">Apply →</a></p>
 
 ---
-*Posted 2026-08-14 · Listing synced 2026-08-15 · 80k job ID `recvEXcdUFXqLT966`*
+*Posted 2026-08-14 · Listing synced 2026-08-16 · 80k job ID `recvEXcdUFXqLT966`*

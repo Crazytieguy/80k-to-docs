@@ -2,7 +2,7 @@
 title: "IT and Security Specialist"
 employer: "Epoch AI"
 job_id: "recKXuWBag9YGTxw5"
-last_updated: "2026-08-15T05:31:45.062593Z"
+last_updated: "2026-08-16T05:32:45.699252Z"
 posted_at: "2026-08-10T00:04:37Z"
 status: ready
 apply_url: "https://jobs.lever.co/epoch-ai/d84390c5-cb4e-46f3-9c64-910b7df77f8b"
@@ -34,4 +34,4 @@ areas:
 <p class="apply-cta"><a href="https://jobs.lever.co/epoch-ai/d84390c5-cb4e-46f3-9c64-910b7df77f8b">Apply →</a></p>
 
 ---
-*Posted 2026-08-10 · Listing synced 2026-08-15 · 80k job ID `recKXuWBag9YGTxw5`*
+*Posted 2026-08-10 · Listing synced 2026-08-16 · 80k job ID `recKXuWBag9YGTxw5`*

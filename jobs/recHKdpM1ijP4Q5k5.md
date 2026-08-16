@@ -2,7 +2,7 @@
 title: "Research Intern"
 employer: "Haize Labs"
 job_id: "recHKdpM1ijP4Q5k5"
-last_updated: "2026-08-15T05:33:05.172751Z"
+last_updated: "2026-08-16T05:34:04.997912Z"
 posted_at: "2022-01-06T00:00:00Z"
 status: ready
 apply_url: "https://job-boards.greenhouse.io/haizelabs/jobs/4070377008"
@@ -34,4 +34,4 @@ areas:
 <p class="apply-cta"><a href="https://job-boards.greenhouse.io/haizelabs/jobs/4070377008">Apply →</a></p>
 
 ---
-*Posted 2022-01-06 · Listing synced 2026-08-15 · 80k job ID `recHKdpM1ijP4Q5k5`*
+*Posted 2022-01-06 · Listing synced 2026-08-16 · 80k job ID `recHKdpM1ijP4Q5k5`*

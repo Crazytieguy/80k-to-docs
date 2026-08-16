@@ -2,7 +2,7 @@
 title: "Deputy Communications Director"
 employer: "The AI Policy Network"
 job_id: "recAk718NCJoIZ2TH"
-last_updated: "2026-08-15T05:32:38.277614Z"
+last_updated: "2026-08-16T05:33:38.162790Z"
 posted_at: "2026-06-11T00:02:00Z"
 status: ready
 apply_url: "https://job-boards.greenhouse.io/aipn/jobs/4353606009"
@@ -34,4 +34,4 @@ areas:
 <p class="apply-cta"><a href="https://job-boards.greenhouse.io/aipn/jobs/4353606009">Apply →</a></p>
 
 ---
-*Posted 2026-06-11 · Listing synced 2026-08-15 · 80k job ID `recAk718NCJoIZ2TH`*
+*Posted 2026-06-11 · Listing synced 2026-08-16 · 80k job ID `recAk718NCJoIZ2TH`*

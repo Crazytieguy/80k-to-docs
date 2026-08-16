@@ -2,7 +2,7 @@
 title: "Security Researcher, Agentic AI Threats"
 employer: "OpenAI"
 job_id: "recZoPatJJ37SFHoQ"
-last_updated: "2026-08-15T05:32:48.345058Z"
+last_updated: "2026-08-16T05:33:48.051609Z"
 posted_at: "2022-01-12T00:00:00Z"
 status: ready
 apply_url: "https://openai.com/careers/security-researcher-agentic-ai-threats-san-francisco/"
@@ -34,4 +34,4 @@ areas:
 <p class="apply-cta"><a href="https://openai.com/careers/security-researcher-agentic-ai-threats-san-francisco/">Apply →</a></p>
 
 ---
-*Posted 2022-01-12 · Listing synced 2026-08-15 · 80k job ID `recZoPatJJ37SFHoQ`*
+*Posted 2022-01-12 · Listing synced 2026-08-16 · 80k job ID `recZoPatJJ37SFHoQ`*

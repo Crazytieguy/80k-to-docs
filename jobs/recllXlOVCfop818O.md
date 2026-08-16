@@ -2,7 +2,7 @@
 title: "Technical Lead, AI Verification"
 employer: "SASH"
 job_id: "recllXlOVCfop818O"
-last_updated: "2026-08-15T05:32:31.766635Z"
+last_updated: "2026-08-16T05:33:31.275410Z"
 posted_at: "2026-06-30T00:02:00Z"
 status: ready
 apply_url: "https://www.aisafety.sg/careers/technical-lead-ai-verification"
@@ -34,4 +34,4 @@ areas:
 <p class="apply-cta"><a href="https://www.aisafety.sg/careers/technical-lead-ai-verification">Apply →</a></p>
 
 ---
-*Posted 2026-06-30 · Listing synced 2026-08-15 · 80k job ID `recllXlOVCfop818O`*
+*Posted 2026-06-30 · Listing synced 2026-08-16 · 80k job ID `recllXlOVCfop818O`*

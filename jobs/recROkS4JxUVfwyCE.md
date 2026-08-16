@@ -2,7 +2,7 @@
 title: "Senior Research Associate, Logic and Programming Languages for AI Safety"
 employer: "University of Bristol, Department of Computer Science"
 job_id: "recROkS4JxUVfwyCE"
-last_updated: "2026-08-15T05:31:59.838251Z"
+last_updated: "2026-08-16T05:33:00.256808Z"
 posted_at: "2026-08-03T00:00:00Z"
 status: ready
 apply_url: "https://www.jobs.ac.uk/job/DSI317/senior-research-associate-in-logic-and-programming-languages-for-ai-safety?uuid=23a571fc-8570-11f1-9cb0-064da8edb92a&campaign=jbe20260722&source=jbe"
@@ -34,4 +34,4 @@ areas:
 <p class="apply-cta"><a href="https://www.jobs.ac.uk/job/DSI317/senior-research-associate-in-logic-and-programming-languages-for-ai-safety?uuid=23a571fc-8570-11f1-9cb0-064da8edb92a&amp;campaign=jbe20260722&amp;source=jbe">Apply →</a></p>
 
 ---
-*Posted 2026-08-03 · Listing synced 2026-08-15 · 80k job ID `recROkS4JxUVfwyCE`*
+*Posted 2026-08-03 · Listing synced 2026-08-16 · 80k job ID `recROkS4JxUVfwyCE`*

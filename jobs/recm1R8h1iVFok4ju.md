@@ -2,7 +2,7 @@
 title: "Senior Network Security Engineer"
 employer: "xAI"
 job_id: "recm1R8h1iVFok4ju"
-last_updated: "2026-08-15T05:33:11.413080Z"
+last_updated: "2026-08-16T05:34:11.531569Z"
 posted_at: "2022-01-06T00:00:00Z"
 status: ready
 apply_url: "https://job-boards.greenhouse.io/xai/jobs/4800712007"
@@ -34,4 +34,4 @@ areas:
 <p class="apply-cta"><a href="https://job-boards.greenhouse.io/xai/jobs/4800712007">Apply →</a></p>
 
 ---
-*Posted 2022-01-06 · Listing synced 2026-08-15 · 80k job ID `recm1R8h1iVFok4ju`*
+*Posted 2022-01-06 · Listing synced 2026-08-16 · 80k job ID `recm1R8h1iVFok4ju`*

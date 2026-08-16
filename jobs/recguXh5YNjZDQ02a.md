@@ -2,7 +2,7 @@
 title: "Algorithm Researcher, Frontier AI Risk"
 employer: "Shanghai Artificial Intelligence Laboratory"
 job_id: "recguXh5YNjZDQ02a"
-last_updated: "2026-08-15T05:33:09.175180Z"
+last_updated: "2026-08-16T05:34:09.279560Z"
 posted_at: "2022-01-06T00:00:00Z"
 status: ready
 apply_url: "https://www.shlab.org.cn/joinus/detail/7586567008909773098"
@@ -33,4 +33,4 @@ areas:
 <p class="apply-cta"><a href="https://www.shlab.org.cn/joinus/detail/7586567008909773098">Apply →</a></p>
 
 ---
-*Posted 2022-01-06 · Listing synced 2026-08-15 · 80k job ID `recguXh5YNjZDQ02a`*
+*Posted 2022-01-06 · Listing synced 2026-08-16 · 80k job ID `recguXh5YNjZDQ02a`*

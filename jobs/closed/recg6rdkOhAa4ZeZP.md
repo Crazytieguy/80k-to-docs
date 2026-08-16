@@ -4,25 +4,20 @@ employer: "Simula"
 job_id: "recg6rdkOhAa4ZeZP"
 last_updated: "2026-08-15T05:32:29.150545Z"
 posted_at: "2026-07-03T00:00:00Z"
-status: ready
+status: closed
+closed_at: "2026-08-16"
 apply_url: "https://www.simula.no/careers/job-openings/phd-research-fellowship-in-safety-and-security-evaluation-of-deployed-ai-systems"
 areas:
   - "AI safety & policy"
 ---
 
+> ⚠️ **CLOSED on 2026-08-16** — this job is no longer listed on the 80,000 Hours board. Archived snapshot below.
+
 # PhD Research Fellowship, Safety and Security Evaluation of Deployed AI Systems
 
-**[Simula](https://www.simula.no/)**
+**Simula**
 
-<dl class="job-meta">
-<dt>Location</dt><dd>Oslo, Norway, Norway, Europe (ex UK)</dd>
-<dt>Role type</dt><dd>Fellowship</dd>
-<dt>Experience</dt><dd>Entry-level</dd>
-<dt>Degree</dt><dd>Master's degree</dd>
-<dt>Salary</dt><dd>$58,318</dd>
-</dl>
-
-**Areas & skills:** AI safety & policy, Research, Information security
+**Areas & skills:** AI safety & policy
 
 ## Summary
 - In this role, you'll develop methods and tools for evaluating, red-teaming, and monitoring deployed AI systems.

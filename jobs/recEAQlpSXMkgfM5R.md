@@ -2,7 +2,7 @@
 title: "Talent Database Lead"
 employer: "80,000 Hours"
 job_id: "recEAQlpSXMkgfM5R"
-last_updated: "2026-08-15T05:32:00.481846Z"
+last_updated: "2026-08-16T05:33:00.892919Z"
 posted_at: "2026-07-31T00:05:00Z"
 status: ready
 apply_url: "https://jobs.ashbyhq.com/80000hours/9d2e1a75-78e2-4d4b-8562-21bbc5c0dec4"
@@ -34,4 +34,4 @@ areas:
 <p class="apply-cta"><a href="https://jobs.ashbyhq.com/80000hours/9d2e1a75-78e2-4d4b-8562-21bbc5c0dec4">Apply →</a></p>
 
 ---
-*Posted 2026-07-31 · Listing synced 2026-08-15 · 80k job ID `recEAQlpSXMkgfM5R`*
+*Posted 2026-07-31 · Listing synced 2026-08-16 · 80k job ID `recEAQlpSXMkgfM5R`*

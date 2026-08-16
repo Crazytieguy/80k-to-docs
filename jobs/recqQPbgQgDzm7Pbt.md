@@ -2,7 +2,7 @@
 title: "Research Fellow, Malaria Vector Control"
 employer: "University of London, School of Hygiene and Tropical Medicine"
 job_id: "recqQPbgQgDzm7Pbt"
-last_updated: "2026-08-15T05:31:43.830945Z"
+last_updated: "2026-08-16T05:32:44.464620Z"
 posted_at: "2026-08-11T00:00:00Z"
 status: ready
 apply_url: "https://jobs.lshtm.ac.uk/vacancy.aspx?ref=EPH-EPIH-2026-09"
@@ -34,4 +34,4 @@ areas:
 <p class="apply-cta"><a href="https://jobs.lshtm.ac.uk/vacancy.aspx?ref=EPH-EPIH-2026-09">Apply →</a></p>
 
 ---
-*Posted 2026-08-11 · Listing synced 2026-08-15 · 80k job ID `recqQPbgQgDzm7Pbt`*
+*Posted 2026-08-11 · Listing synced 2026-08-16 · 80k job ID `recqQPbgQgDzm7Pbt`*
