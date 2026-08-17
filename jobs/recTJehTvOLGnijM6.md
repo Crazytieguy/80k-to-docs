@@ -2,13 +2,13 @@
 title: "Member of Technical Staff, Design Engineer"
 employer: "Valthos"
 job_id: "recTJehTvOLGnijM6"
-last_updated: "2026-08-16T05:33:06.802467Z"
+last_updated: "2026-08-17T05:32:21.340569Z"
 posted_at: "2026-07-30T00:01:00Z"
 status: ready
 apply_url: "https://jobs.ashbyhq.com/valthos/9b7ea5d6-7900-4013-bfe7-2c28d90fd6d2"
 areas:
-  - "AI safety & policy"
   - "Biosecurity & pandemic preparedness"
+  - "AI safety & policy"
 ---
 
 # Member of Technical Staff, Design Engineer
@@ -22,7 +22,7 @@ areas:
 <dt>Degree</dt><dd>Undergraduate degree or less</dd>
 </dl>
 
-**Areas & skills:** AI safety & policy, Biosecurity & pandemic preparedness, Software engineering
+**Areas & skills:** Biosecurity & pandemic preparedness, AI safety & policy, Software engineering
 
 ## Summary
 - In this role, you'll own the design and frontend implementation of core product experiences, from early concepts through production.
@@ -34,4 +34,4 @@ areas:
 <p class="apply-cta"><a href="https://jobs.ashbyhq.com/valthos/9b7ea5d6-7900-4013-bfe7-2c28d90fd6d2">Apply →</a></p>
 
 ---
-*Posted 2026-07-30 · Listing synced 2026-08-16 · 80k job ID `recTJehTvOLGnijM6`*
+*Posted 2026-07-30 · Listing synced 2026-08-17 · 80k job ID `recTJehTvOLGnijM6`*

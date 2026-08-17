@@ -4,25 +4,20 @@ employer: "GovAI"
 job_id: "recQPN6fxqH8d5EMG"
 last_updated: "2026-08-16T05:33:15.445453Z"
 posted_at: "2026-07-21T00:05:00Z"
-status: ready
+status: closed
+closed_at: "2026-08-17"
 apply_url: "https://www.governance.ai/post/research-fellow"
 areas:
   - "AI safety & policy"
 ---
 
+> ⚠️ **CLOSED on 2026-08-17** — this job is no longer listed on the 80,000 Hours board. Archived snapshot below.
+
 # Research Fellow
 
-**[GovAI](https://www.governance.ai/)**
+**GovAI**
 
-<dl class="job-meta">
-<dt>Location</dt><dd>London, UK, Washington, DC metro area, UK, USA</dd>
-<dt>Role type</dt><dd>Fellowship</dd>
-<dt>Experience</dt><dd>Junior (1-4 years experience), Mid (5-9 years experience)</dd>
-<dt>Degree</dt><dd>Undergraduate degree or less</dd>
-<dt>Salary</dt><dd>$113,673 – $140,062</dd>
-</dl>
-
-**Areas & skills:** AI safety & policy, Research, Policy
+**Areas & skills:** AI safety & policy
 
 ## Summary
 - In this fellowship, you'll conduct independent research to inform high-stakes AI governance decisions and mentor early-career researchers.

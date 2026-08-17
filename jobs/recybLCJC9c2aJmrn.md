@@ -2,7 +2,7 @@
 title: "Rosalind Biodefense Program"
 employer: "OpenAI"
 job_id: "recybLCJC9c2aJmrn"
-last_updated: "2026-08-16T05:33:28.724075Z"
+last_updated: "2026-08-17T05:32:43.630352Z"
 posted_at: "2026-07-03T00:00:00Z"
 status: ready
 apply_url: "https://openai.com/form/rosalind-biodefense-program/"
@@ -34,4 +34,4 @@ areas:
 <p class="apply-cta"><a href="https://openai.com/form/rosalind-biodefense-program/">Apply →</a></p>
 
 ---
-*Posted 2026-07-03 · Listing synced 2026-08-16 · 80k job ID `recybLCJC9c2aJmrn`*
+*Posted 2026-07-03 · Listing synced 2026-08-17 · 80k job ID `recybLCJC9c2aJmrn`*

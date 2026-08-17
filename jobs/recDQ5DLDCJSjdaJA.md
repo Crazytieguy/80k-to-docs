@@ -2,7 +2,7 @@
 title: "Task Development Engineer"
 employer: "Model Evaluation and Threat Research"
 job_id: "recDQ5DLDCJSjdaJA"
-last_updated: "2026-08-16T05:32:45.338268Z"
+last_updated: "2026-08-17T05:31:57.049551Z"
 posted_at: "2026-08-10T00:05:00Z"
 status: ready
 apply_url: "https://jobs.lever.co/metr/b4812bf4-c259-406b-8ffa-4a463fff34f7"
@@ -34,4 +34,4 @@ areas:
 <p class="apply-cta"><a href="https://jobs.lever.co/metr/b4812bf4-c259-406b-8ffa-4a463fff34f7">Apply →</a></p>
 
 ---
-*Posted 2026-08-10 · Listing synced 2026-08-16 · 80k job ID `recDQ5DLDCJSjdaJA`*
+*Posted 2026-08-10 · Listing synced 2026-08-17 · 80k job ID `recDQ5DLDCJSjdaJA`*

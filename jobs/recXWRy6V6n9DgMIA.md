@@ -2,7 +2,7 @@
 title: "Development Director"
 employer: "Centre for Future Generations"
 job_id: "recXWRy6V6n9DgMIA"
-last_updated: "2026-08-16T05:33:26.043990Z"
+last_updated: "2026-08-17T05:32:40.941113Z"
 posted_at: "2026-07-08T00:00:00Z"
 status: ready
 apply_url: "https://stichtingicfg.bamboohr.com/careers/66"
@@ -19,7 +19,7 @@ areas:
 <dt>Role type</dt><dd>Full-time</dd>
 <dt>Experience</dt><dd>Senior (10+ years experience)</dd>
 <dt>Degree</dt><dd>Undergraduate degree or less</dd>
-<dt>Salary</dt><dd>$104,108 – $127,243</dd>
+<dt>Salary</dt><dd>$104,286 – $127,461</dd>
 </dl>
 
 **Areas & skills:** Macrostrategy, Management, Strategy
@@ -34,4 +34,4 @@ areas:
 <p class="apply-cta"><a href="https://stichtingicfg.bamboohr.com/careers/66">Apply →</a></p>
 
 ---
-*Posted 2026-07-08 · Listing synced 2026-08-16 · 80k job ID `recXWRy6V6n9DgMIA`*
+*Posted 2026-07-08 · Listing synced 2026-08-17 · 80k job ID `recXWRy6V6n9DgMIA`*

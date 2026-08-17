@@ -4,24 +4,20 @@ employer: "Longitude DC Intensive"
 job_id: "recp3AuHi4AqF8SGE"
 last_updated: "2026-08-16T05:32:54.462397Z"
 posted_at: "2026-08-05T00:00:00Z"
-status: ready
+status: closed
+closed_at: "2026-08-17"
 apply_url: "https://www.longitudepolicy.org/"
 areas:
   - "AI safety & policy"
 ---
 
+> ⚠️ **CLOSED on 2026-08-17** — this job is no longer listed on the 80,000 Hours board. Archived snapshot below.
+
 # Longitude DC Intensive
 
-**[Longitude DC Intensive](https://www.longitudepolicy.org/)**
+**Longitude DC Intensive**
 
-<dl class="job-meta">
-<dt>Location</dt><dd>Washington, DC metro area, USA</dd>
-<dt>Role type</dt><dd>Course</dd>
-<dt>Experience</dt><dd>Multiple experience levels</dd>
-<dt>Degree</dt><dd>Undergraduate degree or less</dd>
-</dl>
-
-**Areas & skills:** AI safety & policy, Policy
+**Areas & skills:** AI safety & policy
 
 ## Summary
 - This course prepares technical AI safety professionals to transition into AI policy work over eight days in Washington, DC.

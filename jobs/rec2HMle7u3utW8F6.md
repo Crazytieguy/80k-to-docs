@@ -2,7 +2,7 @@
 title: "Research Scientist, Biological Models, Chem-Bio"
 employer: "UK Government, AI Security Institute"
 job_id: "rec2HMle7u3utW8F6"
-last_updated: "2026-08-16T05:32:39.678391Z"
+last_updated: "2026-08-17T05:31:50.908963Z"
 posted_at: "2026-08-13T00:05:00Z"
 status: ready
 apply_url: "https://job-boards.eu.greenhouse.io/aisi/jobs/4950942101"
@@ -19,7 +19,7 @@ areas:
 <dt>Role type</dt><dd>Full-time</dd>
 <dt>Experience</dt><dd>Mid (5-9 years experience), Senior (10+ years experience)</dd>
 <dt>Degree</dt><dd>Undergraduate degree or less</dd>
-<dt>Salary</dt><dd>$87,961 – $196,222</dd>
+<dt>Salary</dt><dd>$88,105 – $196,542</dd>
 </dl>
 
 **Areas & skills:** AI safety & policy, Research
@@ -32,4 +32,4 @@ areas:
 <p class="apply-cta"><a href="https://job-boards.eu.greenhouse.io/aisi/jobs/4950942101">Apply →</a></p>
 
 ---
-*Posted 2026-08-13 · Listing synced 2026-08-16 · 80k job ID `rec2HMle7u3utW8F6`*
+*Posted 2026-08-13 · Listing synced 2026-08-17 · 80k job ID `rec2HMle7u3utW8F6`*

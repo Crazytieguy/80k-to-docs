@@ -2,7 +2,7 @@
 title: "Backend Engineer"
 employer: "AIM Intelligence"
 job_id: "recDsEGIQhl48OCPx"
-last_updated: "2026-08-16T05:32:50.759079Z"
+last_updated: "2026-08-17T05:32:03.013441Z"
 posted_at: "2026-08-06T00:00:00Z"
 status: ready
 apply_url: "https://career.aim-intelligence.com/ko/o/210763"
@@ -33,4 +33,4 @@ areas:
 <p class="apply-cta"><a href="https://career.aim-intelligence.com/ko/o/210763">Apply →</a></p>
 
 ---
-*Posted 2026-08-06 · Listing synced 2026-08-16 · 80k job ID `recDsEGIQhl48OCPx`*
+*Posted 2026-08-06 · Listing synced 2026-08-17 · 80k job ID `recDsEGIQhl48OCPx`*

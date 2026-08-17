@@ -2,7 +2,7 @@
 title: "Software Engineer, AI Security"
 employer: "Carnegie Mellon University, Software Engineering Institute"
 job_id: "recEhYdFdRz2dqvxd"
-last_updated: "2026-08-16T05:34:03.274758Z"
+last_updated: "2026-08-17T05:33:17.958397Z"
 posted_at: "2022-01-06T00:00:00Z"
 status: ready
 apply_url: "https://cmu.wd5.myworkdayjobs.com/en-US/SEI/job/Pittsburgh-PA/AI-Security-Software-Engineer_2024469-1"
@@ -33,4 +33,4 @@ areas:
 <p class="apply-cta"><a href="https://cmu.wd5.myworkdayjobs.com/en-US/SEI/job/Pittsburgh-PA/AI-Security-Software-Engineer_2024469-1">Apply →</a></p>
 
 ---
-*Posted 2022-01-06 · Listing synced 2026-08-16 · 80k job ID `recEhYdFdRz2dqvxd`*
+*Posted 2022-01-06 · Listing synced 2026-08-17 · 80k job ID `recEhYdFdRz2dqvxd`*

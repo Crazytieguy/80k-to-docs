@@ -4,25 +4,20 @@ employer: "GovAI"
 job_id: "recyid299KWosRBuw"
 last_updated: "2026-08-16T05:33:15.257463Z"
 posted_at: "2026-07-21T00:05:00Z"
-status: ready
+status: closed
+closed_at: "2026-08-17"
 apply_url: "https://www.governance.ai/post/research-scholar"
 areas:
   - "AI safety & policy"
 ---
 
+> ⚠️ **CLOSED on 2026-08-17** — this job is no longer listed on the 80,000 Hours board. Archived snapshot below.
+
 # Research Scholar
 
-**[GovAI](https://www.governance.ai/)**
+**GovAI**
 
-<dl class="job-meta">
-<dt>Location</dt><dd>London, UK, Washington, DC metro area, UK, USA, USA (Confirmed Visas), UK (Confirmed Visas)</dd>
-<dt>Role type</dt><dd>Other</dd>
-<dt>Experience</dt><dd>Junior (1-4 years experience), Entry-level</dd>
-<dt>Degree</dt><dd>Undergraduate degree or less</dd>
-<dt>Salary</dt><dd>$101,494 – $140,062</dd>
-</dl>
-
-**Areas & skills:** AI safety & policy, Research, Policy
+**Areas & skills:** AI safety & policy
 
 ## Summary
 - In this one-year visiting position, you'll pursue flexible research and applied projects in AI governance to develop your career.

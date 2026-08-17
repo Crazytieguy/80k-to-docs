@@ -2,7 +2,7 @@
 title: "Security Preparedness Lead, Coding Agents"
 employer: "OpenAI"
 job_id: "recuRkQMf5ZkGz2Tf"
-last_updated: "2026-08-16T05:33:55.131481Z"
+last_updated: "2026-08-17T05:33:09.583943Z"
 posted_at: "2022-01-11T00:00:00Z"
 status: ready
 apply_url: "https://openai.com/careers/security-preparedness-lead-coding-agents-san-francisco/"
@@ -34,4 +34,4 @@ areas:
 <p class="apply-cta"><a href="https://openai.com/careers/security-preparedness-lead-coding-agents-san-francisco/">Apply →</a></p>
 
 ---
-*Posted 2022-01-11 · Listing synced 2026-08-16 · 80k job ID `recuRkQMf5ZkGz2Tf`*
+*Posted 2022-01-11 · Listing synced 2026-08-17 · 80k job ID `recuRkQMf5ZkGz2Tf`*

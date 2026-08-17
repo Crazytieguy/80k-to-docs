@@ -2,7 +2,7 @@
 title: "Machine Learning Research Scientist"
 employer: "AIXI Labs"
 job_id: "rec6i6zs8yYNcAPqm"
-last_updated: "2026-08-16T05:33:29.338773Z"
+last_updated: "2026-08-17T05:32:44.339430Z"
 posted_at: "2026-07-02T00:00:00Z"
 status: ready
 apply_url: "https://www.aixi.uk/team/opportunities/ml-research-scientist/"
@@ -19,7 +19,7 @@ areas:
 <dt>Role type</dt><dd>Full-time</dd>
 <dt>Experience</dt><dd>Junior (1-4 years experience)</dd>
 <dt>Degree</dt><dd>Undergraduate degree or less</dd>
-<dt>Salary</dt><dd>$162,390 – $216,520</dd>
+<dt>Salary</dt><dd>$162,656 – $216,874</dd>
 </dl>
 
 **Areas & skills:** AI safety & policy, Research, Software engineering
@@ -33,4 +33,4 @@ areas:
 <p class="apply-cta"><a href="https://www.aixi.uk/team/opportunities/ml-research-scientist/">Apply →</a></p>
 
 ---
-*Posted 2026-07-02 · Listing synced 2026-08-16 · 80k job ID `rec6i6zs8yYNcAPqm`*
+*Posted 2026-07-02 · Listing synced 2026-08-17 · 80k job ID `rec6i6zs8yYNcAPqm`*

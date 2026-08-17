@@ -2,7 +2,7 @@
 title: "Principal Front-End Engineer"
 employer: "Meridian Labs"
 job_id: "recIinOP6pvHamos1"
-last_updated: "2026-08-16T05:34:18.873812Z"
+last_updated: "2026-08-17T05:33:34.563677Z"
 posted_at: "2022-01-05T00:00:00Z"
 status: ready
 apply_url: "https://meridianlabs.ai/careers/principal-fe"
@@ -34,4 +34,4 @@ areas:
 <p class="apply-cta"><a href="https://meridianlabs.ai/careers/principal-fe">Apply →</a></p>
 
 ---
-*Posted 2022-01-05 · Listing synced 2026-08-16 · 80k job ID `recIinOP6pvHamos1`*
+*Posted 2022-01-05 · Listing synced 2026-08-17 · 80k job ID `recIinOP6pvHamos1`*

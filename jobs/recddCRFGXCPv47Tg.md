@@ -2,7 +2,7 @@
 title: "Global Detection and Response Lead"
 employer: "OpenAI"
 job_id: "recddCRFGXCPv47Tg"
-last_updated: "2026-08-16T05:33:54.261340Z"
+last_updated: "2026-08-17T05:33:08.710529Z"
 posted_at: "2022-01-11T00:00:00Z"
 status: ready
 apply_url: "https://openai.com/careers/global-detection-and-response-lead-san-francisco/"
@@ -34,4 +34,4 @@ areas:
 <p class="apply-cta"><a href="https://openai.com/careers/global-detection-and-response-lead-san-francisco/">Apply →</a></p>
 
 ---
-*Posted 2022-01-11 · Listing synced 2026-08-16 · 80k job ID `recddCRFGXCPv47Tg`*
+*Posted 2022-01-11 · Listing synced 2026-08-17 · 80k job ID `recddCRFGXCPv47Tg`*

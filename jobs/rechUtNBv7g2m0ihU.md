@@ -2,7 +2,7 @@
 title: "People Director"
 employer: "Founders Pledge"
 job_id: "rechUtNBv7g2m0ihU"
-last_updated: "2026-08-16T05:33:30.524465Z"
+last_updated: "2026-08-17T05:32:45.533464Z"
 posted_at: "2026-07-01T00:02:00Z"
 status: ready
 apply_url: "https://careers.founderspledge.com/jobs/7995629-people-director"
@@ -19,7 +19,7 @@ areas:
 <dt>Role type</dt><dd>Full-time</dd>
 <dt>Experience</dt><dd>Senior (10+ years experience)</dd>
 <dt>Degree</dt><dd>Undergraduate degree or less</dd>
-<dt>Salary</dt><dd>$121,793 – $128,559</dd>
+<dt>Salary</dt><dd>$121,992 – $128,769</dd>
 </dl>
 
 **Areas & skills:** Building effective altruism, Operations, Management, Strategy
@@ -34,4 +34,4 @@ areas:
 <p class="apply-cta"><a href="https://careers.founderspledge.com/jobs/7995629-people-director">Apply →</a></p>
 
 ---
-*Posted 2026-07-01 · Listing synced 2026-08-16 · 80k job ID `rechUtNBv7g2m0ihU`*
+*Posted 2026-07-01 · Listing synced 2026-08-17 · 80k job ID `rechUtNBv7g2m0ihU`*

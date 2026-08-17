@@ -4,25 +4,20 @@ employer: "GovAI"
 job_id: "reckfdcjjQEaZ45mG"
 last_updated: "2026-08-16T05:33:18.076657Z"
 posted_at: "2026-07-17T00:04:24Z"
-status: ready
+status: closed
+closed_at: "2026-08-17"
 apply_url: "https://www.governance.ai/post/dc-chief-of-staff"
 areas:
   - "AI safety & policy"
 ---
 
+> ⚠️ **CLOSED on 2026-08-17** — this job is no longer listed on the 80,000 Hours board. Archived snapshot below.
+
 # Chief of Staff, DC
 
-**[GovAI](https://www.governance.ai/)**
+**GovAI**
 
-<dl class="job-meta">
-<dt>Location</dt><dd>Washington, DC metro area, USA, USA (Confirmed Visas)</dd>
-<dt>Role type</dt><dd>Full-time</dd>
-<dt>Experience</dt><dd>Mid (5-9 years experience)</dd>
-<dt>Degree</dt><dd>Undergraduate degree or less</dd>
-<dt>Salary</dt><dd>$148,000 – $205,000</dd>
-</dl>
-
-**Areas & skills:** AI safety & policy, Operations, Strategy
+**Areas & skills:** AI safety & policy
 
 ## Summary
 - In this role, you'll serve as DC Chief of Staff, partnering with the Executive Director to shape GovAI's Washington strategy and operations.

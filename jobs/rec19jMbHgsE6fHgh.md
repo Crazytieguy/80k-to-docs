@@ -2,7 +2,7 @@
 title: "Senior Distributed ML Engineer"
 employer: "LawZero"
 job_id: "rec19jMbHgsE6fHgh"
-last_updated: "2026-08-16T05:34:06.343914Z"
+last_updated: "2026-08-17T05:33:21.060249Z"
 posted_at: "2022-01-06T00:00:00Z"
 status: ready
 apply_url: "https://job-boards.greenhouse.io/lawzero/jobs/4113548009"
@@ -33,4 +33,4 @@ areas:
 <p class="apply-cta"><a href="https://job-boards.greenhouse.io/lawzero/jobs/4113548009">Apply →</a></p>
 
 ---
-*Posted 2022-01-06 · Listing synced 2026-08-16 · 80k job ID `rec19jMbHgsE6fHgh`*
+*Posted 2022-01-06 · Listing synced 2026-08-17 · 80k job ID `rec19jMbHgsE6fHgh`*

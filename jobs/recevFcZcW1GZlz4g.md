@@ -2,7 +2,7 @@
 title: "Software Engineer"
 employer: "FutureSearch"
 job_id: "recevFcZcW1GZlz4g"
-last_updated: "2026-08-16T05:33:17.518168Z"
+last_updated: "2026-08-17T05:32:32.093952Z"
 posted_at: "2026-07-20T00:00:00Z"
 status: ready
 apply_url: "https://apply.workable.com/futuresearch/j/00E7FC1B6F"
@@ -34,4 +34,4 @@ areas:
 <p class="apply-cta"><a href="https://apply.workable.com/futuresearch/j/00E7FC1B6F">Apply →</a></p>
 
 ---
-*Posted 2026-07-20 · Listing synced 2026-08-16 · 80k job ID `recevFcZcW1GZlz4g`*
+*Posted 2026-07-20 · Listing synced 2026-08-17 · 80k job ID `recevFcZcW1GZlz4g`*

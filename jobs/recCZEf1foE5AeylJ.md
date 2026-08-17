@@ -2,7 +2,7 @@
 title: "Technical Program Manager"
 employer: "Lucid Computing"
 job_id: "recCZEf1foE5AeylJ"
-last_updated: "2026-08-16T05:32:59.703120Z"
+last_updated: "2026-08-17T05:32:13.923586Z"
 posted_at: "2026-08-03T00:00:00Z"
 status: ready
 apply_url: "https://lucidcomputing.ai/careers#technical-program-manager"
@@ -33,4 +33,4 @@ areas:
 <p class="apply-cta"><a href="https://lucidcomputing.ai/careers#technical-program-manager">Apply →</a></p>
 
 ---
-*Posted 2026-08-03 · Listing synced 2026-08-16 · 80k job ID `recCZEf1foE5AeylJ`*
+*Posted 2026-08-03 · Listing synced 2026-08-17 · 80k job ID `recCZEf1foE5AeylJ`*

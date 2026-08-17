@@ -2,7 +2,7 @@
 title: "Events Lead"
 employer: "Epoch AI"
 job_id: "recJB7Hply3JCnXPR"
-last_updated: "2026-08-16T05:33:13.298598Z"
+last_updated: "2026-08-17T05:32:28.117183Z"
 posted_at: "2026-07-23T00:04:00Z"
 status: ready
 apply_url: "https://jobs.lever.co/epoch-ai/d5e131e6-8c86-4f52-b6ec-11bd97f1d3be"
@@ -34,4 +34,4 @@ areas:
 <p class="apply-cta"><a href="https://jobs.lever.co/epoch-ai/d5e131e6-8c86-4f52-b6ec-11bd97f1d3be">Apply →</a></p>
 
 ---
-*Posted 2026-07-23 · Listing synced 2026-08-16 · 80k job ID `recJB7Hply3JCnXPR`*
+*Posted 2026-07-23 · Listing synced 2026-08-17 · 80k job ID `recJB7Hply3JCnXPR`*

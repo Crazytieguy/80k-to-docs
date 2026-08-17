@@ -2,13 +2,13 @@
 title: "Expression of Interest, Pannu Lab"
 employer: "Johns Hopkins University, Center for Health Security"
 job_id: "rec4yFSYJwM7mFO2P"
-last_updated: "2026-08-16T05:33:46.201743Z"
+last_updated: "2026-08-17T05:32:59.672397Z"
 posted_at: "2022-01-13T00:00:00Z"
 status: ready
 apply_url: "https://forms.gle/q7iwQB2VvurjMiT4A"
 areas:
-  - "AI safety & policy"
   - "Biosecurity & pandemic preparedness"
+  - "AI safety & policy"
 ---
 
 # Expression of Interest, Pannu Lab
@@ -22,7 +22,7 @@ areas:
 <dt>Degree</dt><dd>Master's degree</dd>
 </dl>
 
-**Areas & skills:** AI safety & policy, Biosecurity & pandemic preparedness, Research
+**Areas & skills:** Biosecurity & pandemic preparedness, AI safety & policy, Research
 
 ## Summary
 - In this role, you'll conduct research on biosecurity topics including AI for biology, biosafety of AI, resilience approaches, and dual-use synthetic biology.
@@ -34,4 +34,4 @@ areas:
 <p class="apply-cta"><a href="https://forms.gle/q7iwQB2VvurjMiT4A">Apply →</a></p>
 
 ---
-*Posted 2022-01-13 · Listing synced 2026-08-16 · 80k job ID `rec4yFSYJwM7mFO2P`*
+*Posted 2022-01-13 · Listing synced 2026-08-17 · 80k job ID `rec4yFSYJwM7mFO2P`*

@@ -2,7 +2,7 @@
 title: "Insider Risk Investigator"
 employer: "Anthropic"
 job_id: "rec8RL18UftBQe99A"
-last_updated: "2026-08-16T05:32:50.888258Z"
+last_updated: "2026-08-17T05:32:03.256198Z"
 posted_at: "2026-08-06T00:00:00Z"
 status: ready
 apply_url: "https://job-boards.greenhouse.io/anthropic/jobs/5380744008"
@@ -34,4 +34,4 @@ areas:
 <p class="apply-cta"><a href="https://job-boards.greenhouse.io/anthropic/jobs/5380744008">Apply →</a></p>
 
 ---
-*Posted 2026-08-06 · Listing synced 2026-08-16 · 80k job ID `rec8RL18UftBQe99A`*
+*Posted 2026-08-06 · Listing synced 2026-08-17 · 80k job ID `rec8RL18UftBQe99A`*

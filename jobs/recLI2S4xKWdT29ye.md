@@ -2,7 +2,7 @@
 title: "Program Manager"
 employer: "Collider"
 job_id: "recLI2S4xKWdT29ye"
-last_updated: "2026-08-16T05:32:48.174704Z"
+last_updated: "2026-08-17T05:32:00.011408Z"
 posted_at: "2026-08-07T00:03:00Z"
 status: ready
 apply_url: "https://docs.google.com/document/d/1cP3r4slpewE6_5wsJQYTPAg_qKsRX4WYDSy7bfYxMd0/preview?tab=t.0#heading=h.u2jhh2b0bbo9"
@@ -34,4 +34,4 @@ areas:
 <p class="apply-cta"><a href="https://docs.google.com/document/d/1cP3r4slpewE6_5wsJQYTPAg_qKsRX4WYDSy7bfYxMd0/preview?tab=t.0#heading=h.u2jhh2b0bbo9">Apply →</a></p>
 
 ---
-*Posted 2026-08-07 · Listing synced 2026-08-16 · 80k job ID `recLI2S4xKWdT29ye`*
+*Posted 2026-08-07 · Listing synced 2026-08-17 · 80k job ID `recLI2S4xKWdT29ye`*

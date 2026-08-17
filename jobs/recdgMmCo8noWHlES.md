@@ -2,7 +2,7 @@
 title: "Head of Community"
 employer: "Effective Altruism DC"
 job_id: "recdgMmCo8noWHlES"
-last_updated: "2026-08-16T05:34:28.215142Z"
+last_updated: "2026-08-17T05:33:44.277855Z"
 posted_at: "2022-01-02T00:00:00Z"
 status: ready
 apply_url: "https://docs.google.com/document/d/1SmRwx9H1pBgS4Tr2Rjb88NdSit14wQSFS9QEbrqFlGc/edit?tab=t.0"
@@ -34,4 +34,4 @@ areas:
 <p class="apply-cta"><a href="https://docs.google.com/document/d/1SmRwx9H1pBgS4Tr2Rjb88NdSit14wQSFS9QEbrqFlGc/edit?tab=t.0">Apply →</a></p>
 
 ---
-*Posted 2022-01-02 · Listing synced 2026-08-16 · 80k job ID `recdgMmCo8noWHlES`*
+*Posted 2022-01-02 · Listing synced 2026-08-17 · 80k job ID `recdgMmCo8noWHlES`*

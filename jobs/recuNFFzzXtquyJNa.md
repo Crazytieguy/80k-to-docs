@@ -2,7 +2,7 @@
 title: "Volunteers"
 employer: "The Midas Project"
 job_id: "recuNFFzzXtquyJNa"
-last_updated: "2026-08-16T05:34:10.120511Z"
+last_updated: "2026-08-17T05:33:24.925491Z"
 posted_at: "2022-01-06T00:00:00Z"
 status: ready
 apply_url: "https://www.themidasproject.com/volunteer"
@@ -29,4 +29,4 @@ areas:
 <p class="apply-cta"><a href="https://www.themidasproject.com/volunteer">Apply →</a></p>
 
 ---
-*Posted 2022-01-06 · Listing synced 2026-08-16 · 80k job ID `recuNFFzzXtquyJNa`*
+*Posted 2022-01-06 · Listing synced 2026-08-17 · 80k job ID `recuNFFzzXtquyJNa`*

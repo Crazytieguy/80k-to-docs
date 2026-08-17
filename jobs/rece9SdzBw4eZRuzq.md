@@ -2,7 +2,7 @@
 title: "Field Sampler"
 employer: "SecureBio"
 job_id: "rece9SdzBw4eZRuzq"
-last_updated: "2026-08-16T05:34:22.268819Z"
+last_updated: "2026-08-17T05:33:38.161388Z"
 posted_at: "2022-01-04T00:00:00Z"
 status: ready
 apply_url: "https://securebio.org/careers/2025-field-sampler"
@@ -34,4 +34,4 @@ areas:
 <p class="apply-cta"><a href="https://securebio.org/careers/2025-field-sampler">Apply →</a></p>
 
 ---
-*Posted 2022-01-04 · Listing synced 2026-08-16 · 80k job ID `rece9SdzBw4eZRuzq`*
+*Posted 2022-01-04 · Listing synced 2026-08-17 · 80k job ID `rece9SdzBw4eZRuzq`*

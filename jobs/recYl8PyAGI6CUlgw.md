@@ -2,7 +2,7 @@
 title: "Communications and Marketing Associate"
 employer: "ML4Good"
 job_id: "recYl8PyAGI6CUlgw"
-last_updated: "2026-08-16T05:32:58.069946Z"
+last_updated: "2026-08-17T05:32:12.157992Z"
 posted_at: "2026-08-03T00:03:00Z"
 status: ready
 apply_url: "https://ml4good.org/jobs/communications-and-marketing-associate/"
@@ -19,7 +19,7 @@ areas:
 <dt>Role type</dt><dd>Full-time</dd>
 <dt>Experience</dt><dd>Junior (1-4 years experience)</dd>
 <dt>Degree</dt><dd>Undergraduate degree or less</dd>
-<dt>Salary</dt><dd>$34,703 – $44,419</dd>
+<dt>Salary</dt><dd>$34,762 – $44,495</dd>
 </dl>
 
 **Areas & skills:** AI safety & policy, Outreach
@@ -34,4 +34,4 @@ areas:
 <p class="apply-cta"><a href="https://ml4good.org/jobs/communications-and-marketing-associate/">Apply →</a></p>
 
 ---
-*Posted 2026-08-03 · Listing synced 2026-08-16 · 80k job ID `recYl8PyAGI6CUlgw`*
+*Posted 2026-08-03 · Listing synced 2026-08-17 · 80k job ID `recYl8PyAGI6CUlgw`*

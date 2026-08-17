@@ -2,7 +2,7 @@
 title: "Research Resident, AIxBio Threats and Mitigations"
 employer: "RAND Corporation"
 job_id: "recFiFJbPZwHzvHGO"
-last_updated: "2026-08-16T05:33:03.452633Z"
+last_updated: "2026-08-17T05:32:17.989552Z"
 posted_at: "2026-07-31T00:04:13Z"
 status: ready
 apply_url: "https://rand.wd5.myworkdayjobs.com/en-US/External_Career_Site/job/Washington-DC-DC-Metro-Area/Research-Resident--AI---Bio-Threats-and-Mitigations_R3598"
@@ -35,4 +35,4 @@ areas:
 <p class="apply-cta"><a href="https://rand.wd5.myworkdayjobs.com/en-US/External_Career_Site/job/Washington-DC-DC-Metro-Area/Research-Resident--AI---Bio-Threats-and-Mitigations_R3598">Apply →</a></p>
 
 ---
-*Posted 2026-07-31 · Listing synced 2026-08-16 · 80k job ID `recFiFJbPZwHzvHGO`*
+*Posted 2026-07-31 · Listing synced 2026-08-17 · 80k job ID `recFiFJbPZwHzvHGO`*

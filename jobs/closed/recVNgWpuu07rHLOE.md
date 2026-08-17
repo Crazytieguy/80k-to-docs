@@ -4,25 +4,20 @@ employer: "Future Matters"
 job_id: "recVNgWpuu07rHLOE"
 last_updated: "2026-08-16T05:33:07.639523Z"
 posted_at: "2026-07-29T00:01:00Z"
-status: ready
+status: closed
+closed_at: "2026-08-17"
 apply_url: "https://careers.future-matters.org/40653"
 areas:
   - "AI safety & policy"
 ---
 
+> ⚠️ **CLOSED on 2026-08-17** — this job is no longer listed on the 80,000 Hours board. Archived snapshot below.
+
 # Senior Strategist, AI Governance Field Coordination
 
-**[Future Matters](https://future-matters.org/)**
+**Future Matters**
 
-<dl class="job-meta">
-<dt>Location</dt><dd>Washington, DC metro area, San Francisco Bay Area, Remote, USA, USA</dd>
-<dt>Role type</dt><dd>Full-time</dd>
-<dt>Experience</dt><dd>Mid (5-9 years experience)</dd>
-<dt>Degree</dt><dd>Undergraduate degree or less</dd>
-<dt>Salary</dt><dd>$132,675 – $163,190</dd>
-</dl>
-
-**Areas & skills:** AI safety & policy, Policy, Strategy
+**Areas & skills:** AI safety & policy
 
 ## Summary
 - In this role, you'll coordinate the US AI governance field to develop joint strategies and align organizations.

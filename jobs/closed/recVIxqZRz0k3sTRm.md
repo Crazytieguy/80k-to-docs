@@ -4,25 +4,20 @@ employer: "RAND Corporation"
 job_id: "recVIxqZRz0k3sTRm"
 last_updated: "2026-08-16T05:32:39.470704Z"
 posted_at: "2026-08-13T00:05:00Z"
-status: ready
+status: closed
+closed_at: "2026-08-17"
 apply_url: "https://rand.wd5.myworkdayjobs.com/en-US/External_Career_Site/job/Washington-DC-DC-Metro-Area/Visiting-AI-Security-Resident_R3005"
 areas:
   - "AI safety & policy"
 ---
 
+> ⚠️ **CLOSED on 2026-08-17** — this job is no longer listed on the 80,000 Hours board. Archived snapshot below.
+
 # AI Security Resident, Center on AI, Security, and Technology
 
-**[RAND Corporation](https://www.rand.org)**
+**RAND Corporation**
 
-<dl class="job-meta">
-<dt>Location</dt><dd>Washington, DC metro area, Pittsburgh, PA, Los Angeles, CA, Boston metro area, USA, USA (Confirmed Visas)</dd>
-<dt>Role type</dt><dd>Full-time</dd>
-<dt>Experience</dt><dd>Junior (1-4 years experience), Entry-level</dd>
-<dt>Degree</dt><dd>Master's degree</dd>
-<dt>Salary</dt><dd>$121,700 – $268,500</dd>
-</dl>
-
-**Areas & skills:** AI safety & policy, Research, Policy
+**Areas & skills:** AI safety & policy
 
 ## Summary
 - In this role, your work will address key questions related to securing AI systems, understanding their cyber capabilities, and examining their policy implications.

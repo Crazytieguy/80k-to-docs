@@ -4,24 +4,20 @@ employer: "AI Security Bootcamp"
 job_id: "rec9IgJDsSYC1cW9S"
 last_updated: "2026-08-16T05:32:43.573273Z"
 posted_at: "2026-08-11T00:02:00Z"
-status: ready
+status: closed
+closed_at: "2026-08-17"
 apply_url: "https://aisb.dev/sf26/"
 areas:
   - "AI safety & policy"
 ---
 
+> ⚠️ **CLOSED on 2026-08-17** — this job is no longer listed on the 80,000 Hours board. Archived snapshot below.
+
 # AI Security Bootcamp, San Francisco
 
-**[AI Security Bootcamp](https://aisb.dev/)**
+**AI Security Bootcamp**
 
-<dl class="job-meta">
-<dt>Location</dt><dd>San Francisco Bay Area, USA</dd>
-<dt>Role type</dt><dd>Course</dd>
-<dt>Experience</dt><dd>Mid (5-9 years experience)</dd>
-<dt>Degree</dt><dd>Undergraduate degree or less</dd>
-</dl>
-
-**Areas & skills:** AI safety & policy, Software engineering, Information security
+**Areas & skills:** AI safety & policy
 
 ## Summary
 - This course equips security professionals with knowledge and hands-on skills to secure emerging frontier AI systems.

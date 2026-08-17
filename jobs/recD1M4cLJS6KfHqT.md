@@ -2,7 +2,7 @@
 title: "Expression of Interest, Senior Leadership"
 employer: "Goodfire"
 job_id: "recD1M4cLJS6KfHqT"
-last_updated: "2026-08-16T05:34:16.712415Z"
+last_updated: "2026-08-17T05:33:32.183769Z"
 posted_at: "2022-01-05T00:00:00Z"
 status: ready
 apply_url: "https://job-boards.greenhouse.io/goodfire/jobs/4749403008"
@@ -33,4 +33,4 @@ areas:
 <p class="apply-cta"><a href="https://job-boards.greenhouse.io/goodfire/jobs/4749403008">Apply →</a></p>
 
 ---
-*Posted 2022-01-05 · Listing synced 2026-08-16 · 80k job ID `recD1M4cLJS6KfHqT`*
+*Posted 2022-01-05 · Listing synced 2026-08-17 · 80k job ID `recD1M4cLJS6KfHqT`*

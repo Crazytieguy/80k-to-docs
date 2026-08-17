@@ -2,7 +2,7 @@
 title: "APEX Awards"
 employer: "The British Academy"
 job_id: "recYh5fB49VnbkxFB"
-last_updated: "2026-08-16T05:33:29.447823Z"
+last_updated: "2026-08-17T05:32:44.457776Z"
 posted_at: "2026-07-02T00:00:00Z"
 status: ready
 apply_url: "https://www.thebritishacademy.ac.uk/funding/schemes/apex-awards/"
@@ -19,7 +19,7 @@ areas:
 <dt>Role type</dt><dd>Funding</dd>
 <dt>Experience</dt><dd>Multiple experience levels</dd>
 <dt>Degree</dt><dd>Doctoral degree</dd>
-<dt>Salary</dt><dd>$270,651</dd>
+<dt>Salary</dt><dd>$271,093</dd>
 </dl>
 
 **Areas & skills:** Career development: Technical, Research
@@ -33,4 +33,4 @@ areas:
 <p class="apply-cta"><a href="https://www.thebritishacademy.ac.uk/funding/schemes/apex-awards/">Apply →</a></p>
 
 ---
-*Posted 2026-07-02 · Listing synced 2026-08-16 · 80k job ID `recYh5fB49VnbkxFB`*
+*Posted 2026-07-02 · Listing synced 2026-08-17 · 80k job ID `recYh5fB49VnbkxFB`*

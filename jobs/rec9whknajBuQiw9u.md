@@ -2,7 +2,7 @@
 title: "Community Builder (x6)"
 employer: "Network for EA Support and Training"
 job_id: "rec9whknajBuQiw9u"
-last_updated: "2026-08-16T05:32:54.063459Z"
+last_updated: "2026-08-17T05:32:08.095769Z"
 posted_at: "2026-08-05T00:01:00Z"
 status: ready
 apply_url: "https://www.nest-ea.org/careers#:~:text=Careers-,Community%20Builder"
@@ -34,4 +34,4 @@ areas:
 <p class="apply-cta"><a href="https://www.nest-ea.org/careers#:~:text=Careers-,Community%20Builder">Apply →</a></p>
 
 ---
-*Posted 2026-08-05 · Listing synced 2026-08-16 · 80k job ID `rec9whknajBuQiw9u`*
+*Posted 2026-08-05 · Listing synced 2026-08-17 · 80k job ID `rec9whknajBuQiw9u`*

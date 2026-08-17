@@ -4,25 +4,20 @@ employer: "Forethought"
 job_id: "recqsvh9DXtDBKTSl"
 last_updated: "2026-08-16T05:33:04.897453Z"
 posted_at: "2026-07-30T00:04:12Z"
-status: ready
+status: closed
+closed_at: "2026-08-17"
 apply_url: "https://www.forethought.org/careers/operations-associate-manager-q3-2026"
 areas:
   - "AI safety & policy"
 ---
 
+> ⚠️ **CLOSED on 2026-08-17** — this job is no longer listed on the 80,000 Hours board. Archived snapshot below.
+
 # Operations Associate / Manager
 
-**[Forethought](https://www.forethought.org/)**
+**Forethought**
 
-<dl class="job-meta">
-<dt>Location</dt><dd>San Francisco Bay Area, Oxford, UK, UK, USA, USA (Confirmed Visas), UK (Confirmed Visas)</dd>
-<dt>Role type</dt><dd>Full-time</dd>
-<dt>Experience</dt><dd>Junior (1-4 years experience), Entry-level</dd>
-<dt>Degree</dt><dd>Undergraduate degree or less</dd>
-<dt>Salary</dt><dd>$101,494 – $135,325</dd>
-</dl>
-
-**Areas & skills:** AI safety & policy, Operations
+**Areas & skills:** AI safety & policy
 
 ## Summary
 - In this role, you'll build and maintain operational systems to support Forethought's research team across finance, HR, office management, IT, compliance, and events.
