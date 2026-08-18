@@ -4,24 +4,20 @@ employer: "Lucid Computing"
 job_id: "recNnnBYoSIcpgVo8"
 last_updated: "2026-08-17T05:32:13.792238Z"
 posted_at: "2026-08-03T00:00:00Z"
-status: ready
+status: closed
+closed_at: "2026-08-18"
 apply_url: "https://lucidcomputing.ai/careers#hardware-engineer"
 areas:
   - "AI safety & policy"
 ---
 
+> ⚠️ **CLOSED on 2026-08-18** — this job is no longer listed on the 80,000 Hours board. Archived snapshot below.
+
 # Hardware Engineer
 
-**[Lucid Computing](https://lucidcomputing.ai/)**
+**Lucid Computing**
 
-<dl class="job-meta">
-<dt>Location</dt><dd>San Francisco Bay Area, USA</dd>
-<dt>Role type</dt><dd>Full-time</dd>
-<dt>Experience</dt><dd>Junior (1-4 years experience), Mid (5-9 years experience)</dd>
-<dt>Degree</dt><dd>Undergraduate degree or less</dd>
-</dl>
-
-**Areas & skills:** AI safety & policy, Engineering, Software engineering
+**Areas & skills:** AI safety & policy
 
 ## Summary
 - In this role, you'll design verifiable computation pipelines for GPU workloads, proving kernel execution integrity against model specifications.

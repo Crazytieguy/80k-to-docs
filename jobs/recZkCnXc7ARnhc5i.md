@@ -2,7 +2,7 @@
 title: "Short Course, AGI Safety"
 employer: "Google DeepMind"
 job_id: "recZkCnXc7ARnhc5i"
-last_updated: "2026-08-17T05:32:56.960820Z"
+last_updated: "2026-08-18T05:32:52.983679Z"
 posted_at: "2026-06-05T00:00:00Z"
 status: ready
 apply_url: "https://deepmindsafetyresearch.medium.com/introducing-our-short-course-on-agi-safety-1072adb7912c"
@@ -32,4 +32,4 @@ areas:
 <p class="apply-cta"><a href="https://deepmindsafetyresearch.medium.com/introducing-our-short-course-on-agi-safety-1072adb7912c">Apply →</a></p>
 
 ---
-*Posted 2026-06-05 · Listing synced 2026-08-17 · 80k job ID `recZkCnXc7ARnhc5i`*
+*Posted 2026-06-05 · Listing synced 2026-08-18 · 80k job ID `recZkCnXc7ARnhc5i`*

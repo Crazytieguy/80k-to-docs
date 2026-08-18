@@ -2,7 +2,7 @@
 title: "Summer Intern,  Center for China Analysis, Society"
 employer: "Asia Society Policy Institute"
 job_id: "rec8POyXB7RQApAxa"
-last_updated: "2026-08-17T05:33:42.270331Z"
+last_updated: "2026-08-18T05:33:37.475570Z"
 posted_at: "2022-01-02T00:00:00Z"
 status: ready
 apply_url: "https://asiasociety.org/policy-institute/summer-intern-asia-society-policy-institute-center-china-analysis-society"
@@ -34,4 +34,4 @@ areas:
 <p class="apply-cta"><a href="https://asiasociety.org/policy-institute/summer-intern-asia-society-policy-institute-center-china-analysis-society">Apply →</a></p>
 
 ---
-*Posted 2022-01-02 · Listing synced 2026-08-17 · 80k job ID `rec8POyXB7RQApAxa`*
+*Posted 2022-01-02 · Listing synced 2026-08-18 · 80k job ID `rec8POyXB7RQApAxa`*

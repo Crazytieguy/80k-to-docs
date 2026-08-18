@@ -4,25 +4,20 @@ employer: "US Government, Defense Threat Reduction Agency"
 job_id: "rec7JCITDQvgbiqmH"
 last_updated: "2026-08-17T05:32:10.396588Z"
 posted_at: "2026-08-04T00:01:00Z"
-status: ready
+status: closed
+closed_at: "2026-08-18"
 apply_url: "https://www.usajobs.gov/job/878826000"
 areas:
   - "AI safety & policy"
 ---
 
+> ⚠️ **CLOSED on 2026-08-18** — this job is no longer listed on the 80,000 Hours board. Archived snapshot below.
+
 # Computer Scientist, AI Test and Evaluation
 
-**[US Government, Defense Threat Reduction Agency](https://www.dtra.mil/)**
+**US Government, Defense Threat Reduction Agency**
 
-<dl class="job-meta">
-<dt>Location</dt><dd>Fort Belvoir, VA, USA</dd>
-<dt>Role type</dt><dd>Full-time</dd>
-<dt>Experience</dt><dd>Mid (5-9 years experience), Senior (10+ years experience)</dd>
-<dt>Degree</dt><dd>Undergraduate degree or less</dd>
-<dt>Salary</dt><dd>$121,785 – $158,322</dd>
-</dl>
-
-**Areas & skills:** AI safety & policy, Software engineering, Information security
+**Areas & skills:** AI safety & policy
 
 ## Summary
 - In this role, you'll plan and execute test and evaluation of AI/ML systems, defining metrics and verifying they meet performance requirements.

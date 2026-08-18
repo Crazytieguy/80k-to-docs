@@ -4,25 +4,20 @@ employer: "Coefficient Giving"
 job_id: "recRi38paBQPYH7Qh"
 last_updated: "2026-08-17T05:32:17.803659Z"
 posted_at: "2026-07-31T00:04:14Z"
-status: ready
+status: closed
+closed_at: "2026-08-18"
 apply_url: "https://jobs.ashbyhq.com/coefficientgiving/c2f19d86-c6ae-427d-abac-bede35f397c6"
 areas:
   - "Macrostrategy"
 ---
 
+> ⚠️ **CLOSED on 2026-08-18** — this job is no longer listed on the 80,000 Hours board. Archived snapshot below.
+
 # Recruiter
 
-**[Coefficient Giving](https://coefficientgiving.org/)**
+**Coefficient Giving**
 
-<dl class="job-meta">
-<dt>Location</dt><dd>Remote, Global</dd>
-<dt>Role type</dt><dd>Full-time</dd>
-<dt>Experience</dt><dd>Multiple experience levels</dd>
-<dt>Degree</dt><dd>Undergraduate degree or less</dd>
-<dt>Salary</dt><dd>$130,525 – $155,825</dd>
-</dl>
-
-**Areas & skills:** Macrostrategy, Operations
+**Areas & skills:** Macrostrategy
 
 ## Summary
 - In this role, you'll represent Coefficient Giving to candidates and hiring managers, specializing in pipeline development or round management to support rapid organizational growth.

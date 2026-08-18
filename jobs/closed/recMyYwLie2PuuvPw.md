@@ -4,25 +4,20 @@ employer: "Constellation"
 job_id: "recMyYwLie2PuuvPw"
 last_updated: "2026-08-17T05:32:56.305728Z"
 posted_at: "2026-06-05T00:04:45Z"
-status: ready
+status: closed
+closed_at: "2026-08-18"
 apply_url: "https://jobs.gem.com/constellation-institute/am9icG9zdDpITbUcvuXF8QtJEb6eS_hp"
 areas:
   - "AI safety & policy"
 ---
 
+> ⚠️ **CLOSED on 2026-08-18** — this job is no longer listed on the 80,000 Hours board. Archived snapshot below.
+
 # Facilities Coordinator / Facilities Specialist
 
-**[Constellation](https://www.constellation.org/)**
+**Constellation**
 
-<dl class="job-meta">
-<dt>Location</dt><dd>San Francisco Bay Area, USA</dd>
-<dt>Role type</dt><dd>Full-time</dd>
-<dt>Experience</dt><dd>Junior (1-4 years experience), Mid (5-9 years experience)</dd>
-<dt>Degree</dt><dd>Undergraduate degree or less</dd>
-<dt>Salary</dt><dd>$75,000 – $100,000</dd>
-</dl>
-
-**Areas & skills:** AI safety & policy, Operations
+**Areas & skills:** AI safety & policy
 
 ## Summary
 - In this role, you'll maintain day-to-day facilities operations for a collaborative AI safety research workspace.

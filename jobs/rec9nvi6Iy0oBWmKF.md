@@ -2,7 +2,7 @@
 title: "Business Operations Manager"
 employer: "Goodfire"
 job_id: "rec9nvi6Iy0oBWmKF"
-last_updated: "2026-08-17T05:33:19.671486Z"
+last_updated: "2026-08-18T05:33:14.384819Z"
 posted_at: "2022-01-06T00:00:00Z"
 status: ready
 apply_url: "https://job-boards.greenhouse.io/goodfire/jobs/5075058008"
@@ -34,4 +34,4 @@ areas:
 <p class="apply-cta"><a href="https://job-boards.greenhouse.io/goodfire/jobs/5075058008">Apply →</a></p>
 
 ---
-*Posted 2022-01-06 · Listing synced 2026-08-17 · 80k job ID `rec9nvi6Iy0oBWmKF`*
+*Posted 2022-01-06 · Listing synced 2026-08-18 · 80k job ID `rec9nvi6Iy0oBWmKF`*

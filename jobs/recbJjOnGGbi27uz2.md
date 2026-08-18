@@ -2,7 +2,7 @@
 title: "Various Fellowships"
 employer: "Yale University, Yale Law School"
 job_id: "recbJjOnGGbi27uz2"
-last_updated: "2026-08-17T05:33:56.212963Z"
+last_updated: "2026-08-18T05:33:50.903254Z"
 posted_at: "2022-01-01T00:00:00Z"
 status: ready
 apply_url: "https://law.yale.edu/isp/join-us"
@@ -33,4 +33,4 @@ areas:
 <p class="apply-cta"><a href="https://law.yale.edu/isp/join-us">Apply →</a></p>
 
 ---
-*Posted 2022-01-01 · Listing synced 2026-08-17 · 80k job ID `recbJjOnGGbi27uz2`*
+*Posted 2022-01-01 · Listing synced 2026-08-18 · 80k job ID `recbJjOnGGbi27uz2`*

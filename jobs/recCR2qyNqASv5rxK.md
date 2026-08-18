@@ -2,7 +2,7 @@
 title: "Volunteer, Local Group Leader,  Australia"
 employer: "PauseAI"
 job_id: "recCR2qyNqASv5rxK"
-last_updated: "2026-08-17T05:33:23.129158Z"
+last_updated: "2026-08-18T05:33:18.230259Z"
 posted_at: "2022-01-06T00:00:00Z"
 status: ready
 apply_url: "https://docs.google.com/document/d/1KaysDZ1G4mMBS-jh6UDnlU47usiVyYlCJNTwHM6ZLAM/"
@@ -33,4 +33,4 @@ areas:
 <p class="apply-cta"><a href="https://docs.google.com/document/d/1KaysDZ1G4mMBS-jh6UDnlU47usiVyYlCJNTwHM6ZLAM/">Apply →</a></p>
 
 ---
-*Posted 2022-01-06 · Listing synced 2026-08-17 · 80k job ID `recCR2qyNqASv5rxK`*
+*Posted 2022-01-06 · Listing synced 2026-08-18 · 80k job ID `recCR2qyNqASv5rxK`*

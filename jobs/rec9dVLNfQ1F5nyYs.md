@@ -2,7 +2,7 @@
 title: "Intern, Wadhwani AI Center (Fall 2026)"
 employer: "Center for Strategic and International Studies"
 job_id: "rec9dVLNfQ1F5nyYs"
-last_updated: "2026-08-17T05:32:00.315101Z"
+last_updated: "2026-08-18T05:31:59.892152Z"
 posted_at: "2026-08-07T00:01:00Z"
 status: ready
 apply_url: "https://job-boards.greenhouse.io/centerforstrategicandinternationalstudiesinc/jobs/4314713009"
@@ -34,4 +34,4 @@ areas:
 <p class="apply-cta"><a href="https://job-boards.greenhouse.io/centerforstrategicandinternationalstudiesinc/jobs/4314713009">Apply →</a></p>
 
 ---
-*Posted 2026-08-07 · Listing synced 2026-08-17 · 80k job ID `rec9dVLNfQ1F5nyYs`*
+*Posted 2026-08-07 · Listing synced 2026-08-18 · 80k job ID `rec9dVLNfQ1F5nyYs`*

@@ -4,25 +4,20 @@ employer: "OpenAI"
 job_id: "recddCRFGXCPv47Tg"
 last_updated: "2026-08-17T05:33:08.710529Z"
 posted_at: "2022-01-11T00:00:00Z"
-status: ready
+status: closed
+closed_at: "2026-08-18"
 apply_url: "https://openai.com/careers/global-detection-and-response-lead-san-francisco/"
 areas:
   - "AI safety & policy"
 ---
 
+> ⚠️ **CLOSED on 2026-08-18** — this job is no longer listed on the 80,000 Hours board. Archived snapshot below.
+
 # Global Detection and Response Lead
 
-**[OpenAI](https://openai.com/)**
+**OpenAI**
 
-<dl class="job-meta">
-<dt>Location</dt><dd>San Francisco Bay Area, USA</dd>
-<dt>Role type</dt><dd>Full-time</dd>
-<dt>Experience</dt><dd>Senior (10+ years experience)</dd>
-<dt>Degree</dt><dd>Undergraduate degree or less</dd>
-<dt>Salary</dt><dd>$347,000 – $490,000</dd>
-</dl>
-
-**Areas & skills:** AI safety & policy, Information security, Management
+**Areas & skills:** AI safety & policy
 
 ## Summary
 - In this role, you'll own and scale OpenAI's cybersecurity detection and response operations across global infrastructure.

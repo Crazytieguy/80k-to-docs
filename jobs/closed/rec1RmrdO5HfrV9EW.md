@@ -4,24 +4,20 @@ employer: "Pour Demain"
 job_id: "rec1RmrdO5HfrV9EW"
 last_updated: "2026-08-17T05:31:55.436114Z"
 posted_at: "2026-08-11T00:02:00Z"
-status: ready
+status: closed
+closed_at: "2026-08-18"
 apply_url: "https://form.jotform.com/262167068943162"
 areas:
   - "AI safety & policy"
 ---
 
+> ⚠️ **CLOSED on 2026-08-18** — this job is no longer listed on the 80,000 Hours board. Archived snapshot below.
+
 # Advisor / Senior Advisor, AI Safety
 
-**[Pour Demain](https://en.pourdemain.ch/)**
+**Pour Demain**
 
-<dl class="job-meta">
-<dt>Location</dt><dd>Brussels, Belgium, Belgium, Europe (ex UK)</dd>
-<dt>Role type</dt><dd>Full-time</dd>
-<dt>Experience</dt><dd>Multiple experience levels</dd>
-<dt>Degree</dt><dd>Undergraduate degree or less</dd>
-</dl>
-
-**Areas & skills:** AI safety & policy, Research, Policy
+**Areas & skills:** AI safety & policy
 
 ## Summary
 - In this role, you'll advance frontier AI safety policy in Europe through direct policymaker engagement or technical research.

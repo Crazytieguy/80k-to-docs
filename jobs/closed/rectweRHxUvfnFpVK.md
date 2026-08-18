@@ -4,25 +4,20 @@ employer: "ProPublica"
 job_id: "rectweRHxUvfnFpVK"
 last_updated: "2026-08-17T05:32:35.607672Z"
 posted_at: "2026-07-14T00:00:00Z"
-status: ready
+status: closed
+closed_at: "2026-08-18"
 apply_url: "https://job-boards.greenhouse.io/propublica/jobs/4577283006"
 areas:
   - "Career development: Technical"
 ---
 
+> ⚠️ **CLOSED on 2026-08-18** — this job is no longer listed on the 80,000 Hours board. Archived snapshot below.
+
 # Emerging Reporters (2026-2027)
 
-**[ProPublica](https://www.propublica.org/)**
+**ProPublica**
 
-<dl class="job-meta">
-<dt>Location</dt><dd>New York, NY, USA</dd>
-<dt>Role type</dt><dd>Other</dd>
-<dt>Experience</dt><dd>Entry-level</dd>
-<dt>Degree</dt><dd>Undergraduate degree or less</dd>
-<dt>Salary</dt><dd>$9,000</dd>
-</dl>
-
-**Areas & skills:** Career development: Technical, Other
+**Areas & skills:** Career development: Technical
 
 ## Summary
 - In this program, you'll develop your investigative journalism career through year-long mentorship with ProPublica journalists.

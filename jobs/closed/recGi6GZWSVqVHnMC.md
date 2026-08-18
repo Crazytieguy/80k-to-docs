@@ -4,25 +4,20 @@ employer: "AI Alignment Foundation"
 job_id: "recGi6GZWSVqVHnMC"
 last_updated: "2026-08-17T05:32:33.873834Z"
 posted_at: "2026-07-15T00:01:00Z"
-status: ready
+status: closed
+closed_at: "2026-08-18"
 apply_url: "https://www.aialignmentfoundation.org/fellowship"
 areas:
   - "AI safety & policy"
 ---
 
+> ⚠️ **CLOSED on 2026-08-18** — this job is no longer listed on the 80,000 Hours board. Archived snapshot below.
+
 # Research Fellowship
 
-**[AI Alignment Foundation](https://www.aialignmentfoundation.org/)**
+**AI Alignment Foundation**
 
-<dl class="job-meta">
-<dt>Location</dt><dd>Remote, Global</dd>
-<dt>Role type</dt><dd>Fellowship</dd>
-<dt>Experience</dt><dd>Multiple experience levels</dd>
-<dt>Degree</dt><dd>Undergraduate degree or less</dd>
-<dt>Salary</dt><dd>$12,000</dd>
-</dl>
-
-**Areas & skills:** AI safety & policy, Research, Software engineering
+**Areas & skills:** AI safety & policy
 
 ## Summary
 - In this role, you'll conduct independent AI alignment research projects at industry research speed.

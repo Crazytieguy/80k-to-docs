@@ -4,24 +4,20 @@ employer: "Johns Hopkins University, School of Government and Policy"
 job_id: "recIstCWxan36W5x3"
 last_updated: "2026-08-17T05:32:20.889935Z"
 posted_at: "2026-07-30T00:01:00Z"
-status: ready
+status: closed
+closed_at: "2026-08-18"
 apply_url: "https://sogp.jh.edu/agi-governance-fellowship/"
 areas:
   - "AI safety & policy"
 ---
 
+> ⚠️ **CLOSED on 2026-08-18** — this job is no longer listed on the 80,000 Hours board. Archived snapshot below.
+
 # AGI Governance Fellowship
 
-**[Johns Hopkins University, School of Government and Policy](https://sgp.jhu.edu/)**
+**Johns Hopkins University, School of Government and Policy**
 
-<dl class="job-meta">
-<dt>Location</dt><dd>Washington, DC metro area, USA</dd>
-<dt>Role type</dt><dd>Fellowship</dd>
-<dt>Experience</dt><dd>Multiple experience levels</dd>
-<dt>Degree</dt><dd>Undergraduate degree or less</dd>
-</dl>
-
-**Areas & skills:** AI safety & policy, Policy
+**Areas & skills:** AI safety & policy
 
 ## Summary
 - This is a three-week intensive AGI governance fellowship at Johns Hopkins University.

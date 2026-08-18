@@ -2,7 +2,7 @@
 title: "Executive Business Partner"
 employer: "MATS Research"
 job_id: "recQBtQ0HYnAZC1v7"
-last_updated: "2026-08-17T05:32:31.061363Z"
+last_updated: "2026-08-18T05:32:26.740804Z"
 posted_at: "2026-07-20T00:05:00Z"
 status: ready
 apply_url: "https://www.matsprogram.org/careers/executive-business-partner-london"
@@ -19,7 +19,7 @@ areas:
 <dt>Role type</dt><dd>Full-time</dd>
 <dt>Experience</dt><dd>Junior (1-4 years experience), Mid (5-9 years experience)</dd>
 <dt>Degree</dt><dd>Undergraduate degree or less</dd>
-<dt>Salary</dt><dd>$74,551 – $108,437</dd>
+<dt>Salary</dt><dd>$74,463 – $108,310</dd>
 </dl>
 
 **Areas & skills:** AI safety & policy, Operations
@@ -35,4 +35,4 @@ areas:
 <p class="apply-cta"><a href="https://www.matsprogram.org/careers/executive-business-partner-london">Apply →</a></p>
 
 ---
-*Posted 2026-07-20 · Listing synced 2026-08-17 · 80k job ID `recQBtQ0HYnAZC1v7`*
+*Posted 2026-07-20 · Listing synced 2026-08-18 · 80k job ID `recQBtQ0HYnAZC1v7`*

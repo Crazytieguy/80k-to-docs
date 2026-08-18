@@ -2,7 +2,7 @@
 title: "Contract Agents (x40)"
 employer: "European Union, AI Office"
 job_id: "recWxhREhnqdOpqCd"
-last_updated: "2026-08-17T05:31:56.906375Z"
+last_updated: "2026-08-18T05:31:56.747361Z"
 posted_at: "2026-08-10T00:06:00Z"
 status: ready
 apply_url: "https://eu-careers.europa.eu/sites/default/files/eu_vacancies/2026-07/Call%20CNECT%20RL%20AI%202026_2.pdf"
@@ -19,7 +19,7 @@ areas:
 <dt>Role type</dt><dd>Full-time</dd>
 <dt>Experience</dt><dd>Multiple experience levels</dd>
 <dt>Degree</dt><dd>Undergraduate degree or less</dd>
-<dt>Salary</dt><dd>$52,143 – $115,873</dd>
+<dt>Salary</dt><dd>$52,077 – $115,727</dd>
 </dl>
 
 **Areas & skills:** AI safety & policy, Policy, Operations, Software engineering, Legal
@@ -32,4 +32,4 @@ areas:
 <p class="apply-cta"><a href="https://eu-careers.europa.eu/sites/default/files/eu_vacancies/2026-07/Call%20CNECT%20RL%20AI%202026_2.pdf">Apply →</a></p>
 
 ---
-*Posted 2026-08-10 · Listing synced 2026-08-17 · 80k job ID `recWxhREhnqdOpqCd`*
+*Posted 2026-08-10 · Listing synced 2026-08-18 · 80k job ID `recWxhREhnqdOpqCd`*

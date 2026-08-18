@@ -2,7 +2,7 @@
 title: "Student Intern, Machine Learning, Safety, Security and Privacy (Expression of Interest)"
 employer: "Google DeepMind"
 job_id: "recq8pklZPxmyAcMl"
-last_updated: "2026-08-17T05:33:01.038485Z"
+last_updated: "2026-08-18T05:32:56.724137Z"
 posted_at: "2022-01-12T00:00:00Z"
 status: ready
 apply_url: "https://docs.google.com/forms/d/e/1FAIpQLSemEPS7apiFoQiv91EX5cz0GWSUBcUhuiDeKGLwWrHoiJd4nw/viewform"
@@ -30,4 +30,4 @@ areas:
 <p class="apply-cta"><a href="https://docs.google.com/forms/d/e/1FAIpQLSemEPS7apiFoQiv91EX5cz0GWSUBcUhuiDeKGLwWrHoiJd4nw/viewform">Apply →</a></p>
 
 ---
-*Posted 2022-01-12 · Listing synced 2026-08-17 · 80k job ID `recq8pklZPxmyAcMl`*
+*Posted 2022-01-12 · Listing synced 2026-08-18 · 80k job ID `recq8pklZPxmyAcMl`*

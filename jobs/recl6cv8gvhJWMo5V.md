@@ -2,13 +2,13 @@
 title: "Senior Software Engineer, AI Benchmarking"
 employer: "SecureBio"
 job_id: "recl6cv8gvhJWMo5V"
-last_updated: "2026-08-17T05:32:21.616662Z"
+last_updated: "2026-08-18T05:32:17.350889Z"
 posted_at: "2026-07-29T00:04:11Z"
 status: ready
 apply_url: "https://securebio.org/careers/senior-ai-benchmarking"
 areas:
-  - "Biosecurity & pandemic preparedness"
   - "AI safety & policy"
+  - "Biosecurity & pandemic preparedness"
 ---
 
 # Senior Software Engineer, AI Benchmarking
@@ -23,7 +23,7 @@ areas:
 <dt>Salary</dt><dd>$180,000 – $245,000</dd>
 </dl>
 
-**Areas & skills:** Biosecurity & pandemic preparedness, AI safety & policy, Software engineering
+**Areas & skills:** AI safety & policy, Biosecurity & pandemic preparedness, Software engineering
 
 ## Summary
 - In this role, you'll build and scale biosecurity evaluations on frontier AI systems to measure dual-use biology risks and inform safety decisions.
@@ -35,4 +35,4 @@ areas:
 <p class="apply-cta"><a href="https://securebio.org/careers/senior-ai-benchmarking">Apply →</a></p>
 
 ---
-*Posted 2026-07-29 · Listing synced 2026-08-17 · 80k job ID `recl6cv8gvhJWMo5V`*
+*Posted 2026-07-29 · Listing synced 2026-08-18 · 80k job ID `recl6cv8gvhJWMo5V`*

@@ -4,25 +4,20 @@ employer: "Constellation"
 job_id: "recOQU8sd6RLoWx2H"
 last_updated: "2026-08-17T05:32:19.629569Z"
 posted_at: "2026-07-30T00:04:09Z"
-status: ready
+status: closed
+closed_at: "2026-08-18"
 apply_url: "https://jobs.gem.com/constellation-institute/am9icG9zdDrJJHmLEGFVbwFIpU87HfHj"
 areas:
   - "AI safety & policy"
 ---
 
+> ⚠️ **CLOSED on 2026-08-18** — this job is no longer listed on the 80,000 Hours board. Archived snapshot below.
+
 # Program Manager, Talent Mobilization
 
-**[Constellation](https://www.constellation.org/)**
+**Constellation**
 
-<dl class="job-meta">
-<dt>Location</dt><dd>San Francisco Bay Area, USA</dd>
-<dt>Role type</dt><dd>Full-time</dd>
-<dt>Experience</dt><dd>Junior (1-4 years experience), Mid (5-9 years experience)</dd>
-<dt>Degree</dt><dd>Undergraduate degree or less</dd>
-<dt>Salary</dt><dd>$130,000 – $155,000</dd>
-</dl>
-
-**Areas & skills:** AI safety & policy, Operations, Strategy
+**Areas & skills:** AI safety & policy
 
 ## Summary
 - In this role, you'll own programs that place talent into AI safety roles across the ecosystem.

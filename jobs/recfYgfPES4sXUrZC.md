@@ -2,8 +2,8 @@
 title: "Supervised Program for Alignment Research (Fall 2026)"
 employer: "Kairos"
 job_id: "recfYgfPES4sXUrZC"
-last_updated: "2026-08-17T05:32:06.537404Z"
-posted_at: "2026-08-05T00:05:00Z"
+last_updated: "2026-08-18T05:31:48.323886Z"
+posted_at: "2026-08-17T00:00:00Z"
 status: ready
 apply_url: "https://sparai.org/"
 areas:
@@ -33,4 +33,4 @@ areas:
 <p class="apply-cta"><a href="https://sparai.org/">Apply →</a></p>
 
 ---
-*Posted 2026-08-05 · Listing synced 2026-08-17 · 80k job ID `recfYgfPES4sXUrZC`*
+*Posted 2026-08-17 · Listing synced 2026-08-18 · 80k job ID `recfYgfPES4sXUrZC`*

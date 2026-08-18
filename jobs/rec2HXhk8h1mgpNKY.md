@@ -2,7 +2,7 @@
 title: "Technical Staff"
 employer: "Redwood Research"
 job_id: "rec2HXhk8h1mgpNKY"
-last_updated: "2026-08-17T05:33:01.716116Z"
+last_updated: "2026-08-18T05:32:57.364029Z"
 posted_at: "2022-01-12T00:00:00Z"
 status: ready
 apply_url: "https://www.redwoodresearch.org/careers"
@@ -33,4 +33,4 @@ areas:
 <p class="apply-cta"><a href="https://www.redwoodresearch.org/careers">Apply →</a></p>
 
 ---
-*Posted 2022-01-12 · Listing synced 2026-08-17 · 80k job ID `rec2HXhk8h1mgpNKY`*
+*Posted 2022-01-12 · Listing synced 2026-08-18 · 80k job ID `rec2HXhk8h1mgpNKY`*

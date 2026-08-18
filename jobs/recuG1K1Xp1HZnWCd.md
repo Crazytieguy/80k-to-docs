@@ -2,7 +2,7 @@
 title: "Expression of Interest"
 employer: "China AI Safety and Development Association"
 job_id: "recuG1K1Xp1HZnWCd"
-last_updated: "2026-08-17T05:33:30.024469Z"
+last_updated: "2026-08-18T05:33:24.807624Z"
 posted_at: "2022-01-05T00:00:00Z"
 status: ready
 apply_url: "https://cnaisi.cn/jrwm"
@@ -29,4 +29,4 @@ areas:
 <p class="apply-cta"><a href="https://cnaisi.cn/jrwm">Apply →</a></p>
 
 ---
-*Posted 2022-01-05 · Listing synced 2026-08-17 · 80k job ID `recuG1K1Xp1HZnWCd`*
+*Posted 2022-01-05 · Listing synced 2026-08-18 · 80k job ID `recuG1K1Xp1HZnWCd`*
