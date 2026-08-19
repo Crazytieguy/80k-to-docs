@@ -2,7 +2,7 @@
 title: "Senior Research Lead, AI Security Portfolio"
 employer: "RAND Corporation"
 job_id: "recf6BakhYNqruuGw"
-last_updated: "2026-08-18T05:33:30.785916Z"
+last_updated: "2026-08-19T05:33:39.528210Z"
 posted_at: "2022-01-05T00:00:00Z"
 status: ready
 apply_url: "https://rand.wd5.myworkdayjobs.com/en-US/External_Career_Site/job/San-Francisco-CA/Senior-Research-Lead---AI-Security-Portfolio_R3464-1"
@@ -22,7 +22,7 @@ areas:
 <dt>Salary</dt><dd>$167,300 – $261,400</dd>
 </dl>
 
-**Areas & skills:** AI safety & policy, Research, Information security, Management, Strategy
+**Areas & skills:** AI safety & policy, Research, Strategy, Management, Information security
 
 ## Summary
 - In this role, you'll lead RAND's research portfolio focused on securing advanced AI systems, understanding cyber capabilities, and shaping policy frameworks.
@@ -34,4 +34,4 @@ areas:
 <p class="apply-cta"><a href="https://rand.wd5.myworkdayjobs.com/en-US/External_Career_Site/job/San-Francisco-CA/Senior-Research-Lead---AI-Security-Portfolio_R3464-1">Apply →</a></p>
 
 ---
-*Posted 2022-01-05 · Listing synced 2026-08-18 · 80k job ID `recf6BakhYNqruuGw`*
+*Posted 2022-01-05 · Listing synced 2026-08-19 · 80k job ID `recf6BakhYNqruuGw`*

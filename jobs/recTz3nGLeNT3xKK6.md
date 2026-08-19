@@ -2,7 +2,7 @@
 title: "Member of Technical Staff"
 employer: "CivAI"
 job_id: "recTz3nGLeNT3xKK6"
-last_updated: "2026-08-18T05:33:13.202909Z"
+last_updated: "2026-08-19T05:33:22.390341Z"
 posted_at: "2022-01-06T00:00:00Z"
 status: ready
 apply_url: "https://civai.org/jobs/member-of-technical-staff"
@@ -34,4 +34,4 @@ areas:
 <p class="apply-cta"><a href="https://civai.org/jobs/member-of-technical-staff">Apply →</a></p>
 
 ---
-*Posted 2022-01-06 · Listing synced 2026-08-18 · 80k job ID `recTz3nGLeNT3xKK6`*
+*Posted 2022-01-06 · Listing synced 2026-08-19 · 80k job ID `recTz3nGLeNT3xKK6`*

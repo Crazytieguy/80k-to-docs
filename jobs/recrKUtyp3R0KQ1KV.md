@@ -2,7 +2,7 @@
 title: "Data Reporting Analyst, Artificial Intelligence Safety Reporting Program"
 employer: "Government of California, Office of Emergency Services"
 job_id: "recrKUtyp3R0KQ1KV"
-last_updated: "2026-08-18T05:31:49.578800Z"
+last_updated: "2026-08-19T05:31:58.338586Z"
 posted_at: "2026-08-14T00:04:00Z"
 status: ready
 apply_url: "https://calcareers.ca.gov/CalHrPublic/Jobs/JobPosting.aspx?JobControlId=527825"
@@ -35,4 +35,4 @@ areas:
 <p class="apply-cta"><a href="https://calcareers.ca.gov/CalHrPublic/Jobs/JobPosting.aspx?JobControlId=527825">Apply →</a></p>
 
 ---
-*Posted 2026-08-14 · Listing synced 2026-08-18 · 80k job ID `recrKUtyp3R0KQ1KV`*
+*Posted 2026-08-14 · Listing synced 2026-08-19 · 80k job ID `recrKUtyp3R0KQ1KV`*

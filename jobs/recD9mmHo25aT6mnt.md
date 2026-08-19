@@ -2,7 +2,7 @@
 title: "Temporary US Corporate Relations Specialist"
 employer: "The Humane League"
 job_id: "recD9mmHo25aT6mnt"
-last_updated: "2026-08-18T05:32:10.815498Z"
+last_updated: "2026-08-19T05:32:20.275901Z"
 posted_at: "2026-08-03T00:00:00Z"
 status: ready
 apply_url: "https://thehumaneleague.org/single-offer-career?gh_jid=8071492"
@@ -34,4 +34,4 @@ areas:
 <p class="apply-cta"><a href="https://thehumaneleague.org/single-offer-career?gh_jid=8071492">Apply →</a></p>
 
 ---
-*Posted 2026-08-03 · Listing synced 2026-08-18 · 80k job ID `recD9mmHo25aT6mnt`*
+*Posted 2026-08-03 · Listing synced 2026-08-19 · 80k job ID `recD9mmHo25aT6mnt`*

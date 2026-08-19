@@ -2,7 +2,7 @@
 title: "Internships"
 employer: "Institute of Peace and Conflict Studies"
 job_id: "recDF2VDEZJIiBkqx"
-last_updated: "2026-08-18T05:33:41.795119Z"
+last_updated: "2026-08-19T05:33:50.444693Z"
 posted_at: "2022-01-02T00:00:00Z"
 status: ready
 apply_url: "https://www.ipcs.org/work_with_us.php"
@@ -33,4 +33,4 @@ areas:
 <p class="apply-cta"><a href="https://www.ipcs.org/work_with_us.php">Apply →</a></p>
 
 ---
-*Posted 2022-01-02 · Listing synced 2026-08-18 · 80k job ID `recDF2VDEZJIiBkqx`*
+*Posted 2022-01-02 · Listing synced 2026-08-19 · 80k job ID `recDF2VDEZJIiBkqx`*

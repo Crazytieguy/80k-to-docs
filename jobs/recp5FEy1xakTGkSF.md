@@ -2,7 +2,7 @@
 title: "AI Civic Action Accelerator"
 employer: "Aspen Institute"
 job_id: "recp5FEy1xakTGkSF"
-last_updated: "2026-08-18T05:32:21.149433Z"
+last_updated: "2026-08-19T05:32:31.023564Z"
 posted_at: "2026-07-27T00:00:00Z"
 status: ready
 apply_url: "https://aspenpolicyacademy.org/program/ai-civic-action-accelerator/"
@@ -32,4 +32,4 @@ areas:
 <p class="apply-cta"><a href="https://aspenpolicyacademy.org/program/ai-civic-action-accelerator/">Apply →</a></p>
 
 ---
-*Posted 2026-07-27 · Listing synced 2026-08-18 · 80k job ID `recp5FEy1xakTGkSF`*
+*Posted 2026-07-27 · Listing synced 2026-08-19 · 80k job ID `recp5FEy1xakTGkSF`*

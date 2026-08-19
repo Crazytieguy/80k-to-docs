@@ -2,7 +2,7 @@
 title: "Member of Technical Staff, AI Digest"
 employer: "Sage"
 job_id: "receat4uE1uXa92N4"
-last_updated: "2026-08-18T05:33:18.567993Z"
+last_updated: "2026-08-19T05:33:28.019943Z"
 posted_at: "2022-01-06T00:00:00Z"
 status: ready
 apply_url: "https://theaidigest.org/hiring"
@@ -34,4 +34,4 @@ areas:
 <p class="apply-cta"><a href="https://theaidigest.org/hiring">Apply →</a></p>
 
 ---
-*Posted 2022-01-06 · Listing synced 2026-08-18 · 80k job ID `receat4uE1uXa92N4`*
+*Posted 2022-01-06 · Listing synced 2026-08-19 · 80k job ID `receat4uE1uXa92N4`*

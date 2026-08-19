@@ -2,7 +2,7 @@
 title: "Grant and Finance Associate"
 employer: "University of Chicago, Development Innovation Lab"
 job_id: "recLwbZIK8nhAmfh1"
-last_updated: "2026-08-18T05:32:23.918860Z"
+last_updated: "2026-08-19T05:32:33.893554Z"
 posted_at: "2026-07-23T00:00:00Z"
 status: ready
 apply_url: "https://uchicago.wd5.myworkdayjobs.com/External/job/Chicago-IL/Grant---Finance-Associate_JR34498"
@@ -34,4 +34,4 @@ areas:
 <p class="apply-cta"><a href="https://uchicago.wd5.myworkdayjobs.com/External/job/Chicago-IL/Grant---Finance-Associate_JR34498">Apply →</a></p>
 
 ---
-*Posted 2026-07-23 · Listing synced 2026-08-18 · 80k job ID `recLwbZIK8nhAmfh1`*
+*Posted 2026-07-23 · Listing synced 2026-08-19 · 80k job ID `recLwbZIK8nhAmfh1`*

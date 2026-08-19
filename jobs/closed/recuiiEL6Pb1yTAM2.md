@@ -4,24 +4,20 @@ employer: "Johannes Gutenberg University Mainz"
 job_id: "recuiiEL6Pb1yTAM2"
 last_updated: "2026-08-18T05:31:52.859231Z"
 posted_at: "2026-08-13T00:00:00Z"
-status: ready
+status: closed
+closed_at: "2026-08-19"
 apply_url: "https://stellenboerse.uni-mainz.de/jgu/job/56819"
 areas:
   - "AI safety & policy"
 ---
 
+> ⚠️ **CLOSED on 2026-08-19** — this job is no longer listed on the 80,000 Hours board. Archived snapshot below.
+
 # PhD Student, Explainable Artificial Intelligence
 
-**[Johannes Gutenberg University Mainz](https://www.uni-mainz.de/en/)**
+**Johannes Gutenberg University Mainz**
 
-<dl class="job-meta">
-<dt>Location</dt><dd>Mainz, Germany, Germany, Europe (ex UK)</dd>
-<dt>Role type</dt><dd>Other</dd>
-<dt>Experience</dt><dd>Entry-level</dd>
-<dt>Degree</dt><dd>Master's degree</dd>
-</dl>
-
-**Areas & skills:** AI safety & policy, Research
+**Areas & skills:** AI safety & policy
 
 ## Summary
 - In this role, you'll conduct independent research in Explainable Artificial Intelligence to obtain a doctorate through development and evaluation of XAI methods.

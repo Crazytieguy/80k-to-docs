@@ -2,7 +2,7 @@
 title: "Security Engineer, Detection and Response, UK"
 employer: "OpenAI"
 job_id: "recS5DsB1UcC9muwB"
-last_updated: "2026-08-18T05:33:02.284625Z"
+last_updated: "2026-08-19T05:33:10.179834Z"
 posted_at: "2022-01-11T00:00:00Z"
 status: ready
 apply_url: "https://openai.com/careers/security-engineer-detection-and-response-sydney-australia/"
@@ -15,7 +15,7 @@ areas:
 **[OpenAI](https://openai.com/)**
 
 <dl class="job-meta">
-<dt>Location</dt><dd>Singapore, Singapore, Sydney, Australia, Tokyo, Japan, Singapore, Australia, Asia, Oceania, Japan</dd>
+<dt>Location</dt><dd>Sydney, Australia, Tokyo, Japan, Singapore, Singapore, Singapore, Australia, Asia, Oceania, Japan</dd>
 <dt>Role type</dt><dd>Full-time</dd>
 <dt>Experience</dt><dd>Mid (5-9 years experience)</dd>
 <dt>Degree</dt><dd>Undergraduate degree or less</dd>
@@ -34,4 +34,4 @@ areas:
 <p class="apply-cta"><a href="https://openai.com/careers/security-engineer-detection-and-response-sydney-australia/">Apply →</a></p>
 
 ---
-*Posted 2022-01-11 · Listing synced 2026-08-18 · 80k job ID `recS5DsB1UcC9muwB`*
+*Posted 2022-01-11 · Listing synced 2026-08-19 · 80k job ID `recS5DsB1UcC9muwB`*

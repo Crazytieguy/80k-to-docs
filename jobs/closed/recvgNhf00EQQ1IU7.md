@@ -4,24 +4,20 @@ employer: "Google DeepMind"
 job_id: "recvgNhf00EQQ1IU7"
 last_updated: "2026-08-18T05:32:28.743934Z"
 posted_at: "2026-07-17T00:00:00Z"
-status: ready
+status: closed
+closed_at: "2026-08-19"
 apply_url: "https://www.google.com/about/careers/applications/jobs/results/98478468739539654-uk-and-europe-national-security-lead-deepmind?q=%22responsible+ai%22&has_remote=false&distance=50&hl=en_US&jlo=en_US"
 areas:
   - "AI safety & policy"
 ---
 
+> ⚠️ **CLOSED on 2026-08-19** — this job is no longer listed on the 80,000 Hours board. Archived snapshot below.
+
 # National Security Lead, UK and Europe
 
-**[Google DeepMind](https://www.deepmind.com)**
+**Google DeepMind**
 
-<dl class="job-meta">
-<dt>Location</dt><dd>London, UK, UK</dd>
-<dt>Role type</dt><dd>Full-time</dd>
-<dt>Experience</dt><dd>Mid (5-9 years experience)</dd>
-<dt>Degree</dt><dd>Undergraduate degree or less</dd>
-</dl>
-
-**Areas & skills:** AI safety & policy, Policy, Strategy
+**Areas & skills:** AI safety & policy
 
 ## Summary
 - In this role, you'll lead DeepMind's UK and European national security strategy, serving as primary liaison with national security and defence bodies.

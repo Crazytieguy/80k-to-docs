@@ -2,7 +2,7 @@
 title: "Researcher"
 employer: "Augur"
 job_id: "recJmw5CBbRGCW1PJ"
-last_updated: "2026-08-18T05:32:08.250350Z"
+last_updated: "2026-08-19T05:32:17.808927Z"
 posted_at: "2026-08-04T00:00:00Z"
 status: ready
 apply_url: "https://jobs.ashbyhq.com/augurai/f0adbe08-75cb-4c04-905b-203ebea57708"
@@ -34,4 +34,4 @@ areas:
 <p class="apply-cta"><a href="https://jobs.ashbyhq.com/augurai/f0adbe08-75cb-4c04-905b-203ebea57708">Apply →</a></p>
 
 ---
-*Posted 2026-08-04 · Listing synced 2026-08-18 · 80k job ID `recJmw5CBbRGCW1PJ`*
+*Posted 2026-08-04 · Listing synced 2026-08-19 · 80k job ID `recJmw5CBbRGCW1PJ`*

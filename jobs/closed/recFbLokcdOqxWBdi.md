@@ -4,25 +4,20 @@ employer: "Carnegie Endowment for International Peace"
 job_id: "recFbLokcdOqxWBdi"
 last_updated: "2026-08-18T05:31:52.036293Z"
 posted_at: "2026-08-13T00:01:00Z"
-status: ready
+status: closed
+closed_at: "2026-08-19"
 apply_url: "https://carnegieendowment.applicantpro.com/jobs/4169113"
 areas:
   - "Nuclear security"
 ---
 
+> ⚠️ **CLOSED on 2026-08-19** — this job is no longer listed on the 80,000 Hours board. Archived snapshot below.
+
 # Research Assistant, Nuclear Policy Program
 
-**[Carnegie Endowment for International Peace](https://www.carnegieendowment.org)**
+**Carnegie Endowment for International Peace**
 
-<dl class="job-meta">
-<dt>Location</dt><dd>Washington, DC metro area, USA</dd>
-<dt>Role type</dt><dd>Full-time</dd>
-<dt>Experience</dt><dd>Junior (1-4 years experience)</dd>
-<dt>Degree</dt><dd>Undergraduate degree or less</dd>
-<dt>Salary</dt><dd>$50,000 – $52,000</dd>
-</dl>
-
-**Areas & skills:** Nuclear security, Research, Policy
+**Areas & skills:** Nuclear security
 
 ## Summary
 - In this role, you'll support the research of world-leading scholars on nuclear policy topics including deterrence, arms control, and nonproliferation.

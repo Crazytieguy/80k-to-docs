@@ -4,25 +4,20 @@ employer: "Pure Earth"
 job_id: "recT5AL8TDWKvbPHN"
 last_updated: "2026-08-18T05:32:50.186704Z"
 posted_at: "2026-06-10T00:00:00Z"
-status: ready
+status: closed
+closed_at: "2026-08-19"
 apply_url: "https://www.pureearth.org/wp-content/uploads/2026/06/JD-Social-Media-Video-Intern.pdf"
 areas:
   - "Global health & development"
 ---
 
+> ⚠️ **CLOSED on 2026-08-19** — this job is no longer listed on the 80,000 Hours board. Archived snapshot below.
+
 # Intern, Social Media Video
 
-**[Pure Earth](https://www.pureearth.org/)**
+**Pure Earth**
 
-<dl class="job-meta">
-<dt>Location</dt><dd>New York, NY, USA</dd>
-<dt>Role type</dt><dd>Internship</dd>
-<dt>Experience</dt><dd>Entry-level</dd>
-<dt>Degree</dt><dd>Undergraduate degree or less</dd>
-<dt>Salary</dt><dd>$41,600</dd>
-</dl>
-
-**Areas & skills:** Global health & development, Outreach
+**Areas & skills:** Global health & development
 
 ## Summary
 - In this role, you'll produce and edit short-form video content for Pure Earth's social media platforms.

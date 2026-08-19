@@ -4,24 +4,20 @@ employer: "European Union, Centre for Disease Prevention and Control"
 job_id: "rec4PIfhAEmR0jE1k"
 last_updated: "2026-08-18T05:32:39.002285Z"
 posted_at: "2026-07-03T00:00:00Z"
-status: ready
+status: closed
+closed_at: "2026-08-19"
 apply_url: "https://erecruitment.ecdc.europa.eu/en/our-vacancies/principal-expert-group-leader-emergency-preparedness-and-response-175"
 areas:
   - "Biosecurity & pandemic preparedness"
 ---
 
+> ⚠️ **CLOSED on 2026-08-19** — this job is no longer listed on the 80,000 Hours board. Archived snapshot below.
+
 # Principal Expert / Group Leader, Emergency Preparedness and Response
 
-**[European Union, Centre for Disease Prevention and Control](https://www.ecdc.europa.eu/en/home)**
+**European Union, Centre for Disease Prevention and Control**
 
-<dl class="job-meta">
-<dt>Location</dt><dd>Stockholm, Sweden, Sweden, Europe (ex UK)</dd>
-<dt>Role type</dt><dd>Full-time</dd>
-<dt>Experience</dt><dd>Senior (10+ years experience)</dd>
-<dt>Degree</dt><dd>Undergraduate degree or less</dd>
-</dl>
-
-**Areas & skills:** Biosecurity & pandemic preparedness, Policy, Management
+**Areas & skills:** Biosecurity & pandemic preparedness
 
 ## Summary
 - In this role, you'll lead ECDC's emergency preparedness and response group, providing expert guidance on public health crisis management.

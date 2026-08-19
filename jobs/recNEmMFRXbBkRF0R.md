@@ -2,7 +2,7 @@
 title: "Founding Engineer"
 employer: "Asymmetric Security"
 job_id: "recNEmMFRXbBkRF0R"
-last_updated: "2026-08-18T05:33:23.735853Z"
+last_updated: "2026-08-19T05:33:33.221366Z"
 posted_at: "2022-01-05T00:00:00Z"
 status: ready
 apply_url: "https://www.asymmetricsecurity.com/careers-listing/founding-engineer"
@@ -15,7 +15,7 @@ areas:
 **[Asymmetric Security](https://www.asymmetricsecurity.com/)**
 
 <dl class="job-meta">
-<dt>Location</dt><dd>London, UK, San Francisco Bay Area, New York, NY, UK, USA</dd>
+<dt>Location</dt><dd>London, UK, New York, NY, San Francisco Bay Area, UK, USA</dd>
 <dt>Role type</dt><dd>Full-time</dd>
 <dt>Experience</dt><dd>Mid (5-9 years experience)</dd>
 <dt>Degree</dt><dd>Undergraduate degree or less</dd>
@@ -33,4 +33,4 @@ areas:
 <p class="apply-cta"><a href="https://www.asymmetricsecurity.com/careers-listing/founding-engineer">Apply →</a></p>
 
 ---
-*Posted 2022-01-05 · Listing synced 2026-08-18 · 80k job ID `recNEmMFRXbBkRF0R`*
+*Posted 2022-01-05 · Listing synced 2026-08-19 · 80k job ID `recNEmMFRXbBkRF0R`*

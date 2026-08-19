@@ -2,7 +2,7 @@
 title: "Finance Specialist"
 employer: "Principles of Intelligence"
 job_id: "recLYwAOEA8oFWAQP"
-last_updated: "2026-08-18T05:32:42.582136Z"
+last_updated: "2026-08-19T05:32:50.864200Z"
 posted_at: "2026-06-29T00:01:00Z"
 status: ready
 apply_url: "https://princint.ai/now-hiring-finance-specialist-at-principles-of-intelligence/"
@@ -34,4 +34,4 @@ areas:
 <p class="apply-cta"><a href="https://princint.ai/now-hiring-finance-specialist-at-principles-of-intelligence/">Apply →</a></p>
 
 ---
-*Posted 2026-06-29 · Listing synced 2026-08-18 · 80k job ID `recLYwAOEA8oFWAQP`*
+*Posted 2026-06-29 · Listing synced 2026-08-19 · 80k job ID `recLYwAOEA8oFWAQP`*

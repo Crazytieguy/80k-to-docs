@@ -2,7 +2,7 @@
 title: "Research Associate, Geoeconomics"
 employer: "Council on Foreign Relations"
 job_id: "recUpif448CYod6VX"
-last_updated: "2026-08-18T05:31:55.570582Z"
+last_updated: "2026-08-19T05:32:04.238187Z"
 posted_at: "2026-08-11T00:00:00Z"
 status: ready
 apply_url: "https://careers-cfr.icims.com/jobs/2997/research-associate%2c-geoeconomics/job?in_iframe=1"
@@ -34,4 +34,4 @@ areas:
 <p class="apply-cta"><a href="https://careers-cfr.icims.com/jobs/2997/research-associate%2c-geoeconomics/job?in_iframe=1">Apply →</a></p>
 
 ---
-*Posted 2026-08-11 · Listing synced 2026-08-18 · 80k job ID `recUpif448CYod6VX`*
+*Posted 2026-08-11 · Listing synced 2026-08-19 · 80k job ID `recUpif448CYod6VX`*

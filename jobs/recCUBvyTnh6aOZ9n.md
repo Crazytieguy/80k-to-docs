@@ -2,7 +2,7 @@
 title: "Team Member, Model Policy"
 employer: "OpenAI"
 job_id: "recCUBvyTnh6aOZ9n"
-last_updated: "2026-08-18T05:33:04.334235Z"
+last_updated: "2026-08-19T05:33:12.367294Z"
 posted_at: "2022-01-11T00:00:00Z"
 status: ready
 apply_url: "https://openai.com/careers/model-policy-san-francisco/"
@@ -34,4 +34,4 @@ areas:
 <p class="apply-cta"><a href="https://openai.com/careers/model-policy-san-francisco/">Apply →</a></p>
 
 ---
-*Posted 2022-01-11 · Listing synced 2026-08-18 · 80k job ID `recCUBvyTnh6aOZ9n`*
+*Posted 2022-01-11 · Listing synced 2026-08-19 · 80k job ID `recCUBvyTnh6aOZ9n`*

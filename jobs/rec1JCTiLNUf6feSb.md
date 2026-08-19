@@ -2,7 +2,7 @@
 title: "Expression of Interest, Red Team"
 employer: "UK Government, AI Security Institute"
 job_id: "rec1JCTiLNUf6feSb"
-last_updated: "2026-08-18T05:33:32.096469Z"
+last_updated: "2026-08-19T05:33:40.831087Z"
 posted_at: "2022-01-05T00:00:00Z"
 status: ready
 apply_url: "https://job-boards.eu.greenhouse.io/aisi/jobs/4875305101"
@@ -19,7 +19,7 @@ areas:
 <dt>Role type</dt><dd>Full-time</dd>
 <dt>Experience</dt><dd>Multiple experience levels</dd>
 <dt>Degree</dt><dd>Undergraduate degree or less</dd>
-<dt>Salary</dt><dd>$88,002 – $196,311</dd>
+<dt>Salary</dt><dd>$88,020 – $196,352</dd>
 </dl>
 
 **Areas & skills:** AI safety & policy, Research, Software engineering, Information security
@@ -34,4 +34,4 @@ areas:
 <p class="apply-cta"><a href="https://job-boards.eu.greenhouse.io/aisi/jobs/4875305101">Apply →</a></p>
 
 ---
-*Posted 2022-01-05 · Listing synced 2026-08-18 · 80k job ID `rec1JCTiLNUf6feSb`*
+*Posted 2022-01-05 · Listing synced 2026-08-19 · 80k job ID `rec1JCTiLNUf6feSb`*

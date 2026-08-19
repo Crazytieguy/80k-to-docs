@@ -2,7 +2,7 @@
 title: "Engineering Fellow"
 employer: "Syntony"
 job_id: "recXnFHKeigNeREgz"
-last_updated: "2026-08-18T05:32:34.151721Z"
+last_updated: "2026-08-19T05:32:42.625304Z"
 posted_at: "2026-07-10T00:00:00Z"
 status: ready
 apply_url: "https://www.syntonyresearch.ai/work/engineering-fellowship/"
@@ -33,4 +33,4 @@ areas:
 <p class="apply-cta"><a href="https://www.syntonyresearch.ai/work/engineering-fellowship/">Apply →</a></p>
 
 ---
-*Posted 2026-07-10 · Listing synced 2026-08-18 · 80k job ID `recXnFHKeigNeREgz`*
+*Posted 2026-07-10 · Listing synced 2026-08-19 · 80k job ID `recXnFHKeigNeREgz`*

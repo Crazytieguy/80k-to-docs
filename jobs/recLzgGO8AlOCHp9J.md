@@ -2,7 +2,7 @@
 title: "Research Scientist"
 employer: "Massachusetts Institute of Technology, Computer Science and Artificial Intelligence Laboratory"
 job_id: "recLzgGO8AlOCHp9J"
-last_updated: "2026-08-18T05:32:47.759931Z"
+last_updated: "2026-08-19T05:32:55.469892Z"
 posted_at: "2026-06-12T00:00:00Z"
 status: ready
 apply_url: "https://careers.peopleclick.com/careerscp/client_mit/external/en-us/gateway/viewFromLink.html?jobPostId=34191&localeCode=en-us"
@@ -34,4 +34,4 @@ areas:
 <p class="apply-cta"><a href="https://careers.peopleclick.com/careerscp/client_mit/external/en-us/gateway/viewFromLink.html?jobPostId=34191&amp;localeCode=en-us">Apply →</a></p>
 
 ---
-*Posted 2026-06-12 · Listing synced 2026-08-18 · 80k job ID `recLzgGO8AlOCHp9J`*
+*Posted 2026-06-12 · Listing synced 2026-08-19 · 80k job ID `recLzgGO8AlOCHp9J`*

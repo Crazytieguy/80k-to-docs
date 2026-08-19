@@ -2,7 +2,7 @@
 title: "Automation Lead"
 employer: "Alignment Research Center"
 job_id: "reckyPwxbeVng1ojr"
-last_updated: "2026-08-18T05:32:05.219426Z"
+last_updated: "2026-08-19T05:32:13.503206Z"
 posted_at: "2026-08-05T00:04:00Z"
 status: ready
 apply_url: "https://jobs.lever.co/alignment.org/84a0dfab-62ee-4576-81cb-ff91a7c2b9cc"
@@ -34,4 +34,4 @@ areas:
 <p class="apply-cta"><a href="https://jobs.lever.co/alignment.org/84a0dfab-62ee-4576-81cb-ff91a7c2b9cc">Apply →</a></p>
 
 ---
-*Posted 2026-08-05 · Listing synced 2026-08-18 · 80k job ID `reckyPwxbeVng1ojr`*
+*Posted 2026-08-05 · Listing synced 2026-08-19 · 80k job ID `reckyPwxbeVng1ojr`*

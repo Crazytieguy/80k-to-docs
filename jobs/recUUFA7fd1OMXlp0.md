@@ -2,7 +2,7 @@
 title: "Expression of Interest"
 employer: "AI Futures Project"
 job_id: "recUUFA7fd1OMXlp0"
-last_updated: "2026-08-18T05:33:22.657175Z"
+last_updated: "2026-08-19T05:33:32.080227Z"
 posted_at: "2022-01-05T00:00:00Z"
 status: ready
 apply_url: "https://docs.google.com/document/d/1r5YKOUi6gMUZoZvAEh0tHbbHM9RKYk6ONEkw_Tpizb0/preview?tab=t.0"
@@ -22,7 +22,7 @@ areas:
 <dt>Salary</dt><dd>$120,000 – $200,000</dd>
 </dl>
 
-**Areas & skills:** AI safety & policy, Research, Policy, Operations, Strategy
+**Areas & skills:** AI safety & policy, Policy, Research, Strategy, Operations
 
 ## Summary
 - Express interest in working with the AI Futures Project.
@@ -31,4 +31,4 @@ areas:
 <p class="apply-cta"><a href="https://docs.google.com/document/d/1r5YKOUi6gMUZoZvAEh0tHbbHM9RKYk6ONEkw_Tpizb0/preview?tab=t.0">Apply →</a></p>
 
 ---
-*Posted 2022-01-05 · Listing synced 2026-08-18 · 80k job ID `recUUFA7fd1OMXlp0`*
+*Posted 2022-01-05 · Listing synced 2026-08-19 · 80k job ID `recUUFA7fd1OMXlp0`*

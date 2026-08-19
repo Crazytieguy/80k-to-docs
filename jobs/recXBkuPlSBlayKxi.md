@@ -2,7 +2,7 @@
 title: "Tech Policy Strategist, AI for Democracy Action Lab"
 employer: "Protect Democracy"
 job_id: "recXBkuPlSBlayKxi"
-last_updated: "2026-08-18T05:33:49.019845Z"
+last_updated: "2026-08-19T05:33:57.755684Z"
 posted_at: "2022-01-01T00:00:00Z"
 status: ready
 apply_url: "https://protectdemocracy.recruitee.com/o/tech-policy-strategist-ai-for-democracy-action-lab"
@@ -33,4 +33,4 @@ areas:
 <p class="apply-cta"><a href="https://protectdemocracy.recruitee.com/o/tech-policy-strategist-ai-for-democracy-action-lab">Apply →</a></p>
 
 ---
-*Posted 2022-01-01 · Listing synced 2026-08-18 · 80k job ID `recXBkuPlSBlayKxi`*
+*Posted 2022-01-01 · Listing synced 2026-08-19 · 80k job ID `recXBkuPlSBlayKxi`*

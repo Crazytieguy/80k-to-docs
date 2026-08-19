@@ -4,25 +4,20 @@ employer: "Amodo Design"
 job_id: "recvyKkRgSrRVab42"
 last_updated: "2026-08-18T05:33:34.039691Z"
 posted_at: "2022-01-03T00:00:00Z"
-status: ready
+status: closed
+closed_at: "2026-08-19"
 apply_url: "https://amododesign.com/career/biosec-lead/"
 areas:
   - "Biosecurity & pandemic preparedness"
 ---
 
+> ⚠️ **CLOSED on 2026-08-19** — this job is no longer listed on the 80,000 Hours board. Archived snapshot below.
+
 # Field Lead, Biosecurity
 
-**[Amodo Design](https://amododesign.com/)**
+**Amodo Design**
 
-<dl class="job-meta">
-<dt>Location</dt><dd>Remote, UK, Sheffield, UK, UK</dd>
-<dt>Role type</dt><dd>Full-time</dd>
-<dt>Experience</dt><dd>Mid (5-9 years experience)</dd>
-<dt>Degree</dt><dd>Undergraduate degree or less</dd>
-<dt>Salary</dt><dd>$67,694 – $101,540</dd>
-</dl>
-
-**Areas & skills:** Biosecurity & pandemic preparedness, Engineering, Strategy
+**Areas & skills:** Biosecurity & pandemic preparedness
 
 ## Summary
 - In this role, you'll drive biosecurity engineering projects that make the world more resilient to pandemic threats.

@@ -2,7 +2,7 @@
 title: "Senior Actuarial Data Scientist, AI Risk"
 employer: "Armilla"
 job_id: "recKobuPy57I5pGYJ"
-last_updated: "2026-08-18T05:33:23.489840Z"
+last_updated: "2026-08-19T05:33:32.932242Z"
 posted_at: "2022-01-05T00:00:00Z"
 status: ready
 apply_url: "https://ats.rippling.com/armilla-ai/jobs/58815295-c137-4d11-95d2-a313ba13730a"
@@ -33,4 +33,4 @@ areas:
 <p class="apply-cta"><a href="https://ats.rippling.com/armilla-ai/jobs/58815295-c137-4d11-95d2-a313ba13730a">Apply →</a></p>
 
 ---
-*Posted 2022-01-05 · Listing synced 2026-08-18 · 80k job ID `recKobuPy57I5pGYJ`*
+*Posted 2022-01-05 · Listing synced 2026-08-19 · 80k job ID `recKobuPy57I5pGYJ`*

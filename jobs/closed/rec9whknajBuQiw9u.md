@@ -4,25 +4,20 @@ employer: "Network for EA Support and Training"
 job_id: "rec9whknajBuQiw9u"
 last_updated: "2026-08-18T05:32:05.538554Z"
 posted_at: "2026-08-05T00:01:00Z"
-status: ready
+status: closed
+closed_at: "2026-08-19"
 apply_url: "https://www.nest-ea.org/careers#:~:text=Careers-,Community%20Builder"
 areas:
   - "Building effective altruism"
 ---
 
+> ⚠️ **CLOSED on 2026-08-19** — this job is no longer listed on the 80,000 Hours board. Archived snapshot below.
+
 # Community Builder (x6)
 
-**[Network for EA Support and Training](https://www.nest-ea.org/)**
+**Network for EA Support and Training**
 
-<dl class="job-meta">
-<dt>Location</dt><dd>Various, USA, USA</dd>
-<dt>Role type</dt><dd>Full-time</dd>
-<dt>Experience</dt><dd>Junior (1-4 years experience)</dd>
-<dt>Degree</dt><dd>Undergraduate degree or less</dd>
-<dt>Salary</dt><dd>$90,000 – $110,000</dd>
-</dl>
-
-**Areas & skills:** Building effective altruism, Outreach
+**Areas & skills:** Building effective altruism
 
 ## Summary
 - In this role, you'll embed with university EA groups as a full-time community builder, managing logistics and operations so student leaders focus on ideas and growth.

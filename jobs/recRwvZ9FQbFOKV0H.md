@@ -2,7 +2,7 @@
 title: "Executive and Operations Assistant, CEO Office"
 employer: "Rethink Wellbeing"
 job_id: "recRwvZ9FQbFOKV0H"
-last_updated: "2026-08-18T05:33:43.548678Z"
+last_updated: "2026-08-19T05:33:52.252896Z"
 posted_at: "2022-01-02T00:00:00Z"
 status: ready
 apply_url: "https://forms.gle/3sxtZiSLU4gQZryR7"
@@ -34,4 +34,4 @@ areas:
 <p class="apply-cta"><a href="https://forms.gle/3sxtZiSLU4gQZryR7">Apply →</a></p>
 
 ---
-*Posted 2022-01-02 · Listing synced 2026-08-18 · 80k job ID `recRwvZ9FQbFOKV0H`*
+*Posted 2022-01-02 · Listing synced 2026-08-19 · 80k job ID `recRwvZ9FQbFOKV0H`*

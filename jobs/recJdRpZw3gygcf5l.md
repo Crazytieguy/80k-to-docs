@@ -2,7 +2,7 @@
 title: "Contract Staff, AI-Related Environment Development and Promotion Work, Digital Infrastructure Center"
 employer: "Information-Technology Promotion Agency"
 job_id: "recJdRpZw3gygcf5l"
-last_updated: "2026-08-18T05:33:15.101809Z"
+last_updated: "2026-08-19T05:33:24.306300Z"
 posted_at: "2022-01-06T00:00:00Z"
 status: ready
 apply_url: "https://www.ipa.go.jp/recruit/shokutaku/shokutaku-di04.html"
@@ -21,7 +21,7 @@ areas:
 <dt>Degree</dt><dd>Undergraduate degree or less</dd>
 </dl>
 
-**Areas & skills:** AI safety & policy, Research, Policy, Operations, Management
+**Areas & skills:** AI safety & policy, Operations, Policy, Research, Management
 
 ## Summary
 - In this role, staff will contribute to the development and promotion of AI-related environments within the Digital Infrastructure Center.
@@ -32,4 +32,4 @@ areas:
 <p class="apply-cta"><a href="https://www.ipa.go.jp/recruit/shokutaku/shokutaku-di04.html">Apply →</a></p>
 
 ---
-*Posted 2022-01-06 · Listing synced 2026-08-18 · 80k job ID `recJdRpZw3gygcf5l`*
+*Posted 2022-01-06 · Listing synced 2026-08-19 · 80k job ID `recJdRpZw3gygcf5l`*

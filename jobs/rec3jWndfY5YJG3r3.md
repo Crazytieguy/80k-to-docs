@@ -2,7 +2,7 @@
 title: "Production Coordinator / Associate, Studio Team"
 employer: "80,000 Hours"
 job_id: "rec3jWndfY5YJG3r3"
-last_updated: "2026-08-18T05:32:04.664528Z"
+last_updated: "2026-08-19T05:32:12.930343Z"
 posted_at: "2026-08-05T00:04:26Z"
 status: ready
 apply_url: "https://jobs.ashbyhq.com/80000hours/8e362bdd-a3e2-4ce0-8325-d9a43bfad1f4"
@@ -19,7 +19,7 @@ areas:
 <dt>Role type</dt><dd>Full-time</dd>
 <dt>Experience</dt><dd>Junior (1-4 years experience), Entry-level</dd>
 <dt>Degree</dt><dd>Undergraduate degree or less</dd>
-<dt>Salary</dt><dd>$90,709 – $113,725</dd>
+<dt>Salary</dt><dd>$90,728 – $113,749</dd>
 </dl>
 
 **Areas & skills:** AI safety & policy, Operations
@@ -34,4 +34,4 @@ areas:
 <p class="apply-cta"><a href="https://jobs.ashbyhq.com/80000hours/8e362bdd-a3e2-4ce0-8325-d9a43bfad1f4">Apply →</a></p>
 
 ---
-*Posted 2026-08-05 · Listing synced 2026-08-18 · 80k job ID `rec3jWndfY5YJG3r3`*
+*Posted 2026-08-05 · Listing synced 2026-08-19 · 80k job ID `rec3jWndfY5YJG3r3`*

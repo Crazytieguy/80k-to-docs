@@ -4,25 +4,20 @@ employer: "Amodo Design"
 job_id: "recEMddxAq6NfOcdn"
 last_updated: "2026-08-18T05:33:46.414308Z"
 posted_at: "2022-01-01T00:00:00Z"
-status: ready
+status: closed
+closed_at: "2026-08-19"
 apply_url: "https://amododesign.com/career/products-spinouts/"
 areas:
   - "Career development: Technical"
 ---
 
+> ⚠️ **CLOSED on 2026-08-19** — this job is no longer listed on the 80,000 Hours board. Archived snapshot below.
+
 # Entrepreneur in Residence, Product and Spinouts
 
-**[Amodo Design](https://amododesign.com/)**
+**Amodo Design**
 
-<dl class="job-meta">
-<dt>Location</dt><dd>Remote, UK, Sheffield, UK, UK</dd>
-<dt>Role type</dt><dd>Full-time</dd>
-<dt>Experience</dt><dd>Mid (5-9 years experience)</dd>
-<dt>Degree</dt><dd>Undergraduate degree or less</dd>
-<dt>Salary</dt><dd>$67,694 – $101,540</dd>
-</dl>
-
-**Areas & skills:** Career development: Technical, Strategy
+**Areas & skills:** Career development: Technical
 
 ## Summary
 - In this role, you'll turn Amodo's engineering work into viable products and spinout companies.

@@ -2,7 +2,7 @@
 title: "Operations Admin Lead, Executive Office"
 employer: "LawZero"
 job_id: "recU40IVnsTItO5dQ"
-last_updated: "2026-08-18T05:32:30.940489Z"
+last_updated: "2026-08-19T05:32:39.994584Z"
 posted_at: "2026-07-15T00:00:00Z"
 status: ready
 apply_url: "https://job-boards.greenhouse.io/lawzero/jobs/4315680009"
@@ -33,4 +33,4 @@ areas:
 <p class="apply-cta"><a href="https://job-boards.greenhouse.io/lawzero/jobs/4315680009">Apply →</a></p>
 
 ---
-*Posted 2026-07-15 · Listing synced 2026-08-18 · 80k job ID `recU40IVnsTItO5dQ`*
+*Posted 2026-07-15 · Listing synced 2026-08-19 · 80k job ID `recU40IVnsTItO5dQ`*

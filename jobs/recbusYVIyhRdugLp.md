@@ -2,10 +2,10 @@
 title: "Member of Technical Staff, Secure Infrastructure and Platform"
 employer: "SL5 Task Force"
 job_id: "recbusYVIyhRdugLp"
-last_updated: "2026-08-18T05:32:39.449394Z"
+last_updated: "2026-08-19T05:32:47.742672Z"
 posted_at: "2026-07-02T00:01:00Z"
 status: ready
-apply_url: "https://jobs.ashbyhq.com/security-level-5/cba6f9b3-616a-4090-8ca6-f8d28c0579d1"
+apply_url: "https://jobs.ashbyhq.com/security-level-5/cba6f9b3-616a-4090-8ca6-f8d28c0579d1?embed=js"
 areas:
   - "AI safety & policy"
 ---
@@ -31,7 +31,7 @@ areas:
 - Co-develop SL5 infrastructure standards with AI labs and government partners.
 - Publish technical research on SL5 security implementations.
 
-<p class="apply-cta"><a href="https://jobs.ashbyhq.com/security-level-5/cba6f9b3-616a-4090-8ca6-f8d28c0579d1">Apply →</a></p>
+<p class="apply-cta"><a href="https://jobs.ashbyhq.com/security-level-5/cba6f9b3-616a-4090-8ca6-f8d28c0579d1?embed=js">Apply →</a></p>
 
 ---
-*Posted 2026-07-02 · Listing synced 2026-08-18 · 80k job ID `recbusYVIyhRdugLp`*
+*Posted 2026-07-02 · Listing synced 2026-08-19 · 80k job ID `recbusYVIyhRdugLp`*

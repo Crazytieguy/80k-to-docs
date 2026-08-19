@@ -2,7 +2,7 @@
 title: "Contract Agents (x40)"
 employer: "European Union, AI Office"
 job_id: "recWxhREhnqdOpqCd"
-last_updated: "2026-08-18T05:31:56.747361Z"
+last_updated: "2026-08-19T05:32:04.899989Z"
 posted_at: "2026-08-10T00:06:00Z"
 status: ready
 apply_url: "https://eu-careers.europa.eu/sites/default/files/eu_vacancies/2026-07/Call%20CNECT%20RL%20AI%202026_2.pdf"
@@ -19,10 +19,10 @@ areas:
 <dt>Role type</dt><dd>Full-time</dd>
 <dt>Experience</dt><dd>Multiple experience levels</dd>
 <dt>Degree</dt><dd>Undergraduate degree or less</dd>
-<dt>Salary</dt><dd>$52,077 – $115,727</dd>
+<dt>Salary</dt><dd>$52,138 – $115,862</dd>
 </dl>
 
-**Areas & skills:** AI safety & policy, Policy, Operations, Software engineering, Legal
+**Areas & skills:** AI safety & policy, Policy, Legal, Operations, Software engineering
 
 ## Summary
 - This call is for technical, policy, legal, and operational roles in which you will draft legislation, enforce that companies adhere to their obligations, evaluate AI models and assess risks, foster international cooperation, inform EU member states on AI progress and risks, and strengthen the Europe's position in safe AI.
@@ -32,4 +32,4 @@ areas:
 <p class="apply-cta"><a href="https://eu-careers.europa.eu/sites/default/files/eu_vacancies/2026-07/Call%20CNECT%20RL%20AI%202026_2.pdf">Apply →</a></p>
 
 ---
-*Posted 2026-08-10 · Listing synced 2026-08-18 · 80k job ID `recWxhREhnqdOpqCd`*
+*Posted 2026-08-10 · Listing synced 2026-08-19 · 80k job ID `recWxhREhnqdOpqCd`*

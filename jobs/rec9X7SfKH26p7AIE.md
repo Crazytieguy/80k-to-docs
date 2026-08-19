@@ -2,7 +2,7 @@
 title: "Expression of Interest, Good Impressions and Partner Organizations"
 employer: "Good Impressions Media"
 job_id: "rec9X7SfKH26p7AIE"
-last_updated: "2026-08-18T05:32:15.064500Z"
+last_updated: "2026-08-19T05:32:24.620655Z"
 posted_at: "2026-07-31T00:03:00Z"
 status: ready
 apply_url: "https://forms.goodimpressionsmedia.com/expression-of-interest"
@@ -29,4 +29,4 @@ areas:
 <p class="apply-cta"><a href="https://forms.goodimpressionsmedia.com/expression-of-interest">Apply →</a></p>
 
 ---
-*Posted 2026-07-31 · Listing synced 2026-08-18 · 80k job ID `rec9X7SfKH26p7AIE`*
+*Posted 2026-07-31 · Listing synced 2026-08-19 · 80k job ID `rec9X7SfKH26p7AIE`*

@@ -4,24 +4,20 @@ employer: "Kairos"
 job_id: "recfYgfPES4sXUrZC"
 last_updated: "2026-08-18T05:31:48.323886Z"
 posted_at: "2026-08-17T00:00:00Z"
-status: ready
+status: closed
+closed_at: "2026-08-19"
 apply_url: "https://sparai.org/"
 areas:
   - "AI safety & policy"
 ---
 
+> ⚠️ **CLOSED on 2026-08-19** — this job is no longer listed on the 80,000 Hours board. Archived snapshot below.
+
 # Supervised Program for Alignment Research (Fall 2026)
 
-**[Kairos](https://kairos-project.org/)**
+**Kairos**
 
-<dl class="job-meta">
-<dt>Location</dt><dd>Remote, Global</dd>
-<dt>Role type</dt><dd>Fellowship</dd>
-<dt>Experience</dt><dd>Multiple experience levels</dd>
-<dt>Degree</dt><dd>Undergraduate degree or less</dd>
-</dl>
-
-**Areas & skills:** AI safety & policy, Research
+**Areas & skills:** AI safety & policy
 
 ## Summary
 - In this program, you'll work on AI safety and policy research projects with expert mentors in a part-time, remote format.

@@ -4,25 +4,20 @@ employer: "Resolution"
 job_id: "recoucyrquyKAp2WX"
 last_updated: "2026-08-18T05:32:39.305563Z"
 posted_at: "2026-07-02T00:03:00Z"
-status: ready
+status: closed
+closed_at: "2026-08-19"
 apply_url: "https://jobs.ashbyhq.com/resolution/3e9e55e0-49b0-4888-a9ef-38034e7c880c"
 areas:
   - "AI safety & policy"
 ---
 
+> ⚠️ **CLOSED on 2026-08-19** — this job is no longer listed on the 80,000 Hours board. Archived snapshot below.
+
 # Operations Staff
 
-**[Resolution](https://resolution.org/)**
+**Resolution**
 
-<dl class="job-meta">
-<dt>Location</dt><dd>San Francisco Bay Area, USA, USA (Confirmed Visas)</dd>
-<dt>Role type</dt><dd>Full-time</dd>
-<dt>Experience</dt><dd>Multiple experience levels</dd>
-<dt>Degree</dt><dd>Undergraduate degree or less</dd>
-<dt>Salary</dt><dd>$198,000 – $437,000</dd>
-</dl>
-
-**Areas & skills:** AI safety & policy, Operations, Management
+**Areas & skills:** AI safety & policy
 
 ## Summary
 - In this role, you'll build Resolution's operations systems as it scales to 60 staff across research, finance, recruiting, and people functions.

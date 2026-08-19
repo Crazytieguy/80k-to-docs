@@ -4,26 +4,21 @@ employer: "Simon Institute for Longterm Governance"
 job_id: "rectRJHkNd9f8ETs6"
 last_updated: "2026-08-18T05:32:31.586363Z"
 posted_at: "2026-07-13T00:05:00Z"
-status: ready
+status: closed
+closed_at: "2026-08-19"
 apply_url: "https://simoninstitute.ch/jobs/ai-x-biosecurity-specialist"
 areas:
   - "AI safety & policy"
   - "Biosecurity & pandemic preparedness"
 ---
 
+> ⚠️ **CLOSED on 2026-08-19** — this job is no longer listed on the 80,000 Hours board. Archived snapshot below.
+
 # AIxBiosecurity Specialist
 
-**[Simon Institute for Longterm Governance](https://www.simoninstitute.ch/)**
+**Simon Institute for Longterm Governance**
 
-<dl class="job-meta">
-<dt>Location</dt><dd>Geneva, Switzerland, Switzerland, Europe (ex UK)</dd>
-<dt>Role type</dt><dd>Full-time</dd>
-<dt>Experience</dt><dd>Multiple experience levels</dd>
-<dt>Degree</dt><dd>Undergraduate degree or less</dd>
-<dt>Salary</dt><dd>$123,206 – $172,488</dd>
-</dl>
-
-**Areas & skills:** AI safety & policy, Biosecurity & pandemic preparedness, Research, Policy
+**Areas & skills:** AI safety & policy, Biosecurity & pandemic preparedness
 
 ## Summary
 - In this role, you'll advance SI's work at the intersection of AI and biosecurity, analyzing biological risks and engaging stakeholders on governance.

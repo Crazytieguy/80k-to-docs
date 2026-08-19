@@ -4,25 +4,20 @@ employer: "The AI Policy Network"
 job_id: "rec1noKmfb1GJE6UP"
 last_updated: "2026-08-18T05:32:07.148083Z"
 posted_at: "2026-08-04T00:02:00Z"
-status: ready
+status: closed
+closed_at: "2026-08-19"
 apply_url: "https://job-boards.greenhouse.io/aipn/jobs/4353618009"
 areas:
   - "AI safety & policy"
 ---
 
+> ⚠️ **CLOSED on 2026-08-19** — this job is no longer listed on the 80,000 Hours board. Archived snapshot below.
+
 # Fractional Controller
 
-**[The AI Policy Network](https://theaipn.org/)**
+**The AI Policy Network**
 
-<dl class="job-meta">
-<dt>Location</dt><dd>Remote, Global</dd>
-<dt>Role type</dt><dd>Full-time</dd>
-<dt>Experience</dt><dd>Mid (5-9 years experience)</dd>
-<dt>Degree</dt><dd>Undergraduate degree or less</dd>
-<dt>Salary</dt><dd>$54,000 – $78,000</dd>
-</dl>
-
-**Areas & skills:** AI safety & policy, Management, Finance
+**Areas & skills:** AI safety & policy
 
 ## Summary
 - In this role, you'll own accounting, compliance, and reporting across three nonprofit entities including a 501(c)(3), 501(c)(4), and PAC.
