@@ -4,24 +4,20 @@ employer: "Centre for Effective Altruism"
 job_id: "recOEKYoLHjIgL0CE"
 last_updated: "2026-08-19T05:32:38.416567Z"
 posted_at: "2026-07-16T00:04:40Z"
-status: ready
+status: closed
+closed_at: "2026-08-20"
 apply_url: "https://www.centreforeffectivealtruism.org/careers?ashby_jid=97c6c334-bd3d-4fc3-a3f9-3d3928c343d1"
 areas:
   - "Building effective altruism"
 ---
 
+> ⚠️ **CLOSED on 2026-08-20** — this job is no longer listed on the 80,000 Hours board. Archived snapshot below.
+
 # Product Lead, Opportunities Board
 
-**[Centre for Effective Altruism](https://www.centreforeffectivealtruism.org)**
+**Centre for Effective Altruism**
 
-<dl class="job-meta">
-<dt>Location</dt><dd>Remote, Global</dd>
-<dt>Role type</dt><dd>Full-time</dd>
-<dt>Experience</dt><dd>Multiple experience levels</dd>
-<dt>Degree</dt><dd>Undergraduate degree or less</dd>
-</dl>
-
-**Areas & skills:** Building effective altruism, Strategy
+**Areas & skills:** Building effective altruism
 
 ## Summary
 - In this role, you'll lead product strategy and development for CEA's opportunities board to connect talented people with impactful work.

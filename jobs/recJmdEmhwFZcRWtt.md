@@ -2,7 +2,7 @@
 title: "Various Fellowships"
 employer: "George Mason University, Mercatus Center"
 job_id: "recJmdEmhwFZcRWtt"
-last_updated: "2026-08-19T05:33:57.242770Z"
+last_updated: "2026-08-20T05:34:00.699301Z"
 posted_at: "2022-01-01T00:00:00Z"
 status: ready
 apply_url: "https://www.mercatus.org/students/fellowships"
@@ -30,4 +30,4 @@ areas:
 <p class="apply-cta"><a href="https://www.mercatus.org/students/fellowships">Apply →</a></p>
 
 ---
-*Posted 2022-01-01 · Listing synced 2026-08-19 · 80k job ID `recJmdEmhwFZcRWtt`*
+*Posted 2022-01-01 · Listing synced 2026-08-20 · 80k job ID `recJmdEmhwFZcRWtt`*

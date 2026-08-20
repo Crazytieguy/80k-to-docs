@@ -2,7 +2,7 @@
 title: "Security Engineer, Detection Platform Infrastructure"
 employer: "Anthropic"
 job_id: "recKtX2J7biqEZcAM"
-last_updated: "2026-08-19T05:33:05.067901Z"
+last_updated: "2026-08-20T05:33:08.867499Z"
 posted_at: "2022-01-11T00:00:00Z"
 status: ready
 apply_url: "https://job-boards.greenhouse.io/anthropic/jobs/4595463008"
@@ -34,4 +34,4 @@ areas:
 <p class="apply-cta"><a href="https://job-boards.greenhouse.io/anthropic/jobs/4595463008">Apply →</a></p>
 
 ---
-*Posted 2022-01-11 · Listing synced 2026-08-19 · 80k job ID `recKtX2J7biqEZcAM`*
+*Posted 2022-01-11 · Listing synced 2026-08-20 · 80k job ID `recKtX2J7biqEZcAM`*

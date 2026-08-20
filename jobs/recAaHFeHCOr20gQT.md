@@ -2,13 +2,13 @@
 title: "Charity Entrepreneurship Incubation Program"
 employer: "Ambitious Impact"
 job_id: "recAaHFeHCOr20gQT"
-last_updated: "2026-08-19T05:32:16.848146Z"
+last_updated: "2026-08-20T05:32:20.250619Z"
 posted_at: "2026-08-04T00:00:00Z"
 status: ready
 apply_url: "https://helpanimals.charityentrepreneurship.com/"
 areas:
-  - "Animal welfare"
   - "Founder"
+  - "Animal welfare"
 ---
 
 # Charity Entrepreneurship Incubation Program
@@ -16,14 +16,14 @@ areas:
 **[Ambitious Impact](https://www.ambitiousimpact.com/)**
 
 <dl class="job-meta">
-<dt>Location</dt><dd>Remote, Global, London, UK, San Francisco Bay Area, UK, USA</dd>
+<dt>Location</dt><dd>London, UK, San Francisco Bay Area, Remote, Global, UK, USA</dd>
 <dt>Role type</dt><dd>Other</dd>
 <dt>Experience</dt><dd>Junior (1-4 years experience), Entry-level</dd>
 <dt>Degree</dt><dd>Undergraduate degree or less</dd>
 <dt>Salary</dt><dd>$190,000</dd>
 </dl>
 
-**Areas & skills:** Animal welfare, Founder, Operations, Strategy
+**Areas & skills:** Founder, Animal welfare, Operations, Strategy
 
 ## Summary
 - This is a two-month training program to launch a high-impact charity, plus three months of funded problem exploration.
@@ -35,4 +35,4 @@ areas:
 <p class="apply-cta"><a href="https://helpanimals.charityentrepreneurship.com/">Apply →</a></p>
 
 ---
-*Posted 2026-08-04 · Listing synced 2026-08-19 · 80k job ID `recAaHFeHCOr20gQT`*
+*Posted 2026-08-04 · Listing synced 2026-08-20 · 80k job ID `recAaHFeHCOr20gQT`*

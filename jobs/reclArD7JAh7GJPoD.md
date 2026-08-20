@@ -2,7 +2,7 @@
 title: "Red Team Engineer"
 employer: "Gray Swan"
 job_id: "reclArD7JAh7GJPoD"
-last_updated: "2026-08-19T05:32:19.636559Z"
+last_updated: "2026-08-20T05:32:22.921086Z"
 posted_at: "2026-08-03T00:00:00Z"
 status: ready
 apply_url: "https://www.grayswan.ai/careers?ashby_jid=e22e9376-8158-4b1d-bddf-e059bb846d6a"
@@ -34,4 +34,4 @@ areas:
 <p class="apply-cta"><a href="https://www.grayswan.ai/careers?ashby_jid=e22e9376-8158-4b1d-bddf-e059bb846d6a">Apply →</a></p>
 
 ---
-*Posted 2026-08-03 · Listing synced 2026-08-19 · 80k job ID `reclArD7JAh7GJPoD`*
+*Posted 2026-08-03 · Listing synced 2026-08-20 · 80k job ID `reclArD7JAh7GJPoD`*

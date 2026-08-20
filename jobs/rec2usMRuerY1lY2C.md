@@ -2,7 +2,7 @@
 title: "Intern, Machine Learning Research (Fall 2026)"
 employer: "Realm Labs"
 job_id: "rec2usMRuerY1lY2C"
-last_updated: "2026-08-19T05:32:04.576097Z"
+last_updated: "2026-08-20T05:32:09.200637Z"
 posted_at: "2026-08-11T00:00:00Z"
 status: ready
 apply_url: "https://jobs.gem.com/realm-labs/am9icG9zdDpoCNOBNYH80_K-1plXB_Kk"
@@ -33,4 +33,4 @@ areas:
 <p class="apply-cta"><a href="https://jobs.gem.com/realm-labs/am9icG9zdDpoCNOBNYH80_K-1plXB_Kk">Apply →</a></p>
 
 ---
-*Posted 2026-08-11 · Listing synced 2026-08-19 · 80k job ID `rec2usMRuerY1lY2C`*
+*Posted 2026-08-11 · Listing synced 2026-08-20 · 80k job ID `rec2usMRuerY1lY2C`*

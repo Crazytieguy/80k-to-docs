@@ -2,7 +2,7 @@
 title: "Chapter Leader"
 employer: "One for the World"
 job_id: "recCQCI9ruy4HYheW"
-last_updated: "2026-08-19T05:33:51.699994Z"
+last_updated: "2026-08-20T05:33:54.962311Z"
 posted_at: "2022-01-02T00:00:00Z"
 status: ready
 apply_url: "https://1fortheworld.org/volunteer-with-us"
@@ -33,4 +33,4 @@ areas:
 <p class="apply-cta"><a href="https://1fortheworld.org/volunteer-with-us">Apply →</a></p>
 
 ---
-*Posted 2022-01-02 · Listing synced 2026-08-19 · 80k job ID `recCQCI9ruy4HYheW`*
+*Posted 2022-01-02 · Listing synced 2026-08-20 · 80k job ID `recCQCI9ruy4HYheW`*

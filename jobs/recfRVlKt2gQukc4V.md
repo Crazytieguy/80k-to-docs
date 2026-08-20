@@ -2,7 +2,7 @@
 title: "Expression of Interest"
 employer: "Forethought"
 job_id: "recfRVlKt2gQukc4V"
-last_updated: "2026-08-19T05:33:15.735965Z"
+last_updated: "2026-08-20T05:33:18.576173Z"
 posted_at: "2022-01-07T00:00:00Z"
 status: ready
 apply_url: "https://www.forethought.org/careers/expression-of-interest"
@@ -21,7 +21,7 @@ areas:
 <dt>Degree</dt><dd>Undergraduate degree or less</dd>
 </dl>
 
-**Areas & skills:** Macrostrategy, Research, Policy, Strategy, Software engineering
+**Areas & skills:** Macrostrategy, Research, Policy, Software engineering, Strategy
 
 ## Summary
 - Express your interest in a potential future role.
@@ -30,4 +30,4 @@ areas:
 <p class="apply-cta"><a href="https://www.forethought.org/careers/expression-of-interest">Apply →</a></p>
 
 ---
-*Posted 2022-01-07 · Listing synced 2026-08-19 · 80k job ID `recfRVlKt2gQukc4V`*
+*Posted 2022-01-07 · Listing synced 2026-08-20 · 80k job ID `recfRVlKt2gQukc4V`*

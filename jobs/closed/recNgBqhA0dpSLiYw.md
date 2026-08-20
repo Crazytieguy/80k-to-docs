@@ -4,25 +4,20 @@ employer: "Animal Equality"
 job_id: "recNgBqhA0dpSLiYw"
 last_updated: "2026-08-19T05:33:45.167295Z"
 posted_at: "2022-01-02T00:00:00Z"
-status: ready
+status: closed
+closed_at: "2026-08-20"
 apply_url: "https://igualdadanimal.org/empleo/coordinador-marketing-digital/"
 areas:
   - "Animal welfare"
 ---
 
+> ⚠️ **CLOSED on 2026-08-20** — this job is no longer listed on the 80,000 Hours board. Archived snapshot below.
+
 # Digital Marketing Coordinator
 
-**[Animal Equality](https://animalequality.org/)**
+**Animal Equality**
 
-<dl class="job-meta">
-<dt>Location</dt><dd>Madrid, Spain, Spain, Europe (ex UK)</dd>
-<dt>Role type</dt><dd>Full-time</dd>
-<dt>Experience</dt><dd>Junior (1-4 years experience)</dd>
-<dt>Degree</dt><dd>Undergraduate degree or less</dd>
-<dt>Salary</dt><dd>$34,759 – $44,028</dd>
-</dl>
-
-**Areas & skills:** Animal welfare, Outreach
+**Areas & skills:** Animal welfare
 
 ## Summary
 - In this role, you'll expand Animal Equality's online audience through effective digital marketing strategies engaging donors and followers.

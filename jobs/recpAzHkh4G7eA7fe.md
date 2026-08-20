@@ -2,7 +2,7 @@
 title: "Offensive Security Agent Engineer"
 employer: "OpenAI"
 job_id: "recpAzHkh4G7eA7fe"
-last_updated: "2026-08-19T05:32:09.624663Z"
+last_updated: "2026-08-20T05:32:14.178104Z"
 posted_at: "2026-08-07T00:00:00Z"
 status: ready
 apply_url: "https://openai.com/careers/offensive-security-agent-engineer-us-remote/"
@@ -33,4 +33,4 @@ areas:
 <p class="apply-cta"><a href="https://openai.com/careers/offensive-security-agent-engineer-us-remote/">Apply →</a></p>
 
 ---
-*Posted 2026-08-07 · Listing synced 2026-08-19 · 80k job ID `recpAzHkh4G7eA7fe`*
+*Posted 2026-08-07 · Listing synced 2026-08-20 · 80k job ID `recpAzHkh4G7eA7fe`*

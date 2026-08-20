@@ -2,7 +2,7 @@
 title: "Organizing Director"
 employer: "New Movement Organization for AI Regulation"
 job_id: "recnMR2FOxExKqD6D"
-last_updated: "2026-08-19T05:31:57.880121Z"
+last_updated: "2026-08-20T05:32:02.638467Z"
 posted_at: "2026-08-17T00:00:00Z"
 status: ready
 apply_url: "https://tally.so/r/GxVV2o"
@@ -34,4 +34,4 @@ areas:
 <p class="apply-cta"><a href="https://tally.so/r/GxVV2o">Apply →</a></p>
 
 ---
-*Posted 2026-08-17 · Listing synced 2026-08-19 · 80k job ID `recnMR2FOxExKqD6D`*
+*Posted 2026-08-17 · Listing synced 2026-08-20 · 80k job ID `recnMR2FOxExKqD6D`*

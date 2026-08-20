@@ -2,7 +2,7 @@
 title: "Intern, Corporate Engagement"
 employer: "The Good Food Institute"
 job_id: "recg7Rkepl2loqxTd"
-last_updated: "2026-08-19T05:31:54.441467Z"
+last_updated: "2026-08-20T05:31:59.321559Z"
 posted_at: "2026-08-18T00:00:00Z"
 status: ready
 apply_url: "https://job-boards.greenhouse.io/thegoodfoodinstitute80/jobs/8716799002"
@@ -34,4 +34,4 @@ areas:
 <p class="apply-cta"><a href="https://job-boards.greenhouse.io/thegoodfoodinstitute80/jobs/8716799002">Apply →</a></p>
 
 ---
-*Posted 2026-08-18 · Listing synced 2026-08-19 · 80k job ID `recg7Rkepl2loqxTd`*
+*Posted 2026-08-18 · Listing synced 2026-08-20 · 80k job ID `recg7Rkepl2loqxTd`*

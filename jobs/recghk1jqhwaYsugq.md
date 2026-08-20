@@ -2,7 +2,7 @@
 title: "Data Scientist, Cybersecurity"
 employer: "OpenAI"
 job_id: "recghk1jqhwaYsugq"
-last_updated: "2026-08-19T05:31:54.252111Z"
+last_updated: "2026-08-20T05:31:59.131481Z"
 posted_at: "2026-08-18T00:00:00Z"
 status: ready
 apply_url: "https://openai.com/careers/data-scientist-cybersecurity-us-remote/"
@@ -34,4 +34,4 @@ areas:
 <p class="apply-cta"><a href="https://openai.com/careers/data-scientist-cybersecurity-us-remote/">Apply →</a></p>
 
 ---
-*Posted 2026-08-18 · Listing synced 2026-08-19 · 80k job ID `recghk1jqhwaYsugq`*
+*Posted 2026-08-18 · Listing synced 2026-08-20 · 80k job ID `recghk1jqhwaYsugq`*

@@ -2,7 +2,7 @@
 title: "Software Engineer, Infrastructure"
 employer: "Gray Swan"
 job_id: "recTTOEOCW5pfyhSw"
-last_updated: "2026-08-19T05:32:19.820793Z"
+last_updated: "2026-08-20T05:32:23.120094Z"
 posted_at: "2026-08-03T00:00:00Z"
 status: ready
 apply_url: "https://www.grayswan.ai/careers?ashby_jid=c138b218-30c4-4d08-ba4a-0db4fb64eb38"
@@ -34,4 +34,4 @@ areas:
 <p class="apply-cta"><a href="https://www.grayswan.ai/careers?ashby_jid=c138b218-30c4-4d08-ba4a-0db4fb64eb38">Apply →</a></p>
 
 ---
-*Posted 2026-08-03 · Listing synced 2026-08-19 · 80k job ID `recTTOEOCW5pfyhSw`*
+*Posted 2026-08-03 · Listing synced 2026-08-20 · 80k job ID `recTTOEOCW5pfyhSw`*

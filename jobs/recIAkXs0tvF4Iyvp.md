@@ -2,7 +2,7 @@
 title: "Distributed Organizer, Contractor"
 employer: "New Movement Organization for AI Regulation"
 job_id: "recIAkXs0tvF4Iyvp"
-last_updated: "2026-08-19T05:31:58.070223Z"
+last_updated: "2026-08-20T05:32:02.815972Z"
 posted_at: "2026-08-17T00:00:00Z"
 status: ready
 apply_url: "https://tally.so/r/WObr6v"
@@ -34,4 +34,4 @@ areas:
 <p class="apply-cta"><a href="https://tally.so/r/WObr6v">Apply →</a></p>
 
 ---
-*Posted 2026-08-17 · Listing synced 2026-08-19 · 80k job ID `recIAkXs0tvF4Iyvp`*
+*Posted 2026-08-17 · Listing synced 2026-08-20 · 80k job ID `recIAkXs0tvF4Iyvp`*

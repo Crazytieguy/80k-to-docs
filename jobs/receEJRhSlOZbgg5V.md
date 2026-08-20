@@ -2,7 +2,7 @@
 title: "LLM Evaluation Engineer"
 employer: "Thirdlaw"
 job_id: "receEJRhSlOZbgg5V"
-last_updated: "2026-08-19T05:33:58.151091Z"
+last_updated: "2026-08-20T05:34:01.577980Z"
 posted_at: "2022-01-01T00:00:00Z"
 status: ready
 apply_url: "https://jobs.ashbyhq.com/thirdlaw/146d2379-88e4-4073-9c2a-1899871fdaeb"
@@ -33,4 +33,4 @@ areas:
 <p class="apply-cta"><a href="https://jobs.ashbyhq.com/thirdlaw/146d2379-88e4-4073-9c2a-1899871fdaeb">Apply →</a></p>
 
 ---
-*Posted 2022-01-01 · Listing synced 2026-08-19 · 80k job ID `receEJRhSlOZbgg5V`*
+*Posted 2022-01-01 · Listing synced 2026-08-20 · 80k job ID `receEJRhSlOZbgg5V`*

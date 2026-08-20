@@ -4,25 +4,20 @@ employer: "OpenAI"
 job_id: "recCUBvyTnh6aOZ9n"
 last_updated: "2026-08-19T05:33:12.367294Z"
 posted_at: "2022-01-11T00:00:00Z"
-status: ready
+status: closed
+closed_at: "2026-08-20"
 apply_url: "https://openai.com/careers/model-policy-san-francisco/"
 areas:
   - "AI safety & policy"
 ---
 
+> ⚠️ **CLOSED on 2026-08-20** — this job is no longer listed on the 80,000 Hours board. Archived snapshot below.
+
 # Team Member, Model Policy
 
-**[OpenAI](https://openai.com/)**
+**OpenAI**
 
-<dl class="job-meta">
-<dt>Location</dt><dd>San Francisco Bay Area, USA</dd>
-<dt>Role type</dt><dd>Full-time</dd>
-<dt>Experience</dt><dd>Mid (5-9 years experience)</dd>
-<dt>Degree</dt><dd>Undergraduate degree or less</dd>
-<dt>Salary</dt><dd>$207,000 – $295,000</dd>
-</dl>
-
-**Areas & skills:** AI safety & policy, Strategy
+**Areas & skills:** AI safety & policy
 
 ## Summary
 - In this role, you'll define how AI models should behave in high-risk contexts, translating safety concerns into behavioral specifications.

@@ -2,7 +2,7 @@
 title: "Research Contractor"
 employer: "FutureSearch"
 job_id: "recbIKV2JcYSdYD0H"
-last_updated: "2026-08-19T05:32:39.326978Z"
+last_updated: "2026-08-20T05:32:43.247182Z"
 posted_at: "2026-07-15T00:00:00Z"
 status: ready
 apply_url: "https://apply.workable.com/futuresearch/j/98A6E20ABA/"
@@ -15,7 +15,7 @@ areas:
 **[FutureSearch](https://futuresearch.ai/)**
 
 <dl class="job-meta">
-<dt>Location</dt><dd>Remote, Global, San Francisco Bay Area, London, UK, UK, USA</dd>
+<dt>Location</dt><dd>London, UK, San Francisco Bay Area, Remote, Global, UK, USA</dd>
 <dt>Role type</dt><dd>Part-time</dd>
 <dt>Experience</dt><dd>Junior (1-4 years experience)</dd>
 <dt>Degree</dt><dd>Undergraduate degree or less</dd>
@@ -34,4 +34,4 @@ areas:
 <p class="apply-cta"><a href="https://apply.workable.com/futuresearch/j/98A6E20ABA/">Apply →</a></p>
 
 ---
-*Posted 2026-07-15 · Listing synced 2026-08-19 · 80k job ID `recbIKV2JcYSdYD0H`*
+*Posted 2026-07-15 · Listing synced 2026-08-20 · 80k job ID `recbIKV2JcYSdYD0H`*

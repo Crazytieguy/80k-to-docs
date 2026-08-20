@@ -4,25 +4,20 @@ employer: "Center for Strategic and International Studies"
 job_id: "rec9dVLNfQ1F5nyYs"
 last_updated: "2026-08-19T05:32:08.068322Z"
 posted_at: "2026-08-07T00:01:00Z"
-status: ready
+status: closed
+closed_at: "2026-08-20"
 apply_url: "https://job-boards.greenhouse.io/centerforstrategicandinternationalstudiesinc/jobs/4314713009"
 areas:
   - "AI safety & policy"
 ---
 
+> ⚠️ **CLOSED on 2026-08-20** — this job is no longer listed on the 80,000 Hours board. Archived snapshot below.
+
 # Intern, Wadhwani AI Center (Fall 2026)
 
-**[Center for Strategic and International Studies](https://www.csis.org/)**
+**Center for Strategic and International Studies**
 
-<dl class="job-meta">
-<dt>Location</dt><dd>Washington, DC metro area, USA</dd>
-<dt>Role type</dt><dd>Internship</dd>
-<dt>Experience</dt><dd>Entry-level</dd>
-<dt>Degree</dt><dd>Undergraduate degree or less</dd>
-<dt>Salary</dt><dd>$38,272 – $42,432</dd>
-</dl>
-
-**Areas & skills:** AI safety & policy, Research, Policy
+**Areas & skills:** AI safety & policy
 
 ## Summary
 - In this role, you'll assist the Wadhwani AI Center team with research, communications, and programme support on emerging technology and AI policy issues.

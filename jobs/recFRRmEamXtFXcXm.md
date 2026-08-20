@@ -2,7 +2,7 @@
 title: "Expression of Interest, Biosecurity"
 employer: "Coefficient Giving"
 job_id: "recFRRmEamXtFXcXm"
-last_updated: "2026-08-19T05:33:13.046423Z"
+last_updated: "2026-08-20T05:33:16.166628Z"
 posted_at: "2022-01-09T00:00:00Z"
 status: ready
 apply_url: "https://airtable.com/appk4qxUG2dzCJUT2/pagHnnCDjCWQ0tCv9/form"
@@ -21,7 +21,7 @@ areas:
 <dt>Degree</dt><dd>Undergraduate degree or less</dd>
 </dl>
 
-**Areas & skills:** Biosecurity & pandemic preparedness, Research, Policy, Strategy, Operations
+**Areas & skills:** Biosecurity & pandemic preparedness, Research, Policy, Operations, Strategy
 
 ## Summary
 - Express your interest in contributing to projects aimed at preventing, detecting, and responding to biological threats including natural and engineered pandemics.
@@ -29,4 +29,4 @@ areas:
 <p class="apply-cta"><a href="https://airtable.com/appk4qxUG2dzCJUT2/pagHnnCDjCWQ0tCv9/form">Apply →</a></p>
 
 ---
-*Posted 2022-01-09 · Listing synced 2026-08-19 · 80k job ID `recFRRmEamXtFXcXm`*
+*Posted 2022-01-09 · Listing synced 2026-08-20 · 80k job ID `recFRRmEamXtFXcXm`*

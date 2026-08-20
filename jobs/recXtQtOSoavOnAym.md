@@ -2,7 +2,7 @@
 title: "Technical AI Safety Upskilling Resources"
 employer: "80,000 Hours"
 job_id: "recXtQtOSoavOnAym"
-last_updated: "2026-08-19T05:32:30.524939Z"
+last_updated: "2026-08-20T05:32:34.308667Z"
 posted_at: "2026-07-27T00:00:00Z"
 status: ready
 apply_url: "https://80000hours.org/2025/06/technical-ai-safety-upskilling-resources/"
@@ -21,7 +21,7 @@ areas:
 <dt>Degree</dt><dd>Undergraduate degree or less</dd>
 </dl>
 
-**Areas & skills:** AI safety & policy, Research, Software engineering, Engineering, Information security
+**Areas & skills:** AI safety & policy, Engineering, Research, Software engineering, Information security
 
 ## Summary
 - Sometimes, our advising team speaks to people who have enthusiasm for technical AI safety and a related skill set but need concrete ideas for how to enter the field. This list was developed in consultation with our advisors to find the resources they commonly share.
@@ -30,4 +30,4 @@ areas:
 <p class="apply-cta"><a href="https://80000hours.org/2025/06/technical-ai-safety-upskilling-resources/">Apply →</a></p>
 
 ---
-*Posted 2026-07-27 · Listing synced 2026-08-19 · 80k job ID `recXtQtOSoavOnAym`*
+*Posted 2026-07-27 · Listing synced 2026-08-20 · 80k job ID `recXtQtOSoavOnAym`*
