@@ -4,24 +4,20 @@ employer: "Protect Democracy"
 job_id: "recXBkuPlSBlayKxi"
 last_updated: "2026-08-20T05:34:01.199848Z"
 posted_at: "2022-01-01T00:00:00Z"
-status: ready
+status: closed
+closed_at: "2026-08-21"
 apply_url: "https://protectdemocracy.recruitee.com/o/tech-policy-strategist-ai-for-democracy-action-lab"
 areas:
   - "Safeguarding liberal democracy"
 ---
 
+> ⚠️ **CLOSED on 2026-08-21** — this job is no longer listed on the 80,000 Hours board. Archived snapshot below.
+
 # Tech Policy Strategist, AI for Democracy Action Lab
 
-**[Protect Democracy](https://protectdemocracy.org/)**
+**Protect Democracy**
 
-<dl class="job-meta">
-<dt>Location</dt><dd>Remote, USA, USA</dd>
-<dt>Role type</dt><dd>Full-time</dd>
-<dt>Experience</dt><dd>Senior (10+ years experience)</dd>
-<dt>Salary</dt><dd>$141,100 – $160,000</dd>
-</dl>
-
-**Areas & skills:** Safeguarding liberal democracy, Policy
+**Areas & skills:** Safeguarding liberal democracy
 
 ## Summary
 - In this role, you'll drive advocacy strategies at the intersection of AI and democracy, scaling policy campaigns and action initiatives.

@@ -2,7 +2,7 @@
 title: "Software Engineer, Safeguards Evaluations"
 employer: "Anthropic"
 job_id: "reccwRuOjYheV0REq"
-last_updated: "2026-08-20T05:33:01.655394Z"
+last_updated: "2026-08-21T05:32:47.554907Z"
 posted_at: "2026-06-10T00:00:00Z"
 status: ready
 apply_url: "https://job-boards.greenhouse.io/anthropic/jobs/5251671008"
@@ -34,4 +34,4 @@ areas:
 <p class="apply-cta"><a href="https://job-boards.greenhouse.io/anthropic/jobs/5251671008">Apply →</a></p>
 
 ---
-*Posted 2026-06-10 · Listing synced 2026-08-20 · 80k job ID `reccwRuOjYheV0REq`*
+*Posted 2026-06-10 · Listing synced 2026-08-21 · 80k job ID `reccwRuOjYheV0REq`*

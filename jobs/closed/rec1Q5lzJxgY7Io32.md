@@ -4,25 +4,20 @@ employer: "Sentinel Bio"
 job_id: "rec1Q5lzJxgY7Io32"
 last_updated: "2026-08-20T05:33:00.025380Z"
 posted_at: "2026-06-11T00:03:00Z"
-status: ready
+status: closed
+closed_at: "2026-08-21"
 apply_url: "https://sentinelbio.org/senior-program-officer-physical-biosecurity-chokepoints/"
 areas:
   - "Biosecurity & pandemic preparedness"
 ---
 
+> ⚠️ **CLOSED on 2026-08-21** — this job is no longer listed on the 80,000 Hours board. Archived snapshot below.
+
 # Senior Program Officer, Biosecurity Chokepoints
 
-**[Sentinel Bio](https://sentinelbio.org/)**
+**Sentinel Bio**
 
-<dl class="job-meta">
-<dt>Location</dt><dd>Remote, Global</dd>
-<dt>Role type</dt><dd>Full-time</dd>
-<dt>Experience</dt><dd>Mid (5-9 years experience)</dd>
-<dt>Degree</dt><dd>Undergraduate degree or less</dd>
-<dt>Salary</dt><dd>$150,000 – $225,000</dd>
-</dl>
-
-**Areas & skills:** Biosecurity & pandemic preparedness, Strategy
+**Areas & skills:** Biosecurity & pandemic preparedness
 
 ## Summary
 - In this role, you'll develop and execute strategy for biosecurity chokepoints across the biotech supply chain.

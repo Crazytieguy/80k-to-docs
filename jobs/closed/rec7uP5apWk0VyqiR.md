@@ -4,25 +4,20 @@ employer: "Google DeepMind"
 job_id: "rec7uP5apWk0VyqiR"
 last_updated: "2026-08-20T05:32:37.328170Z"
 posted_at: "2026-07-23T00:00:00Z"
-status: ready
+status: closed
+closed_at: "2026-08-21"
 apply_url: "https://www.google.com/about/careers/applications/jobs/results/95635593379095238-research-engineer-agi-safety-and-alignment-deepmind?company=DeepMind&page=2"
 areas:
   - "AI safety & policy"
 ---
 
+> ⚠️ **CLOSED on 2026-08-21** — this job is no longer listed on the 80,000 Hours board. Archived snapshot below.
+
 # Research Engineer, AGI Safety and Alignment, San Francisco
 
-**[Google DeepMind](https://www.deepmind.com)**
+**Google DeepMind**
 
-<dl class="job-meta">
-<dt>Location</dt><dd>San Francisco Bay Area, New York, NY, USA</dd>
-<dt>Role type</dt><dd>Full-time</dd>
-<dt>Experience</dt><dd>Junior (1-4 years experience)</dd>
-<dt>Degree</dt><dd>Undergraduate degree or less</dd>
-<dt>Salary</dt><dd>$174,000 – $253,000</dd>
-</dl>
-
-**Areas & skills:** AI safety & policy, Research, Software engineering
+**Areas & skills:** AI safety & policy
 
 ## Summary
 - In this role, you'll contribute to critical research and development in AGI safety and alignment, focusing on deep alignment, stress testing, interpretability, and control.

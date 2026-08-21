@@ -4,25 +4,20 @@ employer: "Sentinel Bio"
 job_id: "recNZZuNe2MRTlSyX"
 last_updated: "2026-08-20T05:33:00.848747Z"
 posted_at: "2026-06-10T00:03:00Z"
-status: ready
+status: closed
+closed_at: "2026-08-21"
 apply_url: "https://sentinelbio.org/chief-operating-officer/"
 areas:
   - "Biosecurity & pandemic preparedness"
 ---
 
+> ⚠️ **CLOSED on 2026-08-21** — this job is no longer listed on the 80,000 Hours board. Archived snapshot below.
+
 # Chief Operating Officer
 
-**[Sentinel Bio](https://sentinelbio.org/)**
+**Sentinel Bio**
 
-<dl class="job-meta">
-<dt>Location</dt><dd>Washington, DC metro area, San Francisco Bay Area, USA</dd>
-<dt>Role type</dt><dd>Full-time</dd>
-<dt>Experience</dt><dd>Mid (5-9 years experience), Senior (10+ years experience)</dd>
-<dt>Degree</dt><dd>Undergraduate degree or less</dd>
-<dt>Salary</dt><dd>$220,000 – $260,000</dd>
-</dl>
-
-**Areas & skills:** Biosecurity & pandemic preparedness, Operations, Management, Finance, Strategy
+**Areas & skills:** Biosecurity & pandemic preparedness
 
 ## Summary
 - In this role, you'll build operational infrastructure and strategy to scale Sentinel Bio toward deploying >$100M by 2030.

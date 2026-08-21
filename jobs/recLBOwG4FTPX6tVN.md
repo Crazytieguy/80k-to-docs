@@ -2,7 +2,7 @@
 title: "Program Associate / Program Manager, Events"
 employer: "Horizon Institute for Public Service"
 job_id: "recLBOwG4FTPX6tVN"
-last_updated: "2026-08-20T05:32:25.621980Z"
+last_updated: "2026-08-21T05:32:13.008179Z"
 posted_at: "2026-07-31T00:04:30Z"
 status: ready
 apply_url: "https://horizonpublicservice.org/program-associate-program-manager-events/"
@@ -33,4 +33,4 @@ areas:
 <p class="apply-cta"><a href="https://horizonpublicservice.org/program-associate-program-manager-events/">Apply →</a></p>
 
 ---
-*Posted 2026-07-31 · Listing synced 2026-08-20 · 80k job ID `recLBOwG4FTPX6tVN`*
+*Posted 2026-07-31 · Listing synced 2026-08-21 · 80k job ID `recLBOwG4FTPX6tVN`*

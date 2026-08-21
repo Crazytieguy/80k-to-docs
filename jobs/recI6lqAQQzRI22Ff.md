@@ -2,7 +2,7 @@
 title: "Research Scientist"
 employer: "FutureSearch"
 job_id: "recI6lqAQQzRI22Ff"
-last_updated: "2026-08-20T05:32:43.458984Z"
+last_updated: "2026-08-21T05:32:30.110590Z"
 posted_at: "2026-07-15T00:00:00Z"
 status: ready
 apply_url: "https://apply.workable.com/futuresearch/j/CC8CA27FB4/"
@@ -34,4 +34,4 @@ areas:
 <p class="apply-cta"><a href="https://apply.workable.com/futuresearch/j/CC8CA27FB4/">Apply →</a></p>
 
 ---
-*Posted 2026-07-15 · Listing synced 2026-08-20 · 80k job ID `recI6lqAQQzRI22Ff`*
+*Posted 2026-07-15 · Listing synced 2026-08-21 · 80k job ID `recI6lqAQQzRI22Ff`*

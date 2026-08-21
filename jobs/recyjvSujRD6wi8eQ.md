@@ -2,7 +2,7 @@
 title: "AI Red Team Engineer"
 employer: "White Circle"
 job_id: "recyjvSujRD6wi8eQ"
-last_updated: "2026-08-20T05:32:42.194077Z"
+last_updated: "2026-08-21T05:32:28.986127Z"
 posted_at: "2026-07-17T00:00:00Z"
 status: ready
 apply_url: "https://jobs.ashbyhq.com/whitecircle/d2c5f461-55d2-4c20-97a6-41a0fa0b51e9"
@@ -34,4 +34,4 @@ areas:
 <p class="apply-cta"><a href="https://jobs.ashbyhq.com/whitecircle/d2c5f461-55d2-4c20-97a6-41a0fa0b51e9">Apply →</a></p>
 
 ---
-*Posted 2026-07-17 · Listing synced 2026-08-20 · 80k job ID `recyjvSujRD6wi8eQ`*
+*Posted 2026-07-17 · Listing synced 2026-08-21 · 80k job ID `recyjvSujRD6wi8eQ`*

@@ -2,7 +2,7 @@
 title: "Senior Project Manager, Global Dividend Fund"
 employer: "Windfall Trust"
 job_id: "recuV7A2ZeSwIpcKd"
-last_updated: "2026-08-20T05:32:31.272003Z"
+last_updated: "2026-08-21T05:32:17.744828Z"
 posted_at: "2026-07-29T00:02:00Z"
 status: ready
 apply_url: "https://jobs.ashbyhq.com/windfall/d33c01c6-43e1-4b73-a75f-b0ea19e673c5"
@@ -34,4 +34,4 @@ areas:
 <p class="apply-cta"><a href="https://jobs.ashbyhq.com/windfall/d33c01c6-43e1-4b73-a75f-b0ea19e673c5">Apply →</a></p>
 
 ---
-*Posted 2026-07-29 · Listing synced 2026-08-20 · 80k job ID `recuV7A2ZeSwIpcKd`*
+*Posted 2026-07-29 · Listing synced 2026-08-21 · 80k job ID `recuV7A2ZeSwIpcKd`*

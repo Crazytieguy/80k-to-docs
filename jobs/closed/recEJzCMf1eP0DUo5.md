@@ -4,24 +4,20 @@ employer: "Animal Equality"
 job_id: "recEJzCMf1eP0DUo5"
 last_updated: "2026-08-20T05:33:48.138290Z"
 posted_at: "2022-01-02T00:00:00Z"
-status: ready
+status: closed
+closed_at: "2026-08-21"
 apply_url: "https://igualdadanimal.org/empleo/oferta-de-empleo-editor-de-video/"
 areas:
   - "Animal welfare"
 ---
 
+> ⚠️ **CLOSED on 2026-08-21** — this job is no longer listed on the 80,000 Hours board. Archived snapshot below.
+
 # Video Editor
 
-**[Animal Equality](https://animalequality.org/)**
+**Animal Equality**
 
-<dl class="job-meta">
-<dt>Location</dt><dd>Remote, Spain, Spain, Europe (ex UK)</dd>
-<dt>Role type</dt><dd>Full-time</dd>
-<dt>Experience</dt><dd>Junior (1-4 years experience)</dd>
-<dt>Degree</dt><dd>Undergraduate degree or less</dd>
-</dl>
-
-**Areas & skills:** Animal welfare, Other
+**Areas & skills:** Animal welfare
 
 ## Summary
 - In this role, you'll create and edit audiovisual content to support campaigns and investigations.

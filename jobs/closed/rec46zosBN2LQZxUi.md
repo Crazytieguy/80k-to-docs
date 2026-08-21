@@ -4,25 +4,20 @@ employer: "Center for Strategic and International Studies"
 job_id: "rec46zosBN2LQZxUi"
 last_updated: "2026-08-20T05:32:13.398026Z"
 posted_at: "2026-08-07T00:00:00Z"
-status: ready
+status: closed
+closed_at: "2026-08-21"
 apply_url: "https://job-boards.greenhouse.io/centerforstrategicandinternationalstudiesinc/jobs/4305252009"
 areas:
   - "AI safety & policy"
 ---
 
+> ⚠️ **CLOSED on 2026-08-21** — this job is no longer listed on the 80,000 Hours board. Archived snapshot below.
+
 # Deputy Director and Senior Fellow, Wadhwani AI Center
 
-**[Center for Strategic and International Studies](https://www.csis.org/)**
+**Center for Strategic and International Studies**
 
-<dl class="job-meta">
-<dt>Location</dt><dd>Washington, DC metro area, USA</dd>
-<dt>Role type</dt><dd>Fellowship</dd>
-<dt>Experience</dt><dd>Mid (5-9 years experience)</dd>
-<dt>Degree</dt><dd>Master's degree</dd>
-<dt>Salary</dt><dd>$100,000 – $200,000</dd>
-</dl>
-
-**Areas & skills:** AI safety & policy, Research, Policy, Management
+**Areas & skills:** AI safety & policy
 
 ## Summary
 - In this role, you'll lead the Wadhwani AI Center's research agenda on AI governance, national security, and economic policy.

@@ -2,7 +2,7 @@
 title: "Copywriter"
 employer: "Effectief Geven"
 job_id: "recGt4dLpc55DSusB"
-last_updated: "2026-08-20T05:33:50.647236Z"
+last_updated: "2026-08-21T05:33:35.723899Z"
 posted_at: "2022-01-02T00:00:00Z"
 status: ready
 apply_url: "https://www.effectiefgeven.be/vacatures/copywriter"
@@ -34,4 +34,4 @@ areas:
 <p class="apply-cta"><a href="https://www.effectiefgeven.be/vacatures/copywriter">Apply →</a></p>
 
 ---
-*Posted 2022-01-02 · Listing synced 2026-08-20 · 80k job ID `recGt4dLpc55DSusB`*
+*Posted 2022-01-02 · Listing synced 2026-08-21 · 80k job ID `recGt4dLpc55DSusB`*

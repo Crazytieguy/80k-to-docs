@@ -2,7 +2,7 @@
 title: "Standards Researcher"
 employer: "SL5 Task Force"
 job_id: "recbheN3L7HwDKBo6"
-last_updated: "2026-08-20T05:31:57.781499Z"
+last_updated: "2026-08-21T05:31:46.208739Z"
 posted_at: "2026-08-18T00:01:00Z"
 status: ready
 apply_url: "https://jobs.ashbyhq.com/security-level-5/34a29016-033e-4f7a-afc5-6a086975ca46?embed=js"
@@ -34,4 +34,4 @@ areas:
 <p class="apply-cta"><a href="https://jobs.ashbyhq.com/security-level-5/34a29016-033e-4f7a-afc5-6a086975ca46?embed=js">Apply →</a></p>
 
 ---
-*Posted 2026-08-18 · Listing synced 2026-08-20 · 80k job ID `recbheN3L7HwDKBo6`*
+*Posted 2026-08-18 · Listing synced 2026-08-21 · 80k job ID `recbheN3L7HwDKBo6`*

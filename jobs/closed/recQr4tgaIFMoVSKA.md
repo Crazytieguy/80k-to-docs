@@ -4,25 +4,20 @@ employer: "The Alliance for Secure AI"
 job_id: "recQr4tgaIFMoVSKA"
 last_updated: "2026-08-20T05:32:41.923759Z"
 posted_at: "2026-07-17T00:00:00Z"
-status: ready
+status: closed
+closed_at: "2026-08-21"
 apply_url: "https://secureainow.org/career/external-affairs-defense/"
 areas:
   - "AI safety & policy"
 ---
 
+> ⚠️ **CLOSED on 2026-08-21** — this job is no longer listed on the 80,000 Hours board. Archived snapshot below.
+
 # External Affairs and Coalitions Associate, Defense, National Security and First Responders
 
-**[The Alliance for Secure AI](https://secureainow.org/)**
+**The Alliance for Secure AI**
 
-<dl class="job-meta">
-<dt>Location</dt><dd>Washington, DC metro area, USA</dd>
-<dt>Role type</dt><dd>Full-time</dd>
-<dt>Experience</dt><dd>Junior (1-4 years experience)</dd>
-<dt>Degree</dt><dd>Undergraduate degree or less</dd>
-<dt>Salary</dt><dd>$80,000 – $120,000</dd>
-</dl>
-
-**Areas & skills:** AI safety & policy, Policy, Outreach
+**Areas & skills:** AI safety & policy
 
 ## Summary
 - In this role, you'll mobilize veterans, defence officials, and first responders into a grassroots force for secure AI policy.

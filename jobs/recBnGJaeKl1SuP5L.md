@@ -2,7 +2,7 @@
 title: "Product Engineer"
 employer: "BioTrust"
 job_id: "recBnGJaeKl1SuP5L"
-last_updated: "2026-08-20T05:32:47.450519Z"
+last_updated: "2026-08-21T05:32:34.070268Z"
 posted_at: "2026-07-09T00:02:00Z"
 status: ready
 apply_url: "https://biotrust.org/jobs/product-engineer"
@@ -35,4 +35,4 @@ areas:
 <p class="apply-cta"><a href="https://biotrust.org/jobs/product-engineer">Apply →</a></p>
 
 ---
-*Posted 2026-07-09 · Listing synced 2026-08-20 · 80k job ID `recBnGJaeKl1SuP5L`*
+*Posted 2026-07-09 · Listing synced 2026-08-21 · 80k job ID `recBnGJaeKl1SuP5L`*

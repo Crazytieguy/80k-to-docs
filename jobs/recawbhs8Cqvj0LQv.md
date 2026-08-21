@@ -2,7 +2,7 @@
 title: "Project Manager"
 employer: "SecureBio"
 job_id: "recawbhs8Cqvj0LQv"
-last_updated: "2026-08-20T05:32:36.547956Z"
+last_updated: "2026-08-21T05:32:23.678906Z"
 posted_at: "2026-07-24T00:04:02Z"
 status: ready
 apply_url: "https://securebio.org/careers/2026-project-manager"
@@ -34,4 +34,4 @@ areas:
 <p class="apply-cta"><a href="https://securebio.org/careers/2026-project-manager">Apply →</a></p>
 
 ---
-*Posted 2026-07-24 · Listing synced 2026-08-20 · 80k job ID `recawbhs8Cqvj0LQv`*
+*Posted 2026-07-24 · Listing synced 2026-08-21 · 80k job ID `recawbhs8Cqvj0LQv`*

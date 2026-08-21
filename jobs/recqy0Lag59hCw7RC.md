@@ -2,7 +2,7 @@
 title: "Program Associate, Data Systems"
 employer: "Horizon Institute for Public Service"
 job_id: "recqy0Lag59hCw7RC"
-last_updated: "2026-08-20T05:32:25.770323Z"
+last_updated: "2026-08-21T05:32:13.146095Z"
 posted_at: "2026-07-31T00:04:28Z"
 status: ready
 apply_url: "https://horizonpublicservice.org/program-associate-data-systems/"
@@ -34,4 +34,4 @@ areas:
 <p class="apply-cta"><a href="https://horizonpublicservice.org/program-associate-data-systems/">Apply →</a></p>
 
 ---
-*Posted 2026-07-31 · Listing synced 2026-08-20 · 80k job ID `recqy0Lag59hCw7RC`*
+*Posted 2026-07-31 · Listing synced 2026-08-21 · 80k job ID `recqy0Lag59hCw7RC`*

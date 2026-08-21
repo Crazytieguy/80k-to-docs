@@ -2,7 +2,7 @@
 title: "Data Analyst and Researcher"
 employer: "Family Empowerment Media"
 job_id: "reckJBwesvc4Ia1CF"
-last_updated: "2026-08-20T05:32:01.779050Z"
+last_updated: "2026-08-21T05:31:50.110905Z"
 posted_at: "2026-08-17T00:00:00Z"
 status: ready
 apply_url: "https://docs.google.com/document/u/3/d/1LzBUmLuIZ7yhZHyi71T__Gwu8z_RaOIHmnCbt8OzRBo/edit?usp=sharing"
@@ -33,4 +33,4 @@ areas:
 <p class="apply-cta"><a href="https://docs.google.com/document/u/3/d/1LzBUmLuIZ7yhZHyi71T__Gwu8z_RaOIHmnCbt8OzRBo/edit?usp=sharing">Apply →</a></p>
 
 ---
-*Posted 2026-08-17 · Listing synced 2026-08-20 · 80k job ID `reckJBwesvc4Ia1CF`*
+*Posted 2026-08-17 · Listing synced 2026-08-21 · 80k job ID `reckJBwesvc4Ia1CF`*

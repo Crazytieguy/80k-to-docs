@@ -2,7 +2,7 @@
 title: "List of Alternative Protein Opportunities"
 employer: "Tälist"
 job_id: "recc0Tan0LdnAunz1"
-last_updated: "2026-08-20T05:33:47.053404Z"
+last_updated: "2026-08-21T05:33:32.379642Z"
 posted_at: "2022-01-03T00:00:00Z"
 status: ready
 apply_url: "https://altprotein.jobs/?s=br9jf960"
@@ -30,4 +30,4 @@ areas:
 <p class="apply-cta"><a href="https://altprotein.jobs/?s=br9jf960">Apply →</a></p>
 
 ---
-*Posted 2022-01-03 · Listing synced 2026-08-20 · 80k job ID `recc0Tan0LdnAunz1`*
+*Posted 2022-01-03 · Listing synced 2026-08-21 · 80k job ID `recc0Tan0LdnAunz1`*

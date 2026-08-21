@@ -2,7 +2,7 @@
 title: "Head of the Effective Altruism Infrastructure Fund"
 employer: "Centre for Effective Altruism"
 job_id: "recttu5CqZOgUn3tw"
-last_updated: "2026-08-20T05:32:33.027255Z"
+last_updated: "2026-08-21T05:32:19.413333Z"
 posted_at: "2026-07-28T00:04:23Z"
 status: ready
 apply_url: "https://www.centreforeffectivealtruism.org/careers?ashby_jid=8e148719-fe10-44bf-9172-35e8b1ea99df"
@@ -34,4 +34,4 @@ areas:
 <p class="apply-cta"><a href="https://www.centreforeffectivealtruism.org/careers?ashby_jid=8e148719-fe10-44bf-9172-35e8b1ea99df">Apply →</a></p>
 
 ---
-*Posted 2026-07-28 · Listing synced 2026-08-20 · 80k job ID `recttu5CqZOgUn3tw`*
+*Posted 2026-07-28 · Listing synced 2026-08-21 · 80k job ID `recttu5CqZOgUn3tw`*

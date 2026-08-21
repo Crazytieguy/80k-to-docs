@@ -4,25 +4,20 @@ employer: "Center for AI Safety"
 job_id: "recVDRSYDe9HkR2yu"
 last_updated: "2026-08-20T05:33:01.824933Z"
 posted_at: "2026-06-09T00:04:00Z"
-status: ready
+status: closed
+closed_at: "2026-08-21"
 apply_url: "https://job-boards.greenhouse.io/centerforartificialintelligencesafetyinc/jobs/4297101009"
 areas:
   - "AI safety & policy"
 ---
 
+> ⚠️ **CLOSED on 2026-08-21** — this job is no longer listed on the 80,000 Hours board. Archived snapshot below.
+
 # Social and Community Manager
 
-**[Center for AI Safety](https://www.cais.ai/)**
+**Center for AI Safety**
 
-<dl class="job-meta">
-<dt>Location</dt><dd>San Francisco Bay Area, USA</dd>
-<dt>Role type</dt><dd>Full-time</dd>
-<dt>Experience</dt><dd>Mid (5-9 years experience)</dd>
-<dt>Degree</dt><dd>Undergraduate degree or less</dd>
-<dt>Salary</dt><dd>$120,000 – $160,000</dd>
-</dl>
-
-**Areas & skills:** AI safety & policy, Outreach
+**Areas & skills:** AI safety & policy
 
 ## Summary
 - In this role, you'll manage CAIS's daily social media presence and build community conversations that spread AI safety ideas through culture.

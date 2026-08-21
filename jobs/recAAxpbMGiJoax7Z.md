@@ -2,7 +2,7 @@
 title: "Head of People"
 employer: "Epoch AI"
 job_id: "recAAxpbMGiJoax7Z"
-last_updated: "2026-08-20T05:32:28.520900Z"
+last_updated: "2026-08-21T05:32:15.587246Z"
 posted_at: "2026-07-30T00:04:11Z"
 status: ready
 apply_url: "https://jobs.lever.co/epoch-ai/bae10238-f78d-48e4-a57a-c3333181a02e"
@@ -34,4 +34,4 @@ areas:
 <p class="apply-cta"><a href="https://jobs.lever.co/epoch-ai/bae10238-f78d-48e4-a57a-c3333181a02e">Apply →</a></p>
 
 ---
-*Posted 2026-07-30 · Listing synced 2026-08-20 · 80k job ID `recAAxpbMGiJoax7Z`*
+*Posted 2026-07-30 · Listing synced 2026-08-21 · 80k job ID `recAAxpbMGiJoax7Z`*
