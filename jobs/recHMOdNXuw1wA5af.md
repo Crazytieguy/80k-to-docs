@@ -2,7 +2,7 @@
 title: "Office Manager"
 employer: "Apollo Research"
 job_id: "recHMOdNXuw1wA5af"
-last_updated: "2026-08-21T05:32:31.178172Z"
+last_updated: "2026-08-22T05:32:39.449828Z"
 posted_at: "2026-07-13T00:04:51Z"
 status: ready
 apply_url: "https://jobs.lever.co/apolloresearch/31f2ed32-2f83-4fa5-826b-9d2baaa260a6"
@@ -34,4 +34,4 @@ areas:
 <p class="apply-cta"><a href="https://jobs.lever.co/apolloresearch/31f2ed32-2f83-4fa5-826b-9d2baaa260a6">Apply →</a></p>
 
 ---
-*Posted 2026-07-13 · Listing synced 2026-08-21 · 80k job ID `recHMOdNXuw1wA5af`*
+*Posted 2026-07-13 · Listing synced 2026-08-22 · 80k job ID `recHMOdNXuw1wA5af`*

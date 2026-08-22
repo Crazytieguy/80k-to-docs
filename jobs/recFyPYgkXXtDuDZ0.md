@@ -2,7 +2,7 @@
 title: "Head of Policy and Research"
 employer: "AI Diplomatic Engagement Network"
 job_id: "recFyPYgkXXtDuDZ0"
-last_updated: "2026-08-21T05:32:27.768555Z"
+last_updated: "2026-08-22T05:32:35.936279Z"
 posted_at: "2026-07-20T00:02:00Z"
 status: ready
 apply_url: "https://www.aden.global/hpr-2026-7q4x2"
@@ -22,7 +22,7 @@ areas:
 <dt>Salary</dt><dd>$150,000 – $180,000</dd>
 </dl>
 
-**Areas & skills:** AI safety & policy, Research, Policy
+**Areas & skills:** AI safety & policy, Policy, Research
 
 ## Summary
 - In this role, you'll translate AI safety research into diplomatic deliverables for Korea and Japan decision-makers.
@@ -34,4 +34,4 @@ areas:
 <p class="apply-cta"><a href="https://www.aden.global/hpr-2026-7q4x2">Apply →</a></p>
 
 ---
-*Posted 2026-07-20 · Listing synced 2026-08-21 · 80k job ID `recFyPYgkXXtDuDZ0`*
+*Posted 2026-07-20 · Listing synced 2026-08-22 · 80k job ID `recFyPYgkXXtDuDZ0`*

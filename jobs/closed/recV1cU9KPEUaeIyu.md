@@ -4,25 +4,20 @@ employer: "Egmont Institute"
 job_id: "recV1cU9KPEUaeIyu"
 last_updated: "2026-08-21T05:32:26.105058Z"
 posted_at: "2026-07-22T00:00:00Z"
-status: ready
+status: closed
+closed_at: "2026-08-22"
 apply_url: "https://egmontinstitute.be/jobs-internships-and-opportunities/"
 areas:
   - "Career development: Policy & government"
 ---
 
+> ⚠️ **CLOSED on 2026-08-22** — this job is no longer listed on the 80,000 Hours board. Archived snapshot below.
+
 # Joint Research Fellow, EU Integration
 
-**[Egmont Institute](https://www.egmontinstitute.be/)**
+**Egmont Institute**
 
-<dl class="job-meta">
-<dt>Location</dt><dd>Brussels, Belgium, Belgium, Europe (ex UK)</dd>
-<dt>Role type</dt><dd>Fellowship</dd>
-<dt>Experience</dt><dd>Junior (1-4 years experience)</dd>
-<dt>Degree</dt><dd>Doctoral degree</dd>
-<dt>Salary</dt><dd>$57,805 – $61,242</dd>
-</dl>
-
-**Areas & skills:** Career development: Policy & government, Research, Policy
+**Areas & skills:** Career development: Policy & government
 
 ## Summary
 - In this role, you'll conduct research on EU integration and act as liaison between Egmont and the European Policy Centre.

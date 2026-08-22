@@ -2,10 +2,10 @@
 title: "Research Engineer, AI Verification"
 employer: "SASH"
 job_id: "recHhmvGhncsHJio3"
-last_updated: "2026-08-21T05:32:40.710065Z"
+last_updated: "2026-08-22T05:32:48.948558Z"
 posted_at: "2026-06-30T00:02:00Z"
 status: ready
-apply_url: "https://www.aisafety.sg/careers/research-engineer-ai-verification"
+apply_url: "https://jobs.ashbyhq.com/SASH/20376c88-0866-4f66-944d-295c4d081f14"
 areas:
   - "AI safety & policy"
 ---
@@ -31,7 +31,7 @@ areas:
 - Analyse verification designs for cybersecurity vulnerabilities and implications.
 - Collaborate with international experts to advance trusted AI verification mechanisms.
 
-<p class="apply-cta"><a href="https://www.aisafety.sg/careers/research-engineer-ai-verification">Apply →</a></p>
+<p class="apply-cta"><a href="https://jobs.ashbyhq.com/SASH/20376c88-0866-4f66-944d-295c4d081f14">Apply →</a></p>
 
 ---
-*Posted 2026-06-30 · Listing synced 2026-08-21 · 80k job ID `recHhmvGhncsHJio3`*
+*Posted 2026-06-30 · Listing synced 2026-08-22 · 80k job ID `recHhmvGhncsHJio3`*

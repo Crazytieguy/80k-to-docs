@@ -2,7 +2,7 @@
 title: "Research Manager"
 employer: "Center for AI Safety"
 job_id: "recj5EBFLPq9f5Rkp"
-last_updated: "2026-08-21T05:32:26.384621Z"
+last_updated: "2026-08-22T05:32:34.581244Z"
 posted_at: "2026-07-21T00:04:19Z"
 status: ready
 apply_url: "https://job-boards.greenhouse.io/centerforartificialintelligencesafetyinc/jobs/4316930009"
@@ -22,7 +22,7 @@ areas:
 <dt>Salary</dt><dd>$170,000 – $260,000</dd>
 </dl>
 
-**Areas & skills:** AI safety & policy, Research, Software engineering, Management
+**Areas & skills:** AI safety & policy, Research, Management, Software engineering
 
 ## Summary
 - In this role, you'll lead research as a senior manager solving hard problems and translating strategic vision into team execution.
@@ -34,4 +34,4 @@ areas:
 <p class="apply-cta"><a href="https://job-boards.greenhouse.io/centerforartificialintelligencesafetyinc/jobs/4316930009">Apply →</a></p>
 
 ---
-*Posted 2026-07-21 · Listing synced 2026-08-21 · 80k job ID `recj5EBFLPq9f5Rkp`*
+*Posted 2026-07-21 · Listing synced 2026-08-22 · 80k job ID `recj5EBFLPq9f5Rkp`*

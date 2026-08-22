@@ -2,7 +2,7 @@
 title: "Red Team Engineer"
 employer: "Gray Swan"
 job_id: "reclArD7JAh7GJPoD"
-last_updated: "2026-08-21T05:32:10.138758Z"
+last_updated: "2026-08-22T05:32:18.699361Z"
 posted_at: "2026-08-03T00:00:00Z"
 status: ready
 apply_url: "https://www.grayswan.ai/careers?ashby_jid=e22e9376-8158-4b1d-bddf-e059bb846d6a"
@@ -22,7 +22,7 @@ areas:
 <dt>Salary</dt><dd>$110,000 – $290,000</dd>
 </dl>
 
-**Areas & skills:** AI safety & policy, Software engineering, Information security
+**Areas & skills:** AI safety & policy, Information security, Software engineering
 
 ## Summary
 - In this role, you'll design and execute red teaming attacks on frontier AI systems, identifying vulnerabilities and translating findings into clear reports.
@@ -34,4 +34,4 @@ areas:
 <p class="apply-cta"><a href="https://www.grayswan.ai/careers?ashby_jid=e22e9376-8158-4b1d-bddf-e059bb846d6a">Apply →</a></p>
 
 ---
-*Posted 2026-08-03 · Listing synced 2026-08-21 · 80k job ID `reclArD7JAh7GJPoD`*
+*Posted 2026-08-03 · Listing synced 2026-08-22 · 80k job ID `reclArD7JAh7GJPoD`*

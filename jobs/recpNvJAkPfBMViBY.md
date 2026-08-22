@@ -2,7 +2,7 @@
 title: "Staff Analyst, Nuclear Weapons Council"
 employer: "Anser (US government role)"
 job_id: "recpNvJAkPfBMViBY"
-last_updated: "2026-08-21T05:32:00.247834Z"
+last_updated: "2026-08-22T05:32:09.108168Z"
 posted_at: "2026-08-07T00:00:00Z"
 status: ready
 apply_url: "https://www.anser.org/job/?id=5376249008"
@@ -22,7 +22,7 @@ areas:
 <dt>Salary</dt><dd>$99,300 – $144,100</dd>
 </dl>
 
-**Areas & skills:** Nuclear security, Research, Policy
+**Areas & skills:** Nuclear security, Policy, Research
 
 ## Summary
 - In this role, you'll support the Nuclear Weapons Council Staff by conducting research, analysis, and coordination on U.S. nuclear deterrent issues.
@@ -34,4 +34,4 @@ areas:
 <p class="apply-cta"><a href="https://www.anser.org/job/?id=5376249008">Apply →</a></p>
 
 ---
-*Posted 2026-08-07 · Listing synced 2026-08-21 · 80k job ID `recpNvJAkPfBMViBY`*
+*Posted 2026-08-07 · Listing synced 2026-08-22 · 80k job ID `recpNvJAkPfBMViBY`*

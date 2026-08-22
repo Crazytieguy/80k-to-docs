@@ -2,7 +2,7 @@
 title: "Researcher, Recursive Self-Improvement Safety"
 employer: "OpenAI"
 job_id: "recS2tiKi7UamUdyt"
-last_updated: "2026-08-21T05:31:59.121127Z"
+last_updated: "2026-08-22T05:32:07.818443Z"
 posted_at: "2026-08-10T00:00:00Z"
 status: ready
 apply_url: "https://openai.com/careers/researcher-recursive-self-improvement-safety-san-francisco/"
@@ -22,7 +22,7 @@ areas:
 <dt>Salary</dt><dd>$295,000 – $445,000</dd>
 </dl>
 
-**Areas & skills:** AI safety & policy, Research, Software engineering, Strategy
+**Areas & skills:** AI safety & policy, Research, Strategy, Software engineering
 
 ## Summary
 - In this role, you'll prepare for future AI safety risks by developing mitigations for loss-of-control and recursive self-improvement scenarios.
@@ -34,4 +34,4 @@ areas:
 <p class="apply-cta"><a href="https://openai.com/careers/researcher-recursive-self-improvement-safety-san-francisco/">Apply →</a></p>
 
 ---
-*Posted 2026-08-10 · Listing synced 2026-08-21 · 80k job ID `recS2tiKi7UamUdyt`*
+*Posted 2026-08-10 · Listing synced 2026-08-22 · 80k job ID `recS2tiKi7UamUdyt`*

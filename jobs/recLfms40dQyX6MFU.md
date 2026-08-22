@@ -2,7 +2,7 @@
 title: "Head of AI Red Teaming"
 employer: "Trajectory Labs"
 job_id: "recLfms40dQyX6MFU"
-last_updated: "2026-08-21T05:31:51.382675Z"
+last_updated: "2026-08-22T05:31:59.847668Z"
 posted_at: "2026-08-14T00:03:00Z"
 status: ready
 apply_url: "https://www.trajectorylabs.com/careers/head-of-ai-red-teaming"
@@ -22,7 +22,7 @@ areas:
 <dt>Salary</dt><dd>$250,000 – $400,000</dd>
 </dl>
 
-**Areas & skills:** AI safety & policy, Information security, Management, Strategy
+**Areas & skills:** AI safety & policy, Strategy, Management, Information security
 
 ## Summary
 - In this role, you'll manage the prompt injection red-teaming operation end to end, delivering safer models for frontier labs.
@@ -34,4 +34,4 @@ areas:
 <p class="apply-cta"><a href="https://www.trajectorylabs.com/careers/head-of-ai-red-teaming">Apply →</a></p>
 
 ---
-*Posted 2026-08-14 · Listing synced 2026-08-21 · 80k job ID `recLfms40dQyX6MFU`*
+*Posted 2026-08-14 · Listing synced 2026-08-22 · 80k job ID `recLfms40dQyX6MFU`*

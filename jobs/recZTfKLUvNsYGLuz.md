@@ -2,7 +2,7 @@
 title: "Data Scientist, Preparedness"
 employer: "OpenAI"
 job_id: "recZTfKLUvNsYGLuz"
-last_updated: "2026-08-21T05:33:00.131387Z"
+last_updated: "2026-08-22T05:33:08.803101Z"
 posted_at: "2022-01-11T00:00:00Z"
 status: ready
 apply_url: "https://openai.com/careers/data-scientist-preparedness-san-francisco/"
@@ -22,7 +22,7 @@ areas:
 <dt>Salary</dt><dd>$347,000 – $400,000</dd>
 </dl>
 
-**Areas & skills:** AI safety & policy, Software engineering, Information security
+**Areas & skills:** AI safety & policy, Information security, Software engineering
 
 ## Summary
 - In this role, you'll build and improve mitigation systems that prevent extreme harms from AI systems.
@@ -34,4 +34,4 @@ areas:
 <p class="apply-cta"><a href="https://openai.com/careers/data-scientist-preparedness-san-francisco/">Apply →</a></p>
 
 ---
-*Posted 2022-01-11 · Listing synced 2026-08-21 · 80k job ID `recZTfKLUvNsYGLuz`*
+*Posted 2022-01-11 · Listing synced 2026-08-22 · 80k job ID `recZTfKLUvNsYGLuz`*

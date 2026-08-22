@@ -4,25 +4,20 @@ employer: "Cambridge Boston Alignment Initiative"
 job_id: "recmlrhnRzNxDIyus"
 last_updated: "2026-08-21T05:33:08.027458Z"
 posted_at: "2022-01-06T00:00:00Z"
-status: ready
+status: closed
+closed_at: "2026-08-22"
 apply_url: "https://airtable.com/appekfFNw7V75LXQn/pagwQRIDaql0hufJI/form"
 areas:
   - "AI safety & policy"
 ---
 
+> ⚠️ **CLOSED on 2026-08-22** — this job is no longer listed on the 80,000 Hours board. Archived snapshot below.
+
 # Teaching Assistant, Cambridge Bootcamp for Research in Interpretability and Alignment
 
-**[Cambridge Boston Alignment Initiative](https://www.cbai.ai/)**
+**Cambridge Boston Alignment Initiative**
 
-<dl class="job-meta">
-<dt>Location</dt><dd>Boston metro area, USA</dd>
-<dt>Role type</dt><dd>Full-time</dd>
-<dt>Experience</dt><dd>Junior (1-4 years experience), Mid (5-9 years experience)</dd>
-<dt>Degree</dt><dd>Undergraduate degree or less</dd>
-<dt>Salary</dt><dd>$124,800</dd>
-</dl>
-
-**Areas & skills:** AI safety & policy, Other
+**Areas & skills:** AI safety & policy
 
 ## Summary
 - In this role, you'll support participants through a 3-week intensive ML bootcamp designed to teach AI safety skills.

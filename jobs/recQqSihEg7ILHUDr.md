@@ -2,7 +2,7 @@
 title: "Lightcone Commons"
 employer: "Lightcone Infrastructure"
 job_id: "recQqSihEg7ILHUDr"
-last_updated: "2026-08-21T05:31:56.091767Z"
+last_updated: "2026-08-22T05:32:04.645349Z"
 posted_at: "2026-08-11T00:05:00Z"
 status: ready
 apply_url: "https://www.lightconecommons.com/apply"
@@ -21,7 +21,7 @@ areas:
 <dt>Degree</dt><dd>Undergraduate degree or less</dd>
 </dl>
 
-**Areas & skills:** Building effective altruism, Research, Strategy
+**Areas & skills:** Building effective altruism, Strategy, Research
 
 ## Summary
 - Funding available for ambitious philanthropic projects.
@@ -33,4 +33,4 @@ areas:
 <p class="apply-cta"><a href="https://www.lightconecommons.com/apply">Apply →</a></p>
 
 ---
-*Posted 2026-08-11 · Listing synced 2026-08-21 · 80k job ID `recQqSihEg7ILHUDr`*
+*Posted 2026-08-11 · Listing synced 2026-08-22 · 80k job ID `recQqSihEg7ILHUDr`*

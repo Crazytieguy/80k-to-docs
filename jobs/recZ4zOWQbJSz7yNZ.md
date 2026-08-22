@@ -2,7 +2,7 @@
 title: "Opportunities, East Africa"
 employer: "Innovations for Poverty Action"
 job_id: "recZ4zOWQbJSz7yNZ"
-last_updated: "2026-08-21T05:33:38.034066Z"
+last_updated: "2026-08-22T05:33:47.028691Z"
 posted_at: "2022-01-02T00:00:00Z"
 status: ready
 apply_url: "https://poverty-action.org/current-opportunities#:~:text=Senior%20Program%20Associate-,East%20Africa,-Kenya"
@@ -21,7 +21,7 @@ areas:
 <dt>Degree</dt><dd>Undergraduate degree or less</dd>
 </dl>
 
-**Areas & skills:** Global health & development, Research, Policy, Operations
+**Areas & skills:** Global health & development, Policy, Operations, Research
 
 ## Summary
 - J-PAL are hiring for additional roles in Country Offices in East Africa.
@@ -30,4 +30,4 @@ areas:
 <p class="apply-cta"><a href="https://poverty-action.org/current-opportunities#:~:text=Senior%20Program%20Associate-,East%20Africa,-Kenya">Apply →</a></p>
 
 ---
-*Posted 2022-01-02 · Listing synced 2026-08-21 · 80k job ID `recZ4zOWQbJSz7yNZ`*
+*Posted 2022-01-02 · Listing synced 2026-08-22 · 80k job ID `recZ4zOWQbJSz7yNZ`*

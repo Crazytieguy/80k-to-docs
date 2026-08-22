@@ -2,7 +2,7 @@
 title: "Various Opportunities"
 employer: "AI & Democracy Foundation"
 job_id: "reca3GrrKAbeHCyuz"
-last_updated: "2026-08-21T05:33:18.369601Z"
+last_updated: "2026-08-22T05:33:29.329653Z"
 posted_at: "2022-01-05T00:00:00Z"
 status: ready
 apply_url: "https://airtable.com/appHnaEzJEzXRdtJW/pagFxyhLEAJumpmlC/form"
@@ -21,7 +21,7 @@ areas:
 <dt>Degree</dt><dd>Undergraduate degree or less</dd>
 </dl>
 
-**Areas & skills:** AI safety & policy, Operations, Strategy
+**Areas & skills:** AI safety & policy, Strategy, Operations
 
 ## Summary
 - In this role, you'll help build democratic infrastructure for the AI era at the AI and Democracy Foundation.
@@ -33,4 +33,4 @@ areas:
 <p class="apply-cta"><a href="https://airtable.com/appHnaEzJEzXRdtJW/pagFxyhLEAJumpmlC/form">Apply →</a></p>
 
 ---
-*Posted 2022-01-05 · Listing synced 2026-08-21 · 80k job ID `reca3GrrKAbeHCyuz`*
+*Posted 2022-01-05 · Listing synced 2026-08-22 · 80k job ID `reca3GrrKAbeHCyuz`*

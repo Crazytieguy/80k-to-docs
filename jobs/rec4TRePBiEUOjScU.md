@@ -2,7 +2,7 @@
 title: "AI Red Teamer, Frontier AI Safety"
 employer: "July AI"
 job_id: "rec4TRePBiEUOjScU"
-last_updated: "2026-08-21T05:33:38.672264Z"
+last_updated: "2026-08-22T05:33:47.640376Z"
 posted_at: "2022-01-02T00:00:00Z"
 status: ready
 apply_url: "https://www.notion.so/Use-Your-Creativity-to-Make-a-Frontier-AI-Model-Safer-AI-Red-Teaming-298c6fc4dec280ee956dcb78897f323b"
@@ -22,7 +22,7 @@ areas:
 <dt>Salary</dt><dd>$62,400 – $104,000</dd>
 </dl>
 
-**Areas & skills:** Career development: Technical, Other, Information security
+**Areas & skills:** Career development: Technical, Information security, Other
 
 ## Summary
 - In this role, you'll create adversarial prompts to test and improve the safety of frontier AI models.
@@ -34,4 +34,4 @@ areas:
 <p class="apply-cta"><a href="https://www.notion.so/Use-Your-Creativity-to-Make-a-Frontier-AI-Model-Safer-AI-Red-Teaming-298c6fc4dec280ee956dcb78897f323b">Apply →</a></p>
 
 ---
-*Posted 2022-01-02 · Listing synced 2026-08-21 · 80k job ID `rec4TRePBiEUOjScU`*
+*Posted 2022-01-02 · Listing synced 2026-08-22 · 80k job ID `rec4TRePBiEUOjScU`*

@@ -2,7 +2,7 @@
 title: "Operations Director / Operations Manager"
 employer: "New Movement Organization for AI Regulation"
 job_id: "recdOqNEBsMyiJwm7"
-last_updated: "2026-08-21T05:31:50.560989Z"
+last_updated: "2026-08-22T05:31:59.054210Z"
 posted_at: "2026-08-17T00:00:00Z"
 status: ready
 apply_url: "https://tally.so/r/zxABqg"
@@ -34,4 +34,4 @@ areas:
 <p class="apply-cta"><a href="https://tally.so/r/zxABqg">Apply →</a></p>
 
 ---
-*Posted 2026-08-17 · Listing synced 2026-08-21 · 80k job ID `recdOqNEBsMyiJwm7`*
+*Posted 2026-08-17 · Listing synced 2026-08-22 · 80k job ID `recdOqNEBsMyiJwm7`*

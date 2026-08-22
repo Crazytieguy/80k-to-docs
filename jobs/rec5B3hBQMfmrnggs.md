@@ -2,7 +2,7 @@
 title: "Member of Technical Staff"
 employer: "Lucid Computing"
 job_id: "rec5B3hBQMfmrnggs"
-last_updated: "2026-08-21T05:31:50.248297Z"
+last_updated: "2026-08-22T05:31:58.752271Z"
 posted_at: "2026-08-17T00:00:00Z"
 status: ready
 apply_url: "https://jobs.ashbyhq.com/lucidcomputing/a19cd7c3-6ed2-4659-bf9a-1c27200319d7"
@@ -21,7 +21,7 @@ areas:
 <dt>Degree</dt><dd>Undergraduate degree or less</dd>
 </dl>
 
-**Areas & skills:** AI safety & policy, Engineering, Software engineering, Information security
+**Areas & skills:** AI safety & policy, Software engineering, Information security, Engineering
 
 ## Summary
 - In this role, you'll build verifiable compute infrastructure producing cryptographic evidence about AI hardware operations and integrity.
@@ -33,4 +33,4 @@ areas:
 <p class="apply-cta"><a href="https://jobs.ashbyhq.com/lucidcomputing/a19cd7c3-6ed2-4659-bf9a-1c27200319d7">Apply →</a></p>
 
 ---
-*Posted 2026-08-17 · Listing synced 2026-08-21 · 80k job ID `rec5B3hBQMfmrnggs`*
+*Posted 2026-08-17 · Listing synced 2026-08-22 · 80k job ID `rec5B3hBQMfmrnggs`*

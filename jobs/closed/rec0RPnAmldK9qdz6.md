@@ -4,24 +4,20 @@ employer: "Innovations for Poverty Action"
 job_id: "rec0RPnAmldK9qdz6"
 last_updated: "2026-08-21T05:32:03.133065Z"
 posted_at: "2026-08-06T00:00:00Z"
-status: ready
+status: closed
+closed_at: "2026-08-22"
 apply_url: "https://poverty-action.org/research-analyst-14"
 areas:
   - "Global health & development"
 ---
 
+> ⚠️ **CLOSED on 2026-08-22** — this job is no longer listed on the 80,000 Hours board. Archived snapshot below.
+
 # Research Analyst
 
-**[Innovations for Poverty Action](https://www.poverty-action.org)**
+**Innovations for Poverty Action**
 
-<dl class="job-meta">
-<dt>Location</dt><dd>Lima, Peru, Peru, South America</dd>
-<dt>Role type</dt><dd>Full-time</dd>
-<dt>Experience</dt><dd>Junior (1-4 years experience)</dd>
-<dt>Degree</dt><dd>Undergraduate degree or less</dd>
-</dl>
-
-**Areas & skills:** Global health & development, Research, Policy
+**Areas & skills:** Global health & development
 
 ## Summary
 - In this role, you'll support Peru's social registry improvement project by supervising data collection, developing digital tools, and monitoring data quality.

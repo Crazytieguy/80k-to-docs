@@ -2,7 +2,7 @@
 title: "Principal Researcher, AI Risk Management"
 employer: "US Government, National Institute of Standards and Technology"
 job_id: "recdpwoN8ODhHUj3U"
-last_updated: "2026-08-21T05:31:39.923028Z"
+last_updated: "2026-08-22T05:31:48.326440Z"
 posted_at: "2026-08-20T00:05:00Z"
 status: ready
 apply_url: "https://www.usajobs.gov/job/881334900"
@@ -22,7 +22,7 @@ areas:
 <dt>Salary</dt><dd>$118,675 – $197,200</dd>
 </dl>
 
-**Areas & skills:** AI safety & policy, Research, Policy
+**Areas & skills:** AI safety & policy, Policy, Research
 
 ## Summary
 - In this role, you'll establish national and international practices for trustworthy AI technology through the NIST AI Risk Management Framework.
@@ -34,4 +34,4 @@ areas:
 <p class="apply-cta"><a href="https://www.usajobs.gov/job/881334900">Apply →</a></p>
 
 ---
-*Posted 2026-08-20 · Listing synced 2026-08-21 · 80k job ID `recdpwoN8ODhHUj3U`*
+*Posted 2026-08-20 · Listing synced 2026-08-22 · 80k job ID `recdpwoN8ODhHUj3U`*

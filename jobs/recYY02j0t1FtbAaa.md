@@ -2,7 +2,7 @@
 title: "Director, Events"
 employer: "Horizon Institute for Public Service"
 job_id: "recYY02j0t1FtbAaa"
-last_updated: "2026-08-21T05:32:11.959068Z"
+last_updated: "2026-08-22T05:32:20.215122Z"
 posted_at: "2026-07-31T00:05:00Z"
 status: ready
 apply_url: "https://horizonpublicservice.org/director-events/"
@@ -22,7 +22,7 @@ areas:
 <dt>Salary</dt><dd>$150,000 – $200,000</dd>
 </dl>
 
-**Areas & skills:** AI safety & policy, Operations, Management, Strategy
+**Areas & skills:** AI safety & policy, Operations, Strategy, Management
 
 ## Summary
 - In this role, you'll own Horizon's events strategy, budgets, and execution quality across workshops, convenings, and policy events.
@@ -34,4 +34,4 @@ areas:
 <p class="apply-cta"><a href="https://horizonpublicservice.org/director-events/">Apply →</a></p>
 
 ---
-*Posted 2026-07-31 · Listing synced 2026-08-21 · 80k job ID `recYY02j0t1FtbAaa`*
+*Posted 2026-07-31 · Listing synced 2026-08-22 · 80k job ID `recYY02j0t1FtbAaa`*

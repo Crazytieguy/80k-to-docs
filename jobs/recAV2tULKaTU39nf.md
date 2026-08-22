@@ -2,7 +2,7 @@
 title: "Team Lead, GenAI Safety"
 employer: "Alice"
 job_id: "recAV2tULKaTU39nf"
-last_updated: "2026-08-21T05:32:16.646687Z"
+last_updated: "2026-08-22T05:32:25.897082Z"
 posted_at: "2026-07-30T00:01:00Z"
 status: ready
 apply_url: "https://alice.io/positions/position-01_f62"
@@ -22,7 +22,7 @@ areas:
 <dt>Salary</dt><dd>$127,000 – $140,000</dd>
 </dl>
 
-**Areas & skills:** AI safety & policy, Research, Information security, Management
+**Areas & skills:** AI safety & policy, Research, Management, Information security
 
 ## Summary
 - In this role, you'll lead a multidisciplinary team conducting adversarial testing and risk evaluations to strengthen AI model safety.
@@ -34,4 +34,4 @@ areas:
 <p class="apply-cta"><a href="https://alice.io/positions/position-01_f62">Apply →</a></p>
 
 ---
-*Posted 2026-07-30 · Listing synced 2026-08-21 · 80k job ID `recAV2tULKaTU39nf`*
+*Posted 2026-07-30 · Listing synced 2026-08-22 · 80k job ID `recAV2tULKaTU39nf`*

@@ -2,7 +2,7 @@
 title: "List of Potential Biosecurity PhD Advisors"
 employer: "Various Potential PhD Supervisors"
 job_id: "recCe9EK4WkFYdQQ2"
-last_updated: "2026-08-21T05:33:30.867219Z"
+last_updated: "2026-08-22T05:33:40.164919Z"
 posted_at: "2022-01-04T00:00:00Z"
 status: ready
 apply_url: "https://airtable.com/appEoCwOwtT7OnfoH/shrGsYllkZw4PsmAn/tbl6RgyRf2Dn4OsVl/viwnrWzFzzgiEtAFg?blocks=hide"
@@ -21,7 +21,7 @@ areas:
 <dt>Degree</dt><dd>Master's degree</dd>
 </dl>
 
-**Areas & skills:** Biosecurity & pandemic preparedness, Engineering, Research
+**Areas & skills:** Biosecurity & pandemic preparedness, Research, Engineering
 
 ## Summary
 - This is a public list of potential technical biosecurity PhD supervisors.
@@ -31,4 +31,4 @@ areas:
 <p class="apply-cta"><a href="https://airtable.com/appEoCwOwtT7OnfoH/shrGsYllkZw4PsmAn/tbl6RgyRf2Dn4OsVl/viwnrWzFzzgiEtAFg?blocks=hide">Apply →</a></p>
 
 ---
-*Posted 2022-01-04 · Listing synced 2026-08-21 · 80k job ID `recCe9EK4WkFYdQQ2`*
+*Posted 2022-01-04 · Listing synced 2026-08-22 · 80k job ID `recCe9EK4WkFYdQQ2`*

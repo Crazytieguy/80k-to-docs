@@ -4,25 +4,20 @@ employer: "Center for AI Safety"
 job_id: "rec5uiAFtb0uqt3mv"
 last_updated: "2026-08-21T05:32:56.453800Z"
 posted_at: "2022-01-11T00:00:00Z"
-status: ready
+status: closed
+closed_at: "2026-08-22"
 apply_url: "https://job-boards.greenhouse.io/centerforartificialintelligencesafetyinc/jobs/4315278009"
 areas:
   - "AI safety & policy"
 ---
 
+> ⚠️ **CLOSED on 2026-08-22** — this job is no longer listed on the 80,000 Hours board. Archived snapshot below.
+
 # Principal, Special Projects
 
-**[Center for AI Safety](https://www.cais.ai/)**
+**Center for AI Safety**
 
-<dl class="job-meta">
-<dt>Location</dt><dd>San Francisco Bay Area, USA</dd>
-<dt>Role type</dt><dd>Full-time</dd>
-<dt>Experience</dt><dd>Mid (5-9 years experience), Senior (10+ years experience)</dd>
-<dt>Degree</dt><dd>Undergraduate degree or less</dd>
-<dt>Salary</dt><dd>$150,000 – $250,000</dd>
-</dl>
-
-**Areas & skills:** AI safety & policy, Strategy
+**Areas & skills:** AI safety & policy
 
 ## Summary
 - In this role, you'll own high-stakes projects end-to-end, from identifying opportunities to driving execution with significant autonomy.

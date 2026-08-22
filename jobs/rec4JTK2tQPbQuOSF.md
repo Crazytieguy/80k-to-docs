@@ -2,7 +2,7 @@
 title: "Science and Technology Policy Fellowship"
 employer: "American Association for the Advancement of Science"
 job_id: "rec4JTK2tQPbQuOSF"
-last_updated: "2026-08-21T05:31:46.686809Z"
+last_updated: "2026-08-22T05:31:55.288313Z"
 posted_at: "2026-08-18T00:00:00Z"
 status: ready
 apply_url: "https://www.aaas.org/programs/science-technology-policy-fellowships/become-st-policy-fellow"
@@ -34,4 +34,4 @@ areas:
 <p class="apply-cta"><a href="https://www.aaas.org/programs/science-technology-policy-fellowships/become-st-policy-fellow">Apply →</a></p>
 
 ---
-*Posted 2026-08-18 · Listing synced 2026-08-21 · 80k job ID `rec4JTK2tQPbQuOSF`*
+*Posted 2026-08-18 · Listing synced 2026-08-22 · 80k job ID `rec4JTK2tQPbQuOSF`*

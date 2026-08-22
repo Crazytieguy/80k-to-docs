@@ -2,7 +2,7 @@
 title: "Volunteer"
 employer: "Taimaka"
 job_id: "recUFmU8ntUDjNVRC"
-last_updated: "2026-08-21T05:33:41.567873Z"
+last_updated: "2026-08-22T05:33:50.495150Z"
 posted_at: "2022-01-02T00:00:00Z"
 status: ready
 apply_url: "https://taimaka.org/work-with-us"
@@ -21,7 +21,7 @@ areas:
 <dt>Degree</dt><dd>Undergraduate degree or less</dd>
 </dl>
 
-**Areas & skills:** Global health & development, Research, Outreach, Software engineering
+**Areas & skills:** Global health & development, Research, Software engineering, Outreach
 
 ## Summary
 - As a volunteer, you'll pursue the most cost-effective development solutions and raise money to scale them.
@@ -30,4 +30,4 @@ areas:
 <p class="apply-cta"><a href="https://taimaka.org/work-with-us">Apply →</a></p>
 
 ---
-*Posted 2022-01-02 · Listing synced 2026-08-21 · 80k job ID `recUFmU8ntUDjNVRC`*
+*Posted 2022-01-02 · Listing synced 2026-08-22 · 80k job ID `recUFmU8ntUDjNVRC`*

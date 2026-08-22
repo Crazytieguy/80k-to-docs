@@ -2,7 +2,7 @@
 title: "Senior Research Engineer"
 employer: "FAR AI"
 job_id: "recRzRjGXxPWK8jxo"
-last_updated: "2026-08-21T05:32:43.183937Z"
+last_updated: "2026-08-22T05:32:51.550420Z"
 posted_at: "2026-06-22T00:00:00Z"
 status: ready
 apply_url: "https://jobs.ashbyhq.com/far.ai/4f6fece8-5ed9-41f4-aed8-902d52dc42ef?embed=js"
@@ -22,7 +22,7 @@ areas:
 <dt>Salary</dt><dd>$150,000 – $250,000</dd>
 </dl>
 
-**Areas & skills:** AI safety & policy, Research, Software engineering
+**Areas & skills:** AI safety & policy, Software engineering, Research
 
 ## Summary
 - In this role, you'll accelerate AI safety research by tackling challenging engineering problems and increasing research depth.
@@ -34,4 +34,4 @@ areas:
 <p class="apply-cta"><a href="https://jobs.ashbyhq.com/far.ai/4f6fece8-5ed9-41f4-aed8-902d52dc42ef?embed=js">Apply →</a></p>
 
 ---
-*Posted 2026-06-22 · Listing synced 2026-08-21 · 80k job ID `recRzRjGXxPWK8jxo`*
+*Posted 2026-06-22 · Listing synced 2026-08-22 · 80k job ID `recRzRjGXxPWK8jxo`*

@@ -2,7 +2,7 @@
 title: "Director, Peace"
 employer: "MacArthur Foundation"
 job_id: "recs9V0uuM3QiO3oa"
-last_updated: "2026-08-21T05:32:03.463439Z"
+last_updated: "2026-08-22T05:32:12.429828Z"
 posted_at: "2026-08-06T00:00:00Z"
 status: ready
 apply_url: "https://macfound.wd1.myworkdayjobs.com/MAC_FOUND_EXT_CAREERS/job/Chicago-Office/Director--Peace_REQ-000354"
@@ -34,4 +34,4 @@ areas:
 <p class="apply-cta"><a href="https://macfound.wd1.myworkdayjobs.com/MAC_FOUND_EXT_CAREERS/job/Chicago-Office/Director--Peace_REQ-000354">Apply →</a></p>
 
 ---
-*Posted 2026-08-06 · Listing synced 2026-08-21 · 80k job ID `recs9V0uuM3QiO3oa`*
+*Posted 2026-08-06 · Listing synced 2026-08-22 · 80k job ID `recs9V0uuM3QiO3oa`*

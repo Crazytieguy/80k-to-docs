@@ -4,25 +4,20 @@ employer: "Simon Institute for Longterm Governance"
 job_id: "recGGXLOMhQa6Y99h"
 last_updated: "2026-08-21T05:32:23.502746Z"
 posted_at: "2026-07-24T00:04:54Z"
-status: ready
+status: closed
+closed_at: "2026-08-22"
 apply_url: "https://simoninstitute.ch/jobs/chief-of-staff"
 areas:
   - "AI safety & policy"
 ---
 
+> ⚠️ **CLOSED on 2026-08-22** — this job is no longer listed on the 80,000 Hours board. Archived snapshot below.
+
 # Chief of Staff
 
-**[Simon Institute for Longterm Governance](https://www.simoninstitute.ch/)**
+**Simon Institute for Longterm Governance**
 
-<dl class="job-meta">
-<dt>Location</dt><dd>Geneva, Switzerland, Switzerland, Europe (ex UK)</dd>
-<dt>Role type</dt><dd>Full-time</dd>
-<dt>Experience</dt><dd>Mid (5-9 years experience), Senior (10+ years experience)</dd>
-<dt>Degree</dt><dd>Undergraduate degree or less</dd>
-<dt>Salary</dt><dd>$147,511 – $218,766</dd>
-</dl>
-
-**Areas & skills:** AI safety & policy, Operations, Management, Strategy
+**Areas & skills:** AI safety & policy
 
 ## Summary
 - In this role, you'll become the CEO's tactical confidant, coordinating and scaling the team while supporting his leadership.

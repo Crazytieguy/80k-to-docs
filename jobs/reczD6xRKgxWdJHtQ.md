@@ -2,7 +2,7 @@
 title: "Senior ML Research Developer"
 employer: "LawZero"
 job_id: "reczD6xRKgxWdJHtQ"
-last_updated: "2026-08-21T05:33:24.856380Z"
+last_updated: "2026-08-22T05:33:35.410776Z"
 posted_at: "2022-01-05T00:00:00Z"
 status: ready
 apply_url: "https://job-boards.greenhouse.io/lawzero/jobs/4002929009"
@@ -21,7 +21,7 @@ areas:
 <dt>Degree</dt><dd>Master's degree</dd>
 </dl>
 
-**Areas & skills:** AI safety & policy, Research, Software engineering
+**Areas & skills:** AI safety & policy, Software engineering, Research
 
 ## Summary
 - In this role, you'll collaborate with ML research scientists to solve difficult training and inference problems using very large models.
@@ -33,4 +33,4 @@ areas:
 <p class="apply-cta"><a href="https://job-boards.greenhouse.io/lawzero/jobs/4002929009">Apply →</a></p>
 
 ---
-*Posted 2022-01-05 · Listing synced 2026-08-21 · 80k job ID `reczD6xRKgxWdJHtQ`*
+*Posted 2022-01-05 · Listing synced 2026-08-22 · 80k job ID `reczD6xRKgxWdJHtQ`*

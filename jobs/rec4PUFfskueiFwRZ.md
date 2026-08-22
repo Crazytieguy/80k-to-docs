@@ -2,7 +2,7 @@
 title: "Technical Director, AI Safety"
 employer: "Faculty"
 job_id: "rec4PUFfskueiFwRZ"
-last_updated: "2026-08-21T05:33:21.827070Z"
+last_updated: "2026-08-22T05:33:32.738184Z"
 posted_at: "2022-01-05T00:00:00Z"
 status: ready
 apply_url: "https://jobs.ashbyhq.com/faculty/7e726de6-6327-40cd-a00d-0e9be34e1cb4"
@@ -21,7 +21,7 @@ areas:
 <dt>Degree</dt><dd>Undergraduate degree or less</dd>
 </dl>
 
-**Areas & skills:** AI safety & policy, Management, Strategy
+**Areas & skills:** AI safety & policy, Strategy, Management
 
 ## Summary
 - In this role, you'll own the technical strategy for AI safety, determining research directions and building mitigation technologies.
@@ -33,4 +33,4 @@ areas:
 <p class="apply-cta"><a href="https://jobs.ashbyhq.com/faculty/7e726de6-6327-40cd-a00d-0e9be34e1cb4">Apply →</a></p>
 
 ---
-*Posted 2022-01-05 · Listing synced 2026-08-21 · 80k job ID `rec4PUFfskueiFwRZ`*
+*Posted 2022-01-05 · Listing synced 2026-08-22 · 80k job ID `rec4PUFfskueiFwRZ`*

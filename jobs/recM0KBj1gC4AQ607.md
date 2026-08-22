@@ -2,7 +2,7 @@
 title: "Program Assistant, International Program"
 employer: "Carnegie Corporation of New York"
 job_id: "recM0KBj1gC4AQ607"
-last_updated: "2026-08-21T05:32:43.479991Z"
+last_updated: "2026-08-22T05:32:51.933124Z"
 posted_at: "2026-06-19T00:00:00Z"
 status: ready
 apply_url: "https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=9ad45f59-5c0c-4073-aa8a-607eccdecc5c&ccId=19000101_000001&lang=en_US&jobId=594321"
@@ -22,7 +22,7 @@ areas:
 <dt>Salary</dt><dd>$74,000 – $80,000</dd>
 </dl>
 
-**Areas & skills:** Career development: Technical, Operations, Strategy
+**Areas & skills:** Career development: Technical, Strategy, Operations
 
 ## Summary
 - In this role, you'll provide programmatic support to the Senior Program Director for grantmaking and project management in international affairs.
@@ -34,4 +34,4 @@ areas:
 <p class="apply-cta"><a href="https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=9ad45f59-5c0c-4073-aa8a-607eccdecc5c&amp;ccId=19000101_000001&amp;lang=en_US&amp;jobId=594321">Apply →</a></p>
 
 ---
-*Posted 2026-06-19 · Listing synced 2026-08-21 · 80k job ID `recM0KBj1gC4AQ607`*
+*Posted 2026-06-19 · Listing synced 2026-08-22 · 80k job ID `recM0KBj1gC4AQ607`*

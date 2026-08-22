@@ -4,25 +4,20 @@ employer: "The Humane League"
 job_id: "recD9mmHo25aT6mnt"
 last_updated: "2026-08-21T05:32:10.755258Z"
 posted_at: "2026-08-03T00:00:00Z"
-status: ready
+status: closed
+closed_at: "2026-08-22"
 apply_url: "https://thehumaneleague.org/single-offer-career?gh_jid=8071492"
 areas:
   - "Animal welfare"
 ---
 
+> ⚠️ **CLOSED on 2026-08-22** — this job is no longer listed on the 80,000 Hours board. Archived snapshot below.
+
 # Temporary US Corporate Relations Specialist
 
-**[The Humane League](https://thehumaneleague.com)**
+**The Humane League**
 
-<dl class="job-meta">
-<dt>Location</dt><dd>Remote, USA, Remote, Canada, USA, Canada</dd>
-<dt>Role type</dt><dd>Full-time</dd>
-<dt>Experience</dt><dd>Junior (1-4 years experience)</dd>
-<dt>Degree</dt><dd>Undergraduate degree or less</dd>
-<dt>Salary</dt><dd>$63,166 – $77,203</dd>
-</dl>
-
-**Areas & skills:** Animal welfare, Outreach
+**Areas & skills:** Animal welfare
 
 ## Summary
 - In this role, you'll lead corporate outreach efforts to build relationships and advance animal welfare commitments with food companies.

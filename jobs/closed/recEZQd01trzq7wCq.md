@@ -4,25 +4,20 @@ employer: "Blueprint Biosecurity"
 job_id: "recEZQd01trzq7wCq"
 last_updated: "2026-08-21T05:32:31.306689Z"
 posted_at: "2026-07-13T00:04:38Z"
-status: ready
+status: closed
+closed_at: "2026-08-22"
 apply_url: "https://blueprintbiosecurity.org/biosurveillance-rfp-2026/"
 areas:
   - "Biosecurity & pandemic preparedness"
 ---
 
+> ⚠️ **CLOSED on 2026-08-22** — this job is no longer listed on the 80,000 Hours board. Archived snapshot below.
+
 # Request for Proposals, Pathogen-Agnostic Biothreat Detection
 
-**[Blueprint Biosecurity](https://blueprintbiosecurity.org/)**
+**Blueprint Biosecurity**
 
-<dl class="job-meta">
-<dt>Location</dt><dd>Remote, Global</dd>
-<dt>Role type</dt><dd>Funding</dd>
-<dt>Experience</dt><dd>Multiple experience levels</dd>
-<dt>Degree</dt><dd>Undergraduate degree or less</dd>
-<dt>Salary</dt><dd>$5,000,000</dd>
-</dl>
-
-**Areas & skills:** Biosecurity & pandemic preparedness, Research
+**Areas & skills:** Biosecurity & pandemic preparedness
 
 ## Summary
 - Blueprint Biosecurity requests expressions of interest from groups interested in work targeting human pathogens with pandemic potential.

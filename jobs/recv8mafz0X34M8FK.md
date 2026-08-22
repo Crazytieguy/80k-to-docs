@@ -2,7 +2,7 @@
 title: "Producer, Studio Team"
 employer: "80,000 Hours"
 job_id: "recv8mafz0X34M8FK"
-last_updated: "2026-08-21T05:32:04.430194Z"
+last_updated: "2026-08-22T05:32:13.406286Z"
 posted_at: "2026-08-05T00:04:26Z"
 status: ready
 apply_url: "https://jobs.ashbyhq.com/80000hours/51f13f82-2328-432e-bbb5-e38f04b2bb07"
@@ -19,7 +19,7 @@ areas:
 <dt>Role type</dt><dd>Full-time</dd>
 <dt>Experience</dt><dd>Junior (1-4 years experience), Mid (5-9 years experience)</dd>
 <dt>Degree</dt><dd>Undergraduate degree or less</dd>
-<dt>Salary</dt><dd>$126,876 – $154,161</dd>
+<dt>Salary</dt><dd>$126,889 – $154,177</dd>
 </dl>
 
 **Areas & skills:** AI safety & policy, Other
@@ -34,4 +34,4 @@ areas:
 <p class="apply-cta"><a href="https://jobs.ashbyhq.com/80000hours/51f13f82-2328-432e-bbb5-e38f04b2bb07">Apply →</a></p>
 
 ---
-*Posted 2026-08-05 · Listing synced 2026-08-21 · 80k job ID `recv8mafz0X34M8FK`*
+*Posted 2026-08-05 · Listing synced 2026-08-22 · 80k job ID `recv8mafz0X34M8FK`*

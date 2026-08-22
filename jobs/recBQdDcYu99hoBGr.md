@@ -1,8 +1,8 @@
 ---
-title: "Research Scientist, Safety Oversight"
+title: "Research Scientist, Safety Oversight, London"
 employer: "Google DeepMind"
 job_id: "recBQdDcYu99hoBGr"
-last_updated: "2026-08-21T05:32:18.784762Z"
+last_updated: "2026-08-22T05:32:28.219216Z"
 posted_at: "2026-07-29T00:00:00Z"
 status: ready
 apply_url: "https://www.google.com/about/careers/applications/jobs/results/96033779797107398-research-scientist-safety-oversight-deepmind?company=DeepMind&page=2"
@@ -10,7 +10,7 @@ areas:
   - "AI safety & policy"
 ---
 
-# Research Scientist, Safety Oversight
+# Research Scientist, Safety Oversight, London
 
 **[Google DeepMind](https://www.deepmind.com)**
 
@@ -33,4 +33,4 @@ areas:
 <p class="apply-cta"><a href="https://www.google.com/about/careers/applications/jobs/results/96033779797107398-research-scientist-safety-oversight-deepmind?company=DeepMind&amp;page=2">Apply →</a></p>
 
 ---
-*Posted 2026-07-29 · Listing synced 2026-08-21 · 80k job ID `recBQdDcYu99hoBGr`*
+*Posted 2026-07-29 · Listing synced 2026-08-22 · 80k job ID `recBQdDcYu99hoBGr`*

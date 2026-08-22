@@ -2,7 +2,7 @@
 title: "Research Scientist"
 employer: "Massachusetts Institute of Technology, Computer Science and Artificial Intelligence Laboratory"
 job_id: "recLzgGO8AlOCHp9J"
-last_updated: "2026-08-21T05:32:45.717669Z"
+last_updated: "2026-08-22T05:32:54.402360Z"
 posted_at: "2026-06-12T00:00:00Z"
 status: ready
 apply_url: "https://careers.peopleclick.com/careerscp/client_mit/external/en-us/gateway/viewFromLink.html?jobPostId=34191&localeCode=en-us"
@@ -22,7 +22,7 @@ areas:
 <dt>Salary</dt><dd>$82,000 – $142,000</dd>
 </dl>
 
-**Areas & skills:** AI safety & policy, Research, Management, Strategy
+**Areas & skills:** AI safety & policy, Research, Strategy, Management
 
 ## Summary
 - In this role, you'll lead a research program on Provable AI Safety, building AI systems that verify their own correctness.
@@ -34,4 +34,4 @@ areas:
 <p class="apply-cta"><a href="https://careers.peopleclick.com/careerscp/client_mit/external/en-us/gateway/viewFromLink.html?jobPostId=34191&amp;localeCode=en-us">Apply →</a></p>
 
 ---
-*Posted 2026-06-12 · Listing synced 2026-08-21 · 80k job ID `recLzgGO8AlOCHp9J`*
+*Posted 2026-06-12 · Listing synced 2026-08-22 · 80k job ID `recLzgGO8AlOCHp9J`*

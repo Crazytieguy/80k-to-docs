@@ -2,7 +2,7 @@
 title: "Organizing Director"
 employer: "New Movement Organization for AI Regulation"
 job_id: "recnMR2FOxExKqD6D"
-last_updated: "2026-08-21T05:31:50.935254Z"
+last_updated: "2026-08-22T05:31:59.402476Z"
 posted_at: "2026-08-17T00:00:00Z"
 status: ready
 apply_url: "https://tally.so/r/GxVV2o"
@@ -22,7 +22,7 @@ areas:
 <dt>Salary</dt><dd>$150,000 – $175,000</dd>
 </dl>
 
-**Areas & skills:** AI safety & policy, Management, Strategy
+**Areas & skills:** AI safety & policy, Strategy, Management
 
 ## Summary
 - In this role, you'll build a nationwide organizing program to convert public concern into grassroots political action on AI.
@@ -34,4 +34,4 @@ areas:
 <p class="apply-cta"><a href="https://tally.so/r/GxVV2o">Apply →</a></p>
 
 ---
-*Posted 2026-08-17 · Listing synced 2026-08-21 · 80k job ID `recnMR2FOxExKqD6D`*
+*Posted 2026-08-17 · Listing synced 2026-08-22 · 80k job ID `recnMR2FOxExKqD6D`*

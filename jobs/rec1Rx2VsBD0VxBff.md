@@ -2,7 +2,7 @@
 title: "Staff / Principal Research Engineer, AI Safety, Technical Mitigations"
 employer: "Lila Sciences"
 job_id: "rec1Rx2VsBD0VxBff"
-last_updated: "2026-08-21T05:33:12.474482Z"
+last_updated: "2026-08-22T05:33:22.008089Z"
 posted_at: "2022-01-06T00:00:00Z"
 status: ready
 apply_url: "https://job-boards.greenhouse.io/lilasciences/jobs/4210472009"
@@ -22,7 +22,7 @@ areas:
 <dt>Salary</dt><dd>$224,000 – $336,000</dd>
 </dl>
 
-**Areas & skills:** AI safety & policy, Software engineering, Strategy
+**Areas & skills:** AI safety & policy, Strategy, Software engineering
 
 ## Summary
 - In this role, you'll lead the design and deployment of technical safety systems for Lila's frontier scientific AI platform.
@@ -34,4 +34,4 @@ areas:
 <p class="apply-cta"><a href="https://job-boards.greenhouse.io/lilasciences/jobs/4210472009">Apply →</a></p>
 
 ---
-*Posted 2022-01-06 · Listing synced 2026-08-21 · 80k job ID `rec1Rx2VsBD0VxBff`*
+*Posted 2022-01-06 · Listing synced 2026-08-22 · 80k job ID `rec1Rx2VsBD0VxBff`*

@@ -4,25 +4,20 @@ employer: "Asia Society Policy Institute"
 job_id: "rec8POyXB7RQApAxa"
 last_updated: "2026-08-21T05:33:34.223784Z"
 posted_at: "2022-01-02T00:00:00Z"
-status: ready
+status: closed
+closed_at: "2026-08-22"
 apply_url: "https://asiasociety.org/policy-institute/summer-intern-asia-society-policy-institute-center-china-analysis-society"
 areas:
   - "Career development: Policy & government"
 ---
 
+> ⚠️ **CLOSED on 2026-08-22** — this job is no longer listed on the 80,000 Hours board. Archived snapshot below.
+
 # Summer Intern,  Center for China Analysis, Society
 
-**[Asia Society Policy Institute](https://asiasociety.org/policy-institute)**
+**Asia Society Policy Institute**
 
-<dl class="job-meta">
-<dt>Location</dt><dd>Washington, DC metro area, New York, NY, USA</dd>
-<dt>Role type</dt><dd>Internship</dd>
-<dt>Experience</dt><dd>Entry-level</dd>
-<dt>Degree</dt><dd>Undergraduate degree or less</dd>
-<dt>Salary</dt><dd>$37,336 – $38,272</dd>
-</dl>
-
-**Areas & skills:** Career development: Policy & government, Research, Policy
+**Areas & skills:** Career development: Policy & government
 
 ## Summary
 - In this role, you'll support China research projects on demography and state responses to social dissent through data work and analysis.

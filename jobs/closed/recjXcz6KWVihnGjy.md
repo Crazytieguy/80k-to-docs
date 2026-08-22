@@ -4,24 +4,20 @@ employer: "INHR"
 job_id: "recjXcz6KWVihnGjy"
 last_updated: "2026-08-21T05:32:02.144356Z"
 posted_at: "2026-08-06T00:02:00Z"
-status: ready
+status: closed
+closed_at: "2026-08-22"
 apply_url: "https://docs.google.com/document/d/1brejHNr1FXHVjuuxlpQ-Kucny3R8nR-s/edit?usp=sharing&ouid=116170959638186777523&rtpof=true&sd=true"
 areas:
   - "AI safety & policy"
 ---
 
+> ⚠️ **CLOSED on 2026-08-22** — this job is no longer listed on the 80,000 Hours board. Archived snapshot below.
+
 # AI Policy Research Fellowship (x2)
 
-**[INHR](https://inhr.org/)**
+**INHR**
 
-<dl class="job-meta">
-<dt>Location</dt><dd>Remote, Global</dd>
-<dt>Role type</dt><dd>Fellowship</dd>
-<dt>Experience</dt><dd>Entry-level</dd>
-<dt>Degree</dt><dd>Undergraduate degree or less</dd>
-</dl>
-
-**Areas & skills:** AI safety & policy, Research, Policy
+**Areas & skills:** AI safety & policy
 
 ## Summary
 - In this fellowship, you'll support INHR's AI research team on governance and risk mitigation strategies for frontier AI technologies.

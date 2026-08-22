@@ -2,7 +2,7 @@
 title: "Standards Researcher"
 employer: "SaferAI"
 job_id: "recvBOzapGYV00iyW"
-last_updated: "2026-08-21T05:33:14.452571Z"
+last_updated: "2026-08-22T05:33:23.998446Z"
 posted_at: "2022-01-06T00:00:00Z"
 status: ready
 apply_url: "https://www.safer-ai.org/jobs/standards-researcher"
@@ -21,7 +21,7 @@ areas:
 <dt>Degree</dt><dd>Undergraduate degree or less</dd>
 </dl>
 
-**Areas & skills:** AI safety & policy, Research, Policy
+**Areas & skills:** AI safety & policy, Policy, Research
 
 ## Summary
 - In this role, you'll draft technical standards text for AI risk management and evaluation at ISO/IEC, CEN-CENELEC, and NIST.
@@ -33,4 +33,4 @@ areas:
 <p class="apply-cta"><a href="https://www.safer-ai.org/jobs/standards-researcher">Apply →</a></p>
 
 ---
-*Posted 2022-01-06 · Listing synced 2026-08-21 · 80k job ID `recvBOzapGYV00iyW`*
+*Posted 2022-01-06 · Listing synced 2026-08-22 · 80k job ID `recvBOzapGYV00iyW`*

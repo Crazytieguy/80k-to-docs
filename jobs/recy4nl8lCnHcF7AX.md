@@ -2,7 +2,7 @@
 title: "Doctoral Fellows"
 employer: "Geneva Centre for Security Policy"
 job_id: "recy4nl8lCnHcF7AX"
-last_updated: "2026-08-21T05:33:36.887129Z"
+last_updated: "2026-08-22T05:33:45.885983Z"
 posted_at: "2022-01-02T00:00:00Z"
 status: ready
 apply_url: "https://www.gcsp.ch/doctoral-fellows"
@@ -33,4 +33,4 @@ areas:
 <p class="apply-cta"><a href="https://www.gcsp.ch/doctoral-fellows">Apply →</a></p>
 
 ---
-*Posted 2022-01-02 · Listing synced 2026-08-21 · 80k job ID `recy4nl8lCnHcF7AX`*
+*Posted 2022-01-02 · Listing synced 2026-08-22 · 80k job ID `recy4nl8lCnHcF7AX`*

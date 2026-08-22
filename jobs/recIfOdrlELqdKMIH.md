@@ -2,7 +2,7 @@
 title: "Project Manager, Pilot Audits"
 employer: "AI Verification and Evaluation Research Institute"
 job_id: "recIfOdrlELqdKMIH"
-last_updated: "2026-08-21T05:31:42.713817Z"
+last_updated: "2026-08-22T05:31:51.152126Z"
 posted_at: "2026-08-19T00:03:00Z"
 status: ready
 apply_url: "https://www.averi.org/careers?ashby_jid=22ea26f6-6c8b-449d-9f82-706ea0858eda"
@@ -21,7 +21,7 @@ areas:
 <dt>Degree</dt><dd>Undergraduate degree or less</dd>
 </dl>
 
-**Areas & skills:** AI safety & policy, Research, Operations, Strategy
+**Areas & skills:** AI safety & policy, Research, Strategy, Operations
 
 ## Summary
 - In this role, you'll lead pilot audit projects to establish frontier AI auditing as a new professional discipline.
@@ -33,4 +33,4 @@ areas:
 <p class="apply-cta"><a href="https://www.averi.org/careers?ashby_jid=22ea26f6-6c8b-449d-9f82-706ea0858eda">Apply →</a></p>
 
 ---
-*Posted 2026-08-19 · Listing synced 2026-08-21 · 80k job ID `recIfOdrlELqdKMIH`*
+*Posted 2026-08-19 · Listing synced 2026-08-22 · 80k job ID `recIfOdrlELqdKMIH`*

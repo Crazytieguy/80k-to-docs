@@ -2,7 +2,7 @@
 title: "U.S. Digital Service"
 employer: "US Government, Executive Office of the President"
 job_id: "rechRvHjhPZLJeiXm"
-last_updated: "2026-08-21T05:33:46.616917Z"
+last_updated: "2026-08-22T05:33:55.544936Z"
 posted_at: "2022-01-01T00:00:00Z"
 status: ready
 apply_url: "https://www.usds.gov/apply"
@@ -22,7 +22,7 @@ areas:
 <dt>Salary</dt><dd>$183,500</dd>
 </dl>
 
-**Areas & skills:** Career development: Policy & government, Policy, Software engineering
+**Areas & skills:** Career development: Policy & government, Software engineering, Policy
 
 ## Summary
 - This role requires building a workforce that reflects the diverse public it serves, understanding various lived experiences to deliver services to underserved communities.
@@ -34,4 +34,4 @@ areas:
 <p class="apply-cta"><a href="https://www.usds.gov/apply">Apply →</a></p>
 
 ---
-*Posted 2022-01-01 · Listing synced 2026-08-21 · 80k job ID `rechRvHjhPZLJeiXm`*
+*Posted 2022-01-01 · Listing synced 2026-08-22 · 80k job ID `rechRvHjhPZLJeiXm`*

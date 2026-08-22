@@ -2,7 +2,7 @@
 title: "Internship, Democracy and Security Network, Legal (Summer 2026)"
 employer: "German Marshall Fund"
 job_id: "rec2CT1n5yHwgEqvy"
-last_updated: "2026-08-21T05:32:18.544688Z"
+last_updated: "2026-08-22T05:32:27.918161Z"
 posted_at: "2026-07-29T00:00:00Z"
 status: ready
 apply_url: "https://recruiting.paylocity.com/Recruiting/Jobs/Details/4236154"
@@ -34,4 +34,4 @@ areas:
 <p class="apply-cta"><a href="https://recruiting.paylocity.com/Recruiting/Jobs/Details/4236154">Apply →</a></p>
 
 ---
-*Posted 2026-07-29 · Listing synced 2026-08-21 · 80k job ID `rec2CT1n5yHwgEqvy`*
+*Posted 2026-07-29 · Listing synced 2026-08-22 · 80k job ID `rec2CT1n5yHwgEqvy`*

@@ -2,7 +2,7 @@
 title: "Director, Policy and Leadership Network"
 employer: "Horizon Institute for Public Service"
 job_id: "recclc1Tef5kLZusM"
-last_updated: "2026-08-21T05:32:12.120092Z"
+last_updated: "2026-08-22T05:32:20.376330Z"
 posted_at: "2026-07-31T00:05:00Z"
 status: ready
 apply_url: "https://horizonpublicservice.org/director-policy-and-leadership-network/"
@@ -22,7 +22,7 @@ areas:
 <dt>Salary</dt><dd>$150,000 – $200,000</dd>
 </dl>
 
-**Areas & skills:** AI safety & policy, Policy, Management, Strategy
+**Areas & skills:** AI safety & policy, Strategy, Policy, Management
 
 ## Summary
 - In this role, you'll grow Horizon's network of senior policy talent and get the right people into critical roles.
@@ -34,4 +34,4 @@ areas:
 <p class="apply-cta"><a href="https://horizonpublicservice.org/director-policy-and-leadership-network/">Apply →</a></p>
 
 ---
-*Posted 2026-07-31 · Listing synced 2026-08-21 · 80k job ID `recclc1Tef5kLZusM`*
+*Posted 2026-07-31 · Listing synced 2026-08-22 · 80k job ID `recclc1Tef5kLZusM`*

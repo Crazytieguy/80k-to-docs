@@ -2,7 +2,7 @@
 title: "Strategy Fellow"
 employer: "Forecasting Research Institute"
 job_id: "recFwYkHcKTgY4U9d"
-last_updated: "2026-08-21T05:33:22.683715Z"
+last_updated: "2026-08-22T05:33:33.635867Z"
 posted_at: "2022-01-05T00:00:00Z"
 status: ready
 apply_url: "https://forecastingresearch.org/careers/strategy-fellow"
@@ -22,7 +22,7 @@ areas:
 <dt>Salary</dt><dd>$80,000 – $130,000</dd>
 </dl>
 
-**Areas & skills:** Forecasting, Research, Strategy
+**Areas & skills:** Forecasting, Strategy, Research
 
 ## Summary
 - In this role, you'll work closely with senior leadership to advance high-priority organizational goals through strategic research and project management work.
@@ -34,4 +34,4 @@ areas:
 <p class="apply-cta"><a href="https://forecastingresearch.org/careers/strategy-fellow">Apply →</a></p>
 
 ---
-*Posted 2022-01-05 · Listing synced 2026-08-21 · 80k job ID `recFwYkHcKTgY4U9d`*
+*Posted 2022-01-05 · Listing synced 2026-08-22 · 80k job ID `recFwYkHcKTgY4U9d`*

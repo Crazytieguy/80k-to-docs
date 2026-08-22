@@ -2,7 +2,7 @@
 title: "Operations Associate"
 employer: "Cambridge Boston Alignment Initiative"
 job_id: "recqVMBtA24aQYGQM"
-last_updated: "2026-08-21T05:31:53.275141Z"
+last_updated: "2026-08-22T05:32:01.709712Z"
 posted_at: "2026-08-13T00:03:00Z"
 status: ready
 apply_url: "https://jobs.ashbyhq.com/cbai/3bb70ac5-2052-4cdc-b2b6-7fab89abfd63"
@@ -34,4 +34,4 @@ areas:
 <p class="apply-cta"><a href="https://jobs.ashbyhq.com/cbai/3bb70ac5-2052-4cdc-b2b6-7fab89abfd63">Apply →</a></p>
 
 ---
-*Posted 2026-08-13 · Listing synced 2026-08-21 · 80k job ID `recqVMBtA24aQYGQM`*
+*Posted 2026-08-13 · Listing synced 2026-08-22 · 80k job ID `recqVMBtA24aQYGQM`*

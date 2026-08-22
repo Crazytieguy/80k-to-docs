@@ -2,7 +2,7 @@
 title: "Application Security Engineer"
 employer: "Anthropic"
 job_id: "rec6yXtxKxc4NukKl"
-last_updated: "2026-08-21T05:32:55.336643Z"
+last_updated: "2026-08-22T05:33:03.757329Z"
 posted_at: "2022-01-11T00:00:00Z"
 status: ready
 apply_url: "https://job-boards.greenhouse.io/anthropic/jobs/4502508008"
@@ -22,7 +22,7 @@ areas:
 <dt>Salary</dt><dd>$300,000 – $405,000</dd>
 </dl>
 
-**Areas & skills:** AI safety & policy, Software engineering, Information security
+**Areas & skills:** AI safety & policy, Information security, Software engineering
 
 ## Summary
 - In this role, you'll build security into every phase of the software development lifecycle for Anthropic's AI systems and internal tools.
@@ -34,4 +34,4 @@ areas:
 <p class="apply-cta"><a href="https://job-boards.greenhouse.io/anthropic/jobs/4502508008">Apply →</a></p>
 
 ---
-*Posted 2022-01-11 · Listing synced 2026-08-21 · 80k job ID `rec6yXtxKxc4NukKl`*
+*Posted 2022-01-11 · Listing synced 2026-08-22 · 80k job ID `rec6yXtxKxc4NukKl`*

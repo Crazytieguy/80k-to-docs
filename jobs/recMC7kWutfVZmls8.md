@@ -2,7 +2,7 @@
 title: "Headhunting Product Specialist"
 employer: "80,000 Hours"
 job_id: "recMC7kWutfVZmls8"
-last_updated: "2026-08-21T05:32:11.347853Z"
+last_updated: "2026-08-22T05:32:19.728441Z"
 posted_at: "2026-07-31T00:05:00Z"
 status: ready
 apply_url: "https://jobs.ashbyhq.com/80000hours/9576d650-a615-46c9-9187-9610e420a4a3"
@@ -19,10 +19,10 @@ areas:
 <dt>Role type</dt><dd>Full-time</dd>
 <dt>Experience</dt><dd>Junior (1-4 years experience), Mid (5-9 years experience)</dd>
 <dt>Degree</dt><dd>Undergraduate degree or less</dd>
-<dt>Salary</dt><dd>$110,505 – $126,876</dd>
+<dt>Salary</dt><dd>$110,516 – $126,889</dd>
 </dl>
 
-**Areas & skills:** AI safety & policy, Software engineering, Strategy
+**Areas & skills:** AI safety & policy, Strategy, Software engineering
 
 ## Summary
 - In this role, you'll run searches to place candidates into impactful roles and improve the headhunting product through experimentation and data analysis.
@@ -34,4 +34,4 @@ areas:
 <p class="apply-cta"><a href="https://jobs.ashbyhq.com/80000hours/9576d650-a615-46c9-9187-9610e420a4a3">Apply →</a></p>
 
 ---
-*Posted 2026-07-31 · Listing synced 2026-08-21 · 80k job ID `recMC7kWutfVZmls8`*
+*Posted 2026-07-31 · Listing synced 2026-08-22 · 80k job ID `recMC7kWutfVZmls8`*

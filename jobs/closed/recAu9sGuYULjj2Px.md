@@ -4,25 +4,20 @@ employer: "Simon Institute for Longterm Governance"
 job_id: "recAu9sGuYULjj2Px"
 last_updated: "2026-08-21T05:32:22.927949Z"
 posted_at: "2026-07-24T00:04:58Z"
-status: ready
+status: closed
+closed_at: "2026-08-22"
 apply_url: "https://simoninstitute.ch/jobs/convenings-lead"
 areas:
   - "AI safety & policy"
 ---
 
+> ⚠️ **CLOSED on 2026-08-22** — this job is no longer listed on the 80,000 Hours board. Archived snapshot below.
+
 # Convenings Lead
 
-**[Simon Institute for Longterm Governance](https://www.simoninstitute.ch/)**
+**Simon Institute for Longterm Governance**
 
-<dl class="job-meta">
-<dt>Location</dt><dd>Geneva, Switzerland, Switzerland, Europe (ex UK)</dd>
-<dt>Role type</dt><dd>Full-time</dd>
-<dt>Experience</dt><dd>Junior (1-4 years experience), Mid (5-9 years experience)</dd>
-<dt>Degree</dt><dd>Undergraduate degree or less</dd>
-<dt>Salary</dt><dd>$130,010 – $180,013</dd>
-</dl>
-
-**Areas & skills:** AI safety & policy, Outreach, Operations
+**Areas & skills:** AI safety & policy
 
 ## Summary
 - In this role, you'll lead the design and delivery of SI's entire portfolio of convenings end-to-end.

@@ -2,7 +2,7 @@
 title: "Team Member, AIUC-1 Standard"
 employer: "Artificial Intelligence Underwriting Company"
 job_id: "recwa0NNPyq3LHAqx"
-last_updated: "2026-08-21T05:31:58.616822Z"
+last_updated: "2026-08-22T05:32:07.256762Z"
 posted_at: "2026-08-10T00:00:00Z"
 status: ready
 apply_url: "https://jobs.ashbyhq.com/aiuc/d4d8ccdb-0b23-405b-9e22-d2b221019a0b"
@@ -21,7 +21,7 @@ areas:
 <dt>Degree</dt><dd>Undergraduate degree or less</dd>
 </dl>
 
-**Areas & skills:** AI safety & policy, Research, Information security, Strategy
+**Areas & skills:** AI safety & policy, Research, Strategy, Information security
 
 ## Summary
 - In this role, you'll lead the AIUC-1 standard, shaping security controls with 250 Fortune 1000 consortium members.
@@ -33,4 +33,4 @@ areas:
 <p class="apply-cta"><a href="https://jobs.ashbyhq.com/aiuc/d4d8ccdb-0b23-405b-9e22-d2b221019a0b">Apply →</a></p>
 
 ---
-*Posted 2026-08-10 · Listing synced 2026-08-21 · 80k job ID `recwa0NNPyq3LHAqx`*
+*Posted 2026-08-10 · Listing synced 2026-08-22 · 80k job ID `recwa0NNPyq3LHAqx`*

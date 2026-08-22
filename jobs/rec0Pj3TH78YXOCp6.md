@@ -2,7 +2,7 @@
 title: "Editorial Assistant"
 employer: "Slow Boring"
 job_id: "rec0Pj3TH78YXOCp6"
-last_updated: "2026-08-21T05:33:41.295308Z"
+last_updated: "2026-08-22T05:33:50.186264Z"
 posted_at: "2022-01-02T00:00:00Z"
 status: ready
 apply_url: "https://open.substack.com/pub/matthewyglesias/p/come-work-with-us?r=2dxy0"
@@ -22,7 +22,7 @@ areas:
 <dt>Salary</dt><dd>$55,000</dd>
 </dl>
 
-**Areas & skills:** Career development: Policy & government, Policy, Other
+**Areas & skills:** Career development: Policy & government, Other, Policy
 
 ## Summary
 - In this role, you'll provide editorial and administrative support for the Slow Boring newsletter in Washington, DC.
@@ -33,4 +33,4 @@ areas:
 <p class="apply-cta"><a href="https://open.substack.com/pub/matthewyglesias/p/come-work-with-us?r=2dxy0">Apply →</a></p>
 
 ---
-*Posted 2022-01-02 · Listing synced 2026-08-21 · 80k job ID `rec0Pj3TH78YXOCp6`*
+*Posted 2022-01-02 · Listing synced 2026-08-22 · 80k job ID `rec0Pj3TH78YXOCp6`*

@@ -2,7 +2,7 @@
 title: "Program Associate / Program Manager, Policy and Leadership Network"
 employer: "Horizon Institute for Public Service"
 job_id: "recM9pBJwA711zVua"
-last_updated: "2026-08-21T05:32:12.862999Z"
+last_updated: "2026-08-22T05:32:21.078141Z"
 posted_at: "2026-07-31T00:04:31Z"
 status: ready
 apply_url: "https://horizonpublicservice.org/program-associate-program-manager-policy-and-leadership-network/"
@@ -22,7 +22,7 @@ areas:
 <dt>Salary</dt><dd>$100,000 – $160,000</dd>
 </dl>
 
-**Areas & skills:** AI safety & policy, Outreach, Operations
+**Areas & skills:** AI safety & policy, Operations, Outreach
 
 ## Summary
 - In this role, you'll help scale the AI Policy Leadership Network and develop new programs for senior policy professionals.
@@ -34,4 +34,4 @@ areas:
 <p class="apply-cta"><a href="https://horizonpublicservice.org/program-associate-program-manager-policy-and-leadership-network/">Apply →</a></p>
 
 ---
-*Posted 2026-07-31 · Listing synced 2026-08-21 · 80k job ID `recM9pBJwA711zVua`*
+*Posted 2026-07-31 · Listing synced 2026-08-22 · 80k job ID `recM9pBJwA711zVua`*

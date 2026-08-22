@@ -2,7 +2,7 @@
 title: "Program Associate"
 employer: "GiveWell"
 job_id: "recbnobWwl8kJeMO2"
-last_updated: "2026-08-21T05:33:01.444769Z"
+last_updated: "2026-08-22T05:33:10.259382Z"
 posted_at: "2022-01-08T00:00:00Z"
 status: ready
 apply_url: "https://job-boards.greenhouse.io/givewell/jobs/4944026008"
@@ -15,7 +15,7 @@ areas:
 **[GiveWell](https://www.givewell.org)**
 
 <dl class="job-meta">
-<dt>Location</dt><dd>Remote, USA, Remote, Global, USA</dd>
+<dt>Location</dt><dd>Remote, Global, Remote, USA, USA</dd>
 <dt>Role type</dt><dd>Full-time</dd>
 <dt>Experience</dt><dd>Junior (1-4 years experience)</dd>
 <dt>Degree</dt><dd>Undergraduate degree or less</dd>
@@ -33,4 +33,4 @@ areas:
 <p class="apply-cta"><a href="https://job-boards.greenhouse.io/givewell/jobs/4944026008">Apply →</a></p>
 
 ---
-*Posted 2022-01-08 · Listing synced 2026-08-21 · 80k job ID `recbnobWwl8kJeMO2`*
+*Posted 2022-01-08 · Listing synced 2026-08-22 · 80k job ID `recbnobWwl8kJeMO2`*

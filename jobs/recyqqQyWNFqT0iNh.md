@@ -2,7 +2,7 @@
 title: "Product Manager, Safeguards"
 employer: "Anthropic"
 job_id: "recyqqQyWNFqT0iNh"
-last_updated: "2026-08-21T05:32:35.209305Z"
+last_updated: "2026-08-22T05:32:43.260501Z"
 posted_at: "2026-07-08T00:00:00Z"
 status: ready
 apply_url: "https://job-boards.greenhouse.io/anthropic/jobs/5164820008"
@@ -22,7 +22,7 @@ areas:
 <dt>Salary</dt><dd>$305,000 – $385,000</dd>
 </dl>
 
-**Areas & skills:** AI safety & policy, Information security, Strategy
+**Areas & skills:** AI safety & policy, Strategy, Information security
 
 ## Summary
 - In this role, you'll own the design and deployment of Safeguards systems to ensure frontier AI models are used safely.
@@ -34,4 +34,4 @@ areas:
 <p class="apply-cta"><a href="https://job-boards.greenhouse.io/anthropic/jobs/5164820008">Apply →</a></p>
 
 ---
-*Posted 2026-07-08 · Listing synced 2026-08-21 · 80k job ID `recyqqQyWNFqT0iNh`*
+*Posted 2026-07-08 · Listing synced 2026-08-22 · 80k job ID `recyqqQyWNFqT0iNh`*

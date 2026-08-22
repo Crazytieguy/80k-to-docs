@@ -2,7 +2,7 @@
 title: "Managing Director"
 employer: "Secure DNA Project"
 job_id: "recu0Cso7cfbY8VYw"
-last_updated: "2026-08-21T05:32:09.191052Z"
+last_updated: "2026-08-22T05:32:17.889663Z"
 posted_at: "2026-08-03T00:03:00Z"
 status: ready
 apply_url: "https://securedna.org/careers/managing-director/"
@@ -22,7 +22,7 @@ areas:
 <dt>Salary</dt><dd>$180,000 – $250,000</dd>
 </dl>
 
-**Areas & skills:** Biosecurity & pandemic preparedness, Operations, Management, Strategy
+**Areas & skills:** Biosecurity & pandemic preparedness, Strategy, Operations, Management
 
 ## Summary
 - In this role, you will set SecureDNA’s biosecurity direction and domain strategy.
@@ -34,4 +34,4 @@ areas:
 <p class="apply-cta"><a href="https://securedna.org/careers/managing-director/">Apply →</a></p>
 
 ---
-*Posted 2026-08-03 · Listing synced 2026-08-21 · 80k job ID `recu0Cso7cfbY8VYw`*
+*Posted 2026-08-03 · Listing synced 2026-08-22 · 80k job ID `recu0Cso7cfbY8VYw`*

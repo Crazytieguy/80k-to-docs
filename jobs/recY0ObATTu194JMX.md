@@ -2,7 +2,7 @@
 title: "Recruiting Lead"
 employer: "MATS Research"
 job_id: "recY0ObATTu194JMX"
-last_updated: "2026-08-21T05:32:19.671363Z"
+last_updated: "2026-08-22T05:32:29.256228Z"
 posted_at: "2026-07-28T00:04:17Z"
 status: ready
 apply_url: "https://www.matsprogram.org/careers/recruiting-lead"
@@ -34,4 +34,4 @@ areas:
 <p class="apply-cta"><a href="https://www.matsprogram.org/careers/recruiting-lead">Apply →</a></p>
 
 ---
-*Posted 2026-07-28 · Listing synced 2026-08-21 · 80k job ID `recY0ObATTu194JMX`*
+*Posted 2026-07-28 · Listing synced 2026-08-22 · 80k job ID `recY0ObATTu194JMX`*

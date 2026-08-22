@@ -2,7 +2,7 @@
 title: "Programme Director"
 employer: "Advanced Research and Invention Agency"
 job_id: "recC9AJSDmIIXwEAM"
-last_updated: "2026-08-21T05:31:40.718389Z"
+last_updated: "2026-08-22T05:31:49.159875Z"
 posted_at: "2026-08-20T00:00:00Z"
 status: ready
 apply_url: "https://aria.org.uk/become-a-programme-director"
@@ -21,7 +21,7 @@ areas:
 <dt>Degree</dt><dd>Undergraduate degree or less</dd>
 </dl>
 
-**Areas & skills:** Biosecurity & pandemic preparedness, Research, Management, Strategy
+**Areas & skills:** Biosecurity & pandemic preparedness, Research, Strategy, Management
 
 ## Summary
 - Our take on this role: We think some of the programmes in the Programmable Physiology opportunity space could be promising interventions for [biosecurity](https://80000hours.org/career-reviews/pandemic-prevention-biosecurity/).
@@ -34,4 +34,4 @@ areas:
 <p class="apply-cta"><a href="https://aria.org.uk/become-a-programme-director">Apply →</a></p>
 
 ---
-*Posted 2026-08-20 · Listing synced 2026-08-21 · 80k job ID `recC9AJSDmIIXwEAM`*
+*Posted 2026-08-20 · Listing synced 2026-08-22 · 80k job ID `recC9AJSDmIIXwEAM`*

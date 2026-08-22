@@ -2,7 +2,7 @@
 title: "Founding Product Engineer"
 employer: "0Labs"
 job_id: "recrdFEVWv11wy4p2"
-last_updated: "2026-08-21T05:33:18.070641Z"
+last_updated: "2026-08-22T05:33:29.011427Z"
 posted_at: "2022-01-05T00:00:00Z"
 status: ready
 apply_url: "https://www.0labs.ai/careers/founding-product-engineer"
@@ -21,7 +21,7 @@ areas:
 <dt>Degree</dt><dd>Undergraduate degree or less</dd>
 </dl>
 
-**Areas & skills:** AI safety & policy, Software engineering, Strategy
+**Areas & skills:** AI safety & policy, Strategy, Software engineering
 
 ## Summary
 - In this role, you'll design, build, and ship systems that operate in production, working directly with founders.
@@ -33,4 +33,4 @@ areas:
 <p class="apply-cta"><a href="https://www.0labs.ai/careers/founding-product-engineer">Apply →</a></p>
 
 ---
-*Posted 2022-01-05 · Listing synced 2026-08-21 · 80k job ID `recrdFEVWv11wy4p2`*
+*Posted 2022-01-05 · Listing synced 2026-08-22 · 80k job ID `recrdFEVWv11wy4p2`*

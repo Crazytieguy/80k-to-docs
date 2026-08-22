@@ -4,24 +4,20 @@ employer: "Nonproliferation Policy Education Center"
 job_id: "rec2927MDaSs9pqxJ"
 last_updated: "2026-08-21T05:32:30.661921Z"
 posted_at: "2026-07-15T00:00:00Z"
-status: ready
+status: closed
+closed_at: "2026-08-22"
 apply_url: "https://npolicy.org/call-for-npec-nuclear-policy-certificate-program-applicants-for-2026/"
 areas:
   - "Nuclear security"
 ---
 
+> ⚠️ **CLOSED on 2026-08-22** — this job is no longer listed on the 80,000 Hours board. Archived snapshot below.
+
 # Nuclear Policy Certificate Program (2026)
 
-**[Nonproliferation Policy Education Center](https://npolicy.org/)**
+**Nonproliferation Policy Education Center**
 
-<dl class="job-meta">
-<dt>Location</dt><dd>Remote, USA, USA</dd>
-<dt>Role type</dt><dd>Course</dd>
-<dt>Experience</dt><dd>Entry-level</dd>
-<dt>Degree</dt><dd>Undergraduate degree or less</dd>
-</dl>
-
-**Areas & skills:** Nuclear security, Policy
+**Areas & skills:** Nuclear security
 
 ## Summary
 - This course provides technical, legal, and historical background on civil and military nuclear policy, weapons design, and nonproliferation.

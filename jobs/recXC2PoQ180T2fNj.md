@@ -2,7 +2,7 @@
 title: "Mathematical Scientist, AI Safety Research"
 employer: "LawZero"
 job_id: "recXC2PoQ180T2fNj"
-last_updated: "2026-08-21T05:33:12.345824Z"
+last_updated: "2026-08-22T05:33:21.882536Z"
 posted_at: "2022-01-06T00:00:00Z"
 status: ready
 apply_url: "https://job-boards.greenhouse.io/lawzero/jobs/4224703009"
@@ -33,4 +33,4 @@ areas:
 <p class="apply-cta"><a href="https://job-boards.greenhouse.io/lawzero/jobs/4224703009">Apply →</a></p>
 
 ---
-*Posted 2022-01-06 · Listing synced 2026-08-21 · 80k job ID `recXC2PoQ180T2fNj`*
+*Posted 2022-01-06 · Listing synced 2026-08-22 · 80k job ID `recXC2PoQ180T2fNj`*

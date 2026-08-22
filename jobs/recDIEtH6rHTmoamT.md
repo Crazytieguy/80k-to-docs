@@ -2,7 +2,7 @@
 title: "Residency Program"
 employer: "SandboxAQ"
 job_id: "recDIEtH6rHTmoamT"
-last_updated: "2026-08-21T05:33:40.774073Z"
+last_updated: "2026-08-22T05:33:49.639486Z"
 posted_at: "2022-01-02T00:00:00Z"
 status: ready
 apply_url: "https://www.sandboxaq.com/company/residencies"
@@ -21,7 +21,7 @@ areas:
 <dt>Degree</dt><dd>Master's degree</dd>
 </dl>
 
-**Areas & skills:** Career development: Technical, Research, Software engineering
+**Areas & skills:** Career development: Technical, Software engineering, Research
 
 ## Summary
 - In this residency, you can build technical skills for career capital.
@@ -32,4 +32,4 @@ areas:
 <p class="apply-cta"><a href="https://www.sandboxaq.com/company/residencies">Apply →</a></p>
 
 ---
-*Posted 2022-01-02 · Listing synced 2026-08-21 · 80k job ID `recDIEtH6rHTmoamT`*
+*Posted 2022-01-02 · Listing synced 2026-08-22 · 80k job ID `recDIEtH6rHTmoamT`*

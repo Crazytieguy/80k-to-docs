@@ -2,7 +2,7 @@
 title: "Research Intern, Korea Chair (Fall 2026)"
 employer: "Center for Strategic and International Studies"
 job_id: "recL5mO7XixC4IjSR"
-last_updated: "2026-08-21T05:31:56.651100Z"
+last_updated: "2026-08-22T05:32:05.207407Z"
 posted_at: "2026-08-11T00:00:00Z"
 status: ready
 apply_url: "https://job-boards.greenhouse.io/centerforstrategicandinternationalstudiesinc/jobs/4313098009"
@@ -22,7 +22,7 @@ areas:
 <dt>Salary</dt><dd>$38,272 – $42,432</dd>
 </dl>
 
-**Areas & skills:** Career development: Policy & government, Research, Policy
+**Areas & skills:** Career development: Policy & government, Policy, Research
 
 ## Summary
 - In this role, you'll support the Korea Chair's policy research program on the Korean peninsula.
@@ -34,4 +34,4 @@ areas:
 <p class="apply-cta"><a href="https://job-boards.greenhouse.io/centerforstrategicandinternationalstudiesinc/jobs/4313098009">Apply →</a></p>
 
 ---
-*Posted 2026-08-11 · Listing synced 2026-08-21 · 80k job ID `recL5mO7XixC4IjSR`*
+*Posted 2026-08-11 · Listing synced 2026-08-22 · 80k job ID `recL5mO7XixC4IjSR`*

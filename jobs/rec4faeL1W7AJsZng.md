@@ -2,7 +2,7 @@
 title: "Research Engineer"
 employer: "FAR AI"
 job_id: "rec4faeL1W7AJsZng"
-last_updated: "2026-08-21T05:31:51.970678Z"
+last_updated: "2026-08-22T05:32:00.452605Z"
 posted_at: "2026-08-14T00:00:00Z"
 status: ready
 apply_url: "https://jobs.ashbyhq.com/far.ai/52e76732-999b-402f-a908-c4e8b3e7714b?embed=js"
@@ -15,7 +15,7 @@ areas:
 **[FAR AI](https://far.ai/)**
 
 <dl class="job-meta">
-<dt>Location</dt><dd>Remote, Global, San Francisco Bay Area, USA, USA (Confirmed Visas)</dd>
+<dt>Location</dt><dd>San Francisco Bay Area, Remote, Global, USA, USA (Confirmed Visas)</dd>
 <dt>Role type</dt><dd>Full-time</dd>
 <dt>Experience</dt><dd>Multiple experience levels</dd>
 <dt>Degree</dt><dd>Undergraduate degree or less</dd>
@@ -33,4 +33,4 @@ areas:
 <p class="apply-cta"><a href="https://jobs.ashbyhq.com/far.ai/52e76732-999b-402f-a908-c4e8b3e7714b?embed=js">Apply →</a></p>
 
 ---
-*Posted 2026-08-14 · Listing synced 2026-08-21 · 80k job ID `rec4faeL1W7AJsZng`*
+*Posted 2026-08-14 · Listing synced 2026-08-22 · 80k job ID `rec4faeL1W7AJsZng`*
