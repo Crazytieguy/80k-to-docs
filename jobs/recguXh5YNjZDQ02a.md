@@ -2,7 +2,7 @@
 title: "Algorithm Researcher, Frontier AI Risk"
 employer: "Shanghai Artificial Intelligence Laboratory"
 job_id: "recguXh5YNjZDQ02a"
-last_updated: "2026-08-22T05:33:25.155199Z"
+last_updated: "2026-08-23T05:33:20.100128Z"
 posted_at: "2022-01-06T00:00:00Z"
 status: ready
 apply_url: "https://www.shlab.org.cn/joinus/detail/7586567008909773098"
@@ -21,7 +21,7 @@ areas:
 <dt>Degree</dt><dd>Master's degree</dd>
 </dl>
 
-**Areas & skills:** AI safety & policy, Research, Information security, Software engineering
+**Areas & skills:** AI safety & policy, Research, Software engineering, Information security
 
 ## Summary
 - In this role, you'll research risks of frontier AI systems and develop frameworks for risk identification and analysis.
@@ -33,4 +33,4 @@ areas:
 <p class="apply-cta"><a href="https://www.shlab.org.cn/joinus/detail/7586567008909773098">Apply →</a></p>
 
 ---
-*Posted 2022-01-06 · Listing synced 2026-08-22 · 80k job ID `recguXh5YNjZDQ02a`*
+*Posted 2022-01-06 · Listing synced 2026-08-23 · 80k job ID `recguXh5YNjZDQ02a`*

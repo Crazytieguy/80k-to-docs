@@ -2,7 +2,7 @@
 title: "Research Scientist"
 employer: "Patronus AI"
 job_id: "recqq8HXisoyquMbT"
-last_updated: "2026-08-22T05:33:23.296419Z"
+last_updated: "2026-08-23T05:33:18.742416Z"
 posted_at: "2022-01-06T00:00:00Z"
 status: ready
 apply_url: "https://www.patronus.ai/job-detail?gh_jid=4241103009&role=member-of-technical-staff-research-scientist"
@@ -32,4 +32,4 @@ areas:
 <p class="apply-cta"><a href="https://www.patronus.ai/job-detail?gh_jid=4241103009&amp;role=member-of-technical-staff-research-scientist">Apply →</a></p>
 
 ---
-*Posted 2022-01-06 · Listing synced 2026-08-22 · 80k job ID `recqq8HXisoyquMbT`*
+*Posted 2022-01-06 · Listing synced 2026-08-23 · 80k job ID `recqq8HXisoyquMbT`*

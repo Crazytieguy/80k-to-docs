@@ -2,7 +2,7 @@
 title: "Head of Engineering, Platform"
 employer: "Goodfire"
 job_id: "recAtFz8tqwkPfW1Q"
-last_updated: "2026-08-22T05:33:34.542447Z"
+last_updated: "2026-08-23T05:33:28.409760Z"
 posted_at: "2022-01-05T00:00:00Z"
 status: ready
 apply_url: "https://job-boards.greenhouse.io/goodfire/jobs/5071690008"
@@ -22,7 +22,7 @@ areas:
 <dt>Salary</dt><dd>$300,000 – $450,000</dd>
 </dl>
 
-**Areas & skills:** AI safety & policy, Management, Software engineering
+**Areas & skills:** AI safety & policy, Software engineering, Management
 
 ## Summary
 - In this role, you'll lead and grow Goodfire's core AI interpretability platform while contributing technically and building a world-class engineering team.
@@ -34,4 +34,4 @@ areas:
 <p class="apply-cta"><a href="https://job-boards.greenhouse.io/goodfire/jobs/5071690008">Apply →</a></p>
 
 ---
-*Posted 2022-01-05 · Listing synced 2026-08-22 · 80k job ID `recAtFz8tqwkPfW1Q`*
+*Posted 2022-01-05 · Listing synced 2026-08-23 · 80k job ID `recAtFz8tqwkPfW1Q`*

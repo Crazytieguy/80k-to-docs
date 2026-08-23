@@ -2,7 +2,7 @@
 title: "Operations Manager"
 employer: "General-Purpose AI Policy Lab"
 job_id: "rechQFtsw012g5bBR"
-last_updated: "2026-08-22T05:32:35.103942Z"
+last_updated: "2026-08-23T05:32:31.372466Z"
 posted_at: "2026-07-21T00:00:00Z"
 status: ready
 apply_url: "https://docs.google.com/document/d/1XZkTDQqMY7DGe6o06qnPVI1z0c-llgwDh6qrl2h8GSo/edit?pli=1&tab=t.0"
@@ -34,4 +34,4 @@ areas:
 <p class="apply-cta"><a href="https://docs.google.com/document/d/1XZkTDQqMY7DGe6o06qnPVI1z0c-llgwDh6qrl2h8GSo/edit?pli=1&amp;tab=t.0">Apply →</a></p>
 
 ---
-*Posted 2026-07-21 · Listing synced 2026-08-22 · 80k job ID `rechQFtsw012g5bBR`*
+*Posted 2026-07-21 · Listing synced 2026-08-23 · 80k job ID `rechQFtsw012g5bBR`*

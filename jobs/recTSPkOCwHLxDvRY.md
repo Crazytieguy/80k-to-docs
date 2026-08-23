@@ -2,7 +2,7 @@
 title: "Field Specialist, AI Hardware Security and Verification"
 employer: "Amodo Design"
 job_id: "recTSPkOCwHLxDvRY"
-last_updated: "2026-08-22T05:33:30.149615Z"
+last_updated: "2026-08-23T05:33:24.070404Z"
 posted_at: "2022-01-05T00:00:00Z"
 status: ready
 apply_url: "https://amododesign.com/career/ai-specialist/"
@@ -22,7 +22,7 @@ areas:
 <dt>Salary</dt><dd>$51,847 – $68,220</dd>
 </dl>
 
-**Areas & skills:** AI safety & policy, Information security, Engineering
+**Areas & skills:** AI safety & policy, Engineering, Information security
 
 ## Summary
 - In this role, you'll develop hardware architectures for verifying and securing advanced AI systems.
@@ -34,4 +34,4 @@ areas:
 <p class="apply-cta"><a href="https://amododesign.com/career/ai-specialist/">Apply →</a></p>
 
 ---
-*Posted 2022-01-05 · Listing synced 2026-08-22 · 80k job ID `recTSPkOCwHLxDvRY`*
+*Posted 2022-01-05 · Listing synced 2026-08-23 · 80k job ID `recTSPkOCwHLxDvRY`*

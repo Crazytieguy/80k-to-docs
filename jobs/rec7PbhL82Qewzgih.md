@@ -2,7 +2,7 @@
 title: "AI and Fiscal Policy Fellow"
 employer: "Committee for a Responsible Federal Budget"
 job_id: "rec7PbhL82Qewzgih"
-last_updated: "2026-08-22T05:32:00.309387Z"
+last_updated: "2026-08-23T05:31:58.458532Z"
 posted_at: "2026-08-14T00:00:00Z"
 status: ready
 apply_url: "https://www.crfb.org/jobs/ai-and-fiscal-policy-fellow"
@@ -22,7 +22,7 @@ areas:
 <dt>Salary</dt><dd>$35,000 – $115,000</dd>
 </dl>
 
-**Areas & skills:** Career development: Policy & government, Policy, Research
+**Areas & skills:** Career development: Policy & government, Research, Policy
 
 ## Summary
 - In this role, you'll conduct research examining artificial intelligence's impact on federal fiscal policy and the U.S. economy.
@@ -34,4 +34,4 @@ areas:
 <p class="apply-cta"><a href="https://www.crfb.org/jobs/ai-and-fiscal-policy-fellow">Apply →</a></p>
 
 ---
-*Posted 2026-08-14 · Listing synced 2026-08-22 · 80k job ID `rec7PbhL82Qewzgih`*
+*Posted 2026-08-14 · Listing synced 2026-08-23 · 80k job ID `rec7PbhL82Qewzgih`*

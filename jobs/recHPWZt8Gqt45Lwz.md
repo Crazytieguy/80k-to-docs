@@ -2,7 +2,7 @@
 title: "Head of Operations / Chief Operating Officer"
 employer: "Encode"
 job_id: "recHPWZt8Gqt45Lwz"
-last_updated: "2026-08-22T05:32:54.841347Z"
+last_updated: "2026-08-23T05:32:50.419944Z"
 posted_at: "2026-06-11T00:05:00Z"
 status: ready
 apply_url: "https://encode-careers.vercel.app/head-of-operations"
@@ -22,7 +22,7 @@ areas:
 <dt>Salary</dt><dd>$170,000 – $200,000</dd>
 </dl>
 
-**Areas & skills:** AI safety & policy, Operations, Strategy, Management
+**Areas & skills:** AI safety & policy, Operations, Management, Strategy
 
 ## Summary
 - In this role, you'll own Encode's compliance, financial leadership, and operational infrastructure across our 501(c)(3) and 501(c)(4) entities.
@@ -34,4 +34,4 @@ areas:
 <p class="apply-cta"><a href="https://encode-careers.vercel.app/head-of-operations">Apply →</a></p>
 
 ---
-*Posted 2026-06-11 · Listing synced 2026-08-22 · 80k job ID `recHPWZt8Gqt45Lwz`*
+*Posted 2026-06-11 · Listing synced 2026-08-23 · 80k job ID `recHPWZt8Gqt45Lwz`*

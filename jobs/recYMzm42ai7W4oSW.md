@@ -2,7 +2,7 @@
 title: "Writer"
 employer: "Our World In Data"
 job_id: "recYMzm42ai7W4oSW"
-last_updated: "2026-08-22T05:33:13.653527Z"
+last_updated: "2026-08-23T05:33:09.313618Z"
 posted_at: "2022-01-07T00:00:00Z"
 status: ready
 apply_url: "https://ourworldindata.org/hiring-writer-2026"
@@ -22,7 +22,7 @@ areas:
 <dt>Salary</dt><dd>$109,152 – $163,727</dd>
 </dl>
 
-**Areas & skills:** Macrostrategy, Other, Research
+**Areas & skills:** Macrostrategy, Research, Other
 
 ## Summary
 - In this role, you'll write engaging articles on global problems using data and research for a general audience.
@@ -34,4 +34,4 @@ areas:
 <p class="apply-cta"><a href="https://ourworldindata.org/hiring-writer-2026">Apply →</a></p>
 
 ---
-*Posted 2022-01-07 · Listing synced 2026-08-22 · 80k job ID `recYMzm42ai7W4oSW`*
+*Posted 2022-01-07 · Listing synced 2026-08-23 · 80k job ID `recYMzm42ai7W4oSW`*

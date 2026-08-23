@@ -2,7 +2,7 @@
 title: "Product Manager, Agentic Products"
 employer: "Center for AI Safety"
 job_id: "recHePETbX2FCCBPr"
-last_updated: "2026-08-22T05:32:17.622672Z"
+last_updated: "2026-08-23T05:32:15.775148Z"
 posted_at: "2026-08-03T00:04:29Z"
 status: ready
 apply_url: "https://job-boards.greenhouse.io/centerforartificialintelligencesafetyinc/jobs/4342209009"
@@ -22,7 +22,7 @@ areas:
 <dt>Salary</dt><dd>$170,000 – $220,000</dd>
 </dl>
 
-**Areas & skills:** AI safety & policy, Strategy, Software engineering
+**Areas & skills:** AI safety & policy, Software engineering, Strategy
 
 ## Summary
 - In this role, you'll take full ownership of an agentic product, defining strategy and driving execution end-to-end.
@@ -34,4 +34,4 @@ areas:
 <p class="apply-cta"><a href="https://job-boards.greenhouse.io/centerforartificialintelligencesafetyinc/jobs/4342209009">Apply →</a></p>
 
 ---
-*Posted 2026-08-03 · Listing synced 2026-08-22 · 80k job ID `recHePETbX2FCCBPr`*
+*Posted 2026-08-03 · Listing synced 2026-08-23 · 80k job ID `recHePETbX2FCCBPr`*

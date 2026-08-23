@@ -2,7 +2,7 @@
 title: "Senior Strategist, AI Governance Field Coordination"
 employer: "Future Matters"
 job_id: "recVNgWpuu07rHLOE"
-last_updated: "2026-08-22T05:32:27.258284Z"
+last_updated: "2026-08-23T05:32:24.580207Z"
 posted_at: "2026-07-29T00:01:00Z"
 status: ready
 apply_url: "https://careers.future-matters.org/40653"
@@ -22,7 +22,7 @@ areas:
 <dt>Salary</dt><dd>$132,675 – $163,190</dd>
 </dl>
 
-**Areas & skills:** AI safety & policy, Strategy, Policy
+**Areas & skills:** AI safety & policy, Policy, Strategy
 
 ## Summary
 - In this role, you'll coordinate the US AI governance field to develop joint strategies and align organizations.
@@ -34,4 +34,4 @@ areas:
 <p class="apply-cta"><a href="https://careers.future-matters.org/40653">Apply →</a></p>
 
 ---
-*Posted 2026-07-29 · Listing synced 2026-08-22 · 80k job ID `recVNgWpuu07rHLOE`*
+*Posted 2026-07-29 · Listing synced 2026-08-23 · 80k job ID `recVNgWpuu07rHLOE`*

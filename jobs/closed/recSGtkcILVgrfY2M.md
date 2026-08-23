@@ -4,24 +4,20 @@ employer: "Google DeepMind"
 job_id: "recSGtkcILVgrfY2M"
 last_updated: "2026-08-22T05:32:32.962405Z"
 posted_at: "2026-07-23T00:00:00Z"
-status: ready
+status: closed
+closed_at: "2026-08-23"
 apply_url: "https://www.google.com/about/careers/applications/jobs/results/102552346151527110-research-engineer-agi-safety-and-alignment-deepmind?company=DeepMind&page=3"
 areas:
   - "AI safety & policy"
 ---
 
+> ⚠️ **CLOSED on 2026-08-23** — this job is no longer listed on the 80,000 Hours board. Archived snapshot below.
+
 # Research Engineer, AGI Safety and Alignment, London
 
-**[Google DeepMind](https://www.deepmind.com)**
+**Google DeepMind**
 
-<dl class="job-meta">
-<dt>Location</dt><dd>London, UK, UK</dd>
-<dt>Role type</dt><dd>Full-time</dd>
-<dt>Experience</dt><dd>Junior (1-4 years experience)</dd>
-<dt>Degree</dt><dd>Undergraduate degree or less</dd>
-</dl>
-
-**Areas & skills:** AI safety & policy, Research, Software engineering
+**Areas & skills:** AI safety & policy
 
 ## Summary
 - In this role, you'll research and develop AGI safety techniques to reduce existential risk through alignment and control systems.

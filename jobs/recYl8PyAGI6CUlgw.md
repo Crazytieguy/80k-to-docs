@@ -2,7 +2,7 @@
 title: "Communications and Marketing Associate"
 employer: "ML4Good"
 job_id: "recYl8PyAGI6CUlgw"
-last_updated: "2026-08-22T05:32:17.743840Z"
+last_updated: "2026-08-23T05:32:15.895067Z"
 posted_at: "2026-08-03T00:03:00Z"
 status: ready
 apply_url: "https://ml4good.org/jobs/communications-and-marketing-associate/"
@@ -34,4 +34,4 @@ areas:
 <p class="apply-cta"><a href="https://ml4good.org/jobs/communications-and-marketing-associate/">Apply →</a></p>
 
 ---
-*Posted 2026-08-03 · Listing synced 2026-08-22 · 80k job ID `recYl8PyAGI6CUlgw`*
+*Posted 2026-08-03 · Listing synced 2026-08-23 · 80k job ID `recYl8PyAGI6CUlgw`*

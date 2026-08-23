@@ -2,7 +2,7 @@
 title: "Career Advisor"
 employer: "Effective Altruism Sweden"
 job_id: "rec5qLG6onTVL9KZm"
-last_updated: "2026-08-22T05:31:49.412986Z"
+last_updated: "2026-08-23T05:31:47.430262Z"
 posted_at: "2026-08-20T00:00:00Z"
 status: ready
 apply_url: "https://docs.google.com/document/d/1Zamr6b3xLaUl1aDAUVJr-zUICZUqHPincZpWy65sb78/edit?usp=sharing"
@@ -33,4 +33,4 @@ areas:
 <p class="apply-cta"><a href="https://docs.google.com/document/d/1Zamr6b3xLaUl1aDAUVJr-zUICZUqHPincZpWy65sb78/edit?usp=sharing">Apply →</a></p>
 
 ---
-*Posted 2026-08-20 · Listing synced 2026-08-22 · 80k job ID `rec5qLG6onTVL9KZm`*
+*Posted 2026-08-20 · Listing synced 2026-08-23 · 80k job ID `rec5qLG6onTVL9KZm`*

@@ -2,7 +2,7 @@
 title: "Chief Technology Officer"
 employer: "Syntony"
 job_id: "reckm4yvOgVQxORZh"
-last_updated: "2026-08-22T05:32:42.844400Z"
+last_updated: "2026-08-23T05:32:39.021569Z"
 posted_at: "2026-07-09T00:00:00Z"
 status: ready
 apply_url: "https://www.syntonyresearch.ai/work/cto/"
@@ -21,7 +21,7 @@ areas:
 <dt>Degree</dt><dd>Undergraduate degree or less</dd>
 </dl>
 
-**Areas & skills:** AI safety & policy, Strategy, Management, Software engineering
+**Areas & skills:** AI safety & policy, Software engineering, Management, Strategy
 
 ## Summary
 - In this role, you'll lead engineering at Syntony and set technical direction for evaluation tooling, causal mapping, and governance systems.
@@ -33,4 +33,4 @@ areas:
 <p class="apply-cta"><a href="https://www.syntonyresearch.ai/work/cto/">Apply →</a></p>
 
 ---
-*Posted 2026-07-09 · Listing synced 2026-08-22 · 80k job ID `reckm4yvOgVQxORZh`*
+*Posted 2026-07-09 · Listing synced 2026-08-23 · 80k job ID `reckm4yvOgVQxORZh`*

@@ -2,7 +2,7 @@
 title: "Team Member, Model Policy, Frontier Cyber Risk"
 employer: "OpenAI"
 job_id: "recPAdDRsgYYb123x"
-last_updated: "2026-08-22T05:33:09.159122Z"
+last_updated: "2026-08-23T05:33:05.453586Z"
 posted_at: "2022-01-11T00:00:00Z"
 status: ready
 apply_url: "https://openai.com/careers/model-policy-frontier-cyber-risk-san-francisco/"
@@ -22,7 +22,7 @@ areas:
 <dt>Salary</dt><dd>$207,000 – $295,000</dd>
 </dl>
 
-**Areas & skills:** AI safety & policy, Strategy, Information security
+**Areas & skills:** AI safety & policy, Information security, Strategy
 
 ## Summary
 - In this role, you'll define model behavior in high-risk cybersecurity contexts through policy frameworks, threat models, and evaluation criteria.
@@ -34,4 +34,4 @@ areas:
 <p class="apply-cta"><a href="https://openai.com/careers/model-policy-frontier-cyber-risk-san-francisco/">Apply →</a></p>
 
 ---
-*Posted 2022-01-11 · Listing synced 2026-08-22 · 80k job ID `recPAdDRsgYYb123x`*
+*Posted 2022-01-11 · Listing synced 2026-08-23 · 80k job ID `recPAdDRsgYYb123x`*

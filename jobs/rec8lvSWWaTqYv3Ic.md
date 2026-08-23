@@ -2,7 +2,7 @@
 title: "Senior Cyber Offense Specialist, Center for AI Standards and Innovation"
 employer: "US Government, National Institute of Standards and Technology"
 job_id: "rec8lvSWWaTqYv3Ic"
-last_updated: "2026-08-22T05:31:53.195070Z"
+last_updated: "2026-08-23T05:31:51.216327Z"
 posted_at: "2026-08-18T00:05:00Z"
 status: ready
 apply_url: "https://www.usajobs.gov/job/880883200"
@@ -22,7 +22,7 @@ areas:
 <dt>Salary</dt><dd>$121,785 – $187,093</dd>
 </dl>
 
-**Areas & skills:** AI safety & policy, Information security, Policy
+**Areas & skills:** AI safety & policy, Policy, Information security
 
 ## Summary
 - In this role, you'll evaluate AI cyber offense capabilities and strengthen US security posture through assessments.
@@ -34,4 +34,4 @@ areas:
 <p class="apply-cta"><a href="https://www.usajobs.gov/job/880883200">Apply →</a></p>
 
 ---
-*Posted 2026-08-18 · Listing synced 2026-08-22 · 80k job ID `rec8lvSWWaTqYv3Ic`*
+*Posted 2026-08-18 · Listing synced 2026-08-23 · 80k job ID `rec8lvSWWaTqYv3Ic`*

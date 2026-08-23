@@ -2,7 +2,7 @@
 title: "General Expression of Interest"
 employer: "Model Evaluation and Threat Research"
 job_id: "rec75An15dkea2hUe"
-last_updated: "2026-08-22T05:33:06.480224Z"
+last_updated: "2026-08-23T05:33:02.582840Z"
 posted_at: "2022-01-11T00:00:00Z"
 status: ready
 apply_url: "https://jobs.lever.co/metr/f3a6db11-7fd1-48e4-af42-20aad1ded72d"
@@ -21,7 +21,7 @@ areas:
 <dt>Degree</dt><dd>Undergraduate degree or less</dd>
 </dl>
 
-**Areas & skills:** AI safety & policy, Software engineering, Operations, Research
+**Areas & skills:** AI safety & policy, Research, Operations, Software engineering
 
 ## Summary
 - This role calls for individuals who aim to work with METR in any capacity.
@@ -33,4 +33,4 @@ areas:
 <p class="apply-cta"><a href="https://jobs.lever.co/metr/f3a6db11-7fd1-48e4-af42-20aad1ded72d">Apply →</a></p>
 
 ---
-*Posted 2022-01-11 · Listing synced 2026-08-22 · 80k job ID `rec75An15dkea2hUe`*
+*Posted 2022-01-11 · Listing synced 2026-08-23 · 80k job ID `rec75An15dkea2hUe`*

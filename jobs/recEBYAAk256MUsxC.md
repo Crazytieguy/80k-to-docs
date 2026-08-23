@@ -2,7 +2,7 @@
 title: "LASR Labs Programme (Winter 2027)"
 employer: "London AI Safety Research Labs"
 job_id: "recEBYAAk256MUsxC"
-last_updated: "2026-08-22T05:31:48.904206Z"
+last_updated: "2026-08-23T05:31:46.904431Z"
 posted_at: "2026-08-20T00:03:00Z"
 status: ready
 apply_url: "https://www.lasrlabs.org/"
@@ -34,4 +34,4 @@ areas:
 <p class="apply-cta"><a href="https://www.lasrlabs.org/">Apply →</a></p>
 
 ---
-*Posted 2026-08-20 · Listing synced 2026-08-22 · 80k job ID `recEBYAAk256MUsxC`*
+*Posted 2026-08-20 · Listing synced 2026-08-23 · 80k job ID `recEBYAAk256MUsxC`*

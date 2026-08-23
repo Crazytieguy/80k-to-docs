@@ -2,7 +2,7 @@
 title: "Senior Actuarial Data Scientist, AI Risk"
 employer: "Armilla"
 job_id: "recKobuPy57I5pGYJ"
-last_updated: "2026-08-22T05:33:30.568820Z"
+last_updated: "2026-08-23T05:33:24.489211Z"
 posted_at: "2022-01-05T00:00:00Z"
 status: ready
 apply_url: "https://ats.rippling.com/armilla-ai/jobs/58815295-c137-4d11-95d2-a313ba13730a"
@@ -21,7 +21,7 @@ areas:
 <dt>Degree</dt><dd>Undergraduate degree or less</dd>
 </dl>
 
-**Areas & skills:** AI safety & policy, Research, Finance, Other
+**Areas & skills:** AI safety & policy, Research, Other, Finance
 
 ## Summary
 - In this role, you'll develop AI risk assessment and pricing frameworks for insuring artificial intelligence systems.
@@ -33,4 +33,4 @@ areas:
 <p class="apply-cta"><a href="https://ats.rippling.com/armilla-ai/jobs/58815295-c137-4d11-95d2-a313ba13730a">Apply →</a></p>
 
 ---
-*Posted 2022-01-05 · Listing synced 2026-08-22 · 80k job ID `recKobuPy57I5pGYJ`*
+*Posted 2022-01-05 · Listing synced 2026-08-23 · 80k job ID `recKobuPy57I5pGYJ`*

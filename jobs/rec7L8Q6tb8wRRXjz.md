@@ -2,7 +2,7 @@
 title: "Operations Manager"
 employer: "Astralis Foundation"
 job_id: "rec7L8Q6tb8wRRXjz"
-last_updated: "2026-08-22T05:31:49.025789Z"
+last_updated: "2026-08-23T05:31:47.028526Z"
 posted_at: "2026-08-20T00:01:00Z"
 status: ready
 apply_url: "https://jobs.ashbyhq.com/AstralisFoundation/e499270d-e65c-4e08-bc93-8df87e9b069a"
@@ -34,4 +34,4 @@ areas:
 <p class="apply-cta"><a href="https://jobs.ashbyhq.com/AstralisFoundation/e499270d-e65c-4e08-bc93-8df87e9b069a">Apply →</a></p>
 
 ---
-*Posted 2026-08-20 · Listing synced 2026-08-22 · 80k job ID `rec7L8Q6tb8wRRXjz`*
+*Posted 2026-08-20 · Listing synced 2026-08-23 · 80k job ID `rec7L8Q6tb8wRRXjz`*

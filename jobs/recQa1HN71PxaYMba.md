@@ -2,7 +2,7 @@
 title: "Model Policy, Rodrigo"
 employer: "OpenAI"
 job_id: "recQa1HN71PxaYMba"
-last_updated: "2026-08-22T05:31:50.517394Z"
+last_updated: "2026-08-23T05:31:48.517478Z"
 posted_at: "2026-08-20T00:00:00Z"
 status: ready
 apply_url: "https://openai.com/careers/model-policy-(rodrigo)-san-francisco/"
@@ -35,4 +35,4 @@ areas:
 <p class="apply-cta"><a href="https://openai.com/careers/model-policy-(rodrigo)-san-francisco/">Apply →</a></p>
 
 ---
-*Posted 2026-08-20 · Listing synced 2026-08-22 · 80k job ID `recQa1HN71PxaYMba`*
+*Posted 2026-08-20 · Listing synced 2026-08-23 · 80k job ID `recQa1HN71PxaYMba`*

@@ -2,7 +2,7 @@
 title: "List of Top US Policy Master's Programmes"
 employer: "Various US Universities"
 job_id: "recia9Ivw5rzdn6hE"
-last_updated: "2026-08-22T05:31:50.777144Z"
+last_updated: "2026-08-23T05:31:48.791771Z"
 posted_at: "2026-08-20T00:00:00Z"
 status: ready
 apply_url: "https://airtable.com/shrC1Dswb9eIiTWzG/tbl2ljqBV2ztwdOSU"
@@ -21,7 +21,7 @@ areas:
 <dt>Degree</dt><dd>Undergraduate degree or less</dd>
 </dl>
 
-**Areas & skills:** Career development: Policy & government, Policy, Research
+**Areas & skills:** Career development: Policy & government, Research, Policy
 
 ## Summary
 - Working in policy can be among the most effective ways to have a positive impact in areas like AI, biosecurity, animal welfare, or global health.
@@ -32,4 +32,4 @@ areas:
 <p class="apply-cta"><a href="https://airtable.com/shrC1Dswb9eIiTWzG/tbl2ljqBV2ztwdOSU">Apply →</a></p>
 
 ---
-*Posted 2026-08-20 · Listing synced 2026-08-22 · 80k job ID `recia9Ivw5rzdn6hE`*
+*Posted 2026-08-20 · Listing synced 2026-08-23 · 80k job ID `recia9Ivw5rzdn6hE`*

@@ -4,25 +4,20 @@ employer: "Advanced Research and Invention Agency"
 job_id: "recAqPOY9hTa9gFWv"
 last_updated: "2026-08-22T05:32:45.083479Z"
 posted_at: "2026-07-06T00:01:00Z"
-status: ready
+status: closed
+closed_at: "2026-08-23"
 apply_url: "https://aria.pinpointhq.com/en/postings/f1288172-37fe-4da5-96ed-de7e719d65e8"
 areas:
   - "AI safety & policy"
 ---
 
+> ⚠️ **CLOSED on 2026-08-23** — this job is no longer listed on the 80,000 Hours board. Archived snapshot below.
+
 # Technical and Translational Lead, Safeguarded AI, Cybersecurity
 
-**[Advanced Research and Invention Agency](https://www.aria.org.uk/)**
+**Advanced Research and Invention Agency**
 
-<dl class="job-meta">
-<dt>Location</dt><dd>London, UK, UK</dd>
-<dt>Role type</dt><dd>Full-time</dd>
-<dt>Experience</dt><dd>Mid (5-9 years experience), Senior (10+ years experience)</dd>
-<dt>Degree</dt><dd>Undergraduate degree or less</dd>
-<dt>Salary</dt><dd>$143,261</dd>
-</dl>
-
-**Areas & skills:** AI safety & policy, Strategy, Information security
+**Areas & skills:** AI safety & policy
 
 ## Summary
 - In this role, you'll drive the execution of a £20m cybersecurity funding call on AI-enabled formal methods for cyber resilience.

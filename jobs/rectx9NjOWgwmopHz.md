@@ -2,7 +2,7 @@
 title: "Talent Pool"
 employer: "GiveWell"
 job_id: "rectx9NjOWgwmopHz"
-last_updated: "2026-08-22T05:33:09.942968Z"
+last_updated: "2026-08-23T05:33:06.202887Z"
 posted_at: "2022-01-09T00:00:00Z"
 status: ready
 apply_url: "https://job-boards.greenhouse.io/givewell/jobs/4053379008?gh_src=28dfee808us"
@@ -21,7 +21,7 @@ areas:
 <dt>Degree</dt><dd>Undergraduate degree or less</dd>
 </dl>
 
-**Areas & skills:** Global health & development, Operations, Outreach, Research
+**Areas & skills:** Global health & development, Research, Outreach, Operations
 
 ## Summary
 - GiveWell aims to keep in touch with the talent pool to share important updates and may reach out if they open a role that seems like a good fit.
@@ -29,4 +29,4 @@ areas:
 <p class="apply-cta"><a href="https://job-boards.greenhouse.io/givewell/jobs/4053379008?gh_src=28dfee808us">Apply →</a></p>
 
 ---
-*Posted 2022-01-09 · Listing synced 2026-08-22 · 80k job ID `rectx9NjOWgwmopHz`*
+*Posted 2022-01-09 · Listing synced 2026-08-23 · 80k job ID `rectx9NjOWgwmopHz`*

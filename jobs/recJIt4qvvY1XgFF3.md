@@ -2,7 +2,7 @@
 title: "Big if True Science Accelerator, Biosecurity Cohort"
 employer: "Renaissance Philanthropy"
 job_id: "recJIt4qvvY1XgFF3"
-last_updated: "2026-08-22T05:31:51.295374Z"
+last_updated: "2026-08-23T05:31:49.310022Z"
 posted_at: "2026-08-19T00:03:00Z"
 status: ready
 apply_url: "https://www.renaissancephilanthropy.org/bits-biosec"
@@ -21,7 +21,7 @@ areas:
 <dt>Degree</dt><dd>Undergraduate degree or less</dd>
 </dl>
 
-**Areas & skills:** Biosecurity & pandemic preparedness, Strategy, Research
+**Areas & skills:** Biosecurity & pandemic preparedness, Research, Strategy
 
 ## Summary
 - In this accelerator, you'll develop an ambitious R&D program focused on reducing biosecurity risks from engineered pathogens.
@@ -33,4 +33,4 @@ areas:
 <p class="apply-cta"><a href="https://www.renaissancephilanthropy.org/bits-biosec">Apply →</a></p>
 
 ---
-*Posted 2026-08-19 · Listing synced 2026-08-22 · 80k job ID `recJIt4qvvY1XgFF3`*
+*Posted 2026-08-19 · Listing synced 2026-08-23 · 80k job ID `recJIt4qvvY1XgFF3`*

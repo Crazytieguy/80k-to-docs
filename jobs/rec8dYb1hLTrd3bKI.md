@@ -2,7 +2,7 @@
 title: "Research Manager, AIxBio"
 employer: "Cambridge Boston Alignment Initiative"
 job_id: "rec8dYb1hLTrd3bKI"
-last_updated: "2026-08-22T05:33:18.148363Z"
+last_updated: "2026-08-23T05:33:13.522526Z"
 posted_at: "2022-01-06T00:00:00Z"
 status: ready
 apply_url: "https://jobs.ashbyhq.com/cbai/539f1a36-0378-46bc-b493-fb3a93adca10"
@@ -22,7 +22,7 @@ areas:
 <dt>Salary</dt><dd>$100,000 – $115,000</dd>
 </dl>
 
-**Areas & skills:** AI safety & policy, Operations, Research, Management
+**Areas & skills:** AI safety & policy, Research, Operations, Management
 
 ## Summary
 - In this role, you'll support fellows conducting AI x biosecurity research through feedback, mentoring, and program management.
@@ -34,4 +34,4 @@ areas:
 <p class="apply-cta"><a href="https://jobs.ashbyhq.com/cbai/539f1a36-0378-46bc-b493-fb3a93adca10">Apply →</a></p>
 
 ---
-*Posted 2022-01-06 · Listing synced 2026-08-22 · 80k job ID `rec8dYb1hLTrd3bKI`*
+*Posted 2022-01-06 · Listing synced 2026-08-23 · 80k job ID `rec8dYb1hLTrd3bKI`*

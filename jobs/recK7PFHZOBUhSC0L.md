@@ -2,7 +2,7 @@
 title: "Technical Support Engineer"
 employer: "HiddenLayer"
 job_id: "recK7PFHZOBUhSC0L"
-last_updated: "2026-08-22T05:33:46.628858Z"
+last_updated: "2026-08-23T05:33:40.326837Z"
 posted_at: "2022-01-02T00:00:00Z"
 status: ready
 apply_url: "https://job-boards.greenhouse.io/hiddenlayer/jobs/4915355007"
@@ -21,7 +21,7 @@ areas:
 <dt>Degree</dt><dd>Undergraduate degree or less</dd>
 </dl>
 
-**Areas & skills:** Career development: Technical, Software engineering, Operations
+**Areas & skills:** Career development: Technical, Operations, Software engineering
 
 ## Summary
 - In this role, you'll provide responsive, high-quality technical support to customers using the HiddenLayer AISec Platform.
@@ -33,4 +33,4 @@ areas:
 <p class="apply-cta"><a href="https://job-boards.greenhouse.io/hiddenlayer/jobs/4915355007">Apply →</a></p>
 
 ---
-*Posted 2022-01-02 · Listing synced 2026-08-22 · 80k job ID `recK7PFHZOBUhSC0L`*
+*Posted 2022-01-02 · Listing synced 2026-08-23 · 80k job ID `recK7PFHZOBUhSC0L`*

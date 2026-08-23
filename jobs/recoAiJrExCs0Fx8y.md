@@ -2,7 +2,7 @@
 title: "IT Cybersecurity Program Manager"
 employer: "US Government, Cybersecurity and Infrastructure Security Agency"
 job_id: "recoAiJrExCs0Fx8y"
-last_updated: "2026-08-22T05:31:48.025929Z"
+last_updated: "2026-08-23T05:31:46.060749Z"
 posted_at: "2026-08-21T00:00:00Z"
 status: ready
 apply_url: "https://www.usajobs.gov/job/881267600"
@@ -22,7 +22,7 @@ areas:
 <dt>Salary</dt><dd>$85,447 – $133,142</dd>
 </dl>
 
-**Areas & skills:** Career development: Policy & government, Information security, Policy
+**Areas & skills:** Career development: Policy & government, Policy, Information security
 
 ## Summary
 - In this role, you'll manage cybersecurity and information security requirements across IT systems, acquisitions, and service delivery.
@@ -34,4 +34,4 @@ areas:
 <p class="apply-cta"><a href="https://www.usajobs.gov/job/881267600">Apply →</a></p>
 
 ---
-*Posted 2026-08-21 · Listing synced 2026-08-22 · 80k job ID `recoAiJrExCs0Fx8y`*
+*Posted 2026-08-21 · Listing synced 2026-08-23 · 80k job ID `recoAiJrExCs0Fx8y`*

@@ -2,7 +2,7 @@
 title: "Funding, Work That Builds Capacity to Address Risks From Transformative AI"
 employer: "Coefficient Giving"
 job_id: "recHfhpau0WaNwGGo"
-last_updated: "2026-08-22T05:33:05.363747Z"
+last_updated: "2026-08-23T05:33:01.434259Z"
 posted_at: "2022-01-11T00:00:00Z"
 status: ready
 apply_url: "https://www.openphilanthropy.org/funding-for-work-that-builds-capacity-to-address-risks-from-transformative-ai/"
@@ -21,7 +21,7 @@ areas:
 <dt>Degree</dt><dd>Undergraduate degree or less</dd>
 </dl>
 
-**Areas & skills:** AI safety & policy, Operations, Outreach
+**Areas & skills:** AI safety & policy, Outreach, Operations
 
 ## Summary
 - Funding for projects, including those helping new talent get into work focused on addressing risks from transformative AI, supporting existing talent, or contributing to the discourse about transformative AI.
@@ -31,4 +31,4 @@ areas:
 <p class="apply-cta"><a href="https://www.openphilanthropy.org/funding-for-work-that-builds-capacity-to-address-risks-from-transformative-ai/">Apply →</a></p>
 
 ---
-*Posted 2022-01-11 · Listing synced 2026-08-22 · 80k job ID `recHfhpau0WaNwGGo`*
+*Posted 2022-01-11 · Listing synced 2026-08-23 · 80k job ID `recHfhpau0WaNwGGo`*

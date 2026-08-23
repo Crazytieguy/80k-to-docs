@@ -2,7 +2,7 @@
 title: "Trustee"
 employer: "Partnership for Research into Sentient Machines"
 job_id: "recTMy4orKKrxxJwv"
-last_updated: "2026-08-22T05:33:36.655700Z"
+last_updated: "2026-08-23T05:33:30.726673Z"
 posted_at: "2022-01-05T00:00:00Z"
 status: ready
 apply_url: "https://www.prism-global.com/trustee-vacancies"
@@ -21,7 +21,7 @@ areas:
 <dt>Degree</dt><dd>Undergraduate degree or less</dd>
 </dl>
 
-**Areas & skills:** AI safety & policy, Strategy, Finance
+**Areas & skills:** AI safety & policy, Finance, Strategy
 
 ## Summary
 - In this role, you'll govern PRISM as a Trustee, overseeing strategy, compliance, and finances.
@@ -33,4 +33,4 @@ areas:
 <p class="apply-cta"><a href="https://www.prism-global.com/trustee-vacancies">Apply →</a></p>
 
 ---
-*Posted 2022-01-05 · Listing synced 2026-08-22 · 80k job ID `recTMy4orKKrxxJwv`*
+*Posted 2022-01-05 · Listing synced 2026-08-23 · 80k job ID `recTMy4orKKrxxJwv`*

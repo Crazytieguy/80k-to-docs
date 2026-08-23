@@ -2,7 +2,7 @@
 title: "Senior Programs and Strategy Manager"
 employer: "FAR AI"
 job_id: "recRRq6BhNrkA0YcU"
-last_updated: "2026-08-22T05:32:49.382455Z"
+last_updated: "2026-08-23T05:32:45.281467Z"
 posted_at: "2026-06-29T00:04:13Z"
 status: ready
 apply_url: "https://jobs.ashbyhq.com/far.ai/50a65dc0-eaa2-4a33-856f-316cf7fe4fb6?embed=js"
@@ -22,7 +22,7 @@ areas:
 <dt>Salary</dt><dd>$115,000 – $175,000</dd>
 </dl>
 
-**Areas & skills:** AI safety & policy, Strategy, Outreach
+**Areas & skills:** AI safety & policy, Outreach, Strategy
 
 ## Summary
 - In this role, you'll design and curate strategic events ensuring intellectual rigor across FAR.AI's annual event portfolio.
@@ -34,4 +34,4 @@ areas:
 <p class="apply-cta"><a href="https://jobs.ashbyhq.com/far.ai/50a65dc0-eaa2-4a33-856f-316cf7fe4fb6?embed=js">Apply →</a></p>
 
 ---
-*Posted 2026-06-29 · Listing synced 2026-08-22 · 80k job ID `recRRq6BhNrkA0YcU`*
+*Posted 2026-06-29 · Listing synced 2026-08-23 · 80k job ID `recRRq6BhNrkA0YcU`*

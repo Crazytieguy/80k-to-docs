@@ -2,7 +2,7 @@
 title: "Director, Community Growth"
 employer: "Centre for Effective Altruism"
 job_id: "recAe6difpWzNbpIP"
-last_updated: "2026-08-22T05:31:57.647886Z"
+last_updated: "2026-08-23T05:31:55.656225Z"
 posted_at: "2026-08-17T00:04:28Z"
 status: ready
 apply_url: "https://www.centreforeffectivealtruism.org/careers?ashby_jid=66494491-ffc9-46fa-bf8c-a9c3833cbd34"
@@ -22,7 +22,7 @@ areas:
 <dt>Salary</dt><dd>$264,000</dd>
 </dl>
 
-**Areas & skills:** Building effective altruism, Strategy, Management
+**Areas & skills:** Building effective altruism, Management, Strategy
 
 ## Summary
 - In this role, you'll lead CEA's Community Growth Team scaling Events, Groups, Online, and Courses to grow EA talent.
@@ -34,4 +34,4 @@ areas:
 <p class="apply-cta"><a href="https://www.centreforeffectivealtruism.org/careers?ashby_jid=66494491-ffc9-46fa-bf8c-a9c3833cbd34">Apply →</a></p>
 
 ---
-*Posted 2026-08-17 · Listing synced 2026-08-22 · 80k job ID `recAe6difpWzNbpIP`*
+*Posted 2026-08-17 · Listing synced 2026-08-23 · 80k job ID `recAe6difpWzNbpIP`*

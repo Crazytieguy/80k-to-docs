@@ -2,7 +2,7 @@
 title: "Principal Full-Stack Engineer"
 employer: "Meridian Labs"
 job_id: "recHaI4RkJxRiJgH4"
-last_updated: "2026-08-22T05:33:36.531412Z"
+last_updated: "2026-08-23T05:33:30.604540Z"
 posted_at: "2022-01-05T00:00:00Z"
 status: ready
 apply_url: "https://meridianlabs.ai/careers/principal-fs"
@@ -22,7 +22,7 @@ areas:
 <dt>Salary</dt><dd>$225,000 – $325,000</dd>
 </dl>
 
-**Areas & skills:** AI safety & policy, Strategy, Software engineering
+**Areas & skills:** AI safety & policy, Software engineering, Strategy
 
 ## Summary
 - In this role, you'll build an open source LLM research platform, spanning Python infrastructure and React interfaces for researchers to evaluate and understand model behavior.
@@ -34,4 +34,4 @@ areas:
 <p class="apply-cta"><a href="https://meridianlabs.ai/careers/principal-fs">Apply →</a></p>
 
 ---
-*Posted 2022-01-05 · Listing synced 2026-08-22 · 80k job ID `recHaI4RkJxRiJgH4`*
+*Posted 2022-01-05 · Listing synced 2026-08-23 · 80k job ID `recHaI4RkJxRiJgH4`*

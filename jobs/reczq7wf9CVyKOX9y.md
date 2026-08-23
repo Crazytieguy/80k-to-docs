@@ -2,7 +2,7 @@
 title: "Various Internships"
 employer: "Center for a New American Security"
 job_id: "reczq7wf9CVyKOX9y"
-last_updated: "2026-08-22T05:33:43.495674Z"
+last_updated: "2026-08-23T05:33:37.293946Z"
 posted_at: "2022-01-02T00:00:00Z"
 status: ready
 apply_url: "https://www.cnas.org/careers/internships"
@@ -22,7 +22,7 @@ areas:
 <dt>Salary</dt><dd>$22,800</dd>
 </dl>
 
-**Areas & skills:** Career development: Policy & government, Policy, Research, Outreach
+**Areas & skills:** Career development: Policy & government, Research, Policy, Outreach
 
 ## Summary
 - Internship duration is six months.
@@ -34,4 +34,4 @@ areas:
 <p class="apply-cta"><a href="https://www.cnas.org/careers/internships">Apply →</a></p>
 
 ---
-*Posted 2022-01-02 · Listing synced 2026-08-22 · 80k job ID `reczq7wf9CVyKOX9y`*
+*Posted 2022-01-02 · Listing synced 2026-08-23 · 80k job ID `reczq7wf9CVyKOX9y`*

@@ -2,7 +2,7 @@
 title: "Office Manager"
 employer: "MATS Research"
 job_id: "recjaDNzJIVFWGunr"
-last_updated: "2026-08-22T05:32:35.271119Z"
+last_updated: "2026-08-23T05:32:31.503272Z"
 posted_at: "2026-07-20T00:05:00Z"
 status: ready
 apply_url: "https://www.matsprogram.org/careers/office-manager"
@@ -34,4 +34,4 @@ areas:
 <p class="apply-cta"><a href="https://www.matsprogram.org/careers/office-manager">Apply →</a></p>
 
 ---
-*Posted 2026-07-20 · Listing synced 2026-08-22 · 80k job ID `recjaDNzJIVFWGunr`*
+*Posted 2026-07-20 · Listing synced 2026-08-23 · 80k job ID `recjaDNzJIVFWGunr`*

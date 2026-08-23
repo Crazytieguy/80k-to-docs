@@ -2,7 +2,7 @@
 title: "Hardware / Kernel Engineer"
 employer: "Tilde Research"
 job_id: "recPLUaNAk2zrakP4"
-last_updated: "2026-08-22T05:32:52.958420Z"
+last_updated: "2026-08-23T05:32:48.530201Z"
 posted_at: "2026-06-17T00:00:00Z"
 status: ready
 apply_url: "https://jobs.ashbyhq.com/tilderesearch/bc4e4071-cf64-4460-8265-b1e5a603d6b8"
@@ -21,7 +21,7 @@ areas:
 <dt>Degree</dt><dd>Undergraduate degree or less</dd>
 </dl>
 
-**Areas & skills:** AI safety & policy, Software engineering, Engineering
+**Areas & skills:** AI safety & policy, Engineering, Software engineering
 
 ## Summary
 - In this role, you'll design, implement, and optimize high-performance GPU kernels for scaling training and inference workloads.
@@ -33,4 +33,4 @@ areas:
 <p class="apply-cta"><a href="https://jobs.ashbyhq.com/tilderesearch/bc4e4071-cf64-4460-8265-b1e5a603d6b8">Apply →</a></p>
 
 ---
-*Posted 2026-06-17 · Listing synced 2026-08-22 · 80k job ID `recPLUaNAk2zrakP4`*
+*Posted 2026-06-17 · Listing synced 2026-08-23 · 80k job ID `recPLUaNAk2zrakP4`*

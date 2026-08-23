@@ -2,7 +2,7 @@
 title: "Student Assistant"
 employer: "Peace Research Institute Frankfurt"
 job_id: "recCUHDoxALl47igZ"
-last_updated: "2026-08-22T05:31:52.773362Z"
+last_updated: "2026-08-23T05:31:50.799805Z"
 posted_at: "2026-08-19T00:00:00Z"
 status: ready
 apply_url: "https://www.prif.org/en/career/vacancy/studentische-hilfskraft-m-w-d-2"
@@ -34,4 +34,4 @@ areas:
 <p class="apply-cta"><a href="https://www.prif.org/en/career/vacancy/studentische-hilfskraft-m-w-d-2">Apply →</a></p>
 
 ---
-*Posted 2026-08-19 · Listing synced 2026-08-22 · 80k job ID `recCUHDoxALl47igZ`*
+*Posted 2026-08-19 · Listing synced 2026-08-23 · 80k job ID `recCUHDoxALl47igZ`*

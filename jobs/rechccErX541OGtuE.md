@@ -2,7 +2,7 @@
 title: "Network Engineer"
 employer: "SL5 Task Force"
 job_id: "rechccErX541OGtuE"
-last_updated: "2026-08-22T05:31:54.532580Z"
+last_updated: "2026-08-23T05:31:52.536303Z"
 posted_at: "2026-08-18T00:01:00Z"
 status: ready
 apply_url: "https://jobs.ashbyhq.com/security-level-5/0439d44e-0f88-495a-8cf1-3e596bc264fa?embed=js"
@@ -34,4 +34,4 @@ areas:
 <p class="apply-cta"><a href="https://jobs.ashbyhq.com/security-level-5/0439d44e-0f88-495a-8cf1-3e596bc264fa?embed=js">Apply →</a></p>
 
 ---
-*Posted 2026-08-18 · Listing synced 2026-08-22 · 80k job ID `rechccErX541OGtuE`*
+*Posted 2026-08-18 · Listing synced 2026-08-23 · 80k job ID `rechccErX541OGtuE`*

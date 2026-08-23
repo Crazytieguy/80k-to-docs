@@ -2,7 +2,7 @@
 title: "Senior Network Security Engineer"
 employer: "xAI"
 job_id: "recm1R8h1iVFok4ju"
-last_updated: "2026-08-22T05:33:28.620781Z"
+last_updated: "2026-08-23T05:33:22.526115Z"
 posted_at: "2022-01-06T00:00:00Z"
 status: ready
 apply_url: "https://job-boards.greenhouse.io/xai/jobs/4800712007"
@@ -22,7 +22,7 @@ areas:
 <dt>Salary</dt><dd>$180,000 – $440,000</dd>
 </dl>
 
-**Areas & skills:** AI safety & policy, Information security, Software engineering
+**Areas & skills:** AI safety & policy, Software engineering, Information security
 
 ## Summary
 - In this role, you'll serve as a subject matter expert in network security, focusing on firewalls, VPNs, and routing/switching technologies within cloud-native AI infrastructure.
@@ -34,4 +34,4 @@ areas:
 <p class="apply-cta"><a href="https://job-boards.greenhouse.io/xai/jobs/4800712007">Apply →</a></p>
 
 ---
-*Posted 2022-01-06 · Listing synced 2026-08-22 · 80k job ID `recm1R8h1iVFok4ju`*
+*Posted 2022-01-06 · Listing synced 2026-08-23 · 80k job ID `recm1R8h1iVFok4ju`*

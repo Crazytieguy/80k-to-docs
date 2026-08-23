@@ -2,7 +2,7 @@
 title: "C-WMD Assessor, Early-Career"
 employer: "MITRE"
 job_id: "recnu8RAdqzQFFIzs"
-last_updated: "2026-08-22T05:32:28.535170Z"
+last_updated: "2026-08-23T05:32:25.726551Z"
 posted_at: "2026-07-29T00:00:00Z"
 status: ready
 apply_url: "https://careers.mitre.org/us/en/job/R117088/C-WMD-Assessor"
@@ -22,7 +22,7 @@ areas:
 <dt>Salary</dt><dd>$92,800 – $139,200</dd>
 </dl>
 
-**Areas & skills:** Biosecurity & pandemic preparedness, Policy, Research
+**Areas & skills:** Biosecurity & pandemic preparedness, Research, Policy
 
 ## Summary
 - In this role, you'll conduct independent assessments of nonproliferation capacity-building programs supporting national security and treaty compliance.
@@ -34,4 +34,4 @@ areas:
 <p class="apply-cta"><a href="https://careers.mitre.org/us/en/job/R117088/C-WMD-Assessor">Apply →</a></p>
 
 ---
-*Posted 2026-07-29 · Listing synced 2026-08-22 · 80k job ID `recnu8RAdqzQFFIzs`*
+*Posted 2026-07-29 · Listing synced 2026-08-23 · 80k job ID `recnu8RAdqzQFFIzs`*

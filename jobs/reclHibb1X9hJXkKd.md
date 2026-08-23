@@ -2,7 +2,7 @@
 title: "Tech Lead, GenAI Safety"
 employer: "Alice"
 job_id: "reclHibb1X9hJXkKd"
-last_updated: "2026-08-22T05:32:25.719077Z"
+last_updated: "2026-08-23T05:32:23.191654Z"
 posted_at: "2026-07-30T00:01:00Z"
 status: ready
 apply_url: "https://alice.io/positions/position-f1_f6d"
@@ -22,7 +22,7 @@ areas:
 <dt>Salary</dt><dd>$105,000 – $115,000</dd>
 </dl>
 
-**Areas & skills:** AI safety & policy, Research, Management, Information security
+**Areas & skills:** AI safety & policy, Research, Information security, Management
 
 ## Summary
 - In this role, you'll lead GenAI safety efforts by writing adversarial prompts and identifying model vulnerabilities.
@@ -34,4 +34,4 @@ areas:
 <p class="apply-cta"><a href="https://alice.io/positions/position-f1_f6d">Apply →</a></p>
 
 ---
-*Posted 2026-07-30 · Listing synced 2026-08-22 · 80k job ID `reclHibb1X9hJXkKd`*
+*Posted 2026-07-30 · Listing synced 2026-08-23 · 80k job ID `reclHibb1X9hJXkKd`*

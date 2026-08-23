@@ -2,7 +2,7 @@
 title: "Expression of Interest"
 employer: "Centre for Effective Altruism"
 job_id: "rec1LOcRvZKwzShpp"
-last_updated: "2026-08-22T05:33:12.141222Z"
+last_updated: "2026-08-23T05:33:08.048559Z"
 posted_at: "2022-01-07T00:00:00Z"
 status: ready
 apply_url: "https://www.centreforeffectivealtruism.org/careers?ashby_jid=372827d7-ca62-49a6-bc75-077e63398577"
@@ -21,7 +21,7 @@ areas:
 <dt>Degree</dt><dd>Undergraduate degree or less</dd>
 </dl>
 
-**Areas & skills:** Building effective altruism, Operations, Outreach
+**Areas & skills:** Building effective altruism, Outreach, Operations
 
 ## Summary
 - CEA accepts expressions of interest for a variety of roles that they aren't actively hiring for.
@@ -31,4 +31,4 @@ areas:
 <p class="apply-cta"><a href="https://www.centreforeffectivealtruism.org/careers?ashby_jid=372827d7-ca62-49a6-bc75-077e63398577">Apply →</a></p>
 
 ---
-*Posted 2022-01-07 · Listing synced 2026-08-22 · 80k job ID `rec1LOcRvZKwzShpp`*
+*Posted 2022-01-07 · Listing synced 2026-08-23 · 80k job ID `rec1LOcRvZKwzShpp`*

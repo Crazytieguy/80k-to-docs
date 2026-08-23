@@ -2,7 +2,7 @@
 title: "Various Fellowships"
 employer: "Yale University, Yale Law School"
 job_id: "recbJjOnGGbi27uz2"
-last_updated: "2026-08-22T05:33:56.582115Z"
+last_updated: "2026-08-23T05:33:50.023856Z"
 posted_at: "2022-01-01T00:00:00Z"
 status: ready
 apply_url: "https://law.yale.edu/isp/join-us"
@@ -21,7 +21,7 @@ areas:
 <dt>Degree</dt><dd>Undergraduate degree or less</dd>
 </dl>
 
-**Areas & skills:** Career development: Policy & government, Policy, Legal, Research
+**Areas & skills:** Career development: Policy & government, Research, Policy, Legal
 
 ## Summary
 - Fellows are expected to produce at least two academic works per year.
@@ -33,4 +33,4 @@ areas:
 <p class="apply-cta"><a href="https://law.yale.edu/isp/join-us">Apply →</a></p>
 
 ---
-*Posted 2022-01-01 · Listing synced 2026-08-22 · 80k job ID `recbJjOnGGbi27uz2`*
+*Posted 2022-01-01 · Listing synced 2026-08-23 · 80k job ID `recbJjOnGGbi27uz2`*

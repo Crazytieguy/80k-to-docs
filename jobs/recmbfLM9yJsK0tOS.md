@@ -2,7 +2,7 @@
 title: "Head of Secure Data Centre Scaling"
 employer: "SL5 Task Force"
 job_id: "recmbfLM9yJsK0tOS"
-last_updated: "2026-08-22T05:31:54.282626Z"
+last_updated: "2026-08-23T05:31:52.286121Z"
 posted_at: "2026-08-18T00:01:00Z"
 status: ready
 apply_url: "https://jobs.ashbyhq.com/security-level-5/515d76a8-c6d2-4052-8cff-af541030e33f?embed=js"
@@ -22,7 +22,7 @@ areas:
 <dt>Salary</dt><dd>$250,000 – $500,000</dd>
 </dl>
 
-**Areas & skills:** AI safety & policy, Information security, Engineering
+**Areas & skills:** AI safety & policy, Engineering, Information security
 
 ## Summary
 - In this role, you'll develop roadmaps for building a Security Level 5 datacenter defending AI labs from nation-state threats.
@@ -34,4 +34,4 @@ areas:
 <p class="apply-cta"><a href="https://jobs.ashbyhq.com/security-level-5/515d76a8-c6d2-4052-8cff-af541030e33f?embed=js">Apply →</a></p>
 
 ---
-*Posted 2026-08-18 · Listing synced 2026-08-22 · 80k job ID `recmbfLM9yJsK0tOS`*
+*Posted 2026-08-18 · Listing synced 2026-08-23 · 80k job ID `recmbfLM9yJsK0tOS`*

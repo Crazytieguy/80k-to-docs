@@ -2,7 +2,7 @@
 title: "Events Manager"
 employer: "The AI Policy Network"
 job_id: "recyManmqrNcTiw4b"
-last_updated: "2026-08-22T05:32:55.304663Z"
+last_updated: "2026-08-23T05:32:50.925628Z"
 posted_at: "2026-06-11T00:02:00Z"
 status: ready
 apply_url: "https://job-boards.greenhouse.io/aipn/jobs/4353583009"
@@ -22,7 +22,7 @@ areas:
 <dt>Salary</dt><dd>$60,000 – $90,000</dd>
 </dl>
 
-**Areas & skills:** AI safety & policy, Operations, Policy
+**Areas & skills:** AI safety & policy, Policy, Operations
 
 ## Summary
 - In this role, you'll own the logistics and execution of AIPN's events from concept to completion.
@@ -34,4 +34,4 @@ areas:
 <p class="apply-cta"><a href="https://job-boards.greenhouse.io/aipn/jobs/4353583009">Apply →</a></p>
 
 ---
-*Posted 2026-06-11 · Listing synced 2026-08-22 · 80k job ID `recyManmqrNcTiw4b`*
+*Posted 2026-06-11 · Listing synced 2026-08-23 · 80k job ID `recyManmqrNcTiw4b`*

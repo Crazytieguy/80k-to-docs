@@ -2,7 +2,7 @@
 title: "Security Engineer, Detection and Response, Europe, the Middle East and Africa"
 employer: "OpenAI"
 job_id: "recY7yuxJEB1RMy92"
-last_updated: "2026-08-22T05:33:08.491685Z"
+last_updated: "2026-08-23T05:33:04.777893Z"
 posted_at: "2022-01-11T00:00:00Z"
 status: ready
 apply_url: "https://openai.com/careers/security-engineer-detection-and-response-emea-london-uk/"
@@ -21,7 +21,7 @@ areas:
 <dt>Degree</dt><dd>Undergraduate degree or less</dd>
 </dl>
 
-**Areas & skills:** AI safety & policy, Information security, Software engineering
+**Areas & skills:** AI safety & policy, Software engineering, Information security
 
 ## Summary
 - In this role, you'll protect OpenAI's sensitive assets by building detection systems to identify and respond to security threats.
@@ -33,4 +33,4 @@ areas:
 <p class="apply-cta"><a href="https://openai.com/careers/security-engineer-detection-and-response-emea-london-uk/">Apply →</a></p>
 
 ---
-*Posted 2022-01-11 · Listing synced 2026-08-22 · 80k job ID `recY7yuxJEB1RMy92`*
+*Posted 2022-01-11 · Listing synced 2026-08-23 · 80k job ID `recY7yuxJEB1RMy92`*

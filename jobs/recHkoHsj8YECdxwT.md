@@ -2,7 +2,7 @@
 title: "AI Research Engineer, Safety Pretraining for Open Frontier Models, EPFL (x3)"
 employer: "Swiss AI Initiative"
 job_id: "recHkoHsj8YECdxwT"
-last_updated: "2026-08-22T05:32:43.893145Z"
+last_updated: "2026-08-23T05:32:40.113255Z"
 posted_at: "2026-07-08T00:00:00Z"
 status: ready
 apply_url: "https://dlab.epfl.ch/2026-07-06-safety-pretraining-engineer-positions/"
@@ -21,7 +21,7 @@ areas:
 <dt>Degree</dt><dd>Master's degree</dd>
 </dl>
 
-**Areas & skills:** AI safety & policy, Software engineering, Research
+**Areas & skills:** AI safety & policy, Research, Software engineering
 
 ## Summary
 - In this role, you'll build the safety-pretraining stack for Apertus, scaling alignment methods into production LLM pipelines.
@@ -33,4 +33,4 @@ areas:
 <p class="apply-cta"><a href="https://dlab.epfl.ch/2026-07-06-safety-pretraining-engineer-positions/">Apply →</a></p>
 
 ---
-*Posted 2026-07-08 · Listing synced 2026-08-22 · 80k job ID `recHkoHsj8YECdxwT`*
+*Posted 2026-07-08 · Listing synced 2026-08-23 · 80k job ID `recHkoHsj8YECdxwT`*

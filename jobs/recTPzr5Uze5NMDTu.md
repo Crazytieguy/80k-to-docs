@@ -2,7 +2,7 @@
 title: "Program Director, Formal Methods"
 employer: "OpenAI Foundation"
 job_id: "recTPzr5Uze5NMDTu"
-last_updated: "2026-08-22T05:31:47.100678Z"
+last_updated: "2026-08-23T05:31:45.114710Z"
 posted_at: "2026-08-21T00:03:00Z"
 status: ready
 apply_url: "https://openaifoundation.org/careers/program-director-formal-methods-261279c0-757e-4792-b731-264ca2e984c6"
@@ -22,7 +22,7 @@ areas:
 <dt>Salary</dt><dd>$300,000 – $370,000</dd>
 </dl>
 
-**Areas & skills:** AI safety & policy, Strategy, Management, Information security
+**Areas & skills:** AI safety & policy, Information security, Management, Strategy
 
 ## Summary
 - In this role, you'll set the Foundation's formal methods R&D strategy for cyber resilience, coordinating across academia, industry, and government.
@@ -34,4 +34,4 @@ areas:
 <p class="apply-cta"><a href="https://openaifoundation.org/careers/program-director-formal-methods-261279c0-757e-4792-b731-264ca2e984c6">Apply →</a></p>
 
 ---
-*Posted 2026-08-21 · Listing synced 2026-08-22 · 80k job ID `recTPzr5Uze5NMDTu`*
+*Posted 2026-08-21 · Listing synced 2026-08-23 · 80k job ID `recTPzr5Uze5NMDTu`*

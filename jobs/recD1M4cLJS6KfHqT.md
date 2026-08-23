@@ -2,7 +2,7 @@
 title: "Expression of Interest, Senior Leadership"
 employer: "Goodfire"
 job_id: "recD1M4cLJS6KfHqT"
-last_updated: "2026-08-22T05:33:33.924779Z"
+last_updated: "2026-08-23T05:33:27.774797Z"
 posted_at: "2022-01-05T00:00:00Z"
 status: ready
 apply_url: "https://job-boards.greenhouse.io/goodfire/jobs/4749403008"
@@ -21,7 +21,7 @@ areas:
 <dt>Degree</dt><dd>Undergraduate degree or less</dd>
 </dl>
 
-**Areas & skills:** AI safety & policy, Strategy, Operations, Management
+**Areas & skills:** AI safety & policy, Operations, Management, Strategy
 
 ## Summary
 - In this role, you'll provide senior leadership for an AI interpretability research company focused on making advanced AI systems understandable and aligned.
@@ -33,4 +33,4 @@ areas:
 <p class="apply-cta"><a href="https://job-boards.greenhouse.io/goodfire/jobs/4749403008">Apply →</a></p>
 
 ---
-*Posted 2022-01-05 · Listing synced 2026-08-22 · 80k job ID `recD1M4cLJS6KfHqT`*
+*Posted 2022-01-05 · Listing synced 2026-08-23 · 80k job ID `recD1M4cLJS6KfHqT`*

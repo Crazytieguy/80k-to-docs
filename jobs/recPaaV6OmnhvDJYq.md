@@ -2,7 +2,7 @@
 title: "Research Associate, Law and Governance, Biosecurity and Global Health"
 employer: "National University of Singapore, Asia Centre for Health Security"
 job_id: "recPaaV6OmnhvDJYq"
-last_updated: "2026-08-22T05:33:39.447153Z"
+last_updated: "2026-08-23T05:33:33.514193Z"
 posted_at: "2022-01-04T00:00:00Z"
 status: ready
 apply_url: "https://careers.nus.edu.sg/job/Research-Associate-%28Law-and-Governance%2C-Biosecurity-and-Global-Health%29/30430-en_GB/"
@@ -33,4 +33,4 @@ areas:
 <p class="apply-cta"><a href="https://careers.nus.edu.sg/job/Research-Associate-%28Law-and-Governance%2C-Biosecurity-and-Global-Health%29/30430-en_GB/">Apply →</a></p>
 
 ---
-*Posted 2022-01-04 · Listing synced 2026-08-22 · 80k job ID `recPaaV6OmnhvDJYq`*
+*Posted 2022-01-04 · Listing synced 2026-08-23 · 80k job ID `recPaaV6OmnhvDJYq`*

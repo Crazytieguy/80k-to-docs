@@ -2,7 +2,7 @@
 title: "Research Assistant / Research Associate, Technology and National Security Program"
 employer: "Center for a New American Security"
 job_id: "rec9RpcC1CwtaDguO"
-last_updated: "2026-08-22T05:31:58.173613Z"
+last_updated: "2026-08-23T05:31:56.154458Z"
 posted_at: "2026-08-17T00:01:00Z"
 status: ready
 apply_url: "https://www.cnas.org/careers/research-assistant-associate-technology-and-national-security-program"
@@ -33,4 +33,4 @@ areas:
 <p class="apply-cta"><a href="https://www.cnas.org/careers/research-assistant-associate-technology-and-national-security-program">Apply →</a></p>
 
 ---
-*Posted 2026-08-17 · Listing synced 2026-08-22 · 80k job ID `rec9RpcC1CwtaDguO`*
+*Posted 2026-08-17 · Listing synced 2026-08-23 · 80k job ID `rec9RpcC1CwtaDguO`*

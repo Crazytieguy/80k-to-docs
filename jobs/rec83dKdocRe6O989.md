@@ -2,7 +2,7 @@
 title: "Executive Director"
 employer: "Centre For Enabling EA Learning and Research"
 job_id: "rec83dKdocRe6O989"
-last_updated: "2026-08-22T05:32:24.052687Z"
+last_updated: "2026-08-23T05:32:21.789735Z"
 posted_at: "2026-07-31T00:00:00Z"
 status: ready
 apply_url: "https://forum.effectivealtruism.org/posts/hpBsjQPQehv5vtKi4/job-executive-director-of-ceealar-ea-hotel-1"
@@ -22,7 +22,7 @@ areas:
 <dt>Salary</dt><dd>$54,576 – $68,220</dd>
 </dl>
 
-**Areas & skills:** Building effective altruism, Operations, Strategy, Management
+**Areas & skills:** Building effective altruism, Operations, Management, Strategy
 
 ## Summary
 - In this role, you'll lead CEEALAR's growth, expanding from Blackpool to London while managing existing operations.
@@ -34,4 +34,4 @@ areas:
 <p class="apply-cta"><a href="https://forum.effectivealtruism.org/posts/hpBsjQPQehv5vtKi4/job-executive-director-of-ceealar-ea-hotel-1">Apply →</a></p>
 
 ---
-*Posted 2026-07-31 · Listing synced 2026-08-22 · 80k job ID `rec83dKdocRe6O989`*
+*Posted 2026-07-31 · Listing synced 2026-08-23 · 80k job ID `rec83dKdocRe6O989`*

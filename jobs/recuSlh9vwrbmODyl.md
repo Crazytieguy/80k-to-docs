@@ -2,7 +2,7 @@
 title: "Co-op, AI Technology and Systems (Fall 2026)"
 employer: "Massachusetts Institute of Technology, Lincoln Laboratory"
 job_id: "recuSlh9vwrbmODyl"
-last_updated: "2026-08-22T05:32:54.253150Z"
+last_updated: "2026-08-23T05:32:49.827507Z"
 posted_at: "2026-06-15T00:00:00Z"
 status: ready
 apply_url: "https://careers.ll.mit.edu/job/Lexington-Group-05-52-Co-Op-AI-Technology-and-Systems-Fall-2026-MA-02420/1399059100/"
@@ -33,4 +33,4 @@ areas:
 <p class="apply-cta"><a href="https://careers.ll.mit.edu/job/Lexington-Group-05-52-Co-Op-AI-Technology-and-Systems-Fall-2026-MA-02420/1399059100/">Apply →</a></p>
 
 ---
-*Posted 2026-06-15 · Listing synced 2026-08-22 · 80k job ID `recuSlh9vwrbmODyl`*
+*Posted 2026-06-15 · Listing synced 2026-08-23 · 80k job ID `recuSlh9vwrbmODyl`*

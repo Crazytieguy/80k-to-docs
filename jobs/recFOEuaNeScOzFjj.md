@@ -2,7 +2,7 @@
 title: "Volunteer"
 employer: "Asia Accountability Initiative"
 job_id: "recFOEuaNeScOzFjj"
-last_updated: "2026-08-22T05:33:43.199300Z"
+last_updated: "2026-08-23T05:33:37.001690Z"
 posted_at: "2022-01-02T00:00:00Z"
 status: ready
 apply_url: "https://asiaaccountabilityinitiative.sharepoint.com/:w:/s/AAIExec/EQkdPkRzWO1Cq-3UB477VroBFNqcBe1QTvS3joP4sVcc9A?e=d38Lag"
@@ -21,7 +21,7 @@ areas:
 <dt>Degree</dt><dd>Undergraduate degree or less</dd>
 </dl>
 
-**Areas & skills:** Animal welfare, Outreach, Research
+**Areas & skills:** Animal welfare, Research, Outreach
 
 ## Summary
 - In this role, you'll contribute to animal welfare campaigns ensuring companies fulfill their cage-free egg commitments.
@@ -33,4 +33,4 @@ areas:
 <p class="apply-cta"><a href="https://asiaaccountabilityinitiative.sharepoint.com/:w:/s/AAIExec/EQkdPkRzWO1Cq-3UB477VroBFNqcBe1QTvS3joP4sVcc9A?e=d38Lag">Apply →</a></p>
 
 ---
-*Posted 2022-01-02 · Listing synced 2026-08-22 · 80k job ID `recFOEuaNeScOzFjj`*
+*Posted 2022-01-02 · Listing synced 2026-08-23 · 80k job ID `recFOEuaNeScOzFjj`*

@@ -2,7 +2,7 @@
 title: "Software Security Engineering Manager, Secure Frameworks"
 employer: "Anthropic"
 job_id: "recT4alJto04YwvWp"
-last_updated: "2026-08-22T05:32:37.962694Z"
+last_updated: "2026-08-23T05:32:34.099960Z"
 posted_at: "2026-07-15T00:00:00Z"
 status: ready
 apply_url: "https://job-boards.greenhouse.io/anthropic/jobs/5324758008"
@@ -22,7 +22,7 @@ areas:
 <dt>Salary</dt><dd>$405,000 – $485,000</dd>
 </dl>
 
-**Areas & skills:** AI safety & policy, Information security, Software engineering, Management
+**Areas & skills:** AI safety & policy, Software engineering, Information security, Management
 
 ## Summary
 - In this role, you'll lead the Secure Frameworks Research team, designing security frameworks and libraries that prevent entire classes of vulnerabilities.
@@ -34,4 +34,4 @@ areas:
 <p class="apply-cta"><a href="https://job-boards.greenhouse.io/anthropic/jobs/5324758008">Apply →</a></p>
 
 ---
-*Posted 2026-07-15 · Listing synced 2026-08-22 · 80k job ID `recT4alJto04YwvWp`*
+*Posted 2026-07-15 · Listing synced 2026-08-23 · 80k job ID `recT4alJto04YwvWp`*

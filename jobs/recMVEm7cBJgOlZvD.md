@@ -2,7 +2,7 @@
 title: "Volunteer"
 employer: "Crustacean Compassion"
 job_id: "recMVEm7cBJgOlZvD"
-last_updated: "2026-08-22T05:33:43.951156Z"
+last_updated: "2026-08-23T05:33:37.733546Z"
 posted_at: "2022-01-02T00:00:00Z"
 status: ready
 apply_url: "https://www.crustaceancompassion.org/volunteer"
@@ -33,4 +33,4 @@ areas:
 <p class="apply-cta"><a href="https://www.crustaceancompassion.org/volunteer">Apply →</a></p>
 
 ---
-*Posted 2022-01-02 · Listing synced 2026-08-22 · 80k job ID `recMVEm7cBJgOlZvD`*
+*Posted 2022-01-02 · Listing synced 2026-08-23 · 80k job ID `recMVEm7cBJgOlZvD`*

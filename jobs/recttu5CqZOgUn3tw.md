@@ -2,7 +2,7 @@
 title: "Head of the Effective Altruism Infrastructure Fund"
 employer: "Centre for Effective Altruism"
 job_id: "recttu5CqZOgUn3tw"
-last_updated: "2026-08-22T05:32:28.978284Z"
+last_updated: "2026-08-23T05:32:26.120370Z"
 posted_at: "2026-07-28T00:04:23Z"
 status: ready
 apply_url: "https://www.centreforeffectivealtruism.org/careers?ashby_jid=8e148719-fe10-44bf-9172-35e8b1ea99df"
@@ -22,7 +22,7 @@ areas:
 <dt>Salary</dt><dd>$143,123</dd>
 </dl>
 
-**Areas & skills:** Building effective altruism, Finance, Operations, Strategy
+**Areas & skills:** Building effective altruism, Operations, Finance, Strategy
 
 ## Summary
 - In this role, you'll contribute to building a global community addressing the world's pressing problems through conferences, local groups, and online resources.
@@ -34,4 +34,4 @@ areas:
 <p class="apply-cta"><a href="https://www.centreforeffectivealtruism.org/careers?ashby_jid=8e148719-fe10-44bf-9172-35e8b1ea99df">Apply →</a></p>
 
 ---
-*Posted 2026-07-28 · Listing synced 2026-08-22 · 80k job ID `recttu5CqZOgUn3tw`*
+*Posted 2026-07-28 · Listing synced 2026-08-23 · 80k job ID `recttu5CqZOgUn3tw`*

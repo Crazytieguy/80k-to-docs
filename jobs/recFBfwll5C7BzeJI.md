@@ -2,7 +2,7 @@
 title: "Volunteer"
 employer: "AI Alignment Network"
 job_id: "recFBfwll5C7BzeJI"
-last_updated: "2026-08-22T05:33:15.264291Z"
+last_updated: "2026-08-23T05:33:10.705115Z"
 posted_at: "2022-01-06T00:00:00Z"
 status: ready
 apply_url: "https://www.aialign.net/recruit"
@@ -21,7 +21,7 @@ areas:
 <dt>Degree</dt><dd>Undergraduate degree or less</dd>
 </dl>
 
-**Areas & skills:** AI safety & policy, Operations, Outreach
+**Areas & skills:** AI safety & policy, Outreach, Operations
 
 ## Summary
 - ALIGN seeks volunteer staff to help grow the community and support ALIGN’s mission of creating a hopeful future for AI and humanity.
@@ -33,4 +33,4 @@ areas:
 <p class="apply-cta"><a href="https://www.aialign.net/recruit">Apply →</a></p>
 
 ---
-*Posted 2022-01-06 · Listing synced 2026-08-22 · 80k job ID `recFBfwll5C7BzeJI`*
+*Posted 2022-01-06 · Listing synced 2026-08-23 · 80k job ID `recFBfwll5C7BzeJI`*

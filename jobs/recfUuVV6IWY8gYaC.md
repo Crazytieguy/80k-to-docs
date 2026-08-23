@@ -2,7 +2,7 @@
 title: "Engineering Manager, Safeguards Interventions"
 employer: "Anthropic"
 job_id: "recfUuVV6IWY8gYaC"
-last_updated: "2026-08-22T05:32:39.036414Z"
+last_updated: "2026-08-23T05:32:35.183453Z"
 posted_at: "2026-07-14T00:00:00Z"
 status: ready
 apply_url: "https://job-boards.greenhouse.io/anthropic/jobs/5322723008"
@@ -22,7 +22,7 @@ areas:
 <dt>Salary</dt><dd>$405,000 – $485,000</dd>
 </dl>
 
-**Areas & skills:** AI safety & policy, Management, Software engineering
+**Areas & skills:** AI safety & policy, Software engineering, Management
 
 ## Summary
 - In this role, you'll lead the Interventions team managing safety response systems between detection and users across Anthropic's surfaces.
@@ -34,4 +34,4 @@ areas:
 <p class="apply-cta"><a href="https://job-boards.greenhouse.io/anthropic/jobs/5322723008">Apply →</a></p>
 
 ---
-*Posted 2026-07-14 · Listing synced 2026-08-22 · 80k job ID `recfUuVV6IWY8gYaC`*
+*Posted 2026-07-14 · Listing synced 2026-08-23 · 80k job ID `recfUuVV6IWY8gYaC`*

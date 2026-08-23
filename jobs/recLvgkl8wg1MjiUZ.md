@@ -2,7 +2,7 @@
 title: "Impact Cohort Manager"
 employer: "Effective Altruism Switzerland"
 job_id: "recLvgkl8wg1MjiUZ"
-last_updated: "2026-08-22T05:32:40.005760Z"
+last_updated: "2026-08-23T05:32:36.090156Z"
 posted_at: "2026-07-13T00:01:00Z"
 status: ready
 apply_url: "https://docs.google.com/document/d/1DMkW4EP7c28tZTxFLBA9tb5tIvkTH2ZxkQbv7LbilpU/edit?tab=t.0"
@@ -22,7 +22,7 @@ areas:
 <dt>Salary</dt><dd>$93,624 – $99,865</dd>
 </dl>
 
-**Areas & skills:** Building effective altruism, Strategy, Other
+**Areas & skills:** Building effective altruism, Other, Strategy
 
 ## Summary
 - In this role, you'll own the Impact Cohort, a career-advising program helping altruistically-minded people in Switzerland pursue high-impact careers.
@@ -34,4 +34,4 @@ areas:
 <p class="apply-cta"><a href="https://docs.google.com/document/d/1DMkW4EP7c28tZTxFLBA9tb5tIvkTH2ZxkQbv7LbilpU/edit?tab=t.0">Apply →</a></p>
 
 ---
-*Posted 2026-07-13 · Listing synced 2026-08-22 · 80k job ID `recLvgkl8wg1MjiUZ`*
+*Posted 2026-07-13 · Listing synced 2026-08-23 · 80k job ID `recLvgkl8wg1MjiUZ`*

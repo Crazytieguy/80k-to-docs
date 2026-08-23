@@ -2,7 +2,7 @@
 title: "Head of SPAR"
 employer: "Kairos"
 job_id: "recnB6j6lzvT9KIYm"
-last_updated: "2026-08-22T05:32:02.851966Z"
+last_updated: "2026-08-23T05:32:00.916862Z"
 posted_at: "2026-08-13T00:00:00Z"
 status: ready
 apply_url: "https://jobs.ashbyhq.com/kairos-project/934e3b41-bfc4-470b-b36b-37115de389f4"
@@ -22,7 +22,7 @@ areas:
 <dt>Salary</dt><dd>$170,000 – $260,000</dd>
 </dl>
 
-**Areas & skills:** AI safety & policy, Strategy, Management
+**Areas & skills:** AI safety & policy, Management, Strategy
 
 ## Summary
 - In this role, you'll own and grow SPAR, the largest AI safety research fellowship with 400 mentees, 130 mentors, and thousands of applicants.
@@ -34,4 +34,4 @@ areas:
 <p class="apply-cta"><a href="https://jobs.ashbyhq.com/kairos-project/934e3b41-bfc4-470b-b36b-37115de389f4">Apply →</a></p>
 
 ---
-*Posted 2026-08-13 · Listing synced 2026-08-22 · 80k job ID `recnB6j6lzvT9KIYm`*
+*Posted 2026-08-13 · Listing synced 2026-08-23 · 80k job ID `recnB6j6lzvT9KIYm`*

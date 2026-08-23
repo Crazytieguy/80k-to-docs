@@ -2,7 +2,7 @@
 title: "Research Engineer"
 employer: "Principia"
 job_id: "recNtWVYP77c6ShgS"
-last_updated: "2026-08-22T05:32:53.868862Z"
+last_updated: "2026-08-23T05:32:49.416858Z"
 posted_at: "2026-06-16T00:00:00Z"
 status: ready
 apply_url: "https://principia-ai.org/opportunities/research-engineer"
@@ -22,7 +22,7 @@ areas:
 <dt>Salary</dt><dd>$100,000 – $200,000</dd>
 </dl>
 
-**Areas & skills:** AI safety & policy, Software engineering, Research
+**Areas & skills:** AI safety & policy, Research, Software engineering
 
 ## Summary
 - In this role, you'll build and maintain technical infrastructure for machine learning research with Research Scientists.
@@ -34,4 +34,4 @@ areas:
 <p class="apply-cta"><a href="https://principia-ai.org/opportunities/research-engineer">Apply →</a></p>
 
 ---
-*Posted 2026-06-16 · Listing synced 2026-08-22 · 80k job ID `recNtWVYP77c6ShgS`*
+*Posted 2026-06-16 · Listing synced 2026-08-23 · 80k job ID `recNtWVYP77c6ShgS`*

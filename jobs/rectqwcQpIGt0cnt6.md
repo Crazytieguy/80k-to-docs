@@ -2,7 +2,7 @@
 title: "Head of People"
 employer: "FAR AI"
 job_id: "rectqwcQpIGt0cnt6"
-last_updated: "2026-08-22T05:32:35.743922Z"
+last_updated: "2026-08-23T05:32:31.935822Z"
 posted_at: "2026-07-20T00:04:09Z"
 status: ready
 apply_url: "https://jobs.ashbyhq.com/far.ai/24d6d8e4-b036-4820-92e2-093b12697b5b?embed=js"
@@ -34,4 +34,4 @@ areas:
 <p class="apply-cta"><a href="https://jobs.ashbyhq.com/far.ai/24d6d8e4-b036-4820-92e2-093b12697b5b?embed=js">Apply →</a></p>
 
 ---
-*Posted 2026-07-20 · Listing synced 2026-08-22 · 80k job ID `rectqwcQpIGt0cnt6`*
+*Posted 2026-07-20 · Listing synced 2026-08-23 · 80k job ID `rectqwcQpIGt0cnt6`*

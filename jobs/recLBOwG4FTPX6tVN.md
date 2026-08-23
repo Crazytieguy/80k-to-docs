@@ -2,7 +2,7 @@
 title: "Program Associate / Program Manager, Events"
 employer: "Horizon Institute for Public Service"
 job_id: "recLBOwG4FTPX6tVN"
-last_updated: "2026-08-22T05:32:21.226449Z"
+last_updated: "2026-08-23T05:32:19.353806Z"
 posted_at: "2026-07-31T00:04:30Z"
 status: ready
 apply_url: "https://horizonpublicservice.org/program-associate-program-manager-events/"
@@ -22,7 +22,7 @@ areas:
 <dt>Salary</dt><dd>$100,000 – $160,000</dd>
 </dl>
 
-**Areas & skills:** AI safety & policy, Operations, Outreach
+**Areas & skills:** AI safety & policy, Outreach, Operations
 
 ## Summary
 - In this role, you'll own and deliver events for the AI Policy Leadership Network and Horizon Fellowship, creating spaces where professionals build career-shaping relationships.
@@ -33,4 +33,4 @@ areas:
 <p class="apply-cta"><a href="https://horizonpublicservice.org/program-associate-program-manager-events/">Apply →</a></p>
 
 ---
-*Posted 2026-07-31 · Listing synced 2026-08-22 · 80k job ID `recLBOwG4FTPX6tVN`*
+*Posted 2026-07-31 · Listing synced 2026-08-23 · 80k job ID `recLBOwG4FTPX6tVN`*

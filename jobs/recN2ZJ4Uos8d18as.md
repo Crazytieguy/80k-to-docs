@@ -2,7 +2,7 @@
 title: "Physicist / Engineer Track"
 employer: "Amodo Design"
 job_id: "recN2ZJ4Uos8d18as"
-last_updated: "2026-08-22T05:32:56.769660Z"
+last_updated: "2026-08-23T05:32:52.804028Z"
 posted_at: "2026-06-09T00:00:00Z"
 status: ready
 apply_url: "https://amododesign.com/career/physicist-to-engineer-track/"
@@ -22,7 +22,7 @@ areas:
 <dt>Salary</dt><dd>$47,754 – $68,220</dd>
 </dl>
 
-**Areas & skills:** Career development: Technical, Software engineering, Engineering
+**Areas & skills:** Career development: Technical, Engineering, Software engineering
 
 ## Summary
 - In this role, you'll apply physics fundamentals to hardware engineering, developing practical skills in electronics, firmware, and mechanical systems.
@@ -33,4 +33,4 @@ areas:
 <p class="apply-cta"><a href="https://amododesign.com/career/physicist-to-engineer-track/">Apply →</a></p>
 
 ---
-*Posted 2026-06-09 · Listing synced 2026-08-22 · 80k job ID `recN2ZJ4Uos8d18as`*
+*Posted 2026-06-09 · Listing synced 2026-08-23 · 80k job ID `recN2ZJ4Uos8d18as`*

@@ -2,7 +2,7 @@
 title: "Chief Technology Officer"
 employer: "Fathom"
 job_id: "recVZZjnbsiuApvLI"
-last_updated: "2026-08-22T05:32:50.619205Z"
+last_updated: "2026-08-23T05:32:46.442543Z"
 posted_at: "2026-06-23T00:01:00Z"
 status: ready
 apply_url: "https://jobs.gem.com/fathom-org/am9icG9zdDr5Y7b5Q97jO3K3RimbAbNk"
@@ -21,7 +21,7 @@ areas:
 <dt>Degree</dt><dd>Master's degree</dd>
 </dl>
 
-**Areas & skills:** AI safety & policy, Strategy, Management
+**Areas & skills:** AI safety & policy, Management, Strategy
 
 ## Summary
 - In this role, you'll lead Fathom's technical strategy and the Multi-stakeholder Regulatory Organization (MRO).
@@ -33,4 +33,4 @@ areas:
 <p class="apply-cta"><a href="https://jobs.gem.com/fathom-org/am9icG9zdDr5Y7b5Q97jO3K3RimbAbNk">Apply →</a></p>
 
 ---
-*Posted 2026-06-23 · Listing synced 2026-08-22 · 80k job ID `recVZZjnbsiuApvLI`*
+*Posted 2026-06-23 · Listing synced 2026-08-23 · 80k job ID `recVZZjnbsiuApvLI`*

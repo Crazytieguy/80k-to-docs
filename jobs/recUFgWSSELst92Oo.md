@@ -2,7 +2,7 @@
 title: "Finance and Operations Associate"
 employer: "Ansh"
 job_id: "recUFgWSSELst92Oo"
-last_updated: "2026-08-22T05:31:52.170881Z"
+last_updated: "2026-08-23T05:31:50.146115Z"
 posted_at: "2026-08-19T00:00:00Z"
 status: ready
 apply_url: "https://www.ansh.health/copy-of-people-and-culture-manager"
@@ -34,4 +34,4 @@ areas:
 <p class="apply-cta"><a href="https://www.ansh.health/copy-of-people-and-culture-manager">Apply →</a></p>
 
 ---
-*Posted 2026-08-19 · Listing synced 2026-08-22 · 80k job ID `recUFgWSSELst92Oo`*
+*Posted 2026-08-19 · Listing synced 2026-08-23 · 80k job ID `recUFgWSSELst92Oo`*

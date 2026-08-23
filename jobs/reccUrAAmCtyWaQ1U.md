@@ -2,7 +2,7 @@
 title: "Security Engineer, Infrastructure Security"
 employer: "OpenAI"
 job_id: "reccUrAAmCtyWaQ1U"
-last_updated: "2026-08-22T05:33:07.553145Z"
+last_updated: "2026-08-23T05:33:03.809517Z"
 posted_at: "2022-01-11T00:00:00Z"
 status: ready
 apply_url: "https://openai.com/careers/security-engineer-infrastructure-security-us-remote/"
@@ -22,7 +22,7 @@ areas:
 <dt>Salary</dt><dd>$292,500 – $405,000</dd>
 </dl>
 
-**Areas & skills:** AI safety & policy, Information security, Software engineering
+**Areas & skills:** AI safety & policy, Software engineering, Information security
 
 ## Summary
 - In this role, you'll design and build security controls across diverse infrastructure layers to defend against sophisticated adversaries and insider threats.
@@ -34,4 +34,4 @@ areas:
 <p class="apply-cta"><a href="https://openai.com/careers/security-engineer-infrastructure-security-us-remote/">Apply →</a></p>
 
 ---
-*Posted 2022-01-11 · Listing synced 2026-08-22 · 80k job ID `reccUrAAmCtyWaQ1U`*
+*Posted 2022-01-11 · Listing synced 2026-08-23 · 80k job ID `reccUrAAmCtyWaQ1U`*

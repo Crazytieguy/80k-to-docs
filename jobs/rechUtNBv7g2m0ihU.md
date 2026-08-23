@@ -2,7 +2,7 @@
 title: "People Director"
 employer: "Founders Pledge"
 job_id: "rechUtNBv7g2m0ihU"
-last_updated: "2026-08-22T05:32:47.999235Z"
+last_updated: "2026-08-23T05:32:43.901712Z"
 posted_at: "2026-07-01T00:02:00Z"
 status: ready
 apply_url: "https://careers.founderspledge.com/jobs/7995629-people-director"
@@ -22,7 +22,7 @@ areas:
 <dt>Salary</dt><dd>$122,795 – $129,617</dd>
 </dl>
 
-**Areas & skills:** Building effective altruism, Operations, Strategy, Management
+**Areas & skills:** Building effective altruism, Operations, Management, Strategy
 
 ## Summary
 - In this role, you'll own people strategy and operations, advising the CEO while managing HR across the UK, US, and Germany.
@@ -34,4 +34,4 @@ areas:
 <p class="apply-cta"><a href="https://careers.founderspledge.com/jobs/7995629-people-director">Apply →</a></p>
 
 ---
-*Posted 2026-07-01 · Listing synced 2026-08-22 · 80k job ID `rechUtNBv7g2m0ihU`*
+*Posted 2026-07-01 · Listing synced 2026-08-23 · 80k job ID `rechUtNBv7g2m0ihU`*

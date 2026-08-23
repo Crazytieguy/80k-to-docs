@@ -2,7 +2,7 @@
 title: "Sourcing and Programs Staff, AI State Capacity"
 employer: "Institute for Progress"
 job_id: "recAHFGrZWkFHCKu4"
-last_updated: "2026-08-22T05:32:14.356134Z"
+last_updated: "2026-08-23T05:32:12.477069Z"
 posted_at: "2026-08-05T00:02:00Z"
 status: ready
 apply_url: "https://ifp.org/opportunity/sourcing-programs-staff-ai-state-capacity/"
@@ -22,7 +22,7 @@ areas:
 <dt>Salary</dt><dd>$110,000</dd>
 </dl>
 
-**Areas & skills:** AI safety & policy, Strategy, Outreach
+**Areas & skills:** AI safety & policy, Outreach, Strategy
 
 ## Summary
 - In this role, you'll build talent pipelines to bring AI expertise into government by identifying and supporting exceptional candidates.
@@ -34,4 +34,4 @@ areas:
 <p class="apply-cta"><a href="https://ifp.org/opportunity/sourcing-programs-staff-ai-state-capacity/">Apply →</a></p>
 
 ---
-*Posted 2026-08-05 · Listing synced 2026-08-22 · 80k job ID `recAHFGrZWkFHCKu4`*
+*Posted 2026-08-05 · Listing synced 2026-08-23 · 80k job ID `recAHFGrZWkFHCKu4`*

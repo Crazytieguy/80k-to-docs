@@ -2,7 +2,7 @@
 title: "Chief Operating Officer / Director of Operations"
 employer: "Longview Philanthropy"
 job_id: "recQXDUyKJA7UXbLC"
-last_updated: "2026-08-22T05:31:48.540600Z"
+last_updated: "2026-08-23T05:31:46.551822Z"
 posted_at: "2026-08-20T00:04:32Z"
 status: ready
 apply_url: "https://www.longview.org/careers/chief-operating-officer"
@@ -22,7 +22,7 @@ areas:
 <dt>Salary</dt><dd>$165,000 – $330,000</dd>
 </dl>
 
-**Areas & skills:** Building effective altruism, Operations, Strategy, Management
+**Areas & skills:** Building effective altruism, Operations, Management, Strategy
 
 ## Summary
 - In this role, you'll scale operations for Longview as it doubles in size while maintaining agility and efficiency.
@@ -34,4 +34,4 @@ areas:
 <p class="apply-cta"><a href="https://www.longview.org/careers/chief-operating-officer">Apply →</a></p>
 
 ---
-*Posted 2026-08-20 · Listing synced 2026-08-22 · 80k job ID `recQXDUyKJA7UXbLC`*
+*Posted 2026-08-20 · Listing synced 2026-08-23 · 80k job ID `recQXDUyKJA7UXbLC`*

@@ -2,7 +2,7 @@
 title: "Volunteer Opportunities"
 employer: "PauseAI"
 job_id: "recJLbQmdi4cEJ9Oe"
-last_updated: "2026-08-22T05:33:23.494148Z"
+last_updated: "2026-08-23T05:33:18.942209Z"
 posted_at: "2022-01-06T00:00:00Z"
 status: ready
 apply_url: "https://pauseai.info/volunteer-vacancies"
@@ -21,7 +21,7 @@ areas:
 <dt>Degree</dt><dd>Undergraduate degree or less</dd>
 </dl>
 
-**Areas & skills:** AI safety & policy, Operations, Outreach
+**Areas & skills:** AI safety & policy, Outreach, Operations
 
 ## Summary
 - Volunteer time to perform tasks like sharing posts, writing letters, meeting politicians, or developing strategy.
@@ -29,4 +29,4 @@ areas:
 <p class="apply-cta"><a href="https://pauseai.info/volunteer-vacancies">Apply →</a></p>
 
 ---
-*Posted 2022-01-06 · Listing synced 2026-08-22 · 80k job ID `recJLbQmdi4cEJ9Oe`*
+*Posted 2022-01-06 · Listing synced 2026-08-23 · 80k job ID `recJLbQmdi4cEJ9Oe`*

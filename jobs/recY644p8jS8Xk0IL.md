@@ -2,7 +2,7 @@
 title: "Director, Site Services"
 employer: "Constellation"
 job_id: "recY644p8jS8Xk0IL"
-last_updated: "2026-08-22T05:32:24.778891Z"
+last_updated: "2026-08-23T05:32:22.473322Z"
 posted_at: "2026-07-30T00:04:05Z"
 status: ready
 apply_url: "https://jobs.gem.com/constellation-institute/33309945-c904-4ae0-b169-a1797c925fdd"
@@ -22,7 +22,7 @@ areas:
 <dt>Salary</dt><dd>$180,000 – $240,000</dd>
 </dl>
 
-**Areas & skills:** AI safety & policy, Operations, Strategy, Management
+**Areas & skills:** AI safety & policy, Operations, Management, Strategy
 
 ## Summary
 - In this role, you'll oversee site services spanning IT, security, facilities, and catering to enable AI safety research.
@@ -34,4 +34,4 @@ areas:
 <p class="apply-cta"><a href="https://jobs.gem.com/constellation-institute/33309945-c904-4ae0-b169-a1797c925fdd">Apply →</a></p>
 
 ---
-*Posted 2026-07-30 · Listing synced 2026-08-22 · 80k job ID `recY644p8jS8Xk0IL`*
+*Posted 2026-07-30 · Listing synced 2026-08-23 · 80k job ID `recY644p8jS8Xk0IL`*

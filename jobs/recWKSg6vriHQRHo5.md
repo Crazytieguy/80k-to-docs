@@ -2,7 +2,7 @@
 title: "Intern, Engineering (Spring 2027)"
 employer: "Blue Origin"
 job_id: "recWKSg6vriHQRHo5"
-last_updated: "2026-08-22T05:32:33.982544Z"
+last_updated: "2026-08-23T05:32:30.443453Z"
 posted_at: "2026-07-22T00:00:00Z"
 status: ready
 apply_url: "https://blueorigin.wd5.myworkdayjobs.com/BlueOrigin/job/Greater-Seattle-Area/Spring-2027--Engineering-Intern---Undergraduate_R69064"
@@ -22,7 +22,7 @@ areas:
 <dt>Salary</dt><dd>$66,560</dd>
 </dl>
 
-**Areas & skills:** Career development: Technical, Software engineering, Engineering
+**Areas & skills:** Career development: Technical, Engineering, Software engineering
 
 ## Summary
 - In this role, you'll work with Blue Origin engineering teams on real-world projects across multiple disciplines.
@@ -34,4 +34,4 @@ areas:
 <p class="apply-cta"><a href="https://blueorigin.wd5.myworkdayjobs.com/BlueOrigin/job/Greater-Seattle-Area/Spring-2027--Engineering-Intern---Undergraduate_R69064">Apply →</a></p>
 
 ---
-*Posted 2026-07-22 · Listing synced 2026-08-22 · 80k job ID `recWKSg6vriHQRHo5`*
+*Posted 2026-07-22 · Listing synced 2026-08-23 · 80k job ID `recWKSg6vriHQRHo5`*

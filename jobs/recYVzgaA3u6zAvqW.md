@@ -2,7 +2,7 @@
 title: "Security Engineer"
 employer: "Model Evaluation and Threat Research"
 job_id: "recYVzgaA3u6zAvqW"
-last_updated: "2026-08-22T05:32:24.215535Z"
+last_updated: "2026-08-23T05:32:21.969709Z"
 posted_at: "2026-07-30T00:05:00Z"
 status: ready
 apply_url: "https://jobs.lever.co/metr/775fa999-229d-40c1-b5eb-53794c20ee60"
@@ -22,7 +22,7 @@ areas:
 <dt>Salary</dt><dd>$285,548 – $503,116</dd>
 </dl>
 
-**Areas & skills:** AI safety & policy, Information security, Software engineering
+**Areas & skills:** AI safety & policy, Software engineering, Information security
 
 ## Summary
 - In this role, you'll establish security for a nonprofit protecting sensitive frontier AI models and infrastructure from increasingly sophisticated threats.
@@ -34,4 +34,4 @@ areas:
 <p class="apply-cta"><a href="https://jobs.lever.co/metr/775fa999-229d-40c1-b5eb-53794c20ee60">Apply →</a></p>
 
 ---
-*Posted 2026-07-30 · Listing synced 2026-08-22 · 80k job ID `recYVzgaA3u6zAvqW`*
+*Posted 2026-07-30 · Listing synced 2026-08-23 · 80k job ID `recYVzgaA3u6zAvqW`*

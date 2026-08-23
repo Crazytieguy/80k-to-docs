@@ -2,7 +2,7 @@
 title: "Security Engineer, Corporate IT"
 employer: "Resolution"
 job_id: "rec9GW0F3ByjP9dA9"
-last_updated: "2026-08-22T05:32:47.655320Z"
+last_updated: "2026-08-23T05:32:43.589556Z"
 posted_at: "2026-07-01T00:05:00Z"
 status: ready
 apply_url: "https://jobs.ashbyhq.com/resolution/3f73adc2-04ec-4d7e-be40-e43193adff6c"
@@ -22,7 +22,7 @@ areas:
 <dt>Salary</dt><dd>$346,000 – $930,000</dd>
 </dl>
 
-**Areas & skills:** AI safety & policy, Information security, Software engineering
+**Areas & skills:** AI safety & policy, Software engineering, Information security
 
 ## Summary
 - In this role, you'll build and lead the Corporate IT and Security function from the ground up, ensuring secure research infrastructure while enabling lab partnerships.
@@ -33,4 +33,4 @@ areas:
 <p class="apply-cta"><a href="https://jobs.ashbyhq.com/resolution/3f73adc2-04ec-4d7e-be40-e43193adff6c">Apply →</a></p>
 
 ---
-*Posted 2026-07-01 · Listing synced 2026-08-22 · 80k job ID `rec9GW0F3ByjP9dA9`*
+*Posted 2026-07-01 · Listing synced 2026-08-23 · 80k job ID `rec9GW0F3ByjP9dA9`*

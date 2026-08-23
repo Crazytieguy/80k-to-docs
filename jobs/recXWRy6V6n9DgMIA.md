@@ -2,7 +2,7 @@
 title: "Development Director"
 employer: "Centre for Future Generations"
 job_id: "recXWRy6V6n9DgMIA"
-last_updated: "2026-08-22T05:32:43.750115Z"
+last_updated: "2026-08-23T05:32:39.969879Z"
 posted_at: "2026-07-08T00:00:00Z"
 status: ready
 apply_url: "https://stichtingicfg.bamboohr.com/careers/66"
@@ -22,7 +22,7 @@ areas:
 <dt>Salary</dt><dd>$105,116 – $128,475</dd>
 </dl>
 
-**Areas & skills:** Macrostrategy, Strategy, Management
+**Areas & skills:** Macrostrategy, Management, Strategy
 
 ## Summary
 - In this role, you'll lead fundraising strategy to strengthen foundation partnerships and develop new revenue streams.
@@ -34,4 +34,4 @@ areas:
 <p class="apply-cta"><a href="https://stichtingicfg.bamboohr.com/careers/66">Apply →</a></p>
 
 ---
-*Posted 2026-07-08 · Listing synced 2026-08-22 · 80k job ID `recXWRy6V6n9DgMIA`*
+*Posted 2026-07-08 · Listing synced 2026-08-23 · 80k job ID `recXWRy6V6n9DgMIA`*

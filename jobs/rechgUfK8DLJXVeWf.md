@@ -2,8 +2,8 @@
 title: "Research Engineer"
 employer: "Neo Research"
 job_id: "rechgUfK8DLJXVeWf"
-last_updated: "2026-08-22T05:32:59.513904Z"
-posted_at: "2026-06-03T00:02:00Z"
+last_updated: "2026-08-23T05:33:18.470427Z"
+posted_at: "2022-01-06T00:00:00Z"
 status: ready
 apply_url: "https://neoresearch.ai/careers/research-engineer"
 areas:
@@ -21,7 +21,7 @@ areas:
 <dt>Degree</dt><dd>Undergraduate degree or less</dd>
 </dl>
 
-**Areas & skills:** AI safety & policy, Software engineering, Research
+**Areas & skills:** AI safety & policy, Research, Software engineering
 
 ## Summary
 - In this role, you'll implement and run safety evaluations on frontier AI models, focusing on loss-of-control and harmful manipulation risks.
@@ -33,4 +33,4 @@ areas:
 <p class="apply-cta"><a href="https://neoresearch.ai/careers/research-engineer">Apply →</a></p>
 
 ---
-*Posted 2026-06-03 · Listing synced 2026-08-22 · 80k job ID `rechgUfK8DLJXVeWf`*
+*Posted 2022-01-06 · Listing synced 2026-08-23 · 80k job ID `rechgUfK8DLJXVeWf`*

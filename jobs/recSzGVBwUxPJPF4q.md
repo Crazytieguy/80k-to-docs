@@ -2,7 +2,7 @@
 title: "Threat Intelligence Manager, Chemical, Biological, Radiological, Nuclear, and Explosives and Advanced Weapons"
 employer: "Anthropic"
 job_id: "recSzGVBwUxPJPF4q"
-last_updated: "2026-08-22T05:32:42.617099Z"
+last_updated: "2026-08-23T05:32:38.750969Z"
 posted_at: "2026-07-09T00:00:00Z"
 status: ready
 apply_url: "https://job-boards.greenhouse.io/anthropic/jobs/5305631008"
@@ -22,7 +22,7 @@ areas:
 <dt>Salary</dt><dd>$375,000 – $455,000</dd>
 </dl>
 
-**Areas & skills:** AI safety & policy, Strategy, Management, Information security
+**Areas & skills:** AI safety & policy, Information security, Management, Strategy
 
 ## Summary
 - In this role, you'll build and mature the CBRN-E and Advanced Weapons team, detecting and disrupting AI system misuse for weapons development.
@@ -34,4 +34,4 @@ areas:
 <p class="apply-cta"><a href="https://job-boards.greenhouse.io/anthropic/jobs/5305631008">Apply →</a></p>
 
 ---
-*Posted 2026-07-09 · Listing synced 2026-08-22 · 80k job ID `recSzGVBwUxPJPF4q`*
+*Posted 2026-07-09 · Listing synced 2026-08-23 · 80k job ID `recSzGVBwUxPJPF4q`*

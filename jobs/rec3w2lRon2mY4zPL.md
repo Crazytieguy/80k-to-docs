@@ -2,7 +2,7 @@
 title: "Director, Evaluations"
 employer: "LawZero"
 job_id: "rec3w2lRon2mY4zPL"
-last_updated: "2026-08-22T05:33:35.535781Z"
+last_updated: "2026-08-23T05:33:29.620141Z"
 posted_at: "2022-01-05T00:00:00Z"
 status: ready
 apply_url: "https://job-boards.greenhouse.io/lawzero/jobs/4252456009"
@@ -21,7 +21,7 @@ areas:
 <dt>Degree</dt><dd>Master's degree</dd>
 </dl>
 
-**Areas & skills:** AI safety & policy, Research, Strategy, Management
+**Areas & skills:** AI safety & policy, Research, Management, Strategy
 
 ## Summary
 - In this role, you'll build and lead LawZero's Evaluations Team, defining strategy for independent assessment of AI capability and safety claims.
@@ -32,4 +32,4 @@ areas:
 <p class="apply-cta"><a href="https://job-boards.greenhouse.io/lawzero/jobs/4252456009">Apply →</a></p>
 
 ---
-*Posted 2022-01-05 · Listing synced 2026-08-22 · 80k job ID `rec3w2lRon2mY4zPL`*
+*Posted 2022-01-05 · Listing synced 2026-08-23 · 80k job ID `rec3w2lRon2mY4zPL`*

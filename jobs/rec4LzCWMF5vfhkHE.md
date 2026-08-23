@@ -2,7 +2,7 @@
 title: "Communications and Campaigns Assistant"
 employer: "Animal Equality"
 job_id: "rec4LzCWMF5vfhkHE"
-last_updated: "2026-08-22T05:31:47.348121Z"
+last_updated: "2026-08-23T05:31:45.363640Z"
 posted_at: "2026-08-21T00:00:00Z"
 status: ready
 apply_url: "https://animalequality.org.br/vagas-assistente-de-comunicacao-e-campanhas/"
@@ -34,4 +34,4 @@ areas:
 <p class="apply-cta"><a href="https://animalequality.org.br/vagas-assistente-de-comunicacao-e-campanhas/">Apply →</a></p>
 
 ---
-*Posted 2026-08-21 · Listing synced 2026-08-22 · 80k job ID `rec4LzCWMF5vfhkHE`*
+*Posted 2026-08-21 · Listing synced 2026-08-23 · 80k job ID `rec4LzCWMF5vfhkHE`*

@@ -2,7 +2,7 @@
 title: "Safeguards Enforcement Analyst, Radiological and Nuclear Harms"
 employer: "Anthropic"
 job_id: "recu8Msw9X3CDfRNP"
-last_updated: "2026-08-22T05:32:16.482237Z"
+last_updated: "2026-08-23T05:32:14.617285Z"
 posted_at: "2026-08-04T00:00:00Z"
 status: ready
 apply_url: "https://job-boards.greenhouse.io/anthropic/jobs/5319702008"
@@ -23,7 +23,7 @@ areas:
 <dt>Salary</dt><dd>$245,000 – $285,000</dd>
 </dl>
 
-**Areas & skills:** AI safety & policy, Nuclear security, Strategy, Research
+**Areas & skills:** AI safety & policy, Nuclear security, Research, Strategy
 
 ## Summary
 - In this role, you'll enforce policies protecting against AI misuse for radiological and nuclear harms and investigate violations.
@@ -35,4 +35,4 @@ areas:
 <p class="apply-cta"><a href="https://job-boards.greenhouse.io/anthropic/jobs/5319702008">Apply →</a></p>
 
 ---
-*Posted 2026-08-04 · Listing synced 2026-08-22 · 80k job ID `recu8Msw9X3CDfRNP`*
+*Posted 2026-08-04 · Listing synced 2026-08-23 · 80k job ID `recu8Msw9X3CDfRNP`*

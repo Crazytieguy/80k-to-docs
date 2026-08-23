@@ -2,7 +2,7 @@
 title: "Fellow, Strategic Technologies Program"
 employer: "Center for Strategic and International Studies"
 job_id: "rec1HJh61nx37WGI7"
-last_updated: "2026-08-22T05:32:09.504913Z"
+last_updated: "2026-08-23T05:32:07.737084Z"
 posted_at: "2026-08-07T00:00:00Z"
 status: ready
 apply_url: "https://job-boards.greenhouse.io/centerforstrategicandinternationalstudiesinc/jobs/4323001009"
@@ -22,7 +22,7 @@ areas:
 <dt>Salary</dt><dd>$100,000 – $150,000</dd>
 </dl>
 
-**Areas & skills:** Career development: Policy & government, Policy, Research
+**Areas & skills:** Career development: Policy & government, Research, Policy
 
 ## Summary
 - In this role, you'll conduct independent research on international technology policy to shape key policy debates.
@@ -34,4 +34,4 @@ areas:
 <p class="apply-cta"><a href="https://job-boards.greenhouse.io/centerforstrategicandinternationalstudiesinc/jobs/4323001009">Apply →</a></p>
 
 ---
-*Posted 2026-08-07 · Listing synced 2026-08-22 · 80k job ID `rec1HJh61nx37WGI7`*
+*Posted 2026-08-07 · Listing synced 2026-08-23 · 80k job ID `rec1HJh61nx37WGI7`*

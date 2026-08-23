@@ -2,7 +2,7 @@
 title: "Opportunities, Asia"
 employer: "Innovations for Poverty Action"
 job_id: "recqVDPnGQRpkFewf"
-last_updated: "2026-08-22T05:33:46.898408Z"
+last_updated: "2026-08-23T05:33:40.583721Z"
 posted_at: "2022-01-02T00:00:00Z"
 status: ready
 apply_url: "https://poverty-action.org/current-opportunities#:~:text=of%20Data%20Science-,Asia%20and%20Oceania,-Philippines"
@@ -21,7 +21,7 @@ areas:
 <dt>Degree</dt><dd>Undergraduate degree or less</dd>
 </dl>
 
-**Areas & skills:** Global health & development, Policy, Operations, Research
+**Areas & skills:** Global health & development, Research, Policy, Operations
 
 ## Summary
 - J-PAL are hiring for additional roles in Country Offices in Asia.
@@ -30,4 +30,4 @@ areas:
 <p class="apply-cta"><a href="https://poverty-action.org/current-opportunities#:~:text=of%20Data%20Science-,Asia%20and%20Oceania,-Philippines">Apply →</a></p>
 
 ---
-*Posted 2022-01-02 · Listing synced 2026-08-22 · 80k job ID `recqVDPnGQRpkFewf`*
+*Posted 2022-01-02 · Listing synced 2026-08-23 · 80k job ID `recqVDPnGQRpkFewf`*

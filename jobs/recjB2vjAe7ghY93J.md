@@ -2,7 +2,7 @@
 title: "Principal Researcher, AI Security"
 employer: "Alice"
 job_id: "recjB2vjAe7ghY93J"
-last_updated: "2026-08-22T05:31:51.416852Z"
+last_updated: "2026-08-23T05:31:49.434651Z"
 posted_at: "2026-08-19T00:01:00Z"
 status: ready
 apply_url: "https://alice.io/positions/position-36_07c"
@@ -21,7 +21,7 @@ areas:
 <dt>Degree</dt><dd>Undergraduate degree or less</dd>
 </dl>
 
-**Areas & skills:** AI safety & policy, Strategy, Management, Information security
+**Areas & skills:** AI safety & policy, Information security, Management, Strategy
 
 ## Summary
 - In this role, you'll lead and scale multidisciplinary AI security teams focused on red teaming, adversarial testing, and AI vulnerability research.
@@ -33,4 +33,4 @@ areas:
 <p class="apply-cta"><a href="https://alice.io/positions/position-36_07c">Apply →</a></p>
 
 ---
-*Posted 2026-08-19 · Listing synced 2026-08-22 · 80k job ID `recjB2vjAe7ghY93J`*
+*Posted 2026-08-19 · Listing synced 2026-08-23 · 80k job ID `recjB2vjAe7ghY93J`*

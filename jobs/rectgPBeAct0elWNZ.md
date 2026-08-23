@@ -2,7 +2,7 @@
 title: "Alignment Research Manager"
 employer: "AE Studio"
 job_id: "rectgPBeAct0elWNZ"
-last_updated: "2026-08-22T05:32:55.968269Z"
+last_updated: "2026-08-23T05:32:51.793647Z"
 posted_at: "2026-06-10T00:00:00Z"
 status: ready
 apply_url: "https://grnh.se/og92mzxr4us"
@@ -22,7 +22,7 @@ areas:
 <dt>Salary</dt><dd>$180,000 – $240,000</dd>
 </dl>
 
-**Areas & skills:** AI safety & policy, Strategy, Management
+**Areas & skills:** AI safety & policy, Management, Strategy
 
 ## Summary
 - In this role, you'll manage research projects end-to-end, turning abstract ideas into clear roadmaps and keeping teams unblocked and moving fast.
@@ -34,4 +34,4 @@ areas:
 <p class="apply-cta"><a href="https://grnh.se/og92mzxr4us">Apply →</a></p>
 
 ---
-*Posted 2026-06-10 · Listing synced 2026-08-22 · 80k job ID `rectgPBeAct0elWNZ`*
+*Posted 2026-06-10 · Listing synced 2026-08-23 · 80k job ID `rectgPBeAct0elWNZ`*
