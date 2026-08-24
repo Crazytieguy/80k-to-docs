@@ -4,25 +4,20 @@ employer: "Principles of Intelligence"
 job_id: "recLYwAOEA8oFWAQP"
 last_updated: "2026-08-23T05:32:45.446902Z"
 posted_at: "2026-06-29T00:01:00Z"
-status: ready
+status: closed
+closed_at: "2026-08-24"
 apply_url: "https://princint.ai/now-hiring-finance-specialist-at-principles-of-intelligence/"
 areas:
   - "AI safety & policy"
 ---
 
+> ⚠️ **CLOSED on 2026-08-24** — this job is no longer listed on the 80,000 Hours board. Archived snapshot below.
+
 # Finance Specialist
 
-**[Principles of Intelligence](https://princint.ai/)**
+**Principles of Intelligence**
 
-<dl class="job-meta">
-<dt>Location</dt><dd>Remote, Global, Belgrade, Serbia, Europe (ex UK), Serbia</dd>
-<dt>Role type</dt><dd>Full-time</dd>
-<dt>Experience</dt><dd>Junior (1-4 years experience)</dd>
-<dt>Degree</dt><dd>Undergraduate degree or less</dd>
-<dt>Salary</dt><dd>$60,000 – $65,000</dd>
-</dl>
-
-**Areas & skills:** AI safety & policy, Finance
+**Areas & skills:** AI safety & policy
 
 ## Summary
 - In this role, you'll lead payroll administration, financial record-keeping, and budget monitoring for a US and UK AI safety research organization.

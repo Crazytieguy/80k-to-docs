@@ -2,7 +2,7 @@
 title: "Security Engineer"
 employer: "Irregular"
 job_id: "rec2JQhzofSDu7vB9"
-last_updated: "2026-08-23T05:33:29.150650Z"
+last_updated: "2026-08-24T05:33:50.449946Z"
 posted_at: "2022-01-05T00:00:00Z"
 status: ready
 apply_url: "https://jobs.ashbyhq.com/Irregular/e2ecd2b1-6a44-4afe-bd31-8d1366ca1bb6?embed=js"
@@ -33,4 +33,4 @@ areas:
 <p class="apply-cta"><a href="https://jobs.ashbyhq.com/Irregular/e2ecd2b1-6a44-4afe-bd31-8d1366ca1bb6?embed=js">Apply →</a></p>
 
 ---
-*Posted 2022-01-05 · Listing synced 2026-08-23 · 80k job ID `rec2JQhzofSDu7vB9`*
+*Posted 2022-01-05 · Listing synced 2026-08-24 · 80k job ID `rec2JQhzofSDu7vB9`*

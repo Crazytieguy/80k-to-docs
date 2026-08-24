@@ -4,25 +4,20 @@ employer: "Horizon Institute for Public Service"
 job_id: "recFdPCGFc2jP2bX1"
 last_updated: "2026-08-23T05:32:18.943171Z"
 posted_at: "2026-07-31T00:04:34Z"
-status: ready
+status: closed
+closed_at: "2026-08-24"
 apply_url: "https://horizonpublicservice.org/program-associate-program-manager-talent-strategic-partnerships/"
 areas:
   - "AI safety & policy"
 ---
 
+> ⚠️ **CLOSED on 2026-08-24** — this job is no longer listed on the 80,000 Hours board. Archived snapshot below.
+
 # Program Associate / Program Manager, Talent and Strategic Partnerships
 
-**[Horizon Institute for Public Service](https://www.horizonpublicservice.org/)**
+**Horizon Institute for Public Service**
 
-<dl class="job-meta">
-<dt>Location</dt><dd>Washington, DC metro area, USA, USA (Confirmed Visas)</dd>
-<dt>Role type</dt><dd>Full-time</dd>
-<dt>Experience</dt><dd>Junior (1-4 years experience)</dd>
-<dt>Degree</dt><dd>Undergraduate degree or less</dd>
-<dt>Salary</dt><dd>$100,000 – $160,000</dd>
-</dl>
-
-**Areas & skills:** AI safety & policy, Operations, Strategy
+**Areas & skills:** AI safety & policy
 
 ## Summary
 - In this role, you'll build talent pipelines for emerging technology policy leaders through sourcing, advising, and placement support.

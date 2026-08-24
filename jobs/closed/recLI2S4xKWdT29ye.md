@@ -4,25 +4,20 @@ employer: "Collider"
 job_id: "recLI2S4xKWdT29ye"
 last_updated: "2026-08-23T05:32:06.977580Z"
 posted_at: "2026-08-07T00:03:00Z"
-status: ready
+status: closed
+closed_at: "2026-08-24"
 apply_url: "https://docs.google.com/document/d/1cP3r4slpewE6_5wsJQYTPAg_qKsRX4WYDSy7bfYxMd0/preview?tab=t.0#heading=h.u2jhh2b0bbo9"
 areas:
   - "AI safety & policy"
 ---
 
+> ⚠️ **CLOSED on 2026-08-24** — this job is no longer listed on the 80,000 Hours board. Archived snapshot below.
+
 # Program Manager
 
-**[Collider](https://collider.nyc/)**
+**Collider**
 
-<dl class="job-meta">
-<dt>Location</dt><dd>New York, NY, USA</dd>
-<dt>Role type</dt><dd>Full-time</dd>
-<dt>Experience</dt><dd>Junior (1-4 years experience)</dd>
-<dt>Degree</dt><dd>Undergraduate degree or less</dd>
-<dt>Salary</dt><dd>$150,000 – $180,000</dd>
-</dl>
-
-**Areas & skills:** AI safety & policy, Outreach, Operations, Strategy
+**Areas & skills:** AI safety & policy
 
 ## Summary
 - In this role, you'll design, run, and scale programs that grow the talent pipeline and infrastructure for AI safety in New York.

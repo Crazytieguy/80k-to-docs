@@ -2,8 +2,8 @@
 title: "Intern, Security and Intelligence, Security Analyst (Fall 2026)"
 employer: "Tesla"
 job_id: "recsYqxN967sPrQJ9"
-last_updated: "2026-08-23T05:32:55.689949Z"
-posted_at: "2026-06-05T00:00:00Z"
+last_updated: "2026-08-24T05:34:06.276684Z"
+posted_at: "2022-01-02T00:00:00Z"
 status: ready
 apply_url: "https://www.tesla.com/careers/search/job/271951?source=LinkedIn&source=LinkedIn"
 areas:
@@ -33,4 +33,4 @@ areas:
 <p class="apply-cta"><a href="https://www.tesla.com/careers/search/job/271951?source=LinkedIn&amp;source=LinkedIn">Apply →</a></p>
 
 ---
-*Posted 2026-06-05 · Listing synced 2026-08-23 · 80k job ID `recsYqxN967sPrQJ9`*
+*Posted 2022-01-02 · Listing synced 2026-08-24 · 80k job ID `recsYqxN967sPrQJ9`*

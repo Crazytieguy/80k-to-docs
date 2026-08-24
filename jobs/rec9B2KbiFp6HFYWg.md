@@ -2,7 +2,7 @@
 title: "Assistant General Counsel, AI, Emerging Technologies, and Strategic Agreements"
 employer: "RAND Corporation"
 job_id: "rec9B2KbiFp6HFYWg"
-last_updated: "2026-08-23T05:32:46.889289Z"
+last_updated: "2026-08-24T05:33:06.954580Z"
 posted_at: "2026-06-22T00:05:00Z"
 status: ready
 apply_url: "https://rand.wd5.myworkdayjobs.com/en-US/External_Career_Site/job/Washington-DC-DC-Metro-Area/Assistant-General-Counsel--AI--Emerging-Technologies----Strategic-Agreements-_R3563"
@@ -34,4 +34,4 @@ areas:
 <p class="apply-cta"><a href="https://rand.wd5.myworkdayjobs.com/en-US/External_Career_Site/job/Washington-DC-DC-Metro-Area/Assistant-General-Counsel--AI--Emerging-Technologies----Strategic-Agreements-_R3563">Apply →</a></p>
 
 ---
-*Posted 2026-06-22 · Listing synced 2026-08-23 · 80k job ID `rec9B2KbiFp6HFYWg`*
+*Posted 2026-06-22 · Listing synced 2026-08-24 · 80k job ID `rec9B2KbiFp6HFYWg`*

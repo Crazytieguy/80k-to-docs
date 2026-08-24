@@ -4,25 +4,20 @@ employer: "Horizon Institute for Public Service"
 job_id: "recAlEpGn9TJNp05b"
 last_updated: "2026-08-23T05:32:19.077213Z"
 posted_at: "2026-07-31T00:04:31Z"
-status: ready
+status: closed
+closed_at: "2026-08-24"
 apply_url: "https://horizonpublicservice.org/program-associate-program-manager-people-systems/"
 areas:
   - "AI safety & policy"
 ---
 
+> ⚠️ **CLOSED on 2026-08-24** — this job is no longer listed on the 80,000 Hours board. Archived snapshot below.
+
 # Program Associate / Program Manager, People Systems
 
-**[Horizon Institute for Public Service](https://www.horizonpublicservice.org/)**
+**Horizon Institute for Public Service**
 
-<dl class="job-meta">
-<dt>Location</dt><dd>Washington, DC metro area, USA, USA (Confirmed Visas)</dd>
-<dt>Role type</dt><dd>Full-time</dd>
-<dt>Experience</dt><dd>Junior (1-4 years experience)</dd>
-<dt>Degree</dt><dd>Undergraduate degree or less</dd>
-<dt>Salary</dt><dd>$100,000 – $160,000</dd>
-</dl>
-
-**Areas & skills:** AI safety & policy, Operations
+**Areas & skills:** AI safety & policy
 
 ## Summary
 - In this role, you'll manage people systems for a rapidly scaling organization, including hiring, compensation, performance, and professional development.

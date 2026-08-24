@@ -2,7 +2,7 @@
 title: "Expression of Interest, Cyber and Autonomous Systems Team"
 employer: "UK Government, AI Security Institute"
 job_id: "recIJx6arJw8JOUgK"
-last_updated: "2026-08-23T05:32:18.674195Z"
+last_updated: "2026-08-24T05:32:40.761114Z"
 posted_at: "2026-07-31T00:04:39Z"
 status: ready
 apply_url: "https://job-boards.eu.greenhouse.io/aisi/jobs/4941583101"
@@ -19,7 +19,7 @@ areas:
 <dt>Role type</dt><dd>Full-time</dd>
 <dt>Experience</dt><dd>Multiple experience levels</dd>
 <dt>Degree</dt><dd>Undergraduate degree or less</dd>
-<dt>Salary</dt><dd>$88,686 – $197,837</dd>
+<dt>Salary</dt><dd>$88,688 – $197,843</dd>
 </dl>
 
 **Areas & skills:** AI safety & policy, Software engineering, Information security
@@ -34,4 +34,4 @@ areas:
 <p class="apply-cta"><a href="https://job-boards.eu.greenhouse.io/aisi/jobs/4941583101">Apply →</a></p>
 
 ---
-*Posted 2026-07-31 · Listing synced 2026-08-23 · 80k job ID `recIJx6arJw8JOUgK`*
+*Posted 2026-07-31 · Listing synced 2026-08-24 · 80k job ID `recIJx6arJw8JOUgK`*

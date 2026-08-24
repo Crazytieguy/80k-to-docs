@@ -2,7 +2,7 @@
 title: "Intern, Center for the Industrial Base"
 employer: "Center for Strategic and International Studies"
 job_id: "reca0wwlWATFz0sHT"
-last_updated: "2026-08-23T05:32:07.609463Z"
+last_updated: "2026-08-24T05:32:30.972696Z"
 posted_at: "2026-08-07T00:00:00Z"
 status: ready
 apply_url: "https://job-boards.greenhouse.io/centerforstrategicandinternationalstudiesinc/jobs/4315946009"
@@ -34,4 +34,4 @@ areas:
 <p class="apply-cta"><a href="https://job-boards.greenhouse.io/centerforstrategicandinternationalstudiesinc/jobs/4315946009">Apply →</a></p>
 
 ---
-*Posted 2026-08-07 · Listing synced 2026-08-23 · 80k job ID `reca0wwlWATFz0sHT`*
+*Posted 2026-08-07 · Listing synced 2026-08-24 · 80k job ID `reca0wwlWATFz0sHT`*

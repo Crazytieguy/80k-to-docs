@@ -2,7 +2,7 @@
 title: "IT Cybersecurity Program Manager"
 employer: "US Government, Cybersecurity and Infrastructure Security Agency"
 job_id: "recoAiJrExCs0Fx8y"
-last_updated: "2026-08-23T05:31:46.060749Z"
+last_updated: "2026-08-24T05:32:08.923856Z"
 posted_at: "2026-08-21T00:00:00Z"
 status: ready
 apply_url: "https://www.usajobs.gov/job/881267600"
@@ -34,4 +34,4 @@ areas:
 <p class="apply-cta"><a href="https://www.usajobs.gov/job/881267600">Apply →</a></p>
 
 ---
-*Posted 2026-08-21 · Listing synced 2026-08-23 · 80k job ID `recoAiJrExCs0Fx8y`*
+*Posted 2026-08-21 · Listing synced 2026-08-24 · 80k job ID `recoAiJrExCs0Fx8y`*

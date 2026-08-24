@@ -4,26 +4,21 @@ employer: "OpenAI"
 job_id: "recQa1HN71PxaYMba"
 last_updated: "2026-08-23T05:31:48.517478Z"
 posted_at: "2026-08-20T00:00:00Z"
-status: ready
+status: closed
+closed_at: "2026-08-24"
 apply_url: "https://openai.com/careers/model-policy-(rodrigo)-san-francisco/"
 areas:
   - "AI safety & policy"
   - "Biosecurity & pandemic preparedness"
 ---
 
+> ⚠️ **CLOSED on 2026-08-24** — this job is no longer listed on the 80,000 Hours board. Archived snapshot below.
+
 # Model Policy, Rodrigo
 
-**[OpenAI](https://openai.com/)**
+**OpenAI**
 
-<dl class="job-meta">
-<dt>Location</dt><dd>San Francisco Bay Area, USA</dd>
-<dt>Role type</dt><dd>Full-time</dd>
-<dt>Experience</dt><dd>Mid (5-9 years experience), Senior (10+ years experience)</dd>
-<dt>Degree</dt><dd>Undergraduate degree or less</dd>
-<dt>Salary</dt><dd>$207,000 – $295,000</dd>
-</dl>
-
-**Areas & skills:** AI safety & policy, Biosecurity & pandemic preparedness, Strategy
+**Areas & skills:** AI safety & policy, Biosecurity & pandemic preparedness
 
 ## Summary
 - In this role, you'll design and maintain policy frameworks for chemical and biological safety in frontier AI systems.

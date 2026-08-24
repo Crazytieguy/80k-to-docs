@@ -4,24 +4,20 @@ employer: "Cambridge University, Centre for the Study of Existential Risk"
 job_id: "rece0lDdb1mrvI1Cu"
 last_updated: "2026-08-23T05:32:41.201597Z"
 posted_at: "2026-07-06T00:00:00Z"
-status: ready
+status: closed
+closed_at: "2026-08-24"
 apply_url: "https://www.cser.ac.uk/teaching-associate-fixed-term/"
 areas:
   - "Macrostrategy"
 ---
 
+> ⚠️ **CLOSED on 2026-08-24** — this job is no longer listed on the 80,000 Hours board. Archived snapshot below.
+
 # Teaching Associate, MPhil in Global Risk and Resilience
 
-**[Cambridge University, Centre for the Study of Existential Risk](https://www.cser.ac.uk/)**
+**Cambridge University, Centre for the Study of Existential Risk**
 
-<dl class="job-meta">
-<dt>Location</dt><dd>Cambridge, UK, UK</dd>
-<dt>Role type</dt><dd>Full-time</dd>
-<dt>Experience</dt><dd>Junior (1-4 years experience)</dd>
-<dt>Degree</dt><dd>Doctoral degree</dd>
-</dl>
-
-**Areas & skills:** Macrostrategy, Other
+**Areas & skills:** Macrostrategy
 
 ## Summary
 - In this role, you'll support the delivery and development of the new MPhil in Global Risk and Resilience.

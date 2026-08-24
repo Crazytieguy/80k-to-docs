@@ -2,7 +2,7 @@
 title: "Funds Program Manager"
 employer: "Founders Pledge"
 job_id: "reckF9mBLh0NQp1vv"
-last_updated: "2026-08-23T05:31:49.574223Z"
+last_updated: "2026-08-24T05:32:13.439991Z"
 posted_at: "2026-08-19T00:01:00Z"
 status: ready
 apply_url: "https://careers.founderspledge.com/jobs/8230675-funds-program-manager"
@@ -33,4 +33,4 @@ areas:
 <p class="apply-cta"><a href="https://careers.founderspledge.com/jobs/8230675-funds-program-manager">Apply →</a></p>
 
 ---
-*Posted 2026-08-19 · Listing synced 2026-08-23 · 80k job ID `reckF9mBLh0NQp1vv`*
+*Posted 2026-08-19 · Listing synced 2026-08-24 · 80k job ID `reckF9mBLh0NQp1vv`*

@@ -4,25 +4,20 @@ employer: "Lightcone Infrastructure"
 job_id: "reciCN4NVL7gXQkSO"
 last_updated: "2026-08-23T05:32:58.226246Z"
 posted_at: "2022-01-12T00:00:00Z"
-status: ready
+status: closed
+closed_at: "2026-08-24"
 apply_url: "https://www.lightconeinfrastructure.com/lesswrong-software.html"
 areas:
   - "AI safety & policy"
 ---
 
+> ⚠️ **CLOSED on 2026-08-24** — this job is no longer listed on the 80,000 Hours board. Archived snapshot below.
+
 # Software Engineer, LessWrong
 
-**[Lightcone Infrastructure](https://www.lightconeinfrastructure.com/index.html)**
+**Lightcone Infrastructure**
 
-<dl class="job-meta">
-<dt>Location</dt><dd>San Francisco Bay Area, USA, USA (Confirmed Visas)</dd>
-<dt>Role type</dt><dd>Full-time</dd>
-<dt>Experience</dt><dd>Junior (1-4 years experience)</dd>
-<dt>Degree</dt><dd>Master's degree</dd>
-<dt>Salary</dt><dd>$150,000</dd>
-</dl>
-
-**Areas & skills:** AI safety & policy, Software engineering
+**Areas & skills:** AI safety & policy
 
 ## Summary
 - This role entails maintaining and expanding the LessWrong website.

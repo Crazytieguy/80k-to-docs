@@ -2,7 +2,7 @@
 title: "Senior Cyber Offense Specialist, Center for AI Standards and Innovation"
 employer: "US Government, National Institute of Standards and Technology"
 job_id: "rec8lvSWWaTqYv3Ic"
-last_updated: "2026-08-23T05:31:51.216327Z"
+last_updated: "2026-08-24T05:32:15.058664Z"
 posted_at: "2026-08-18T00:05:00Z"
 status: ready
 apply_url: "https://www.usajobs.gov/job/880883200"
@@ -34,4 +34,4 @@ areas:
 <p class="apply-cta"><a href="https://www.usajobs.gov/job/880883200">Apply →</a></p>
 
 ---
-*Posted 2026-08-18 · Listing synced 2026-08-23 · 80k job ID `rec8lvSWWaTqYv3Ic`*
+*Posted 2026-08-18 · Listing synced 2026-08-24 · 80k job ID `rec8lvSWWaTqYv3Ic`*

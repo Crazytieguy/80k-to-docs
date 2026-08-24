@@ -2,7 +2,7 @@
 title: "Full-Stack Software Engineer, Research"
 employer: "Apollo Research"
 job_id: "reca82D0MjdMjWazR"
-last_updated: "2026-08-23T05:32:19.990151Z"
+last_updated: "2026-08-24T05:32:41.074629Z"
 posted_at: "2026-07-31T00:04:22Z"
 status: ready
 apply_url: "https://jobs.lever.co/apolloresearch/421c9d78-2ca3-4b9e-9e4a-22044d837571"
@@ -19,7 +19,7 @@ areas:
 <dt>Role type</dt><dd>Full-time</dd>
 <dt>Experience</dt><dd>Mid (5-9 years experience)</dd>
 <dt>Degree</dt><dd>Undergraduate degree or less</dd>
-<dt>Salary</dt><dd>$136,439 – $272,879</dd>
+<dt>Salary</dt><dd>$136,444 – $272,887</dd>
 </dl>
 
 **Areas & skills:** AI safety & policy, Software engineering
@@ -34,4 +34,4 @@ areas:
 <p class="apply-cta"><a href="https://jobs.lever.co/apolloresearch/421c9d78-2ca3-4b9e-9e4a-22044d837571">Apply →</a></p>
 
 ---
-*Posted 2026-07-31 · Listing synced 2026-08-23 · 80k job ID `reca82D0MjdMjWazR`*
+*Posted 2026-07-31 · Listing synced 2026-08-24 · 80k job ID `reca82D0MjdMjWazR`*

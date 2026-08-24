@@ -2,7 +2,7 @@
 title: "Chief of Staff"
 employer: "The AI Policy Network"
 job_id: "rec4JaOvpslEbtSq6"
-last_updated: "2026-08-23T05:32:13.709560Z"
+last_updated: "2026-08-24T05:32:36.266313Z"
 posted_at: "2026-08-04T00:02:00Z"
 status: ready
 apply_url: "https://job-boards.greenhouse.io/aipn/jobs/4353638009"
@@ -34,4 +34,4 @@ areas:
 <p class="apply-cta"><a href="https://job-boards.greenhouse.io/aipn/jobs/4353638009">Apply →</a></p>
 
 ---
-*Posted 2026-08-04 · Listing synced 2026-08-23 · 80k job ID `rec4JaOvpslEbtSq6`*
+*Posted 2026-08-04 · Listing synced 2026-08-24 · 80k job ID `rec4JaOvpslEbtSq6`*

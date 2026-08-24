@@ -4,25 +4,20 @@ employer: "Horizon Institute for Public Service"
 job_id: "recclc1Tef5kLZusM"
 last_updated: "2026-08-23T05:32:18.530826Z"
 posted_at: "2026-07-31T00:05:00Z"
-status: ready
+status: closed
+closed_at: "2026-08-24"
 apply_url: "https://horizonpublicservice.org/director-policy-and-leadership-network/"
 areas:
   - "AI safety & policy"
 ---
 
+> ⚠️ **CLOSED on 2026-08-24** — this job is no longer listed on the 80,000 Hours board. Archived snapshot below.
+
 # Director, Policy and Leadership Network
 
-**[Horizon Institute for Public Service](https://www.horizonpublicservice.org/)**
+**Horizon Institute for Public Service**
 
-<dl class="job-meta">
-<dt>Location</dt><dd>Washington, DC metro area, USA, USA (Confirmed Visas)</dd>
-<dt>Role type</dt><dd>Full-time</dd>
-<dt>Experience</dt><dd>Mid (5-9 years experience)</dd>
-<dt>Degree</dt><dd>Undergraduate degree or less</dd>
-<dt>Salary</dt><dd>$150,000 – $200,000</dd>
-</dl>
-
-**Areas & skills:** AI safety & policy, Policy, Management, Strategy
+**Areas & skills:** AI safety & policy
 
 ## Summary
 - In this role, you'll grow Horizon's network of senior policy talent and get the right people into critical roles.

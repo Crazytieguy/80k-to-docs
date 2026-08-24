@@ -4,25 +4,20 @@ employer: "Horizon Institute for Public Service"
 job_id: "recLBOwG4FTPX6tVN"
 last_updated: "2026-08-23T05:32:19.353806Z"
 posted_at: "2026-07-31T00:04:30Z"
-status: ready
+status: closed
+closed_at: "2026-08-24"
 apply_url: "https://horizonpublicservice.org/program-associate-program-manager-events/"
 areas:
   - "AI safety & policy"
 ---
 
+> ⚠️ **CLOSED on 2026-08-24** — this job is no longer listed on the 80,000 Hours board. Archived snapshot below.
+
 # Program Associate / Program Manager, Events
 
-**[Horizon Institute for Public Service](https://www.horizonpublicservice.org/)**
+**Horizon Institute for Public Service**
 
-<dl class="job-meta">
-<dt>Location</dt><dd>Washington, DC metro area, USA, USA (Confirmed Visas)</dd>
-<dt>Role type</dt><dd>Full-time</dd>
-<dt>Experience</dt><dd>Junior (1-4 years experience)</dd>
-<dt>Degree</dt><dd>Undergraduate degree or less</dd>
-<dt>Salary</dt><dd>$100,000 – $160,000</dd>
-</dl>
-
-**Areas & skills:** AI safety & policy, Outreach, Operations
+**Areas & skills:** AI safety & policy
 
 ## Summary
 - In this role, you'll own and deliver events for the AI Policy Leadership Network and Horizon Fellowship, creating spaces where professionals build career-shaping relationships.

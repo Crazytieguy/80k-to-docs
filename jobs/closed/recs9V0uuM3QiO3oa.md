@@ -4,25 +4,20 @@ employer: "MacArthur Foundation"
 job_id: "recs9V0uuM3QiO3oa"
 last_updated: "2026-08-23T05:32:10.459467Z"
 posted_at: "2026-08-06T00:00:00Z"
-status: ready
+status: closed
+closed_at: "2026-08-24"
 apply_url: "https://macfound.wd1.myworkdayjobs.com/MAC_FOUND_EXT_CAREERS/job/Chicago-Office/Director--Peace_REQ-000354"
 areas:
   - "Nuclear security"
 ---
 
+> ⚠️ **CLOSED on 2026-08-24** — this job is no longer listed on the 80,000 Hours board. Archived snapshot below.
+
 # Director, Peace
 
-**[MacArthur Foundation](https://www.macfound.org/)**
+**MacArthur Foundation**
 
-<dl class="job-meta">
-<dt>Location</dt><dd>Chicago, IL, USA</dd>
-<dt>Role type</dt><dd>Full-time</dd>
-<dt>Experience</dt><dd>Senior (10+ years experience)</dd>
-<dt>Degree</dt><dd>Undergraduate degree or less</dd>
-<dt>Salary</dt><dd>$210,100</dd>
-</dl>
-
-**Areas & skills:** Nuclear security, Policy, Management
+**Areas & skills:** Nuclear security
 
 ## Summary
 - In this role, you'll lead the design and implementation of the peace program's grantmaking strategy, overseeing a portfolio of long-term and exploratory investments.

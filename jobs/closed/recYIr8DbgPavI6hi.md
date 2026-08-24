@@ -4,25 +4,20 @@ employer: "Principles of Intelligence"
 job_id: "recYIr8DbgPavI6hi"
 last_updated: "2026-08-23T05:32:04.953252Z"
 posted_at: "2026-08-10T00:02:00Z"
-status: ready
+status: closed
+closed_at: "2026-08-24"
 apply_url: "https://princint.ai/now-hiring-finance-specialist-at-principles-of-intelligence/"
 areas:
   - "AI safety & policy"
 ---
 
+> ⚠️ **CLOSED on 2026-08-24** — this job is no longer listed on the 80,000 Hours board. Archived snapshot below.
+
 # Finance Manager, US
 
-**[Principles of Intelligence](https://princint.ai/)**
+**Principles of Intelligence**
 
-<dl class="job-meta">
-<dt>Location</dt><dd>Remote, Global</dd>
-<dt>Role type</dt><dd>Full-time</dd>
-<dt>Experience</dt><dd>Junior (1-4 years experience)</dd>
-<dt>Degree</dt><dd>Undergraduate degree or less</dd>
-<dt>Salary</dt><dd>$90,000 – $120,000</dd>
-</dl>
-
-**Areas & skills:** AI safety & policy, Finance
+**Areas & skills:** AI safety & policy
 
 ## Summary
 - In this role, you'll lead financial operations for an AI safety research organization, managing accounting, budgeting, and compliance across US and UK operations.

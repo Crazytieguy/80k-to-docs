@@ -2,7 +2,7 @@
 title: "Office Manager"
 employer: "Cambridge Boston Alignment Initiative"
 job_id: "recB79uqqbyKEmsPo"
-last_updated: "2026-08-23T05:31:59.996922Z"
+last_updated: "2026-08-24T05:32:24.276571Z"
 posted_at: "2026-08-13T00:03:00Z"
 status: ready
 apply_url: "https://jobs.ashbyhq.com/cbai/10e3b405-3481-457f-8079-58af9c9fe420"
@@ -34,4 +34,4 @@ areas:
 <p class="apply-cta"><a href="https://jobs.ashbyhq.com/cbai/10e3b405-3481-457f-8079-58af9c9fe420">Apply →</a></p>
 
 ---
-*Posted 2026-08-13 · Listing synced 2026-08-23 · 80k job ID `recB79uqqbyKEmsPo`*
+*Posted 2026-08-13 · Listing synced 2026-08-24 · 80k job ID `recB79uqqbyKEmsPo`*

@@ -2,7 +2,7 @@
 title: "Engineer, Program Examiner"
 employer: "US Government, Office of Management and Budget"
 job_id: "recSyM3zMRgbh7xjH"
-last_updated: "2026-08-23T05:31:59.012822Z"
+last_updated: "2026-08-24T05:32:23.258244Z"
 posted_at: "2026-08-14T00:00:00Z"
 status: ready
 apply_url: "https://www.usajobs.gov/job/880491700"
@@ -32,4 +32,4 @@ areas:
 <p class="apply-cta"><a href="https://www.usajobs.gov/job/880491700">Apply →</a></p>
 
 ---
-*Posted 2026-08-14 · Listing synced 2026-08-23 · 80k job ID `recSyM3zMRgbh7xjH`*
+*Posted 2026-08-14 · Listing synced 2026-08-24 · 80k job ID `recSyM3zMRgbh7xjH`*

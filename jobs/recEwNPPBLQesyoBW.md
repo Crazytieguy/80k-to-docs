@@ -2,7 +2,7 @@
 title: "Research Scientist, Safety Oversight"
 employer: "Google DeepMind"
 job_id: "recEwNPPBLQesyoBW"
-last_updated: "2026-08-23T05:31:47.864874Z"
+last_updated: "2026-08-24T05:32:11.671965Z"
 posted_at: "2026-08-20T00:00:00Z"
 status: ready
 apply_url: "https://www.google.com/about/careers/applications/jobs/results/105788365101507270"
@@ -34,4 +34,4 @@ areas:
 <p class="apply-cta"><a href="https://www.google.com/about/careers/applications/jobs/results/105788365101507270">Apply →</a></p>
 
 ---
-*Posted 2026-08-20 · Listing synced 2026-08-23 · 80k job ID `recEwNPPBLQesyoBW`*
+*Posted 2026-08-20 · Listing synced 2026-08-24 · 80k job ID `recEwNPPBLQesyoBW`*

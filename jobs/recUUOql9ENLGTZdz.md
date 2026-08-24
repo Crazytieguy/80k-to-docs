@@ -2,7 +2,7 @@
 title: "Philanthropic Services Associate"
 employer: "Founders Pledge"
 job_id: "recUUOql9ENLGTZdz"
-last_updated: "2026-08-23T05:32:00.241712Z"
+last_updated: "2026-08-24T05:32:24.512913Z"
 posted_at: "2026-08-13T00:01:00Z"
 status: ready
 apply_url: "https://careers.founderspledge.com/jobs/8207736-philanthropic-services-associate"
@@ -34,4 +34,4 @@ areas:
 <p class="apply-cta"><a href="https://careers.founderspledge.com/jobs/8207736-philanthropic-services-associate">Apply →</a></p>
 
 ---
-*Posted 2026-08-13 · Listing synced 2026-08-23 · 80k job ID `recUUOql9ENLGTZdz`*
+*Posted 2026-08-13 · Listing synced 2026-08-24 · 80k job ID `recUUOql9ENLGTZdz`*

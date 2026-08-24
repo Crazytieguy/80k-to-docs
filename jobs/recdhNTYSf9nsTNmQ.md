@@ -2,7 +2,7 @@
 title: "Fellowship"
 employer: "AIXI Labs"
 job_id: "recdhNTYSf9nsTNmQ"
-last_updated: "2026-08-23T05:32:45.002345Z"
+last_updated: "2026-08-24T05:33:05.255504Z"
 posted_at: "2026-06-30T00:00:00Z"
 status: ready
 apply_url: "https://uaiasi.com/2026/04/29/apply-for-a-fellowship-with-aixi-labs/"
@@ -34,4 +34,4 @@ areas:
 <p class="apply-cta"><a href="https://uaiasi.com/2026/04/29/apply-for-a-fellowship-with-aixi-labs/">Apply →</a></p>
 
 ---
-*Posted 2026-06-30 · Listing synced 2026-08-23 · 80k job ID `recdhNTYSf9nsTNmQ`*
+*Posted 2026-06-30 · Listing synced 2026-08-24 · 80k job ID `recdhNTYSf9nsTNmQ`*

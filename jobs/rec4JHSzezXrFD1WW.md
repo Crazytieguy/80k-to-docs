@@ -2,7 +2,7 @@
 title: "Ed Lorenzen Internship (Fall 2026)"
 employer: "Committee for a Responsible Federal Budget"
 job_id: "rec4JHSzezXrFD1WW"
-last_updated: "2026-08-23T05:32:42.197874Z"
+last_updated: "2026-08-24T05:33:02.439620Z"
 posted_at: "2026-07-03T00:00:00Z"
 status: ready
 apply_url: "https://www.crfb.org/lorenzeninternship"
@@ -34,4 +34,4 @@ areas:
 <p class="apply-cta"><a href="https://www.crfb.org/lorenzeninternship">Apply →</a></p>
 
 ---
-*Posted 2026-07-03 · Listing synced 2026-08-23 · 80k job ID `rec4JHSzezXrFD1WW`*
+*Posted 2026-07-03 · Listing synced 2026-08-24 · 80k job ID `rec4JHSzezXrFD1WW`*

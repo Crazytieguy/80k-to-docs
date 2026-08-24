@@ -2,7 +2,7 @@
 title: "Program Director, Formal Methods"
 employer: "OpenAI Foundation"
 job_id: "recTPzr5Uze5NMDTu"
-last_updated: "2026-08-23T05:31:45.114710Z"
+last_updated: "2026-08-24T05:32:07.728182Z"
 posted_at: "2026-08-21T00:03:00Z"
 status: ready
 apply_url: "https://openaifoundation.org/careers/program-director-formal-methods-261279c0-757e-4792-b731-264ca2e984c6"
@@ -34,4 +34,4 @@ areas:
 <p class="apply-cta"><a href="https://openaifoundation.org/careers/program-director-formal-methods-261279c0-757e-4792-b731-264ca2e984c6">Apply →</a></p>
 
 ---
-*Posted 2026-08-21 · Listing synced 2026-08-23 · 80k job ID `recTPzr5Uze5NMDTu`*
+*Posted 2026-08-21 · Listing synced 2026-08-24 · 80k job ID `recTPzr5Uze5NMDTu`*

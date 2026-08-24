@@ -2,7 +2,7 @@
 title: "Head of Talent Operations"
 employer: "Kairos"
 job_id: "recGX447ujr8RYXAe"
-last_updated: "2026-08-23T05:33:29.300274Z"
+last_updated: "2026-08-24T05:33:50.591951Z"
 posted_at: "2022-01-05T00:00:00Z"
 status: ready
 apply_url: "https://jobs.ashbyhq.com/kairos-project/c6db9ab7-9942-45b9-af27-ef4ac59ac2f5"
@@ -34,4 +34,4 @@ areas:
 <p class="apply-cta"><a href="https://jobs.ashbyhq.com/kairos-project/c6db9ab7-9942-45b9-af27-ef4ac59ac2f5">Apply →</a></p>
 
 ---
-*Posted 2022-01-05 · Listing synced 2026-08-23 · 80k job ID `recGX447ujr8RYXAe`*
+*Posted 2022-01-05 · Listing synced 2026-08-24 · 80k job ID `recGX447ujr8RYXAe`*

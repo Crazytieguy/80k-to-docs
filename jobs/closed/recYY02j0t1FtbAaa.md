@@ -4,25 +4,20 @@ employer: "Horizon Institute for Public Service"
 job_id: "recYY02j0t1FtbAaa"
 last_updated: "2026-08-23T05:32:18.375048Z"
 posted_at: "2026-07-31T00:05:00Z"
-status: ready
+status: closed
+closed_at: "2026-08-24"
 apply_url: "https://horizonpublicservice.org/director-events/"
 areas:
   - "AI safety & policy"
 ---
 
+> ⚠️ **CLOSED on 2026-08-24** — this job is no longer listed on the 80,000 Hours board. Archived snapshot below.
+
 # Director, Events
 
-**[Horizon Institute for Public Service](https://www.horizonpublicservice.org/)**
+**Horizon Institute for Public Service**
 
-<dl class="job-meta">
-<dt>Location</dt><dd>Washington, DC metro area, USA, USA (Confirmed Visas)</dd>
-<dt>Role type</dt><dd>Full-time</dd>
-<dt>Experience</dt><dd>Mid (5-9 years experience)</dd>
-<dt>Degree</dt><dd>Undergraduate degree or less</dd>
-<dt>Salary</dt><dd>$150,000 – $200,000</dd>
-</dl>
-
-**Areas & skills:** AI safety & policy, Operations, Management, Strategy
+**Areas & skills:** AI safety & policy
 
 ## Summary
 - In this role, you'll own Horizon's events strategy, budgets, and execution quality across workshops, convenings, and policy events.

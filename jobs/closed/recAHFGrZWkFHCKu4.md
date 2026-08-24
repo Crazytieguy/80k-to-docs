@@ -4,25 +4,20 @@ employer: "Institute for Progress"
 job_id: "recAHFGrZWkFHCKu4"
 last_updated: "2026-08-23T05:32:12.477069Z"
 posted_at: "2026-08-05T00:02:00Z"
-status: ready
+status: closed
+closed_at: "2026-08-24"
 apply_url: "https://ifp.org/opportunity/sourcing-programs-staff-ai-state-capacity/"
 areas:
   - "AI safety & policy"
 ---
 
+> ⚠️ **CLOSED on 2026-08-24** — this job is no longer listed on the 80,000 Hours board. Archived snapshot below.
+
 # Sourcing and Programs Staff, AI State Capacity
 
-**[Institute for Progress](https://progress.institute/)**
+**Institute for Progress**
 
-<dl class="job-meta">
-<dt>Location</dt><dd>Washington, DC metro area, Remote, USA, USA</dd>
-<dt>Role type</dt><dd>Full-time</dd>
-<dt>Experience</dt><dd>Junior (1-4 years experience), Mid (5-9 years experience)</dd>
-<dt>Degree</dt><dd>Undergraduate degree or less</dd>
-<dt>Salary</dt><dd>$110,000</dd>
-</dl>
-
-**Areas & skills:** AI safety & policy, Outreach, Strategy
+**Areas & skills:** AI safety & policy
 
 ## Summary
 - In this role, you'll build talent pipelines to bring AI expertise into government by identifying and supporting exceptional candidates.

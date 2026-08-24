@@ -2,7 +2,7 @@
 title: "Project Manager, Pilot Audits"
 employer: "AI Verification and Evaluation Research Institute"
 job_id: "recIfOdrlELqdKMIH"
-last_updated: "2026-08-23T05:31:49.169541Z"
+last_updated: "2026-08-24T05:32:13.018183Z"
 posted_at: "2026-08-19T00:03:00Z"
 status: ready
 apply_url: "https://www.averi.org/careers?ashby_jid=22ea26f6-6c8b-449d-9f82-706ea0858eda"
@@ -33,4 +33,4 @@ areas:
 <p class="apply-cta"><a href="https://www.averi.org/careers?ashby_jid=22ea26f6-6c8b-449d-9f82-706ea0858eda">Apply →</a></p>
 
 ---
-*Posted 2026-08-19 · Listing synced 2026-08-23 · 80k job ID `recIfOdrlELqdKMIH`*
+*Posted 2026-08-19 · Listing synced 2026-08-24 · 80k job ID `recIfOdrlELqdKMIH`*

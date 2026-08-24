@@ -2,7 +2,7 @@
 title: "Researcher, Recursive Self-Improvement Safety"
 employer: "OpenAI"
 job_id: "recS2tiKi7UamUdyt"
-last_updated: "2026-08-23T05:32:06.142171Z"
+last_updated: "2026-08-24T05:32:29.716203Z"
 posted_at: "2026-08-10T00:00:00Z"
 status: ready
 apply_url: "https://openai.com/careers/researcher-recursive-self-improvement-safety-san-francisco/"
@@ -34,4 +34,4 @@ areas:
 <p class="apply-cta"><a href="https://openai.com/careers/researcher-recursive-self-improvement-safety-san-francisco/">Apply →</a></p>
 
 ---
-*Posted 2026-08-10 · Listing synced 2026-08-23 · 80k job ID `recS2tiKi7UamUdyt`*
+*Posted 2026-08-10 · Listing synced 2026-08-24 · 80k job ID `recS2tiKi7UamUdyt`*

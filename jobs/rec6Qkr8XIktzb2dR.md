@@ -2,7 +2,7 @@
 title: "Research Associate, China Strategy Initiative"
 employer: "Council on Foreign Relations"
 job_id: "rec6Qkr8XIktzb2dR"
-last_updated: "2026-08-23T05:33:34.563991Z"
+last_updated: "2026-08-24T05:33:56.111505Z"
 posted_at: "2022-01-03T00:00:00Z"
 status: ready
 apply_url: "https://careers-cfr.icims.com/jobs/2928/research-associate%2c-china-strategy-initiative/job?in_iframe=1"
@@ -34,4 +34,4 @@ areas:
 <p class="apply-cta"><a href="https://careers-cfr.icims.com/jobs/2928/research-associate%2c-china-strategy-initiative/job?in_iframe=1">Apply →</a></p>
 
 ---
-*Posted 2022-01-03 · Listing synced 2026-08-23 · 80k job ID `rec6Qkr8XIktzb2dR`*
+*Posted 2022-01-03 · Listing synced 2026-08-24 · 80k job ID `rec6Qkr8XIktzb2dR`*

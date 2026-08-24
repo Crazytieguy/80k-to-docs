@@ -2,7 +2,7 @@
 title: "Marketing Campaign Manager"
 employer: "Amplify"
 job_id: "recCvgIf3b2tgDpr6"
-last_updated: "2026-08-23T05:31:55.904847Z"
+last_updated: "2026-08-24T05:32:19.956564Z"
 posted_at: "2026-08-17T00:01:00Z"
 status: ready
 apply_url: "https://docs.google.com/document/d/1AzHnD57JJBJnJekWSlVoOEcjyahJXaLtmHYnzRcTLg8/edit?usp=sharing"
@@ -34,4 +34,4 @@ areas:
 <p class="apply-cta"><a href="https://docs.google.com/document/d/1AzHnD57JJBJnJekWSlVoOEcjyahJXaLtmHYnzRcTLg8/edit?usp=sharing">Apply →</a></p>
 
 ---
-*Posted 2026-08-17 · Listing synced 2026-08-23 · 80k job ID `recCvgIf3b2tgDpr6`*
+*Posted 2026-08-17 · Listing synced 2026-08-24 · 80k job ID `recCvgIf3b2tgDpr6`*

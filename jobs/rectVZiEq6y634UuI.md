@@ -2,7 +2,7 @@
 title: "Expression of Interest, Special Projects Associate"
 employer: "Epoch AI"
 job_id: "rectVZiEq6y634UuI"
-last_updated: "2026-08-23T05:31:51.470536Z"
+last_updated: "2026-08-24T05:32:15.325061Z"
 posted_at: "2026-08-18T00:04:46Z"
 status: ready
 apply_url: "https://jobs.lever.co/epoch-ai/72778f6d-e7f9-4c01-a5c2-220eb3530a8e"
@@ -34,4 +34,4 @@ areas:
 <p class="apply-cta"><a href="https://jobs.lever.co/epoch-ai/72778f6d-e7f9-4c01-a5c2-220eb3530a8e">Apply →</a></p>
 
 ---
-*Posted 2026-08-18 · Listing synced 2026-08-23 · 80k job ID `rectVZiEq6y634UuI`*
+*Posted 2026-08-18 · Listing synced 2026-08-24 · 80k job ID `rectVZiEq6y634UuI`*

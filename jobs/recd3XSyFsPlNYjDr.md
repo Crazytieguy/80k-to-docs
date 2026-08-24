@@ -2,7 +2,7 @@
 title: "Industry Fellowship"
 employer: "The Royal Society"
 job_id: "recd3XSyFsPlNYjDr"
-last_updated: "2026-08-23T05:32:17.477199Z"
+last_updated: "2026-08-24T05:32:39.934931Z"
 posted_at: "2026-08-03T00:00:00Z"
 status: ready
 apply_url: "https://royalsociety.org/grants-schemes-awards/grants/industry-fellowship/"
@@ -19,7 +19,7 @@ areas:
 <dt>Role type</dt><dd>Fellowship</dd>
 <dt>Experience</dt><dd>Multiple experience levels</dd>
 <dt>Degree</dt><dd>Doctoral degree</dd>
-<dt>Salary</dt><dd>$229,218</dd>
+<dt>Salary</dt><dd>$229,225</dd>
 </dl>
 
 **Areas & skills:** Career development: Technical, Research
@@ -34,4 +34,4 @@ areas:
 <p class="apply-cta"><a href="https://royalsociety.org/grants-schemes-awards/grants/industry-fellowship/">Apply →</a></p>
 
 ---
-*Posted 2026-08-03 · Listing synced 2026-08-23 · 80k job ID `recd3XSyFsPlNYjDr`*
+*Posted 2026-08-03 · Listing synced 2026-08-24 · 80k job ID `recd3XSyFsPlNYjDr`*
