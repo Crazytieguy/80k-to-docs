@@ -2,10 +2,10 @@
 title: "Research Scientist, Safety Oversight"
 employer: "Google DeepMind"
 job_id: "recEwNPPBLQesyoBW"
-last_updated: "2026-08-24T05:32:11.671965Z"
+last_updated: "2026-08-25T05:31:44.315508Z"
 posted_at: "2026-08-20T00:00:00Z"
 status: ready
-apply_url: "https://www.google.com/about/careers/applications/jobs/results/105788365101507270"
+apply_url: "https://www.google.com/about/careers/applications/jobs/results/105788365101507270-research-scientist-safety-oversight-deepmind?company=DeepMind&page=4"
 areas:
   - "AI safety & policy"
 ---
@@ -31,7 +31,7 @@ areas:
 - Develop novel monitoring methods using model activations, actions, and chains-of-thought.
 - Collaborate with infrastructure teams and data scientists to scale work and share safety findings.
 
-<p class="apply-cta"><a href="https://www.google.com/about/careers/applications/jobs/results/105788365101507270">Apply →</a></p>
+<p class="apply-cta"><a href="https://www.google.com/about/careers/applications/jobs/results/105788365101507270-research-scientist-safety-oversight-deepmind?company=DeepMind&amp;page=4">Apply →</a></p>
 
 ---
-*Posted 2026-08-20 · Listing synced 2026-08-24 · 80k job ID `recEwNPPBLQesyoBW`*
+*Posted 2026-08-20 · Listing synced 2026-08-25 · 80k job ID `recEwNPPBLQesyoBW`*

@@ -2,10 +2,10 @@
 title: "Research Engineer, AGI Safety and Alignment"
 employer: "Google DeepMind"
 job_id: "recZ9jJte31VKRORg"
-last_updated: "2026-08-24T05:32:08.464323Z"
+last_updated: "2026-08-25T05:31:42.229489Z"
 posted_at: "2026-08-21T00:00:00Z"
 status: ready
-apply_url: "https://www.google.com/about/careers/applications/jobs/results/114312938881196742"
+apply_url: "https://www.google.com/about/careers/applications/jobs/results/114312938881196742-research-engineer-agi-safety-and-alignment-deepmind?company=DeepMind&page=3"
 areas:
   - "AI safety & policy"
 ---
@@ -31,7 +31,7 @@ areas:
 - Research interpretability techniques to understand how AI systems think.
 - Work with product teams to ensure research adoption and integration.
 
-<p class="apply-cta"><a href="https://www.google.com/about/careers/applications/jobs/results/114312938881196742">Apply →</a></p>
+<p class="apply-cta"><a href="https://www.google.com/about/careers/applications/jobs/results/114312938881196742-research-engineer-agi-safety-and-alignment-deepmind?company=DeepMind&amp;page=3">Apply →</a></p>
 
 ---
-*Posted 2026-08-21 · Listing synced 2026-08-24 · 80k job ID `recZ9jJte31VKRORg`*
+*Posted 2026-08-21 · Listing synced 2026-08-25 · 80k job ID `recZ9jJte31VKRORg`*

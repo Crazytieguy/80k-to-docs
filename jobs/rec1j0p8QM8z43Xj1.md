@@ -2,7 +2,7 @@
 title: "Research Engineer, Machine Learning"
 employer: "Transluce"
 job_id: "rec1j0p8QM8z43Xj1"
-last_updated: "2026-08-24T05:33:53.446136Z"
+last_updated: "2026-08-25T05:33:23.792609Z"
 posted_at: "2022-01-05T00:00:00Z"
 status: ready
 apply_url: "https://jobs.gem.com/transluce/am9icG9zdDopwPeycQ2A_eZEMCuguKM-"
@@ -34,4 +34,4 @@ areas:
 <p class="apply-cta"><a href="https://jobs.gem.com/transluce/am9icG9zdDopwPeycQ2A_eZEMCuguKM-">Apply →</a></p>
 
 ---
-*Posted 2022-01-05 · Listing synced 2026-08-24 · 80k job ID `rec1j0p8QM8z43Xj1`*
+*Posted 2022-01-05 · Listing synced 2026-08-25 · 80k job ID `rec1j0p8QM8z43Xj1`*

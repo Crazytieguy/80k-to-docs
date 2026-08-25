@@ -2,7 +2,7 @@
 title: "Engineering Manager, Safeguards Interventions"
 employer: "Anthropic"
 job_id: "recfUuVV6IWY8gYaC"
-last_updated: "2026-08-24T05:32:55.876620Z"
+last_updated: "2026-08-25T05:32:28.288953Z"
 posted_at: "2026-07-14T00:00:00Z"
 status: ready
 apply_url: "https://job-boards.greenhouse.io/anthropic/jobs/5322723008"
@@ -34,4 +34,4 @@ areas:
 <p class="apply-cta"><a href="https://job-boards.greenhouse.io/anthropic/jobs/5322723008">Apply →</a></p>
 
 ---
-*Posted 2026-07-14 · Listing synced 2026-08-24 · 80k job ID `recfUuVV6IWY8gYaC`*
+*Posted 2026-07-14 · Listing synced 2026-08-25 · 80k job ID `recfUuVV6IWY8gYaC`*

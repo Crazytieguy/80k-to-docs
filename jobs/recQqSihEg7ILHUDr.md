@@ -2,22 +2,26 @@
 title: "Lightcone Commons"
 employer: "Lightcone Infrastructure"
 job_id: "recQqSihEg7ILHUDr"
-last_updated: "2026-08-22T05:32:04.645349Z"
+last_updated: "2026-08-25T05:31:58.773934Z"
 posted_at: "2026-08-11T00:05:00Z"
-status: closed
-closed_at: "2026-08-23"
+status: ready
 apply_url: "https://www.lightconecommons.com/apply"
 areas:
   - "Building effective altruism"
 ---
 
-> ⚠️ **CLOSED on 2026-08-23** — this job is no longer listed on the 80,000 Hours board. Archived snapshot below.
-
 # Lightcone Commons
 
-**Lightcone Infrastructure**
+**[Lightcone Infrastructure](https://www.lightconeinfrastructure.com/index.html)**
 
-**Areas & skills:** Building effective altruism
+<dl class="job-meta">
+<dt>Location</dt><dd>Remote, Global</dd>
+<dt>Role type</dt><dd>Funding</dd>
+<dt>Experience</dt><dd>Multiple experience levels</dd>
+<dt>Degree</dt><dd>Undergraduate degree or less</dd>
+</dl>
+
+**Areas & skills:** Building effective altruism, Research, Strategy
 
 ## Summary
 - Funding available for ambitious philanthropic projects.
@@ -29,4 +33,4 @@ areas:
 <p class="apply-cta"><a href="https://www.lightconecommons.com/apply">Apply →</a></p>
 
 ---
-*Posted 2026-08-11 · Listing synced 2026-08-22 · 80k job ID `recQqSihEg7ILHUDr`*
+*Posted 2026-08-11 · Listing synced 2026-08-25 · 80k job ID `recQqSihEg7ILHUDr`*

@@ -2,7 +2,7 @@
 title: "Research Contractor"
 employer: "FutureSearch"
 job_id: "recbIKV2JcYSdYD0H"
-last_updated: "2026-08-24T05:32:55.077195Z"
+last_updated: "2026-08-25T05:32:27.557135Z"
 posted_at: "2026-07-15T00:00:00Z"
 status: ready
 apply_url: "https://apply.workable.com/futuresearch/j/98A6E20ABA/"
@@ -34,4 +34,4 @@ areas:
 <p class="apply-cta"><a href="https://apply.workable.com/futuresearch/j/98A6E20ABA/">Apply →</a></p>
 
 ---
-*Posted 2026-07-15 · Listing synced 2026-08-24 · 80k job ID `recbIKV2JcYSdYD0H`*
+*Posted 2026-07-15 · Listing synced 2026-08-25 · 80k job ID `recbIKV2JcYSdYD0H`*

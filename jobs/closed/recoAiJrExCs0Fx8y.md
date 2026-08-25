@@ -4,25 +4,20 @@ employer: "US Government, Cybersecurity and Infrastructure Security Agency"
 job_id: "recoAiJrExCs0Fx8y"
 last_updated: "2026-08-24T05:32:08.923856Z"
 posted_at: "2026-08-21T00:00:00Z"
-status: ready
+status: closed
+closed_at: "2026-08-25"
 apply_url: "https://www.usajobs.gov/job/881267600"
 areas:
   - "Career development: Policy & government"
 ---
 
+> ⚠️ **CLOSED on 2026-08-25** — this job is no longer listed on the 80,000 Hours board. Archived snapshot below.
+
 # IT Cybersecurity Program Manager
 
-**[US Government, Cybersecurity and Infrastructure Security Agency](https://www.dhs.gov/CISA)**
+**US Government, Cybersecurity and Infrastructure Security Agency**
 
-<dl class="job-meta">
-<dt>Location</dt><dd>Washington, DC metro area, USA</dd>
-<dt>Role type</dt><dd>Full-time</dd>
-<dt>Experience</dt><dd>Mid (5-9 years experience)</dd>
-<dt>Degree</dt><dd>Undergraduate degree or less</dd>
-<dt>Salary</dt><dd>$85,447 – $133,142</dd>
-</dl>
-
-**Areas & skills:** Career development: Policy & government, Policy, Information security
+**Areas & skills:** Career development: Policy & government
 
 ## Summary
 - In this role, you'll manage cybersecurity and information security requirements across IT systems, acquisitions, and service delivery.

@@ -4,25 +4,20 @@ employer: "Apollo Research"
 job_id: "recs9zLJ6oLlffEiP"
 last_updated: "2026-08-24T05:32:41.245829Z"
 posted_at: "2026-07-31T00:04:20Z"
-status: ready
+status: closed
+closed_at: "2026-08-25"
 apply_url: "https://jobs.lever.co/apolloresearch/604b1964-c746-4b6a-bb7b-0ef9b421950a"
 areas:
   - "AI safety & policy"
 ---
 
+> ⚠️ **CLOSED on 2026-08-25** — this job is no longer listed on the 80,000 Hours board. Archived snapshot below.
+
 # Backend Software Engineer, Research
 
-**[Apollo Research](https://www.apolloresearch.ai/)**
+**Apollo Research**
 
-<dl class="job-meta">
-<dt>Location</dt><dd>London, UK, San Francisco Bay Area, UK, USA, USA (Confirmed Visas), UK (Confirmed Visas)</dd>
-<dt>Role type</dt><dd>Full-time</dd>
-<dt>Experience</dt><dd>Mid (5-9 years experience)</dd>
-<dt>Degree</dt><dd>Undergraduate degree or less</dd>
-<dt>Salary</dt><dd>$136,444 – $272,887</dd>
-</dl>
-
-**Areas & skills:** AI safety & policy, Software engineering
+**Areas & skills:** AI safety & policy
 
 ## Summary
 - In this role, you'll build and maintain internal tools and libraries for frontier AGI safety research, including evals systems and LLM monitoring infrastructure.

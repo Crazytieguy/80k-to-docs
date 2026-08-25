@@ -2,7 +2,7 @@
 title: "Product Manager, Agentic Products"
 employer: "Center for AI Safety"
 job_id: "recHePETbX2FCCBPr"
-last_updated: "2026-08-24T05:32:38.180747Z"
+last_updated: "2026-08-25T05:32:10.875377Z"
 posted_at: "2026-08-03T00:04:29Z"
 status: ready
 apply_url: "https://job-boards.greenhouse.io/centerforartificialintelligencesafetyinc/jobs/4342209009"
@@ -34,4 +34,4 @@ areas:
 <p class="apply-cta"><a href="https://job-boards.greenhouse.io/centerforartificialintelligencesafetyinc/jobs/4342209009">Apply →</a></p>
 
 ---
-*Posted 2026-08-03 · Listing synced 2026-08-24 · 80k job ID `recHePETbX2FCCBPr`*
+*Posted 2026-08-03 · Listing synced 2026-08-25 · 80k job ID `recHePETbX2FCCBPr`*

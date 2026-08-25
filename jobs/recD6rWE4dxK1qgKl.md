@@ -2,7 +2,7 @@
 title: "AI Standards Coordinator, Interdisciplinary"
 employer: "US Government, National Institute of Standards and Technology"
 job_id: "recD6rWE4dxK1qgKl"
-last_updated: "2026-08-24T05:32:19.802580Z"
+last_updated: "2026-08-25T05:31:52.087970Z"
 posted_at: "2026-08-17T00:03:00Z"
 status: ready
 apply_url: "https://www.usajobs.gov/job/880637700"
@@ -35,4 +35,4 @@ areas:
 <p class="apply-cta"><a href="https://www.usajobs.gov/job/880637700">Apply →</a></p>
 
 ---
-*Posted 2026-08-17 · Listing synced 2026-08-24 · 80k job ID `recD6rWE4dxK1qgKl`*
+*Posted 2026-08-17 · Listing synced 2026-08-25 · 80k job ID `recD6rWE4dxK1qgKl`*

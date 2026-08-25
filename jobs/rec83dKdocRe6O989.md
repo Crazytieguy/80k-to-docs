@@ -2,7 +2,7 @@
 title: "Executive Director"
 employer: "Centre For Enabling EA Learning and Research"
 job_id: "rec83dKdocRe6O989"
-last_updated: "2026-08-24T05:32:42.747909Z"
+last_updated: "2026-08-25T05:32:15.172622Z"
 posted_at: "2026-07-31T00:00:00Z"
 status: ready
 apply_url: "https://forum.effectivealtruism.org/posts/hpBsjQPQehv5vtKi4/job-executive-director-of-ceealar-ea-hotel-1"
@@ -19,7 +19,7 @@ areas:
 <dt>Role type</dt><dd>Full-time</dd>
 <dt>Experience</dt><dd>Junior (1-4 years experience)</dd>
 <dt>Degree</dt><dd>Undergraduate degree or less</dd>
-<dt>Salary</dt><dd>$54,577 – $68,222</dd>
+<dt>Salary</dt><dd>$54,509 – $68,136</dd>
 </dl>
 
 **Areas & skills:** Building effective altruism, Operations, Management, Strategy
@@ -34,4 +34,4 @@ areas:
 <p class="apply-cta"><a href="https://forum.effectivealtruism.org/posts/hpBsjQPQehv5vtKi4/job-executive-director-of-ceealar-ea-hotel-1">Apply →</a></p>
 
 ---
-*Posted 2026-07-31 · Listing synced 2026-08-24 · 80k job ID `rec83dKdocRe6O989`*
+*Posted 2026-07-31 · Listing synced 2026-08-25 · 80k job ID `rec83dKdocRe6O989`*

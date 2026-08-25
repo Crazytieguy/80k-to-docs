@@ -2,7 +2,7 @@
 title: "AI Governance Taskforce (Autumn 2026)"
 employer: "Arcadia Impact"
 job_id: "recha8o4x9paYPfdX"
-last_updated: "2026-08-24T05:32:32.493612Z"
+last_updated: "2026-08-25T05:32:04.798248Z"
 posted_at: "2026-08-06T00:03:00Z"
 status: ready
 apply_url: "https://www.arcadiaimpact.org/ai-governance-taskforce"
@@ -33,4 +33,4 @@ areas:
 <p class="apply-cta"><a href="https://www.arcadiaimpact.org/ai-governance-taskforce">Apply →</a></p>
 
 ---
-*Posted 2026-08-06 · Listing synced 2026-08-24 · 80k job ID `recha8o4x9paYPfdX`*
+*Posted 2026-08-06 · Listing synced 2026-08-25 · 80k job ID `recha8o4x9paYPfdX`*

@@ -2,7 +2,7 @@
 title: "Principal Researcher, AI Risk Management"
 employer: "US Government, National Institute of Standards and Technology"
 job_id: "recdpwoN8ODhHUj3U"
-last_updated: "2026-08-24T05:32:09.364092Z"
+last_updated: "2026-08-25T05:31:42.660123Z"
 posted_at: "2026-08-20T00:05:00Z"
 status: ready
 apply_url: "https://www.usajobs.gov/job/881334900"
@@ -34,4 +34,4 @@ areas:
 <p class="apply-cta"><a href="https://www.usajobs.gov/job/881334900">Apply →</a></p>
 
 ---
-*Posted 2026-08-20 · Listing synced 2026-08-24 · 80k job ID `recdpwoN8ODhHUj3U`*
+*Posted 2026-08-20 · Listing synced 2026-08-25 · 80k job ID `recdpwoN8ODhHUj3U`*

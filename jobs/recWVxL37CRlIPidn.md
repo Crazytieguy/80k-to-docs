@@ -2,7 +2,7 @@
 title: "PhD Studentship, Trustworthy AI"
 employer: "University of Sheffield, School of Computer Science"
 job_id: "recWVxL37CRlIPidn"
-last_updated: "2026-08-24T05:32:29.985505Z"
+last_updated: "2026-08-25T05:32:02.086977Z"
 posted_at: "2026-08-10T00:00:00Z"
 status: ready
 apply_url: "https://www.jobs.ac.uk/job/DSL112/phd-studentship-post-quantum-zero-knowledge-proofs-and-trustworthy-ai?uuid=9265144d-8c82-11f1-9cb0-064da8edb92a&campaign=jbe20260731&source=jbe"
@@ -19,7 +19,7 @@ areas:
 <dt>Role type</dt><dd>Full-time</dd>
 <dt>Experience</dt><dd>Entry-level</dd>
 <dt>Degree</dt><dd>Master's degree</dd>
-<dt>Salary</dt><dd>$34,111</dd>
+<dt>Salary</dt><dd>$34,068</dd>
 </dl>
 
 **Areas & skills:** AI safety & policy, Research, Software engineering
@@ -32,4 +32,4 @@ areas:
 <p class="apply-cta"><a href="https://www.jobs.ac.uk/job/DSL112/phd-studentship-post-quantum-zero-knowledge-proofs-and-trustworthy-ai?uuid=9265144d-8c82-11f1-9cb0-064da8edb92a&amp;campaign=jbe20260731&amp;source=jbe">Apply →</a></p>
 
 ---
-*Posted 2026-08-10 · Listing synced 2026-08-24 · 80k job ID `recWVxL37CRlIPidn`*
+*Posted 2026-08-10 · Listing synced 2026-08-25 · 80k job ID `recWVxL37CRlIPidn`*

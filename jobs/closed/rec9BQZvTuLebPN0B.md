@@ -4,26 +4,21 @@ employer: "Oxford University, Department of Paediatrics"
 job_id: "rec9BQZvTuLebPN0B"
 last_updated: "2026-08-24T05:32:25.339406Z"
 posted_at: "2026-08-13T00:00:00Z"
-status: ready
+status: closed
+closed_at: "2026-08-25"
 apply_url: "https://my.corehr.com/pls/uoxrecruit/erq_jobspec_version_4.display_form?p_refresh_search=Y&p_recruitment_id=188051&p_form_profile_detail=&p_display_apply_ind=Y&p_process_type=&p_applicant_no=&p_company=10&p_internal_external=E&p_display_in_irish=N"
 areas:
   - "Biosecurity & pandemic preparedness"
   - "Global health & development"
 ---
 
+> ⚠️ **CLOSED on 2026-08-25** — this job is no longer listed on the 80,000 Hours board. Archived snapshot below.
+
 # Programme Manager, Emerging Pathogens (x2)
 
-**[Oxford University, Department of Paediatrics](https://www.paediatrics.ox.ac.uk/)**
+**Oxford University, Department of Paediatrics**
 
-<dl class="job-meta">
-<dt>Location</dt><dd>Oxford, UK, UK, UK (Confirmed Visas)</dd>
-<dt>Role type</dt><dd>Full-time</dd>
-<dt>Experience</dt><dd>Junior (1-4 years experience), Mid (5-9 years experience)</dd>
-<dt>Degree</dt><dd>Undergraduate degree or less</dd>
-<dt>Salary</dt><dd>$53,791 – $65,191</dd>
-</dl>
-
-**Areas & skills:** Biosecurity & pandemic preparedness, Global health & development, Operations
+**Areas & skills:** Biosecurity & pandemic preparedness, Global health & development
 
 ## Summary
 - In this role, you'll coordinate and lead delivery of complex vaccine research programmes across multiple teams and partners.

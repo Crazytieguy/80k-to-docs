@@ -2,7 +2,7 @@
 title: "Finance and Operations Associate"
 employer: "Ansh"
 job_id: "recUFgWSSELst92Oo"
-last_updated: "2026-08-24T05:32:13.956865Z"
+last_updated: "2026-08-25T05:31:46.401177Z"
 posted_at: "2026-08-19T00:00:00Z"
 status: ready
 apply_url: "https://www.ansh.health/copy-of-people-and-culture-manager"
@@ -19,7 +19,7 @@ areas:
 <dt>Role type</dt><dd>Full-time</dd>
 <dt>Experience</dt><dd>Junior (1-4 years experience)</dd>
 <dt>Degree</dt><dd>Undergraduate degree or less</dd>
-<dt>Salary</dt><dd>$4,703 – $7,315</dd>
+<dt>Salary</dt><dd>$4,700 – $7,312</dd>
 </dl>
 
 **Areas & skills:** Global health & development, Operations, Finance
@@ -34,4 +34,4 @@ areas:
 <p class="apply-cta"><a href="https://www.ansh.health/copy-of-people-and-culture-manager">Apply →</a></p>
 
 ---
-*Posted 2026-08-19 · Listing synced 2026-08-24 · 80k job ID `recUFgWSSELst92Oo`*
+*Posted 2026-08-19 · Listing synced 2026-08-25 · 80k job ID `recUFgWSSELst92Oo`*

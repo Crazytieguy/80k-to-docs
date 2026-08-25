@@ -4,25 +4,20 @@ employer: "University of London, School of Hygiene and Tropical Medicine"
 job_id: "recqQPbgQgDzm7Pbt"
 last_updated: "2026-08-24T05:32:27.883149Z"
 posted_at: "2026-08-11T00:00:00Z"
-status: ready
+status: closed
+closed_at: "2026-08-25"
 apply_url: "https://jobs.lshtm.ac.uk/vacancy.aspx?ref=EPH-EPIH-2026-09"
 areas:
   - "Global health & development"
 ---
 
+> ⚠️ **CLOSED on 2026-08-25** — this job is no longer listed on the 80,000 Hours board. Archived snapshot below.
+
 # Research Fellow, Malaria Vector Control
 
-**[University of London, School of Hygiene and Tropical Medicine](https://www.lshtm.ac.uk/research/faculties/eph/ide)**
+**University of London, School of Hygiene and Tropical Medicine**
 
-<dl class="job-meta">
-<dt>Location</dt><dd>London, UK, UK, UK (Confirmed Visas)</dd>
-<dt>Role type</dt><dd>Fellowship</dd>
-<dt>Experience</dt><dd>Junior (1-4 years experience)</dd>
-<dt>Degree</dt><dd>Master's degree</dd>
-<dt>Salary</dt><dd>$62,393 – $70,715</dd>
-</dl>
-
-**Areas & skills:** Global health & development, Research
+**Areas & skills:** Global health & development
 
 ## Summary
 - In this role, you'll support epidemiological and statistical components of two malaria vector control studies in Côte d'Ivoire and Djibouti.

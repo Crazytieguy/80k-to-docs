@@ -4,24 +4,20 @@ employer: "Google DeepMind"
 job_id: "recS6yXppmlIPPHFM"
 last_updated: "2026-08-24T05:32:48.807828Z"
 posted_at: "2026-07-27T00:00:00Z"
-status: ready
+status: closed
+closed_at: "2026-08-25"
 apply_url: "https://www.google.com/about/careers/applications/jobs/results/136315616641327814-research-engineer-safety-oversight-deepmind?company=DeepMind"
 areas:
   - "AI safety & policy"
 ---
 
+> ⚠️ **CLOSED on 2026-08-25** — this job is no longer listed on the 80,000 Hours board. Archived snapshot below.
+
 # Research Engineer, Safety Oversight, London
 
-**[Google DeepMind](https://www.deepmind.com)**
+**Google DeepMind**
 
-<dl class="job-meta">
-<dt>Location</dt><dd>London, UK, UK</dd>
-<dt>Role type</dt><dd>Full-time</dd>
-<dt>Experience</dt><dd>Junior (1-4 years experience)</dd>
-<dt>Degree</dt><dd>Undergraduate degree or less</dd>
-</dl>
-
-**Areas & skills:** AI safety & policy, Research, Software engineering
+**Areas & skills:** AI safety & policy
 
 ## Summary
 - In this role, you'll monitor safety and alignment of deployed AI models using production data and automated evaluation.

@@ -2,7 +2,7 @@
 title: "Member of Technical Staff, Secure Intelligence Institute"
 employer: "Perplexity"
 job_id: "recknwl9pabXG1Hrl"
-last_updated: "2026-08-24T05:32:25.484278Z"
+last_updated: "2026-08-25T05:31:57.268308Z"
 posted_at: "2026-08-13T00:00:00Z"
 status: ready
 apply_url: "https://jobs.ashbyhq.com/Perplexity/32a36cae-ad73-4198-9354-a72b141ff055?departmentId=a79fe0ab-60c9-4290-9c70-ed80523466ec&refId=55zcgpMGEugQ9XMUHU84gw%3D%3D&trackingId=SgAvi5z%2FGT4lmLI71PCnvA%3D%3D"
@@ -34,4 +34,4 @@ areas:
 <p class="apply-cta"><a href="https://jobs.ashbyhq.com/Perplexity/32a36cae-ad73-4198-9354-a72b141ff055?departmentId=a79fe0ab-60c9-4290-9c70-ed80523466ec&amp;refId=55zcgpMGEugQ9XMUHU84gw%3D%3D&amp;trackingId=SgAvi5z%2FGT4lmLI71PCnvA%3D%3D">Apply →</a></p>
 
 ---
-*Posted 2026-08-13 · Listing synced 2026-08-24 · 80k job ID `recknwl9pabXG1Hrl`*
+*Posted 2026-08-13 · Listing synced 2026-08-25 · 80k job ID `recknwl9pabXG1Hrl`*

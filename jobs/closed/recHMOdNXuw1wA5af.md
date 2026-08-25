@@ -4,25 +4,20 @@ employer: "Apollo Research"
 job_id: "recHMOdNXuw1wA5af"
 last_updated: "2026-08-24T05:32:56.276206Z"
 posted_at: "2026-07-13T00:04:51Z"
-status: ready
+status: closed
+closed_at: "2026-08-25"
 apply_url: "https://jobs.lever.co/apolloresearch/31f2ed32-2f83-4fa5-826b-9d2baaa260a6"
 areas:
   - "AI safety & policy"
 ---
 
+> ⚠️ **CLOSED on 2026-08-25** — this job is no longer listed on the 80,000 Hours board. Archived snapshot below.
+
 # Office Manager
 
-**[Apollo Research](https://www.apolloresearch.ai/)**
+**Apollo Research**
 
-<dl class="job-meta">
-<dt>Location</dt><dd>San Francisco Bay Area, USA</dd>
-<dt>Role type</dt><dd>Part-time</dd>
-<dt>Experience</dt><dd>Junior (1-4 years experience)</dd>
-<dt>Degree</dt><dd>Undergraduate degree or less</dd>
-<dt>Salary</dt><dd>$72,800 – $93,600</dd>
-</dl>
-
-**Areas & skills:** AI safety & policy, Operations
+**Areas & skills:** AI safety & policy
 
 ## Summary
 - In this role, you'll manage Apollo's San Francisco office and build their Bay Area presence.

@@ -2,7 +2,7 @@
 title: "Neel Nanda Stream, MATS Program (Winter 2026)"
 employer: "MATS Research"
 job_id: "recNzAJ6dCb00x5Q1"
-last_updated: "2026-08-24T05:32:26.955283Z"
+last_updated: "2026-08-25T05:31:58.877514Z"
 posted_at: "2026-08-11T00:05:00Z"
 status: ready
 apply_url: "https://docs.google.com/document/d/1p-ggQV3vVWIQuCccXEl1fD0thJOgXimlbBpGk6FI32I/preview?pru=AAABoBC1GAk*DajUuyOf8ZFtJzgCg7JalA&tab=t.0#heading=h.y0ohi6l5z9qn"
@@ -34,4 +34,4 @@ areas:
 <p class="apply-cta"><a href="https://docs.google.com/document/d/1p-ggQV3vVWIQuCccXEl1fD0thJOgXimlbBpGk6FI32I/preview?pru=AAABoBC1GAk*DajUuyOf8ZFtJzgCg7JalA&amp;tab=t.0#heading=h.y0ohi6l5z9qn">Apply →</a></p>
 
 ---
-*Posted 2026-08-11 · Listing synced 2026-08-24 · 80k job ID `recNzAJ6dCb00x5Q1`*
+*Posted 2026-08-11 · Listing synced 2026-08-25 · 80k job ID `recNzAJ6dCb00x5Q1`*

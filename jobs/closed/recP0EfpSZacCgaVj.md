@@ -4,25 +4,20 @@ employer: "California Council on Science and Technology"
 job_id: "recP0EfpSZacCgaVj"
 last_updated: "2026-08-24T05:32:35.449220Z"
 posted_at: "2026-08-05T00:00:00Z"
-status: ready
+status: closed
+closed_at: "2026-08-25"
 apply_url: "https://ccst.us/program-associate-ai-science-residency-program/"
 areas:
   - "AI safety & policy"
 ---
 
+> ⚠️ **CLOSED on 2026-08-25** — this job is no longer listed on the 80,000 Hours board. Archived snapshot below.
+
 # Program Associate, AI Science Residency Program
 
-**[California Council on Science and Technology](https://ccst.us/)**
+**California Council on Science and Technology**
 
-<dl class="job-meta">
-<dt>Location</dt><dd>Sacramento, CA, USA</dd>
-<dt>Role type</dt><dd>Full-time</dd>
-<dt>Experience</dt><dd>Junior (1-4 years experience), Entry-level</dd>
-<dt>Degree</dt><dd>Undergraduate degree or less</dd>
-<dt>Salary</dt><dd>$50,000 – $60,000</dd>
-</dl>
-
-**Areas & skills:** AI safety & policy, Operations
+**Areas & skills:** AI safety & policy
 
 ## Summary
 - In this role, you'll provide programmatic and logistical support for the AI Science Residency and Policy Fellowship Programs, which will help ensure the smooth operation of activities that equip California policymakers with the scientific and technological knowledge needed to strengthen evidence-based state policy.

@@ -2,7 +2,7 @@
 title: "Head of Finance and Business Services"
 employer: "UK Government, AI Security Institute"
 job_id: "rec1Wt9yXL46AX9MC"
-last_updated: "2026-08-24T05:32:19.210354Z"
+last_updated: "2026-08-25T05:31:51.477076Z"
 posted_at: "2026-08-17T00:05:00Z"
 status: ready
 apply_url: "https://www.civilservicejobs.service.gov.uk/csr/index.cgi?SID=b3duZXI9NTA3MDAwMCZzZWFyY2hwYWdlPTEmam9ibGlzdF92aWV3X3ZhYz0yMDA5NDY1JnVzZXJzZWFyY2hjb250ZXh0PTIwNDMyNjYyNyZwYWdlYWN0aW9uPXZpZXd2YWNieWpvYmxpc3QmcGFnZWNsYXNzPUpvYnMmc2VhcmNoc29ydD1zY29yZSZvd25lcnR5cGU9ZmFpciZyZXFzaWc9MTc4NjcyOTUyNS1iZDUyZWUyZTQwYzUwNGQxMTM1Mzk3MjAzMWFkMmI2MDEwNTRmYjA2"
@@ -19,7 +19,7 @@ areas:
 <dt>Role type</dt><dd>Full-time</dd>
 <dt>Experience</dt><dd>Mid (5-9 years experience)</dd>
 <dt>Degree</dt><dd>Undergraduate degree or less</dd>
-<dt>Salary</dt><dd>$95,067</dd>
+<dt>Salary</dt><dd>$94,948</dd>
 </dl>
 
 **Areas & skills:** AI safety & policy, Operations, Management, Finance
@@ -34,4 +34,4 @@ areas:
 <p class="apply-cta"><a href="https://www.civilservicejobs.service.gov.uk/csr/index.cgi?SID=b3duZXI9NTA3MDAwMCZzZWFyY2hwYWdlPTEmam9ibGlzdF92aWV3X3ZhYz0yMDA5NDY1JnVzZXJzZWFyY2hjb250ZXh0PTIwNDMyNjYyNyZwYWdlYWN0aW9uPXZpZXd2YWNieWpvYmxpc3QmcGFnZWNsYXNzPUpvYnMmc2VhcmNoc29ydD1zY29yZSZvd25lcnR5cGU9ZmFpciZyZXFzaWc9MTc4NjcyOTUyNS1iZDUyZWUyZTQwYzUwNGQxMTM1Mzk3MjAzMWFkMmI2MDEwNTRmYjA2">Apply →</a></p>
 
 ---
-*Posted 2026-08-17 · Listing synced 2026-08-24 · 80k job ID `rec1Wt9yXL46AX9MC`*
+*Posted 2026-08-17 · Listing synced 2026-08-25 · 80k job ID `rec1Wt9yXL46AX9MC`*

@@ -2,7 +2,7 @@
 title: "Bulletin Editorial Fellow"
 employer: "University of Chicago, Bulletin of the Atomic Scientists"
 job_id: "recE0lViFgUstcCvb"
-last_updated: "2026-08-24T05:32:30.491511Z"
+last_updated: "2026-08-25T05:32:02.508598Z"
 posted_at: "2026-08-07T00:03:00Z"
 status: ready
 apply_url: "https://thebulletin.org/2026/08/apply-to-be-a-2026-bulletin-editorial-fellow/"
@@ -34,4 +34,4 @@ areas:
 <p class="apply-cta"><a href="https://thebulletin.org/2026/08/apply-to-be-a-2026-bulletin-editorial-fellow/">Apply →</a></p>
 
 ---
-*Posted 2026-08-07 · Listing synced 2026-08-24 · 80k job ID `recE0lViFgUstcCvb`*
+*Posted 2026-08-07 · Listing synced 2026-08-25 · 80k job ID `recE0lViFgUstcCvb`*

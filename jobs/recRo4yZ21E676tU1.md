@@ -2,7 +2,7 @@
 title: "Technical Programme Manager, Cyber and Autonomous Systems"
 employer: "UK Government, AI Security Institute"
 job_id: "recRo4yZ21E676tU1"
-last_updated: "2026-08-24T05:32:25.885522Z"
+last_updated: "2026-08-25T05:31:57.682171Z"
 posted_at: "2026-08-12T00:05:00Z"
 status: ready
 apply_url: "https://job-boards.eu.greenhouse.io/aisi/jobs/4948729101"
@@ -19,7 +19,7 @@ areas:
 <dt>Role type</dt><dd>Full-time</dd>
 <dt>Experience</dt><dd>Multiple experience levels</dd>
 <dt>Degree</dt><dd>Undergraduate degree or less</dd>
-<dt>Salary</dt><dd>$88,688 – $197,843</dd>
+<dt>Salary</dt><dd>$88,577 – $197,596</dd>
 </dl>
 
 **Areas & skills:** AI safety & policy, Operations, Strategy
@@ -34,4 +34,4 @@ areas:
 <p class="apply-cta"><a href="https://job-boards.eu.greenhouse.io/aisi/jobs/4948729101">Apply →</a></p>
 
 ---
-*Posted 2026-08-12 · Listing synced 2026-08-24 · 80k job ID `recRo4yZ21E676tU1`*
+*Posted 2026-08-12 · Listing synced 2026-08-25 · 80k job ID `recRo4yZ21E676tU1`*

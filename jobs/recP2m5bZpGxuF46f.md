@@ -2,7 +2,7 @@
 title: "Analyst, Institutional Programs and Partnerships"
 employer: "Sociedade Vegetariana Brasileira"
 job_id: "recP2m5bZpGxuF46f"
-last_updated: "2026-08-24T05:32:32.075214Z"
+last_updated: "2026-08-25T05:32:04.365843Z"
 posted_at: "2026-08-07T00:00:00Z"
 status: ready
 apply_url: "https://svb.org.br/junte-se-a-nos/trabalhe-com-a-gente/"
@@ -33,4 +33,4 @@ areas:
 <p class="apply-cta"><a href="https://svb.org.br/junte-se-a-nos/trabalhe-com-a-gente/">Apply →</a></p>
 
 ---
-*Posted 2026-08-07 · Listing synced 2026-08-24 · 80k job ID `recP2m5bZpGxuF46f`*
+*Posted 2026-08-07 · Listing synced 2026-08-25 · 80k job ID `recP2m5bZpGxuF46f`*
