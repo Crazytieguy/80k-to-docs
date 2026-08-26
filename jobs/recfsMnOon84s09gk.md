@@ -2,7 +2,7 @@
 title: "Software Engineer"
 employer: "Gray Swan"
 job_id: "recfsMnOon84s09gk"
-last_updated: "2026-08-25T05:32:11.407181Z"
+last_updated: "2026-08-26T05:32:17.204969Z"
 posted_at: "2026-08-03T00:00:00Z"
 status: ready
 apply_url: "https://jobs.ashbyhq.com/Gray%20Swan%20AI/2edf0f4c-d356-41da-a7b8-9b54e95f140c"
@@ -34,4 +34,4 @@ areas:
 <p class="apply-cta"><a href="https://jobs.ashbyhq.com/Gray%20Swan%20AI/2edf0f4c-d356-41da-a7b8-9b54e95f140c">Apply →</a></p>
 
 ---
-*Posted 2026-08-03 · Listing synced 2026-08-25 · 80k job ID `recfsMnOon84s09gk`*
+*Posted 2026-08-03 · Listing synced 2026-08-26 · 80k job ID `recfsMnOon84s09gk`*

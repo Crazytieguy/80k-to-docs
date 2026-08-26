@@ -2,7 +2,7 @@
 title: "Community Associate"
 employer: "Founders Pledge"
 job_id: "recfD94zXrIfLEL9I"
-last_updated: "2026-08-25T05:31:52.588443Z"
+last_updated: "2026-08-26T05:31:57.454716Z"
 posted_at: "2026-08-17T00:01:00Z"
 status: ready
 apply_url: "https://careers.founderspledge.com/jobs/8213067-community-associate"
@@ -34,4 +34,4 @@ areas:
 <p class="apply-cta"><a href="https://careers.founderspledge.com/jobs/8213067-community-associate">Apply →</a></p>
 
 ---
-*Posted 2026-08-17 · Listing synced 2026-08-25 · 80k job ID `recfD94zXrIfLEL9I`*
+*Posted 2026-08-17 · Listing synced 2026-08-26 · 80k job ID `recfD94zXrIfLEL9I`*

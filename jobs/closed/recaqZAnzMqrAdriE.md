@@ -4,25 +4,20 @@ employer: "Microsoft"
 job_id: "recaqZAnzMqrAdriE"
 last_updated: "2026-08-25T05:32:03.742988Z"
 posted_at: "2026-08-07T00:00:00Z"
-status: ready
+status: closed
+closed_at: "2026-08-26"
 apply_url: "https://apply.careers.microsoft.com/careers/job/1970393556943706"
 areas:
   - "AI safety & policy"
 ---
 
+> ⚠️ **CLOSED on 2026-08-26** — this job is no longer listed on the 80,000 Hours board. Archived snapshot below.
+
 # AI Security Researcher
 
-**[Microsoft](https://www.microsoft.com/en-us/about/company)**
+**Microsoft**
 
-<dl class="job-meta">
-<dt>Location</dt><dd>Seattle metro area, USA</dd>
-<dt>Role type</dt><dd>Full-time</dd>
-<dt>Experience</dt><dd>Junior (1-4 years experience), Entry-level</dd>
-<dt>Degree</dt><dd>Undergraduate degree or less</dd>
-<dt>Salary</dt><dd>$102,100 – $219,200</dd>
-</dl>
-
-**Areas & skills:** AI safety & policy, Information security
+**Areas & skills:** AI safety & policy
 
 ## Summary
 - In this role, you'll investigate security risks and failure modes in agentic AI systems and develop evaluation methods.

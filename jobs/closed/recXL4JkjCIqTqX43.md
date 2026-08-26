@@ -4,25 +4,20 @@ employer: "10a Labs"
 job_id: "recXL4JkjCIqTqX43"
 last_updated: "2026-08-25T05:33:01.112200Z"
 posted_at: "2022-01-06T00:00:00Z"
-status: ready
+status: closed
+closed_at: "2026-08-26"
 apply_url: "https://job-boards.greenhouse.io/10alabs/jobs/4273684009"
 areas:
   - "AI safety & policy"
 ---
 
+> ⚠️ **CLOSED on 2026-08-26** — this job is no longer listed on the 80,000 Hours board. Archived snapshot below.
+
 # Red Teaming Fellowship
 
-**[10a Labs](https://10alabs.com/)**
+**10a Labs**
 
-<dl class="job-meta">
-<dt>Location</dt><dd>Washington, DC metro area, USA</dd>
-<dt>Role type</dt><dd>Fellowship</dd>
-<dt>Experience</dt><dd>Entry-level</dd>
-<dt>Degree</dt><dd>Undergraduate degree or less</dd>
-<dt>Salary</dt><dd>$52,000 – $67,600</dd>
-</dl>
-
-**Areas & skills:** AI safety & policy, Research, Information security
+**Areas & skills:** AI safety & policy
 
 ## Summary
 - In this role, you'll conduct adversarial testing of AI systems to identify vulnerabilities and safety risks.

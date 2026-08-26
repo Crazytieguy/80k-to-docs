@@ -4,24 +4,20 @@ employer: "Imperial College London, Department of Infectious Disease"
 job_id: "recsp9lNZ7ZiDZz3N"
 last_updated: "2026-08-25T05:31:39.746696Z"
 posted_at: "2026-08-24T00:02:00Z"
-status: ready
+status: closed
+closed_at: "2026-08-26"
 apply_url: "https://www.imperial.ac.uk/jobs/search-jobs/description/index.php?nPostingID=18089&nPostingTargetID=28920&ID=PMMFK026203F3VBQB8NLOV4CQ"
 areas:
   - "Biosecurity & pandemic preparedness"
 ---
 
+> ⚠️ **CLOSED on 2026-08-26** — this job is no longer listed on the 80,000 Hours board. Archived snapshot below.
+
 # Research Associate, Glycol Vapour
 
-**[Imperial College London, Department of Infectious Disease](https://www.imperial.ac.uk/infectious-disease)**
+**Imperial College London, Department of Infectious Disease**
 
-<dl class="job-meta">
-<dt>Location</dt><dd>London, UK, UK</dd>
-<dt>Role type</dt><dd>Full-time</dd>
-<dt>Experience</dt><dd>Junior (1-4 years experience)</dd>
-<dt>Degree</dt><dd>Doctoral degree</dd>
-</dl>
-
-**Areas & skills:** Biosecurity & pandemic preparedness, Research
+**Areas & skills:** Biosecurity & pandemic preparedness
 
 ## Summary
 - Contribute to a research programme to investigate how effectively vapourised glycols can block influenza transmission in a variety of animal and cellular models.

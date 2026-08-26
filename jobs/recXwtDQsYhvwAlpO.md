@@ -2,7 +2,7 @@
 title: "Machine Learning Engineer"
 employer: "10a Labs"
 job_id: "recXwtDQsYhvwAlpO"
-last_updated: "2026-08-25T05:33:00.974615Z"
+last_updated: "2026-08-26T05:33:05.566409Z"
 posted_at: "2022-01-06T00:00:00Z"
 status: ready
 apply_url: "https://job-boards.greenhouse.io/10alabs/jobs/4273194009"
@@ -25,13 +25,13 @@ areas:
 **Areas & skills:** AI safety & policy, Research, Software engineering, Information security
 
 ## Summary
-- In this role, you'll design, train, and deploy machine learning systems for AI safety, security, and intelligence applications.
-- Develop classification systems for safety and abuse detection across text, image, audio, and multimodal domains.
-- Conduct experiments to benchmark, evaluate, and compare frontier AI models, including large language models.
-- Build agentic systems and automated workflows for evaluation, red teaming, and large-scale research.
-- Own projects from research and prototyping through production deployment, providing technical expertise.
+- In this role, you will design, build, and evaluate advanced machine learning systems across AI safety and model evaluation applications.
+- Design and run ML experiments to evaluate the capabilities, behavior, robustness, and limitations of advanced AI systems.
+- Develop and evaluate models across reinforcement learning, NLP/LLMs, computer vision, and multimodal ML.
+- Build evaluation pipelines, benchmarks, datasets, and metrics for frontier AI systems.
+- Train, fine-tune, and evaluate models for safety, security, and other high-impact applications.
 
 <p class="apply-cta"><a href="https://job-boards.greenhouse.io/10alabs/jobs/4273194009">Apply →</a></p>
 
 ---
-*Posted 2022-01-06 · Listing synced 2026-08-25 · 80k job ID `recXwtDQsYhvwAlpO`*
+*Posted 2022-01-06 · Listing synced 2026-08-26 · 80k job ID `recXwtDQsYhvwAlpO`*

@@ -2,7 +2,7 @@
 title: "Opportunities, East Africa"
 employer: "Innovations for Poverty Action"
 job_id: "recZ4zOWQbJSz7yNZ"
-last_updated: "2026-08-25T05:33:32.604172Z"
+last_updated: "2026-08-26T05:33:37.451690Z"
 posted_at: "2022-01-02T00:00:00Z"
 status: ready
 apply_url: "https://poverty-action.org/current-opportunities#:~:text=Senior%20Program%20Associate-,East%20Africa,-Kenya"
@@ -30,4 +30,4 @@ areas:
 <p class="apply-cta"><a href="https://poverty-action.org/current-opportunities#:~:text=Senior%20Program%20Associate-,East%20Africa,-Kenya">Apply →</a></p>
 
 ---
-*Posted 2022-01-02 · Listing synced 2026-08-25 · 80k job ID `recZ4zOWQbJSz7yNZ`*
+*Posted 2022-01-02 · Listing synced 2026-08-26 · 80k job ID `recZ4zOWQbJSz7yNZ`*

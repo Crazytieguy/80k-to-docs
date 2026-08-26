@@ -2,7 +2,7 @@
 title: "Research Engineer, AI Verification"
 employer: "SASH"
 job_id: "recHhmvGhncsHJio3"
-last_updated: "2026-08-25T05:32:37.214124Z"
+last_updated: "2026-08-26T05:32:42.383878Z"
 posted_at: "2026-06-30T00:02:00Z"
 status: ready
 apply_url: "https://jobs.ashbyhq.com/SASH/20376c88-0866-4f66-944d-295c4d081f14"
@@ -34,4 +34,4 @@ areas:
 <p class="apply-cta"><a href="https://jobs.ashbyhq.com/SASH/20376c88-0866-4f66-944d-295c4d081f14">Apply →</a></p>
 
 ---
-*Posted 2026-06-30 · Listing synced 2026-08-25 · 80k job ID `recHhmvGhncsHJio3`*
+*Posted 2026-06-30 · Listing synced 2026-08-26 · 80k job ID `recHhmvGhncsHJio3`*

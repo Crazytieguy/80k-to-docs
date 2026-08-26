@@ -2,7 +2,7 @@
 title: "Community and Events Associate"
 employer: "Collider"
 job_id: "recobWofgSaHaIlku"
-last_updated: "2026-08-25T05:31:40.391832Z"
+last_updated: "2026-08-26T05:31:46.661314Z"
 posted_at: "2026-08-24T00:00:00Z"
 status: ready
 apply_url: "https://jobs.ashbyhq.com/collider/476bfda5-1ac9-4cba-a9f9-013cbe27f06f"
@@ -34,4 +34,4 @@ areas:
 <p class="apply-cta"><a href="https://jobs.ashbyhq.com/collider/476bfda5-1ac9-4cba-a9f9-013cbe27f06f">Apply →</a></p>
 
 ---
-*Posted 2026-08-24 · Listing synced 2026-08-25 · 80k job ID `recobWofgSaHaIlku`*
+*Posted 2026-08-24 · Listing synced 2026-08-26 · 80k job ID `recobWofgSaHaIlku`*

@@ -2,7 +2,7 @@
 title: "Technical AI Safety Project Sprint"
 employer: "BlueDot Impact"
 job_id: "recZ5UmT0PHIlDjiM"
-last_updated: "2026-08-25T05:33:03.879231Z"
+last_updated: "2026-08-26T05:33:09.228100Z"
 posted_at: "2022-01-06T00:00:00Z"
 status: ready
 apply_url: "https://bluedot.org/courses/technical-ai-safety-project"
@@ -32,4 +32,4 @@ areas:
 <p class="apply-cta"><a href="https://bluedot.org/courses/technical-ai-safety-project">Apply →</a></p>
 
 ---
-*Posted 2022-01-06 · Listing synced 2026-08-25 · 80k job ID `recZ5UmT0PHIlDjiM`*
+*Posted 2022-01-06 · Listing synced 2026-08-26 · 80k job ID `recZ5UmT0PHIlDjiM`*

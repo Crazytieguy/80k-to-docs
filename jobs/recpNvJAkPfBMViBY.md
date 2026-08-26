@@ -2,7 +2,7 @@
 title: "Staff Analyst, Nuclear Weapons Council"
 employer: "Anser (US government role)"
 job_id: "recpNvJAkPfBMViBY"
-last_updated: "2026-08-25T05:32:02.798898Z"
+last_updated: "2026-08-26T05:32:09.127301Z"
 posted_at: "2026-08-07T00:00:00Z"
 status: ready
 apply_url: "https://www.anser.org/job/?id=5376249008"
@@ -34,4 +34,4 @@ areas:
 <p class="apply-cta"><a href="https://www.anser.org/job/?id=5376249008">Apply →</a></p>
 
 ---
-*Posted 2026-08-07 · Listing synced 2026-08-25 · 80k job ID `recpNvJAkPfBMViBY`*
+*Posted 2026-08-07 · Listing synced 2026-08-26 · 80k job ID `recpNvJAkPfBMViBY`*

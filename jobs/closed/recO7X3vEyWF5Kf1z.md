@@ -4,25 +4,20 @@ employer: "The Good Food Institute"
 job_id: "recO7X3vEyWF5Kf1z"
 last_updated: "2026-08-25T05:32:19.441473Z"
 posted_at: "2026-07-29T00:00:00Z"
-status: ready
+status: closed
+closed_at: "2026-08-26"
 apply_url: "https://job-boards.greenhouse.io/thegoodfoodinstitute80/jobs/8653980002"
 areas:
   - "Animal welfare"
 ---
 
+> ⚠️ **CLOSED on 2026-08-26** — this job is no longer listed on the 80,000 Hours board. Archived snapshot below.
+
 # Scientific Community-Building Fellow
 
-**[The Good Food Institute](https://www.gfi.org)**
+**The Good Food Institute**
 
-<dl class="job-meta">
-<dt>Location</dt><dd>Remote, USA, USA</dd>
-<dt>Role type</dt><dd>Fellowship</dd>
-<dt>Experience</dt><dd>Junior (1-4 years experience), Entry-level</dd>
-<dt>Degree</dt><dd>Undergraduate degree or less</dd>
-<dt>Salary</dt><dd>$62,400</dd>
-</dl>
-
-**Areas & skills:** Animal welfare, Outreach
+**Areas & skills:** Animal welfare
 
 ## Summary
 - In this role, you'll build the plant-based meat research community by engaging professionals in physical sciences and engineering disciplines outside food science.

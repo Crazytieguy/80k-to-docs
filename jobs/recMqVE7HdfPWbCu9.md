@@ -2,7 +2,7 @@
 title: "Expression of Interest, Founder of AI Safety Group"
 employer: "European Network For AI Safety"
 job_id: "recMqVE7HdfPWbCu9"
-last_updated: "2026-08-25T05:33:17.808138Z"
+last_updated: "2026-08-26T05:33:22.609128Z"
 posted_at: "2022-01-05T00:00:00Z"
 status: ready
 apply_url: "https://forum.effectivealtruism.org/posts/7u2eyYPAGbbuxa7TY/start-an-ais-safety-field-building-organization-at-the-city"
@@ -30,4 +30,4 @@ areas:
 <p class="apply-cta"><a href="https://forum.effectivealtruism.org/posts/7u2eyYPAGbbuxa7TY/start-an-ais-safety-field-building-organization-at-the-city">Apply →</a></p>
 
 ---
-*Posted 2022-01-05 · Listing synced 2026-08-25 · 80k job ID `recMqVE7HdfPWbCu9`*
+*Posted 2022-01-05 · Listing synced 2026-08-26 · 80k job ID `recMqVE7HdfPWbCu9`*

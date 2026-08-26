@@ -2,7 +2,7 @@
 title: "AI Integration Lead"
 employer: "Rethink Priorities"
 job_id: "recBK4I1wIN72Ux39"
-last_updated: "2026-08-25T05:31:40.014280Z"
+last_updated: "2026-08-26T05:31:46.259409Z"
 posted_at: "2026-08-24T00:01:00Z"
 status: ready
 apply_url: "https://careers.rethinkpriorities.org/en/postings/47a59076-cc1a-4426-b658-ba4e087918f6"
@@ -33,4 +33,4 @@ areas:
 <p class="apply-cta"><a href="https://careers.rethinkpriorities.org/en/postings/47a59076-cc1a-4426-b658-ba4e087918f6">Apply →</a></p>
 
 ---
-*Posted 2026-08-24 · Listing synced 2026-08-25 · 80k job ID `recBK4I1wIN72Ux39`*
+*Posted 2026-08-24 · Listing synced 2026-08-26 · 80k job ID `recBK4I1wIN72Ux39`*

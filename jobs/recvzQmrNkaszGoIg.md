@@ -2,7 +2,7 @@
 title: "Research Scientist, Takeoff Intel"
 employer: "Anthropic"
 job_id: "recvzQmrNkaszGoIg"
-last_updated: "2026-08-25T05:32:09.948546Z"
+last_updated: "2026-08-26T05:32:15.576369Z"
 posted_at: "2026-08-04T00:00:00Z"
 status: ready
 apply_url: "https://job-boards.greenhouse.io/anthropic/jobs/5370669008"
@@ -34,4 +34,4 @@ areas:
 <p class="apply-cta"><a href="https://job-boards.greenhouse.io/anthropic/jobs/5370669008">Apply →</a></p>
 
 ---
-*Posted 2026-08-04 · Listing synced 2026-08-25 · 80k job ID `recvzQmrNkaszGoIg`*
+*Posted 2026-08-04 · Listing synced 2026-08-26 · 80k job ID `recvzQmrNkaszGoIg`*

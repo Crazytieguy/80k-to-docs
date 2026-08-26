@@ -4,25 +4,20 @@ employer: "Council on Foreign Relations"
 job_id: "rec6Qkr8XIktzb2dR"
 last_updated: "2026-08-25T05:33:26.358987Z"
 posted_at: "2022-01-03T00:00:00Z"
-status: ready
+status: closed
+closed_at: "2026-08-26"
 apply_url: "https://careers-cfr.icims.com/jobs/2928/research-associate%2c-china-strategy-initiative/job?in_iframe=1"
 areas:
   - "Career development: Policy & government"
 ---
 
+> ⚠️ **CLOSED on 2026-08-26** — this job is no longer listed on the 80,000 Hours board. Archived snapshot below.
+
 # Research Associate, China Strategy Initiative
 
-**[Council on Foreign Relations](https://cfr.org)**
+**Council on Foreign Relations**
 
-<dl class="job-meta">
-<dt>Location</dt><dd>Washington, DC metro area, USA</dd>
-<dt>Role type</dt><dd>Full-time</dd>
-<dt>Experience</dt><dd>Junior (1-4 years experience), Entry-level</dd>
-<dt>Degree</dt><dd>Undergraduate degree or less</dd>
-<dt>Salary</dt><dd>$55,000 – $58,000</dd>
-</dl>
-
-**Areas & skills:** Career development: Policy & government, Research, Policy, Operations
+**Areas & skills:** Career development: Policy & government
 
 ## Summary
 - In this role, you'll support the China Strategy Initiative through research, administration, and event coordination.

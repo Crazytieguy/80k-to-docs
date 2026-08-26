@@ -2,10 +2,10 @@
 title: "List of Internship Opportunities, U.S. House of Representatives"
 employer: "US Government, Congress"
 job_id: "reczKcUpaW7OS0Yfl"
-last_updated: "2026-08-25T05:31:50.766960Z"
-posted_at: "2026-08-18T00:00:00Z"
+last_updated: "2026-08-26T05:31:43.712440Z"
+posted_at: "2026-08-25T00:00:00Z"
 status: ready
-apply_url: "https://drive.google.com/file/d/1oY6m-bRHG0CwBQmh8W4OXimM6YV6H483/view?usp=sharing"
+apply_url: "https://drive.google.com/file/d/1x4RJeYYXoFDoi-FMnQF4raI1xU_4WN44/view?usp=sharing"
 areas:
   - "Congressional staffer"
   - "Career development: Policy & government"
@@ -28,7 +28,7 @@ areas:
 - You can find internship opportunities working in offices within the United States House of Representatives in the following bulletin (which is updated every week).
 - Click "View Full List" to go to the listings, or you can [subscribe directly to the bulletin](https://www.house.gov/employment/positions-with-members-and-committees/subscribe-to-the-house-employment-bulletin).
 
-<p class="apply-cta"><a href="https://drive.google.com/file/d/1oY6m-bRHG0CwBQmh8W4OXimM6YV6H483/view?usp=sharing">Apply →</a></p>
+<p class="apply-cta"><a href="https://drive.google.com/file/d/1x4RJeYYXoFDoi-FMnQF4raI1xU_4WN44/view?usp=sharing">Apply →</a></p>
 
 ---
-*Posted 2026-08-18 · Listing synced 2026-08-25 · 80k job ID `reczKcUpaW7OS0Yfl`*
+*Posted 2026-08-25 · Listing synced 2026-08-26 · 80k job ID `reczKcUpaW7OS0Yfl`*

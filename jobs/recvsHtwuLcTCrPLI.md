@@ -2,7 +2,7 @@
 title: "Recruiter"
 employer: "SL5 Task Force"
 job_id: "recvsHtwuLcTCrPLI"
-last_updated: "2026-08-25T05:31:48.191966Z"
+last_updated: "2026-08-26T05:31:53.887839Z"
 posted_at: "2026-08-18T00:02:00Z"
 status: ready
 apply_url: "https://jobs.ashbyhq.com/security-level-5/d5682040-87a6-4006-88b7-73a0feb0a37d?embed=js"
@@ -34,4 +34,4 @@ areas:
 <p class="apply-cta"><a href="https://jobs.ashbyhq.com/security-level-5/d5682040-87a6-4006-88b7-73a0feb0a37d?embed=js">Apply →</a></p>
 
 ---
-*Posted 2026-08-18 · Listing synced 2026-08-25 · 80k job ID `recvsHtwuLcTCrPLI`*
+*Posted 2026-08-18 · Listing synced 2026-08-26 · 80k job ID `recvsHtwuLcTCrPLI`*

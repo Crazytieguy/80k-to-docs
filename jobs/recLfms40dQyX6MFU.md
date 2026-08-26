@@ -2,7 +2,7 @@
 title: "Head of AI Red Teaming"
 employer: "Trajectory Labs"
 job_id: "recLfms40dQyX6MFU"
-last_updated: "2026-08-25T05:31:54.231349Z"
+last_updated: "2026-08-26T05:31:59.091189Z"
 posted_at: "2026-08-14T00:03:00Z"
 status: ready
 apply_url: "https://www.trajectorylabs.com/careers/head-of-ai-red-teaming"
@@ -34,4 +34,4 @@ areas:
 <p class="apply-cta"><a href="https://www.trajectorylabs.com/careers/head-of-ai-red-teaming">Apply →</a></p>
 
 ---
-*Posted 2026-08-14 · Listing synced 2026-08-25 · 80k job ID `recLfms40dQyX6MFU`*
+*Posted 2026-08-14 · Listing synced 2026-08-26 · 80k job ID `recLfms40dQyX6MFU`*

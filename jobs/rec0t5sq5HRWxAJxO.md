@@ -2,7 +2,7 @@
 title: "Research Associate, Infectious Disease Modelling"
 employer: "Imperial College London, School of Public Health"
 job_id: "rec0t5sq5HRWxAJxO"
-last_updated: "2026-08-25T05:31:39.887658Z"
+last_updated: "2026-08-26T05:31:46.140827Z"
 posted_at: "2026-08-24T00:02:00Z"
 status: ready
 apply_url: "https://www.imperial.ac.uk/jobs/search-jobs/description/index.php?nPostingID=18084&nPostingTargetID=28898&ID=PMMFK026203F3VBQB8NLOV4CQ"
@@ -19,7 +19,7 @@ areas:
 <dt>Role type</dt><dd>Full-time</dd>
 <dt>Experience</dt><dd>Junior (1-4 years experience)</dd>
 <dt>Degree</dt><dd>Doctoral degree</dd>
-<dt>Salary</dt><dd>$69,135 – $81,061</dd>
+<dt>Salary</dt><dd>$69,164 – $81,094</dd>
 </dl>
 
 **Areas & skills:** Biosecurity & pandemic preparedness, Research
@@ -34,4 +34,4 @@ areas:
 <p class="apply-cta"><a href="https://www.imperial.ac.uk/jobs/search-jobs/description/index.php?nPostingID=18084&amp;nPostingTargetID=28898&amp;ID=PMMFK026203F3VBQB8NLOV4CQ">Apply →</a></p>
 
 ---
-*Posted 2026-08-24 · Listing synced 2026-08-25 · 80k job ID `rec0t5sq5HRWxAJxO`*
+*Posted 2026-08-24 · Listing synced 2026-08-26 · 80k job ID `rec0t5sq5HRWxAJxO`*

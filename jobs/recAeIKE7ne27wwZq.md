@@ -2,7 +2,7 @@
 title: "Data Scientist / Senior Data Scientist"
 employer: "Precision Development"
 job_id: "recAeIKE7ne27wwZq"
-last_updated: "2026-08-25T05:31:57.391492Z"
+last_updated: "2026-08-26T05:32:02.442491Z"
 posted_at: "2026-08-13T00:00:00Z"
 status: ready
 apply_url: "https://precisiondev.bamboohr.com/careers/182"
@@ -33,4 +33,4 @@ areas:
 <p class="apply-cta"><a href="https://precisiondev.bamboohr.com/careers/182">Apply →</a></p>
 
 ---
-*Posted 2026-08-13 · Listing synced 2026-08-25 · 80k job ID `recAeIKE7ne27wwZq`*
+*Posted 2026-08-13 · Listing synced 2026-08-26 · 80k job ID `recAeIKE7ne27wwZq`*

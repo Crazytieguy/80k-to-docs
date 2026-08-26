@@ -2,7 +2,7 @@
 title: "Senior Project Manager, Events"
 employer: "FAR AI"
 job_id: "recahndnOvXRExBnm"
-last_updated: "2026-08-25T05:32:37.470069Z"
+last_updated: "2026-08-26T05:32:42.646949Z"
 posted_at: "2026-06-29T00:04:16Z"
 status: ready
 apply_url: "https://jobs.ashbyhq.com/far.ai/567d0952-41fa-45a5-a872-42df353a64bf?embed=js"
@@ -34,4 +34,4 @@ areas:
 <p class="apply-cta"><a href="https://jobs.ashbyhq.com/far.ai/567d0952-41fa-45a5-a872-42df353a64bf?embed=js">Apply →</a></p>
 
 ---
-*Posted 2026-06-29 · Listing synced 2026-08-25 · 80k job ID `recahndnOvXRExBnm`*
+*Posted 2026-06-29 · Listing synced 2026-08-26 · 80k job ID `recahndnOvXRExBnm`*

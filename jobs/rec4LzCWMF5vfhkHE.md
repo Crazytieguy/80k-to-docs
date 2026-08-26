@@ -2,7 +2,7 @@
 title: "Communications and Campaigns Assistant"
 employer: "Animal Equality"
 job_id: "rec4LzCWMF5vfhkHE"
-last_updated: "2026-08-25T05:31:41.769325Z"
+last_updated: "2026-08-26T05:31:47.982472Z"
 posted_at: "2026-08-21T00:00:00Z"
 status: ready
 apply_url: "https://animalequality.org.br/vagas-assistente-de-comunicacao-e-campanhas/"
@@ -19,7 +19,7 @@ areas:
 <dt>Role type</dt><dd>Full-time</dd>
 <dt>Experience</dt><dd>Junior (1-4 years experience)</dd>
 <dt>Degree</dt><dd>Undergraduate degree or less</dd>
-<dt>Salary</dt><dd>$8,144</dd>
+<dt>Salary</dt><dd>$8,159</dd>
 </dl>
 
 **Areas & skills:** Animal welfare, Outreach
@@ -34,4 +34,4 @@ areas:
 <p class="apply-cta"><a href="https://animalequality.org.br/vagas-assistente-de-comunicacao-e-campanhas/">Apply →</a></p>
 
 ---
-*Posted 2026-08-21 · Listing synced 2026-08-25 · 80k job ID `rec4LzCWMF5vfhkHE`*
+*Posted 2026-08-21 · Listing synced 2026-08-26 · 80k job ID `rec4LzCWMF5vfhkHE`*

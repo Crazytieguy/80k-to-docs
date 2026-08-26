@@ -4,25 +4,20 @@ employer: "MATS Research"
 job_id: "recY0ObATTu194JMX"
 last_updated: "2026-08-25T05:32:19.878718Z"
 posted_at: "2026-07-28T00:04:17Z"
-status: ready
+status: closed
+closed_at: "2026-08-26"
 apply_url: "https://www.matsprogram.org/careers/recruiting-lead"
 areas:
   - "AI safety & policy"
 ---
 
+> ⚠️ **CLOSED on 2026-08-26** — this job is no longer listed on the 80,000 Hours board. Archived snapshot below.
+
 # Recruiting Lead
 
-**[MATS Research](https://www.matsprogram.org/)**
+**MATS Research**
 
-<dl class="job-meta">
-<dt>Location</dt><dd>London, UK, San Francisco Bay Area, UK, USA, USA (Confirmed Visas), UK (Confirmed Visas)</dd>
-<dt>Role type</dt><dd>Full-time</dd>
-<dt>Experience</dt><dd>Junior (1-4 years experience)</dd>
-<dt>Degree</dt><dd>Undergraduate degree or less</dd>
-<dt>Salary</dt><dd>$120,000 – $170,000</dd>
-</dl>
-
-**Areas & skills:** AI safety & policy, Operations
+**Areas & skills:** AI safety & policy
 
 ## Summary
 - In this role, you'll design and manage a scalable hiring process to fill 40 positions annually for MATS.

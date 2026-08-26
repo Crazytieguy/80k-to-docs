@@ -2,7 +2,7 @@
 title: "Software Engineer, Infrastructure, Interpretability"
 employer: "Anthropic"
 job_id: "recD4bYDC1Od0IEhI"
-last_updated: "2026-08-25T05:31:56.599818Z"
+last_updated: "2026-08-26T05:32:01.511500Z"
 posted_at: "2026-08-13T00:00:00Z"
 status: ready
 apply_url: "https://job-boards.greenhouse.io/anthropic/jobs/5388612008"
@@ -34,4 +34,4 @@ areas:
 <p class="apply-cta"><a href="https://job-boards.greenhouse.io/anthropic/jobs/5388612008">Apply →</a></p>
 
 ---
-*Posted 2026-08-13 · Listing synced 2026-08-25 · 80k job ID `recD4bYDC1Od0IEhI`*
+*Posted 2026-08-13 · Listing synced 2026-08-26 · 80k job ID `recD4bYDC1Od0IEhI`*
