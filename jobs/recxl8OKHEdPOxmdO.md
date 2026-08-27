@@ -2,7 +2,7 @@
 title: "Policy and Government Engagement Support"
 employer: "Evidence Action"
 job_id: "recxl8OKHEdPOxmdO"
-last_updated: "2026-08-26T05:31:48.270516Z"
+last_updated: "2026-08-27T13:15:36.591003Z"
 posted_at: "2026-08-21T00:00:00Z"
 status: ready
 apply_url: "https://apply.workable.com/evidence-action/j/EB9D590593/"
@@ -21,7 +21,7 @@ areas:
 <dt>Degree</dt><dd>Undergraduate degree or less</dd>
 </dl>
 
-**Areas & skills:** Global health & development, Policy, Outreach
+**Areas & skills:** Global health & development, Policy, Communications
 
 ## Summary
 - In this role, you'll strengthen government relationships by conducting policy research and supporting evidence-based policy adoption in Nigeria.
@@ -33,4 +33,4 @@ areas:
 <p class="apply-cta"><a href="https://apply.workable.com/evidence-action/j/EB9D590593/">Apply →</a></p>
 
 ---
-*Posted 2026-08-21 · Listing synced 2026-08-26 · 80k job ID `recxl8OKHEdPOxmdO`*
+*Posted 2026-08-21 · Listing synced 2026-08-27 · 80k job ID `recxl8OKHEdPOxmdO`*

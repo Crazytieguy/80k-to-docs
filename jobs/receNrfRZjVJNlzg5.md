@@ -2,7 +2,7 @@
 title: "Get Career Advising"
 employer: "80,000 Hours"
 job_id: "receNrfRZjVJNlzg5"
-last_updated: "2026-08-26T05:33:47.329439Z"
+last_updated: "2026-08-27T13:17:37.475658Z"
 posted_at: "2020-01-01T00:00:00Z"
 status: ready
 apply_url: "https://80000hours.org/speak-with-us/?int_campaign=job-board"
@@ -21,7 +21,7 @@ areas:
 <dt>Degree</dt><dd>Undergraduate degree or less</dd>
 </dl>
 
-**Areas & skills:** AI safety & policy, Engineering, Research, Policy, Outreach, Operations, Other, Software engineering, Legal, Information security, Management, Finance, Strategy
+**Areas & skills:** AI safety & policy, Engineering, Research, Policy, Communications, Operations, Other, Software engineering, Legal, Information security, Management, Finance, Strategy
 
 ## Summary
 - In this program, you will have a call with a member of the 80,000 hours advising team who will give you personalised advice. They'll help you:
@@ -32,4 +32,4 @@ areas:
 <p class="apply-cta"><a href="https://80000hours.org/speak-with-us/?int_campaign=job-board">Apply →</a></p>
 
 ---
-*Posted 2020-01-01 · Listing synced 2026-08-26 · 80k job ID `receNrfRZjVJNlzg5`*
+*Posted 2020-01-01 · Listing synced 2026-08-27 · 80k job ID `receNrfRZjVJNlzg5`*

@@ -2,7 +2,7 @@
 title: "Expression of Interest"
 employer: "Center for Reducing Suffering"
 job_id: "rec3iccz3DKS3s7OH"
-last_updated: "2026-08-26T05:33:43.395791Z"
+last_updated: "2026-08-27T13:17:33.326206Z"
 posted_at: "2022-01-01T00:00:00Z"
 status: ready
 apply_url: "https://centerforreducingsuffering.org/get-involved/"
@@ -21,7 +21,7 @@ areas:
 <dt>Degree</dt><dd>Undergraduate degree or less</dd>
 </dl>
 
-**Areas & skills:** S-risk reduction, Research, Outreach, Operations, Management
+**Areas & skills:** S-risk reduction, Research, Communications, Operations, Management
 
 ## Summary
 - Explore important questions on how to best reduce suffering.
@@ -32,4 +32,4 @@ areas:
 <p class="apply-cta"><a href="https://centerforreducingsuffering.org/get-involved/">Apply →</a></p>
 
 ---
-*Posted 2022-01-01 · Listing synced 2026-08-26 · 80k job ID `rec3iccz3DKS3s7OH`*
+*Posted 2022-01-01 · Listing synced 2026-08-27 · 80k job ID `rec3iccz3DKS3s7OH`*

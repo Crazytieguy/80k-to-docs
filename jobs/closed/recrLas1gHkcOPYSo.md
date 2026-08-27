@@ -4,25 +4,20 @@ employer: "GiveWell"
 job_id: "recrLas1gHkcOPYSo"
 last_updated: "2026-08-26T05:33:01.536721Z"
 posted_at: "2022-01-08T00:00:00Z"
-status: ready
+status: closed
+closed_at: "2026-08-27"
 apply_url: "https://grnh.se/vysh3wwe8us"
 areas:
   - "Global health & development"
 ---
 
+> ⚠️ **CLOSED on 2026-08-27** — this job is no longer listed on the 80,000 Hours board. Archived snapshot below.
+
 # Senior Recruiter
 
-**[GiveWell](https://www.givewell.org)**
+**GiveWell**
 
-<dl class="job-meta">
-<dt>Location</dt><dd>Remote, USA, USA</dd>
-<dt>Role type</dt><dd>Full-time</dd>
-<dt>Experience</dt><dd>Junior (1-4 years experience)</dd>
-<dt>Degree</dt><dd>Undergraduate degree or less</dd>
-<dt>Salary</dt><dd>$136,000 – $149,600</dd>
-</dl>
-
-**Areas & skills:** Global health & development, Operations
+**Areas & skills:** Global health & development
 
 ## Summary
 - In this role, you'll source and recruit exceptional talent across Operations and Outreach functions, maintaining high hiring standards.

@@ -1,8 +1,8 @@
 ---
-title: "Member of Technical Staff, Engineering, AI Digest"
-employer: "Sage"
+title: "Member of Technical Staff, Engineering"
+employer: "AI Digest"
 job_id: "recysUYkVFDC37Rwf"
-last_updated: "2026-08-26T05:31:43.090777Z"
+last_updated: "2026-08-27T13:15:29.432318Z"
 posted_at: "2026-08-25T00:00:00Z"
 status: ready
 apply_url: "https://jobs.ashbyhq.com/aidigest/29113420-96a2-4c82-ab93-5f08755b55c3"
@@ -10,16 +10,16 @@ areas:
   - "AI safety & policy"
 ---
 
-# Member of Technical Staff, Engineering, AI Digest
+# Member of Technical Staff, Engineering
 
-**[Sage](https://sage-future.org/)**
+**[AI Digest](https://theaidigest.org/)**
 
 <dl class="job-meta">
 <dt>Location</dt><dd>Remote, Global</dd>
 <dt>Role type</dt><dd>Full-time</dd>
-<dt>Experience</dt><dd>Junior (1-4 years experience)</dd>
+<dt>Experience</dt><dd>Multiple experience levels</dd>
 <dt>Degree</dt><dd>Undergraduate degree or less</dd>
-<dt>Salary</dt><dd>$150,000 – $200,000</dd>
+<dt>Salary</dt><dd>$150,000 – $350,000</dd>
 </dl>
 
 **Areas & skills:** AI safety & policy, Software engineering
@@ -34,4 +34,4 @@ areas:
 <p class="apply-cta"><a href="https://jobs.ashbyhq.com/aidigest/29113420-96a2-4c82-ab93-5f08755b55c3">Apply →</a></p>
 
 ---
-*Posted 2026-08-25 · Listing synced 2026-08-26 · 80k job ID `recysUYkVFDC37Rwf`*
+*Posted 2026-08-25 · Listing synced 2026-08-27 · 80k job ID `recysUYkVFDC37Rwf`*

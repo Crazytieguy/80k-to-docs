@@ -2,7 +2,7 @@
 title: "Senior Digital Manager"
 employer: "New Movement Organization for AI Regulation"
 job_id: "recKJjbzvQOjp5Po4"
-last_updated: "2026-08-26T05:31:58.503356Z"
+last_updated: "2026-08-27T13:15:47.294891Z"
 posted_at: "2026-08-17T00:00:00Z"
 status: ready
 apply_url: "https://tally.so/r/kd4jyZ"
@@ -22,7 +22,7 @@ areas:
 <dt>Salary</dt><dd>$120,000 – $145,000</dd>
 </dl>
 
-**Areas & skills:** AI safety & policy, Outreach, Management
+**Areas & skills:** AI safety & policy, Communications, Management
 
 ## Summary
 - In this role, you'll build and manage email, SMS, and social media programs to mobilize grassroots AI advocacy.
@@ -34,4 +34,4 @@ areas:
 <p class="apply-cta"><a href="https://tally.so/r/kd4jyZ">Apply →</a></p>
 
 ---
-*Posted 2026-08-17 · Listing synced 2026-08-26 · 80k job ID `recKJjbzvQOjp5Po4`*
+*Posted 2026-08-17 · Listing synced 2026-08-27 · 80k job ID `recKJjbzvQOjp5Po4`*

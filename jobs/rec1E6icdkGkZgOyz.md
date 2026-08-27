@@ -2,7 +2,7 @@
 title: "Research Intern, Great Power Competition (Fall 2026)"
 employer: "Hudson Institute"
 job_id: "rec1E6icdkGkZgOyz"
-last_updated: "2026-08-26T05:31:55.686680Z"
+last_updated: "2026-08-27T13:15:44.584490Z"
 posted_at: "2026-08-18T00:00:00Z"
 status: ready
 apply_url: "https://recruiting.paylocity.com/Recruiting/Jobs/Details/2984301"
@@ -33,4 +33,4 @@ areas:
 <p class="apply-cta"><a href="https://recruiting.paylocity.com/Recruiting/Jobs/Details/2984301">Apply →</a></p>
 
 ---
-*Posted 2026-08-18 · Listing synced 2026-08-26 · 80k job ID `rec1E6icdkGkZgOyz`*
+*Posted 2026-08-18 · Listing synced 2026-08-27 · 80k job ID `rec1E6icdkGkZgOyz`*

@@ -4,24 +4,20 @@ employer: "Faculty"
 job_id: "rechTrSs4GF4QWzJN"
 last_updated: "2026-08-26T05:33:23.021435Z"
 posted_at: "2022-01-05T00:00:00Z"
-status: ready
+status: closed
+closed_at: "2026-08-27"
 apply_url: "https://jobs.ashbyhq.com/faculty/6ad13f20-8a65-454f-b7c7-4d5260f306bf"
 areas:
   - "AI safety & policy"
 ---
 
+> ⚠️ **CLOSED on 2026-08-27** — this job is no longer listed on the 80,000 Hours board. Archived snapshot below.
+
 # Head of Research and Development, AI Safety
 
-**[Faculty](https://faculty.ai/)**
+**Faculty**
 
-<dl class="job-meta">
-<dt>Location</dt><dd>London, UK, UK</dd>
-<dt>Role type</dt><dd>Full-time</dd>
-<dt>Experience</dt><dd>Mid (5-9 years experience), Senior (10+ years experience)</dd>
-<dt>Degree</dt><dd>Undergraduate degree or less</dd>
-</dl>
-
-**Areas & skills:** AI safety & policy, Research, Management
+**Areas & skills:** AI safety & policy
 
 ## Summary
 - In this role, you'll lead Faculty's AI safety research team, shaping the agenda for safe AI systems with a focus on language models.

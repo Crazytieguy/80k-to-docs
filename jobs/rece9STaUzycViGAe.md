@@ -2,7 +2,7 @@
 title: "Program Associate, Strategic Impact Evaluation and Learning"
 employer: "Innovations for Poverty Action"
 job_id: "rece9STaUzycViGAe"
-last_updated: "2026-08-26T05:32:26.500877Z"
+last_updated: "2026-08-27T13:16:14.248315Z"
 posted_at: "2026-07-27T00:00:00Z"
 status: ready
 apply_url: "https://poverty-action.org/program-associate-strategic-impact-evaluation-and-learning"
@@ -21,7 +21,7 @@ areas:
 <dt>Degree</dt><dd>Undergraduate degree or less</dd>
 </dl>
 
-**Areas & skills:** Global health & development, Outreach, Operations
+**Areas & skills:** Global health & development, Communications, Operations
 
 ## Summary
 - In this role, you'll support a learning partnership to establish evidence for FCDO's programs and improve intervention efficiency.
@@ -33,4 +33,4 @@ areas:
 <p class="apply-cta"><a href="https://poverty-action.org/program-associate-strategic-impact-evaluation-and-learning">Apply →</a></p>
 
 ---
-*Posted 2026-07-27 · Listing synced 2026-08-26 · 80k job ID `rece9STaUzycViGAe`*
+*Posted 2026-07-27 · Listing synced 2026-08-27 · 80k job ID `rece9STaUzycViGAe`*

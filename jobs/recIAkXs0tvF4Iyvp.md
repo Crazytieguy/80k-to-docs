@@ -2,7 +2,7 @@
 title: "Distributed Organizer, Contractor"
 employer: "New Movement Organization for AI Regulation"
 job_id: "recIAkXs0tvF4Iyvp"
-last_updated: "2026-08-26T05:31:58.833495Z"
+last_updated: "2026-08-27T13:15:47.640335Z"
 posted_at: "2026-08-17T00:00:00Z"
 status: ready
 apply_url: "https://tally.so/r/WObr6v"
@@ -22,7 +22,7 @@ areas:
 <dt>Salary</dt><dd>$104,000</dd>
 </dl>
 
-**Areas & skills:** AI safety & policy, Outreach
+**Areas & skills:** AI safety & policy, Communications
 
 ## Summary
 - In this role, you'll recruit and coach student leaders to organise AI walkout campaigns on college campuses as part of a national movement.
@@ -34,4 +34,4 @@ areas:
 <p class="apply-cta"><a href="https://tally.so/r/WObr6v">Apply →</a></p>
 
 ---
-*Posted 2026-08-17 · Listing synced 2026-08-26 · 80k job ID `recIAkXs0tvF4Iyvp`*
+*Posted 2026-08-17 · Listing synced 2026-08-27 · 80k job ID `recIAkXs0tvF4Iyvp`*

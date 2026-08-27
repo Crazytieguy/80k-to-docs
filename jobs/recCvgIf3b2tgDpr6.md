@@ -2,7 +2,7 @@
 title: "Marketing Campaign Manager"
 employer: "Amplify"
 job_id: "recCvgIf3b2tgDpr6"
-last_updated: "2026-08-26T05:31:57.087692Z"
+last_updated: "2026-08-27T13:15:45.813159Z"
 posted_at: "2026-08-17T00:01:00Z"
 status: ready
 apply_url: "https://docs.google.com/document/d/1AzHnD57JJBJnJekWSlVoOEcjyahJXaLtmHYnzRcTLg8/edit?usp=sharing"
@@ -22,7 +22,7 @@ areas:
 <dt>Salary</dt><dd>$41,600 – $62,400</dd>
 </dl>
 
-**Areas & skills:** Building effective altruism, Outreach
+**Areas & skills:** Building effective altruism, Communications
 
 ## Summary
 - In this role, you'll manage marketing campaigns for impact-focused organisations, working directly with clients from brief through execution and optimisation.
@@ -34,4 +34,4 @@ areas:
 <p class="apply-cta"><a href="https://docs.google.com/document/d/1AzHnD57JJBJnJekWSlVoOEcjyahJXaLtmHYnzRcTLg8/edit?usp=sharing">Apply →</a></p>
 
 ---
-*Posted 2026-08-17 · Listing synced 2026-08-26 · 80k job ID `recCvgIf3b2tgDpr6`*
+*Posted 2026-08-17 · Listing synced 2026-08-27 · 80k job ID `recCvgIf3b2tgDpr6`*

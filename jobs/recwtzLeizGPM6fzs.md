@@ -2,7 +2,7 @@
 title: "Exceptional Talent Application"
 employer: "Apart Research"
 job_id: "recwtzLeizGPM6fzs"
-last_updated: "2026-08-26T05:33:20.708586Z"
+last_updated: "2026-08-27T13:17:08.420494Z"
 posted_at: "2022-01-05T00:00:00Z"
 status: ready
 apply_url: "https://apartresearch.notion.site/1acfcfd1de9d8084a7abe3d00c5d2296"
@@ -21,7 +21,7 @@ areas:
 <dt>Degree</dt><dd>Undergraduate degree or less</dd>
 </dl>
 
-**Areas & skills:** AI safety & policy, Outreach, Management
+**Areas & skills:** AI safety & policy, Communications, Management
 
 ## Summary
 - Register interest in working at Apart Research.
@@ -29,4 +29,4 @@ areas:
 <p class="apply-cta"><a href="https://apartresearch.notion.site/1acfcfd1de9d8084a7abe3d00c5d2296">Apply →</a></p>
 
 ---
-*Posted 2022-01-05 · Listing synced 2026-08-26 · 80k job ID `recwtzLeizGPM6fzs`*
+*Posted 2022-01-05 · Listing synced 2026-08-27 · 80k job ID `recwtzLeizGPM6fzs`*

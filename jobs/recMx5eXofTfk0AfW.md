@@ -2,7 +2,7 @@
 title: "Head of Communications"
 employer: "Evitable"
 job_id: "recMx5eXofTfk0AfW"
-last_updated: "2026-08-26T05:32:50.548085Z"
+last_updated: "2026-08-27T13:16:39.225462Z"
 posted_at: "2026-06-08T00:01:00Z"
 status: ready
 apply_url: "https://evitable.com/communications-director"
@@ -22,7 +22,7 @@ areas:
 <dt>Salary</dt><dd>$140,000 – $175,000</dd>
 </dl>
 
-**Areas & skills:** AI safety & policy, Outreach
+**Areas & skills:** AI safety & policy, Communications
 
 ## Summary
 - In this role, you'll own Evitable's communications strategy and shape the organisation's public narrative in contested media space.
@@ -34,4 +34,4 @@ areas:
 <p class="apply-cta"><a href="https://evitable.com/communications-director">Apply →</a></p>
 
 ---
-*Posted 2026-06-08 · Listing synced 2026-08-26 · 80k job ID `recMx5eXofTfk0AfW`*
+*Posted 2026-06-08 · Listing synced 2026-08-27 · 80k job ID `recMx5eXofTfk0AfW`*

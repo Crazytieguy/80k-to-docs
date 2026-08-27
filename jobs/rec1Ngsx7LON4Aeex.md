@@ -2,7 +2,7 @@
 title: "Frontier AI Risks Lead"
 employer: "OpenAI"
 job_id: "rec1Ngsx7LON4Aeex"
-last_updated: "2026-08-26T05:32:26.925642Z"
+last_updated: "2026-08-27T13:16:14.664928Z"
 posted_at: "2026-07-27T00:00:00Z"
 status: ready
 apply_url: "https://openai.com/careers/frontier-ai-risks-lead-san-francisco/"
@@ -34,4 +34,4 @@ areas:
 <p class="apply-cta"><a href="https://openai.com/careers/frontier-ai-risks-lead-san-francisco/">Apply →</a></p>
 
 ---
-*Posted 2026-07-27 · Listing synced 2026-08-26 · 80k job ID `rec1Ngsx7LON4Aeex`*
+*Posted 2026-07-27 · Listing synced 2026-08-27 · 80k job ID `rec1Ngsx7LON4Aeex`*

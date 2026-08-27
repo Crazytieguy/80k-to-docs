@@ -2,7 +2,7 @@
 title: "Trainee"
 employer: "German Marshall Fund"
 job_id: "recVOzEoJQROrMYx2"
-last_updated: "2026-08-26T05:32:23.842757Z"
+last_updated: "2026-08-27T13:16:11.379684Z"
 posted_at: "2026-07-29T00:00:00Z"
 status: ready
 apply_url: "https://recruiting.paylocity.com/Recruiting/Jobs/Details/4320819"
@@ -19,7 +19,7 @@ areas:
 <dt>Role type</dt><dd>Internship</dd>
 <dt>Experience</dt><dd>Entry-level</dd>
 <dt>Degree</dt><dd>Undergraduate degree or less</dd>
-<dt>Salary</dt><dd>$13,997 – $16,797</dd>
+<dt>Salary</dt><dd>$13,978 – $16,773</dd>
 </dl>
 
 **Areas & skills:** Career development: Policy & government, Research, Policy
@@ -34,4 +34,4 @@ areas:
 <p class="apply-cta"><a href="https://recruiting.paylocity.com/Recruiting/Jobs/Details/4320819">Apply →</a></p>
 
 ---
-*Posted 2026-07-29 · Listing synced 2026-08-26 · 80k job ID `recVOzEoJQROrMYx2`*
+*Posted 2026-07-29 · Listing synced 2026-08-27 · 80k job ID `recVOzEoJQROrMYx2`*

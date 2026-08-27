@@ -2,7 +2,7 @@
 title: "Engagement Manager"
 employer: "Good Impressions Media"
 job_id: "recn7h7affd1FINHg"
-last_updated: "2026-08-26T05:32:20.106159Z"
+last_updated: "2026-08-27T13:16:07.260925Z"
 posted_at: "2026-07-31T00:03:00Z"
 status: ready
 apply_url: "https://www.goodimpressionsmedia.com/jobs/engagement-manager"
@@ -22,7 +22,7 @@ areas:
 <dt>Salary</dt><dd>$80,000 – $120,000</dd>
 </dl>
 
-**Areas & skills:** Building effective altruism, Outreach
+**Areas & skills:** Building effective altruism, Communications
 
 ## Summary
 - In this role, you'll lead paid advertising campaigns end-to-end to recruit talent into high-impact programs.
@@ -34,4 +34,4 @@ areas:
 <p class="apply-cta"><a href="https://www.goodimpressionsmedia.com/jobs/engagement-manager">Apply →</a></p>
 
 ---
-*Posted 2026-07-31 · Listing synced 2026-08-26 · 80k job ID `recn7h7affd1FINHg`*
+*Posted 2026-07-31 · Listing synced 2026-08-27 · 80k job ID `recn7h7affd1FINHg`*

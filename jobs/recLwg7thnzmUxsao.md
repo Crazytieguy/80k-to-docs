@@ -2,7 +2,7 @@
 title: "Volunteer, AI Safety Quest"
 employer: "AI Safety Quest"
 job_id: "recLwg7thnzmUxsao"
-last_updated: "2026-08-26T05:32:27.271486Z"
+last_updated: "2026-08-27T13:16:15.032989Z"
 posted_at: "2026-07-24T00:00:00Z"
 status: ready
 apply_url: "https://aisafety.quest/#volunteer"
@@ -21,7 +21,7 @@ areas:
 <dt>Degree</dt><dd>Undergraduate degree or less</dd>
 </dl>
 
-**Areas & skills:** AI safety & policy, Outreach, Operations
+**Areas & skills:** AI safety & policy, Communications, Operations
 
 ## Summary
 - In this role, you'll support AI Safety Quest's mission through volunteer contributions to the areas in which it most needs support.
@@ -32,4 +32,4 @@ areas:
 <p class="apply-cta"><a href="https://aisafety.quest/#volunteer">Apply →</a></p>
 
 ---
-*Posted 2026-07-24 · Listing synced 2026-08-26 · 80k job ID `recLwg7thnzmUxsao`*
+*Posted 2026-07-24 · Listing synced 2026-08-27 · 80k job ID `recLwg7thnzmUxsao`*

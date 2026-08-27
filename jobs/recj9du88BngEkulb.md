@@ -2,7 +2,7 @@
 title: "Team Member, Lab Engagement"
 employer: "Encode"
 job_id: "recj9du88BngEkulb"
-last_updated: "2026-08-26T05:31:40.642540Z"
+last_updated: "2026-08-27T13:15:28.816362Z"
 posted_at: "2026-08-25T00:04:05Z"
 status: ready
 apply_url: "https://x.com/SnehaRevanur/status/2091956301232550345?s=20"
@@ -21,7 +21,7 @@ areas:
 <dt>Degree</dt><dd>Undergraduate degree or less</dd>
 </dl>
 
-**Areas & skills:** AI safety & policy, Outreach
+**Areas & skills:** AI safety & policy, Communications
 
 ## Summary
 - In this role, you'll coordinate Encode's SF lab engagement, building systems to amplify employee voices.
@@ -33,4 +33,4 @@ areas:
 <p class="apply-cta"><a href="https://x.com/SnehaRevanur/status/2091956301232550345?s=20">Apply →</a></p>
 
 ---
-*Posted 2026-08-25 · Listing synced 2026-08-26 · 80k job ID `recj9du88BngEkulb`*
+*Posted 2026-08-25 · Listing synced 2026-08-27 · 80k job ID `recj9du88BngEkulb`*

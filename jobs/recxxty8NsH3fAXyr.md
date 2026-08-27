@@ -2,7 +2,7 @@
 title: "Campaign Associate"
 employer: "Animal Equality"
 job_id: "recxxty8NsH3fAXyr"
-last_updated: "2026-08-26T05:33:33.053684Z"
+last_updated: "2026-08-27T13:17:20.864038Z"
 posted_at: "2022-01-02T00:00:00Z"
 status: ready
 apply_url: "https://igualdadanimal.mx/empleos/oferta-de-empleo-asociado-de-campanas/"
@@ -21,7 +21,7 @@ areas:
 <dt>Degree</dt><dd>Undergraduate degree or less</dd>
 </dl>
 
-**Areas & skills:** Animal welfare, Outreach
+**Areas & skills:** Animal welfare, Communications
 
 ## Summary
 - In this role, you'll create and execute campaigns targeting food companies to implement animal welfare policies.
@@ -33,4 +33,4 @@ areas:
 <p class="apply-cta"><a href="https://igualdadanimal.mx/empleos/oferta-de-empleo-asociado-de-campanas/">Apply →</a></p>
 
 ---
-*Posted 2022-01-02 · Listing synced 2026-08-26 · 80k job ID `recxxty8NsH3fAXyr`*
+*Posted 2022-01-02 · Listing synced 2026-08-27 · 80k job ID `recxxty8NsH3fAXyr`*

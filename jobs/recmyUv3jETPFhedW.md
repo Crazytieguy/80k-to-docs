@@ -2,7 +2,7 @@
 title: "Program Associate"
 employer: "Outrider Foundation"
 job_id: "recmyUv3jETPFhedW"
-last_updated: "2026-08-26T05:33:39.485074Z"
+last_updated: "2026-08-27T13:17:29.348423Z"
 posted_at: "2022-01-02T00:00:00Z"
 status: ready
 apply_url: "https://outrider.org/outrider-foundation-seeks-program-associate"
@@ -23,7 +23,7 @@ areas:
 <dt>Salary</dt><dd>$65,000 – $75,000</dd>
 </dl>
 
-**Areas & skills:** Nuclear security, Climate change, Outreach, Operations
+**Areas & skills:** Nuclear security, Climate change, Communications, Operations
 
 ## Summary
 - In this role, you'll coordinate events and build fundraising infrastructure to support journalism and storytelling about nuclear threats and climate change.
@@ -35,4 +35,4 @@ areas:
 <p class="apply-cta"><a href="https://outrider.org/outrider-foundation-seeks-program-associate">Apply →</a></p>
 
 ---
-*Posted 2022-01-02 · Listing synced 2026-08-26 · 80k job ID `recmyUv3jETPFhedW`*
+*Posted 2022-01-02 · Listing synced 2026-08-27 · 80k job ID `recmyUv3jETPFhedW`*

@@ -2,7 +2,7 @@
 title: "Undercover Investigator"
 employer: "Animal Equality"
 job_id: "recgKsVpPGsAddDpe"
-last_updated: "2026-08-26T05:33:32.919871Z"
+last_updated: "2026-08-27T13:17:20.736596Z"
 posted_at: "2022-01-02T00:00:00Z"
 status: ready
 apply_url: "https://animal-equality.rippling-ats.com/job/600852/undercover-investigator"
@@ -33,4 +33,4 @@ areas:
 <p class="apply-cta"><a href="https://animal-equality.rippling-ats.com/job/600852/undercover-investigator">Apply →</a></p>
 
 ---
-*Posted 2022-01-02 · Listing synced 2026-08-26 · 80k job ID `recgKsVpPGsAddDpe`*
+*Posted 2022-01-02 · Listing synced 2026-08-27 · 80k job ID `recgKsVpPGsAddDpe`*

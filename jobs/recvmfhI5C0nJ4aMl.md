@@ -2,7 +2,7 @@
 title: "Head of Partnerships, Fellowship"
 employer: "Tarbell Center for AI Journalism"
 job_id: "recvmfhI5C0nJ4aMl"
-last_updated: "2026-08-26T05:31:45.295297Z"
+last_updated: "2026-08-27T13:15:33.468065Z"
 posted_at: "2026-08-24T00:05:00Z"
 status: ready
 apply_url: "https://www.tarbellcenter.org/careers/head-of-partnerships-fellowship"
@@ -22,7 +22,7 @@ areas:
 <dt>Salary</dt><dd>$118,000 – $164,000</dd>
 </dl>
 
-**Areas & skills:** AI safety & policy, Outreach
+**Areas & skills:** AI safety & policy, Communications
 
 ## Summary
 - In this role, you'll forge and maintain relationships with newsrooms to scale Tarbell's fellowship program globally.
@@ -33,4 +33,4 @@ areas:
 <p class="apply-cta"><a href="https://www.tarbellcenter.org/careers/head-of-partnerships-fellowship">Apply →</a></p>
 
 ---
-*Posted 2026-08-24 · Listing synced 2026-08-26 · 80k job ID `recvmfhI5C0nJ4aMl`*
+*Posted 2026-08-24 · Listing synced 2026-08-27 · 80k job ID `recvmfhI5C0nJ4aMl`*

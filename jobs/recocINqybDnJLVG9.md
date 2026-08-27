@@ -2,7 +2,7 @@
 title: "Intern, Critical Minerals Security Program"
 employer: "Center for Strategic and International Studies"
 job_id: "recocINqybDnJLVG9"
-last_updated: "2026-08-26T05:31:49.805104Z"
+last_updated: "2026-08-27T13:15:38.212648Z"
 posted_at: "2026-08-20T00:00:00Z"
 status: ready
 apply_url: "https://job-boards.greenhouse.io/centerforstrategicandinternationalstudiesinc/jobs/4363618009"
@@ -34,4 +34,4 @@ areas:
 <p class="apply-cta"><a href="https://job-boards.greenhouse.io/centerforstrategicandinternationalstudiesinc/jobs/4363618009">Apply →</a></p>
 
 ---
-*Posted 2026-08-20 · Listing synced 2026-08-26 · 80k job ID `recocINqybDnJLVG9`*
+*Posted 2026-08-20 · Listing synced 2026-08-27 · 80k job ID `recocINqybDnJLVG9`*

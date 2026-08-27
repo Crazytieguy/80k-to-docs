@@ -2,7 +2,7 @@
 title: "Social Media Manager"
 employer: "The Alliance for Secure AI"
 job_id: "recY46uISbQc1uLVE"
-last_updated: "2026-08-26T05:31:43.452498Z"
+last_updated: "2026-08-27T13:15:31.614638Z"
 posted_at: "2026-08-25T00:00:00Z"
 status: ready
 apply_url: "https://secureainow.org/career/social-media-manager/"
@@ -22,7 +22,7 @@ areas:
 <dt>Salary</dt><dd>$70,000 – $90,000</dd>
 </dl>
 
-**Areas & skills:** AI safety & policy, Outreach
+**Areas & skills:** AI safety & policy, Communications
 
 ## Summary
 - In this role, you'll manage The Alliance's social media presence, turning complex AI policy into compelling content for diverse audiences.
@@ -34,4 +34,4 @@ areas:
 <p class="apply-cta"><a href="https://secureainow.org/career/social-media-manager/">Apply →</a></p>
 
 ---
-*Posted 2026-08-25 · Listing synced 2026-08-26 · 80k job ID `recY46uISbQc1uLVE`*
+*Posted 2026-08-25 · Listing synced 2026-08-27 · 80k job ID `recY46uISbQc1uLVE`*

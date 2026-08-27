@@ -2,7 +2,7 @@
 title: "Infrastructure Lead"
 employer: "Intelligence Security Laboratories"
 job_id: "recVS0fSGuoIyJnZK"
-last_updated: "2026-08-26T05:31:50.860946Z"
+last_updated: "2026-08-27T13:15:39.368561Z"
 posted_at: "2026-08-20T00:00:00Z"
 status: ready
 apply_url: "https://intseclab.org/careers/"
@@ -34,4 +34,4 @@ areas:
 <p class="apply-cta"><a href="https://intseclab.org/careers/">Apply →</a></p>
 
 ---
-*Posted 2026-08-20 · Listing synced 2026-08-26 · 80k job ID `recVS0fSGuoIyJnZK`*
+*Posted 2026-08-20 · Listing synced 2026-08-27 · 80k job ID `recVS0fSGuoIyJnZK`*

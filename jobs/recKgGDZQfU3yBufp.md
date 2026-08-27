@@ -2,7 +2,7 @@
 title: "Junior Security Software Engineer"
 employer: "Openchip"
 job_id: "recKgGDZQfU3yBufp"
-last_updated: "2026-08-26T05:33:39.328364Z"
+last_updated: "2026-08-27T13:17:29.204168Z"
 posted_at: "2022-01-02T00:00:00Z"
 status: ready
 apply_url: "https://openchip.factorialhr.com/job_posting/junior-security-software-engineer-243261"
@@ -33,4 +33,4 @@ areas:
 <p class="apply-cta"><a href="https://openchip.factorialhr.com/job_posting/junior-security-software-engineer-243261">Apply →</a></p>
 
 ---
-*Posted 2022-01-02 · Listing synced 2026-08-26 · 80k job ID `recKgGDZQfU3yBufp`*
+*Posted 2022-01-02 · Listing synced 2026-08-27 · 80k job ID `recKgGDZQfU3yBufp`*

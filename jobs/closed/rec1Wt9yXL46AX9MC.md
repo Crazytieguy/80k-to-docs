@@ -4,25 +4,20 @@ employer: "UK Government, AI Security Institute"
 job_id: "rec1Wt9yXL46AX9MC"
 last_updated: "2026-08-26T05:31:56.368563Z"
 posted_at: "2026-08-17T00:05:00Z"
-status: ready
+status: closed
+closed_at: "2026-08-27"
 apply_url: "https://www.civilservicejobs.service.gov.uk/csr/index.cgi?SID=b3duZXI9NTA3MDAwMCZzZWFyY2hwYWdlPTEmam9ibGlzdF92aWV3X3ZhYz0yMDA5NDY1JnVzZXJzZWFyY2hjb250ZXh0PTIwNDMyNjYyNyZwYWdlYWN0aW9uPXZpZXd2YWNieWpvYmxpc3QmcGFnZWNsYXNzPUpvYnMmc2VhcmNoc29ydD1zY29yZSZvd25lcnR5cGU9ZmFpciZyZXFzaWc9MTc4NjcyOTUyNS1iZDUyZWUyZTQwYzUwNGQxMTM1Mzk3MjAzMWFkMmI2MDEwNTRmYjA2"
 areas:
   - "AI safety & policy"
 ---
 
+> ⚠️ **CLOSED on 2026-08-27** — this job is no longer listed on the 80,000 Hours board. Archived snapshot below.
+
 # Head of Finance and Business Services
 
-**[UK Government, AI Security Institute](https://www.aisi.gov.uk/)**
+**UK Government, AI Security Institute**
 
-<dl class="job-meta">
-<dt>Location</dt><dd>London, UK, Manchester, UK, UK</dd>
-<dt>Role type</dt><dd>Full-time</dd>
-<dt>Experience</dt><dd>Mid (5-9 years experience)</dd>
-<dt>Degree</dt><dd>Undergraduate degree or less</dd>
-<dt>Salary</dt><dd>$94,987</dd>
-</dl>
-
-**Areas & skills:** AI safety & policy, Operations, Management, Finance
+**Areas & skills:** AI safety & policy
 
 ## Summary
 - In this role, you'll lead Finance and Grants functions, building high-performing teams to ensure effective public resource deployment.

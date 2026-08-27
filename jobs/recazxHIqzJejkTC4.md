@@ -2,7 +2,7 @@
 title: "Head of Growth"
 employer: "Frame"
 job_id: "recazxHIqzJejkTC4"
-last_updated: "2026-08-26T05:32:34.104477Z"
+last_updated: "2026-08-27T13:16:21.504912Z"
 posted_at: "2026-07-13T00:02:00Z"
 status: ready
 apply_url: "https://docs.google.com/document/d/145KComVimfUkWlH_A4CeBGj8K0vhc6I4ykZYXGaWD84/edit?usp=sharing"
@@ -22,7 +22,7 @@ areas:
 <dt>Salary</dt><dd>$72,000 – $120,000</dd>
 </dl>
 
-**Areas & skills:** AI safety & policy, Outreach
+**Areas & skills:** AI safety & policy, Communications
 
 ## Summary
 - In this role, you'll own Frame's content creation, growth, and distribution to build the brand and grow the applicant pipeline.
@@ -34,4 +34,4 @@ areas:
 <p class="apply-cta"><a href="https://docs.google.com/document/d/145KComVimfUkWlH_A4CeBGj8K0vhc6I4ykZYXGaWD84/edit?usp=sharing">Apply →</a></p>
 
 ---
-*Posted 2026-07-13 · Listing synced 2026-08-26 · 80k job ID `recazxHIqzJejkTC4`*
+*Posted 2026-07-13 · Listing synced 2026-08-27 · 80k job ID `recazxHIqzJejkTC4`*

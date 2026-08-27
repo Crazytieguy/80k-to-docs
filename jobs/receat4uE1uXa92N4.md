@@ -2,10 +2,10 @@
 title: "Member of Technical Staff, AI Digest"
 employer: "Sage"
 job_id: "receat4uE1uXa92N4"
-last_updated: "2026-08-26T05:33:16.039832Z"
+last_updated: "2026-08-27T13:17:03.181157Z"
 posted_at: "2022-01-06T00:00:00Z"
 status: ready
-apply_url: "https://theaidigest.org/hiring"
+apply_url: "https://theaidigest.org/hiring/mts"
 areas:
   - "AI safety & policy"
 ---
@@ -31,7 +31,7 @@ areas:
 - Design new challenges and tools to enhance agent capabilities.
 - Develop evaluation frameworks to test and analyze agent performance.
 
-<p class="apply-cta"><a href="https://theaidigest.org/hiring">Apply →</a></p>
+<p class="apply-cta"><a href="https://theaidigest.org/hiring/mts">Apply →</a></p>
 
 ---
-*Posted 2022-01-06 · Listing synced 2026-08-26 · 80k job ID `receat4uE1uXa92N4`*
+*Posted 2022-01-06 · Listing synced 2026-08-27 · 80k job ID `receat4uE1uXa92N4`*

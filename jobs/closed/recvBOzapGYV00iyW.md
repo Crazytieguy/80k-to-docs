@@ -4,24 +4,20 @@ employer: "SaferAI"
 job_id: "recvBOzapGYV00iyW"
 last_updated: "2026-08-26T05:33:15.873962Z"
 posted_at: "2022-01-06T00:00:00Z"
-status: ready
+status: closed
+closed_at: "2026-08-27"
 apply_url: "https://www.safer-ai.org/jobs/standards-researcher"
 areas:
   - "AI safety & policy"
 ---
 
+> ⚠️ **CLOSED on 2026-08-27** — this job is no longer listed on the 80,000 Hours board. Archived snapshot below.
+
 # Standards Researcher
 
-**[SaferAI](https://www.safer-ai.org/)**
+**SaferAI**
 
-<dl class="job-meta">
-<dt>Location</dt><dd>London, UK, Paris, France, UK, France, Europe (ex UK)</dd>
-<dt>Role type</dt><dd>Full-time</dd>
-<dt>Experience</dt><dd>Junior (1-4 years experience), Mid (5-9 years experience)</dd>
-<dt>Degree</dt><dd>Undergraduate degree or less</dd>
-</dl>
-
-**Areas & skills:** AI safety & policy, Research, Policy
+**Areas & skills:** AI safety & policy
 
 ## Summary
 - In this role, you'll draft technical standards text for AI risk management and evaluation at ISO/IEC, CEN-CENELEC, and NIST.

@@ -2,7 +2,7 @@
 title: "Policy Entrepreneurship Fellowship, AI Safety"
 employer: "Federation of American Scientists"
 job_id: "recgJS1NkANzjlYBM"
-last_updated: "2026-08-26T05:32:01.233958Z"
+last_updated: "2026-08-27T13:15:49.932560Z"
 posted_at: "2026-08-13T00:02:00Z"
 status: ready
 apply_url: "https://fas.org/career/ai-safety-pef/"
@@ -21,7 +21,7 @@ areas:
 <dt>Degree</dt><dd>Undergraduate degree or less</dd>
 </dl>
 
-**Areas & skills:** AI safety & policy, Policy, Outreach
+**Areas & skills:** AI safety & policy, Policy, Communications
 
 ## Summary
 - In this fellowship, you'll develop and advance a frontier AI safety policy idea toward implementation.
@@ -33,4 +33,4 @@ areas:
 <p class="apply-cta"><a href="https://fas.org/career/ai-safety-pef/">Apply →</a></p>
 
 ---
-*Posted 2026-08-13 · Listing synced 2026-08-26 · 80k job ID `recgJS1NkANzjlYBM`*
+*Posted 2026-08-13 · Listing synced 2026-08-27 · 80k job ID `recgJS1NkANzjlYBM`*

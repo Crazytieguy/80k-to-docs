@@ -2,7 +2,7 @@
 title: "Chapter Leader"
 employer: "One for the World"
 job_id: "recCQCI9ruy4HYheW"
-last_updated: "2026-08-26T05:33:39.197352Z"
+last_updated: "2026-08-27T13:17:29.079836Z"
 posted_at: "2022-01-02T00:00:00Z"
 status: ready
 apply_url: "https://1fortheworld.org/volunteer-with-us"
@@ -21,7 +21,7 @@ areas:
 <dt>Degree</dt><dd>Undergraduate degree or less</dd>
 </dl>
 
-**Areas & skills:** Building effective altruism, Outreach, Operations
+**Areas & skills:** Building effective altruism, Communications, Operations
 
 ## Summary
 - In this role, you'll lead a One for the World chapter at your MBA program to fight extreme poverty through effective giving.
@@ -33,4 +33,4 @@ areas:
 <p class="apply-cta"><a href="https://1fortheworld.org/volunteer-with-us">Apply →</a></p>
 
 ---
-*Posted 2022-01-02 · Listing synced 2026-08-26 · 80k job ID `recCQCI9ruy4HYheW`*
+*Posted 2022-01-02 · Listing synced 2026-08-27 · 80k job ID `recCQCI9ruy4HYheW`*

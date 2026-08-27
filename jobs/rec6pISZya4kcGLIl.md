@@ -2,7 +2,7 @@
 title: "Growth Marketing Specialist"
 employer: "Marketing Growth Lab"
 job_id: "rec6pISZya4kcGLIl"
-last_updated: "2026-08-26T05:33:38.281962Z"
+last_updated: "2026-08-27T13:17:28.194399Z"
 posted_at: "2022-01-02T00:00:00Z"
 status: ready
 apply_url: "https://docs.google.com/document/d/14En9ZhajBHIaM_iwn0m9vbTRIn0-Az-QrnOpjiRM7fc/edit?tab=t.0#heading=h.vzc1qkrp058y"
@@ -19,10 +19,10 @@ areas:
 <dt>Role type</dt><dd>Part-time</dd>
 <dt>Experience</dt><dd>Junior (1-4 years experience)</dd>
 <dt>Degree</dt><dd>Undergraduate degree or less</dd>
-<dt>Salary</dt><dd>$60,017 – $75,021</dd>
+<dt>Salary</dt><dd>$59,993 – $74,991</dd>
 </dl>
 
-**Areas & skills:** Building effective altruism, Outreach
+**Areas & skills:** Building effective altruism, Communications
 
 ## Summary
 - In this role, you'll drive conversion growth by auditing funnels, identifying opportunities, and implementing data-driven marketing strategies.
@@ -34,4 +34,4 @@ areas:
 <p class="apply-cta"><a href="https://docs.google.com/document/d/14En9ZhajBHIaM_iwn0m9vbTRIn0-Az-QrnOpjiRM7fc/edit?tab=t.0#heading=h.vzc1qkrp058y">Apply →</a></p>
 
 ---
-*Posted 2022-01-02 · Listing synced 2026-08-26 · 80k job ID `rec6pISZya4kcGLIl`*
+*Posted 2022-01-02 · Listing synced 2026-08-27 · 80k job ID `rec6pISZya4kcGLIl`*

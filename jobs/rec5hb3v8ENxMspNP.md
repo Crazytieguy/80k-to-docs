@@ -1,8 +1,8 @@
 ---
-title: "Research Scientist, Member of Technical Staff, AI Digest"
-employer: "Sage"
+title: "Member of Technical Staff, Research Scientist"
+employer: "AI Digest"
 job_id: "rec5hb3v8ENxMspNP"
-last_updated: "2026-08-26T05:31:43.212832Z"
+last_updated: "2026-08-27T13:15:29.565775Z"
 posted_at: "2026-08-25T00:00:00Z"
 status: ready
 apply_url: "https://jobs.ashbyhq.com/aidigest/1eeba9e6-64e0-4095-bb92-ffaac3d053ec"
@@ -10,16 +10,16 @@ areas:
   - "AI safety & policy"
 ---
 
-# Research Scientist, Member of Technical Staff, AI Digest
+# Member of Technical Staff, Research Scientist
 
-**[Sage](https://sage-future.org/)**
+**[AI Digest](https://theaidigest.org/)**
 
 <dl class="job-meta">
 <dt>Location</dt><dd>Remote, Global</dd>
 <dt>Role type</dt><dd>Full-time</dd>
-<dt>Experience</dt><dd>Junior (1-4 years experience)</dd>
+<dt>Experience</dt><dd>Multiple experience levels</dd>
 <dt>Degree</dt><dd>Undergraduate degree or less</dd>
-<dt>Salary</dt><dd>$150,000 – $200,000</dd>
+<dt>Salary</dt><dd>$150,000 – $350,000</dd>
 </dl>
 
 **Areas & skills:** AI safety & policy, Research
@@ -34,4 +34,4 @@ areas:
 <p class="apply-cta"><a href="https://jobs.ashbyhq.com/aidigest/1eeba9e6-64e0-4095-bb92-ffaac3d053ec">Apply →</a></p>
 
 ---
-*Posted 2026-08-25 · Listing synced 2026-08-26 · 80k job ID `rec5hb3v8ENxMspNP`*
+*Posted 2026-08-25 · Listing synced 2026-08-27 · 80k job ID `rec5hb3v8ENxMspNP`*

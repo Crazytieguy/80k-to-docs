@@ -2,7 +2,7 @@
 title: "Director, Donor Relations"
 employer: "The AI Policy Network"
 job_id: "recvrwq8Z7QvyhTJd"
-last_updated: "2026-08-26T05:33:28.074491Z"
+last_updated: "2026-08-27T13:17:15.845129Z"
 posted_at: "2022-01-05T00:00:00Z"
 status: ready
 apply_url: "https://job-boards.greenhouse.io/aipn/jobs/4353518009"
@@ -22,7 +22,7 @@ areas:
 <dt>Salary</dt><dd>$130,000 – $165,000</dd>
 </dl>
 
-**Areas & skills:** AI safety & policy, Outreach
+**Areas & skills:** AI safety & policy, Communications
 
 ## Summary
 - In this role, you'll cultivate and close major gifts from tech professionals and mission-aligned donors to support AIPN's work.
@@ -34,4 +34,4 @@ areas:
 <p class="apply-cta"><a href="https://job-boards.greenhouse.io/aipn/jobs/4353518009">Apply →</a></p>
 
 ---
-*Posted 2022-01-05 · Listing synced 2026-08-26 · 80k job ID `recvrwq8Z7QvyhTJd`*
+*Posted 2022-01-05 · Listing synced 2026-08-27 · 80k job ID `recvrwq8Z7QvyhTJd`*

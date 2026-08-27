@@ -2,7 +2,7 @@
 title: "Animal Advocacy Course"
 employer: "Animal Advocacy Careers"
 job_id: "rec2kJ4j9Z5nBmIPQ"
-last_updated: "2026-08-26T05:33:32.792936Z"
+last_updated: "2026-08-27T13:17:20.600653Z"
 posted_at: "2022-01-02T00:00:00Z"
 status: ready
 apply_url: "https://animaladvocacycareers.org/course/"
@@ -21,7 +21,7 @@ areas:
 <dt>Degree</dt><dd>Undergraduate degree or less</dd>
 </dl>
 
-**Areas & skills:** Animal welfare, Outreach
+**Areas & skills:** Animal welfare, Communications
 
 ## Summary
 - This course teaches how to create a meaningful career in animal advocacy that aligns with one's values and impact goals.
@@ -32,4 +32,4 @@ areas:
 <p class="apply-cta"><a href="https://animaladvocacycareers.org/course/">Apply →</a></p>
 
 ---
-*Posted 2022-01-02 · Listing synced 2026-08-26 · 80k job ID `rec2kJ4j9Z5nBmIPQ`*
+*Posted 2022-01-02 · Listing synced 2026-08-27 · 80k job ID `rec2kJ4j9Z5nBmIPQ`*

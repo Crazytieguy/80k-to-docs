@@ -2,7 +2,7 @@
 title: "Communications Intern, French / Portuguese"
 employer: "Concentric Policies"
 job_id: "recM07KEUabSUkFJa"
-last_updated: "2026-08-26T05:33:34.248144Z"
+last_updated: "2026-08-27T13:17:22.681872Z"
 posted_at: "2022-01-02T00:00:00Z"
 status: ready
 apply_url: "https://docs.google.com/document/d/1FM0Wo6mxGcTquVcz0St28t6BGOEiNXw04CxW8O5c-0k/edit#heading=h.92fcxz3w7i3o"
@@ -21,7 +21,7 @@ areas:
 <dt>Degree</dt><dd>Undergraduate degree or less</dd>
 </dl>
 
-**Areas & skills:** Global health & development, Outreach, Other
+**Areas & skills:** Global health & development, Communications, Other
 
 ## Summary
 - In this role, you will help drive progress on one or more of the organisation’s current priorities through tasks including but not limited to the following.
@@ -33,4 +33,4 @@ areas:
 <p class="apply-cta"><a href="https://docs.google.com/document/d/1FM0Wo6mxGcTquVcz0St28t6BGOEiNXw04CxW8O5c-0k/edit#heading=h.92fcxz3w7i3o">Apply →</a></p>
 
 ---
-*Posted 2022-01-02 · Listing synced 2026-08-26 · 80k job ID `recM07KEUabSUkFJa`*
+*Posted 2022-01-02 · Listing synced 2026-08-27 · 80k job ID `recM07KEUabSUkFJa`*

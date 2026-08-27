@@ -2,7 +2,7 @@
 title: "Expression of Interest, Good Impressions and Partner Organizations"
 employer: "Good Impressions Media"
 job_id: "rec9X7SfKH26p7AIE"
-last_updated: "2026-08-26T05:32:20.486621Z"
+last_updated: "2026-08-27T13:16:07.697301Z"
 posted_at: "2026-07-31T00:03:00Z"
 status: ready
 apply_url: "https://forms.goodimpressionsmedia.com/expression-of-interest"
@@ -21,7 +21,7 @@ areas:
 <dt>Degree</dt><dd>Undergraduate degree or less</dd>
 </dl>
 
-**Areas & skills:** Building effective altruism, Outreach
+**Areas & skills:** Building effective altruism, Communications
 
 ## Summary
 - Express interest in joining either Good Impressions or their partner organisations.
@@ -29,4 +29,4 @@ areas:
 <p class="apply-cta"><a href="https://forms.goodimpressionsmedia.com/expression-of-interest">Apply →</a></p>
 
 ---
-*Posted 2026-07-31 · Listing synced 2026-08-26 · 80k job ID `rec9X7SfKH26p7AIE`*
+*Posted 2026-07-31 · Listing synced 2026-08-27 · 80k job ID `rec9X7SfKH26p7AIE`*

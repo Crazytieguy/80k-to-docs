@@ -2,7 +2,7 @@
 title: "Senior Researcher Communications Specialist"
 employer: "LawZero"
 job_id: "recOJFXfdnWyTjGm6"
-last_updated: "2026-08-26T05:32:43.191446Z"
+last_updated: "2026-08-27T13:16:31.645634Z"
 posted_at: "2026-06-26T00:00:00Z"
 status: ready
 apply_url: "https://job-boards.greenhouse.io/lawzero/jobs/4297736009"
@@ -21,7 +21,7 @@ areas:
 <dt>Degree</dt><dd>Undergraduate degree or less</dd>
 </dl>
 
-**Areas & skills:** AI safety & policy, Outreach
+**Areas & skills:** AI safety & policy, Communications
 
 ## Summary
 - In this role, you'll translate complex AI research into clear, engaging content for policymakers, media, and the public.
@@ -33,4 +33,4 @@ areas:
 <p class="apply-cta"><a href="https://job-boards.greenhouse.io/lawzero/jobs/4297736009">Apply →</a></p>
 
 ---
-*Posted 2026-06-26 · Listing synced 2026-08-26 · 80k job ID `recOJFXfdnWyTjGm6`*
+*Posted 2026-06-26 · Listing synced 2026-08-27 · 80k job ID `recOJFXfdnWyTjGm6`*

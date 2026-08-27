@@ -2,7 +2,7 @@
 title: "Senior Manager, Product Marketing"
 employer: "Center for AI Safety"
 job_id: "recFF0pMW8kbBG0Ip"
-last_updated: "2026-08-26T05:31:45.642637Z"
+last_updated: "2026-08-27T13:15:33.838226Z"
 posted_at: "2026-08-24T00:04:30Z"
 status: ready
 apply_url: "https://job-boards.greenhouse.io/centerforartificialintelligencesafetyinc/jobs/4377933009"
@@ -22,7 +22,7 @@ areas:
 <dt>Salary</dt><dd>$150,000 – $200,000</dd>
 </dl>
 
-**Areas & skills:** AI safety & policy, Outreach
+**Areas & skills:** AI safety & policy, Communications
 
 ## Summary
 - In this role, you'll transform AI safety research into public campaigns that reach mainstream audiences through compelling storytelling.
@@ -34,4 +34,4 @@ areas:
 <p class="apply-cta"><a href="https://job-boards.greenhouse.io/centerforartificialintelligencesafetyinc/jobs/4377933009">Apply →</a></p>
 
 ---
-*Posted 2026-08-24 · Listing synced 2026-08-26 · 80k job ID `recFF0pMW8kbBG0Ip`*
+*Posted 2026-08-24 · Listing synced 2026-08-27 · 80k job ID `recFF0pMW8kbBG0Ip`*

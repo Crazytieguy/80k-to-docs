@@ -4,25 +4,20 @@ employer: "FAR AI"
 job_id: "recggiJ1Bqu8fhSQ6"
 last_updated: "2026-08-26T05:31:40.921305Z"
 posted_at: "2026-08-25T00:04:03Z"
-status: ready
+status: closed
+closed_at: "2026-08-27"
 apply_url: "https://jobs.ashbyhq.com/far.ai/310ce0e6-c2d0-4a05-a44d-76297aaa1eae?embed=js"
 areas:
   - "AI safety & policy"
 ---
 
+> ⚠️ **CLOSED on 2026-08-27** — this job is no longer listed on the 80,000 Hours board. Archived snapshot below.
+
 # Senior Business Operations Associate
 
-**[FAR AI](https://far.ai/)**
+**FAR AI**
 
-<dl class="job-meta">
-<dt>Location</dt><dd>San Francisco Bay Area, USA</dd>
-<dt>Role type</dt><dd>Full-time</dd>
-<dt>Experience</dt><dd>Junior (1-4 years experience), Mid (5-9 years experience)</dd>
-<dt>Degree</dt><dd>Undergraduate degree or less</dd>
-<dt>Salary</dt><dd>$110,000 – $125,000</dd>
-</dl>
-
-**Areas & skills:** AI safety & policy, Operations
+**Areas & skills:** AI safety & policy
 
 ## Summary
 - In this role, you'll own key operational processes and drive improvements across finance, HR, compliance, and IT as FAR.AI scales.

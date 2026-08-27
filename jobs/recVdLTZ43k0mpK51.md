@@ -2,7 +2,7 @@
 title: "Request for Proposals, Part-Time SEO and GEO Consultant"
 employer: "Effective Altruism Hong Kong"
 job_id: "recVdLTZ43k0mpK51"
-last_updated: "2026-08-26T05:33:35.473381Z"
+last_updated: "2026-08-27T13:17:24.442599Z"
 posted_at: "2022-01-02T00:00:00Z"
 status: ready
 apply_url: "https://www.eahongkong.org/rfp-seo-consultant"
@@ -21,7 +21,7 @@ areas:
 <dt>Degree</dt><dd>Undergraduate degree or less</dd>
 </dl>
 
-**Areas & skills:** Building effective altruism, Outreach
+**Areas & skills:** Building effective altruism, Communications
 
 ## Summary
 - In this role, you'll improve EAHK's and GiveWise's organic visibility through SEO and GEO optimisation for search engines and AI engines.
@@ -33,4 +33,4 @@ areas:
 <p class="apply-cta"><a href="https://www.eahongkong.org/rfp-seo-consultant">Apply →</a></p>
 
 ---
-*Posted 2022-01-02 · Listing synced 2026-08-26 · 80k job ID `recVdLTZ43k0mpK51`*
+*Posted 2022-01-02 · Listing synced 2026-08-27 · 80k job ID `recVdLTZ43k0mpK51`*

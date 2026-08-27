@@ -2,7 +2,7 @@
 title: "Research Scientist"
 employer: "Simplex"
 job_id: "reclGOQEQfAs38A5f"
-last_updated: "2026-08-26T05:33:16.815473Z"
+last_updated: "2026-08-27T13:17:03.942130Z"
 posted_at: "2022-01-06T00:00:00Z"
 status: ready
 apply_url: "https://www.simplexaisafety.com/london-research-scientist"
@@ -34,4 +34,4 @@ areas:
 <p class="apply-cta"><a href="https://www.simplexaisafety.com/london-research-scientist">Apply →</a></p>
 
 ---
-*Posted 2022-01-06 · Listing synced 2026-08-26 · 80k job ID `reclGOQEQfAs38A5f`*
+*Posted 2022-01-06 · Listing synced 2026-08-27 · 80k job ID `reclGOQEQfAs38A5f`*

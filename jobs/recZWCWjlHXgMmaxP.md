@@ -2,8 +2,8 @@
 title: "Funding, Involve and Engage, Social Sciences, Humanities and the Arts for People and the Economy"
 employer: "The British Academy"
 job_id: "recZWCWjlHXgMmaxP"
-last_updated: "2026-08-26T05:32:50.791089Z"
-posted_at: "2026-06-08T00:00:00Z"
+last_updated: "2026-08-27T13:17:35.644725Z"
+posted_at: "2022-01-01T00:00:00Z"
 status: ready
 apply_url: "https://www.thebritishacademy.ac.uk/funding/schemes/shape-involve-and-engage/"
 areas:
@@ -21,7 +21,7 @@ areas:
 <dt>Degree</dt><dd>Doctoral degree</dd>
 </dl>
 
-**Areas & skills:** Career development: Technical, Research, Outreach
+**Areas & skills:** Career development: Technical, Research, Communications
 
 ## Summary
 - This is a funding scheme to support ambitious projects to engage the public with the humanities and social sciences.
@@ -32,4 +32,4 @@ areas:
 <p class="apply-cta"><a href="https://www.thebritishacademy.ac.uk/funding/schemes/shape-involve-and-engage/">Apply →</a></p>
 
 ---
-*Posted 2026-06-08 · Listing synced 2026-08-26 · 80k job ID `recZWCWjlHXgMmaxP`*
+*Posted 2022-01-01 · Listing synced 2026-08-27 · 80k job ID `recZWCWjlHXgMmaxP`*

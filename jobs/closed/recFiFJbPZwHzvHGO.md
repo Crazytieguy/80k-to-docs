@@ -4,26 +4,21 @@ employer: "RAND Corporation"
 job_id: "recFiFJbPZwHzvHGO"
 last_updated: "2026-08-26T05:32:19.762948Z"
 posted_at: "2026-07-31T00:04:13Z"
-status: ready
+status: closed
+closed_at: "2026-08-27"
 apply_url: "https://rand.wd5.myworkdayjobs.com/en-US/External_Career_Site/job/Washington-DC-DC-Metro-Area/Research-Resident--AI---Bio-Threats-and-Mitigations_R3598"
 areas:
   - "AI safety & policy"
   - "Biosecurity & pandemic preparedness"
 ---
 
+> ⚠️ **CLOSED on 2026-08-27** — this job is no longer listed on the 80,000 Hours board. Archived snapshot below.
+
 # Research Resident, AIxBio Threats and Mitigations
 
-**[RAND Corporation](https://www.rand.org)**
+**RAND Corporation**
 
-<dl class="job-meta">
-<dt>Location</dt><dd>Washington, DC metro area, Pittsburgh, PA, Los Angeles, CA, Boston metro area, Remote, USA, USA</dd>
-<dt>Role type</dt><dd>Full-time</dd>
-<dt>Experience</dt><dd>Multiple experience levels</dd>
-<dt>Degree</dt><dd>Undergraduate degree or less</dd>
-<dt>Salary</dt><dd>$90,400 – $274,300</dd>
-</dl>
-
-**Areas & skills:** AI safety & policy, Biosecurity & pandemic preparedness, Research, Policy
+**Areas & skills:** AI safety & policy, Biosecurity & pandemic preparedness
 
 ## Summary
 - In this role, you'll assess how frontier AI enables biological misuse and develop safeguards and detection approaches.

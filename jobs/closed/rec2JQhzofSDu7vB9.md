@@ -4,24 +4,20 @@ employer: "Irregular"
 job_id: "rec2JQhzofSDu7vB9"
 last_updated: "2026-08-26T05:33:25.647925Z"
 posted_at: "2022-01-05T00:00:00Z"
-status: ready
+status: closed
+closed_at: "2026-08-27"
 apply_url: "https://jobs.ashbyhq.com/Irregular/e2ecd2b1-6a44-4afe-bd31-8d1366ca1bb6?embed=js"
 areas:
   - "AI safety & policy"
 ---
 
+> ⚠️ **CLOSED on 2026-08-27** — this job is no longer listed on the 80,000 Hours board. Archived snapshot below.
+
 # Security Engineer
 
-**[Irregular](https://www.irregular.com/)**
+**Irregular**
 
-<dl class="job-meta">
-<dt>Location</dt><dd>Tel Aviv, Israel, Middle-East, Israel</dd>
-<dt>Role type</dt><dd>Full-time</dd>
-<dt>Experience</dt><dd>Mid (5-9 years experience)</dd>
-<dt>Degree</dt><dd>Undergraduate degree or less</dd>
-</dl>
-
-**Areas & skills:** AI safety & policy, Information security
+**Areas & skills:** AI safety & policy
 
 ## Summary
 - In this role, you'll architect and scale Irregular's security foundations across infrastructure, identity management, applications, and security operations.

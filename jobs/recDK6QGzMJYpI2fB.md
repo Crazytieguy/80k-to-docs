@@ -2,7 +2,7 @@
 title: "Expression of Interest"
 employer: "Lead Exposure Elimination Project"
 job_id: "recDK6QGzMJYpI2fB"
-last_updated: "2026-08-26T05:33:31.713392Z"
+last_updated: "2026-08-27T13:17:19.463800Z"
 posted_at: "2022-01-03T00:00:00Z"
 status: ready
 apply_url: "https://airtable.com/appBdrnsWFu7s2we4/pagO4wQmkv2cA3UK7/form"
@@ -21,7 +21,7 @@ areas:
 <dt>Degree</dt><dd>Undergraduate degree or less</dd>
 </dl>
 
-**Areas & skills:** Global health & development, Outreach, Operations
+**Areas & skills:** Global health & development, Communications, Operations
 
 ## Summary
 - Express interest in working at LEEP. You will be contacted if there is a suitable opening.
@@ -29,4 +29,4 @@ areas:
 <p class="apply-cta"><a href="https://airtable.com/appBdrnsWFu7s2we4/pagO4wQmkv2cA3UK7/form">Apply →</a></p>
 
 ---
-*Posted 2022-01-03 · Listing synced 2026-08-26 · 80k job ID `recDK6QGzMJYpI2fB`*
+*Posted 2022-01-03 · Listing synced 2026-08-27 · 80k job ID `recDK6QGzMJYpI2fB`*

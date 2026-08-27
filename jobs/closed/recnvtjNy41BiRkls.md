@@ -4,25 +4,20 @@ employer: "UK Government, AI Security Institute"
 job_id: "recnvtjNy41BiRkls"
 last_updated: "2026-08-26T05:31:56.526673Z"
 posted_at: "2026-08-17T00:05:00Z"
-status: ready
+status: closed
+closed_at: "2026-08-27"
 apply_url: "https://www.civilservicejobs.service.gov.uk/csr/jobs.cgi?vxsys=4&vxvac=476168"
 areas:
   - "AI safety & policy"
 ---
 
+> ⚠️ **CLOSED on 2026-08-27** — this job is no longer listed on the 80,000 Hours board. Archived snapshot below.
+
 # Head of Business Operations, AI Safety Institute
 
-**[UK Government, AI Security Institute](https://www.aisi.gov.uk/)**
+**UK Government, AI Security Institute**
 
-<dl class="job-meta">
-<dt>Location</dt><dd>London, UK, Manchester, UK, UK</dd>
-<dt>Role type</dt><dd>Full-time</dd>
-<dt>Experience</dt><dd>Mid (5-9 years experience)</dd>
-<dt>Degree</dt><dd>Undergraduate degree or less</dd>
-<dt>Salary</dt><dd>$94,987</dd>
-</dl>
-
-**Areas & skills:** AI safety & policy, Operations, Management, Strategy
+**Areas & skills:** AI safety & policy
 
 ## Summary
 - In this role, you'll lead AISI's business operations, managing a workplace technology team and strategic projects.

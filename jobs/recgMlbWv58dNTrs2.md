@@ -2,7 +2,7 @@
 title: "Volunteer"
 employer: "AIGS Canada"
 job_id: "recgMlbWv58dNTrs2"
-last_updated: "2026-08-26T05:33:06.534323Z"
+last_updated: "2026-08-27T13:16:54.394919Z"
 posted_at: "2022-01-06T00:00:00Z"
 status: ready
 apply_url: "https://aigs.ca/volunteer/"
@@ -21,7 +21,7 @@ areas:
 <dt>Degree</dt><dd>Undergraduate degree or less</dd>
 </dl>
 
-**Areas & skills:** AI governance, Policy, Outreach, Operations
+**Areas & skills:** AI governance, Policy, Communications, Operations
 
 ## Summary
 - In this role, you'll volunteer with AIGS to help ensure advanced AI systems in Canada are developed safely and beneficially.
@@ -33,4 +33,4 @@ areas:
 <p class="apply-cta"><a href="https://aigs.ca/volunteer/">Apply →</a></p>
 
 ---
-*Posted 2022-01-06 · Listing synced 2026-08-26 · 80k job ID `recgMlbWv58dNTrs2`*
+*Posted 2022-01-06 · Listing synced 2026-08-27 · 80k job ID `recgMlbWv58dNTrs2`*

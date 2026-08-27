@@ -2,7 +2,7 @@
 title: "Security Engineer, Detection and Response, Europe, the Middle East and Africa"
 employer: "OpenAI"
 job_id: "recY7yuxJEB1RMy92"
-last_updated: "2026-08-26T05:32:59.530920Z"
+last_updated: "2026-08-27T13:16:48.187859Z"
 posted_at: "2022-01-11T00:00:00Z"
 status: ready
 apply_url: "https://openai.com/careers/security-engineer-detection-and-response-emea-london-uk/"
@@ -33,4 +33,4 @@ areas:
 <p class="apply-cta"><a href="https://openai.com/careers/security-engineer-detection-and-response-emea-london-uk/">Apply →</a></p>
 
 ---
-*Posted 2022-01-11 · Listing synced 2026-08-26 · 80k job ID `recY7yuxJEB1RMy92`*
+*Posted 2022-01-11 · Listing synced 2026-08-27 · 80k job ID `recY7yuxJEB1RMy92`*

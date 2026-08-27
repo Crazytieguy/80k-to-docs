@@ -2,7 +2,7 @@
 title: "Technical Product Marketing Manager"
 employer: "Goodfire"
 job_id: "recHmnTC6c5Z0VXEB"
-last_updated: "2026-08-26T05:33:24.433181Z"
+last_updated: "2026-08-27T13:17:12.123710Z"
 posted_at: "2022-01-05T00:00:00Z"
 status: ready
 apply_url: "https://job-boards.greenhouse.io/goodfire/jobs/4988062008"
@@ -22,7 +22,7 @@ areas:
 <dt>Salary</dt><dd>$175,000 – $300,000</dd>
 </dl>
 
-**Areas & skills:** AI safety & policy, Outreach
+**Areas & skills:** AI safety & policy, Communications
 
 ## Summary
 - In this role, you'll lead Goodfire's technical product marketing, articulating its interpretable AI vision to engineers, enterprise leaders, and key stakeholders.
@@ -34,4 +34,4 @@ areas:
 <p class="apply-cta"><a href="https://job-boards.greenhouse.io/goodfire/jobs/4988062008">Apply →</a></p>
 
 ---
-*Posted 2022-01-05 · Listing synced 2026-08-26 · 80k job ID `recHmnTC6c5Z0VXEB`*
+*Posted 2022-01-05 · Listing synced 2026-08-27 · 80k job ID `recHmnTC6c5Z0VXEB`*

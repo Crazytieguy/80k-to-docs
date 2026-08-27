@@ -2,7 +2,7 @@
 title: "Principal Researcher, AI Security"
 employer: "Alice"
 job_id: "recjB2vjAe7ghY93J"
-last_updated: "2026-08-26T05:31:51.717349Z"
+last_updated: "2026-08-27T13:15:40.331718Z"
 posted_at: "2026-08-19T00:01:00Z"
 status: ready
 apply_url: "https://alice.io/positions/position-36_07c"
@@ -33,4 +33,4 @@ areas:
 <p class="apply-cta"><a href="https://alice.io/positions/position-36_07c">Apply →</a></p>
 
 ---
-*Posted 2026-08-19 · Listing synced 2026-08-26 · 80k job ID `recjB2vjAe7ghY93J`*
+*Posted 2026-08-19 · Listing synced 2026-08-27 · 80k job ID `recjB2vjAe7ghY93J`*

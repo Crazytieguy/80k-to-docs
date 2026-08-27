@@ -2,7 +2,7 @@
 title: "Falcon Fund"
 employer: "Manifund"
 job_id: "recRvEeTdKqawZ5Yt"
-last_updated: "2026-08-26T05:33:26.464259Z"
+last_updated: "2026-08-27T13:17:14.232524Z"
 posted_at: "2022-01-05T00:00:00Z"
 status: ready
 apply_url: "https://manifund.org/projects/falcon-fund"
@@ -32,4 +32,4 @@ areas:
 <p class="apply-cta"><a href="https://manifund.org/projects/falcon-fund">Apply →</a></p>
 
 ---
-*Posted 2022-01-05 · Listing synced 2026-08-26 · 80k job ID `recRvEeTdKqawZ5Yt`*
+*Posted 2022-01-05 · Listing synced 2026-08-27 · 80k job ID `recRvEeTdKqawZ5Yt`*

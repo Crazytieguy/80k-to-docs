@@ -2,7 +2,7 @@
 title: "Speculative Application"
 employer: "Animal Equality"
 job_id: "recXMPHlc9Ep1Kdir"
-last_updated: "2026-08-26T05:33:30.941697Z"
+last_updated: "2026-08-27T13:17:18.642549Z"
 posted_at: "2022-01-03T00:00:00Z"
 status: ready
 apply_url: "https://animal-equality-germany-ev.jobs.personio.de/job/1359239?language=de%3Flanguage%3D"
@@ -21,7 +21,7 @@ areas:
 <dt>Degree</dt><dd>Undergraduate degree or less</dd>
 </dl>
 
-**Areas & skills:** Animal welfare, Outreach, Operations
+**Areas & skills:** Animal welfare, Communications, Operations
 
 ## Summary
 - This is an expression of interest for roles at Animal Equality.
@@ -29,4 +29,4 @@ areas:
 <p class="apply-cta"><a href="https://animal-equality-germany-ev.jobs.personio.de/job/1359239?language=de%3Flanguage%3D">Apply →</a></p>
 
 ---
-*Posted 2022-01-03 · Listing synced 2026-08-26 · 80k job ID `recXMPHlc9Ep1Kdir`*
+*Posted 2022-01-03 · Listing synced 2026-08-27 · 80k job ID `recXMPHlc9Ep1Kdir`*

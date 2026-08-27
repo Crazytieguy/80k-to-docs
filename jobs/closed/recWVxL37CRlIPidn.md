@@ -4,25 +4,20 @@ employer: "University of Sheffield, School of Computer Science"
 job_id: "recWVxL37CRlIPidn"
 last_updated: "2026-08-26T05:32:08.496279Z"
 posted_at: "2026-08-10T00:00:00Z"
-status: ready
+status: closed
+closed_at: "2026-08-27"
 apply_url: "https://www.jobs.ac.uk/job/DSL112/phd-studentship-post-quantum-zero-knowledge-proofs-and-trustworthy-ai?uuid=9265144d-8c82-11f1-9cb0-064da8edb92a&campaign=jbe20260731&source=jbe"
 areas:
   - "AI safety & policy"
 ---
 
+> ⚠️ **CLOSED on 2026-08-27** — this job is no longer listed on the 80,000 Hours board. Archived snapshot below.
+
 # PhD Studentship, Trustworthy AI
 
-**[University of Sheffield, School of Computer Science](https://sheffield.ac.uk/cs)**
+**University of Sheffield, School of Computer Science**
 
-<dl class="job-meta">
-<dt>Location</dt><dd>Sheffield, UK, UK</dd>
-<dt>Role type</dt><dd>Full-time</dd>
-<dt>Experience</dt><dd>Entry-level</dd>
-<dt>Degree</dt><dd>Master's degree</dd>
-<dt>Salary</dt><dd>$34,082</dd>
-</dl>
-
-**Areas & skills:** AI safety & policy, Research, Software engineering
+**Areas & skills:** AI safety & policy
 
 ## Summary
 - In this role, you'll conduct research on trustworthy AI systems.

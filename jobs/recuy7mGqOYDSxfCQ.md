@@ -2,7 +2,7 @@
 title: "Digital Campaigns Manager"
 employer: "Humans in Control"
 job_id: "recuy7mGqOYDSxfCQ"
-last_updated: "2026-08-26T05:31:46.013384Z"
+last_updated: "2026-08-27T13:15:34.216148Z"
 posted_at: "2026-08-24T00:02:00Z"
 status: ready
 apply_url: "https://humansincontrol.org/careers/digital-campaigns-manager"
@@ -22,7 +22,7 @@ areas:
 <dt>Salary</dt><dd>$80,000 – $95,000</dd>
 </dl>
 
-**Areas & skills:** AI safety & policy, Outreach
+**Areas & skills:** AI safety & policy, Communications
 
 ## Summary
 - In this role, you'll build and run campaigns that turn public concern about AI into organized action.
@@ -34,4 +34,4 @@ areas:
 <p class="apply-cta"><a href="https://humansincontrol.org/careers/digital-campaigns-manager">Apply →</a></p>
 
 ---
-*Posted 2026-08-24 · Listing synced 2026-08-26 · 80k job ID `recuy7mGqOYDSxfCQ`*
+*Posted 2026-08-24 · Listing synced 2026-08-27 · 80k job ID `recuy7mGqOYDSxfCQ`*

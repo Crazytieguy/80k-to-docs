@@ -2,7 +2,7 @@
 title: "Volunteer, Local Group Leader,  Australia"
 employer: "PauseAI"
 job_id: "recCR2qyNqASv5rxK"
-last_updated: "2026-08-26T05:33:15.757978Z"
+last_updated: "2026-08-27T13:17:03.053067Z"
 posted_at: "2022-01-06T00:00:00Z"
 status: ready
 apply_url: "https://docs.google.com/document/d/1KaysDZ1G4mMBS-jh6UDnlU47usiVyYlCJNTwHM6ZLAM/"
@@ -21,7 +21,7 @@ areas:
 <dt>Degree</dt><dd>Undergraduate degree or less</dd>
 </dl>
 
-**Areas & skills:** AI safety & policy, Outreach
+**Areas & skills:** AI safety & policy, Communications
 
 ## Summary
 - In this role, you'll start or grow local PauseAI groups by coordinating volunteers and planning advocacy campaigns.
@@ -33,4 +33,4 @@ areas:
 <p class="apply-cta"><a href="https://docs.google.com/document/d/1KaysDZ1G4mMBS-jh6UDnlU47usiVyYlCJNTwHM6ZLAM/">Apply →</a></p>
 
 ---
-*Posted 2022-01-06 · Listing synced 2026-08-26 · 80k job ID `recCR2qyNqASv5rxK`*
+*Posted 2022-01-06 · Listing synced 2026-08-27 · 80k job ID `recCR2qyNqASv5rxK`*

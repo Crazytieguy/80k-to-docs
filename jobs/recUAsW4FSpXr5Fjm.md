@@ -2,7 +2,7 @@
 title: "Hi-Med Career Planning Course"
 employer: "High Impact Medicine"
 job_id: "recUAsW4FSpXr5Fjm"
-last_updated: "2026-08-26T05:32:11.583222Z"
+last_updated: "2026-08-27T13:15:59.279826Z"
 posted_at: "2026-08-06T00:00:00Z"
 status: ready
 apply_url: "https://www.highimpactmedicine.org/career-planning"
@@ -34,4 +34,4 @@ areas:
 <p class="apply-cta"><a href="https://www.highimpactmedicine.org/career-planning">Apply →</a></p>
 
 ---
-*Posted 2026-08-06 · Listing synced 2026-08-26 · 80k job ID `recUAsW4FSpXr5Fjm`*
+*Posted 2026-08-06 · Listing synced 2026-08-27 · 80k job ID `recUAsW4FSpXr5Fjm`*

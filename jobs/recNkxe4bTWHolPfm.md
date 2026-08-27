@@ -2,7 +2,7 @@
 title: "Social Media Manager"
 employer: "Effectief Geven"
 job_id: "recNkxe4bTWHolPfm"
-last_updated: "2026-08-26T05:33:35.203257Z"
+last_updated: "2026-08-27T13:17:24.075653Z"
 posted_at: "2022-01-02T00:00:00Z"
 status: ready
 apply_url: "https://www.effectiefgeven.be/vacatures/social-media-manager"
@@ -21,7 +21,7 @@ areas:
 <dt>Degree</dt><dd>Undergraduate degree or less</dd>
 </dl>
 
-**Areas & skills:** Building effective altruism, Outreach
+**Areas & skills:** Building effective altruism, Communications
 
 ## Summary
 - In this role, you'll manage social media to amplify the organisation's mission to target audiences through strategic positioning and content.
@@ -33,4 +33,4 @@ areas:
 <p class="apply-cta"><a href="https://www.effectiefgeven.be/vacatures/social-media-manager">Apply →</a></p>
 
 ---
-*Posted 2022-01-02 · Listing synced 2026-08-26 · 80k job ID `recNkxe4bTWHolPfm`*
+*Posted 2022-01-02 · Listing synced 2026-08-27 · 80k job ID `recNkxe4bTWHolPfm`*

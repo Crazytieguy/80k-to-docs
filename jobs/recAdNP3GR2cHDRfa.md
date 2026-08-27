@@ -2,7 +2,7 @@
 title: "Program Manager"
 employer: "CivAI"
 job_id: "recAdNP3GR2cHDRfa"
-last_updated: "2026-08-26T05:33:10.573920Z"
+last_updated: "2026-08-27T13:16:57.701983Z"
 posted_at: "2022-01-06T00:00:00Z"
 status: ready
 apply_url: "https://civai.org/jobs/program-manager"
@@ -22,7 +22,7 @@ areas:
 <dt>Salary</dt><dd>$140,000 – $175,000</dd>
 </dl>
 
-**Areas & skills:** AI safety & policy, Policy, Outreach
+**Areas & skills:** AI safety & policy, Policy, Communications
 
 ## Summary
 - In this role, you'll expand CivAI’s reach and support its work providing AI education to policymakers and the public.
@@ -34,4 +34,4 @@ areas:
 <p class="apply-cta"><a href="https://civai.org/jobs/program-manager">Apply →</a></p>
 
 ---
-*Posted 2022-01-06 · Listing synced 2026-08-26 · 80k job ID `recAdNP3GR2cHDRfa`*
+*Posted 2022-01-06 · Listing synced 2026-08-27 · 80k job ID `recAdNP3GR2cHDRfa`*

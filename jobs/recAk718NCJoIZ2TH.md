@@ -2,7 +2,7 @@
 title: "Deputy Communications Director"
 employer: "The AI Policy Network"
 job_id: "recAk718NCJoIZ2TH"
-last_updated: "2026-08-26T05:32:47.936370Z"
+last_updated: "2026-08-27T13:16:36.538046Z"
 posted_at: "2026-06-11T00:02:00Z"
 status: ready
 apply_url: "https://job-boards.greenhouse.io/aipn/jobs/4353606009"
@@ -22,7 +22,7 @@ areas:
 <dt>Salary</dt><dd>$90,000 – $120,000</dd>
 </dl>
 
-**Areas & skills:** AI safety & policy, Outreach, Management
+**Areas & skills:** AI safety & policy, Communications, Management
 
 ## Summary
 - In this role, you'll serve as second-in-command of AIPN's communications operation, managing media relations and messaging strategy.
@@ -34,4 +34,4 @@ areas:
 <p class="apply-cta"><a href="https://job-boards.greenhouse.io/aipn/jobs/4353606009">Apply →</a></p>
 
 ---
-*Posted 2026-06-11 · Listing synced 2026-08-26 · 80k job ID `recAk718NCJoIZ2TH`*
+*Posted 2026-06-11 · Listing synced 2026-08-27 · 80k job ID `recAk718NCJoIZ2TH`*
