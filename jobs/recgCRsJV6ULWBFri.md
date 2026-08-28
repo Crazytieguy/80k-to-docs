@@ -2,7 +2,7 @@
 title: "Special Projects Associate / Analyst, Studio Team"
 employer: "80,000 Hours"
 job_id: "recgCRsJV6ULWBFri"
-last_updated: "2026-08-27T13:16:00.757984Z"
+last_updated: "2026-08-28T18:32:22.211086Z"
 posted_at: "2026-08-05T00:04:26Z"
 status: ready
 apply_url: "https://jobs.ashbyhq.com/80000hours/d5eb5f47-015c-43a0-9eb5-785a580022b3"
@@ -19,7 +19,7 @@ areas:
 <dt>Role type</dt><dd>Full-time</dd>
 <dt>Experience</dt><dd>Junior (1-4 years experience)</dd>
 <dt>Degree</dt><dd>Undergraduate degree or less</dd>
-<dt>Salary</dt><dd>$91,044 – $137,246</dd>
+<dt>Salary</dt><dd>$90,659 – $136,665</dd>
 </dl>
 
 **Areas & skills:** AI safety & policy, Strategy
@@ -34,4 +34,4 @@ areas:
 <p class="apply-cta"><a href="https://jobs.ashbyhq.com/80000hours/d5eb5f47-015c-43a0-9eb5-785a580022b3">Apply →</a></p>
 
 ---
-*Posted 2026-08-05 · Listing synced 2026-08-27 · 80k job ID `recgCRsJV6ULWBFri`*
+*Posted 2026-08-05 · Listing synced 2026-08-28 · 80k job ID `recgCRsJV6ULWBFri`*

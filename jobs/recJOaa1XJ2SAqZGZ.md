@@ -1,8 +1,8 @@
 ---
 title: "Tech Lead, AI Safety"
-employer: "Trajectory Labs"
+employer: "Trajectory Labs, PBC"
 job_id: "recJOaa1XJ2SAqZGZ"
-last_updated: "2026-08-27T13:16:07.842423Z"
+last_updated: "2026-08-28T18:32:29.142499Z"
 posted_at: "2026-07-31T00:03:00Z"
 status: ready
 apply_url: "https://www.trajectorylabs.com/careers/tech-lead-ai-safety"
@@ -12,7 +12,7 @@ areas:
 
 # Tech Lead, AI Safety
 
-**[Trajectory Labs](https://trajectorylabs.net/)**
+**[Trajectory Labs, PBC](https://trajectorylabs.net/)**
 
 <dl class="job-meta">
 <dt>Location</dt><dd>San Francisco Bay Area, USA, USA (Confirmed Visas)</dd>
@@ -34,4 +34,4 @@ areas:
 <p class="apply-cta"><a href="https://www.trajectorylabs.com/careers/tech-lead-ai-safety">Apply →</a></p>
 
 ---
-*Posted 2026-07-31 · Listing synced 2026-08-27 · 80k job ID `recJOaa1XJ2SAqZGZ`*
+*Posted 2026-07-31 · Listing synced 2026-08-28 · 80k job ID `recJOaa1XJ2SAqZGZ`*

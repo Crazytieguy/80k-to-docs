@@ -2,7 +2,7 @@
 title: "AI Security and Control Engineer"
 employer: "Apollo Research"
 job_id: "recBP2mpg5hnGCLS7"
-last_updated: "2026-08-27T13:16:32.532612Z"
+last_updated: "2026-08-28T18:32:55.343238Z"
 posted_at: "2026-06-22T00:05:00Z"
 status: ready
 apply_url: "https://jobs.lever.co/apolloresearch/dacbf91a-7944-4283-9bce-492e22f15498"
@@ -19,7 +19,7 @@ areas:
 <dt>Role type</dt><dd>Full-time</dd>
 <dt>Experience</dt><dd>Junior (1-4 years experience), Mid (5-9 years experience)</dd>
 <dt>Degree</dt><dd>Undergraduate degree or less</dd>
-<dt>Salary</dt><dd>$183,447 – $271,774</dd>
+<dt>Salary</dt><dd>$182,671 – $270,623</dd>
 </dl>
 
 **Areas & skills:** AI safety & policy, Information security
@@ -34,4 +34,4 @@ areas:
 <p class="apply-cta"><a href="https://jobs.lever.co/apolloresearch/dacbf91a-7944-4283-9bce-492e22f15498">Apply →</a></p>
 
 ---
-*Posted 2026-06-22 · Listing synced 2026-08-27 · 80k job ID `recBP2mpg5hnGCLS7`*
+*Posted 2026-06-22 · Listing synced 2026-08-28 · 80k job ID `recBP2mpg5hnGCLS7`*

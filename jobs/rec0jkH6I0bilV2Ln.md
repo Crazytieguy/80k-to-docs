@@ -2,7 +2,7 @@
 title: "Research Manager, AIxBio"
 employer: "ERA"
 job_id: "rec0jkH6I0bilV2Ln"
-last_updated: "2026-08-27T13:15:49.396297Z"
+last_updated: "2026-08-28T18:32:10.178541Z"
 posted_at: "2026-08-13T00:05:00Z"
 status: ready
 apply_url: "https://docs.google.com/document/d/1X2RfIPAVeUFCA5WgXsBleUo7SjTe-WICeBKzQ98sfEY/edit?tab=t.0#heading=h.a7tt25lx6qsx"
@@ -20,7 +20,7 @@ areas:
 <dt>Role type</dt><dd>Full-time, Part-time</dd>
 <dt>Experience</dt><dd>Junior (1-4 years experience), Mid (5-9 years experience)</dd>
 <dt>Degree</dt><dd>Undergraduate degree or less</dd>
-<dt>Salary</dt><dd>$81,532 – $122,298</dd>
+<dt>Salary</dt><dd>$81,187 – $121,780</dd>
 </dl>
 
 **Areas & skills:** AI safety & policy, Biosecurity & pandemic preparedness, Research, Management
@@ -35,4 +35,4 @@ areas:
 <p class="apply-cta"><a href="https://docs.google.com/document/d/1X2RfIPAVeUFCA5WgXsBleUo7SjTe-WICeBKzQ98sfEY/edit?tab=t.0#heading=h.a7tt25lx6qsx">Apply →</a></p>
 
 ---
-*Posted 2026-08-13 · Listing synced 2026-08-27 · 80k job ID `rec0jkH6I0bilV2Ln`*
+*Posted 2026-08-13 · Listing synced 2026-08-28 · 80k job ID `rec0jkH6I0bilV2Ln`*

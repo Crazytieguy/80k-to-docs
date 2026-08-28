@@ -2,7 +2,7 @@
 title: "Specialist, Redteaming, Auditing, and Compliance"
 employer: "SL5 Task Force"
 job_id: "reciESCxVa2L0212j"
-last_updated: "2026-08-27T13:15:43.453903Z"
+last_updated: "2026-08-28T18:32:03.763324Z"
 posted_at: "2026-08-18T00:01:00Z"
 status: ready
 apply_url: "https://jobs.ashbyhq.com/security-level-5/9dc5920d-96be-4d8b-932e-017f4249a404?embed=js"
@@ -34,4 +34,4 @@ areas:
 <p class="apply-cta"><a href="https://jobs.ashbyhq.com/security-level-5/9dc5920d-96be-4d8b-932e-017f4249a404?embed=js">Apply →</a></p>
 
 ---
-*Posted 2026-08-18 · Listing synced 2026-08-27 · 80k job ID `reciESCxVa2L0212j`*
+*Posted 2026-08-18 · Listing synced 2026-08-28 · 80k job ID `reciESCxVa2L0212j`*

@@ -2,7 +2,7 @@
 title: "Security Software Development Student"
 employer: "Intel"
 job_id: "recATtD0GWth1Gphn"
-last_updated: "2026-08-27T13:15:36.869320Z"
+last_updated: "2026-08-28T18:31:56.438464Z"
 posted_at: "2026-08-21T00:00:00Z"
 status: ready
 apply_url: "https://www.linkedin.com/jobs/view/4454753540/?alternateChannel=search&eBP=NON_CHARGEABLE_CHANNEL&trk=d_flagship3_search_srp_jobs&refId=v4ESAlq5GT3fXbZ4m1HG%2BA%3D%3D&trackingId=WEsh5VilillKEgTmt%2F2WuA%3D%3D"
@@ -33,4 +33,4 @@ areas:
 <p class="apply-cta"><a href="https://www.linkedin.com/jobs/view/4454753540/?alternateChannel=search&amp;eBP=NON_CHARGEABLE_CHANNEL&amp;trk=d_flagship3_search_srp_jobs&amp;refId=v4ESAlq5GT3fXbZ4m1HG%2BA%3D%3D&amp;trackingId=WEsh5VilillKEgTmt%2F2WuA%3D%3D">Apply →</a></p>
 
 ---
-*Posted 2026-08-21 · Listing synced 2026-08-27 · 80k job ID `recATtD0GWth1Gphn`*
+*Posted 2026-08-21 · Listing synced 2026-08-28 · 80k job ID `recATtD0GWth1Gphn`*

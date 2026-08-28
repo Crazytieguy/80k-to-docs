@@ -2,7 +2,7 @@
 title: "Verification Lead"
 employer: "SASH"
 job_id: "recllXlOVCfop818O"
-last_updated: "2026-08-27T13:16:30.646283Z"
+last_updated: "2026-08-28T18:32:51.539675Z"
 posted_at: "2026-06-30T00:02:00Z"
 status: ready
 apply_url: "https://jobs.ashbyhq.com/SASH/d372c303-b64f-4d75-afe6-4c37c5431554"
@@ -34,4 +34,4 @@ areas:
 <p class="apply-cta"><a href="https://jobs.ashbyhq.com/SASH/d372c303-b64f-4d75-afe6-4c37c5431554">Apply →</a></p>
 
 ---
-*Posted 2026-06-30 · Listing synced 2026-08-27 · 80k job ID `recllXlOVCfop818O`*
+*Posted 2026-06-30 · Listing synced 2026-08-28 · 80k job ID `recllXlOVCfop818O`*

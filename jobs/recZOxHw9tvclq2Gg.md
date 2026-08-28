@@ -2,7 +2,7 @@
 title: "AI Governance Roles, European Team"
 employer: "The Future Society"
 job_id: "recZOxHw9tvclq2Gg"
-last_updated: "2026-08-27T13:15:20.992450Z"
+last_updated: "2026-08-28T18:31:38.800755Z"
 posted_at: "2026-08-27T00:05:00Z"
 status: ready
 apply_url: "https://thefuturesociety.org/work-with-us/"
@@ -19,7 +19,7 @@ areas:
 <dt>Role type</dt><dd>Full-time</dd>
 <dt>Experience</dt><dd>Multiple experience levels</dd>
 <dt>Degree</dt><dd>Undergraduate degree or less</dd>
-<dt>Salary</dt><dd>$62,784 – $115,551</dd>
+<dt>Salary</dt><dd>$62,438 – $114,913</dd>
 </dl>
 
 **Areas & skills:** AI safety & policy, Research, Policy, Management
@@ -34,4 +34,4 @@ areas:
 <p class="apply-cta"><a href="https://thefuturesociety.org/work-with-us/">Apply →</a></p>
 
 ---
-*Posted 2026-08-27 · Listing synced 2026-08-27 · 80k job ID `recZOxHw9tvclq2Gg`*
+*Posted 2026-08-27 · Listing synced 2026-08-28 · 80k job ID `recZOxHw9tvclq2Gg`*

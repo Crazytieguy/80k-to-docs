@@ -2,7 +2,7 @@
 title: "Coordinator / Specialist, People Operations"
 employer: "Constellation"
 job_id: "recjv6xIin5vVwIQB"
-last_updated: "2026-08-27T13:16:08.489648Z"
+last_updated: "2026-08-28T18:32:29.756660Z"
 posted_at: "2026-07-30T00:04:07Z"
 status: ready
 apply_url: "https://jobs.gem.com/constellation-institute/am9icG9zdDr6YtwVe5sv7lp66YpgMb-R"
@@ -34,4 +34,4 @@ areas:
 <p class="apply-cta"><a href="https://jobs.gem.com/constellation-institute/am9icG9zdDr6YtwVe5sv7lp66YpgMb-R">Apply →</a></p>
 
 ---
-*Posted 2026-07-30 · Listing synced 2026-08-27 · 80k job ID `recjv6xIin5vVwIQB`*
+*Posted 2026-07-30 · Listing synced 2026-08-28 · 80k job ID `recjv6xIin5vVwIQB`*

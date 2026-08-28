@@ -2,7 +2,7 @@
 title: "Red Team Specialist, Cyber"
 employer: "OpenAI"
 job_id: "recxEfLKmJnRRxE3J"
-last_updated: "2026-08-27T13:15:27.176758Z"
+last_updated: "2026-08-28T18:31:45.204947Z"
 posted_at: "2026-08-26T00:00:00Z"
 status: ready
 apply_url: "https://openai.com/careers/red-team-specialist-cyber-san-francisco/"
@@ -34,4 +34,4 @@ areas:
 <p class="apply-cta"><a href="https://openai.com/careers/red-team-specialist-cyber-san-francisco/">Apply →</a></p>
 
 ---
-*Posted 2026-08-26 · Listing synced 2026-08-27 · 80k job ID `recxEfLKmJnRRxE3J`*
+*Posted 2026-08-26 · Listing synced 2026-08-28 · 80k job ID `recxEfLKmJnRRxE3J`*

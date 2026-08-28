@@ -2,7 +2,7 @@
 title: "Research Scientist, Agent Robustness"
 employer: "Scale AI"
 job_id: "recnKNcuoAyVHqkDA"
-last_updated: "2026-08-27T13:15:23.732316Z"
+last_updated: "2026-08-28T18:31:42.005852Z"
 posted_at: "2026-08-27T00:00:00Z"
 status: ready
 apply_url: "https://job-boards.greenhouse.io/scaleai/jobs/4675684005?gh_src=acad35425us"
@@ -34,4 +34,4 @@ areas:
 <p class="apply-cta"><a href="https://job-boards.greenhouse.io/scaleai/jobs/4675684005?gh_src=acad35425us">Apply →</a></p>
 
 ---
-*Posted 2026-08-27 · Listing synced 2026-08-27 · 80k job ID `recnKNcuoAyVHqkDA`*
+*Posted 2026-08-27 · Listing synced 2026-08-28 · 80k job ID `recnKNcuoAyVHqkDA`*

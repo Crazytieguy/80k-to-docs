@@ -2,7 +2,7 @@
 title: "Head of Biology"
 employer: "Gray Swan"
 job_id: "recqYkcaKi2wZxa0i"
-last_updated: "2026-08-27T13:15:30.384950Z"
+last_updated: "2026-08-28T18:31:48.217789Z"
 posted_at: "2026-08-25T00:00:00Z"
 status: ready
 apply_url: "https://www.grayswan.ai/careers?ashby_jid=f160a2ce-0f55-4843-a0f6-f27a8bc56a64"
@@ -34,4 +34,4 @@ areas:
 <p class="apply-cta"><a href="https://www.grayswan.ai/careers?ashby_jid=f160a2ce-0f55-4843-a0f6-f27a8bc56a64">Apply →</a></p>
 
 ---
-*Posted 2026-08-25 · Listing synced 2026-08-27 · 80k job ID `recqYkcaKi2wZxa0i`*
+*Posted 2026-08-25 · Listing synced 2026-08-28 · 80k job ID `recqYkcaKi2wZxa0i`*

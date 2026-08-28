@@ -1,8 +1,8 @@
 ---
 title: "Member of Technical Staff, Synthetic Data"
-employer: "Trajectory Labs"
+employer: "Trajectory Labs, PBC"
 job_id: "recAlO2J0kkl1lujI"
-last_updated: "2026-08-27T13:17:05.008947Z"
+last_updated: "2026-08-28T18:33:28.078829Z"
 posted_at: "2022-01-06T00:00:00Z"
 status: ready
 apply_url: "https://www.trajectorylabs.com/careers/expression-of-interest"
@@ -12,7 +12,7 @@ areas:
 
 # Member of Technical Staff, Synthetic Data
 
-**[Trajectory Labs](https://trajectorylabs.net/)**
+**[Trajectory Labs, PBC](https://trajectorylabs.net/)**
 
 <dl class="job-meta">
 <dt>Location</dt><dd>San Francisco Bay Area, USA</dd>
@@ -34,4 +34,4 @@ areas:
 <p class="apply-cta"><a href="https://www.trajectorylabs.com/careers/expression-of-interest">Apply →</a></p>
 
 ---
-*Posted 2022-01-06 · Listing synced 2026-08-27 · 80k job ID `recAlO2J0kkl1lujI`*
+*Posted 2022-01-06 · Listing synced 2026-08-28 · 80k job ID `recAlO2J0kkl1lujI`*

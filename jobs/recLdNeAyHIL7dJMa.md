@@ -2,7 +2,7 @@
 title: "Political Affairs Officer, Science, Technology and International Security Unit"
 employer: "United Nations, Office for Disarmament Affairs"
 job_id: "recLdNeAyHIL7dJMa"
-last_updated: "2026-08-27T13:15:41.858072Z"
+last_updated: "2026-08-28T18:32:01.981696Z"
 posted_at: "2026-08-19T00:00:00Z"
 status: ready
 apply_url: "https://careers.un.org/jobSearchDescription/279825?language=en"
@@ -33,4 +33,4 @@ areas:
 <p class="apply-cta"><a href="https://careers.un.org/jobSearchDescription/279825?language=en">Apply →</a></p>
 
 ---
-*Posted 2026-08-19 · Listing synced 2026-08-27 · 80k job ID `recLdNeAyHIL7dJMa`*
+*Posted 2026-08-19 · Listing synced 2026-08-28 · 80k job ID `recLdNeAyHIL7dJMa`*

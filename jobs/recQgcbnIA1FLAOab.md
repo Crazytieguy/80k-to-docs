@@ -2,7 +2,7 @@
 title: "Researcher, Frontier Cybersecurity Risks"
 employer: "OpenAI"
 job_id: "recQgcbnIA1FLAOab"
-last_updated: "2026-08-27T13:16:48.357659Z"
+last_updated: "2026-08-28T18:33:10.776029Z"
 posted_at: "2022-01-11T00:00:00Z"
 status: ready
 apply_url: "https://openai.com/careers/researcher-frontier-cybersecurity-risks-san-francisco/"
@@ -34,4 +34,4 @@ areas:
 <p class="apply-cta"><a href="https://openai.com/careers/researcher-frontier-cybersecurity-risks-san-francisco/">Apply →</a></p>
 
 ---
-*Posted 2022-01-11 · Listing synced 2026-08-27 · 80k job ID `recQgcbnIA1FLAOab`*
+*Posted 2022-01-11 · Listing synced 2026-08-28 · 80k job ID `recQgcbnIA1FLAOab`*

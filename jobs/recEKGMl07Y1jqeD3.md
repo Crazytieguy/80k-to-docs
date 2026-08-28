@@ -2,7 +2,7 @@
 title: "Postdoctoral Researcher, Lawrence Fellowship"
 employer: "Lawrence Livermore National Laboratory"
 job_id: "recEKGMl07Y1jqeD3"
-last_updated: "2026-08-27T13:16:14.540742Z"
+last_updated: "2026-08-28T18:32:35.860342Z"
 posted_at: "2026-07-27T00:00:00Z"
 status: ready
 apply_url: "https://www.llnl.gov/join-our-team/careers/find-your-job/not-applicable_associate_entry-level_internship_globalsecurity_officeofthedirector/all/3743990014261126"
@@ -34,4 +34,4 @@ areas:
 <p class="apply-cta"><a href="https://www.llnl.gov/join-our-team/careers/find-your-job/not-applicable_associate_entry-level_internship_globalsecurity_officeofthedirector/all/3743990014261126">Apply →</a></p>
 
 ---
-*Posted 2026-07-27 · Listing synced 2026-08-27 · 80k job ID `recEKGMl07Y1jqeD3`*
+*Posted 2026-07-27 · Listing synced 2026-08-28 · 80k job ID `recEKGMl07Y1jqeD3`*

@@ -2,7 +2,7 @@
 title: "Fellowship"
 employer: "AIXI Labs"
 job_id: "recdhNTYSf9nsTNmQ"
-last_updated: "2026-08-27T13:16:30.976199Z"
+last_updated: "2026-08-28T18:32:52.206551Z"
 posted_at: "2026-06-30T00:00:00Z"
 status: ready
 apply_url: "https://uaiasi.com/2026/04/29/apply-for-a-fellowship-with-aixi-labs/"
@@ -19,7 +19,7 @@ areas:
 <dt>Role type</dt><dd>Fellowship</dd>
 <dt>Experience</dt><dd>Entry-level</dd>
 <dt>Degree</dt><dd>Undergraduate degree or less</dd>
-<dt>Salary</dt><dd>$6,794 – $13,589</dd>
+<dt>Salary</dt><dd>$6,766 – $13,531</dd>
 </dl>
 
 **Areas & skills:** AI safety & policy, Research, Software engineering
@@ -34,4 +34,4 @@ areas:
 <p class="apply-cta"><a href="https://uaiasi.com/2026/04/29/apply-for-a-fellowship-with-aixi-labs/">Apply →</a></p>
 
 ---
-*Posted 2026-06-30 · Listing synced 2026-08-27 · 80k job ID `recdhNTYSf9nsTNmQ`*
+*Posted 2026-06-30 · Listing synced 2026-08-28 · 80k job ID `recdhNTYSf9nsTNmQ`*

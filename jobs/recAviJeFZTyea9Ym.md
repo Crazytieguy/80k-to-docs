@@ -1,8 +1,8 @@
 ---
 title: "Introduction to Digital Minds"
-employer: "Cambridge University, Leverhulme Centre for the Future of Intelligence"
+employer: "Cambridge University, Cambridge Digital Minds"
 job_id: "recAviJeFZTyea9Ym"
-last_updated: "2026-08-27T13:15:21.410684Z"
+last_updated: "2026-08-28T18:31:39.356681Z"
 posted_at: "2026-08-27T00:01:00Z"
 status: ready
 apply_url: "https://digitalminds.cam/course/"
@@ -12,7 +12,7 @@ areas:
 
 # Introduction to Digital Minds
 
-**[Cambridge University, Leverhulme Centre for the Future of Intelligence](https://lcfi.ac.uk)**
+**[Cambridge University, Cambridge Digital Minds](https://digitalminds.cam/)**
 
 <dl class="job-meta">
 <dt>Location</dt><dd>Cambridge, UK, UK</dd>
@@ -32,4 +32,4 @@ areas:
 <p class="apply-cta"><a href="https://digitalminds.cam/course/">Apply →</a></p>
 
 ---
-*Posted 2026-08-27 · Listing synced 2026-08-27 · 80k job ID `recAviJeFZTyea9Ym`*
+*Posted 2026-08-27 · Listing synced 2026-08-28 · 80k job ID `recAviJeFZTyea9Ym`*

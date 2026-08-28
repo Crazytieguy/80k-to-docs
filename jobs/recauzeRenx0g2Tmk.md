@@ -2,7 +2,7 @@
 title: "Grant, Transformative AI Fund"
 employer: "Centre for Effective Altruism"
 job_id: "recauzeRenx0g2Tmk"
-last_updated: "2026-08-27T13:15:51.215220Z"
+last_updated: "2026-08-28T18:32:12.252538Z"
 posted_at: "2026-08-12T00:05:00Z"
 status: ready
 apply_url: "https://funds.effectivealtruism.org/funds/transformative-ai"
@@ -30,4 +30,4 @@ areas:
 <p class="apply-cta"><a href="https://funds.effectivealtruism.org/funds/transformative-ai">Apply →</a></p>
 
 ---
-*Posted 2026-08-12 · Listing synced 2026-08-27 · 80k job ID `recauzeRenx0g2Tmk`*
+*Posted 2026-08-12 · Listing synced 2026-08-28 · 80k job ID `recauzeRenx0g2Tmk`*

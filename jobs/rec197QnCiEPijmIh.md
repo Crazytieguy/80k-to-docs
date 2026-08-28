@@ -2,7 +2,7 @@
 title: "Co-Founder"
 employer: "Lens Academy"
 job_id: "rec197QnCiEPijmIh"
-last_updated: "2026-08-27T13:17:14.102332Z"
+last_updated: "2026-08-28T18:33:37.222766Z"
 posted_at: "2022-01-05T00:00:00Z"
 status: ready
 apply_url: "https://www.lesswrong.com/posts/LDbGob3XJ3LDBFmAe/co-found-lens-academy-with-me-we-have-early-users-and"
@@ -33,4 +33,4 @@ areas:
 <p class="apply-cta"><a href="https://www.lesswrong.com/posts/LDbGob3XJ3LDBFmAe/co-found-lens-academy-with-me-we-have-early-users-and">Apply →</a></p>
 
 ---
-*Posted 2022-01-05 · Listing synced 2026-08-27 · 80k job ID `rec197QnCiEPijmIh`*
+*Posted 2022-01-05 · Listing synced 2026-08-28 · 80k job ID `rec197QnCiEPijmIh`*

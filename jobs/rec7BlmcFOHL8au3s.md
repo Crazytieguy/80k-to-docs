@@ -2,7 +2,7 @@
 title: "Executive and Operations Associate"
 employer: "Ark Philanthropy"
 job_id: "rec7BlmcFOHL8au3s"
-last_updated: "2026-08-27T13:15:25.424631Z"
+last_updated: "2026-08-28T18:31:43.646130Z"
 posted_at: "2026-08-26T00:00:00Z"
 status: ready
 apply_url: "https://os.arkphil.org/careers/executive-and-operations-associate"
@@ -34,4 +34,4 @@ areas:
 <p class="apply-cta"><a href="https://os.arkphil.org/careers/executive-and-operations-associate">Apply →</a></p>
 
 ---
-*Posted 2026-08-26 · Listing synced 2026-08-27 · 80k job ID `rec7BlmcFOHL8au3s`*
+*Posted 2026-08-26 · Listing synced 2026-08-28 · 80k job ID `rec7BlmcFOHL8au3s`*

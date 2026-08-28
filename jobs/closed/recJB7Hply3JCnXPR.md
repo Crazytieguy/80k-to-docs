@@ -4,25 +4,20 @@ employer: "Epoch AI"
 job_id: "recJB7Hply3JCnXPR"
 last_updated: "2026-08-27T13:16:15.305783Z"
 posted_at: "2026-07-23T00:04:00Z"
-status: ready
+status: closed
+closed_at: "2026-08-28"
 apply_url: "https://jobs.lever.co/epoch-ai/d5e131e6-8c86-4f52-b6ec-11bd97f1d3be"
 areas:
   - "AI safety & policy"
 ---
 
+> ⚠️ **CLOSED on 2026-08-28** — this job is no longer listed on the 80,000 Hours board. Archived snapshot below.
+
 # Events Lead
 
-**[Epoch AI](https://epoch.ai)**
+**Epoch AI**
 
-<dl class="job-meta">
-<dt>Location</dt><dd>San Francisco Bay Area, USA</dd>
-<dt>Role type</dt><dd>Full-time</dd>
-<dt>Experience</dt><dd>Junior (1-4 years experience)</dd>
-<dt>Degree</dt><dd>Undergraduate degree or less</dd>
-<dt>Salary</dt><dd>$122,829 – $141,254</dd>
-</dl>
-
-**Areas & skills:** AI safety & policy, Operations
+**Areas & skills:** AI safety & policy
 
 ## Summary
 - In this role, you'll own the events function and live activities, including staff retreats, research events, and podcast recordings.

@@ -2,7 +2,7 @@
 title: "Longform Video Creator"
 employer: "AI Digest"
 job_id: "reciUEgYc1F0t3ZEs"
-last_updated: "2026-08-27T13:15:29.155880Z"
+last_updated: "2026-08-28T18:31:46.924101Z"
 posted_at: "2026-08-25T00:00:00Z"
 status: ready
 apply_url: "https://jobs.ashbyhq.com/aidigest/99e5152e-ed0c-42eb-bb11-9135b629378c"
@@ -16,7 +16,7 @@ areas:
 
 <dl class="job-meta">
 <dt>Location</dt><dd>Remote, Global</dd>
-<dt>Role type</dt><dd>Full-time, Part-time</dd>
+<dt>Role type</dt><dd>Part-time, Full-time</dd>
 <dt>Experience</dt><dd>Junior (1-4 years experience)</dd>
 <dt>Degree</dt><dd>Undergraduate degree or less</dd>
 <dt>Salary</dt><dd>$124,800 – $187,200</dd>
@@ -34,4 +34,4 @@ areas:
 <p class="apply-cta"><a href="https://jobs.ashbyhq.com/aidigest/99e5152e-ed0c-42eb-bb11-9135b629378c">Apply →</a></p>
 
 ---
-*Posted 2026-08-25 · Listing synced 2026-08-27 · 80k job ID `reciUEgYc1F0t3ZEs`*
+*Posted 2026-08-25 · Listing synced 2026-08-28 · 80k job ID `reciUEgYc1F0t3ZEs`*

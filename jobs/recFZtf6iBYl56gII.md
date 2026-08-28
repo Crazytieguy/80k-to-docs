@@ -2,7 +2,7 @@
 title: "List of Staff Opportunities, U.S. Senate"
 employer: "US Government, Senate"
 job_id: "recFZtf6iBYl56gII"
-last_updated: "2026-08-27T13:15:32.163360Z"
+last_updated: "2026-08-28T18:31:50.876438Z"
 posted_at: "2026-08-25T00:00:00Z"
 status: ready
 apply_url: "https://www.senate.gov/employment/po/positions.htm"
@@ -32,4 +32,4 @@ areas:
 <p class="apply-cta"><a href="https://www.senate.gov/employment/po/positions.htm">Apply →</a></p>
 
 ---
-*Posted 2026-08-25 · Listing synced 2026-08-27 · 80k job ID `recFZtf6iBYl56gII`*
+*Posted 2026-08-25 · Listing synced 2026-08-28 · 80k job ID `recFZtf6iBYl56gII`*

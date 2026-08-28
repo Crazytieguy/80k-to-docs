@@ -2,7 +2,7 @@
 title: "Executive Assistant, Detection Leadership Team"
 employer: "SecureBio"
 job_id: "rec7UK5CcPKuQlSrB"
-last_updated: "2026-08-27T13:15:56.380368Z"
+last_updated: "2026-08-28T18:32:17.484395Z"
 posted_at: "2026-08-07T00:05:00Z"
 status: ready
 apply_url: "https://securebio.org/careers/executive-assistant"
@@ -34,4 +34,4 @@ areas:
 <p class="apply-cta"><a href="https://securebio.org/careers/executive-assistant">Apply →</a></p>
 
 ---
-*Posted 2026-08-07 · Listing synced 2026-08-27 · 80k job ID `rec7UK5CcPKuQlSrB`*
+*Posted 2026-08-07 · Listing synced 2026-08-28 · 80k job ID `rec7UK5CcPKuQlSrB`*

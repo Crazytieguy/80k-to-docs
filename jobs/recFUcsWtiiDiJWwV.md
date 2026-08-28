@@ -2,7 +2,7 @@
 title: "Research Scientist, Virologist, Chem-Bio"
 employer: "UK Government, AI Security Institute"
 job_id: "recFUcsWtiiDiJWwV"
-last_updated: "2026-08-27T13:15:49.677858Z"
+last_updated: "2026-08-28T18:32:10.471982Z"
 posted_at: "2026-08-13T00:05:00Z"
 status: ready
 apply_url: "https://job-boards.eu.greenhouse.io/aisi/jobs/4950987101"
@@ -19,7 +19,7 @@ areas:
 <dt>Role type</dt><dd>Full-time</dd>
 <dt>Experience</dt><dd>Mid (5-9 years experience), Senior (10+ years experience)</dd>
 <dt>Degree</dt><dd>Doctoral degree</dd>
-<dt>Salary</dt><dd>$88,326 – $197,036</dd>
+<dt>Salary</dt><dd>$87,953 – $196,202</dd>
 </dl>
 
 **Areas & skills:** AI safety & policy, Research
@@ -32,4 +32,4 @@ areas:
 <p class="apply-cta"><a href="https://job-boards.eu.greenhouse.io/aisi/jobs/4950987101">Apply →</a></p>
 
 ---
-*Posted 2026-08-13 · Listing synced 2026-08-27 · 80k job ID `recFUcsWtiiDiJWwV`*
+*Posted 2026-08-13 · Listing synced 2026-08-28 · 80k job ID `recFUcsWtiiDiJWwV`*

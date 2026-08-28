@@ -2,7 +2,7 @@
 title: "People Operations Associate / Manager"
 employer: "Epoch AI"
 job_id: "recKRXVlrjfCo95pI"
-last_updated: "2026-08-27T13:15:41.991192Z"
+last_updated: "2026-08-28T18:32:02.129975Z"
 posted_at: "2026-08-18T00:04:47Z"
 status: ready
 apply_url: "https://jobs.lever.co/epoch-ai/3aee71a2-081d-4ec3-a561-3b38d3483078"
@@ -34,4 +34,4 @@ areas:
 <p class="apply-cta"><a href="https://jobs.lever.co/epoch-ai/3aee71a2-081d-4ec3-a561-3b38d3483078">Apply →</a></p>
 
 ---
-*Posted 2026-08-18 · Listing synced 2026-08-27 · 80k job ID `recKRXVlrjfCo95pI`*
+*Posted 2026-08-18 · Listing synced 2026-08-28 · 80k job ID `recKRXVlrjfCo95pI`*

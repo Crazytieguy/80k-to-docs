@@ -2,7 +2,7 @@
 title: "Director, Community Growth"
 employer: "Centre for Effective Altruism"
 job_id: "recAe6difpWzNbpIP"
-last_updated: "2026-08-27T13:15:45.548307Z"
+last_updated: "2026-08-28T18:32:06.048464Z"
 posted_at: "2026-08-17T00:04:28Z"
 status: ready
 apply_url: "https://www.centreforeffectivealtruism.org/careers?ashby_jid=66494491-ffc9-46fa-bf8c-a9c3833cbd34"
@@ -34,4 +34,4 @@ areas:
 <p class="apply-cta"><a href="https://www.centreforeffectivealtruism.org/careers?ashby_jid=66494491-ffc9-46fa-bf8c-a9c3833cbd34">Apply →</a></p>
 
 ---
-*Posted 2026-08-17 · Listing synced 2026-08-27 · 80k job ID `recAe6difpWzNbpIP`*
+*Posted 2026-08-17 · Listing synced 2026-08-28 · 80k job ID `recAe6difpWzNbpIP`*

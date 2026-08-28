@@ -2,7 +2,7 @@
 title: "Senior Director, National Security"
 employer: "SL5 Task Force"
 job_id: "rec5YJrpkmthWVLUw"
-last_updated: "2026-08-27T13:15:43.700324Z"
+last_updated: "2026-08-28T18:32:04.050923Z"
 posted_at: "2026-08-18T00:01:00Z"
 status: ready
 apply_url: "https://jobs.ashbyhq.com/security-level-5/4ea206b3-09e6-42f7-ba49-0ee8172b448e?embed=js"
@@ -34,4 +34,4 @@ areas:
 <p class="apply-cta"><a href="https://jobs.ashbyhq.com/security-level-5/4ea206b3-09e6-42f7-ba49-0ee8172b448e?embed=js">Apply →</a></p>
 
 ---
-*Posted 2026-08-18 · Listing synced 2026-08-27 · 80k job ID `rec5YJrpkmthWVLUw`*
+*Posted 2026-08-18 · Listing synced 2026-08-28 · 80k job ID `rec5YJrpkmthWVLUw`*

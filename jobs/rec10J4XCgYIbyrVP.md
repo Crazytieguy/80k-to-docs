@@ -2,7 +2,7 @@
 title: "Research Scientist"
 employer: "Neo Research"
 job_id: "rec10J4XCgYIbyrVP"
-last_updated: "2026-08-27T13:17:01.980598Z"
+last_updated: "2026-08-28T18:33:25.137040Z"
 posted_at: "2022-01-06T00:00:00Z"
 status: ready
 apply_url: "https://neoresearch.ai/careers/research-scientist"
@@ -33,4 +33,4 @@ areas:
 <p class="apply-cta"><a href="https://neoresearch.ai/careers/research-scientist">Apply →</a></p>
 
 ---
-*Posted 2022-01-06 · Listing synced 2026-08-27 · 80k job ID `rec10J4XCgYIbyrVP`*
+*Posted 2022-01-06 · Listing synced 2026-08-28 · 80k job ID `rec10J4XCgYIbyrVP`*

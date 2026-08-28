@@ -2,7 +2,7 @@
 title: "Vice President, Government Affairs, Senate Focus"
 employer: "The AI Policy Network"
 job_id: "recS7FG8RDcrDOQvl"
-last_updated: "2026-08-27T13:17:15.962604Z"
+last_updated: "2026-08-28T18:33:39.088503Z"
 posted_at: "2022-01-05T00:00:00Z"
 status: ready
 apply_url: "https://job-boards.greenhouse.io/aipn/jobs/4352666009"
@@ -34,4 +34,4 @@ areas:
 <p class="apply-cta"><a href="https://job-boards.greenhouse.io/aipn/jobs/4352666009">Apply →</a></p>
 
 ---
-*Posted 2022-01-05 · Listing synced 2026-08-27 · 80k job ID `recS7FG8RDcrDOQvl`*
+*Posted 2022-01-05 · Listing synced 2026-08-28 · 80k job ID `recS7FG8RDcrDOQvl`*

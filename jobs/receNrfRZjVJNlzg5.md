@@ -2,7 +2,7 @@
 title: "Get Career Advising"
 employer: "80,000 Hours"
 job_id: "receNrfRZjVJNlzg5"
-last_updated: "2026-08-27T13:17:37.475658Z"
+last_updated: "2026-08-28T18:34:02.191528Z"
 posted_at: "2020-01-01T00:00:00Z"
 status: ready
 apply_url: "https://80000hours.org/speak-with-us/?int_campaign=job-board"
@@ -32,4 +32,4 @@ areas:
 <p class="apply-cta"><a href="https://80000hours.org/speak-with-us/?int_campaign=job-board">Apply →</a></p>
 
 ---
-*Posted 2020-01-01 · Listing synced 2026-08-27 · 80k job ID `receNrfRZjVJNlzg5`*
+*Posted 2020-01-01 · Listing synced 2026-08-28 · 80k job ID `receNrfRZjVJNlzg5`*

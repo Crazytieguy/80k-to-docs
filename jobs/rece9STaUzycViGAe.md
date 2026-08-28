@@ -2,7 +2,7 @@
 title: "Program Associate, Strategic Impact Evaluation and Learning"
 employer: "Innovations for Poverty Action"
 job_id: "rece9STaUzycViGAe"
-last_updated: "2026-08-27T13:16:14.248315Z"
+last_updated: "2026-08-28T18:32:35.508789Z"
 posted_at: "2026-07-27T00:00:00Z"
 status: ready
 apply_url: "https://poverty-action.org/program-associate-strategic-impact-evaluation-and-learning"
@@ -33,4 +33,4 @@ areas:
 <p class="apply-cta"><a href="https://poverty-action.org/program-associate-strategic-impact-evaluation-and-learning">Apply →</a></p>
 
 ---
-*Posted 2026-07-27 · Listing synced 2026-08-27 · 80k job ID `rece9STaUzycViGAe`*
+*Posted 2026-07-27 · Listing synced 2026-08-28 · 80k job ID `rece9STaUzycViGAe`*

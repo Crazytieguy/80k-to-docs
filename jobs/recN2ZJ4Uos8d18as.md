@@ -2,8 +2,8 @@
 title: "Physicist / Engineer Track"
 employer: "Amodo Design"
 job_id: "recN2ZJ4Uos8d18as"
-last_updated: "2026-08-27T13:16:38.138542Z"
-posted_at: "2026-06-09T00:00:00Z"
+last_updated: "2026-08-28T18:33:44.293126Z"
+posted_at: "2022-01-02T00:00:00Z"
 status: ready
 apply_url: "https://amododesign.com/career/physicist-to-engineer-track/"
 areas:
@@ -19,7 +19,7 @@ areas:
 <dt>Role type</dt><dd>Full-time</dd>
 <dt>Experience</dt><dd>Entry-level</dd>
 <dt>Degree</dt><dd>Undergraduate degree or less</dd>
-<dt>Salary</dt><dd>$47,560 – $67,943</dd>
+<dt>Salary</dt><dd>$47,359 – $67,656</dd>
 </dl>
 
 **Areas & skills:** Career development: Technical, Engineering, Software engineering
@@ -33,4 +33,4 @@ areas:
 <p class="apply-cta"><a href="https://amododesign.com/career/physicist-to-engineer-track/">Apply →</a></p>
 
 ---
-*Posted 2026-06-09 · Listing synced 2026-08-27 · 80k job ID `recN2ZJ4Uos8d18as`*
+*Posted 2022-01-02 · Listing synced 2026-08-28 · 80k job ID `recN2ZJ4Uos8d18as`*

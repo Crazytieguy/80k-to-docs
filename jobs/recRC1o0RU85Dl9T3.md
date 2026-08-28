@@ -2,7 +2,7 @@
 title: "Member of Technical Staff, Security / Engineering / Research"
 employer: "SL5 Task Force"
 job_id: "recRC1o0RU85Dl9T3"
-last_updated: "2026-08-27T13:17:04.128372Z"
+last_updated: "2026-08-28T18:33:27.216691Z"
 posted_at: "2022-01-06T00:00:00Z"
 status: ready
 apply_url: "https://jobs.ashbyhq.com/security-level-5/e9857b2d-5e2e-4426-8886-99af4154f5a0?embed=js"
@@ -34,4 +34,4 @@ areas:
 <p class="apply-cta"><a href="https://jobs.ashbyhq.com/security-level-5/e9857b2d-5e2e-4426-8886-99af4154f5a0?embed=js">Apply →</a></p>
 
 ---
-*Posted 2022-01-06 · Listing synced 2026-08-27 · 80k job ID `recRC1o0RU85Dl9T3`*
+*Posted 2022-01-06 · Listing synced 2026-08-28 · 80k job ID `recRC1o0RU85Dl9T3`*

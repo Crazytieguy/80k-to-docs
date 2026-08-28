@@ -1,8 +1,8 @@
 ---
-title: "Research Engineer, AGI Safety and Alignment"
+title: "Research Engineer, AGI Safety and Alignment, London"
 employer: "Google DeepMind"
 job_id: "recYliwZBXcWmLdS7"
-last_updated: "2026-08-27T13:15:22.806610Z"
+last_updated: "2026-08-28T18:31:40.926446Z"
 posted_at: "2026-08-27T00:00:00Z"
 status: ready
 apply_url: "https://www.google.com/about/careers/applications/jobs/results/74693875620291270-research-engineer-agi-safety-and-alignment-deepmind?company=DeepMind&page=3"
@@ -10,7 +10,7 @@ areas:
   - "AI safety & policy"
 ---
 
-# Research Engineer, AGI Safety and Alignment
+# Research Engineer, AGI Safety and Alignment, London
 
 **[Google DeepMind](https://www.deepmind.com)**
 
@@ -33,4 +33,4 @@ areas:
 <p class="apply-cta"><a href="https://www.google.com/about/careers/applications/jobs/results/74693875620291270-research-engineer-agi-safety-and-alignment-deepmind?company=DeepMind&amp;page=3">Apply →</a></p>
 
 ---
-*Posted 2026-08-27 · Listing synced 2026-08-27 · 80k job ID `recYliwZBXcWmLdS7`*
+*Posted 2026-08-27 · Listing synced 2026-08-28 · 80k job ID `recYliwZBXcWmLdS7`*

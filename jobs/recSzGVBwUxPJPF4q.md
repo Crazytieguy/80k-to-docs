@@ -2,7 +2,7 @@
 title: "Threat Intelligence Manager, Chemical, Biological, Radiological, Nuclear, and Explosives and Advanced Weapons"
 employer: "Anthropic"
 job_id: "recSzGVBwUxPJPF4q"
-last_updated: "2026-08-27T13:16:25.339812Z"
+last_updated: "2026-08-28T18:32:45.508864Z"
 posted_at: "2026-07-09T00:00:00Z"
 status: ready
 apply_url: "https://job-boards.greenhouse.io/anthropic/jobs/5305631008"
@@ -34,4 +34,4 @@ areas:
 <p class="apply-cta"><a href="https://job-boards.greenhouse.io/anthropic/jobs/5305631008">Apply →</a></p>
 
 ---
-*Posted 2026-07-09 · Listing synced 2026-08-27 · 80k job ID `recSzGVBwUxPJPF4q`*
+*Posted 2026-07-09 · Listing synced 2026-08-28 · 80k job ID `recSzGVBwUxPJPF4q`*

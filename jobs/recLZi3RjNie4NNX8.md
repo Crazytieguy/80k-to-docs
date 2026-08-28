@@ -2,7 +2,7 @@
 title: "Senior Founding Recruiter"
 employer: "Goodfire"
 job_id: "recLZi3RjNie4NNX8"
-last_updated: "2026-08-27T13:17:12.352637Z"
+last_updated: "2026-08-28T18:33:35.521541Z"
 posted_at: "2022-01-05T00:00:00Z"
 status: ready
 apply_url: "https://job-boards.greenhouse.io/goodfire/jobs/5055191008"
@@ -34,4 +34,4 @@ areas:
 <p class="apply-cta"><a href="https://job-boards.greenhouse.io/goodfire/jobs/5055191008">Apply →</a></p>
 
 ---
-*Posted 2022-01-05 · Listing synced 2026-08-27 · 80k job ID `recLZi3RjNie4NNX8`*
+*Posted 2022-01-05 · Listing synced 2026-08-28 · 80k job ID `recLZi3RjNie4NNX8`*

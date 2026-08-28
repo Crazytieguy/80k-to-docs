@@ -2,7 +2,7 @@
 title: "Member of Technical Staff, Frontier Robotics Evals"
 employer: "Robocurve"
 job_id: "reccr6Cm4her5OGcO"
-last_updated: "2026-08-27T13:15:27.387886Z"
+last_updated: "2026-08-28T18:31:45.418715Z"
 posted_at: "2026-08-26T00:00:00Z"
 status: ready
 apply_url: "https://robocurve.org/careers/mts-frontier-robotics-evals/"
@@ -34,4 +34,4 @@ areas:
 <p class="apply-cta"><a href="https://robocurve.org/careers/mts-frontier-robotics-evals/">Apply →</a></p>
 
 ---
-*Posted 2026-08-26 · Listing synced 2026-08-27 · 80k job ID `reccr6Cm4her5OGcO`*
+*Posted 2026-08-26 · Listing synced 2026-08-28 · 80k job ID `reccr6Cm4her5OGcO`*
