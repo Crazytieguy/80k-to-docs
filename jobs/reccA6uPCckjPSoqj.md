@@ -2,7 +2,7 @@
 title: "Research Scientist, Frontier Risk Evaluations"
 employer: "Scale AI"
 job_id: "reccA6uPCckjPSoqj"
-last_updated: "2026-08-28T18:33:26.549980Z"
+last_updated: "2026-08-29T05:33:25.251913Z"
 posted_at: "2022-01-06T00:00:00Z"
 status: ready
 apply_url: "https://scale.com/careers/4677657005"
@@ -34,4 +34,4 @@ areas:
 <p class="apply-cta"><a href="https://scale.com/careers/4677657005">Apply →</a></p>
 
 ---
-*Posted 2022-01-06 · Listing synced 2026-08-28 · 80k job ID `reccA6uPCckjPSoqj`*
+*Posted 2022-01-06 · Listing synced 2026-08-29 · 80k job ID `reccA6uPCckjPSoqj`*

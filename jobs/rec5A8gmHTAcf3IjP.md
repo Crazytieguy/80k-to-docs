@@ -2,7 +2,7 @@
 title: "Fellowship (Fall 2026)"
 employer: "Iliad"
 job_id: "rec5A8gmHTAcf3IjP"
-last_updated: "2026-08-28T18:31:48.365371Z"
+last_updated: "2026-08-29T05:31:56.274046Z"
 posted_at: "2026-08-25T00:00:00Z"
 status: ready
 apply_url: "https://www.iliad.ac/fellowship"
@@ -34,4 +34,4 @@ areas:
 <p class="apply-cta"><a href="https://www.iliad.ac/fellowship">Apply →</a></p>
 
 ---
-*Posted 2026-08-25 · Listing synced 2026-08-28 · 80k job ID `rec5A8gmHTAcf3IjP`*
+*Posted 2026-08-25 · Listing synced 2026-08-29 · 80k job ID `rec5A8gmHTAcf3IjP`*

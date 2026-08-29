@@ -2,7 +2,7 @@
 title: "AI Engineer"
 employer: "Elicit"
 job_id: "recBdavdbywlqA49I"
-last_updated: "2026-08-28T18:33:07.786817Z"
+last_updated: "2026-08-29T05:33:07.064513Z"
 posted_at: "2022-01-11T00:00:00Z"
 status: ready
 apply_url: "https://elicit.com/careers?ashby_jid=d27d51d7-b318-4cb0-9b88-c37de18905f3"
@@ -33,4 +33,4 @@ areas:
 <p class="apply-cta"><a href="https://elicit.com/careers?ashby_jid=d27d51d7-b318-4cb0-9b88-c37de18905f3">Apply →</a></p>
 
 ---
-*Posted 2022-01-11 · Listing synced 2026-08-28 · 80k job ID `recBdavdbywlqA49I`*
+*Posted 2022-01-11 · Listing synced 2026-08-29 · 80k job ID `recBdavdbywlqA49I`*

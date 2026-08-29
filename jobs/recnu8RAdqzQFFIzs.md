@@ -2,7 +2,7 @@
 title: "C-WMD Assessor, Early-Career"
 employer: "MITRE"
 job_id: "recnu8RAdqzQFFIzs"
-last_updated: "2026-08-28T18:32:33.347507Z"
+last_updated: "2026-08-29T05:32:36.542265Z"
 posted_at: "2026-07-29T00:00:00Z"
 status: ready
 apply_url: "https://careers.mitre.org/us/en/job/R117088/C-WMD-Assessor"
@@ -34,4 +34,4 @@ areas:
 <p class="apply-cta"><a href="https://careers.mitre.org/us/en/job/R117088/C-WMD-Assessor">Apply →</a></p>
 
 ---
-*Posted 2026-07-29 · Listing synced 2026-08-28 · 80k job ID `recnu8RAdqzQFFIzs`*
+*Posted 2026-07-29 · Listing synced 2026-08-29 · 80k job ID `recnu8RAdqzQFFIzs`*

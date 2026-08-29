@@ -2,7 +2,7 @@
 title: "Research Affiliates Program"
 employer: "Center on Long-Term Risk"
 job_id: "recittEFkaG7BDHpU"
-last_updated: "2026-08-28T18:32:13.923773Z"
+last_updated: "2026-08-29T05:32:18.282118Z"
 posted_at: "2026-08-11T00:04:16Z"
 status: ready
 apply_url: "https://longtermrisk.org/programs/research-affiliates/"
@@ -33,4 +33,4 @@ areas:
 <p class="apply-cta"><a href="https://longtermrisk.org/programs/research-affiliates/">Apply →</a></p>
 
 ---
-*Posted 2026-08-11 · Listing synced 2026-08-28 · 80k job ID `recittEFkaG7BDHpU`*
+*Posted 2026-08-11 · Listing synced 2026-08-29 · 80k job ID `recittEFkaG7BDHpU`*

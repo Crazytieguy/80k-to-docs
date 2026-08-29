@@ -2,7 +2,7 @@
 title: "Member of Technical Staff, Engineering"
 employer: "AI Digest"
 job_id: "recysUYkVFDC37Rwf"
-last_updated: "2026-08-28T18:31:47.200118Z"
+last_updated: "2026-08-29T05:31:55.155417Z"
 posted_at: "2026-08-25T00:00:00Z"
 status: ready
 apply_url: "https://jobs.ashbyhq.com/aidigest/29113420-96a2-4c82-ab93-5f08755b55c3"
@@ -34,4 +34,4 @@ areas:
 <p class="apply-cta"><a href="https://jobs.ashbyhq.com/aidigest/29113420-96a2-4c82-ab93-5f08755b55c3">Apply →</a></p>
 
 ---
-*Posted 2026-08-25 · Listing synced 2026-08-28 · 80k job ID `recysUYkVFDC37Rwf`*
+*Posted 2026-08-25 · Listing synced 2026-08-29 · 80k job ID `recysUYkVFDC37Rwf`*

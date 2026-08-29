@@ -2,7 +2,7 @@
 title: "Research Associate, Digital Society Programme"
 employer: "Chatham House"
 job_id: "rect3DcHReljZBj61"
-last_updated: "2026-08-28T18:31:36.112158Z"
+last_updated: "2026-08-29T05:31:45.618349Z"
 posted_at: "2026-08-28T00:00:00Z"
 status: ready
 apply_url: "https://careers.chathamhouse.org/jobs/8250276-research-associate-digital-society-programme"
@@ -19,7 +19,7 @@ areas:
 <dt>Role type</dt><dd>Full-time</dd>
 <dt>Experience</dt><dd>Junior (1-4 years experience)</dd>
 <dt>Degree</dt><dd>Undergraduate degree or less</dd>
-<dt>Salary</dt><dd>$51,418</dd>
+<dt>Salary</dt><dd>$51,435</dd>
 </dl>
 
 **Areas & skills:** Career development: Policy & government, Research, Policy
@@ -34,4 +34,4 @@ areas:
 <p class="apply-cta"><a href="https://careers.chathamhouse.org/jobs/8250276-research-associate-digital-society-programme">Apply →</a></p>
 
 ---
-*Posted 2026-08-28 · Listing synced 2026-08-28 · 80k job ID `rect3DcHReljZBj61`*
+*Posted 2026-08-28 · Listing synced 2026-08-29 · 80k job ID `rect3DcHReljZBj61`*

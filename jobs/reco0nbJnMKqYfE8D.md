@@ -2,7 +2,7 @@
 title: "Communications Specialist"
 employer: "Epoch AI"
 job_id: "reco0nbJnMKqYfE8D"
-last_updated: "2026-08-28T18:32:15.766177Z"
+last_updated: "2026-08-29T05:32:20.059102Z"
 posted_at: "2026-08-10T00:04:37Z"
 status: ready
 apply_url: "https://jobs.lever.co/epoch-ai/f141b2ff-586f-4329-890b-9c40014d62f6"
@@ -34,4 +34,4 @@ areas:
 <p class="apply-cta"><a href="https://jobs.lever.co/epoch-ai/f141b2ff-586f-4329-890b-9c40014d62f6">Apply →</a></p>
 
 ---
-*Posted 2026-08-10 · Listing synced 2026-08-28 · 80k job ID `reco0nbJnMKqYfE8D`*
+*Posted 2026-08-10 · Listing synced 2026-08-29 · 80k job ID `reco0nbJnMKqYfE8D`*

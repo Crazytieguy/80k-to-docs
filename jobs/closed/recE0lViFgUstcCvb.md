@@ -4,25 +4,21 @@ employer: "University of Chicago, Bulletin of the Atomic Scientists"
 job_id: "recE0lViFgUstcCvb"
 last_updated: "2026-08-28T18:32:17.619562Z"
 posted_at: "2026-08-07T00:03:00Z"
-status: ready
+status: closed
+closed_at: "2026-08-29"
 apply_url: "https://thebulletin.org/2026/08/apply-to-be-a-2026-bulletin-editorial-fellow/"
 areas:
   - "Biosecurity & pandemic preparedness"
   - "Global health & development"
 ---
 
+> ⚠️ **CLOSED on 2026-08-29** — this job is no longer listed on the 80,000 Hours board. Archived snapshot below.
+
 # Bulletin Editorial Fellow
 
-**[University of Chicago, Bulletin of the Atomic Scientists](https://www.thebulletin.org)**
+**University of Chicago, Bulletin of the Atomic Scientists**
 
-<dl class="job-meta">
-<dt>Location</dt><dd>Remote, Global</dd>
-<dt>Role type</dt><dd>Fellowship</dd>
-<dt>Experience</dt><dd>Junior (1-4 years experience), Mid (5-9 years experience)</dd>
-<dt>Degree</dt><dd>Undergraduate degree or less</dd>
-</dl>
-
-**Areas & skills:** Biosecurity & pandemic preparedness, Global health & development, Other
+**Areas & skills:** Biosecurity & pandemic preparedness, Global health & development
 
 ## Summary
 - In this role, you'll write regular columns on existential threats for the Bulletin's global platform.

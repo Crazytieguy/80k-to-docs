@@ -2,7 +2,7 @@
 title: "Various Opportunities"
 employer: "AI & Democracy Foundation"
 job_id: "reca3GrrKAbeHCyuz"
-last_updated: "2026-08-28T18:33:30.424593Z"
+last_updated: "2026-08-29T05:33:28.800240Z"
 posted_at: "2022-01-05T00:00:00Z"
 status: ready
 apply_url: "https://airtable.com/appHnaEzJEzXRdtJW/pagFxyhLEAJumpmlC/form"
@@ -33,4 +33,4 @@ areas:
 <p class="apply-cta"><a href="https://airtable.com/appHnaEzJEzXRdtJW/pagFxyhLEAJumpmlC/form">Apply →</a></p>
 
 ---
-*Posted 2022-01-05 · Listing synced 2026-08-28 · 80k job ID `reca3GrrKAbeHCyuz`*
+*Posted 2022-01-05 · Listing synced 2026-08-29 · 80k job ID `reca3GrrKAbeHCyuz`*

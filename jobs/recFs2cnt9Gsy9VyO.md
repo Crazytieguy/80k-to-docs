@@ -2,7 +2,7 @@
 title: "US Policy Team Member"
 employer: "Future of Life Institute"
 job_id: "recFs2cnt9Gsy9VyO"
-last_updated: "2026-08-28T18:31:42.723246Z"
+last_updated: "2026-08-29T05:31:51.332171Z"
 posted_at: "2026-08-26T00:04:30Z"
 status: ready
 apply_url: "https://jobs.lever.co/futureof-life/6f92175b-b780-4f22-aa52-507c3445fa57"
@@ -34,4 +34,4 @@ areas:
 <p class="apply-cta"><a href="https://jobs.lever.co/futureof-life/6f92175b-b780-4f22-aa52-507c3445fa57">Apply →</a></p>
 
 ---
-*Posted 2026-08-26 · Listing synced 2026-08-28 · 80k job ID `recFs2cnt9Gsy9VyO`*
+*Posted 2026-08-26 · Listing synced 2026-08-29 · 80k job ID `recFs2cnt9Gsy9VyO`*

@@ -2,7 +2,7 @@
 title: "Accounting Data Entry Clerk"
 employer: "Animal Equality"
 job_id: "recZubJPCzxgIouku"
-last_updated: "2026-08-28T18:32:16.219456Z"
+last_updated: "2026-08-29T05:32:20.497451Z"
 posted_at: "2026-08-10T00:00:00Z"
 status: ready
 apply_url: "https://igualdadanimal.mx/empleos-igualdad-animal/capturista-contable/"
@@ -33,4 +33,4 @@ areas:
 <p class="apply-cta"><a href="https://igualdadanimal.mx/empleos-igualdad-animal/capturista-contable/">Apply →</a></p>
 
 ---
-*Posted 2026-08-10 · Listing synced 2026-08-28 · 80k job ID `recZubJPCzxgIouku`*
+*Posted 2026-08-10 · Listing synced 2026-08-29 · 80k job ID `recZubJPCzxgIouku`*

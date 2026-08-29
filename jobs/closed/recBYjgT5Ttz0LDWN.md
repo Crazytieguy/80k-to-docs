@@ -4,25 +4,20 @@ employer: "Lawrence Livermore National Laboratory"
 job_id: "recBYjgT5Ttz0LDWN"
 last_updated: "2026-08-28T18:31:48.695126Z"
 posted_at: "2026-08-25T00:00:00Z"
-status: ready
+status: closed
+closed_at: "2026-08-29"
 apply_url: "https://jobs.smartrecruiters.com/LLNL/3743990013801386-computing-undergraduate-student-intern-fall-2026?trid=2d92f286-613b-4daf-9dfa-6340ffbecf73"
 areas:
   - "Career development: Technical"
 ---
 
+> ⚠️ **CLOSED on 2026-08-29** — this job is no longer listed on the 80,000 Hours board. Archived snapshot below.
+
 # Intern, Computing (Fall 2026)
 
-**[Lawrence Livermore National Laboratory](https://www.llnl.gov/)**
+**Lawrence Livermore National Laboratory**
 
-<dl class="job-meta">
-<dt>Location</dt><dd>Livermore, CA, USA</dd>
-<dt>Role type</dt><dd>Internship</dd>
-<dt>Experience</dt><dd>Entry-level</dd>
-<dt>Degree</dt><dd>Undergraduate degree or less</dd>
-<dt>Salary</dt><dd>$48,381 – $65,770</dd>
-</dl>
-
-**Areas & skills:** Career development: Technical, Research, Software engineering
+**Areas & skills:** Career development: Technical
 
 ## Summary
 - In this role, you'll provide technical and research support to projects in computational science, cyber defense, computer science, and related STEM disciplines.

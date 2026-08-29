@@ -4,25 +4,20 @@ employer: "Epoch AI"
 job_id: "recAAxpbMGiJoax7Z"
 last_updated: "2026-08-28T18:32:29.601272Z"
 posted_at: "2026-07-30T00:04:11Z"
-status: ready
+status: closed
+closed_at: "2026-08-29"
 apply_url: "https://jobs.lever.co/epoch-ai/bae10238-f78d-48e4-a57a-c3333181a02e"
 areas:
   - "AI safety & policy"
 ---
 
+> ⚠️ **CLOSED on 2026-08-29** — this job is no longer listed on the 80,000 Hours board. Archived snapshot below.
+
 # Head of People
 
-**[Epoch AI](https://epoch.ai)**
+**Epoch AI**
 
-<dl class="job-meta">
-<dt>Location</dt><dd>San Francisco Bay Area, Remote, Global, USA</dd>
-<dt>Role type</dt><dd>Full-time</dd>
-<dt>Experience</dt><dd>Mid (5-9 years experience)</dd>
-<dt>Degree</dt><dd>Undergraduate degree or less</dd>
-<dt>Salary</dt><dd>$145,000 – $241,000</dd>
-</dl>
-
-**Areas & skills:** AI safety & policy, Operations, Management
+**Areas & skills:** AI safety & policy
 
 ## Summary
 - In this role, you'll own the people function spanning recruiting, HR, and events while scaling systems for organizational growth.

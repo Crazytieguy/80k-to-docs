@@ -2,7 +2,7 @@
 title: "Program Officer, AI Model Safety"
 employer: "OpenAI Foundation"
 job_id: "recCmtpdQTIlOnDzc"
-last_updated: "2026-08-28T18:31:55.430907Z"
+last_updated: "2026-08-29T05:32:01.349285Z"
 posted_at: "2026-08-21T00:03:00Z"
 status: ready
 apply_url: "https://openaifoundation.org/careers/program-officer-ai-model-safety-5e8f68c7-7e4f-49f5-aada-7950cc6ffaa7"
@@ -34,4 +34,4 @@ areas:
 <p class="apply-cta"><a href="https://openaifoundation.org/careers/program-officer-ai-model-safety-5e8f68c7-7e4f-49f5-aada-7950cc6ffaa7">Apply →</a></p>
 
 ---
-*Posted 2026-08-21 · Listing synced 2026-08-28 · 80k job ID `recCmtpdQTIlOnDzc`*
+*Posted 2026-08-21 · Listing synced 2026-08-29 · 80k job ID `recCmtpdQTIlOnDzc`*

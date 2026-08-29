@@ -2,7 +2,7 @@
 title: "Schwarzman Scholars Program"
 employer: "Tsinghua University, Schwarzman College"
 job_id: "recdClJrTNyyG5mvA"
-last_updated: "2026-08-28T18:33:13.632488Z"
+last_updated: "2026-08-29T05:33:12.166898Z"
 posted_at: "2022-01-08T00:00:00Z"
 status: ready
 apply_url: "https://www.schwarzmanscholars.org/"
@@ -32,4 +32,4 @@ areas:
 <p class="apply-cta"><a href="https://www.schwarzmanscholars.org/">Apply →</a></p>
 
 ---
-*Posted 2022-01-08 · Listing synced 2026-08-28 · 80k job ID `recdClJrTNyyG5mvA`*
+*Posted 2022-01-08 · Listing synced 2026-08-29 · 80k job ID `recdClJrTNyyG5mvA`*

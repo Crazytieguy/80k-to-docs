@@ -2,7 +2,7 @@
 title: "Research Scientist / Engineer"
 employer: "SaferAI"
 job_id: "recfEX7WjDvrg2TAR"
-last_updated: "2026-08-28T18:32:43.399404Z"
+last_updated: "2026-08-29T05:32:46.179681Z"
 posted_at: "2026-07-13T00:01:00Z"
 status: ready
 apply_url: "https://www.safer-ai.org/jobs/research-scientist-engineer"
@@ -33,4 +33,4 @@ areas:
 <p class="apply-cta"><a href="https://www.safer-ai.org/jobs/research-scientist-engineer">Apply →</a></p>
 
 ---
-*Posted 2026-07-13 · Listing synced 2026-08-28 · 80k job ID `recfEX7WjDvrg2TAR`*
+*Posted 2026-07-13 · Listing synced 2026-08-29 · 80k job ID `recfEX7WjDvrg2TAR`*

@@ -2,7 +2,7 @@
 title: "Advisor / Senior Advisor, AI Safety"
 employer: "Pour Demain"
 job_id: "rec1RmrdO5HfrV9EW"
-last_updated: "2026-08-28T18:32:14.454701Z"
+last_updated: "2026-08-29T05:32:18.782748Z"
 posted_at: "2026-08-11T00:02:00Z"
 status: ready
 apply_url: "https://form.jotform.com/262167068943162"
@@ -33,4 +33,4 @@ areas:
 <p class="apply-cta"><a href="https://form.jotform.com/262167068943162">Apply →</a></p>
 
 ---
-*Posted 2026-08-11 · Listing synced 2026-08-28 · 80k job ID `rec1RmrdO5HfrV9EW`*
+*Posted 2026-08-11 · Listing synced 2026-08-29 · 80k job ID `rec1RmrdO5HfrV9EW`*

@@ -2,7 +2,7 @@
 title: "Various Operations Roles"
 employer: "GiveWell"
 job_id: "recH1Yfb2DAhU8D45"
-last_updated: "2026-08-28T18:32:04.717986Z"
+last_updated: "2026-08-29T05:32:09.985153Z"
 posted_at: "2026-08-18T00:00:00Z"
 status: ready
 apply_url: "https://job-boards.greenhouse.io/givewell/jobs/5378593008"
@@ -34,4 +34,4 @@ areas:
 <p class="apply-cta"><a href="https://job-boards.greenhouse.io/givewell/jobs/5378593008">Apply →</a></p>
 
 ---
-*Posted 2026-08-18 · Listing synced 2026-08-28 · 80k job ID `recH1Yfb2DAhU8D45`*
+*Posted 2026-08-18 · Listing synced 2026-08-29 · 80k job ID `recH1Yfb2DAhU8D45`*

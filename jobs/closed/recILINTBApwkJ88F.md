@@ -4,25 +4,20 @@ employer: "National Committee on US-China Relations"
 job_id: "recILINTBApwkJ88F"
 last_updated: "2026-08-28T18:32:42.317892Z"
 posted_at: "2026-07-14T00:00:00Z"
-status: ready
+status: closed
+closed_at: "2026-08-29"
 apply_url: "https://www.ncuscr.org/employment/"
 areas:
   - "Career development: Policy & government"
 ---
 
+> ⚠️ **CLOSED on 2026-08-29** — this job is no longer listed on the 80,000 Hours board. Archived snapshot below.
+
 # Program Associate
 
-**[National Committee on US-China Relations](https://www.ncuscr.org/)**
+**National Committee on US-China Relations**
 
-<dl class="job-meta">
-<dt>Location</dt><dd>New York, NY, USA</dd>
-<dt>Role type</dt><dd>Full-time</dd>
-<dt>Experience</dt><dd>Junior (1-4 years experience)</dd>
-<dt>Degree</dt><dd>Undergraduate degree or less</dd>
-<dt>Salary</dt><dd>$65,000 – $70,000</dd>
-</dl>
-
-**Areas & skills:** Career development: Policy & government, Policy
+**Areas & skills:** Career development: Policy & government
 
 ## Summary
 - In this role, you'll support Track II Dialogues and public outreach programs through administrative, logistical, and programmatic assistance.

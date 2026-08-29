@@ -2,7 +2,7 @@
 title: "PhD Position, AI Safety"
 employer: "University of Stuttgart"
 job_id: "recGgg4prsxPVflRy"
-last_updated: "2026-08-28T18:33:28.969262Z"
+last_updated: "2026-08-29T05:33:27.424546Z"
 posted_at: "2022-01-06T00:00:00Z"
 status: ready
 apply_url: "https://www.thilo-hagendorff.info/wordpress/wp-content/uploads/2026/03/AI-Safety-PhD.pdf"
@@ -33,4 +33,4 @@ areas:
 <p class="apply-cta"><a href="https://www.thilo-hagendorff.info/wordpress/wp-content/uploads/2026/03/AI-Safety-PhD.pdf">Apply →</a></p>
 
 ---
-*Posted 2022-01-06 · Listing synced 2026-08-28 · 80k job ID `recGgg4prsxPVflRy`*
+*Posted 2022-01-06 · Listing synced 2026-08-29 · 80k job ID `recGgg4prsxPVflRy`*

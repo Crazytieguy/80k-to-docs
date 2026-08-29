@@ -2,7 +2,7 @@
 title: "Speculative Application"
 employer: "Animal Equality"
 job_id: "recXMPHlc9Ep1Kdir"
-last_updated: "2026-08-28T18:33:41.761128Z"
+last_updated: "2026-08-29T05:33:40.135101Z"
 posted_at: "2022-01-03T00:00:00Z"
 status: ready
 apply_url: "https://animal-equality-germany-ev.jobs.personio.de/job/1359239?language=de%3Flanguage%3D"
@@ -17,7 +17,7 @@ areas:
 <dl class="job-meta">
 <dt>Location</dt><dd>Germany, Europe (ex UK)</dd>
 <dt>Role type</dt><dd>Full-time</dd>
-<dt>Experience</dt><dd>Entry-level, Junior (1-4 years experience)</dd>
+<dt>Experience</dt><dd>Junior (1-4 years experience), Entry-level</dd>
 <dt>Degree</dt><dd>Undergraduate degree or less</dd>
 </dl>
 
@@ -29,4 +29,4 @@ areas:
 <p class="apply-cta"><a href="https://animal-equality-germany-ev.jobs.personio.de/job/1359239?language=de%3Flanguage%3D">Apply →</a></p>
 
 ---
-*Posted 2022-01-03 · Listing synced 2026-08-28 · 80k job ID `recXMPHlc9Ep1Kdir`*
+*Posted 2022-01-03 · Listing synced 2026-08-29 · 80k job ID `recXMPHlc9Ep1Kdir`*

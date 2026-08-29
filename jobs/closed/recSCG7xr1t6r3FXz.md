@@ -4,24 +4,20 @@ employer: "Blueprint Biosecurity"
 job_id: "recSCG7xr1t6r3FXz"
 last_updated: "2026-08-28T18:32:30.049351Z"
 posted_at: "2026-07-30T00:04:01Z"
-status: ready
+status: closed
+closed_at: "2026-08-29"
 apply_url: "https://blueprintbiosecurity.org/safe-uvc-rfp/"
 areas:
   - "Biosecurity & pandemic preparedness"
 ---
 
+> ⚠️ **CLOSED on 2026-08-29** — this job is no longer listed on the 80,000 Hours board. Archived snapshot below.
+
 # Request for Proposals, Safety Assessment for Far-UVC Exposure
 
-**[Blueprint Biosecurity](https://blueprintbiosecurity.org/)**
+**Blueprint Biosecurity**
 
-<dl class="job-meta">
-<dt>Location</dt><dd>Remote, USA, USA</dd>
-<dt>Role type</dt><dd>Funding</dd>
-<dt>Experience</dt><dd>Multiple experience levels</dd>
-<dt>Degree</dt><dd>Undergraduate degree or less</dd>
-</dl>
-
-**Areas & skills:** Biosecurity & pandemic preparedness, Research
+**Areas & skills:** Biosecurity & pandemic preparedness
 
 ## Summary
 - The aim of this RFP is to generate the empirical evidence needed to resolve existing safety questions to inform the potential wider deployment of far-UVC.

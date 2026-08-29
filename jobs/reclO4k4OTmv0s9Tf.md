@@ -2,7 +2,7 @@
 title: "Campus Recruiting Associate"
 employer: "The School for Moral Ambition"
 job_id: "reclO4k4OTmv0s9Tf"
-last_updated: "2026-08-28T18:31:37.437312Z"
+last_updated: "2026-08-29T05:31:47.009865Z"
 posted_at: "2026-08-28T00:00:00Z"
 status: ready
 apply_url: "https://www.moralambition.org/jobs/campus-recruiting-associate"
@@ -33,4 +33,4 @@ areas:
 <p class="apply-cta"><a href="https://www.moralambition.org/jobs/campus-recruiting-associate">Apply →</a></p>
 
 ---
-*Posted 2026-08-28 · Listing synced 2026-08-28 · 80k job ID `reclO4k4OTmv0s9Tf`*
+*Posted 2026-08-28 · Listing synced 2026-08-29 · 80k job ID `reclO4k4OTmv0s9Tf`*

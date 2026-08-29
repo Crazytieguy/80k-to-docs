@@ -4,25 +4,20 @@ employer: "Founders Pledge"
 job_id: "recUUOql9ENLGTZdz"
 last_updated: "2026-08-28T18:32:10.935395Z"
 posted_at: "2026-08-13T00:01:00Z"
-status: ready
+status: closed
+closed_at: "2026-08-29"
 apply_url: "https://careers.founderspledge.com/jobs/8207736-philanthropic-services-associate"
 areas:
   - "Building effective altruism"
 ---
 
+> ⚠️ **CLOSED on 2026-08-29** — this job is no longer listed on the 80,000 Hours board. Archived snapshot below.
+
 # Philanthropic Services Associate
 
-**[Founders Pledge](https://www.founderspledge.com/)**
+**Founders Pledge**
 
-<dl class="job-meta">
-<dt>Location</dt><dd>San Francisco Bay Area, New York, NY, USA</dd>
-<dt>Role type</dt><dd>Full-time</dd>
-<dt>Experience</dt><dd>Junior (1-4 years experience)</dd>
-<dt>Degree</dt><dd>Undergraduate degree or less</dd>
-<dt>Salary</dt><dd>$70,000 – $75,000</dd>
-</dl>
-
-**Areas & skills:** Building effective altruism, Operations
+**Areas & skills:** Building effective altruism
 
 ## Summary
 - In this role, you'll provide essential administrative and operational support to the Philanthropic Services team, processing gifts and supporting members.

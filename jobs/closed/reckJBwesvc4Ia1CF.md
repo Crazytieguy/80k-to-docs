@@ -4,24 +4,20 @@ employer: "Family Empowerment Media"
 job_id: "reckJBwesvc4Ia1CF"
 last_updated: "2026-08-28T18:32:07.128129Z"
 posted_at: "2026-08-17T00:00:00Z"
-status: ready
+status: closed
+closed_at: "2026-08-29"
 apply_url: "https://docs.google.com/document/u/3/d/1LzBUmLuIZ7yhZHyi71T__Gwu8z_RaOIHmnCbt8OzRBo/edit?usp=sharing"
 areas:
   - "Global health & development"
 ---
 
+> ⚠️ **CLOSED on 2026-08-29** — this job is no longer listed on the 80,000 Hours board. Archived snapshot below.
+
 # Data Analyst and Researcher
 
-**[Family Empowerment Media](https://www.familyempowermentmedia.org/)**
+**Family Empowerment Media**
 
-<dl class="job-meta">
-<dt>Location</dt><dd>Remote, Global</dd>
-<dt>Role type</dt><dd>Full-time</dd>
-<dt>Experience</dt><dd>Junior (1-4 years experience)</dd>
-<dt>Degree</dt><dd>Undergraduate degree or less</dd>
-</dl>
-
-**Areas & skills:** Global health & development, Research
+**Areas & skills:** Global health & development
 
 ## Summary
 - In this role, you'll develop analytical models and research that drive FEM's operational and expansion decisions.

@@ -4,24 +4,20 @@ employer: "Google DeepMind"
 job_id: "recBQdDcYu99hoBGr"
 last_updated: "2026-08-28T18:32:33.044582Z"
 posted_at: "2026-07-29T00:00:00Z"
-status: ready
+status: closed
+closed_at: "2026-08-29"
 apply_url: "https://www.google.com/about/careers/applications/jobs/results/96033779797107398-research-scientist-safety-oversight-deepmind?company=DeepMind&page=2"
 areas:
   - "AI safety & policy"
 ---
 
+> ⚠️ **CLOSED on 2026-08-29** — this job is no longer listed on the 80,000 Hours board. Archived snapshot below.
+
 # Research Scientist, Safety Oversight, London
 
-**[Google DeepMind](https://www.deepmind.com)**
+**Google DeepMind**
 
-<dl class="job-meta">
-<dt>Location</dt><dd>London, UK, UK</dd>
-<dt>Role type</dt><dd>Full-time</dd>
-<dt>Experience</dt><dd>Junior (1-4 years experience)</dd>
-<dt>Degree</dt><dd>Doctoral degree</dd>
-</dl>
-
-**Areas & skills:** AI safety & policy, Research, Software engineering
+**Areas & skills:** AI safety & policy
 
 ## Summary
 - In this role, you'll develop systems to monitor deployed AI models for safety issues, detecting misbehavior and misuse.

@@ -2,7 +2,7 @@
 title: "Senior Economist, Windfall Research"
 employer: "Windfall Trust"
 job_id: "recTAkYiQjHEE4Ruk"
-last_updated: "2026-08-28T18:32:31.799545Z"
+last_updated: "2026-08-29T05:32:35.266991Z"
 posted_at: "2026-07-29T00:02:00Z"
 status: ready
 apply_url: "https://jobs.ashbyhq.com/windfall/07818b4a-9ad7-4793-8cd7-9622d845762f"
@@ -34,4 +34,4 @@ areas:
 <p class="apply-cta"><a href="https://jobs.ashbyhq.com/windfall/07818b4a-9ad7-4793-8cd7-9622d845762f">Apply →</a></p>
 
 ---
-*Posted 2026-07-29 · Listing synced 2026-08-28 · 80k job ID `recTAkYiQjHEE4Ruk`*
+*Posted 2026-07-29 · Listing synced 2026-08-29 · 80k job ID `recTAkYiQjHEE4Ruk`*

@@ -2,7 +2,7 @@
 title: "Applied Researcher, Monitoring"
 employer: "Apollo Research"
 job_id: "recimUeinrrnnv28c"
-last_updated: "2026-08-28T18:33:18.319109Z"
+last_updated: "2026-08-29T05:33:17.007489Z"
 posted_at: "2022-01-06T00:00:00Z"
 status: ready
 apply_url: "https://jobs.lever.co/apolloresearch/3628de77-7641-44b7-b80f-28c4a7a68abf"
@@ -19,7 +19,7 @@ areas:
 <dt>Role type</dt><dd>Full-time</dd>
 <dt>Experience</dt><dd>Junior (1-4 years experience)</dd>
 <dt>Degree</dt><dd>Undergraduate degree or less</dd>
-<dt>Salary</dt><dd>$135,312 – $243,561</dd>
+<dt>Salary</dt><dd>$135,355 – $243,638</dd>
 </dl>
 
 **Areas & skills:** AI safety & policy, Research, Software engineering
@@ -34,4 +34,4 @@ areas:
 <p class="apply-cta"><a href="https://jobs.lever.co/apolloresearch/3628de77-7641-44b7-b80f-28c4a7a68abf">Apply →</a></p>
 
 ---
-*Posted 2022-01-06 · Listing synced 2026-08-28 · 80k job ID `recimUeinrrnnv28c`*
+*Posted 2022-01-06 · Listing synced 2026-08-29 · 80k job ID `recimUeinrrnnv28c`*

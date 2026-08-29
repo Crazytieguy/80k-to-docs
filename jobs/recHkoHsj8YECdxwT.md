@@ -2,7 +2,7 @@
 title: "AI Research Engineer, Safety Pretraining for Open Frontier Models, EPFL (x3)"
 employer: "Swiss AI Initiative"
 job_id: "recHkoHsj8YECdxwT"
-last_updated: "2026-08-28T18:32:46.761858Z"
+last_updated: "2026-08-29T05:32:49.859727Z"
 posted_at: "2026-07-08T00:00:00Z"
 status: ready
 apply_url: "https://dlab.epfl.ch/2026-07-06-safety-pretraining-engineer-positions/"
@@ -17,7 +17,7 @@ areas:
 <dl class="job-meta">
 <dt>Location</dt><dd>Lausanne, Switzerland, Switzerland, Europe (ex UK)</dd>
 <dt>Role type</dt><dd>Full-time</dd>
-<dt>Experience</dt><dd>Entry-level, Junior (1-4 years experience)</dd>
+<dt>Experience</dt><dd>Junior (1-4 years experience), Entry-level</dd>
 <dt>Degree</dt><dd>Master's degree</dd>
 </dl>
 
@@ -33,4 +33,4 @@ areas:
 <p class="apply-cta"><a href="https://dlab.epfl.ch/2026-07-06-safety-pretraining-engineer-positions/">Apply →</a></p>
 
 ---
-*Posted 2026-07-08 · Listing synced 2026-08-28 · 80k job ID `recHkoHsj8YECdxwT`*
+*Posted 2026-07-08 · Listing synced 2026-08-29 · 80k job ID `recHkoHsj8YECdxwT`*

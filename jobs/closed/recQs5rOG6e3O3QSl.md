@@ -4,25 +4,20 @@ employer: "FAR AI"
 job_id: "recQs5rOG6e3O3QSl"
 last_updated: "2026-08-28T18:32:47.319404Z"
 posted_at: "2026-07-07T00:05:00Z"
-status: ready
+status: closed
+closed_at: "2026-08-29"
 apply_url: "https://jobs.ashbyhq.com/far.ai/7d1a985d-18cf-4775-af06-d4022d3e6012?embed=js"
 areas:
   - "AI safety & policy"
 ---
 
+> ⚠️ **CLOSED on 2026-08-29** — this job is no longer listed on the 80,000 Hours board. Archived snapshot below.
+
 # Head of Communications
 
-**[FAR AI](https://far.ai/)**
+**FAR AI**
 
-<dl class="job-meta">
-<dt>Location</dt><dd>San Francisco Bay Area, Remote, Global, Remote, USA, USA, USA (Confirmed Visas)</dd>
-<dt>Role type</dt><dd>Full-time</dd>
-<dt>Experience</dt><dd>Mid (5-9 years experience)</dd>
-<dt>Degree</dt><dd>Undergraduate degree or less</dd>
-<dt>Salary</dt><dd>$175,000 – $260,000</dd>
-</dl>
-
-**Areas & skills:** AI safety & policy, Communications, Management
+**Areas & skills:** AI safety & policy
 
 ## Summary
 - In this role, you'll develop and execute a communications strategy to engage stakeholders about AI safety and lead a communications team.

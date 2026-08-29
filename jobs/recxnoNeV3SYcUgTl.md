@@ -2,7 +2,7 @@
 title: "Manager of Institutional Affairs, Mexico"
 employer: "Mercy for Animals"
 job_id: "recxnoNeV3SYcUgTl"
-last_updated: "2026-08-28T18:32:22.936960Z"
+last_updated: "2026-08-29T05:32:26.824824Z"
 posted_at: "2026-08-05T00:00:00Z"
 status: ready
 apply_url: "https://job-boards.greenhouse.io/mercyforanimals/jobs/8097488"
@@ -33,4 +33,4 @@ areas:
 <p class="apply-cta"><a href="https://job-boards.greenhouse.io/mercyforanimals/jobs/8097488">Apply →</a></p>
 
 ---
-*Posted 2026-08-05 · Listing synced 2026-08-28 · 80k job ID `recxnoNeV3SYcUgTl`*
+*Posted 2026-08-05 · Listing synced 2026-08-29 · 80k job ID `recxnoNeV3SYcUgTl`*

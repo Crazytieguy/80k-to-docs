@@ -2,7 +2,7 @@
 title: "Engagement Manager, AI Risk"
 employer: "Good Impressions Media"
 job_id: "rec2nPe0NBzrbOy4Q"
-last_updated: "2026-08-28T18:32:28.709777Z"
+last_updated: "2026-08-29T05:32:32.500277Z"
 posted_at: "2026-07-31T00:03:00Z"
 status: ready
 apply_url: "https://www.goodimpressionsmedia.com/jobs/engagement-manager-ai-risk"
@@ -34,4 +34,4 @@ areas:
 <p class="apply-cta"><a href="https://www.goodimpressionsmedia.com/jobs/engagement-manager-ai-risk">Apply →</a></p>
 
 ---
-*Posted 2026-07-31 · Listing synced 2026-08-28 · 80k job ID `rec2nPe0NBzrbOy4Q`*
+*Posted 2026-07-31 · Listing synced 2026-08-29 · 80k job ID `rec2nPe0NBzrbOy4Q`*

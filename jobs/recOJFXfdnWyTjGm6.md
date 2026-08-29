@@ -2,7 +2,7 @@
 title: "Senior Researcher Communications Specialist"
 employer: "LawZero"
 job_id: "recOJFXfdnWyTjGm6"
-last_updated: "2026-08-28T18:32:53.322139Z"
+last_updated: "2026-08-29T05:32:54.804418Z"
 posted_at: "2026-06-26T00:00:00Z"
 status: ready
 apply_url: "https://job-boards.greenhouse.io/lawzero/jobs/4297736009"
@@ -33,4 +33,4 @@ areas:
 <p class="apply-cta"><a href="https://job-boards.greenhouse.io/lawzero/jobs/4297736009">Apply →</a></p>
 
 ---
-*Posted 2026-06-26 · Listing synced 2026-08-28 · 80k job ID `recOJFXfdnWyTjGm6`*
+*Posted 2026-06-26 · Listing synced 2026-08-29 · 80k job ID `recOJFXfdnWyTjGm6`*

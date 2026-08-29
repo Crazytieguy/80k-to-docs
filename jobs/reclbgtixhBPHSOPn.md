@@ -2,10 +2,10 @@
 title: "Expressions of Interest, Policy and Engineering"
 employer: "AI Verification and Evaluation Research Institute"
 job_id: "reclbgtixhBPHSOPn"
-last_updated: "2026-08-28T18:33:30.868816Z"
+last_updated: "2026-08-29T05:33:29.231188Z"
 posted_at: "2022-01-05T00:00:00Z"
 status: ready
-apply_url: "https://www.averi.org/careers"
+apply_url: "https://www.averi.org/careers?ashby_jid=82148432-a7af-403d-ae56-2592d63bc40d"
 areas:
   - "AI safety & policy"
 ---
@@ -26,7 +26,7 @@ areas:
 ## Summary
 - Express interest in AI policy or engineering roles.
 
-<p class="apply-cta"><a href="https://www.averi.org/careers">Apply →</a></p>
+<p class="apply-cta"><a href="https://www.averi.org/careers?ashby_jid=82148432-a7af-403d-ae56-2592d63bc40d">Apply →</a></p>
 
 ---
-*Posted 2022-01-05 · Listing synced 2026-08-28 · 80k job ID `reclbgtixhBPHSOPn`*
+*Posted 2022-01-05 · Listing synced 2026-08-29 · 80k job ID `reclbgtixhBPHSOPn`*
