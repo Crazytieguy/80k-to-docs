@@ -2,7 +2,7 @@
 title: "Research Scientist"
 employer: "FutureSearch"
 job_id: "recI6lqAQQzRI22Ff"
-last_updated: "2026-08-29T05:32:44.363045Z"
+last_updated: "2026-08-30T05:32:40.034061Z"
 posted_at: "2026-07-15T00:00:00Z"
 status: ready
 apply_url: "https://apply.workable.com/futuresearch/j/CC8CA27FB4/"
@@ -15,7 +15,7 @@ areas:
 **[FutureSearch](https://futuresearch.ai/)**
 
 <dl class="job-meta">
-<dt>Location</dt><dd>London, UK, San Francisco Bay Area, Remote, Global, UK, USA</dd>
+<dt>Location</dt><dd>Remote, Global, San Francisco Bay Area, London, UK, UK, USA</dd>
 <dt>Role type</dt><dd>Full-time</dd>
 <dt>Experience</dt><dd>Junior (1-4 years experience)</dd>
 <dt>Degree</dt><dd>Undergraduate degree or less</dd>
@@ -34,4 +34,4 @@ areas:
 <p class="apply-cta"><a href="https://apply.workable.com/futuresearch/j/CC8CA27FB4/">Apply →</a></p>
 
 ---
-*Posted 2026-07-15 · Listing synced 2026-08-29 · 80k job ID `recI6lqAQQzRI22Ff`*
+*Posted 2026-07-15 · Listing synced 2026-08-30 · 80k job ID `recI6lqAQQzRI22Ff`*

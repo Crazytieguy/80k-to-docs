@@ -2,7 +2,7 @@
 title: "Writer, GiveWise"
 employer: "Effective Altruism Hong Kong"
 job_id: "recDQL1KBRnanbxYm"
-last_updated: "2026-08-29T05:32:00.630791Z"
+last_updated: "2026-08-30T05:31:59.154445Z"
 posted_at: "2026-08-24T00:00:00Z"
 status: ready
 apply_url: "https://www.eahongkong.org/join-our-team"
@@ -32,4 +32,4 @@ areas:
 <p class="apply-cta"><a href="https://www.eahongkong.org/join-our-team">Apply →</a></p>
 
 ---
-*Posted 2026-08-24 · Listing synced 2026-08-29 · 80k job ID `recDQL1KBRnanbxYm`*
+*Posted 2026-08-24 · Listing synced 2026-08-30 · 80k job ID `recDQL1KBRnanbxYm`*

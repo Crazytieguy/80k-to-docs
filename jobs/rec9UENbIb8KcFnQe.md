@@ -2,7 +2,7 @@
 title: "Fundraising Lead"
 employer: "Founders Pledge"
 job_id: "rec9UENbIb8KcFnQe"
-last_updated: "2026-08-29T05:32:33.749196Z"
+last_updated: "2026-08-30T05:32:29.135233Z"
 posted_at: "2026-07-30T00:02:00Z"
 status: ready
 apply_url: "https://careers.founderspledge.com/jobs/8139153-fundraising-lead"
@@ -34,4 +34,4 @@ areas:
 <p class="apply-cta"><a href="https://careers.founderspledge.com/jobs/8139153-fundraising-lead">Apply →</a></p>
 
 ---
-*Posted 2026-07-30 · Listing synced 2026-08-29 · 80k job ID `rec9UENbIb8KcFnQe`*
+*Posted 2026-07-30 · Listing synced 2026-08-30 · 80k job ID `rec9UENbIb8KcFnQe`*

@@ -2,7 +2,7 @@
 title: "Opportunities, Latin America"
 employer: "Innovations for Poverty Action"
 job_id: "recT4KOxYfaio9ICB"
-last_updated: "2026-08-29T05:33:48.394275Z"
+last_updated: "2026-08-30T05:33:42.428097Z"
 posted_at: "2022-01-02T00:00:00Z"
 status: ready
 apply_url: "https://poverty-action.org/current-opportunities#:~:text=Latin%20America,-and%20North%20America"
@@ -30,4 +30,4 @@ areas:
 <p class="apply-cta"><a href="https://poverty-action.org/current-opportunities#:~:text=Latin%20America,-and%20North%20America">Apply →</a></p>
 
 ---
-*Posted 2022-01-02 · Listing synced 2026-08-29 · 80k job ID `recT4KOxYfaio9ICB`*
+*Posted 2022-01-02 · Listing synced 2026-08-30 · 80k job ID `recT4KOxYfaio9ICB`*

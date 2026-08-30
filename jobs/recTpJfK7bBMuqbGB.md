@@ -2,7 +2,7 @@
 title: "Research Fellow, Vaccine Confidence Project"
 employer: "University of London, School of Hygiene and Tropical Medicine"
 job_id: "recTpJfK7bBMuqbGB"
-last_updated: "2026-08-29T05:31:47.458747Z"
+last_updated: "2026-08-30T05:31:44.635628Z"
 posted_at: "2026-08-28T00:00:00Z"
 status: ready
 apply_url: "https://jobs.lshtm.ac.uk/vacancy.aspx?ref=EPH-EPED-2025-14-R"
@@ -34,4 +34,4 @@ areas:
 <p class="apply-cta"><a href="https://jobs.lshtm.ac.uk/vacancy.aspx?ref=EPH-EPED-2025-14-R">Apply →</a></p>
 
 ---
-*Posted 2026-08-28 · Listing synced 2026-08-29 · 80k job ID `recTpJfK7bBMuqbGB`*
+*Posted 2026-08-28 · Listing synced 2026-08-30 · 80k job ID `recTpJfK7bBMuqbGB`*

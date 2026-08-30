@@ -2,7 +2,7 @@
 title: "Operations Lead"
 employer: "Outcapped"
 job_id: "recP0OYcftMfDDHt0"
-last_updated: "2026-08-29T05:31:56.733972Z"
+last_updated: "2026-08-30T05:31:55.152578Z"
 posted_at: "2026-08-25T00:00:00Z"
 status: ready
 apply_url: "https://www.outcapped.com/outcapped-careers/?ashby_jid=df440daf-dac7-49ee-aeac-c9d576e3e5dd"
@@ -35,4 +35,4 @@ areas:
 <p class="apply-cta"><a href="https://www.outcapped.com/outcapped-careers/?ashby_jid=df440daf-dac7-49ee-aeac-c9d576e3e5dd">Apply →</a></p>
 
 ---
-*Posted 2026-08-25 · Listing synced 2026-08-29 · 80k job ID `recP0OYcftMfDDHt0`*
+*Posted 2026-08-25 · Listing synced 2026-08-30 · 80k job ID `recP0OYcftMfDDHt0`*

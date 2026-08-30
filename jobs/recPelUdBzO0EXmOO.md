@@ -2,7 +2,7 @@
 title: "Model Policy Manager"
 employer: "OpenAI"
 job_id: "recPelUdBzO0EXmOO"
-last_updated: "2026-08-29T05:31:56.588535Z"
+last_updated: "2026-08-30T05:31:55.007731Z"
 posted_at: "2026-08-25T00:00:00Z"
 status: ready
 apply_url: "https://openai.com/careers/model-policy-manager-san-francisco/"
@@ -35,4 +35,4 @@ areas:
 <p class="apply-cta"><a href="https://openai.com/careers/model-policy-manager-san-francisco/">Apply →</a></p>
 
 ---
-*Posted 2026-08-25 · Listing synced 2026-08-29 · 80k job ID `recPelUdBzO0EXmOO`*
+*Posted 2026-08-25 · Listing synced 2026-08-30 · 80k job ID `recPelUdBzO0EXmOO`*

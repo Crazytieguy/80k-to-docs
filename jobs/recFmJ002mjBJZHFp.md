@@ -2,7 +2,7 @@
 title: "Intern, Asia-Pacific Office"
 employer: "Future of Privacy Forum"
 job_id: "recFmJ002mjBJZHFp"
-last_updated: "2026-08-29T05:33:45.985597Z"
+last_updated: "2026-08-30T05:33:40.643154Z"
 posted_at: "2022-01-02T00:00:00Z"
 status: ready
 apply_url: "https://fpf.org/asia-pacific-office-internship-fpf-apac/"
@@ -33,4 +33,4 @@ areas:
 <p class="apply-cta"><a href="https://fpf.org/asia-pacific-office-internship-fpf-apac/">Apply →</a></p>
 
 ---
-*Posted 2022-01-02 · Listing synced 2026-08-29 · 80k job ID `recFmJ002mjBJZHFp`*
+*Posted 2022-01-02 · Listing synced 2026-08-30 · 80k job ID `recFmJ002mjBJZHFp`*

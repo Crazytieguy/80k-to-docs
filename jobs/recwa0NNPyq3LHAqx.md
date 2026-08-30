@@ -2,7 +2,7 @@
 title: "Team Member, AIUC-1 Standard"
 employer: "Artificial Intelligence Underwriting Company"
 job_id: "recwa0NNPyq3LHAqx"
-last_updated: "2026-08-29T05:32:20.754688Z"
+last_updated: "2026-08-30T05:32:17.618688Z"
 posted_at: "2026-08-10T00:00:00Z"
 status: ready
 apply_url: "https://jobs.ashbyhq.com/aiuc/d4d8ccdb-0b23-405b-9e22-d2b221019a0b"
@@ -33,4 +33,4 @@ areas:
 <p class="apply-cta"><a href="https://jobs.ashbyhq.com/aiuc/d4d8ccdb-0b23-405b-9e22-d2b221019a0b">Apply →</a></p>
 
 ---
-*Posted 2026-08-10 · Listing synced 2026-08-29 · 80k job ID `recwa0NNPyq3LHAqx`*
+*Posted 2026-08-10 · Listing synced 2026-08-30 · 80k job ID `recwa0NNPyq3LHAqx`*

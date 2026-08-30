@@ -4,25 +4,20 @@ employer: "Augur"
 job_id: "recJmw5CBbRGCW1PJ"
 last_updated: "2026-08-29T05:32:28.775190Z"
 posted_at: "2026-08-04T00:00:00Z"
-status: ready
+status: closed
+closed_at: "2026-08-30"
 apply_url: "https://jobs.ashbyhq.com/augurai/f0adbe08-75cb-4c04-905b-203ebea57708"
 areas:
   - "AI safety & policy"
 ---
 
+> ⚠️ **CLOSED on 2026-08-30** — this job is no longer listed on the 80,000 Hours board. Archived snapshot below.
+
 # Researcher
 
-**[Augur](https://augurai.net/)**
+**Augur**
 
-<dl class="job-meta">
-<dt>Location</dt><dd>Remote, USA, Remote, UK, UK, USA</dd>
-<dt>Role type</dt><dd>Part-time</dd>
-<dt>Experience</dt><dd>Junior (1-4 years experience), Mid (5-9 years experience)</dd>
-<dt>Degree</dt><dd>Undergraduate degree or less</dd>
-<dt>Salary</dt><dd>$104,000</dd>
-</dl>
-
-**Areas & skills:** AI safety & policy, Research, Policy
+**Areas & skills:** AI safety & policy
 
 ## Summary
 - In this role, you'll map frontier AI supply chains and analyse their geopolitical evolution under different scenarios.

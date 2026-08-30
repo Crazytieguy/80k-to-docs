@@ -2,7 +2,7 @@
 title: "Technical Advisor, Fine-Tuning and Evals"
 employer: "Mycelium"
 job_id: "recUmVLTeyhi10vYI"
-last_updated: "2026-08-29T05:31:45.286295Z"
+last_updated: "2026-08-30T05:31:42.702091Z"
 posted_at: "2026-08-28T00:01:00Z"
 status: ready
 apply_url: "https://docs.google.com/document/d/1hmp9sBfMalRQSvD6D_oTEFbYMGFErGkYWOA4slHl7v0/edit?usp=sharing"
@@ -35,4 +35,4 @@ areas:
 <p class="apply-cta"><a href="https://docs.google.com/document/d/1hmp9sBfMalRQSvD6D_oTEFbYMGFErGkYWOA4slHl7v0/edit?usp=sharing">Apply →</a></p>
 
 ---
-*Posted 2026-08-28 · Listing synced 2026-08-29 · 80k job ID `recUmVLTeyhi10vYI`*
+*Posted 2026-08-28 · Listing synced 2026-08-30 · 80k job ID `recUmVLTeyhi10vYI`*

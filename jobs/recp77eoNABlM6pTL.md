@@ -2,7 +2,7 @@
 title: "Regional Research Economist, Economic Research, London"
 employer: "Anthropic"
 job_id: "recp77eoNABlM6pTL"
-last_updated: "2026-08-29T05:33:05.645980Z"
+last_updated: "2026-08-30T05:33:00.330769Z"
 posted_at: "2022-01-11T00:00:00Z"
 status: ready
 apply_url: "https://job-boards.greenhouse.io/anthropic/jobs/5231200008"
@@ -34,4 +34,4 @@ areas:
 <p class="apply-cta"><a href="https://job-boards.greenhouse.io/anthropic/jobs/5231200008">Apply →</a></p>
 
 ---
-*Posted 2022-01-11 · Listing synced 2026-08-29 · 80k job ID `recp77eoNABlM6pTL`*
+*Posted 2022-01-11 · Listing synced 2026-08-30 · 80k job ID `recp77eoNABlM6pTL`*

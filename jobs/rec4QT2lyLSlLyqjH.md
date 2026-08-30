@@ -2,7 +2,7 @@
 title: "Risk and Data Security Manager"
 employer: "Founders Pledge"
 job_id: "rec4QT2lyLSlLyqjH"
-last_updated: "2026-08-29T05:32:33.866201Z"
+last_updated: "2026-08-30T05:32:29.255305Z"
 posted_at: "2026-07-30T00:02:00Z"
 status: ready
 apply_url: "https://careers.founderspledge.com/jobs/8114302-risk-data-security-manager"
@@ -34,4 +34,4 @@ areas:
 <p class="apply-cta"><a href="https://careers.founderspledge.com/jobs/8114302-risk-data-security-manager">Apply →</a></p>
 
 ---
-*Posted 2026-07-30 · Listing synced 2026-08-29 · 80k job ID `rec4QT2lyLSlLyqjH`*
+*Posted 2026-07-30 · Listing synced 2026-08-30 · 80k job ID `rec4QT2lyLSlLyqjH`*

@@ -2,7 +2,7 @@
 title: "Shortform Video Creator"
 employer: "AI Digest"
 job_id: "recdVy304PNdd1rTm"
-last_updated: "2026-08-29T05:31:48.373251Z"
+last_updated: "2026-08-30T05:31:45.611417Z"
 posted_at: "2026-08-27T00:03:00Z"
 status: ready
 apply_url: "https://theaidigest.org/hiring/video-creator-shortform"
@@ -32,4 +32,4 @@ areas:
 <p class="apply-cta"><a href="https://theaidigest.org/hiring/video-creator-shortform">Apply →</a></p>
 
 ---
-*Posted 2026-08-27 · Listing synced 2026-08-29 · 80k job ID `recdVy304PNdd1rTm`*
+*Posted 2026-08-27 · Listing synced 2026-08-30 · 80k job ID `recdVy304PNdd1rTm`*

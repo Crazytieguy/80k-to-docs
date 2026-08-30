@@ -2,7 +2,7 @@
 title: "Events Manager"
 employer: "The AI Policy Network"
 job_id: "recyManmqrNcTiw4b"
-last_updated: "2026-08-29T05:32:59.870551Z"
+last_updated: "2026-08-30T05:32:55.128481Z"
 posted_at: "2026-06-11T00:02:00Z"
 status: ready
 apply_url: "https://job-boards.greenhouse.io/aipn/jobs/4353583009"
@@ -34,4 +34,4 @@ areas:
 <p class="apply-cta"><a href="https://job-boards.greenhouse.io/aipn/jobs/4353583009">Apply →</a></p>
 
 ---
-*Posted 2026-06-11 · Listing synced 2026-08-29 · 80k job ID `recyManmqrNcTiw4b`*
+*Posted 2026-06-11 · Listing synced 2026-08-30 · 80k job ID `recyManmqrNcTiw4b`*

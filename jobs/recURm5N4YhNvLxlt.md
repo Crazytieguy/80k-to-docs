@@ -2,7 +2,7 @@
 title: "Field Epidemiology Training Programme Director"
 employer: "UK Government, Health Security Agency"
 job_id: "recURm5N4YhNvLxlt"
-last_updated: "2026-08-29T05:31:47.213133Z"
+last_updated: "2026-08-30T05:31:44.369603Z"
 posted_at: "2026-08-28T00:00:00Z"
 status: ready
 apply_url: "https://www.civilservicejobs.service.gov.uk/csr/jobs.cgi?jcode=2010426&csource=csalerts"
@@ -33,4 +33,4 @@ areas:
 <p class="apply-cta"><a href="https://www.civilservicejobs.service.gov.uk/csr/jobs.cgi?jcode=2010426&amp;csource=csalerts">Apply →</a></p>
 
 ---
-*Posted 2026-08-28 · Listing synced 2026-08-29 · 80k job ID `recURm5N4YhNvLxlt`*
+*Posted 2026-08-28 · Listing synced 2026-08-30 · 80k job ID `recURm5N4YhNvLxlt`*

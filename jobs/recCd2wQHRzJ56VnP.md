@@ -2,7 +2,7 @@
 title: "Software Engineer"
 employer: "Amodo Design"
 job_id: "recCd2wQHRzJ56VnP"
-last_updated: "2026-08-29T05:33:41.902306Z"
+last_updated: "2026-08-30T05:33:36.539599Z"
 posted_at: "2022-01-02T00:00:00Z"
 status: ready
 apply_url: "https://amododesign.com/career/software-engineer/"
@@ -34,4 +34,4 @@ areas:
 <p class="apply-cta"><a href="https://amododesign.com/career/software-engineer/">Apply →</a></p>
 
 ---
-*Posted 2022-01-02 · Listing synced 2026-08-29 · 80k job ID `recCd2wQHRzJ56VnP`*
+*Posted 2022-01-02 · Listing synced 2026-08-30 · 80k job ID `recCd2wQHRzJ56VnP`*

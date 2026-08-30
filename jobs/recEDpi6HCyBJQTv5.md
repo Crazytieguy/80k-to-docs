@@ -2,7 +2,7 @@
 title: "Contractor, Senior Technical Advisor, AI Capability Assessment"
 employer: "Institute for Security and Technology"
 job_id: "recEDpi6HCyBJQTv5"
-last_updated: "2026-08-29T05:32:14.730216Z"
+last_updated: "2026-08-30T05:32:11.687160Z"
 posted_at: "2026-08-14T00:00:00Z"
 status: ready
 apply_url: "https://jobs.gusto.com/postings/institute-for-security-and-technology-senior-technical-advisor-ai-capability-assessment-0e6f3fb9-47b3-4974-b799-59f68fa53a95"
@@ -33,4 +33,4 @@ areas:
 <p class="apply-cta"><a href="https://jobs.gusto.com/postings/institute-for-security-and-technology-senior-technical-advisor-ai-capability-assessment-0e6f3fb9-47b3-4974-b799-59f68fa53a95">Apply →</a></p>
 
 ---
-*Posted 2026-08-14 · Listing synced 2026-08-29 · 80k job ID `recEDpi6HCyBJQTv5`*
+*Posted 2026-08-14 · Listing synced 2026-08-30 · 80k job ID `recEDpi6HCyBJQTv5`*

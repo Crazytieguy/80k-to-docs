@@ -2,7 +2,7 @@
 title: "Safeguards Enforcement Analyst, Bio Harms"
 employer: "Anthropic"
 job_id: "recCmelkQsrDe5p8J"
-last_updated: "2026-08-29T05:32:46.452913Z"
+last_updated: "2026-08-30T05:32:41.673978Z"
 posted_at: "2026-07-13T00:00:00Z"
 status: ready
 apply_url: "https://job-boards.greenhouse.io/anthropic/jobs/5319696008"
@@ -16,7 +16,7 @@ areas:
 **[Anthropic](https://www.anthropic.com/)**
 
 <dl class="job-meta">
-<dt>Location</dt><dd>Washington, DC metro area, San Francisco Bay Area, New York, NY, USA, USA (Confirmed Visas)</dd>
+<dt>Location</dt><dd>San Francisco Bay Area, New York, NY, Washington, DC metro area, USA, USA (Confirmed Visas)</dd>
 <dt>Role type</dt><dd>Full-time</dd>
 <dt>Experience</dt><dd>Mid (5-9 years experience), Senior (10+ years experience)</dd>
 <dt>Degree</dt><dd>Undergraduate degree or less</dd>
@@ -35,4 +35,4 @@ areas:
 <p class="apply-cta"><a href="https://job-boards.greenhouse.io/anthropic/jobs/5319696008">Apply →</a></p>
 
 ---
-*Posted 2026-07-13 · Listing synced 2026-08-29 · 80k job ID `recCmelkQsrDe5p8J`*
+*Posted 2026-07-13 · Listing synced 2026-08-30 · 80k job ID `recCmelkQsrDe5p8J`*

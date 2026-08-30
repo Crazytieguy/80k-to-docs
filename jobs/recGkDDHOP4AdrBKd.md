@@ -2,7 +2,7 @@
 title: "Head of Corporate Relations / Co-Director"
 employer: "Farmállatvédelem"
 job_id: "recGkDDHOP4AdrBKd"
-last_updated: "2026-08-29T05:32:28.967959Z"
+last_updated: "2026-08-30T05:32:24.707582Z"
 posted_at: "2026-08-04T00:00:00Z"
 status: ready
 apply_url: "https://docs.google.com/document/d/1-iSYLQiKZOfj6tywvskVV1STvXdRXXDoTqL1nX6_lIY/edit?tab=t.4c1epj147dhr"
@@ -35,4 +35,4 @@ areas:
 <p class="apply-cta"><a href="https://docs.google.com/document/d/1-iSYLQiKZOfj6tywvskVV1STvXdRXXDoTqL1nX6_lIY/edit?tab=t.4c1epj147dhr">Apply →</a></p>
 
 ---
-*Posted 2026-08-04 · Listing synced 2026-08-29 · 80k job ID `recGkDDHOP4AdrBKd`*
+*Posted 2026-08-04 · Listing synced 2026-08-30 · 80k job ID `recGkDDHOP4AdrBKd`*

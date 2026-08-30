@@ -4,24 +4,20 @@ employer: "Massachusetts Institute of Technology, Lincoln Laboratory"
 job_id: "recuSlh9vwrbmODyl"
 last_updated: "2026-08-29T05:32:58.808500Z"
 posted_at: "2026-06-15T00:00:00Z"
-status: ready
+status: closed
+closed_at: "2026-08-30"
 apply_url: "https://careers.ll.mit.edu/job/Lexington-Group-05-52-Co-Op-AI-Technology-and-Systems-Fall-2026-MA-02420/1399059100/"
 areas:
   - "Career development: Technical"
 ---
 
+> ⚠️ **CLOSED on 2026-08-30** — this job is no longer listed on the 80,000 Hours board. Archived snapshot below.
+
 # Co-op, AI Technology and Systems (Fall 2026)
 
-**[Massachusetts Institute of Technology, Lincoln Laboratory](https://www.ll.mit.edu/)**
+**Massachusetts Institute of Technology, Lincoln Laboratory**
 
-<dl class="job-meta">
-<dt>Location</dt><dd>Boston metro area, USA</dd>
-<dt>Role type</dt><dd>Internship</dd>
-<dt>Experience</dt><dd>Entry-level</dd>
-<dt>Degree</dt><dd>Undergraduate degree or less</dd>
-</dl>
-
-**Areas & skills:** Career development: Technical, Research, Software engineering
+**Areas & skills:** Career development: Technical
 
 ## Summary
 - In this role, you'll develop artificial intelligence and machine learning solutions for national security, focusing on multimedia data analysis.

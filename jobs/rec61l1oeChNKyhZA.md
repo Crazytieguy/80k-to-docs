@@ -2,7 +2,7 @@
 title: "Principal Engineer"
 employer: "AI Whistleblower Initiative"
 job_id: "rec61l1oeChNKyhZA"
-last_updated: "2026-08-29T05:31:55.569482Z"
+last_updated: "2026-08-30T05:31:54.001854Z"
 posted_at: "2026-08-25T00:00:00Z"
 status: ready
 apply_url: "https://join.com/companies/aiwiorg/16577938-principal-engineer"
@@ -33,4 +33,4 @@ areas:
 <p class="apply-cta"><a href="https://join.com/companies/aiwiorg/16577938-principal-engineer">Apply →</a></p>
 
 ---
-*Posted 2026-08-25 · Listing synced 2026-08-29 · 80k job ID `rec61l1oeChNKyhZA`*
+*Posted 2026-08-25 · Listing synced 2026-08-30 · 80k job ID `rec61l1oeChNKyhZA`*

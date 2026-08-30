@@ -2,7 +2,7 @@
 title: "Founding Member of Technical Staff"
 employer: "Sampura Research"
 job_id: "recxKG0NSeNw1a7hg"
-last_updated: "2026-08-29T05:31:46.882388Z"
+last_updated: "2026-08-30T05:31:44.033229Z"
 posted_at: "2026-08-28T00:00:00Z"
 status: ready
 apply_url: "https://jobs.ashbyhq.com/sampura/a83213a5-6d70-4ed1-8f79-542a34051637"
@@ -34,4 +34,4 @@ areas:
 <p class="apply-cta"><a href="https://jobs.ashbyhq.com/sampura/a83213a5-6d70-4ed1-8f79-542a34051637">Apply →</a></p>
 
 ---
-*Posted 2026-08-28 · Listing synced 2026-08-29 · 80k job ID `recxKG0NSeNw1a7hg`*
+*Posted 2026-08-28 · Listing synced 2026-08-30 · 80k job ID `recxKG0NSeNw1a7hg`*

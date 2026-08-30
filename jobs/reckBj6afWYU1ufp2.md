@@ -2,7 +2,7 @@
 title: "Head of Policy Analysis"
 employer: "Le Centre pour la Sécurité de l'IA"
 job_id: "reckBj6afWYU1ufp2"
-last_updated: "2026-08-29T05:33:35.458719Z"
+last_updated: "2026-08-30T05:33:29.918540Z"
 posted_at: "2022-01-05T00:00:00Z"
 status: ready
 apply_url: "https://cesia.org/en/careers/head-of-policy-analysis/"
@@ -33,4 +33,4 @@ areas:
 <p class="apply-cta"><a href="https://cesia.org/en/careers/head-of-policy-analysis/">Apply →</a></p>
 
 ---
-*Posted 2022-01-05 · Listing synced 2026-08-29 · 80k job ID `reckBj6afWYU1ufp2`*
+*Posted 2022-01-05 · Listing synced 2026-08-30 · 80k job ID `reckBj6afWYU1ufp2`*

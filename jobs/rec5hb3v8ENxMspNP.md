@@ -2,7 +2,7 @@
 title: "Member of Technical Staff, Research Scientist"
 employer: "AI Digest"
 job_id: "rec5hb3v8ENxMspNP"
-last_updated: "2026-08-29T05:31:55.282268Z"
+last_updated: "2026-08-30T05:31:53.746706Z"
 posted_at: "2026-08-25T00:00:00Z"
 status: ready
 apply_url: "https://jobs.ashbyhq.com/aidigest/1eeba9e6-64e0-4095-bb92-ffaac3d053ec"
@@ -34,4 +34,4 @@ areas:
 <p class="apply-cta"><a href="https://jobs.ashbyhq.com/aidigest/1eeba9e6-64e0-4095-bb92-ffaac3d053ec">Apply →</a></p>
 
 ---
-*Posted 2026-08-25 · Listing synced 2026-08-29 · 80k job ID `rec5hb3v8ENxMspNP`*
+*Posted 2026-08-25 · Listing synced 2026-08-30 · 80k job ID `rec5hb3v8ENxMspNP`*

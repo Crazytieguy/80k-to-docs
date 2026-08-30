@@ -2,7 +2,7 @@
 title: "Policy Fellowships Programme"
 employer: "Cambridge University, Centre for Science and Policy"
 job_id: "rec9d2lBRKLOGOLKQ"
-last_updated: "2026-08-29T05:33:54.454211Z"
+last_updated: "2026-08-30T05:33:47.782531Z"
 posted_at: "2022-01-01T00:00:00Z"
 status: ready
 apply_url: "https://www.csap.cam.ac.uk/policy-fellowships/"
@@ -33,4 +33,4 @@ areas:
 <p class="apply-cta"><a href="https://www.csap.cam.ac.uk/policy-fellowships/">Apply →</a></p>
 
 ---
-*Posted 2022-01-01 · Listing synced 2026-08-29 · 80k job ID `rec9d2lBRKLOGOLKQ`*
+*Posted 2022-01-01 · Listing synced 2026-08-30 · 80k job ID `rec9d2lBRKLOGOLKQ`*

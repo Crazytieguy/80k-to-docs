@@ -2,7 +2,7 @@
 title: "Policy Fellow, Global Innovation"
 employer: "Information Technology and Innovation Foundation"
 job_id: "recImYY3f2XAryDBi"
-last_updated: "2026-08-29T05:31:52.932953Z"
+last_updated: "2026-08-30T05:31:51.395281Z"
 posted_at: "2026-08-26T00:00:00Z"
 status: ready
 apply_url: "https://itif.org/jobs/?gnk=job&gni=8a7883ac9f8b941b019fa3e49ca91b08&lang=en"
@@ -33,4 +33,4 @@ areas:
 <p class="apply-cta"><a href="https://itif.org/jobs/?gnk=job&amp;gni=8a7883ac9f8b941b019fa3e49ca91b08&amp;lang=en">Apply →</a></p>
 
 ---
-*Posted 2026-08-26 · Listing synced 2026-08-29 · 80k job ID `recImYY3f2XAryDBi`*
+*Posted 2026-08-26 · Listing synced 2026-08-30 · 80k job ID `recImYY3f2XAryDBi`*

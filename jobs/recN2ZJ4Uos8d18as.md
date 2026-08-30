@@ -2,7 +2,7 @@
 title: "Physicist / Engineer Track"
 employer: "Amodo Design"
 job_id: "recN2ZJ4Uos8d18as"
-last_updated: "2026-08-29T05:33:42.325936Z"
+last_updated: "2026-08-30T05:33:37.041669Z"
 posted_at: "2022-01-02T00:00:00Z"
 status: ready
 apply_url: "https://amododesign.com/career/physicist-to-engineer-track/"
@@ -33,4 +33,4 @@ areas:
 <p class="apply-cta"><a href="https://amododesign.com/career/physicist-to-engineer-track/">Apply →</a></p>
 
 ---
-*Posted 2022-01-02 · Listing synced 2026-08-29 · 80k job ID `recN2ZJ4Uos8d18as`*
+*Posted 2022-01-02 · Listing synced 2026-08-30 · 80k job ID `recN2ZJ4Uos8d18as`*

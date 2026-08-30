@@ -2,7 +2,7 @@
 title: "Industry Fellowship"
 employer: "The Royal Society"
 job_id: "recd3XSyFsPlNYjDr"
-last_updated: "2026-08-29T05:32:31.247956Z"
+last_updated: "2026-08-30T05:32:26.963913Z"
 posted_at: "2026-08-03T00:00:00Z"
 status: ready
 apply_url: "https://royalsociety.org/grants-schemes-awards/grants/industry-fellowship/"
@@ -34,4 +34,4 @@ areas:
 <p class="apply-cta"><a href="https://royalsociety.org/grants-schemes-awards/grants/industry-fellowship/">Apply →</a></p>
 
 ---
-*Posted 2026-08-03 · Listing synced 2026-08-29 · 80k job ID `recd3XSyFsPlNYjDr`*
+*Posted 2026-08-03 · Listing synced 2026-08-30 · 80k job ID `recd3XSyFsPlNYjDr`*

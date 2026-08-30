@@ -2,7 +2,7 @@
 title: "Manager / Associate / Senior Associate, Special Projects"
 employer: "Institute for AI Policy and Strategy"
 job_id: "rec6yINqWvgct3spz"
-last_updated: "2026-08-29T05:32:17.057142Z"
+last_updated: "2026-08-30T05:32:14.062420Z"
 posted_at: "2026-08-12T00:04:37Z"
 status: ready
 apply_url: "https://www.iaps.ai/special-projects"
@@ -15,7 +15,7 @@ areas:
 **[Institute for AI Policy and Strategy](https://www.iaps.ai/)**
 
 <dl class="job-meta">
-<dt>Location</dt><dd>London, UK, Washington, DC metro area, San Francisco Bay Area, UK, USA, USA (Confirmed Visas), UK (Confirmed Visas)</dd>
+<dt>Location</dt><dd>Washington, DC metro area, San Francisco Bay Area, London, UK, UK, USA, USA (Confirmed Visas), UK (Confirmed Visas)</dd>
 <dt>Role type</dt><dd>Full-time</dd>
 <dt>Experience</dt><dd>Junior (1-4 years experience), Mid (5-9 years experience)</dd>
 <dt>Degree</dt><dd>Undergraduate degree or less</dd>
@@ -34,4 +34,4 @@ areas:
 <p class="apply-cta"><a href="https://www.iaps.ai/special-projects">Apply →</a></p>
 
 ---
-*Posted 2026-08-12 · Listing synced 2026-08-29 · 80k job ID `rec6yINqWvgct3spz`*
+*Posted 2026-08-12 · Listing synced 2026-08-30 · 80k job ID `rec6yINqWvgct3spz`*

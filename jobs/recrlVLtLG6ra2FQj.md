@@ -2,7 +2,7 @@
 title: "Finance Associate"
 employer: "Apollo Research"
 job_id: "recrlVLtLG6ra2FQj"
-last_updated: "2026-08-29T05:32:56.813272Z"
+last_updated: "2026-08-30T05:32:52.379790Z"
 posted_at: "2026-06-18T00:05:00Z"
 status: ready
 apply_url: "https://jobs.lever.co/apolloresearch/d2bad2ec-3d00-4d1a-89b8-f93df491f3f4"
@@ -34,4 +34,4 @@ areas:
 <p class="apply-cta"><a href="https://jobs.lever.co/apolloresearch/d2bad2ec-3d00-4d1a-89b8-f93df491f3f4">Apply →</a></p>
 
 ---
-*Posted 2026-06-18 · Listing synced 2026-08-29 · 80k job ID `recrlVLtLG6ra2FQj`*
+*Posted 2026-06-18 · Listing synced 2026-08-30 · 80k job ID `recrlVLtLG6ra2FQj`*

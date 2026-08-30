@@ -2,13 +2,13 @@
 title: "Research Assistant, Market Shaping Accelerator"
 employer: "Center for Global Development"
 job_id: "recY2SnVYkcrM3A8q"
-last_updated: "2026-08-29T05:31:55.854941Z"
+last_updated: "2026-08-30T05:31:54.269555Z"
 posted_at: "2026-08-25T00:00:00Z"
 status: ready
 apply_url: "https://centerforglobaldevelopment.applytojob.com/apply/gS6SSb6wjR/Research-Assistant-Market-Shaping-Accelerator"
 areas:
-  - "Biosecurity & pandemic preparedness"
   - "Global health & development"
+  - "Biosecurity & pandemic preparedness"
   - "Climate change"
 ---
 
@@ -24,7 +24,7 @@ areas:
 <dt>Salary</dt><dd>$54,500 – $60,000</dd>
 </dl>
 
-**Areas & skills:** Biosecurity & pandemic preparedness, Global health & development, Climate change, Research, Policy
+**Areas & skills:** Global health & development, Biosecurity & pandemic preparedness, Climate change, Research, Policy
 
 ## Summary
 - In this role, you'll support the development of market-shaping proposals to incentivise innovations addressing climate change, pandemic threats, and global health.
@@ -36,4 +36,4 @@ areas:
 <p class="apply-cta"><a href="https://centerforglobaldevelopment.applytojob.com/apply/gS6SSb6wjR/Research-Assistant-Market-Shaping-Accelerator">Apply →</a></p>
 
 ---
-*Posted 2026-08-25 · Listing synced 2026-08-29 · 80k job ID `recY2SnVYkcrM3A8q`*
+*Posted 2026-08-25 · Listing synced 2026-08-30 · 80k job ID `recY2SnVYkcrM3A8q`*

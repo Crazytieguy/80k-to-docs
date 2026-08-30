@@ -2,7 +2,7 @@
 title: "Software Engineer"
 employer: "Kickstarting for Good"
 job_id: "recAvZqxHNZ11Jbp9"
-last_updated: "2026-08-29T05:32:38.714555Z"
+last_updated: "2026-08-30T05:32:34.397382Z"
 posted_at: "2026-07-27T00:00:00Z"
 status: ready
 apply_url: "https://jobs.kickstarting.org/software-engineer"
@@ -34,4 +34,4 @@ areas:
 <p class="apply-cta"><a href="https://jobs.kickstarting.org/software-engineer">Apply →</a></p>
 
 ---
-*Posted 2026-07-27 · Listing synced 2026-08-29 · 80k job ID `recAvZqxHNZ11Jbp9`*
+*Posted 2026-07-27 · Listing synced 2026-08-30 · 80k job ID `recAvZqxHNZ11Jbp9`*

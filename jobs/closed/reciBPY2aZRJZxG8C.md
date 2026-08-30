@@ -4,25 +4,20 @@ employer: "Gray Swan"
 job_id: "reciBPY2aZRJZxG8C"
 last_updated: "2026-08-29T05:32:06.758573Z"
 posted_at: "2026-08-19T00:00:00Z"
-status: ready
+status: closed
+closed_at: "2026-08-30"
 apply_url: "https://www.grayswan.ai/careers?ashby_jid=d564e180-807e-4da1-9955-1bfdcdab1e38"
 areas:
   - "AI safety & policy"
 ---
 
+> ⚠️ **CLOSED on 2026-08-30** — this job is no longer listed on the 80,000 Hours board. Archived snapshot below.
+
 # Head of Cyber Safety
 
-**[Gray Swan](https://www.grayswan.ai/)**
+**Gray Swan**
 
-<dl class="job-meta">
-<dt>Location</dt><dd>Remote, USA, USA, USA (Confirmed Visas)</dd>
-<dt>Role type</dt><dd>Full-time</dd>
-<dt>Experience</dt><dd>Mid (5-9 years experience), Senior (10+ years experience)</dd>
-<dt>Degree</dt><dd>Undergraduate degree or less</dd>
-<dt>Salary</dt><dd>$230,000 – $280,000</dd>
-</dl>
-
-**Areas & skills:** AI safety & policy, Information security, Management
+**Areas & skills:** AI safety & policy
 
 ## Summary
 - In this role, you'll lead Gray Swan's cyber safety capability as technical authority on AI-enabled cyber risk.

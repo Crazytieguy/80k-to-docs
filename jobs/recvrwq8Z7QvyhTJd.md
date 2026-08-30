@@ -2,7 +2,7 @@
 title: "Director, Donor Relations"
 employer: "The AI Policy Network"
 job_id: "recvrwq8Z7QvyhTJd"
-last_updated: "2026-08-29T05:33:37.364742Z"
+last_updated: "2026-08-30T05:33:31.866897Z"
 posted_at: "2022-01-05T00:00:00Z"
 status: ready
 apply_url: "https://job-boards.greenhouse.io/aipn/jobs/4353518009"
@@ -34,4 +34,4 @@ areas:
 <p class="apply-cta"><a href="https://job-boards.greenhouse.io/aipn/jobs/4353518009">Apply →</a></p>
 
 ---
-*Posted 2022-01-05 · Listing synced 2026-08-29 · 80k job ID `recvrwq8Z7QvyhTJd`*
+*Posted 2022-01-05 · Listing synced 2026-08-30 · 80k job ID `recvrwq8Z7QvyhTJd`*

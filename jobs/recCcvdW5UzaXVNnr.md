@@ -2,7 +2,7 @@
 title: "Operations Associate / Specialist"
 employer: "AI Whistleblower Initiative"
 job_id: "recCcvdW5UzaXVNnr"
-last_updated: "2026-08-29T05:31:55.419281Z"
+last_updated: "2026-08-30T05:31:53.881643Z"
 posted_at: "2026-08-25T00:00:00Z"
 status: ready
 apply_url: "https://join.com/companies/aiwiorg/16577939-operations-associate-specialist"
@@ -34,4 +34,4 @@ areas:
 <p class="apply-cta"><a href="https://join.com/companies/aiwiorg/16577939-operations-associate-specialist">Apply →</a></p>
 
 ---
-*Posted 2026-08-25 · Listing synced 2026-08-29 · 80k job ID `recCcvdW5UzaXVNnr`*
+*Posted 2026-08-25 · Listing synced 2026-08-30 · 80k job ID `recCcvdW5UzaXVNnr`*

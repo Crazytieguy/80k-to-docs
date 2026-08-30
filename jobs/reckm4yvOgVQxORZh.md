@@ -2,7 +2,7 @@
 title: "Chief Technology Officer"
 employer: "Syntony"
 job_id: "reckm4yvOgVQxORZh"
-last_updated: "2026-08-29T05:32:48.872825Z"
+last_updated: "2026-08-30T05:32:43.580339Z"
 posted_at: "2026-07-09T00:00:00Z"
 status: ready
 apply_url: "https://www.syntonyresearch.ai/work/cto/"
@@ -33,4 +33,4 @@ areas:
 <p class="apply-cta"><a href="https://www.syntonyresearch.ai/work/cto/">Apply →</a></p>
 
 ---
-*Posted 2026-07-09 · Listing synced 2026-08-29 · 80k job ID `reckm4yvOgVQxORZh`*
+*Posted 2026-07-09 · Listing synced 2026-08-30 · 80k job ID `reckm4yvOgVQxORZh`*
