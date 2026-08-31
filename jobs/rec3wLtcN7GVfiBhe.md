@@ -2,7 +2,7 @@
 title: "Research Intern, Trustee Chair in Chinese Business and Economics (Fall 2026)"
 employer: "Center for Strategic and International Studies"
 job_id: "rec3wLtcN7GVfiBhe"
-last_updated: "2026-08-30T05:32:17.891467Z"
+last_updated: "2026-08-31T12:12:38.581298Z"
 posted_at: "2026-08-10T00:00:00Z"
 status: ready
 apply_url: "https://job-boards.greenhouse.io/centerforstrategicandinternationalstudiesinc/jobs/4305307009"
@@ -34,4 +34,4 @@ areas:
 <p class="apply-cta"><a href="https://job-boards.greenhouse.io/centerforstrategicandinternationalstudiesinc/jobs/4305307009">Apply →</a></p>
 
 ---
-*Posted 2026-08-10 · Listing synced 2026-08-30 · 80k job ID `rec3wLtcN7GVfiBhe`*
+*Posted 2026-08-10 · Listing synced 2026-08-31 · 80k job ID `rec3wLtcN7GVfiBhe`*

@@ -4,25 +4,20 @@ employer: "Animal Alliance Asia"
 job_id: "recQn0oKjjuWyiVUI"
 last_updated: "2026-08-30T05:32:39.107144Z"
 posted_at: "2026-07-16T00:00:00Z"
-status: ready
+status: closed
+closed_at: "2026-08-31"
 apply_url: "https://www.animalallianceasia.org/local-event-coordinator"
 areas:
   - "Animal welfare"
 ---
 
+> ⚠️ **CLOSED on 2026-08-31** — this job is no longer listed on the 80,000 Hours board. Archived snapshot below.
+
 # Local Event Coordinator, Thailand
 
-**[Animal Alliance Asia](https://www.animalallianceasia.org/)**
+**Animal Alliance Asia**
 
-<dl class="job-meta">
-<dt>Location</dt><dd>Bangkok, Thailand, Thailand, Asia</dd>
-<dt>Role type</dt><dd>Full-time</dd>
-<dt>Experience</dt><dd>Junior (1-4 years experience)</dd>
-<dt>Degree</dt><dd>Undergraduate degree or less</dd>
-<dt>Salary</dt><dd>$1,000</dd>
-</dl>
-
-**Areas & skills:** Animal welfare, Operations
+**Areas & skills:** Animal welfare
 
 ## Summary
 - In this role, you'll coordinate all logistics for AAA's October 2026 team retreat and strategy meetings in Bangkok.

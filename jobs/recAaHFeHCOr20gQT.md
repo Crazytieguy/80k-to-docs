@@ -2,7 +2,7 @@
 title: "Charity Entrepreneurship Incubation Program"
 employer: "Ambitious Impact"
 job_id: "recAaHFeHCOr20gQT"
-last_updated: "2026-08-30T05:32:24.095953Z"
+last_updated: "2026-08-31T12:12:45.267757Z"
 posted_at: "2026-08-04T00:00:00Z"
 status: ready
 apply_url: "https://helpanimals.charityentrepreneurship.com/"
@@ -16,7 +16,7 @@ areas:
 **[Ambitious Impact](https://www.ambitiousimpact.com/)**
 
 <dl class="job-meta">
-<dt>Location</dt><dd>Remote, Global, London, UK, San Francisco Bay Area, UK, USA</dd>
+<dt>Location</dt><dd>London, UK, San Francisco Bay Area, Remote, Global, UK, USA</dd>
 <dt>Role type</dt><dd>Other</dd>
 <dt>Experience</dt><dd>Junior (1-4 years experience), Entry-level</dd>
 <dt>Degree</dt><dd>Undergraduate degree or less</dd>
@@ -35,4 +35,4 @@ areas:
 <p class="apply-cta"><a href="https://helpanimals.charityentrepreneurship.com/">Apply →</a></p>
 
 ---
-*Posted 2026-08-04 · Listing synced 2026-08-30 · 80k job ID `recAaHFeHCOr20gQT`*
+*Posted 2026-08-04 · Listing synced 2026-08-31 · 80k job ID `recAaHFeHCOr20gQT`*

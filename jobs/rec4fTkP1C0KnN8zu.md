@@ -2,7 +2,7 @@
 title: "Residency Program"
 employer: "MATS Research"
 job_id: "rec4fTkP1C0KnN8zu"
-last_updated: "2026-08-30T05:31:45.149834Z"
+last_updated: "2026-08-31T12:12:04.944173Z"
 posted_at: "2026-08-27T00:05:00Z"
 status: ready
 apply_url: "https://www.matsprogram.org/residency"
@@ -15,7 +15,7 @@ areas:
 **[MATS Research](https://www.matsprogram.org/)**
 
 <dl class="job-meta">
-<dt>Location</dt><dd>London, UK, San Francisco Bay Area, Washington, DC metro area, UK, USA</dd>
+<dt>Location</dt><dd>London, UK, Washington, DC metro area, San Francisco Bay Area, UK, USA</dd>
 <dt>Role type</dt><dd>Funding</dd>
 <dt>Experience</dt><dd>Multiple experience levels</dd>
 <dt>Degree</dt><dd>Undergraduate degree or less</dd>
@@ -33,4 +33,4 @@ areas:
 <p class="apply-cta"><a href="https://www.matsprogram.org/residency">Apply →</a></p>
 
 ---
-*Posted 2026-08-27 · Listing synced 2026-08-30 · 80k job ID `rec4fTkP1C0KnN8zu`*
+*Posted 2026-08-27 · Listing synced 2026-08-31 · 80k job ID `rec4fTkP1C0KnN8zu`*

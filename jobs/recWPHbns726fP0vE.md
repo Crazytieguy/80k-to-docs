@@ -2,7 +2,7 @@
 title: "Research Scientist, Frontier Safety Framework Risk Modelling and Governance"
 employer: "Google DeepMind"
 job_id: "recWPHbns726fP0vE"
-last_updated: "2026-08-30T05:31:51.111254Z"
+last_updated: "2026-08-31T12:12:11.421373Z"
 posted_at: "2026-08-26T00:00:00Z"
 status: ready
 apply_url: "https://www.google.com/about/careers/applications/jobs/results/77781699408077510-research-scientist-fsf-risk-modeling-and-governance-deepmind?company=DeepMind"
@@ -15,7 +15,7 @@ areas:
 **[Google DeepMind](https://www.deepmind.com)**
 
 <dl class="job-meta">
-<dt>Location</dt><dd>New York, NY, London, UK, San Francisco Bay Area, UK, USA</dd>
+<dt>Location</dt><dd>London, UK, San Francisco Bay Area, New York, NY, UK, USA</dd>
 <dt>Role type</dt><dd>Full-time</dd>
 <dt>Experience</dt><dd>Junior (1-4 years experience)</dd>
 <dt>Degree</dt><dd>Doctoral degree</dd>
@@ -34,4 +34,4 @@ areas:
 <p class="apply-cta"><a href="https://www.google.com/about/careers/applications/jobs/results/77781699408077510-research-scientist-fsf-risk-modeling-and-governance-deepmind?company=DeepMind">Apply →</a></p>
 
 ---
-*Posted 2026-08-26 · Listing synced 2026-08-30 · 80k job ID `recWPHbns726fP0vE`*
+*Posted 2026-08-26 · Listing synced 2026-08-31 · 80k job ID `recWPHbns726fP0vE`*

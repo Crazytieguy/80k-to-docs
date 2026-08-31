@@ -4,24 +4,20 @@ employer: "Effective Altruism Netherlands"
 job_id: "recYFOFpZNOpnHYCF"
 last_updated: "2026-08-30T05:32:39.732169Z"
 posted_at: "2026-07-15T00:00:00Z"
-status: ready
+status: closed
+closed_at: "2026-08-31"
 apply_url: "https://effectiefaltruisme.nl/en/roles/english"
 areas:
   - "Building effective altruism"
 ---
 
+> ⚠️ **CLOSED on 2026-08-31** — this job is no longer listed on the 80,000 Hours board. Archived snapshot below.
+
 # Board Member
 
-**[Effective Altruism Netherlands](https://effectiefaltruisme.nl/en/)**
+**Effective Altruism Netherlands**
 
-<dl class="job-meta">
-<dt>Location</dt><dd>Netherlands, Europe (ex UK)</dd>
-<dt>Role type</dt><dd>Volunteering</dd>
-<dt>Experience</dt><dd>Mid (5-9 years experience), Senior (10+ years experience)</dd>
-<dt>Degree</dt><dd>Undergraduate degree or less</dd>
-</dl>
-
-**Areas & skills:** Building effective altruism, Strategy
+**Areas & skills:** Building effective altruism
 
 ## Summary
 - In this role, you'll help steer Effective Altruism Netherlands at the strategic level.

@@ -4,24 +4,20 @@ employer: "Tesla"
 job_id: "recsYqxN967sPrQJ9"
 last_updated: "2026-08-30T05:33:45.846573Z"
 posted_at: "2022-01-02T00:00:00Z"
-status: ready
+status: closed
+closed_at: "2026-08-31"
 apply_url: "https://www.tesla.com/careers/search/job/271951?source=LinkedIn&source=LinkedIn"
 areas:
   - "Career development: Technical"
 ---
 
+> ⚠️ **CLOSED on 2026-08-31** — this job is no longer listed on the 80,000 Hours board. Archived snapshot below.
+
 # Intern, Security and Intelligence, Security Analyst (Fall 2026)
 
-**[Tesla](https://www.tesla.com/)**
+**Tesla**
 
-<dl class="job-meta">
-<dt>Location</dt><dd>Austin, TX, USA</dd>
-<dt>Role type</dt><dd>Internship</dd>
-<dt>Experience</dt><dd>Entry-level</dd>
-<dt>Degree</dt><dd>Undergraduate degree or less</dd>
-</dl>
-
-**Areas & skills:** Career development: Technical, Research, Information security
+**Areas & skills:** Career development: Technical
 
 ## Summary
 - In this role, you'll support Tesla's intellectual property protection through security analysis, threat detection, and investigations.

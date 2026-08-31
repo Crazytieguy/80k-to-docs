@@ -2,7 +2,7 @@
 title: "Research Assistant, AI Safety"
 employer: "Oxford University, Department of Computer Science"
 job_id: "recEGk0X9LKreAHvh"
-last_updated: "2026-08-30T05:31:55.302753Z"
+last_updated: "2026-08-31T12:12:16.056545Z"
 posted_at: "2026-08-25T00:00:00Z"
 status: ready
 apply_url: "https://www.jobs.ac.uk/job/DSO600/research-assistant-on-ai-safety?uuid=868837d6-95f0-11f1-9cb0-064da8edb92a&campaign=jbe20260812&source=jbe"
@@ -19,7 +19,7 @@ areas:
 <dt>Role type</dt><dd>Full-time</dd>
 <dt>Experience</dt><dd>Entry-level</dd>
 <dt>Degree</dt><dd>Master's degree</dd>
-<dt>Salary</dt><dd>$48,296 – $53,362</dd>
+<dt>Salary</dt><dd>$48,307 – $53,374</dd>
 </dl>
 
 **Areas & skills:** AI safety & policy, Research, Software engineering
@@ -34,4 +34,4 @@ areas:
 <p class="apply-cta"><a href="https://www.jobs.ac.uk/job/DSO600/research-assistant-on-ai-safety?uuid=868837d6-95f0-11f1-9cb0-064da8edb92a&amp;campaign=jbe20260812&amp;source=jbe">Apply →</a></p>
 
 ---
-*Posted 2026-08-25 · Listing synced 2026-08-30 · 80k job ID `recEGk0X9LKreAHvh`*
+*Posted 2026-08-25 · Listing synced 2026-08-31 · 80k job ID `recEGk0X9LKreAHvh`*

@@ -4,25 +4,20 @@ employer: "Rethink Priorities"
 job_id: "recBK4I1wIN72Ux39"
 last_updated: "2026-08-30T05:31:58.561156Z"
 posted_at: "2026-08-24T00:01:00Z"
-status: ready
+status: closed
+closed_at: "2026-08-31"
 apply_url: "https://careers.rethinkpriorities.org/en/postings/47a59076-cc1a-4426-b658-ba4e087918f6"
 areas:
   - "Macrostrategy"
 ---
 
+> ⚠️ **CLOSED on 2026-08-31** — this job is no longer listed on the 80,000 Hours board. Archived snapshot below.
+
 # AI Integration Lead
 
-**[Rethink Priorities](https://www.rethinkpriorities.org/)**
+**Rethink Priorities**
 
-<dl class="job-meta">
-<dt>Location</dt><dd>Remote, Global</dd>
-<dt>Role type</dt><dd>Full-time</dd>
-<dt>Experience</dt><dd>Multiple experience levels</dd>
-<dt>Degree</dt><dd>Undergraduate degree or less</dd>
-<dt>Salary</dt><dd>$132,986 – $146,447</dd>
-</dl>
-
-**Areas & skills:** Macrostrategy, Strategy
+**Areas & skills:** Macrostrategy
 
 ## Summary
 - In this role, you'll lead RP's effort to empirically evaluate which research and operational tasks AI can reliably augment and build tools that work.

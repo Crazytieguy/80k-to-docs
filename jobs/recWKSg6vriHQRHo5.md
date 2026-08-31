@@ -2,7 +2,7 @@
 title: "Intern, Engineering (Spring 2027)"
 employer: "Blue Origin"
 job_id: "recWKSg6vriHQRHo5"
-last_updated: "2026-08-30T05:32:36.434224Z"
+last_updated: "2026-08-31T12:12:57.259727Z"
 posted_at: "2026-07-22T00:00:00Z"
 status: ready
 apply_url: "https://blueorigin.wd5.myworkdayjobs.com/BlueOrigin/job/Greater-Seattle-Area/Spring-2027--Engineering-Intern---Undergraduate_R69064"
@@ -34,4 +34,4 @@ areas:
 <p class="apply-cta"><a href="https://blueorigin.wd5.myworkdayjobs.com/BlueOrigin/job/Greater-Seattle-Area/Spring-2027--Engineering-Intern---Undergraduate_R69064">Apply →</a></p>
 
 ---
-*Posted 2026-07-22 · Listing synced 2026-08-30 · 80k job ID `recWKSg6vriHQRHo5`*
+*Posted 2026-07-22 · Listing synced 2026-08-31 · 80k job ID `recWKSg6vriHQRHo5`*

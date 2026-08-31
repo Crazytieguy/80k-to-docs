@@ -2,7 +2,7 @@
 title: "Associate AI Red Team Engineer"
 employer: "Carnegie Mellon University, Software Engineering Institute"
 job_id: "rec6duI1lQpXaIECn"
-last_updated: "2026-08-30T05:32:04.701856Z"
+last_updated: "2026-08-31T12:12:25.556524Z"
 posted_at: "2026-08-19T00:00:00Z"
 status: ready
 apply_url: "https://cmu.wd5.myworkdayjobs.com/en-US/SEI/job/Pittsburgh-PA/Associate-AI-Red-Team-Engineer_2024999-2"
@@ -33,4 +33,4 @@ areas:
 <p class="apply-cta"><a href="https://cmu.wd5.myworkdayjobs.com/en-US/SEI/job/Pittsburgh-PA/Associate-AI-Red-Team-Engineer_2024999-2">Apply →</a></p>
 
 ---
-*Posted 2026-08-19 · Listing synced 2026-08-30 · 80k job ID `rec6duI1lQpXaIECn`*
+*Posted 2026-08-19 · Listing synced 2026-08-31 · 80k job ID `rec6duI1lQpXaIECn`*

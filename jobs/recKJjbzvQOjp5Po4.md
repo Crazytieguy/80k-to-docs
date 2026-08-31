@@ -2,7 +2,7 @@
 title: "Senior Digital Manager"
 employer: "New Movement Organization for AI Regulation"
 job_id: "recKJjbzvQOjp5Po4"
-last_updated: "2026-08-30T05:32:10.175636Z"
+last_updated: "2026-08-31T12:12:31.008662Z"
 posted_at: "2026-08-17T00:00:00Z"
 status: ready
 apply_url: "https://tally.so/r/kd4jyZ"
@@ -34,4 +34,4 @@ areas:
 <p class="apply-cta"><a href="https://tally.so/r/kd4jyZ">Apply →</a></p>
 
 ---
-*Posted 2026-08-17 · Listing synced 2026-08-30 · 80k job ID `recKJjbzvQOjp5Po4`*
+*Posted 2026-08-17 · Listing synced 2026-08-31 · 80k job ID `recKJjbzvQOjp5Po4`*

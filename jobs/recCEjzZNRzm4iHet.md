@@ -2,7 +2,7 @@
 title: "Experimental Officer, Respirator Testing"
 employer: "Amodo Design"
 job_id: "recCEjzZNRzm4iHet"
-last_updated: "2026-08-30T05:32:41.894195Z"
+last_updated: "2026-08-31T12:13:02.384429Z"
 posted_at: "2026-07-10T00:01:00Z"
 status: ready
 apply_url: "https://amododesign.com/career/experimental-officer-respirator-testing/"
@@ -19,7 +19,7 @@ areas:
 <dt>Role type</dt><dd>Full-time</dd>
 <dt>Experience</dt><dd>Junior (1-4 years experience)</dd>
 <dt>Degree</dt><dd>Undergraduate degree or less</dd>
-<dt>Salary</dt><dd>$54,142 – $67,677</dd>
+<dt>Salary</dt><dd>$54,154 – $67,693</dd>
 </dl>
 
 **Areas & skills:** Biosecurity & pandemic preparedness, Engineering, Research
@@ -34,4 +34,4 @@ areas:
 <p class="apply-cta"><a href="https://amododesign.com/career/experimental-officer-respirator-testing/">Apply →</a></p>
 
 ---
-*Posted 2026-07-10 · Listing synced 2026-08-30 · 80k job ID `recCEjzZNRzm4iHet`*
+*Posted 2026-07-10 · Listing synced 2026-08-31 · 80k job ID `recCEjzZNRzm4iHet`*

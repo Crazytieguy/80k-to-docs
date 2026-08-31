@@ -4,25 +4,20 @@ employer: "Kairos"
 job_id: "recnB6j6lzvT9KIYm"
 last_updated: "2026-08-30T05:32:13.356084Z"
 posted_at: "2026-08-13T00:00:00Z"
-status: ready
+status: closed
+closed_at: "2026-08-31"
 apply_url: "https://jobs.ashbyhq.com/kairos-project/934e3b41-bfc4-470b-b36b-37115de389f4"
 areas:
   - "AI safety & policy"
 ---
 
+> ⚠️ **CLOSED on 2026-08-31** — this job is no longer listed on the 80,000 Hours board. Archived snapshot below.
+
 # Head of SPAR
 
-**[Kairos](https://kairos-project.org/)**
+**Kairos**
 
-<dl class="job-meta">
-<dt>Location</dt><dd>Remote, Global</dd>
-<dt>Role type</dt><dd>Full-time</dd>
-<dt>Experience</dt><dd>Mid (5-9 years experience)</dd>
-<dt>Degree</dt><dd>Undergraduate degree or less</dd>
-<dt>Salary</dt><dd>$170,000 – $260,000</dd>
-</dl>
-
-**Areas & skills:** AI safety & policy, Management, Strategy
+**Areas & skills:** AI safety & policy
 
 ## Summary
 - In this role, you'll own and grow SPAR, the largest AI safety research fellowship with 400 mentees, 130 mentors, and thousands of applicants.

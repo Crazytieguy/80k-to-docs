@@ -2,7 +2,7 @@
 title: "Anthology Fund"
 employer: "Menlo Ventures"
 job_id: "rec0MnpVxV8AKJudj"
-last_updated: "2026-08-30T05:33:30.558757Z"
+last_updated: "2026-08-31T12:13:52.573517Z"
 posted_at: "2022-01-05T00:00:00Z"
 status: ready
 apply_url: "https://menlovc.com/anthology-fund/"
@@ -33,4 +33,4 @@ areas:
 <p class="apply-cta"><a href="https://menlovc.com/anthology-fund/">Apply →</a></p>
 
 ---
-*Posted 2022-01-05 · Listing synced 2026-08-30 · 80k job ID `rec0MnpVxV8AKJudj`*
+*Posted 2022-01-05 · Listing synced 2026-08-31 · 80k job ID `rec0MnpVxV8AKJudj`*

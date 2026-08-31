@@ -4,26 +4,21 @@ employer: "Horizon Institute for Public Service"
 job_id: "rect1mE8raoSSWNw7"
 last_updated: "2026-08-30T05:32:35.722639Z"
 posted_at: "2026-07-22T00:06:00Z"
-status: ready
+status: closed
+closed_at: "2026-08-31"
 apply_url: "https://horizonpublicservice.org/programs/become-a-fellow/"
 areas:
   - "AI safety & policy"
   - "Biosecurity & pandemic preparedness"
 ---
 
+> ⚠️ **CLOSED on 2026-08-31** — this job is no longer listed on the 80,000 Hours board. Archived snapshot below.
+
 # Horizon Fellowship
 
-**[Horizon Institute for Public Service](https://www.horizonpublicservice.org/)**
+**Horizon Institute for Public Service**
 
-<dl class="job-meta">
-<dt>Location</dt><dd>Washington, DC metro area, USA</dd>
-<dt>Role type</dt><dd>Fellowship</dd>
-<dt>Experience</dt><dd>Multiple experience levels</dd>
-<dt>Degree</dt><dd>Undergraduate degree or less</dd>
-<dt>Salary</dt><dd>$78,000 – $190,000</dd>
-</dl>
-
-**Areas & skills:** AI safety & policy, Biosecurity & pandemic preparedness, Policy
+**Areas & skills:** AI safety & policy, Biosecurity & pandemic preparedness
 
 ## Summary
 - This is fully-funded emerging technology policy fellowship with training and a 6-24 month placement at a host organisation to help tackle policy challenges related to artificial intelligence, biotechnology, and other emerging technologies.

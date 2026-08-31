@@ -2,7 +2,7 @@
 title: "Research Scientist / Engineer"
 employer: "SaferAI"
 job_id: "recfEX7WjDvrg2TAR"
-last_updated: "2026-08-30T05:32:41.429200Z"
+last_updated: "2026-08-31T12:13:01.968223Z"
 posted_at: "2026-07-13T00:01:00Z"
 status: ready
 apply_url: "https://www.safer-ai.org/jobs/research-scientist-engineer"
@@ -15,7 +15,7 @@ areas:
 **[SaferAI](https://www.safer-ai.org/)**
 
 <dl class="job-meta">
-<dt>Location</dt><dd>London, UK, Paris, France, San Francisco Bay Area, UK, USA, France, Europe (ex UK)</dd>
+<dt>Location</dt><dd>London, UK, San Francisco Bay Area, Paris, France, UK, USA, France, Europe (ex UK)</dd>
 <dt>Role type</dt><dd>Full-time</dd>
 <dt>Experience</dt><dd>Junior (1-4 years experience)</dd>
 <dt>Degree</dt><dd>Master's degree</dd>
@@ -33,4 +33,4 @@ areas:
 <p class="apply-cta"><a href="https://www.safer-ai.org/jobs/research-scientist-engineer">Apply →</a></p>
 
 ---
-*Posted 2026-07-13 · Listing synced 2026-08-30 · 80k job ID `recfEX7WjDvrg2TAR`*
+*Posted 2026-07-13 · Listing synced 2026-08-31 · 80k job ID `recfEX7WjDvrg2TAR`*

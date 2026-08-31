@@ -2,22 +2,27 @@
 title: "Special Projects Associate / Analyst, Studio Team"
 employer: "80,000 Hours"
 job_id: "recgCRsJV6ULWBFri"
-last_updated: "2026-08-29T05:32:26.105418Z"
+last_updated: "2026-08-31T12:12:43.364499Z"
 posted_at: "2026-08-05T00:04:26Z"
-status: closed
-closed_at: "2026-08-30"
+status: ready
 apply_url: "https://jobs.ashbyhq.com/80000hours/d5eb5f47-015c-43a0-9eb5-785a580022b3"
 areas:
   - "AI safety & policy"
 ---
 
-> ⚠️ **CLOSED on 2026-08-30** — this job is no longer listed on the 80,000 Hours board. Archived snapshot below.
-
 # Special Projects Associate / Analyst, Studio Team
 
-**80,000 Hours**
+**[80,000 Hours](https://80000hours.org/)**
 
-**Areas & skills:** AI safety & policy
+<dl class="job-meta">
+<dt>Location</dt><dd>London, UK, Washington, DC metro area, San Francisco Bay Area, Remote, Global, UK, USA, USA (Confirmed Visas), UK (Confirmed Visas)</dd>
+<dt>Role type</dt><dd>Full-time</dd>
+<dt>Experience</dt><dd>Junior (1-4 years experience)</dd>
+<dt>Degree</dt><dd>Undergraduate degree or less</dd>
+<dt>Salary</dt><dd>$90,708 – $136,739</dd>
+</dl>
+
+**Areas & skills:** AI safety & policy, Strategy
 
 ## Summary
 - In this role, you'll drive forward special projects that expand the Studio Team's capacity and impact.
@@ -29,4 +34,4 @@ areas:
 <p class="apply-cta"><a href="https://jobs.ashbyhq.com/80000hours/d5eb5f47-015c-43a0-9eb5-785a580022b3">Apply →</a></p>
 
 ---
-*Posted 2026-08-05 · Listing synced 2026-08-29 · 80k job ID `recgCRsJV6ULWBFri`*
+*Posted 2026-08-05 · Listing synced 2026-08-31 · 80k job ID `recgCRsJV6ULWBFri`*

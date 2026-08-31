@@ -2,7 +2,7 @@
 title: "Senior Manager, People Operations"
 employer: "Center for AI Safety"
 job_id: "recZomwIjY6Zbzy2K"
-last_updated: "2026-08-30T05:31:57.759821Z"
+last_updated: "2026-08-31T12:12:18.555888Z"
 posted_at: "2026-08-24T00:04:31Z"
 status: ready
 apply_url: "https://job-boards.greenhouse.io/centerforartificialintelligencesafetyinc/jobs/4368313009"
@@ -34,4 +34,4 @@ areas:
 <p class="apply-cta"><a href="https://job-boards.greenhouse.io/centerforartificialintelligencesafetyinc/jobs/4368313009">Apply →</a></p>
 
 ---
-*Posted 2026-08-24 · Listing synced 2026-08-30 · 80k job ID `recZomwIjY6Zbzy2K`*
+*Posted 2026-08-24 · Listing synced 2026-08-31 · 80k job ID `recZomwIjY6Zbzy2K`*

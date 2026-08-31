@@ -2,7 +2,7 @@
 title: "Head of Secure Data Centre Scaling"
 employer: "SL5 Task Force"
 job_id: "recmbfLM9yJsK0tOS"
-last_updated: "2026-08-30T05:32:06.410078Z"
+last_updated: "2026-08-31T12:12:27.258167Z"
 posted_at: "2026-08-18T00:01:00Z"
 status: ready
 apply_url: "https://jobs.ashbyhq.com/security-level-5/515d76a8-c6d2-4052-8cff-af541030e33f?embed=js"
@@ -34,4 +34,4 @@ areas:
 <p class="apply-cta"><a href="https://jobs.ashbyhq.com/security-level-5/515d76a8-c6d2-4052-8cff-af541030e33f?embed=js">Apply →</a></p>
 
 ---
-*Posted 2026-08-18 · Listing synced 2026-08-30 · 80k job ID `recmbfLM9yJsK0tOS`*
+*Posted 2026-08-18 · Listing synced 2026-08-31 · 80k job ID `recmbfLM9yJsK0tOS`*
