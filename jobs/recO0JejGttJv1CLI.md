@@ -2,7 +2,7 @@
 title: "Harris Social Impact Fellow"
 employer: "University of Chicago, Harris School of Public Policy Studies"
 job_id: "recO0JejGttJv1CLI"
-last_updated: "2026-08-31T12:12:46.277862Z"
+last_updated: "2026-09-01T11:36:10.150377Z"
 posted_at: "2026-08-04T00:00:00Z"
 status: ready
 apply_url: "https://info.harris.uchicago.edu/social-impact-fellowship"
@@ -34,4 +34,4 @@ areas:
 <p class="apply-cta"><a href="https://info.harris.uchicago.edu/social-impact-fellowship">Apply →</a></p>
 
 ---
-*Posted 2026-08-04 · Listing synced 2026-08-31 · 80k job ID `recO0JejGttJv1CLI`*
+*Posted 2026-08-04 · Listing synced 2026-09-01 · 80k job ID `recO0JejGttJv1CLI`*

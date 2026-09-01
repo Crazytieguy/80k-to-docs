@@ -2,7 +2,7 @@
 title: "Head of Partnerships, Fellowship"
 employer: "Tarbell Center for AI Journalism"
 job_id: "recvmfhI5C0nJ4aMl"
-last_updated: "2026-08-31T12:12:18.308724Z"
+last_updated: "2026-09-01T11:35:43.242332Z"
 posted_at: "2026-08-24T00:05:00Z"
 status: ready
 apply_url: "https://www.tarbellcenter.org/careers/head-of-partnerships-fellowship"
@@ -33,4 +33,4 @@ areas:
 <p class="apply-cta"><a href="https://www.tarbellcenter.org/careers/head-of-partnerships-fellowship">Apply →</a></p>
 
 ---
-*Posted 2026-08-24 · Listing synced 2026-08-31 · 80k job ID `recvmfhI5C0nJ4aMl`*
+*Posted 2026-08-24 · Listing synced 2026-09-01 · 80k job ID `recvmfhI5C0nJ4aMl`*

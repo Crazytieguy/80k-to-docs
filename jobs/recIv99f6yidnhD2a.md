@@ -2,7 +2,7 @@
 title: "Fellow / Senior Fellow"
 employer: "University of Chicago, Market Shaping Accelerator"
 job_id: "recIv99f6yidnhD2a"
-last_updated: "2026-08-31T12:12:20.185533Z"
+last_updated: "2026-09-01T11:35:44.945979Z"
 posted_at: "2026-08-24T00:00:00Z"
 status: ready
 apply_url: "https://centerforglobaldevelopment.applytojob.com/apply/nDb6lMwpMb/FellowSenior-Fellow-Market-Shaping-Accelerator"
@@ -34,4 +34,4 @@ areas:
 <p class="apply-cta"><a href="https://centerforglobaldevelopment.applytojob.com/apply/nDb6lMwpMb/FellowSenior-Fellow-Market-Shaping-Accelerator">Apply →</a></p>
 
 ---
-*Posted 2026-08-24 · Listing synced 2026-08-31 · 80k job ID `recIv99f6yidnhD2a`*
+*Posted 2026-08-24 · Listing synced 2026-09-01 · 80k job ID `recIv99f6yidnhD2a`*

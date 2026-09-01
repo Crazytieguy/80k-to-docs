@@ -2,7 +2,7 @@
 title: "Finance and Compliance Manager"
 employer: "Safe AI Forum"
 job_id: "recRQgj246jcv2pmS"
-last_updated: "2026-08-31T12:12:08.858523Z"
+last_updated: "2026-09-01T11:35:35.231217Z"
 posted_at: "2026-08-26T00:05:00Z"
 status: ready
 apply_url: "https://saif.org/opportunities/finance-and-compliance-manager/"
@@ -19,7 +19,7 @@ areas:
 <dt>Role type</dt><dd>Full-time</dd>
 <dt>Experience</dt><dd>Junior (1-4 years experience), Mid (5-9 years experience)</dd>
 <dt>Degree</dt><dd>Undergraduate degree or less</dd>
-<dt>Salary</dt><dd>$142,517 – $166,104</dd>
+<dt>Salary</dt><dd>$142,525 – $166,114</dd>
 </dl>
 
 **Areas & skills:** AI safety & policy, Finance
@@ -34,4 +34,4 @@ areas:
 <p class="apply-cta"><a href="https://saif.org/opportunities/finance-and-compliance-manager/">Apply →</a></p>
 
 ---
-*Posted 2026-08-26 · Listing synced 2026-08-31 · 80k job ID `recRQgj246jcv2pmS`*
+*Posted 2026-08-26 · Listing synced 2026-09-01 · 80k job ID `recRQgj246jcv2pmS`*

@@ -2,7 +2,7 @@
 title: "Head of Evaluations, AI Red Teaming"
 employer: "Trajectory Labs, PBC"
 job_id: "recFXytcaJJptFFFz"
-last_updated: "2026-08-31T12:11:59.459773Z"
+last_updated: "2026-09-01T11:35:27.158390Z"
 posted_at: "2026-08-31T00:03:00Z"
 status: ready
 apply_url: "https://www.trajectorylabs.com/careers/evals-lead-ai-red-teaming"
@@ -34,4 +34,4 @@ areas:
 <p class="apply-cta"><a href="https://www.trajectorylabs.com/careers/evals-lead-ai-red-teaming">Apply →</a></p>
 
 ---
-*Posted 2026-08-31 · Listing synced 2026-08-31 · 80k job ID `recFXytcaJJptFFFz`*
+*Posted 2026-08-31 · Listing synced 2026-09-01 · 80k job ID `recFXytcaJJptFFFz`*

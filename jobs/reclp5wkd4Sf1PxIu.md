@@ -2,22 +2,27 @@
 title: "SciTech Manager"
 employer: "The Good Food Institute"
 job_id: "reclp5wkd4Sf1PxIu"
-last_updated: "2026-06-28T05:33:24.661856Z"
+last_updated: "2026-09-01T11:36:53.595065Z"
 posted_at: "2022-01-07T00:00:00Z"
-status: closed
-closed_at: "2026-06-29"
+status: ready
 apply_url: "https://gfi.org/resource/scitech-manager/"
 areas:
   - "Animal welfare"
 ---
 
-> ⚠️ **CLOSED on 2026-06-29** — this job is no longer listed on the 80,000 Hours board. Archived snapshot below.
-
 # SciTech Manager
 
-**The Good Food Institute**
+**[The Good Food Institute](https://www.gfi.org)**
 
-**Areas & skills:** Animal welfare
+<dl class="job-meta">
+<dt>Location</dt><dd>Beijing, China, China, Asia</dd>
+<dt>Role type</dt><dd>Full-time</dd>
+<dt>Experience</dt><dd>Mid (5-9 years experience)</dd>
+<dt>Degree</dt><dd>Master's degree</dd>
+<dt>Salary</dt><dd>$3,373 – $4,498</dd>
+</dl>
+
+**Areas & skills:** Animal welfare, Research, Strategy
 
 ## Summary
 - In this role, you'll serve as GFI APAC's scientific lead on alternative proteins, providing insight into R&D trends and emerging technologies.
@@ -29,4 +34,4 @@ areas:
 <p class="apply-cta"><a href="https://gfi.org/resource/scitech-manager/">Apply →</a></p>
 
 ---
-*Posted 2022-01-07 · Listing synced 2026-06-28 · 80k job ID `reclp5wkd4Sf1PxIu`*
+*Posted 2022-01-07 · Listing synced 2026-09-01 · 80k job ID `reclp5wkd4Sf1PxIu`*

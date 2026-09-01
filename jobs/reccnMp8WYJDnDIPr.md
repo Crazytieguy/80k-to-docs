@@ -2,7 +2,7 @@
 title: "Senior Data Scientist, Safety"
 employer: "Faculty"
 job_id: "reccnMp8WYJDnDIPr"
-last_updated: "2026-08-31T12:12:01.840907Z"
+last_updated: "2026-09-01T11:35:29.815965Z"
 posted_at: "2026-08-28T00:01:00Z"
 status: ready
 apply_url: "https://jobs.ashbyhq.com/faculty/54729948-5b4a-404c-bea4-cec5759768b5"
@@ -33,4 +33,4 @@ areas:
 <p class="apply-cta"><a href="https://jobs.ashbyhq.com/faculty/54729948-5b4a-404c-bea4-cec5759768b5">Apply →</a></p>
 
 ---
-*Posted 2026-08-28 · Listing synced 2026-08-31 · 80k job ID `reccnMp8WYJDnDIPr`*
+*Posted 2026-08-28 · Listing synced 2026-09-01 · 80k job ID `reccnMp8WYJDnDIPr`*

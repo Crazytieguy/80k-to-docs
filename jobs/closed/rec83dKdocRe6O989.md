@@ -4,25 +4,20 @@ employer: "Centre For Enabling EA Learning and Research"
 job_id: "rec83dKdocRe6O989"
 last_updated: "2026-08-31T12:12:49.932408Z"
 posted_at: "2026-07-31T00:00:00Z"
-status: ready
+status: closed
+closed_at: "2026-09-01"
 apply_url: "https://forum.effectivealtruism.org/posts/hpBsjQPQehv5vtKi4/job-executive-director-of-ceealar-ea-hotel-1"
 areas:
   - "Building effective altruism"
 ---
 
+> ⚠️ **CLOSED on 2026-09-01** — this job is no longer listed on the 80,000 Hours board. Archived snapshot below.
+
 # Executive Director
 
-**[Centre For Enabling EA Learning and Research](https://www.ceealar.org/)**
+**Centre For Enabling EA Learning and Research**
 
-<dl class="job-meta">
-<dt>Location</dt><dd>London, UK, UK, UK (Confirmed Visas)</dd>
-<dt>Role type</dt><dd>Full-time</dd>
-<dt>Experience</dt><dd>Junior (1-4 years experience)</dd>
-<dt>Degree</dt><dd>Undergraduate degree or less</dd>
-<dt>Salary</dt><dd>$54,154 – $67,693</dd>
-</dl>
-
-**Areas & skills:** Building effective altruism, Operations, Management, Strategy
+**Areas & skills:** Building effective altruism
 
 ## Summary
 - In this role, you'll lead CEEALAR's growth, expanding from Blackpool to London while managing existing operations.

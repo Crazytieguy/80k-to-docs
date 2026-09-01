@@ -4,25 +4,20 @@ employer: "Imperial College London, School of Public Health"
 job_id: "rec0t5sq5HRWxAJxO"
 last_updated: "2026-08-31T12:12:19.194400Z"
 posted_at: "2026-08-24T00:02:00Z"
-status: ready
+status: closed
+closed_at: "2026-09-01"
 apply_url: "https://www.imperial.ac.uk/jobs/search-jobs/description/index.php?nPostingID=18084&nPostingTargetID=28898&ID=PMMFK026203F3VBQB8NLOV4CQ"
 areas:
   - "Biosecurity & pandemic preparedness"
 ---
 
+> ⚠️ **CLOSED on 2026-09-01** — this job is no longer listed on the 80,000 Hours board. Archived snapshot below.
+
 # Research Associate, Infectious Disease Modelling
 
-**[Imperial College London, School of Public Health](https://www.imperial.ac.uk/school-public-health/)**
+**Imperial College London, School of Public Health**
 
-<dl class="job-meta">
-<dt>Location</dt><dd>London, UK, UK</dd>
-<dt>Role type</dt><dd>Full-time</dd>
-<dt>Experience</dt><dd>Junior (1-4 years experience)</dd>
-<dt>Degree</dt><dd>Doctoral degree</dd>
-<dt>Salary</dt><dd>$68,685 – $80,533</dd>
-</dl>
-
-**Areas & skills:** Biosecurity & pandemic preparedness, Research
+**Areas & skills:** Biosecurity & pandemic preparedness
 
 ## Summary
 - In this role, you'll lead Imperial's contribution to an international research project on mathematical modelling of within-host immune systems for pandemic preparedness.

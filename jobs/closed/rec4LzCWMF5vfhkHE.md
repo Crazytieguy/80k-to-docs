@@ -4,25 +4,20 @@ employer: "Animal Equality"
 job_id: "rec4LzCWMF5vfhkHE"
 last_updated: "2026-08-31T12:12:21.000088Z"
 posted_at: "2026-08-21T00:00:00Z"
-status: ready
+status: closed
+closed_at: "2026-09-01"
 apply_url: "https://animalequality.org.br/vagas-assistente-de-comunicacao-e-campanhas/"
 areas:
   - "Animal welfare"
 ---
 
+> ⚠️ **CLOSED on 2026-09-01** — this job is no longer listed on the 80,000 Hours board. Archived snapshot below.
+
 # Communications and Campaigns Assistant
 
-**[Animal Equality](https://animalequality.org/)**
+**Animal Equality**
 
-<dl class="job-meta">
-<dt>Location</dt><dd>Brazil, South America</dd>
-<dt>Role type</dt><dd>Full-time</dd>
-<dt>Experience</dt><dd>Junior (1-4 years experience)</dd>
-<dt>Degree</dt><dd>Undergraduate degree or less</dd>
-<dt>Salary</dt><dd>$8,116</dd>
-</dl>
-
-**Areas & skills:** Animal welfare, Communications
+**Areas & skills:** Animal welfare
 
 ## Summary
 - In this role, you'll execute campaign and communication strategies to create change for exploited animals.

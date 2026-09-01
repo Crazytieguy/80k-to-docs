@@ -2,7 +2,7 @@
 title: "Operations Associate"
 employer: "Outcapped"
 job_id: "recQuS5CUC8du98Oe"
-last_updated: "2026-08-31T12:13:39.683280Z"
+last_updated: "2026-09-01T11:37:03.353020Z"
 posted_at: "2022-01-06T00:00:00Z"
 status: ready
 apply_url: "https://www.outcapped.com/outcapped-careers/?ashby_jid=a13c3ae7-c78c-4526-bc96-07a4848f5a8c"
@@ -34,4 +34,4 @@ areas:
 <p class="apply-cta"><a href="https://www.outcapped.com/outcapped-careers/?ashby_jid=a13c3ae7-c78c-4526-bc96-07a4848f5a8c">Apply →</a></p>
 
 ---
-*Posted 2022-01-06 · Listing synced 2026-08-31 · 80k job ID `recQuS5CUC8du98Oe`*
+*Posted 2022-01-06 · Listing synced 2026-09-01 · 80k job ID `recQuS5CUC8du98Oe`*

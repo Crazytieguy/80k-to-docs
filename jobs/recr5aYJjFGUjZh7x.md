@@ -2,7 +2,7 @@
 title: "Senior Research Fellow, Infectious Disease Modelling and AI for Public Health"
 employer: "National University of Singapore, Saw Swee Hock School of Public Health"
 job_id: "recr5aYJjFGUjZh7x"
-last_updated: "2026-08-31T12:13:56.284189Z"
+last_updated: "2026-09-01T11:37:20.664307Z"
 posted_at: "2022-01-04T00:00:00Z"
 status: ready
 apply_url: "https://careers.nus.edu.sg/job/Senior-Research-Fellow-%28Infectious-Disease-Modelling-&amp;-AI-for-Public-Health%29/32500-en_GB/"
@@ -32,4 +32,4 @@ areas:
 <p class="apply-cta"><a href="https://careers.nus.edu.sg/job/Senior-Research-Fellow-%28Infectious-Disease-Modelling-&amp;amp;-AI-for-Public-Health%29/32500-en_GB/">Apply →</a></p>
 
 ---
-*Posted 2022-01-04 · Listing synced 2026-08-31 · 80k job ID `recr5aYJjFGUjZh7x`*
+*Posted 2022-01-04 · Listing synced 2026-09-01 · 80k job ID `recr5aYJjFGUjZh7x`*

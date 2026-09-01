@@ -4,25 +4,20 @@ employer: "ML4Good"
 job_id: "recYl8PyAGI6CUlgw"
 last_updated: "2026-08-31T12:12:46.522124Z"
 posted_at: "2026-08-03T00:03:00Z"
-status: ready
+status: closed
+closed_at: "2026-09-01"
 apply_url: "https://ml4good.org/jobs/communications-and-marketing-associate/"
 areas:
   - "AI safety & policy"
 ---
 
+> ⚠️ **CLOSED on 2026-09-01** — this job is no longer listed on the 80,000 Hours board. Archived snapshot below.
+
 # Communications and Marketing Associate
 
-**[ML4Good](https://www.ml4good.org/)**
+**ML4Good**
 
-<dl class="job-meta">
-<dt>Location</dt><dd>Paris, France, France, Europe (ex UK)</dd>
-<dt>Role type</dt><dd>Full-time</dd>
-<dt>Experience</dt><dd>Junior (1-4 years experience)</dd>
-<dt>Degree</dt><dd>Undergraduate degree or less</dd>
-<dt>Salary</dt><dd>$34,788 – $44,528</dd>
-</dl>
-
-**Areas & skills:** AI safety & policy, Communications
+**Areas & skills:** AI safety & policy
 
 ## Summary
 - In this role, you'll grow awareness of ML4Good and drive strong applications to bootcamps and new programmes.

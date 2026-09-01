@@ -2,7 +2,7 @@
 title: "Engineering Manager, Red Team"
 employer: "FAR AI"
 job_id: "recac0rv3bd6ksiML"
-last_updated: "2026-08-31T12:12:13.466239Z"
+last_updated: "2026-09-01T11:35:38.622190Z"
 posted_at: "2026-08-25T00:04:07Z"
 status: ready
 apply_url: "https://jobs.ashbyhq.com/far.ai/58838b2c-927e-4532-b263-c43e68c14ec7?embed=js"
@@ -34,4 +34,4 @@ areas:
 <p class="apply-cta"><a href="https://jobs.ashbyhq.com/far.ai/58838b2c-927e-4532-b263-c43e68c14ec7?embed=js">Apply →</a></p>
 
 ---
-*Posted 2026-08-25 · Listing synced 2026-08-31 · 80k job ID `recac0rv3bd6ksiML`*
+*Posted 2026-08-25 · Listing synced 2026-09-01 · 80k job ID `recac0rv3bd6ksiML`*

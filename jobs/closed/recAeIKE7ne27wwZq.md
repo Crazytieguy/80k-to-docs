@@ -4,24 +4,20 @@ employer: "Precision Development"
 job_id: "recAeIKE7ne27wwZq"
 last_updated: "2026-08-31T12:12:34.339149Z"
 posted_at: "2026-08-13T00:00:00Z"
-status: ready
+status: closed
+closed_at: "2026-09-01"
 apply_url: "https://precisiondev.bamboohr.com/careers/182"
 areas:
   - "Global health & development"
 ---
 
+> ⚠️ **CLOSED on 2026-09-01** — this job is no longer listed on the 80,000 Hours board. Archived snapshot below.
+
 # Data Scientist / Senior Data Scientist
 
-**[Precision Development](https://precisiondev.org/)**
+**Precision Development**
 
-<dl class="job-meta">
-<dt>Location</dt><dd>Mumbai, India, India, Asia</dd>
-<dt>Role type</dt><dd>Full-time</dd>
-<dt>Experience</dt><dd>Junior (1-4 years experience), Mid (5-9 years experience)</dd>
-<dt>Degree</dt><dd>Undergraduate degree or less</dd>
-</dl>
-
-**Areas & skills:** Global health & development, Software engineering
+**Areas & skills:** Global health & development
 
 ## Summary
 - In this role, you'll execute AI and data science projects from problem framing through deployment while collaborating with technical teams.

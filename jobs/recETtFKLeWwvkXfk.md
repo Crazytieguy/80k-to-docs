@@ -2,7 +2,7 @@
 title: "Portfolio Manager"
 employer: "Berkeley Existential Risk Initiative"
 job_id: "recETtFKLeWwvkXfk"
-last_updated: "2026-08-31T12:12:09.824138Z"
+last_updated: "2026-09-01T11:35:35.802210Z"
 posted_at: "2026-08-26T00:03:00Z"
 status: ready
 apply_url: "https://www.existence.org/jobs-portfolio-manager"
@@ -35,4 +35,4 @@ areas:
 <p class="apply-cta"><a href="https://www.existence.org/jobs-portfolio-manager">Apply →</a></p>
 
 ---
-*Posted 2026-08-26 · Listing synced 2026-08-31 · 80k job ID `recETtFKLeWwvkXfk`*
+*Posted 2026-08-26 · Listing synced 2026-09-01 · 80k job ID `recETtFKLeWwvkXfk`*

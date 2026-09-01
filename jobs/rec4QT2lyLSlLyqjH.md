@@ -2,7 +2,7 @@
 title: "Risk and Data Security Manager"
 employer: "Founders Pledge"
 job_id: "rec4QT2lyLSlLyqjH"
-last_updated: "2026-08-31T12:12:50.698102Z"
+last_updated: "2026-09-01T11:36:14.357185Z"
 posted_at: "2026-07-30T00:02:00Z"
 status: ready
 apply_url: "https://careers.founderspledge.com/jobs/8114302-risk-data-security-manager"
@@ -19,7 +19,7 @@ areas:
 <dt>Role type</dt><dd>Full-time</dd>
 <dt>Experience</dt><dd>Mid (5-9 years experience)</dd>
 <dt>Degree</dt><dd>Undergraduate degree or less</dd>
-<dt>Salary</dt><dd>$60,923 – $81,231</dd>
+<dt>Salary</dt><dd>$60,927 – $81,236</dd>
 </dl>
 
 **Areas & skills:** Building effective altruism, Information security
@@ -34,4 +34,4 @@ areas:
 <p class="apply-cta"><a href="https://careers.founderspledge.com/jobs/8114302-risk-data-security-manager">Apply →</a></p>
 
 ---
-*Posted 2026-07-30 · Listing synced 2026-08-31 · 80k job ID `rec4QT2lyLSlLyqjH`*
+*Posted 2026-07-30 · Listing synced 2026-09-01 · 80k job ID `rec4QT2lyLSlLyqjH`*

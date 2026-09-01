@@ -4,25 +4,20 @@ employer: "US Government, National Academies of Sciences, Engineering, and Medic
 job_id: "recvcpeG1rpokYoNI"
 last_updated: "2026-08-31T12:13:10.811107Z"
 posted_at: "2026-06-24T00:00:00Z"
-status: ready
+status: closed
+closed_at: "2026-09-01"
 apply_url: "https://biotechfellows.nationalacademies.org/"
 areas:
   - "Biosecurity & pandemic preparedness"
 ---
 
+> ⚠️ **CLOSED on 2026-09-01** — this job is no longer listed on the 80,000 Hours board. Archived snapshot below.
+
 # Biotechnology Regulatory Fellowship
 
-**[US Government, National Academies of Sciences, Engineering, and Medicine](http://www.nasonline.org/programs/awards/)**
+**US Government, National Academies of Sciences, Engineering, and Medicine**
 
-<dl class="job-meta">
-<dt>Location</dt><dd>Washington, DC metro area, USA</dd>
-<dt>Role type</dt><dd>Fellowship</dd>
-<dt>Experience</dt><dd>Junior (1-4 years experience), Mid (5-9 years experience)</dd>
-<dt>Degree</dt><dd>Master's degree</dd>
-<dt>Salary</dt><dd>$70,000</dd>
-</dl>
-
-**Areas & skills:** Biosecurity & pandemic preparedness, Policy
+**Areas & skills:** Biosecurity & pandemic preparedness
 
 ## Summary
 - In this role, you'll identify novel regulatory frameworks and develop evidence-based solutions for emerging biotechnology products.

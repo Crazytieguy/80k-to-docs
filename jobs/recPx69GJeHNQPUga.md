@@ -2,7 +2,7 @@
 title: "AI Risk Fundamentals"
 employer: "Lens Academy"
 job_id: "recPx69GJeHNQPUga"
-last_updated: "2026-08-31T12:12:07.945569Z"
+last_updated: "2026-09-01T11:35:34.578548Z"
 posted_at: "2026-08-27T00:00:00Z"
 status: ready
 apply_url: "https://lensacademy.org/courses/ai-risk-fundamentals"
@@ -32,4 +32,4 @@ areas:
 <p class="apply-cta"><a href="https://lensacademy.org/courses/ai-risk-fundamentals">Apply →</a></p>
 
 ---
-*Posted 2026-08-27 · Listing synced 2026-08-31 · 80k job ID `recPx69GJeHNQPUga`*
+*Posted 2026-08-27 · Listing synced 2026-09-01 · 80k job ID `recPx69GJeHNQPUga`*

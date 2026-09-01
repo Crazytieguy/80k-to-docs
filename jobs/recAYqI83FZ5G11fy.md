@@ -2,7 +2,7 @@
 title: "AI Red Teamer, Cyber"
 employer: "10a Labs"
 job_id: "recAYqI83FZ5G11fy"
-last_updated: "2026-08-31T12:13:30.888366Z"
+last_updated: "2026-09-01T11:36:54.316953Z"
 posted_at: "2022-01-06T00:00:00Z"
 status: ready
 apply_url: "https://job-boards.greenhouse.io/10alabs/jobs/4266196009"
@@ -34,4 +34,4 @@ areas:
 <p class="apply-cta"><a href="https://job-boards.greenhouse.io/10alabs/jobs/4266196009">Apply →</a></p>
 
 ---
-*Posted 2022-01-06 · Listing synced 2026-08-31 · 80k job ID `recAYqI83FZ5G11fy`*
+*Posted 2022-01-06 · Listing synced 2026-09-01 · 80k job ID `recAYqI83FZ5G11fy`*

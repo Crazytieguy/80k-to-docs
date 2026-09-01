@@ -4,24 +4,20 @@ employer: "Pulitzer Center"
 job_id: "rec5F4MusK61zFiSJ"
 last_updated: "2026-08-31T12:12:16.202963Z"
 posted_at: "2026-08-25T00:00:00Z"
-status: ready
+status: closed
+closed_at: "2026-09-01"
 apply_url: "https://pulitzercenter.org/blog/call-applications-us-democracy-reporting-grants"
 areas:
   - "Safeguarding liberal democracy"
 ---
 
+> ⚠️ **CLOSED on 2026-09-01** — this job is no longer listed on the 80,000 Hours board. Archived snapshot below.
+
 # Reporting Grants, U.S. Democracy
 
-**[Pulitzer Center](https://pulitzercenter.org/)**
+**Pulitzer Center**
 
-<dl class="job-meta">
-<dt>Location</dt><dd>USA</dd>
-<dt>Role type</dt><dd>Funding</dd>
-<dt>Experience</dt><dd>Multiple experience levels</dd>
-<dt>Degree</dt><dd>Undergraduate degree or less</dd>
-</dl>
-
-**Areas & skills:** Safeguarding liberal democracy, Other
+**Areas & skills:** Safeguarding liberal democracy
 
 ## Summary
 - Special grants offered for reporting on democracy in the United States.

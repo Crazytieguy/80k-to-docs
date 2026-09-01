@@ -2,7 +2,7 @@
 title: "Safeguards Enforcement Analyst, Safety Evaluations"
 employer: "Anthropic"
 job_id: "recpg6QHkvluCaI4p"
-last_updated: "2026-08-31T12:13:19.131849Z"
+last_updated: "2026-09-01T11:36:44.178986Z"
 posted_at: "2022-01-11T00:00:00Z"
 status: ready
 apply_url: "https://job-boards.greenhouse.io/anthropic/jobs/5137183008"
@@ -34,4 +34,4 @@ areas:
 <p class="apply-cta"><a href="https://job-boards.greenhouse.io/anthropic/jobs/5137183008">Apply →</a></p>
 
 ---
-*Posted 2022-01-11 · Listing synced 2026-08-31 · 80k job ID `recpg6QHkvluCaI4p`*
+*Posted 2022-01-11 · Listing synced 2026-09-01 · 80k job ID `recpg6QHkvluCaI4p`*

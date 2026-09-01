@@ -2,7 +2,7 @@
 title: "Senior Full-Stack Engineer"
 employer: "Irregular"
 job_id: "recTZV73olVHXrlsP"
-last_updated: "2026-08-31T12:12:46.007386Z"
+last_updated: "2026-09-01T11:36:09.849131Z"
 posted_at: "2026-08-04T00:00:00Z"
 status: ready
 apply_url: "https://jobs.ashbyhq.com/Irregular/9dc9f115-55e1-4c74-b022-51bf94b467d9"
@@ -33,4 +33,4 @@ areas:
 <p class="apply-cta"><a href="https://jobs.ashbyhq.com/Irregular/9dc9f115-55e1-4c74-b022-51bf94b467d9">Apply →</a></p>
 
 ---
-*Posted 2026-08-04 · Listing synced 2026-08-31 · 80k job ID `recTZV73olVHXrlsP`*
+*Posted 2026-08-04 · Listing synced 2026-09-01 · 80k job ID `recTZV73olVHXrlsP`*

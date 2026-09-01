@@ -2,7 +2,7 @@
 title: "Founding Engineer, Infrastructure"
 employer: "SaferAI"
 job_id: "recUAd52hDJiEQeum"
-last_updated: "2026-08-31T12:13:01.768967Z"
+last_updated: "2026-09-01T11:36:27.182595Z"
 posted_at: "2026-07-13T00:01:00Z"
 status: ready
 apply_url: "https://www.safer-ai.org/jobs/founding-engineer-infrastructure"
@@ -33,4 +33,4 @@ areas:
 <p class="apply-cta"><a href="https://www.safer-ai.org/jobs/founding-engineer-infrastructure">Apply →</a></p>
 
 ---
-*Posted 2026-07-13 · Listing synced 2026-08-31 · 80k job ID `recUAd52hDJiEQeum`*
+*Posted 2026-07-13 · Listing synced 2026-09-01 · 80k job ID `recUAd52hDJiEQeum`*

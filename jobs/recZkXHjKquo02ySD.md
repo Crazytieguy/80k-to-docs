@@ -2,7 +2,7 @@
 title: "Senior AI Fellow, California Governor's Office of Emergency Services"
 employer: "California Council on Science and Technology"
 job_id: "recZkXHjKquo02ySD"
-last_updated: "2026-08-31T12:12:40.760314Z"
+last_updated: "2026-09-01T11:36:04.809360Z"
 posted_at: "2026-08-06T00:04:00Z"
 status: ready
 apply_url: "https://ccst.us/senior-ai-fellow-cal-oes/"
@@ -35,4 +35,4 @@ areas:
 <p class="apply-cta"><a href="https://ccst.us/senior-ai-fellow-cal-oes/">Apply →</a></p>
 
 ---
-*Posted 2026-08-06 · Listing synced 2026-08-31 · 80k job ID `recZkXHjKquo02ySD`*
+*Posted 2026-08-06 · Listing synced 2026-09-01 · 80k job ID `recZkXHjKquo02ySD`*

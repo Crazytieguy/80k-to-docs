@@ -2,7 +2,7 @@
 title: "Chief Operating Officer / Director of Operations"
 employer: "Longview Philanthropy"
 job_id: "recQXDUyKJA7UXbLC"
-last_updated: "2026-08-31T12:12:22.118596Z"
+last_updated: "2026-09-01T11:35:46.704369Z"
 posted_at: "2026-08-20T00:04:32Z"
 status: ready
 apply_url: "https://www.longview.org/careers/chief-operating-officer"
@@ -34,4 +34,4 @@ areas:
 <p class="apply-cta"><a href="https://www.longview.org/careers/chief-operating-officer">Apply →</a></p>
 
 ---
-*Posted 2026-08-20 · Listing synced 2026-08-31 · 80k job ID `recQXDUyKJA7UXbLC`*
+*Posted 2026-08-20 · Listing synced 2026-09-01 · 80k job ID `recQXDUyKJA7UXbLC`*

@@ -2,7 +2,7 @@
 title: "Research Fellowship, AI Safety (Fall 2026)"
 employer: "Cambridge Boston Alignment Initiative"
 job_id: "recKOXJbiZAY9q8Rc"
-last_updated: "2026-08-31T12:11:58.936613Z"
+last_updated: "2026-09-01T11:35:26.702089Z"
 posted_at: "2026-08-31T00:03:00Z"
 status: ready
 apply_url: "https://www.cbai.ai/ais-research-fellowship"
@@ -34,4 +34,4 @@ areas:
 <p class="apply-cta"><a href="https://www.cbai.ai/ais-research-fellowship">Apply →</a></p>
 
 ---
-*Posted 2026-08-31 · Listing synced 2026-08-31 · 80k job ID `recKOXJbiZAY9q8Rc`*
+*Posted 2026-08-31 · Listing synced 2026-09-01 · 80k job ID `recKOXJbiZAY9q8Rc`*

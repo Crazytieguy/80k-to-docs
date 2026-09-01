@@ -4,24 +4,20 @@ employer: "Syntony"
 job_id: "recXnFHKeigNeREgz"
 last_updated: "2026-08-31T12:13:02.629603Z"
 posted_at: "2026-07-10T00:00:00Z"
-status: ready
+status: closed
+closed_at: "2026-09-01"
 apply_url: "https://www.syntonyresearch.ai/work/engineering-fellowship/"
 areas:
   - "AI safety & policy"
 ---
 
+> ⚠️ **CLOSED on 2026-09-01** — this job is no longer listed on the 80,000 Hours board. Archived snapshot below.
+
 # Engineering Fellow
 
-**[Syntony](https://www.syntonyresearch.ai/)**
+**Syntony**
 
-<dl class="job-meta">
-<dt>Location</dt><dd>Durham, NC, USA</dd>
-<dt>Role type</dt><dd>Fellowship</dd>
-<dt>Experience</dt><dd>Entry-level</dd>
-<dt>Degree</dt><dd>Undergraduate degree or less</dd>
-</dl>
-
-**Areas & skills:** AI safety & policy, Research, Software engineering
+**Areas & skills:** AI safety & policy
 
 ## Summary
 - In this role, you'll work directly with Syntony's founder on research and engineering projects in AI evaluation, governance, and risk analysis.

@@ -2,7 +2,7 @@
 title: "Intern, Software Engineering"
 employer: "Haize Labs"
 job_id: "recrcM0O0BS0nepSA"
-last_updated: "2026-08-31T12:13:36.485833Z"
+last_updated: "2026-09-01T11:36:59.630997Z"
 posted_at: "2022-01-06T00:00:00Z"
 status: ready
 apply_url: "https://job-boards.greenhouse.io/haizelabs/jobs/4685944008"
@@ -34,4 +34,4 @@ areas:
 <p class="apply-cta"><a href="https://job-boards.greenhouse.io/haizelabs/jobs/4685944008">Apply →</a></p>
 
 ---
-*Posted 2022-01-06 · Listing synced 2026-08-31 · 80k job ID `recrcM0O0BS0nepSA`*
+*Posted 2022-01-06 · Listing synced 2026-09-01 · 80k job ID `recrcM0O0BS0nepSA`*

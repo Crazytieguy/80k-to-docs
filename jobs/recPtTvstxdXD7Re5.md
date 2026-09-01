@@ -2,7 +2,7 @@
 title: "Research Scientist"
 employer: "Faculty"
 job_id: "recPtTvstxdXD7Re5"
-last_updated: "2026-08-31T12:12:37.892343Z"
+last_updated: "2026-09-01T11:36:02.047084Z"
 posted_at: "2026-08-10T00:01:00Z"
 status: ready
 apply_url: "https://jobs.ashbyhq.com/faculty/188ecaba-2f9c-4a15-a86b-dc2f369f03bd"
@@ -33,4 +33,4 @@ areas:
 <p class="apply-cta"><a href="https://jobs.ashbyhq.com/faculty/188ecaba-2f9c-4a15-a86b-dc2f369f03bd">Apply →</a></p>
 
 ---
-*Posted 2026-08-10 · Listing synced 2026-08-31 · 80k job ID `recPtTvstxdXD7Re5`*
+*Posted 2026-08-10 · Listing synced 2026-09-01 · 80k job ID `recPtTvstxdXD7Re5`*

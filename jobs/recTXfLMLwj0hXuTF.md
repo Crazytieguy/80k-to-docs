@@ -1,8 +1,8 @@
 ---
-title: "Business Operations Associate"
+title: "Business Operations Associate / Senior Business Operations Associate"
 employer: "FAR AI"
 job_id: "recTXfLMLwj0hXuTF"
-last_updated: "2026-08-31T12:13:10.419072Z"
+last_updated: "2026-09-01T11:36:35.612336Z"
 posted_at: "2026-06-24T00:04:17Z"
 status: ready
 apply_url: "https://jobs.ashbyhq.com/far.ai/64c0e905-ac58-4584-b89d-94706dd4cc36?embed=js"
@@ -10,7 +10,7 @@ areas:
   - "AI safety & policy"
 ---
 
-# Business Operations Associate
+# Business Operations Associate / Senior Business Operations Associate
 
 **[FAR AI](https://far.ai/)**
 
@@ -34,4 +34,4 @@ areas:
 <p class="apply-cta"><a href="https://jobs.ashbyhq.com/far.ai/64c0e905-ac58-4584-b89d-94706dd4cc36?embed=js">Apply →</a></p>
 
 ---
-*Posted 2026-06-24 · Listing synced 2026-08-31 · 80k job ID `recTXfLMLwj0hXuTF`*
+*Posted 2026-06-24 · Listing synced 2026-09-01 · 80k job ID `recTXfLMLwj0hXuTF`*

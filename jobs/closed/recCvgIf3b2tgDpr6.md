@@ -4,25 +4,20 @@ employer: "Amplify"
 job_id: "recCvgIf3b2tgDpr6"
 last_updated: "2026-08-31T12:12:29.691114Z"
 posted_at: "2026-08-17T00:01:00Z"
-status: ready
+status: closed
+closed_at: "2026-09-01"
 apply_url: "https://docs.google.com/document/d/1AzHnD57JJBJnJekWSlVoOEcjyahJXaLtmHYnzRcTLg8/edit?usp=sharing"
 areas:
   - "Building effective altruism"
 ---
 
+> ⚠️ **CLOSED on 2026-09-01** — this job is no longer listed on the 80,000 Hours board. Archived snapshot below.
+
 # Marketing Campaign Manager
 
-**[Amplify](https://merelllystra.notion.site/Amplify-The-Groups-Marketing-Agency-2d4419e71c6e47ba985780e3b65942b7)**
+**Amplify**
 
-<dl class="job-meta">
-<dt>Location</dt><dd>Remote, Global</dd>
-<dt>Role type</dt><dd>Full-time</dd>
-<dt>Experience</dt><dd>Junior (1-4 years experience)</dd>
-<dt>Degree</dt><dd>Undergraduate degree or less</dd>
-<dt>Salary</dt><dd>$41,600 – $62,400</dd>
-</dl>
-
-**Areas & skills:** Building effective altruism, Communications
+**Areas & skills:** Building effective altruism
 
 ## Summary
 - In this role, you'll manage marketing campaigns for impact-focused organisations, working directly with clients from brief through execution and optimisation.

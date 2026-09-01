@@ -2,7 +2,7 @@
 title: "Lightcone Commons"
 employer: "Lightcone Infrastructure"
 job_id: "recQqSihEg7ILHUDr"
-last_updated: "2026-08-31T12:12:35.614386Z"
+last_updated: "2026-09-01T11:35:59.775268Z"
 posted_at: "2026-08-11T00:05:00Z"
 status: ready
 apply_url: "https://www.lightconecommons.com/apply"
@@ -33,4 +33,4 @@ areas:
 <p class="apply-cta"><a href="https://www.lightconecommons.com/apply">Apply →</a></p>
 
 ---
-*Posted 2026-08-11 · Listing synced 2026-08-31 · 80k job ID `recQqSihEg7ILHUDr`*
+*Posted 2026-08-11 · Listing synced 2026-09-01 · 80k job ID `recQqSihEg7ILHUDr`*

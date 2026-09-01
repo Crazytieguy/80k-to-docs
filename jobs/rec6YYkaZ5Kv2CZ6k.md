@@ -2,7 +2,7 @@
 title: "Iliad Intensive"
 employer: "Iliad"
 job_id: "rec6YYkaZ5Kv2CZ6k"
-last_updated: "2026-08-31T12:12:15.539979Z"
+last_updated: "2026-09-01T11:35:40.628121Z"
 posted_at: "2026-08-25T00:00:00Z"
 status: ready
 apply_url: "https://www.iliad.ac/intensive"
@@ -33,4 +33,4 @@ areas:
 <p class="apply-cta"><a href="https://www.iliad.ac/intensive">Apply →</a></p>
 
 ---
-*Posted 2026-08-25 · Listing synced 2026-08-31 · 80k job ID `rec6YYkaZ5Kv2CZ6k`*
+*Posted 2026-08-25 · Listing synced 2026-09-01 · 80k job ID `rec6YYkaZ5Kv2CZ6k`*

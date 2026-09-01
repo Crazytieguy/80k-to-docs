@@ -2,13 +2,13 @@
 title: "Portfolio Companies"
 employer: "Deep Science Ventures"
 job_id: "recdvSw1s9qpmta2L"
-last_updated: "2026-08-31T12:13:57.286030Z"
+last_updated: "2026-09-01T11:37:21.849029Z"
 posted_at: "2022-01-03T00:00:00Z"
 status: ready
 apply_url: "https://deepscienceventures.com/portfolio"
 areas:
-  - "Global health & development"
   - "Climate change"
+  - "Global health & development"
 ---
 
 # Portfolio Companies
@@ -22,7 +22,7 @@ areas:
 <dt>Degree</dt><dd>Undergraduate degree or less</dd>
 </dl>
 
-**Areas & skills:** Global health & development, Climate change, Engineering, Research, Operations, Strategy
+**Areas & skills:** Climate change, Global health & development, Engineering, Research, Operations, Strategy
 
 ## Summary
 - This is a list of the 40+ companies that Deep Science Ventures has spun out.
@@ -30,4 +30,4 @@ areas:
 <p class="apply-cta"><a href="https://deepscienceventures.com/portfolio">Apply →</a></p>
 
 ---
-*Posted 2022-01-03 · Listing synced 2026-08-31 · 80k job ID `recdvSw1s9qpmta2L`*
+*Posted 2022-01-03 · Listing synced 2026-09-01 · 80k job ID `recdvSw1s9qpmta2L`*

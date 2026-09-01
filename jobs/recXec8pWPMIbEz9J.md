@@ -2,13 +2,13 @@
 title: "Computational Biologist"
 employer: "Valthos"
 job_id: "recXec8pWPMIbEz9J"
-last_updated: "2026-08-31T12:13:28.255799Z"
+last_updated: "2026-09-01T11:36:51.585064Z"
 posted_at: "2022-01-08T00:00:00Z"
 status: ready
 apply_url: "https://jobs.ashbyhq.com/valthos/dd6c0d36-e5ae-4ff5-9d5a-34b562a5e694"
 areas:
-  - "AI safety & policy"
   - "Biosecurity & pandemic preparedness"
+  - "AI safety & policy"
 ---
 
 # Computational Biologist
@@ -22,7 +22,7 @@ areas:
 <dt>Degree</dt><dd>Undergraduate degree or less</dd>
 </dl>
 
-**Areas & skills:** AI safety & policy, Biosecurity & pandemic preparedness, Research
+**Areas & skills:** Biosecurity & pandemic preparedness, AI safety & policy, Research
 
 ## Summary
 - In this role, you'll bridge machine learning and biology by building robust data and evaluation frameworks for assessing biological threats and designing precision biologics.
@@ -33,4 +33,4 @@ areas:
 <p class="apply-cta"><a href="https://jobs.ashbyhq.com/valthos/dd6c0d36-e5ae-4ff5-9d5a-34b562a5e694">Apply →</a></p>
 
 ---
-*Posted 2022-01-08 · Listing synced 2026-08-31 · 80k job ID `recXec8pWPMIbEz9J`*
+*Posted 2022-01-08 · Listing synced 2026-09-01 · 80k job ID `recXec8pWPMIbEz9J`*

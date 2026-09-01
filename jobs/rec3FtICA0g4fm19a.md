@@ -2,7 +2,7 @@
 title: "Cyber Investigator"
 employer: "10a Labs"
 job_id: "rec3FtICA0g4fm19a"
-last_updated: "2026-08-31T12:13:10.537241Z"
+last_updated: "2026-09-01T11:36:35.727617Z"
 posted_at: "2026-06-24T00:00:00Z"
 status: ready
 apply_url: "https://job-boards.greenhouse.io/10alabs/jobs/4292584009"
@@ -34,4 +34,4 @@ areas:
 <p class="apply-cta"><a href="https://job-boards.greenhouse.io/10alabs/jobs/4292584009">Apply →</a></p>
 
 ---
-*Posted 2026-06-24 · Listing synced 2026-08-31 · 80k job ID `rec3FtICA0g4fm19a`*
+*Posted 2026-06-24 · Listing synced 2026-09-01 · 80k job ID `rec3FtICA0g4fm19a`*

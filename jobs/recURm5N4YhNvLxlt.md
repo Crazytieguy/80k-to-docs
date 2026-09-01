@@ -2,7 +2,7 @@
 title: "Field Epidemiology Training Programme Director"
 employer: "UK Government, Health Security Agency"
 job_id: "recURm5N4YhNvLxlt"
-last_updated: "2026-08-31T12:12:04.161145Z"
+last_updated: "2026-09-01T11:35:31.469120Z"
 posted_at: "2026-08-28T00:00:00Z"
 status: ready
 apply_url: "https://www.civilservicejobs.service.gov.uk/csr/jobs.cgi?jcode=2010426&csource=csalerts"
@@ -19,7 +19,7 @@ areas:
 <dt>Role type</dt><dd>Full-time</dd>
 <dt>Experience</dt><dd>Senior (10+ years experience)</dd>
 <dt>Degree</dt><dd>Master's degree</dd>
-<dt>Salary</dt><dd>$127,744 – $203,848</dd>
+<dt>Salary</dt><dd>$127,751 – $203,860</dd>
 </dl>
 
 **Areas & skills:** Biosecurity & pandemic preparedness, Management, Strategy
@@ -33,4 +33,4 @@ areas:
 <p class="apply-cta"><a href="https://www.civilservicejobs.service.gov.uk/csr/jobs.cgi?jcode=2010426&amp;csource=csalerts">Apply →</a></p>
 
 ---
-*Posted 2026-08-28 · Listing synced 2026-08-31 · 80k job ID `recURm5N4YhNvLxlt`*
+*Posted 2026-08-28 · Listing synced 2026-09-01 · 80k job ID `recURm5N4YhNvLxlt`*

@@ -2,7 +2,7 @@
 title: "Operations Lead"
 employer: "Moral Fabric"
 job_id: "recmqP9SI8D4Ojxdo"
-last_updated: "2026-08-31T12:12:03.027554Z"
+last_updated: "2026-09-01T11:35:30.602676Z"
 posted_at: "2026-08-28T00:00:00Z"
 status: ready
 apply_url: "https://moralfabric.org/vacancies/operations-lead"
@@ -19,7 +19,7 @@ areas:
 <dt>Role type</dt><dd>Full-time</dd>
 <dt>Experience</dt><dd>Junior (1-4 years experience)</dd>
 <dt>Degree</dt><dd>Undergraduate degree or less</dd>
-<dt>Salary</dt><dd>$52,182 – $63,778</dd>
+<dt>Salary</dt><dd>$52,178 – $63,773</dd>
 </dl>
 
 **Areas & skills:** Building effective altruism, Operations
@@ -33,4 +33,4 @@ areas:
 <p class="apply-cta"><a href="https://moralfabric.org/vacancies/operations-lead">Apply →</a></p>
 
 ---
-*Posted 2026-08-28 · Listing synced 2026-08-31 · 80k job ID `recmqP9SI8D4Ojxdo`*
+*Posted 2026-08-28 · Listing synced 2026-09-01 · 80k job ID `recmqP9SI8D4Ojxdo`*

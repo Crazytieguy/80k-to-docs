@@ -4,24 +4,20 @@ employer: "Arcadia Impact"
 job_id: "recha8o4x9paYPfdX"
 last_updated: "2026-08-31T12:12:41.029697Z"
 posted_at: "2026-08-06T00:03:00Z"
-status: ready
+status: closed
+closed_at: "2026-09-01"
 apply_url: "https://www.arcadiaimpact.org/ai-governance-taskforce"
 areas:
   - "AI safety & policy"
 ---
 
+> ⚠️ **CLOSED on 2026-09-01** — this job is no longer listed on the 80,000 Hours board. Archived snapshot below.
+
 # AI Governance Taskforce (Autumn 2026)
 
-**[Arcadia Impact](https://www.arcadiaimpact.org/)**
+**Arcadia Impact**
 
-<dl class="job-meta">
-<dt>Location</dt><dd>Remote, Global</dd>
-<dt>Role type</dt><dd>Part-time</dd>
-<dt>Experience</dt><dd>Mid (5-9 years experience), Senior (10+ years experience)</dd>
-<dt>Degree</dt><dd>Undergraduate degree or less</dd>
-</dl>
-
-**Areas & skills:** AI safety & policy, Research, Policy
+**Areas & skills:** AI safety & policy
 
 ## Summary
 - In this role, you'll conduct frontier AI governance research in multidisciplinary teams of four to reduce catastrophic risks from advanced AI.

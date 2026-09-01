@@ -4,24 +4,20 @@ employer: "Innovations for Poverty Action"
 job_id: "rece9STaUzycViGAe"
 last_updated: "2026-08-31T12:12:55.443372Z"
 posted_at: "2026-07-27T00:00:00Z"
-status: ready
+status: closed
+closed_at: "2026-09-01"
 apply_url: "https://poverty-action.org/program-associate-strategic-impact-evaluation-and-learning"
 areas:
   - "Global health & development"
 ---
 
+> ⚠️ **CLOSED on 2026-09-01** — this job is no longer listed on the 80,000 Hours board. Archived snapshot below.
+
 # Program Associate, Strategic Impact Evaluation and Learning
 
-**[Innovations for Poverty Action](https://www.poverty-action.org)**
+**Innovations for Poverty Action**
 
-<dl class="job-meta">
-<dt>Location</dt><dd>Various, Africa, Africa</dd>
-<dt>Role type</dt><dd>Full-time</dd>
-<dt>Experience</dt><dd>Junior (1-4 years experience)</dd>
-<dt>Degree</dt><dd>Undergraduate degree or less</dd>
-</dl>
-
-**Areas & skills:** Global health & development, Communications, Operations
+**Areas & skills:** Global health & development
 
 ## Summary
 - In this role, you'll support a learning partnership to establish evidence for FCDO's programs and improve intervention efficiency.

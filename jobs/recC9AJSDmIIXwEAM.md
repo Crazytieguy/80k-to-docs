@@ -2,7 +2,7 @@
 title: "Programme Director"
 employer: "Advanced Research and Invention Agency"
 job_id: "recC9AJSDmIIXwEAM"
-last_updated: "2026-08-31T12:12:22.699537Z"
+last_updated: "2026-09-01T11:35:47.215608Z"
 posted_at: "2026-08-20T00:00:00Z"
 status: ready
 apply_url: "https://aria.org.uk/become-a-programme-director"
@@ -34,4 +34,4 @@ areas:
 <p class="apply-cta"><a href="https://aria.org.uk/become-a-programme-director">Apply →</a></p>
 
 ---
-*Posted 2026-08-20 · Listing synced 2026-08-31 · 80k job ID `recC9AJSDmIIXwEAM`*
+*Posted 2026-08-20 · Listing synced 2026-09-01 · 80k job ID `recC9AJSDmIIXwEAM`*

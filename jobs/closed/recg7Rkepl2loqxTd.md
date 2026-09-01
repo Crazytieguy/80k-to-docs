@@ -4,25 +4,20 @@ employer: "The Good Food Institute"
 job_id: "recg7Rkepl2loqxTd"
 last_updated: "2026-08-31T12:12:28.971256Z"
 posted_at: "2026-08-18T00:00:00Z"
-status: ready
+status: closed
+closed_at: "2026-09-01"
 apply_url: "https://job-boards.greenhouse.io/thegoodfoodinstitute80/jobs/8716799002"
 areas:
   - "Animal welfare"
 ---
 
+> ⚠️ **CLOSED on 2026-09-01** — this job is no longer listed on the 80,000 Hours board. Archived snapshot below.
+
 # Intern, Corporate Engagement
 
-**[The Good Food Institute](https://www.gfi.org)**
+**The Good Food Institute**
 
-<dl class="job-meta">
-<dt>Location</dt><dd>Remote, USA, USA</dd>
-<dt>Role type</dt><dd>Internship</dd>
-<dt>Experience</dt><dd>Entry-level</dd>
-<dt>Degree</dt><dd>Undergraduate degree or less</dd>
-<dt>Salary</dt><dd>$41,600</dd>
-</dl>
-
-**Areas & skills:** Animal welfare, Research, Operations
+**Areas & skills:** Animal welfare
 
 ## Summary
 - In this role, you'll conduct research and develop resources to advance the alternative protein industry through database management and analysis.

@@ -2,7 +2,7 @@
 title: "AI Fellowship (Winter 2027)"
 employer: "ERA"
 job_id: "recPXCsPGTr8nFtK4"
-last_updated: "2026-08-31T12:12:17.320805Z"
+last_updated: "2026-09-01T11:35:42.224335Z"
 posted_at: "2026-08-24T00:05:00Z"
 status: ready
 apply_url: "https://airtable.com/appaZQNjlqYOCy4lV/pag0VHHxQWTBRmHHS/form"
@@ -28,8 +28,9 @@ areas:
 - Develop your individual research project under the guidance of experts in your chosen field.
 - Engage with ERA's network of researchers and entrepreneurs to build professional connections.
 - Receive personalised career support and professional development throughout the programme.
+- The strongest fellows are offered six month or longer funded positions to continue their research beyond the ten weeks.
 
 <p class="apply-cta"><a href="https://airtable.com/appaZQNjlqYOCy4lV/pag0VHHxQWTBRmHHS/form">Apply →</a></p>
 
 ---
-*Posted 2026-08-24 · Listing synced 2026-08-31 · 80k job ID `recPXCsPGTr8nFtK4`*
+*Posted 2026-08-24 · Listing synced 2026-09-01 · 80k job ID `recPXCsPGTr8nFtK4`*

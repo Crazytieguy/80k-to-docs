@@ -2,7 +2,7 @@
 title: "Forecasting, Modeling, and Shaping AI Futures"
 employer: "Lens Academy"
 job_id: "recmWG2S7Xze5E7qP"
-last_updated: "2026-08-31T12:12:08.118874Z"
+last_updated: "2026-09-01T11:35:34.706168Z"
 posted_at: "2026-08-27T00:00:00Z"
 status: ready
 apply_url: "https://lensacademy.org/courses/ai-futures"
@@ -32,4 +32,4 @@ areas:
 <p class="apply-cta"><a href="https://lensacademy.org/courses/ai-futures">Apply →</a></p>
 
 ---
-*Posted 2026-08-27 · Listing synced 2026-08-31 · 80k job ID `recmWG2S7Xze5E7qP`*
+*Posted 2026-08-27 · Listing synced 2026-09-01 · 80k job ID `recmWG2S7Xze5E7qP`*

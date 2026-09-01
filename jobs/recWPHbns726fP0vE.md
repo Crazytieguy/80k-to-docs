@@ -2,7 +2,7 @@
 title: "Research Scientist, Frontier Safety Framework Risk Modelling and Governance"
 employer: "Google DeepMind"
 job_id: "recWPHbns726fP0vE"
-last_updated: "2026-08-31T12:12:11.421373Z"
+last_updated: "2026-09-01T11:35:36.900808Z"
 posted_at: "2026-08-26T00:00:00Z"
 status: ready
 apply_url: "https://www.google.com/about/careers/applications/jobs/results/77781699408077510-research-scientist-fsf-risk-modeling-and-governance-deepmind?company=DeepMind"
@@ -34,4 +34,4 @@ areas:
 <p class="apply-cta"><a href="https://www.google.com/about/careers/applications/jobs/results/77781699408077510-research-scientist-fsf-risk-modeling-and-governance-deepmind?company=DeepMind">Apply →</a></p>
 
 ---
-*Posted 2026-08-26 · Listing synced 2026-08-31 · 80k job ID `recWPHbns726fP0vE`*
+*Posted 2026-08-26 · Listing synced 2026-09-01 · 80k job ID `recWPHbns726fP0vE`*

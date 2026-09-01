@@ -2,7 +2,7 @@
 title: "Head of Policy Analysis"
 employer: "Le Centre pour la Sécurité de l'IA"
 job_id: "reckBj6afWYU1ufp2"
-last_updated: "2026-08-31T12:13:51.789721Z"
+last_updated: "2026-09-01T11:37:16.240137Z"
 posted_at: "2022-01-05T00:00:00Z"
 status: ready
 apply_url: "https://cesia.org/en/careers/head-of-policy-analysis/"
@@ -19,7 +19,7 @@ areas:
 <dt>Role type</dt><dd>Full-time</dd>
 <dt>Experience</dt><dd>Mid (5-9 years experience)</dd>
 <dt>Degree</dt><dd>Undergraduate degree or less</dd>
-<dt>Salary</dt><dd>$63,778 – $81,172</dd>
+<dt>Salary</dt><dd>$63,773 – $81,166</dd>
 </dl>
 
 **Areas & skills:** AI safety & policy, Policy, Management
@@ -33,4 +33,4 @@ areas:
 <p class="apply-cta"><a href="https://cesia.org/en/careers/head-of-policy-analysis/">Apply →</a></p>
 
 ---
-*Posted 2022-01-05 · Listing synced 2026-08-31 · 80k job ID `reckBj6afWYU1ufp2`*
+*Posted 2022-01-05 · Listing synced 2026-09-01 · 80k job ID `reckBj6afWYU1ufp2`*

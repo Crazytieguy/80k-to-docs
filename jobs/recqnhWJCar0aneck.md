@@ -2,7 +2,7 @@
 title: "Technical Governance Researcher"
 employer: "Machine Intelligence Research Institute"
 job_id: "recqnhWJCar0aneck"
-last_updated: "2026-08-31T12:13:16.546590Z"
+last_updated: "2026-09-01T11:36:41.545416Z"
 posted_at: "2022-01-12T00:00:00Z"
 status: ready
 apply_url: "https://jobs.ashbyhq.com/miri/54142b55-b061-4f11-980e-73d9986ff1b9"
@@ -34,4 +34,4 @@ areas:
 <p class="apply-cta"><a href="https://jobs.ashbyhq.com/miri/54142b55-b061-4f11-980e-73d9986ff1b9">Apply →</a></p>
 
 ---
-*Posted 2022-01-12 · Listing synced 2026-08-31 · 80k job ID `recqnhWJCar0aneck`*
+*Posted 2022-01-12 · Listing synced 2026-09-01 · 80k job ID `recqnhWJCar0aneck`*

@@ -2,7 +2,7 @@
 title: "Research Fellow, Wilson Center"
 employer: "Woodrow Wilson International Center for Scholars"
 job_id: "reczRMznmTRsPeU7K"
-last_updated: "2026-08-31T12:12:04.786395Z"
+last_updated: "2026-09-01T11:35:32.072080Z"
 posted_at: "2026-08-28T00:00:00Z"
 status: ready
 apply_url: "https://www.wilsoncenter.org/research-fellowship"
@@ -34,4 +34,4 @@ areas:
 <p class="apply-cta"><a href="https://www.wilsoncenter.org/research-fellowship">Apply →</a></p>
 
 ---
-*Posted 2026-08-28 · Listing synced 2026-08-31 · 80k job ID `reczRMznmTRsPeU7K`*
+*Posted 2026-08-28 · Listing synced 2026-09-01 · 80k job ID `reczRMznmTRsPeU7K`*
