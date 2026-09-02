@@ -2,7 +2,7 @@
 title: "Research Manager"
 employer: "London AI Safety Research Labs"
 job_id: "recMCh59itx5XxP6Y"
-last_updated: "2026-09-01T11:36:26.616314Z"
+last_updated: "2026-09-02T05:33:03.386739Z"
 posted_at: "2026-07-13T00:03:00Z"
 status: ready
 apply_url: "https://www.lasrlabs.org/research-manager"
@@ -19,7 +19,7 @@ areas:
 <dt>Role type</dt><dd>Full-time</dd>
 <dt>Experience</dt><dd>Junior (1-4 years experience), Mid (5-9 years experience)</dd>
 <dt>Degree</dt><dd>Undergraduate degree or less</dd>
-<dt>Salary</dt><dd>$81,236 – $121,854</dd>
+<dt>Salary</dt><dd>$81,004 – $121,507</dd>
 </dl>
 
 **Areas & skills:** AI safety & policy, Operations
@@ -34,4 +34,4 @@ areas:
 <p class="apply-cta"><a href="https://www.lasrlabs.org/research-manager">Apply →</a></p>
 
 ---
-*Posted 2026-07-13 · Listing synced 2026-09-01 · 80k job ID `recMCh59itx5XxP6Y`*
+*Posted 2026-07-13 · Listing synced 2026-09-02 · 80k job ID `recMCh59itx5XxP6Y`*

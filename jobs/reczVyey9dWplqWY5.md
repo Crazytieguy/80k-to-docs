@@ -2,7 +2,7 @@
 title: "Senior Program Officer, Democratic Resilience"
 employer: "Center for European Policy Analysis"
 job_id: "reczVyey9dWplqWY5"
-last_updated: "2026-09-01T11:35:58.982728Z"
+last_updated: "2026-09-02T05:32:38.201999Z"
 posted_at: "2026-08-12T00:00:00Z"
 status: ready
 apply_url: "https://cepa.org/about-cepa/work-with-us/senior-program-officer-dr/"
@@ -34,4 +34,4 @@ areas:
 <p class="apply-cta"><a href="https://cepa.org/about-cepa/work-with-us/senior-program-officer-dr/">Apply →</a></p>
 
 ---
-*Posted 2026-08-12 · Listing synced 2026-09-01 · 80k job ID `reczVyey9dWplqWY5`*
+*Posted 2026-08-12 · Listing synced 2026-09-02 · 80k job ID `reczVyey9dWplqWY5`*

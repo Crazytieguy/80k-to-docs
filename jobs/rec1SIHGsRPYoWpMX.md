@@ -2,7 +2,7 @@
 title: "Global Rice Leadership Awards"
 employer: "Global Rice Research Foundation"
 job_id: "rec1SIHGsRPYoWpMX"
-last_updated: "2026-09-01T11:37:22.192432Z"
+last_updated: "2026-09-02T05:33:58.283756Z"
 posted_at: "2022-01-03T00:00:00Z"
 status: ready
 apply_url: "https://ricefound.org/awards/"
@@ -34,4 +34,4 @@ areas:
 <p class="apply-cta"><a href="https://ricefound.org/awards/">Apply →</a></p>
 
 ---
-*Posted 2022-01-03 · Listing synced 2026-09-01 · 80k job ID `rec1SIHGsRPYoWpMX`*
+*Posted 2022-01-03 · Listing synced 2026-09-02 · 80k job ID `rec1SIHGsRPYoWpMX`*

@@ -2,7 +2,7 @@
 title: "Research Scientist, London"
 employer: "Goodfire"
 job_id: "recjHzF2YdjiyeYY9"
-last_updated: "2026-09-01T11:36:04.180372Z"
+last_updated: "2026-09-02T05:32:43.394790Z"
 posted_at: "2026-08-07T00:00:00Z"
 status: ready
 apply_url: "https://job-boards.greenhouse.io/goodfire/jobs/5382137008"
@@ -19,7 +19,7 @@ areas:
 <dt>Role type</dt><dd>Full-time</dd>
 <dt>Experience</dt><dd>Junior (1-4 years experience)</dd>
 <dt>Degree</dt><dd>Doctoral degree</dd>
-<dt>Salary</dt><dd>$203,089 – $406,179</dd>
+<dt>Salary</dt><dd>$202,511 – $405,022</dd>
 </dl>
 
 **Areas & skills:** AI safety & policy, Research, Software engineering
@@ -34,4 +34,4 @@ areas:
 <p class="apply-cta"><a href="https://job-boards.greenhouse.io/goodfire/jobs/5382137008">Apply →</a></p>
 
 ---
-*Posted 2026-08-07 · Listing synced 2026-09-01 · 80k job ID `recjHzF2YdjiyeYY9`*
+*Posted 2026-08-07 · Listing synced 2026-09-02 · 80k job ID `recjHzF2YdjiyeYY9`*

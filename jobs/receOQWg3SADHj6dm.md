@@ -2,7 +2,7 @@
 title: "Research Manager, AI"
 employer: "ERA"
 job_id: "receOQWg3SADHj6dm"
-last_updated: "2026-09-01T11:35:57.047374Z"
+last_updated: "2026-09-02T05:32:36.393216Z"
 posted_at: "2026-08-13T00:05:00Z"
 status: ready
 apply_url: "https://docs.google.com/document/d/1X2RfIPAVeUFCA5WgXsBleUo7SjTe-WICeBKzQ98sfEY/edit?tab=t.0#heading=h.dzzx9sxlu2mh"
@@ -19,7 +19,7 @@ areas:
 <dt>Role type</dt><dd>Full-time, Part-time</dd>
 <dt>Experience</dt><dd>Junior (1-4 years experience), Mid (5-9 years experience)</dd>
 <dt>Degree</dt><dd>Undergraduate degree or less</dd>
-<dt>Salary</dt><dd>$81,236 – $121,854</dd>
+<dt>Salary</dt><dd>$81,004 – $121,507</dd>
 </dl>
 
 **Areas & skills:** AI safety & policy, Research, Management
@@ -34,4 +34,4 @@ areas:
 <p class="apply-cta"><a href="https://docs.google.com/document/d/1X2RfIPAVeUFCA5WgXsBleUo7SjTe-WICeBKzQ98sfEY/edit?tab=t.0#heading=h.dzzx9sxlu2mh">Apply →</a></p>
 
 ---
-*Posted 2026-08-13 · Listing synced 2026-09-01 · 80k job ID `receOQWg3SADHj6dm`*
+*Posted 2026-08-13 · Listing synced 2026-09-02 · 80k job ID `receOQWg3SADHj6dm`*

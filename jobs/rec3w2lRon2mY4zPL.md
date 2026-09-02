@@ -2,7 +2,7 @@
 title: "Director, Evaluations"
 employer: "LawZero"
 job_id: "rec3w2lRon2mY4zPL"
-last_updated: "2026-09-01T11:37:15.871913Z"
+last_updated: "2026-09-02T05:33:51.846290Z"
 posted_at: "2022-01-05T00:00:00Z"
 status: ready
 apply_url: "https://job-boards.greenhouse.io/lawzero/jobs/4252456009"
@@ -32,4 +32,4 @@ areas:
 <p class="apply-cta"><a href="https://job-boards.greenhouse.io/lawzero/jobs/4252456009">Apply →</a></p>
 
 ---
-*Posted 2022-01-05 · Listing synced 2026-09-01 · 80k job ID `rec3w2lRon2mY4zPL`*
+*Posted 2022-01-05 · Listing synced 2026-09-02 · 80k job ID `rec3w2lRon2mY4zPL`*

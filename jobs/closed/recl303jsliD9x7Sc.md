@@ -4,24 +4,20 @@ employer: "Leverhulme Trust"
 job_id: "recl303jsliD9x7Sc"
 last_updated: "2026-09-01T11:37:37.870336Z"
 posted_at: "2022-01-01T00:00:00Z"
-status: ready
+status: closed
+closed_at: "2026-09-02"
 apply_url: "https://www.leverhulme.ac.uk/research-project-grants"
 areas:
   - "Career development: Technical"
 ---
 
+> ⚠️ **CLOSED on 2026-09-02** — this job is no longer listed on the 80,000 Hours board. Archived snapshot below.
+
 # Research Project Grants
 
-**[Leverhulme Trust](https://www.leverhulme.ac.uk/)**
+**Leverhulme Trust**
 
-<dl class="job-meta">
-<dt>Location</dt><dd>UK</dd>
-<dt>Role type</dt><dd>Funding</dd>
-<dt>Experience</dt><dd>Multiple experience levels</dd>
-<dt>Degree</dt><dd>Undergraduate degree or less</dd>
-</dl>
-
-**Areas & skills:** Career development: Technical, Research
+**Areas & skills:** Career development: Technical
 
 ## Summary
 - For researchers based at universities, institutions of higher education or registered charities with university-equivalent research capacity, to undertake an innovative and original research project.

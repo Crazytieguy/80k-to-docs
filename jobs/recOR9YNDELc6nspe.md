@@ -2,7 +2,7 @@
 title: "Advisor, AI Global Policy and Advocacy"
 employer: "Gates Foundation"
 job_id: "recOR9YNDELc6nspe"
-last_updated: "2026-09-01T11:35:34.033771Z"
+last_updated: "2026-09-02T05:32:14.344260Z"
 posted_at: "2026-08-27T00:00:00Z"
 status: ready
 apply_url: "https://gatesfoundation.wd1.myworkdayjobs.com/en-US/Gates/job/Seattle-WA/Advisor--AI-Global-Policy---Advocacy_B021710-1"
@@ -34,4 +34,4 @@ areas:
 <p class="apply-cta"><a href="https://gatesfoundation.wd1.myworkdayjobs.com/en-US/Gates/job/Seattle-WA/Advisor--AI-Global-Policy---Advocacy_B021710-1">Apply →</a></p>
 
 ---
-*Posted 2026-08-27 · Listing synced 2026-09-01 · 80k job ID `recOR9YNDELc6nspe`*
+*Posted 2026-08-27 · Listing synced 2026-09-02 · 80k job ID `recOR9YNDELc6nspe`*

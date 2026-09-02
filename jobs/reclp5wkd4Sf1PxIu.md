@@ -2,7 +2,7 @@
 title: "SciTech Manager"
 employer: "The Good Food Institute"
 job_id: "reclp5wkd4Sf1PxIu"
-last_updated: "2026-09-01T11:36:53.595065Z"
+last_updated: "2026-09-02T05:33:30.351436Z"
 posted_at: "2022-01-07T00:00:00Z"
 status: ready
 apply_url: "https://gfi.org/resource/scitech-manager/"
@@ -19,7 +19,7 @@ areas:
 <dt>Role type</dt><dd>Full-time</dd>
 <dt>Experience</dt><dd>Mid (5-9 years experience)</dd>
 <dt>Degree</dt><dd>Master's degree</dd>
-<dt>Salary</dt><dd>$3,373 – $4,498</dd>
+<dt>Salary</dt><dd>$3,375 – $4,499</dd>
 </dl>
 
 **Areas & skills:** Animal welfare, Research, Strategy
@@ -34,4 +34,4 @@ areas:
 <p class="apply-cta"><a href="https://gfi.org/resource/scitech-manager/">Apply →</a></p>
 
 ---
-*Posted 2022-01-07 · Listing synced 2026-09-01 · 80k job ID `reclp5wkd4Sf1PxIu`*
+*Posted 2022-01-07 · Listing synced 2026-09-02 · 80k job ID `reclp5wkd4Sf1PxIu`*

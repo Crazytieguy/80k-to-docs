@@ -2,7 +2,7 @@
 title: "Student Assistant, Human-AI Collaboration for Cybersecurity"
 employer: "Technical University of Darmstadt, Science and Technology for Peace and Security"
 job_id: "recjciFUYA5TMWj0M"
-last_updated: "2026-09-01T11:35:50.530256Z"
+last_updated: "2026-09-02T05:32:29.795996Z"
 posted_at: "2026-08-19T00:00:00Z"
 status: ready
 apply_url: "https://peasec.de/2026/peasec-stellenangebot-haicc/"
@@ -33,4 +33,4 @@ areas:
 <p class="apply-cta"><a href="https://peasec.de/2026/peasec-stellenangebot-haicc/">Apply →</a></p>
 
 ---
-*Posted 2026-08-19 · Listing synced 2026-09-01 · 80k job ID `recjciFUYA5TMWj0M`*
+*Posted 2026-08-19 · Listing synced 2026-09-02 · 80k job ID `recjciFUYA5TMWj0M`*

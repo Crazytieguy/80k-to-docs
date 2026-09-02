@@ -4,24 +4,20 @@ employer: "Aspen Institute"
 job_id: "recp5FEy1xakTGkSF"
 last_updated: "2026-09-01T11:36:18.912047Z"
 posted_at: "2026-07-27T00:00:00Z"
-status: ready
+status: closed
+closed_at: "2026-09-02"
 apply_url: "https://aspenpolicyacademy.org/program/ai-civic-action-accelerator/"
 areas:
   - "Career development: Policy & government"
 ---
 
+> ⚠️ **CLOSED on 2026-09-02** — this job is no longer listed on the 80,000 Hours board. Archived snapshot below.
+
 # AI Civic Action Accelerator
 
-**[Aspen Institute](https://www.aspeninstitute.org/)**
+**Aspen Institute**
 
-<dl class="job-meta">
-<dt>Location</dt><dd>Remote, Global</dd>
-<dt>Role type</dt><dd>Course</dd>
-<dt>Experience</dt><dd>Entry-level</dd>
-<dt>Degree</dt><dd>Undergraduate degree or less</dd>
-</dl>
-
-**Areas & skills:** Career development: Policy & government, Policy
+**Areas & skills:** Career development: Policy & government
 
 ## Summary
 - This course helps individuals and teams develop policy solutions to AI civic challenges.

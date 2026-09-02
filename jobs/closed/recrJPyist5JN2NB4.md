@@ -4,25 +4,20 @@ employer: "SecureBio"
 job_id: "recrJPyist5JN2NB4"
 last_updated: "2026-09-01T11:36:17.087270Z"
 posted_at: "2026-07-29T00:00:00Z"
-status: ready
+status: closed
+closed_at: "2026-09-02"
 apply_url: "https://securebio.org/careers/2026-operations-associate-specialist"
 areas:
   - "Biosecurity & pandemic preparedness"
 ---
 
+> ⚠️ **CLOSED on 2026-09-02** — this job is no longer listed on the 80,000 Hours board. Archived snapshot below.
+
 # Operations Associate / Specialist
 
-**[SecureBio](https://securebio.org/)**
+**SecureBio**
 
-<dl class="job-meta">
-<dt>Location</dt><dd>Boston metro area, USA</dd>
-<dt>Role type</dt><dd>Full-time</dd>
-<dt>Experience</dt><dd>Junior (1-4 years experience)</dd>
-<dt>Degree</dt><dd>Undergraduate degree or less</dd>
-<dt>Salary</dt><dd>$80,000 – $110,000</dd>
-</dl>
-
-**Areas & skills:** Biosecurity & pandemic preparedness, Operations
+**Areas & skills:** Biosecurity & pandemic preparedness
 
 ## Summary
 - In this role, you'll ensure SecureBio's office runs flawlessly, supporting staff and enabling scientific teams to thrive.

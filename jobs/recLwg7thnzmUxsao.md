@@ -2,7 +2,7 @@
 title: "Volunteer, AI Safety Quest"
 employer: "AI Safety Quest"
 job_id: "recLwg7thnzmUxsao"
-last_updated: "2026-09-01T11:36:20.495419Z"
+last_updated: "2026-09-02T05:32:58.258474Z"
 posted_at: "2026-07-24T00:00:00Z"
 status: ready
 apply_url: "https://aisafety.quest/#volunteer"
@@ -32,4 +32,4 @@ areas:
 <p class="apply-cta"><a href="https://aisafety.quest/#volunteer">Apply →</a></p>
 
 ---
-*Posted 2026-07-24 · Listing synced 2026-09-01 · 80k job ID `recLwg7thnzmUxsao`*
+*Posted 2026-07-24 · Listing synced 2026-09-02 · 80k job ID `recLwg7thnzmUxsao`*

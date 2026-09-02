@@ -2,7 +2,7 @@
 title: "Member of Technical Staff, Cyberforensics"
 employer: "Model Evaluation and Threat Research"
 job_id: "recU3ZaVNGY2hO3fu"
-last_updated: "2026-09-01T11:35:24.362277Z"
+last_updated: "2026-09-02T05:32:03.108478Z"
 posted_at: "2026-08-31T00:05:00Z"
 status: ready
 apply_url: "https://jobs.lever.co/metr/b1a2f73f-f927-4f8b-b1b3-b2e57604b5fd"
@@ -34,4 +34,4 @@ areas:
 <p class="apply-cta"><a href="https://jobs.lever.co/metr/b1a2f73f-f927-4f8b-b1b3-b2e57604b5fd">Apply →</a></p>
 
 ---
-*Posted 2026-08-31 · Listing synced 2026-09-01 · 80k job ID `recU3ZaVNGY2hO3fu`*
+*Posted 2026-08-31 · Listing synced 2026-09-02 · 80k job ID `recU3ZaVNGY2hO3fu`*

@@ -2,7 +2,7 @@
 title: "Senior AI Fellow, California Department of Technology"
 employer: "California Council on Science and Technology"
 job_id: "recykCTWyWSPKa1Pv"
-last_updated: "2026-09-01T11:36:04.938603Z"
+last_updated: "2026-09-02T05:32:44.174956Z"
 posted_at: "2026-08-06T00:04:00Z"
 status: ready
 apply_url: "https://ccst.us/senior-ai-fellow-cdt/"
@@ -35,4 +35,4 @@ areas:
 <p class="apply-cta"><a href="https://ccst.us/senior-ai-fellow-cdt/">Apply →</a></p>
 
 ---
-*Posted 2026-08-06 · Listing synced 2026-09-01 · 80k job ID `recykCTWyWSPKa1Pv`*
+*Posted 2026-08-06 · Listing synced 2026-09-02 · 80k job ID `recykCTWyWSPKa1Pv`*

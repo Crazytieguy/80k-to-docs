@@ -2,7 +2,7 @@
 title: "Community Manager, Amsterdam"
 employer: "Safe AI Netherlands"
 job_id: "recoTEhMXxlptq9Oy"
-last_updated: "2026-09-01T11:35:23.298077Z"
+last_updated: "2026-09-02T05:32:02.602081Z"
 posted_at: "2026-09-01T00:00:00Z"
 status: ready
 apply_url: "https://safeainetherlands.org/open-positions#national:~:text=Community-,Community%20Manager,-4%20to%206"
@@ -16,9 +16,10 @@ areas:
 
 <dl class="job-meta">
 <dt>Location</dt><dd>Amsterdam, Netherlands, Netherlands, Europe (ex UK)</dd>
-<dt>Role type</dt><dd>Volunteering</dd>
+<dt>Role type</dt><dd>Part-time</dd>
 <dt>Experience</dt><dd>Entry-level</dd>
 <dt>Degree</dt><dd>Undergraduate degree or less</dd>
+<dt>Salary</dt><dd>$42,840</dd>
 </dl>
 
 **Areas & skills:** AI safety & policy, Communications
@@ -33,4 +34,4 @@ areas:
 <p class="apply-cta"><a href="https://safeainetherlands.org/open-positions#national:~:text=Community-,Community%20Manager,-4%20to%206">Apply →</a></p>
 
 ---
-*Posted 2026-09-01 · Listing synced 2026-09-01 · 80k job ID `recoTEhMXxlptq9Oy`*
+*Posted 2026-09-01 · Listing synced 2026-09-02 · 80k job ID `recoTEhMXxlptq9Oy`*

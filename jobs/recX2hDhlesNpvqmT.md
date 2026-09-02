@@ -2,7 +2,7 @@
 title: "Policy Advisor"
 employer: "Machine Intelligence Research Institute"
 job_id: "recX2hDhlesNpvqmT"
-last_updated: "2026-09-01T11:35:43.102730Z"
+last_updated: "2026-09-02T05:32:22.740073Z"
 posted_at: "2026-08-24T00:05:00Z"
 status: ready
 apply_url: "https://jobs.ashbyhq.com/miri/5d13ba07-8fbf-4f46-aa1b-9000a7d1dc3f"
@@ -34,4 +34,4 @@ areas:
 <p class="apply-cta"><a href="https://jobs.ashbyhq.com/miri/5d13ba07-8fbf-4f46-aa1b-9000a7d1dc3f">Apply →</a></p>
 
 ---
-*Posted 2026-08-24 · Listing synced 2026-09-01 · 80k job ID `recX2hDhlesNpvqmT`*
+*Posted 2026-08-24 · Listing synced 2026-09-02 · 80k job ID `recX2hDhlesNpvqmT`*

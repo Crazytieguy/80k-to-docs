@@ -2,7 +2,7 @@
 title: "Principal, Project Development"
 employer: "Future of Life Foundation"
 job_id: "recosDNEoSwaQUjB5"
-last_updated: "2026-09-01T11:37:36.930130Z"
+last_updated: "2026-09-02T05:34:14.096382Z"
 posted_at: "2022-01-01T00:00:00Z"
 status: ready
 apply_url: "https://jobs.lever.co/futureof-life/54fec5a1-6598-4d9f-b8a4-4b7cea1b5a2e"
@@ -34,4 +34,4 @@ areas:
 <p class="apply-cta"><a href="https://jobs.lever.co/futureof-life/54fec5a1-6598-4d9f-b8a4-4b7cea1b5a2e">Apply →</a></p>
 
 ---
-*Posted 2022-01-01 · Listing synced 2026-09-01 · 80k job ID `recosDNEoSwaQUjB5`*
+*Posted 2022-01-01 · Listing synced 2026-09-02 · 80k job ID `recosDNEoSwaQUjB5`*

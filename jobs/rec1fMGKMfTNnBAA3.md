@@ -2,7 +2,7 @@
 title: "Senior Supply Chain Lead"
 employer: "Coalition for Epidemic Preparedness Innovations"
 job_id: "rec1fMGKMfTNnBAA3"
-last_updated: "2026-09-01T11:35:16.177728Z"
+last_updated: "2026-09-02T05:32:00.574484Z"
 posted_at: "2026-09-01T00:00:00Z"
 status: ready
 apply_url: "https://cepi.my.salesforce-sites.com/careers/xcdrecruit__PositionDetails?id=a43P300000HWTwLIAX"
@@ -16,6 +16,7 @@ areas:
 
 <dl class="job-meta">
 <dt>Location</dt><dd>London, UK, Washington, DC metro area, UK, USA</dd>
+<dt>Role type</dt><dd>Full-time</dd>
 <dt>Experience</dt><dd>Mid (5-9 years experience), Senior (10+ years experience)</dd>
 <dt>Degree</dt><dd>Master's degree</dd>
 </dl>
@@ -32,4 +33,4 @@ areas:
 <p class="apply-cta"><a href="https://cepi.my.salesforce-sites.com/careers/xcdrecruit__PositionDetails?id=a43P300000HWTwLIAX">Apply →</a></p>
 
 ---
-*Posted 2026-09-01 · Listing synced 2026-09-01 · 80k job ID `rec1fMGKMfTNnBAA3`*
+*Posted 2026-09-01 · Listing synced 2026-09-02 · 80k job ID `rec1fMGKMfTNnBAA3`*

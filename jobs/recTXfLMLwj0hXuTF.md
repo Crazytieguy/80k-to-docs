@@ -2,8 +2,8 @@
 title: "Business Operations Associate / Senior Business Operations Associate"
 employer: "FAR AI"
 job_id: "recTXfLMLwj0hXuTF"
-last_updated: "2026-09-01T11:36:35.612336Z"
-posted_at: "2026-06-24T00:04:17Z"
+last_updated: "2026-09-02T05:32:00.901402Z"
+posted_at: "2026-09-01T00:00:00Z"
 status: ready
 apply_url: "https://jobs.ashbyhq.com/far.ai/64c0e905-ac58-4584-b89d-94706dd4cc36?embed=js"
 areas:
@@ -19,7 +19,7 @@ areas:
 <dt>Role type</dt><dd>Full-time</dd>
 <dt>Experience</dt><dd>Junior (1-4 years experience)</dd>
 <dt>Degree</dt><dd>Undergraduate degree or less</dd>
-<dt>Salary</dt><dd>$80,000 – $100,000</dd>
+<dt>Salary</dt><dd>$90,000 – $125,000</dd>
 </dl>
 
 **Areas & skills:** AI safety & policy, Operations, Finance
@@ -34,4 +34,4 @@ areas:
 <p class="apply-cta"><a href="https://jobs.ashbyhq.com/far.ai/64c0e905-ac58-4584-b89d-94706dd4cc36?embed=js">Apply →</a></p>
 
 ---
-*Posted 2026-06-24 · Listing synced 2026-09-01 · 80k job ID `recTXfLMLwj0hXuTF`*
+*Posted 2026-09-01 · Listing synced 2026-09-02 · 80k job ID `recTXfLMLwj0hXuTF`*

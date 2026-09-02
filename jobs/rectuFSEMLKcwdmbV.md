@@ -2,7 +2,7 @@
 title: "Policy Advisor"
 employer: "Control AI"
 job_id: "rectuFSEMLKcwdmbV"
-last_updated: "2026-09-01T11:35:54.416971Z"
+last_updated: "2026-09-02T05:32:33.784711Z"
 posted_at: "2026-08-17T00:00:00Z"
 status: ready
 apply_url: "https://jobs.eu.lever.co/controlai/f1906abe-2940-4949-a6a3-151d43b954a6"
@@ -33,4 +33,4 @@ areas:
 <p class="apply-cta"><a href="https://jobs.eu.lever.co/controlai/f1906abe-2940-4949-a6a3-151d43b954a6">Apply →</a></p>
 
 ---
-*Posted 2026-08-17 · Listing synced 2026-09-01 · 80k job ID `rectuFSEMLKcwdmbV`*
+*Posted 2026-08-17 · Listing synced 2026-09-02 · 80k job ID `rectuFSEMLKcwdmbV`*

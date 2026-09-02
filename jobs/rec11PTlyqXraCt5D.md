@@ -2,7 +2,7 @@
 title: "Governance Manager, Frontier AI Safety and Policy"
 employer: "Google DeepMind"
 job_id: "rec11PTlyqXraCt5D"
-last_updated: "2026-09-01T11:35:53.018101Z"
+last_updated: "2026-09-02T05:32:32.427287Z"
 posted_at: "2026-08-18T00:00:00Z"
 status: ready
 apply_url: "https://www.google.com/about/careers/applications/jobs/results/126071026034320070-governance-manager-frontier-ai-safety-and-policy-deepmind?company=DeepMind&page=2"
@@ -34,4 +34,4 @@ areas:
 <p class="apply-cta"><a href="https://www.google.com/about/careers/applications/jobs/results/126071026034320070-governance-manager-frontier-ai-safety-and-policy-deepmind?company=DeepMind&amp;page=2">Apply →</a></p>
 
 ---
-*Posted 2026-08-18 · Listing synced 2026-09-01 · 80k job ID `rec11PTlyqXraCt5D`*
+*Posted 2026-08-18 · Listing synced 2026-09-02 · 80k job ID `rec11PTlyqXraCt5D`*

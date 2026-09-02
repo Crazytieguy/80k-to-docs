@@ -2,8 +2,8 @@
 title: "Senior Director, Contracts, US Government"
 employer: "Perimeter"
 job_id: "recIQiFwH87sAKkkt"
-last_updated: "2026-09-01T11:35:21.198968Z"
-posted_at: "2026-09-01T00:00:00Z"
+last_updated: "2026-09-02T05:31:59.957099Z"
+posted_at: "2026-09-01T00:01:00Z"
 status: ready
 apply_url: "https://www.linkedin.com/jobs/view/4461221497/?alternateChannel=search&refId=SlayyTrBWzKE94pQBaVrFQ%3D%3D&trackingId=CEhLqBoEM%2F0DeCS8KjLWFw%3D%3D"
 areas:
@@ -16,6 +16,7 @@ areas:
 
 <dl class="job-meta">
 <dt>Location</dt><dd>Boston metro area, USA</dd>
+<dt>Role type</dt><dd>Full-time</dd>
 <dt>Experience</dt><dd>Senior (10+ years experience)</dd>
 <dt>Degree</dt><dd>Undergraduate degree or less</dd>
 </dl>
@@ -32,4 +33,4 @@ areas:
 <p class="apply-cta"><a href="https://www.linkedin.com/jobs/view/4461221497/?alternateChannel=search&amp;refId=SlayyTrBWzKE94pQBaVrFQ%3D%3D&amp;trackingId=CEhLqBoEM%2F0DeCS8KjLWFw%3D%3D">Apply →</a></p>
 
 ---
-*Posted 2026-09-01 · Listing synced 2026-09-01 · 80k job ID `recIQiFwH87sAKkkt`*
+*Posted 2026-09-01 · Listing synced 2026-09-02 · 80k job ID `recIQiFwH87sAKkkt`*

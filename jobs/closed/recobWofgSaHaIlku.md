@@ -4,25 +4,20 @@ employer: "Collider"
 job_id: "recobWofgSaHaIlku"
 last_updated: "2026-09-01T11:35:44.403774Z"
 posted_at: "2026-08-24T00:00:00Z"
-status: ready
+status: closed
+closed_at: "2026-09-02"
 apply_url: "https://jobs.ashbyhq.com/collider/476bfda5-1ac9-4cba-a9f9-013cbe27f06f"
 areas:
   - "AI safety & policy"
 ---
 
+> ⚠️ **CLOSED on 2026-09-02** — this job is no longer listed on the 80,000 Hours board. Archived snapshot below.
+
 # Community and Events Associate
 
-**[Collider](https://collider.nyc/)**
+**Collider**
 
-<dl class="job-meta">
-<dt>Location</dt><dd>New York, NY, USA</dd>
-<dt>Role type</dt><dd>Full-time</dd>
-<dt>Experience</dt><dd>Junior (1-4 years experience)</dd>
-<dt>Degree</dt><dd>Undergraduate degree or less</dd>
-<dt>Salary</dt><dd>$60,000 – $80,000</dd>
-</dl>
-
-**Areas & skills:** AI safety & policy, Operations
+**Areas & skills:** AI safety & policy
 
 ## Summary
 - In this role, you'll manage day-to-day office operations, coordinate events, and build community for a mission-driven organization.

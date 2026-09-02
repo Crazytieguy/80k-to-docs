@@ -2,10 +2,10 @@
 title: "Laboratory Operations Assistant"
 employer: "SecureBio"
 job_id: "recbrUGauUBeIio1G"
-last_updated: "2026-09-01T11:35:46.936770Z"
+last_updated: "2026-09-02T05:32:26.265897Z"
 posted_at: "2026-08-20T00:04:20Z"
 status: ready
-apply_url: "https://securebio.org/careers/lab-ops-assistant/"
+apply_url: "https://securebio.org/careers/lab-ops-assistant"
 areas:
   - "Biosecurity & pandemic preparedness"
 ---
@@ -31,7 +31,7 @@ areas:
 - Keep lab spaces, benches, and storage areas clean, organized, stocked, and ready for use.
 - Handle hazardous waste per protocol and support basic reagent preparation and process improvements.
 
-<p class="apply-cta"><a href="https://securebio.org/careers/lab-ops-assistant/">Apply →</a></p>
+<p class="apply-cta"><a href="https://securebio.org/careers/lab-ops-assistant">Apply →</a></p>
 
 ---
-*Posted 2026-08-20 · Listing synced 2026-09-01 · 80k job ID `recbrUGauUBeIio1G`*
+*Posted 2026-08-20 · Listing synced 2026-09-02 · 80k job ID `recbrUGauUBeIio1G`*

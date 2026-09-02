@@ -2,7 +2,7 @@
 title: "Research Engineer, Evals"
 employer: "White Circle"
 job_id: "recK41hQk8CZJIiuS"
-last_updated: "2026-09-01T11:36:30.631834Z"
+last_updated: "2026-09-02T05:33:07.458129Z"
 posted_at: "2026-07-08T00:00:00Z"
 status: ready
 apply_url: "https://jobs.ashbyhq.com/whitecircle/07d24ec8-117f-4849-8dd5-2c2bc2cfbb40"
@@ -34,4 +34,4 @@ areas:
 <p class="apply-cta"><a href="https://jobs.ashbyhq.com/whitecircle/07d24ec8-117f-4849-8dd5-2c2bc2cfbb40">Apply →</a></p>
 
 ---
-*Posted 2026-07-08 · Listing synced 2026-09-01 · 80k job ID `recK41hQk8CZJIiuS`*
+*Posted 2026-07-08 · Listing synced 2026-09-02 · 80k job ID `recK41hQk8CZJIiuS`*

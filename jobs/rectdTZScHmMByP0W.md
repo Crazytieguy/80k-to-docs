@@ -2,7 +2,7 @@
 title: "Incubator Programme Lead"
 employer: "Talos Network"
 job_id: "rectdTZScHmMByP0W"
-last_updated: "2026-09-01T11:35:38.421939Z"
+last_updated: "2026-09-02T05:32:18.819547Z"
 posted_at: "2026-08-25T00:05:00Z"
 status: ready
 apply_url: "https://docs.google.com/document/d/1pUzCtuLMDZQGZD-3EfmkLGUB9p_rvvfxwft-3baXR_c/edit?tab=t.0"
@@ -19,7 +19,7 @@ areas:
 <dt>Role type</dt><dd>Full-time</dd>
 <dt>Experience</dt><dd>Mid (5-9 years experience), Senior (10+ years experience)</dd>
 <dt>Degree</dt><dd>Undergraduate degree or less</dd>
-<dt>Salary</dt><dd>$92,761 – $110,154</dd>
+<dt>Salary</dt><dd>$92,627 – $109,994</dd>
 </dl>
 
 **Areas & skills:** AI safety & policy, Strategy
@@ -34,4 +34,4 @@ areas:
 <p class="apply-cta"><a href="https://docs.google.com/document/d/1pUzCtuLMDZQGZD-3EfmkLGUB9p_rvvfxwft-3baXR_c/edit?tab=t.0">Apply →</a></p>
 
 ---
-*Posted 2026-08-25 · Listing synced 2026-09-01 · 80k job ID `rectdTZScHmMByP0W`*
+*Posted 2026-08-25 · Listing synced 2026-09-02 · 80k job ID `rectdTZScHmMByP0W`*

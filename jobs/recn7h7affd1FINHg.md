@@ -2,7 +2,7 @@
 title: "Engagement Manager"
 employer: "Good Impressions Media"
 job_id: "recn7h7affd1FINHg"
-last_updated: "2026-09-01T11:36:13.110894Z"
+last_updated: "2026-09-02T05:32:52.262250Z"
 posted_at: "2026-07-31T00:03:00Z"
 status: ready
 apply_url: "https://www.goodimpressionsmedia.com/jobs/engagement-manager"
@@ -34,4 +34,4 @@ areas:
 <p class="apply-cta"><a href="https://www.goodimpressionsmedia.com/jobs/engagement-manager">Apply →</a></p>
 
 ---
-*Posted 2026-07-31 · Listing synced 2026-09-01 · 80k job ID `recn7h7affd1FINHg`*
+*Posted 2026-07-31 · Listing synced 2026-09-02 · 80k job ID `recn7h7affd1FINHg`*

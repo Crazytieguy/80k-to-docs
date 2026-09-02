@@ -2,7 +2,7 @@
 title: "Head of Guidance and Preparedness"
 employer: "AI Whistleblower Initiative"
 job_id: "recvJEeA6l1zy6QwU"
-last_updated: "2026-09-01T11:35:29.467614Z"
+last_updated: "2026-09-02T05:32:07.925447Z"
 posted_at: "2026-08-28T00:03:00Z"
 status: ready
 apply_url: "https://join.com/companies/aiwiorg/16625151-head-of-guidance-and-preparedness"
@@ -34,4 +34,4 @@ areas:
 <p class="apply-cta"><a href="https://join.com/companies/aiwiorg/16625151-head-of-guidance-and-preparedness">Apply →</a></p>
 
 ---
-*Posted 2026-08-28 · Listing synced 2026-09-01 · 80k job ID `recvJEeA6l1zy6QwU`*
+*Posted 2026-08-28 · Listing synced 2026-09-02 · 80k job ID `recvJEeA6l1zy6QwU`*

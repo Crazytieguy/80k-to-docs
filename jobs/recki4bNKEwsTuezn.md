@@ -2,7 +2,7 @@
 title: "Research Fellow, AI Economy"
 employer: "Exponential View"
 job_id: "recki4bNKEwsTuezn"
-last_updated: "2026-09-01T11:35:30.233845Z"
+last_updated: "2026-09-02T05:32:08.689420Z"
 posted_at: "2026-08-28T00:00:00Z"
 status: ready
 apply_url: "https://www.exponentialview.co/p/ai-economy-research-fellowship-2026"
@@ -33,4 +33,4 @@ areas:
 <p class="apply-cta"><a href="https://www.exponentialview.co/p/ai-economy-research-fellowship-2026">Apply →</a></p>
 
 ---
-*Posted 2026-08-28 · Listing synced 2026-09-01 · 80k job ID `recki4bNKEwsTuezn`*
+*Posted 2026-08-28 · Listing synced 2026-09-02 · 80k job ID `recki4bNKEwsTuezn`*

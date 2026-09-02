@@ -2,7 +2,7 @@
 title: "Jobs and Opportunities in Nuclear Fusion Energy Development"
 employer: "US Fusion Energy"
 job_id: "recv0ReOVAJSLeXsg"
-last_updated: "2026-09-01T11:37:34.229147Z"
+last_updated: "2026-09-02T05:34:11.112196Z"
 posted_at: "2022-01-02T00:00:00Z"
 status: ready
 apply_url: "https://usfusionenergy.org/opportunities"
@@ -30,4 +30,4 @@ areas:
 <p class="apply-cta"><a href="https://usfusionenergy.org/opportunities">Apply →</a></p>
 
 ---
-*Posted 2022-01-02 · Listing synced 2026-09-01 · 80k job ID `recv0ReOVAJSLeXsg`*
+*Posted 2022-01-02 · Listing synced 2026-09-02 · 80k job ID `recv0ReOVAJSLeXsg`*

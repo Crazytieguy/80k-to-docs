@@ -2,7 +2,7 @@
 title: "Monitoring and Evaluation Coordinator"
 employer: "Ansh"
 job_id: "rectH6Pw1mslmqP01"
-last_updated: "2026-09-01T11:37:25.507662Z"
+last_updated: "2026-09-02T05:34:00.728538Z"
 posted_at: "2022-01-02T00:00:00Z"
 status: ready
 apply_url: "https://www.ansh.health/monitoring-and-evaluation-coordinator"
@@ -19,7 +19,7 @@ areas:
 <dt>Role type</dt><dd>Full-time</dd>
 <dt>Experience</dt><dd>Junior (1-4 years experience)</dd>
 <dt>Degree</dt><dd>Undergraduate degree or less</dd>
-<dt>Salary</dt><dd>$6,319</dd>
+<dt>Salary</dt><dd>$6,318</dd>
 </dl>
 
 **Areas & skills:** Global health & development, Operations
@@ -34,4 +34,4 @@ areas:
 <p class="apply-cta"><a href="https://www.ansh.health/monitoring-and-evaluation-coordinator">Apply →</a></p>
 
 ---
-*Posted 2022-01-02 · Listing synced 2026-09-01 · 80k job ID `rectH6Pw1mslmqP01`*
+*Posted 2022-01-02 · Listing synced 2026-09-02 · 80k job ID `rectH6Pw1mslmqP01`*

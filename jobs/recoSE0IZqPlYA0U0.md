@@ -2,7 +2,7 @@
 title: "Researcher, Critical Technologies"
 employer: "Global Public Policy Institute"
 job_id: "recoSE0IZqPlYA0U0"
-last_updated: "2026-09-01T11:35:47.779290Z"
+last_updated: "2026-09-02T05:32:27.104412Z"
 posted_at: "2026-08-20T00:00:00Z"
 status: ready
 apply_url: "https://gppi.net/2026/08/14/gppi-seeks-part-time-researcher-focusing-on-critical-technologies"
@@ -33,4 +33,4 @@ areas:
 <p class="apply-cta"><a href="https://gppi.net/2026/08/14/gppi-seeks-part-time-researcher-focusing-on-critical-technologies">Apply →</a></p>
 
 ---
-*Posted 2026-08-20 · Listing synced 2026-09-01 · 80k job ID `recoSE0IZqPlYA0U0`*
+*Posted 2026-08-20 · Listing synced 2026-09-02 · 80k job ID `recoSE0IZqPlYA0U0`*

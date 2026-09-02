@@ -2,7 +2,7 @@
 title: "Bioinformatics Apprentice"
 employer: "Gordian Biotechnology"
 job_id: "recx9cTs6ek3Bk0Xu"
-last_updated: "2026-09-01T11:35:37.066823Z"
+last_updated: "2026-09-02T05:32:17.458506Z"
 posted_at: "2026-08-26T00:00:00Z"
 status: ready
 apply_url: "https://ats.rippling.com/gordian-biotechnology/jobs/ea464752-941a-4f65-9977-31ec9cf872b5"
@@ -34,4 +34,4 @@ areas:
 <p class="apply-cta"><a href="https://ats.rippling.com/gordian-biotechnology/jobs/ea464752-941a-4f65-9977-31ec9cf872b5">Apply →</a></p>
 
 ---
-*Posted 2026-08-26 · Listing synced 2026-09-01 · 80k job ID `recx9cTs6ek3Bk0Xu`*
+*Posted 2026-08-26 · Listing synced 2026-09-02 · 80k job ID `recx9cTs6ek3Bk0Xu`*

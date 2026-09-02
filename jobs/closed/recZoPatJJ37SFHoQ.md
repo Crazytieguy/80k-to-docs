@@ -4,25 +4,20 @@ employer: "OpenAI"
 job_id: "recZoPatJJ37SFHoQ"
 last_updated: "2026-09-01T11:36:41.831047Z"
 posted_at: "2022-01-12T00:00:00Z"
-status: ready
+status: closed
+closed_at: "2026-09-02"
 apply_url: "https://openai.com/careers/security-researcher-agentic-ai-threats-san-francisco/"
 areas:
   - "AI safety & policy"
 ---
 
+> ⚠️ **CLOSED on 2026-09-02** — this job is no longer listed on the 80,000 Hours board. Archived snapshot below.
+
 # Security Researcher, Agentic AI Threats
 
-**[OpenAI](https://openai.com/)**
+**OpenAI**
 
-<dl class="job-meta">
-<dt>Location</dt><dd>San Francisco Bay Area, USA</dd>
-<dt>Role type</dt><dd>Full-time</dd>
-<dt>Experience</dt><dd>Junior (1-4 years experience)</dd>
-<dt>Degree</dt><dd>Undergraduate degree or less</dd>
-<dt>Salary</dt><dd>$293,000 – $405,000</dd>
-</dl>
-
-**Areas & skills:** AI safety & policy, Research, Information security
+**Areas & skills:** AI safety & policy
 
 ## Summary
 - In this role, you'll prepare OpenAI for security threats from advanced AI agents by identifying vulnerabilities and designing protective measures.

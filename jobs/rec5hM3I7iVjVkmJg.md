@@ -2,7 +2,7 @@
 title: "Fieldbuilder, Fellowships"
 employer: "SL5 Task Force"
 job_id: "rec5hM3I7iVjVkmJg"
-last_updated: "2026-09-01T11:35:52.485583Z"
+last_updated: "2026-09-02T05:32:31.892738Z"
 posted_at: "2026-08-18T00:01:00Z"
 status: ready
 apply_url: "https://jobs.ashbyhq.com/security-level-5/4477fd9b-094b-4aae-9d78-52264b99ca90?embed=js"
@@ -34,4 +34,4 @@ areas:
 <p class="apply-cta"><a href="https://jobs.ashbyhq.com/security-level-5/4477fd9b-094b-4aae-9d78-52264b99ca90?embed=js">Apply →</a></p>
 
 ---
-*Posted 2026-08-18 · Listing synced 2026-09-01 · 80k job ID `rec5hM3I7iVjVkmJg`*
+*Posted 2026-08-18 · Listing synced 2026-09-02 · 80k job ID `rec5hM3I7iVjVkmJg`*

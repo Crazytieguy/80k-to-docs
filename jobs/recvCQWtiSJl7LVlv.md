@@ -2,7 +2,7 @@
 title: "Content Creator"
 employer: "PauseAI"
 job_id: "recvCQWtiSJl7LVlv"
-last_updated: "2026-09-01T11:35:19.480037Z"
+last_updated: "2026-09-02T05:32:01.503455Z"
 posted_at: "2026-09-01T00:00:00Z"
 status: ready
 apply_url: "https://pauseai.uk/jobs"
@@ -16,6 +16,7 @@ areas:
 
 <dl class="job-meta">
 <dt>Location</dt><dd>London, UK, UK</dd>
+<dt>Role type</dt><dd>Full-time</dd>
 <dt>Experience</dt><dd>Junior (1-4 years experience)</dd>
 <dt>Degree</dt><dd>Undergraduate degree or less</dd>
 </dl>
@@ -29,4 +30,4 @@ areas:
 <p class="apply-cta"><a href="https://pauseai.uk/jobs">Apply →</a></p>
 
 ---
-*Posted 2026-09-01 · Listing synced 2026-09-01 · 80k job ID `recvCQWtiSJl7LVlv`*
+*Posted 2026-09-01 · Listing synced 2026-09-02 · 80k job ID `recvCQWtiSJl7LVlv`*

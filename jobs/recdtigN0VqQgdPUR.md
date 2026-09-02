@@ -2,7 +2,7 @@
 title: "Executive Assistant to Cameron Berg"
 employer: "Reciprocal Research"
 job_id: "recdtigN0VqQgdPUR"
-last_updated: "2026-09-01T11:35:30.995433Z"
+last_updated: "2026-09-02T05:32:09.678235Z"
 posted_at: "2026-08-28T00:00:00Z"
 status: ready
 apply_url: "https://docs.google.com/document/d/1kMl8KkL4AKG12395lpxUUrWkNpfPEp6xSkPazSy4Rcs/"
@@ -34,4 +34,4 @@ areas:
 <p class="apply-cta"><a href="https://docs.google.com/document/d/1kMl8KkL4AKG12395lpxUUrWkNpfPEp6xSkPazSy4Rcs/">Apply →</a></p>
 
 ---
-*Posted 2026-08-28 · Listing synced 2026-09-01 · 80k job ID `recdtigN0VqQgdPUR`*
+*Posted 2026-08-28 · Listing synced 2026-09-02 · 80k job ID `recdtigN0VqQgdPUR`*

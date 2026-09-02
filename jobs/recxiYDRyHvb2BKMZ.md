@@ -2,7 +2,7 @@
 title: "Chief of Staff to the CEO"
 employer: "Ark Philanthropy"
 job_id: "recxiYDRyHvb2BKMZ"
-last_updated: "2026-09-01T11:35:36.177311Z"
+last_updated: "2026-09-02T05:32:16.573771Z"
 posted_at: "2026-08-26T00:00:00Z"
 status: ready
 apply_url: "https://os.arkphil.org/careers/chief-of-staff"
@@ -34,4 +34,4 @@ areas:
 <p class="apply-cta"><a href="https://os.arkphil.org/careers/chief-of-staff">Apply →</a></p>
 
 ---
-*Posted 2026-08-26 · Listing synced 2026-09-01 · 80k job ID `recxiYDRyHvb2BKMZ`*
+*Posted 2026-08-26 · Listing synced 2026-09-02 · 80k job ID `recxiYDRyHvb2BKMZ`*

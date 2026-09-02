@@ -2,7 +2,7 @@
 title: "Director, Digital Organizing"
 employer: "The AI Policy Network"
 job_id: "rec2igvgaRUV9dFDt"
-last_updated: "2026-09-01T11:37:05.919661Z"
+last_updated: "2026-09-02T05:33:42.051503Z"
 posted_at: "2022-01-06T00:00:00Z"
 status: ready
 apply_url: "https://job-boards.greenhouse.io/aipn/jobs/4353544009"
@@ -34,4 +34,4 @@ areas:
 <p class="apply-cta"><a href="https://job-boards.greenhouse.io/aipn/jobs/4353544009">Apply →</a></p>
 
 ---
-*Posted 2022-01-06 · Listing synced 2026-09-01 · 80k job ID `rec2igvgaRUV9dFDt`*
+*Posted 2022-01-06 · Listing synced 2026-09-02 · 80k job ID `rec2igvgaRUV9dFDt`*

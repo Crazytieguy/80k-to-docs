@@ -2,7 +2,7 @@
 title: "Executive Assistant"
 employer: "The AI Policy Network"
 job_id: "recRpf0uqIflgdeeU"
-last_updated: "2026-09-01T11:36:08.698487Z"
+last_updated: "2026-09-02T05:32:47.916835Z"
 posted_at: "2026-08-04T00:02:00Z"
 status: ready
 apply_url: "https://job-boards.greenhouse.io/aipn/jobs/4353630009"
@@ -34,4 +34,4 @@ areas:
 <p class="apply-cta"><a href="https://job-boards.greenhouse.io/aipn/jobs/4353630009">Apply →</a></p>
 
 ---
-*Posted 2026-08-04 · Listing synced 2026-09-01 · 80k job ID `recRpf0uqIflgdeeU`*
+*Posted 2026-08-04 · Listing synced 2026-09-02 · 80k job ID `recRpf0uqIflgdeeU`*

@@ -2,7 +2,7 @@
 title: "Head of Communications"
 employer: "AIGS Canada"
 job_id: "rec9LAG1V2yoht7qh"
-last_updated: "2026-09-01T11:35:49.491063Z"
+last_updated: "2026-09-02T05:32:28.854623Z"
 posted_at: "2026-08-19T00:00:00Z"
 status: ready
 apply_url: "https://app.notion.com/p/Job-posting-Head-of-Communications-AIGS-Canada-c7ec4922651e4d3f9b3b8c5739a96afa"
@@ -33,4 +33,4 @@ areas:
 <p class="apply-cta"><a href="https://app.notion.com/p/Job-posting-Head-of-Communications-AIGS-Canada-c7ec4922651e4d3f9b3b8c5739a96afa">Apply →</a></p>
 
 ---
-*Posted 2026-08-19 · Listing synced 2026-09-01 · 80k job ID `rec9LAG1V2yoht7qh`*
+*Posted 2026-08-19 · Listing synced 2026-09-02 · 80k job ID `rec9LAG1V2yoht7qh`*

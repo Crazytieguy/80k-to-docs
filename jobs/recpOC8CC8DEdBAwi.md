@@ -2,7 +2,7 @@
 title: "Director, Government Affairs"
 employer: "The AI Policy Network"
 job_id: "recpOC8CC8DEdBAwi"
-last_updated: "2026-09-01T11:37:18.481581Z"
+last_updated: "2026-09-02T05:33:54.737274Z"
 posted_at: "2022-01-05T00:00:00Z"
 status: ready
 apply_url: "https://job-boards.greenhouse.io/aipn/jobs/4342935009"
@@ -34,4 +34,4 @@ areas:
 <p class="apply-cta"><a href="https://job-boards.greenhouse.io/aipn/jobs/4342935009">Apply →</a></p>
 
 ---
-*Posted 2022-01-05 · Listing synced 2026-09-01 · 80k job ID `recpOC8CC8DEdBAwi`*
+*Posted 2022-01-05 · Listing synced 2026-09-02 · 80k job ID `recpOC8CC8DEdBAwi`*

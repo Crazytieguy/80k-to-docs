@@ -2,7 +2,7 @@
 title: "Senior Talent Acquisition Partner"
 employer: "Founders Pledge"
 job_id: "recwnpLPdY4ugLJbu"
-last_updated: "2026-09-01T11:35:28.037958Z"
+last_updated: "2026-09-02T05:32:06.651492Z"
 posted_at: "2026-08-31T00:00:00Z"
 status: ready
 apply_url: "https://careers.founderspledge.com/jobs/8273705-senior-talent-acquisition-partner"
@@ -34,4 +34,4 @@ areas:
 <p class="apply-cta"><a href="https://careers.founderspledge.com/jobs/8273705-senior-talent-acquisition-partner">Apply →</a></p>
 
 ---
-*Posted 2026-08-31 · Listing synced 2026-09-01 · 80k job ID `recwnpLPdY4ugLJbu`*
+*Posted 2026-08-31 · Listing synced 2026-09-02 · 80k job ID `recwnpLPdY4ugLJbu`*

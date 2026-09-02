@@ -2,7 +2,7 @@
 title: "Program Coordinator, Global Health Policy"
 employer: "Center for Global Development"
 job_id: "recQBrsSbQUB2yjed"
-last_updated: "2026-09-01T11:35:15.676180Z"
+last_updated: "2026-09-02T05:32:00.438134Z"
 posted_at: "2026-09-01T00:00:00Z"
 status: ready
 apply_url: "https://centerforglobaldevelopment.applytojob.com/apply/sBsGpuClHL/Program-Coordinator-Global-Health-Policy"
@@ -16,9 +16,10 @@ areas:
 
 <dl class="job-meta">
 <dt>Location</dt><dd>London, UK, UK</dd>
+<dt>Role type</dt><dd>Full-time</dd>
 <dt>Experience</dt><dd>Junior (1-4 years experience)</dd>
 <dt>Degree</dt><dd>Undergraduate degree or less</dd>
-<dt>Salary</dt><dd>$44,070</dd>
+<dt>Salary</dt><dd>$43,945</dd>
 </dl>
 
 **Areas & skills:** Global health & development, Operations
@@ -32,4 +33,4 @@ areas:
 <p class="apply-cta"><a href="https://centerforglobaldevelopment.applytojob.com/apply/sBsGpuClHL/Program-Coordinator-Global-Health-Policy">Apply →</a></p>
 
 ---
-*Posted 2026-09-01 · Listing synced 2026-09-01 · 80k job ID `recQBrsSbQUB2yjed`*
+*Posted 2026-09-01 · Listing synced 2026-09-02 · 80k job ID `recQBrsSbQUB2yjed`*

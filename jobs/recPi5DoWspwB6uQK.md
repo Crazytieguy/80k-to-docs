@@ -2,7 +2,7 @@
 title: "QA Contractor"
 employer: "FutureSearch"
 job_id: "recPi5DoWspwB6uQK"
-last_updated: "2026-09-01T11:36:24.459372Z"
+last_updated: "2026-09-02T05:33:01.197912Z"
 posted_at: "2026-07-20T00:00:00Z"
 status: ready
 apply_url: "https://apply.workable.com/futuresearch/j/9B377DCE6D"
@@ -34,4 +34,4 @@ areas:
 <p class="apply-cta"><a href="https://apply.workable.com/futuresearch/j/9B377DCE6D">Apply →</a></p>
 
 ---
-*Posted 2026-07-20 · Listing synced 2026-09-01 · 80k job ID `recPi5DoWspwB6uQK`*
+*Posted 2026-07-20 · Listing synced 2026-09-02 · 80k job ID `recPi5DoWspwB6uQK`*

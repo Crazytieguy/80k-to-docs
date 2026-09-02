@@ -2,7 +2,7 @@
 title: "List of Top US Policy Master's Programmes"
 employer: "Various US Universities"
 job_id: "recia9Ivw5rzdn6hE"
-last_updated: "2026-09-01T11:35:48.695487Z"
+last_updated: "2026-09-02T05:32:28.062688Z"
 posted_at: "2026-08-20T00:00:00Z"
 status: ready
 apply_url: "https://airtable.com/shrC1Dswb9eIiTWzG/tbl2ljqBV2ztwdOSU"
@@ -32,4 +32,4 @@ areas:
 <p class="apply-cta"><a href="https://airtable.com/shrC1Dswb9eIiTWzG/tbl2ljqBV2ztwdOSU">Apply →</a></p>
 
 ---
-*Posted 2026-08-20 · Listing synced 2026-09-01 · 80k job ID `recia9Ivw5rzdn6hE`*
+*Posted 2026-08-20 · Listing synced 2026-09-02 · 80k job ID `recia9Ivw5rzdn6hE`*

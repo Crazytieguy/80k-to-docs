@@ -2,7 +2,7 @@
 title: "Operations Engineer"
 employer: "Amodo Design"
 job_id: "rec5z8XQjXBvdPAld"
-last_updated: "2026-09-01T11:37:24.370736Z"
+last_updated: "2026-09-02T05:33:59.778941Z"
 posted_at: "2022-01-02T00:00:00Z"
 status: ready
 apply_url: "https://amododesign.com/career/operations-engineer/"
@@ -19,7 +19,7 @@ areas:
 <dt>Role type</dt><dd>Full-time</dd>
 <dt>Experience</dt><dd>Junior (1-4 years experience)</dd>
 <dt>Degree</dt><dd>Undergraduate degree or less</dd>
-<dt>Salary</dt><dd>$51,449 – $67,696</dd>
+<dt>Salary</dt><dd>$51,303 – $67,504</dd>
 </dl>
 
 **Areas & skills:** Career development: Technical, Operations, Software engineering
@@ -34,4 +34,4 @@ areas:
 <p class="apply-cta"><a href="https://amododesign.com/career/operations-engineer/">Apply →</a></p>
 
 ---
-*Posted 2022-01-02 · Listing synced 2026-09-01 · 80k job ID `rec5z8XQjXBvdPAld`*
+*Posted 2022-01-02 · Listing synced 2026-09-02 · 80k job ID `rec5z8XQjXBvdPAld`*

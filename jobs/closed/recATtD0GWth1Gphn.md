@@ -4,24 +4,20 @@ employer: "Intel"
 job_id: "recATtD0GWth1Gphn"
 last_updated: "2026-09-01T11:35:46.202684Z"
 posted_at: "2026-08-21T00:00:00Z"
-status: ready
+status: closed
+closed_at: "2026-09-02"
 apply_url: "https://www.linkedin.com/jobs/view/4454753540/?alternateChannel=search&eBP=NON_CHARGEABLE_CHANNEL&trk=d_flagship3_search_srp_jobs&refId=v4ESAlq5GT3fXbZ4m1HG%2BA%3D%3D&trackingId=WEsh5VilillKEgTmt%2F2WuA%3D%3D"
 areas:
   - "Career development: Technical"
 ---
 
+> ⚠️ **CLOSED on 2026-09-02** — this job is no longer listed on the 80,000 Hours board. Archived snapshot below.
+
 # Security Software Development Student
 
-**[Intel](https://www.intel.com)**
+**Intel**
 
-<dl class="job-meta">
-<dt>Location</dt><dd>Haifa, Israel, Middle-East, Israel</dd>
-<dt>Role type</dt><dd>Full-time</dd>
-<dt>Experience</dt><dd>Entry-level</dd>
-<dt>Degree</dt><dd>Undergraduate degree or less</dd>
-</dl>
-
-**Areas & skills:** Career development: Technical, Software engineering, Information security
+**Areas & skills:** Career development: Technical
 
 ## Summary
 - In this role, you'll develop and run validation tests for software and security components critical to Intel platforms.
