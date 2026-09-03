@@ -2,7 +2,7 @@
 title: "Policy Expert, AI in Europe"
 employer: "The School for Moral Ambition"
 job_id: "recHvO1n3RvKWE062"
-last_updated: "2026-09-02T05:32:00.088542Z"
+last_updated: "2026-09-03T10:31:03.331688Z"
 posted_at: "2026-09-01T00:01:00Z"
 status: ready
 apply_url: "https://www.moralambition.org/jobs/policy-expert-ai-in-europe"
@@ -19,7 +19,7 @@ areas:
 <dt>Role type</dt><dd>Full-time</dd>
 <dt>Experience</dt><dd>Mid (5-9 years experience)</dd>
 <dt>Degree</dt><dd>Undergraduate degree or less</dd>
-<dt>Salary</dt><dd>$76,880 – $86,838</dd>
+<dt>Salary</dt><dd>$77,037 – $87,015</dd>
 </dl>
 
 **Areas & skills:** AI safety & policy, Policy, Communications
@@ -34,4 +34,4 @@ areas:
 <p class="apply-cta"><a href="https://www.moralambition.org/jobs/policy-expert-ai-in-europe">Apply →</a></p>
 
 ---
-*Posted 2026-09-01 · Listing synced 2026-09-02 · 80k job ID `recHvO1n3RvKWE062`*
+*Posted 2026-09-01 · Listing synced 2026-09-03 · 80k job ID `recHvO1n3RvKWE062`*

@@ -2,10 +2,10 @@
 title: "Infrastructure Lead"
 employer: "Intelligence Security Laboratories"
 job_id: "recVS0fSGuoIyJnZK"
-last_updated: "2026-09-02T05:32:27.779719Z"
+last_updated: "2026-09-03T10:31:28.092157Z"
 posted_at: "2026-08-20T00:00:00Z"
 status: ready
-apply_url: "https://intseclab.org/careers/"
+apply_url: "https://jobs.ashbyhq.com/Intelligence-Security-Laboratories/f63156d6-17dd-4da0-b53a-461d5cd679c8?embed=js"
 areas:
   - "AI safety & policy"
 ---
@@ -31,7 +31,7 @@ areas:
 - Plan, design, and deploy complex networks including custom LAN and VPN configurations.
 - Deploy and monitor various services to be used by employees and associates.
 
-<p class="apply-cta"><a href="https://intseclab.org/careers/">Apply →</a></p>
+<p class="apply-cta"><a href="https://jobs.ashbyhq.com/Intelligence-Security-Laboratories/f63156d6-17dd-4da0-b53a-461d5cd679c8?embed=js">Apply →</a></p>
 
 ---
-*Posted 2026-08-20 · Listing synced 2026-09-02 · 80k job ID `recVS0fSGuoIyJnZK`*
+*Posted 2026-08-20 · Listing synced 2026-09-03 · 80k job ID `recVS0fSGuoIyJnZK`*

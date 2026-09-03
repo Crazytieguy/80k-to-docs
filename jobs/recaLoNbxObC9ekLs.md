@@ -2,7 +2,7 @@
 title: "Program Associate"
 employer: "Perimeter"
 job_id: "recaLoNbxObC9ekLs"
-last_updated: "2026-09-02T05:32:16.298663Z"
+last_updated: "2026-09-03T10:31:17.302233Z"
 posted_at: "2026-08-26T00:01:00Z"
 status: ready
 apply_url: "https://www.linkedin.com/jobs/view/4458289760/?alternateChannel=search&refId=zbgz0yNkWs0%2Fz2SUfDNW8w%3D%3D&trackingId=nA8pP4FeRDjp%2FNFoQi2gug%3D%3D"
@@ -33,4 +33,4 @@ areas:
 <p class="apply-cta"><a href="https://www.linkedin.com/jobs/view/4458289760/?alternateChannel=search&amp;refId=zbgz0yNkWs0%2Fz2SUfDNW8w%3D%3D&amp;trackingId=nA8pP4FeRDjp%2FNFoQi2gug%3D%3D">Apply →</a></p>
 
 ---
-*Posted 2026-08-26 · Listing synced 2026-09-02 · 80k job ID `recaLoNbxObC9ekLs`*
+*Posted 2026-08-26 · Listing synced 2026-09-03 · 80k job ID `recaLoNbxObC9ekLs`*

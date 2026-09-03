@@ -4,25 +4,20 @@ employer: "Apollo Research"
 job_id: "recBP2mpg5hnGCLS7"
 last_updated: "2026-09-02T05:33:12.761741Z"
 posted_at: "2026-06-22T00:05:00Z"
-status: ready
+status: closed
+closed_at: "2026-09-03"
 apply_url: "https://jobs.lever.co/apolloresearch/dacbf91a-7944-4283-9bce-492e22f15498"
 areas:
   - "AI safety & policy"
 ---
 
+> ⚠️ **CLOSED on 2026-09-03** — this job is no longer listed on the 80,000 Hours board. Archived snapshot below.
+
 # AI Security and Control Engineer
 
-**[Apollo Research](https://www.apolloresearch.ai/)**
+**Apollo Research**
 
-<dl class="job-meta">
-<dt>Location</dt><dd>London, UK, San Francisco Bay Area, UK, USA, USA (Confirmed Visas), UK (Confirmed Visas)</dd>
-<dt>Role type</dt><dd>Full-time</dd>
-<dt>Experience</dt><dd>Junior (1-4 years experience), Mid (5-9 years experience)</dd>
-<dt>Degree</dt><dd>Undergraduate degree or less</dd>
-<dt>Salary</dt><dd>$182,260 – $270,015</dd>
-</dl>
-
-**Areas & skills:** AI safety & policy, Information security
+**Areas & skills:** AI safety & policy
 
 ## Summary
 - In this role, you'll design threat models and controls for AI coding agents, balancing research, product expertise, and infrastructure security.

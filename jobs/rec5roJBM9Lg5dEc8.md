@@ -2,7 +2,7 @@
 title: "Junior Associate"
 employer: "The AI Policy Network"
 job_id: "rec5roJBM9Lg5dEc8"
-last_updated: "2026-09-02T05:33:41.930805Z"
+last_updated: "2026-09-03T10:32:37.687078Z"
 posted_at: "2022-01-06T00:00:00Z"
 status: ready
 apply_url: "https://job-boards.greenhouse.io/aipn/jobs/4356962009"
@@ -34,4 +34,4 @@ areas:
 <p class="apply-cta"><a href="https://job-boards.greenhouse.io/aipn/jobs/4356962009">Apply →</a></p>
 
 ---
-*Posted 2022-01-06 · Listing synced 2026-09-02 · 80k job ID `rec5roJBM9Lg5dEc8`*
+*Posted 2022-01-06 · Listing synced 2026-09-03 · 80k job ID `rec5roJBM9Lg5dEc8`*

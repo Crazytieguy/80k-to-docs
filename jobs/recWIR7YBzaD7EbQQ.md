@@ -2,7 +2,7 @@
 title: "Machine Learning Engineer"
 employer: "SL5 Task Force"
 job_id: "recWIR7YBzaD7EbQQ"
-last_updated: "2026-09-02T05:32:31.198335Z"
+last_updated: "2026-09-03T10:31:31.594425Z"
 posted_at: "2026-08-18T00:01:00Z"
 status: ready
 apply_url: "https://jobs.ashbyhq.com/security-level-5/83b954de-b6f7-46b5-b41d-50edae3e7b46?embed=js"
@@ -34,4 +34,4 @@ areas:
 <p class="apply-cta"><a href="https://jobs.ashbyhq.com/security-level-5/83b954de-b6f7-46b5-b41d-50edae3e7b46?embed=js">Apply →</a></p>
 
 ---
-*Posted 2026-08-18 · Listing synced 2026-09-02 · 80k job ID `recWIR7YBzaD7EbQQ`*
+*Posted 2026-08-18 · Listing synced 2026-09-03 · 80k job ID `recWIR7YBzaD7EbQQ`*

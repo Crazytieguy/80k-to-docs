@@ -2,7 +2,7 @@
 title: "Short Industry Fellowships"
 employer: "The Royal Society"
 job_id: "recpmrjD9WqxK67z1"
-last_updated: "2026-09-02T05:32:32.876184Z"
+last_updated: "2026-09-03T10:31:33.701101Z"
 posted_at: "2026-08-18T00:00:00Z"
 status: ready
 apply_url: "https://royalsociety.org/grants-schemes-awards/grants/short-industry-fellowship/"
@@ -33,4 +33,4 @@ areas:
 <p class="apply-cta"><a href="https://royalsociety.org/grants-schemes-awards/grants/short-industry-fellowship/">Apply →</a></p>
 
 ---
-*Posted 2026-08-18 · Listing synced 2026-09-02 · 80k job ID `recpmrjD9WqxK67z1`*
+*Posted 2026-08-18 · Listing synced 2026-09-03 · 80k job ID `recpmrjD9WqxK67z1`*

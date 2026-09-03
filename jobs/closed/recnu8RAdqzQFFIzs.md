@@ -4,25 +4,20 @@ employer: "MITRE"
 job_id: "recnu8RAdqzQFFIzs"
 last_updated: "2026-09-02T05:32:55.784200Z"
 posted_at: "2026-07-29T00:00:00Z"
-status: ready
+status: closed
+closed_at: "2026-09-03"
 apply_url: "https://careers.mitre.org/us/en/job/R117088/C-WMD-Assessor"
 areas:
   - "Biosecurity & pandemic preparedness"
 ---
 
+> ⚠️ **CLOSED on 2026-09-03** — this job is no longer listed on the 80,000 Hours board. Archived snapshot below.
+
 # C-WMD Assessor, Early-Career
 
-**[MITRE](https://www.mitre.org/)**
+**MITRE**
 
-<dl class="job-meta">
-<dt>Location</dt><dd>Washington, DC metro area, USA</dd>
-<dt>Role type</dt><dd>Full-time</dd>
-<dt>Experience</dt><dd>Junior (1-4 years experience), Entry-level</dd>
-<dt>Degree</dt><dd>Undergraduate degree or less</dd>
-<dt>Salary</dt><dd>$92,800 – $139,200</dd>
-</dl>
-
-**Areas & skills:** Biosecurity & pandemic preparedness, Research, Policy
+**Areas & skills:** Biosecurity & pandemic preparedness
 
 ## Summary
 - In this role, you'll conduct independent assessments of nonproliferation capacity-building programs supporting national security and treaty compliance.

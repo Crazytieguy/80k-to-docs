@@ -2,7 +2,7 @@
 title: "Headhunting Associate / Specialist"
 employer: "80,000 Hours"
 job_id: "recSKQVWqFGUYcsbp"
-last_updated: "2026-09-02T05:32:51.164755Z"
+last_updated: "2026-09-03T10:31:50.950797Z"
 posted_at: "2026-07-31T00:05:00Z"
 status: ready
 apply_url: "https://jobs.ashbyhq.com/80000hours/7082c79b-193a-4a1e-970b-f956a579c11e"
@@ -19,7 +19,7 @@ areas:
 <dt>Role type</dt><dd>Full-time</dd>
 <dt>Experience</dt><dd>Multiple experience levels</dd>
 <dt>Degree</dt><dd>Undergraduate degree or less</dd>
-<dt>Salary</dt><dd>$97,205 – $147,158</dd>
+<dt>Salary</dt><dd>$97,148 – $147,071</dd>
 </dl>
 
 **Areas & skills:** AI safety & policy, Strategy
@@ -34,4 +34,4 @@ areas:
 <p class="apply-cta"><a href="https://jobs.ashbyhq.com/80000hours/7082c79b-193a-4a1e-970b-f956a579c11e">Apply →</a></p>
 
 ---
-*Posted 2026-07-31 · Listing synced 2026-09-02 · 80k job ID `recSKQVWqFGUYcsbp`*
+*Posted 2026-07-31 · Listing synced 2026-09-03 · 80k job ID `recSKQVWqFGUYcsbp`*

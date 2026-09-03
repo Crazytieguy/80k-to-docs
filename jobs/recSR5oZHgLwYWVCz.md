@@ -2,7 +2,7 @@
 title: "Member of Technical Staff, Applied Computational Biology"
 employer: "Valthos"
 job_id: "recSR5oZHgLwYWVCz"
-last_updated: "2026-09-02T05:32:54.079578Z"
+last_updated: "2026-09-03T10:31:53.694247Z"
 posted_at: "2026-07-30T00:01:00Z"
 status: ready
 apply_url: "https://jobs.ashbyhq.com/valthos/b377b52d-ffc9-447b-b472-e800ea022555"
@@ -34,4 +34,4 @@ areas:
 <p class="apply-cta"><a href="https://jobs.ashbyhq.com/valthos/b377b52d-ffc9-447b-b472-e800ea022555">Apply →</a></p>
 
 ---
-*Posted 2026-07-30 · Listing synced 2026-09-02 · 80k job ID `recSR5oZHgLwYWVCz`*
+*Posted 2026-07-30 · Listing synced 2026-09-03 · 80k job ID `recSR5oZHgLwYWVCz`*

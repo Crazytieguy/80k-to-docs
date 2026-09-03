@@ -2,7 +2,7 @@
 title: "Senior Designer"
 employer: "Lightcone Infrastructure"
 job_id: "recGkN7q8Gmud0Hz0"
-last_updated: "2026-09-02T05:32:22.377369Z"
+last_updated: "2026-09-03T10:31:22.997296Z"
 posted_at: "2026-08-24T00:05:00Z"
 status: ready
 apply_url: "https://www.lightconeinfrastructure.com/senior-designer.html"
@@ -34,4 +34,4 @@ areas:
 <p class="apply-cta"><a href="https://www.lightconeinfrastructure.com/senior-designer.html">Apply →</a></p>
 
 ---
-*Posted 2026-08-24 · Listing synced 2026-09-02 · 80k job ID `recGkN7q8Gmud0Hz0`*
+*Posted 2026-08-24 · Listing synced 2026-09-03 · 80k job ID `recGkN7q8Gmud0Hz0`*

@@ -2,7 +2,7 @@
 title: "National Security Law and Policy Initiative Fellowship"
 employer: "Harvard University, Law School"
 job_id: "recEqDfzuSLTYNsKd"
-last_updated: "2026-09-02T05:32:37.527783Z"
+last_updated: "2026-09-03T10:31:38.254296Z"
 posted_at: "2026-08-13T00:00:00Z"
 status: ready
 apply_url: "https://hls.harvard.edu/academics/fellowships-and-prizes/fellowships/national-security-law-policy-initiative-fellowship/"
@@ -34,4 +34,4 @@ areas:
 <p class="apply-cta"><a href="https://hls.harvard.edu/academics/fellowships-and-prizes/fellowships/national-security-law-policy-initiative-fellowship/">Apply →</a></p>
 
 ---
-*Posted 2026-08-13 · Listing synced 2026-09-02 · 80k job ID `recEqDfzuSLTYNsKd`*
+*Posted 2026-08-13 · Listing synced 2026-09-03 · 80k job ID `recEqDfzuSLTYNsKd`*

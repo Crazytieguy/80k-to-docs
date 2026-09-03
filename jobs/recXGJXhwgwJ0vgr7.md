@@ -2,7 +2,7 @@
 title: "Associate, Operations"
 employer: "Center for AI Safety"
 job_id: "recXGJXhwgwJ0vgr7"
-last_updated: "2026-09-02T05:32:07.764087Z"
+last_updated: "2026-09-03T10:31:09.950299Z"
 posted_at: "2026-08-28T00:05:00Z"
 status: ready
 apply_url: "https://job-boards.greenhouse.io/centerforartificialintelligencesafetyinc/jobs/4384681009"
@@ -34,4 +34,4 @@ areas:
 <p class="apply-cta"><a href="https://job-boards.greenhouse.io/centerforartificialintelligencesafetyinc/jobs/4384681009">Apply →</a></p>
 
 ---
-*Posted 2026-08-28 · Listing synced 2026-09-02 · 80k job ID `recXGJXhwgwJ0vgr7`*
+*Posted 2026-08-28 · Listing synced 2026-09-03 · 80k job ID `recXGJXhwgwJ0vgr7`*

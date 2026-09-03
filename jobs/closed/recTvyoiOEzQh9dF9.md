@@ -4,25 +4,20 @@ employer: "Kairos"
 job_id: "recTvyoiOEzQh9dF9"
 last_updated: "2026-09-02T05:33:37.477459Z"
 posted_at: "2022-01-06T00:00:00Z"
-status: ready
+status: closed
+closed_at: "2026-09-03"
 apply_url: "https://jobs.ashbyhq.com/kairos-project/3ccaf2af-032d-4fcf-9f23-37f88a6366b0"
 areas:
   - "AI safety & policy"
 ---
 
+> ⚠️ **CLOSED on 2026-09-03** — this job is no longer listed on the 80,000 Hours board. Archived snapshot below.
+
 # Generalist, Talent Operations
 
-**[Kairos](https://kairos-project.org/)**
+**Kairos**
 
-<dl class="job-meta">
-<dt>Location</dt><dd>San Francisco Bay Area, Remote, Global, USA, USA (Confirmed Visas)</dd>
-<dt>Role type</dt><dd>Full-time</dd>
-<dt>Experience</dt><dd>Junior (1-4 years experience)</dd>
-<dt>Degree</dt><dd>Undergraduate degree or less</dd>
-<dt>Salary</dt><dd>$130,000 – $200,000</dd>
-</dl>
-
-**Areas & skills:** AI safety & policy, Operations
+**Areas & skills:** AI safety & policy
 
 ## Summary
 - In this role, you'll lead Kairos's hiring as they grow, then expand into talent operations and generalist work.

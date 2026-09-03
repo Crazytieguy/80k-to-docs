@@ -2,7 +2,7 @@
 title: "Global Government Relations Operations and Systems Specialist"
 employer: "One Acre Fund"
 job_id: "recWP1O5DCZUnsy6Y"
-last_updated: "2026-09-02T05:32:35.069620Z"
+last_updated: "2026-09-03T10:31:35.884675Z"
 posted_at: "2026-08-17T00:00:00Z"
 status: ready
 apply_url: "https://oneacrefund.org/vacancies/global-gr-operations-and-systems-specialist"
@@ -33,4 +33,4 @@ areas:
 <p class="apply-cta"><a href="https://oneacrefund.org/vacancies/global-gr-operations-and-systems-specialist">Apply →</a></p>
 
 ---
-*Posted 2026-08-17 · Listing synced 2026-09-02 · 80k job ID `recWP1O5DCZUnsy6Y`*
+*Posted 2026-08-17 · Listing synced 2026-09-03 · 80k job ID `recWP1O5DCZUnsy6Y`*

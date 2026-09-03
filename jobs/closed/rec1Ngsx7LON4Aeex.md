@@ -4,25 +4,20 @@ employer: "OpenAI"
 job_id: "rec1Ngsx7LON4Aeex"
 last_updated: "2026-09-02T05:32:57.897213Z"
 posted_at: "2026-07-27T00:00:00Z"
-status: ready
+status: closed
+closed_at: "2026-09-03"
 apply_url: "https://openai.com/careers/frontier-ai-risks-lead-san-francisco/"
 areas:
   - "AI safety & policy"
 ---
 
+> ⚠️ **CLOSED on 2026-09-03** — this job is no longer listed on the 80,000 Hours board. Archived snapshot below.
+
 # Frontier AI Risks Lead
 
-**[OpenAI](https://openai.com/)**
+**OpenAI**
 
-<dl class="job-meta">
-<dt>Location</dt><dd>San Francisco Bay Area, USA</dd>
-<dt>Role type</dt><dd>Full-time</dd>
-<dt>Experience</dt><dd>Mid (5-9 years experience)</dd>
-<dt>Degree</dt><dd>Undergraduate degree or less</dd>
-<dt>Salary</dt><dd>$198,000 – $320,000</dd>
-</dl>
-
-**Areas & skills:** AI safety & policy, Research, Strategy
+**Areas & skills:** AI safety & policy
 
 ## Summary
 - In this role, you'll identify and mitigate frontier AI risks through strategic analysis and foresight.

@@ -2,10 +2,10 @@
 title: "SL5 Standards Lead"
 employer: "SL5 Task Force"
 job_id: "recKWiNS2YrLwUTxk"
-last_updated: "2026-09-02T05:33:09.145459Z"
+last_updated: "2026-09-03T10:32:07.449846Z"
 posted_at: "2026-07-02T00:01:00Z"
 status: ready
-apply_url: "https://jobs.ashbyhq.com/security-level-5/d0d0f908-5418-438e-9fe1-8ee4351ec91e"
+apply_url: "https://jobs.ashbyhq.com/security-level-5/d0d0f908-5418-438e-9fe1-8ee4351ec91e?embed=js"
 areas:
   - "AI safety & policy"
 ---
@@ -31,7 +31,7 @@ areas:
 - Gather feedback from frontier labs, operators, and government agencies to inform standard evolution.
 - Set editorial and writing standards for audiences ranging from deeply technical to senior policy.
 
-<p class="apply-cta"><a href="https://jobs.ashbyhq.com/security-level-5/d0d0f908-5418-438e-9fe1-8ee4351ec91e">Apply →</a></p>
+<p class="apply-cta"><a href="https://jobs.ashbyhq.com/security-level-5/d0d0f908-5418-438e-9fe1-8ee4351ec91e?embed=js">Apply →</a></p>
 
 ---
-*Posted 2026-07-02 · Listing synced 2026-09-02 · 80k job ID `recKWiNS2YrLwUTxk`*
+*Posted 2026-07-02 · Listing synced 2026-09-03 · 80k job ID `recKWiNS2YrLwUTxk`*

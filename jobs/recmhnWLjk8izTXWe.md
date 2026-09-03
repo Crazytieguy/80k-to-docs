@@ -2,7 +2,7 @@
 title: "Senior Research Scientist, AI Safety Evaluations"
 employer: "Faculty"
 job_id: "recmhnWLjk8izTXWe"
-last_updated: "2026-09-02T05:32:56.841524Z"
+last_updated: "2026-09-03T10:31:55.938170Z"
 posted_at: "2026-07-27T00:01:00Z"
 status: ready
 apply_url: "https://jobs.ashbyhq.com/faculty/6c0abf94-8d61-459b-b094-49307a595c60"
@@ -33,4 +33,4 @@ areas:
 <p class="apply-cta"><a href="https://jobs.ashbyhq.com/faculty/6c0abf94-8d61-459b-b094-49307a595c60">Apply →</a></p>
 
 ---
-*Posted 2026-07-27 · Listing synced 2026-09-02 · 80k job ID `recmhnWLjk8izTXWe`*
+*Posted 2026-07-27 · Listing synced 2026-09-03 · 80k job ID `recmhnWLjk8izTXWe`*

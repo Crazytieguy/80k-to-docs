@@ -4,25 +4,20 @@ employer: "Future of Privacy Forum"
 job_id: "recgl1sqdjiO4l1Zi"
 last_updated: "2026-09-02T05:34:04.221754Z"
 posted_at: "2022-01-02T00:00:00Z"
-status: ready
+status: closed
+closed_at: "2026-09-03"
 apply_url: "https://fpf.org/us-policy-internships/"
 areas:
   - "Career development: Policy & government"
 ---
 
+> ⚠️ **CLOSED on 2026-09-03** — this job is no longer listed on the 80,000 Hours board. Archived snapshot below.
+
 # Intern, US Policy (Summer 2026)
 
-**[Future of Privacy Forum](https://fpf.org/)**
+**Future of Privacy Forum**
 
-<dl class="job-meta">
-<dt>Location</dt><dd>Washington, DC metro area, USA</dd>
-<dt>Role type</dt><dd>Internship</dd>
-<dt>Experience</dt><dd>Entry-level</dd>
-<dt>Degree</dt><dd>Undergraduate degree or less</dd>
-<dt>Salary</dt><dd>$41,600</dd>
-</dl>
-
-**Areas & skills:** Career development: Policy & government, Research, Policy
+**Areas & skills:** Career development: Policy & government
 
 ## Summary
 - In this role, you'll support FPF's US Policy team by researching privacy issues at the intersection of technology and commercial practices.

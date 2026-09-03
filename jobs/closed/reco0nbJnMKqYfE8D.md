@@ -4,25 +4,20 @@ employer: "Epoch AI"
 job_id: "reco0nbJnMKqYfE8D"
 last_updated: "2026-09-02T05:32:40.902024Z"
 posted_at: "2026-08-10T00:04:37Z"
-status: ready
+status: closed
+closed_at: "2026-09-03"
 apply_url: "https://jobs.lever.co/epoch-ai/f141b2ff-586f-4329-890b-9c40014d62f6"
 areas:
   - "AI safety & policy"
 ---
 
+> ⚠️ **CLOSED on 2026-09-03** — this job is no longer listed on the 80,000 Hours board. Archived snapshot below.
+
 # Communications Specialist
 
-**[Epoch AI](https://epoch.ai)**
+**Epoch AI**
 
-<dl class="job-meta">
-<dt>Location</dt><dd>Remote, Global</dd>
-<dt>Role type</dt><dd>Full-time</dd>
-<dt>Experience</dt><dd>Junior (1-4 years experience)</dd>
-<dt>Degree</dt><dd>Undergraduate degree or less</dd>
-<dt>Salary</dt><dd>$95,000 – $140,000</dd>
-</dl>
-
-**Areas & skills:** AI safety & policy, Communications
+**Areas & skills:** AI safety & policy
 
 ## Summary
 - In this role, you'll execute Epoch AI's communications strategy across media, newsletters, social channels, and paid campaigns.

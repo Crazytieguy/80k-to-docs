@@ -2,7 +2,7 @@
 title: "Generalist, Core Team"
 employer: "Lightcone Infrastructure"
 job_id: "rec0RDuPUBI28nCeh"
-last_updated: "2026-09-02T05:32:22.506340Z"
+last_updated: "2026-09-03T10:31:23.117572Z"
 posted_at: "2026-08-24T00:05:00Z"
 status: ready
 apply_url: "https://www.lightconeinfrastructure.com/core-team-generalist.html"
@@ -34,4 +34,4 @@ areas:
 <p class="apply-cta"><a href="https://www.lightconeinfrastructure.com/core-team-generalist.html">Apply →</a></p>
 
 ---
-*Posted 2026-08-24 · Listing synced 2026-09-02 · 80k job ID `rec0RDuPUBI28nCeh`*
+*Posted 2026-08-24 · Listing synced 2026-09-03 · 80k job ID `rec0RDuPUBI28nCeh`*

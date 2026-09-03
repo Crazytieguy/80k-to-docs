@@ -2,10 +2,10 @@
 title: "Head of Talent Operations"
 employer: "Kairos"
 job_id: "recGX447ujr8RYXAe"
-last_updated: "2026-09-02T05:33:51.489940Z"
+last_updated: "2026-09-03T10:32:47.830185Z"
 posted_at: "2022-01-05T00:00:00Z"
 status: ready
-apply_url: "https://jobs.ashbyhq.com/kairos-project/c6db9ab7-9942-45b9-af27-ef4ac59ac2f5"
+apply_url: "https://kairos-project.org/careers/head-of-talent-operations"
 areas:
   - "AI safety & policy"
 ---
@@ -31,7 +31,7 @@ areas:
 - Onboard partner organisations to Talent Commons and maintain the data quality enabling cross-ecosystem sharing.
 - Set grantmaking strategy and make funding decisions for the Career Development and Transition Fund.
 
-<p class="apply-cta"><a href="https://jobs.ashbyhq.com/kairos-project/c6db9ab7-9942-45b9-af27-ef4ac59ac2f5">Apply →</a></p>
+<p class="apply-cta"><a href="https://kairos-project.org/careers/head-of-talent-operations">Apply →</a></p>
 
 ---
-*Posted 2022-01-05 · Listing synced 2026-09-02 · 80k job ID `recGX447ujr8RYXAe`*
+*Posted 2022-01-05 · Listing synced 2026-09-03 · 80k job ID `recGX447ujr8RYXAe`*

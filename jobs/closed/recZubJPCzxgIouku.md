@@ -4,24 +4,20 @@ employer: "Animal Equality"
 job_id: "recZubJPCzxgIouku"
 last_updated: "2026-09-02T05:32:41.309563Z"
 posted_at: "2026-08-10T00:00:00Z"
-status: ready
+status: closed
+closed_at: "2026-09-03"
 apply_url: "https://igualdadanimal.mx/empleos-igualdad-animal/capturista-contable/"
 areas:
   - "Animal welfare"
 ---
 
+> ⚠️ **CLOSED on 2026-09-03** — this job is no longer listed on the 80,000 Hours board. Archived snapshot below.
+
 # Accounting Data Entry Clerk
 
-**[Animal Equality](https://animalequality.org/)**
+**Animal Equality**
 
-<dl class="job-meta">
-<dt>Location</dt><dd>Remote, Mexico, Mexico</dd>
-<dt>Role type</dt><dd>Full-time</dd>
-<dt>Experience</dt><dd>Entry-level</dd>
-<dt>Degree</dt><dd>Undergraduate degree or less</dd>
-</dl>
-
-**Areas & skills:** Animal welfare, Finance
+**Areas & skills:** Animal welfare
 
 ## Summary
 - In this role, you'll register, capture and verify administrative and accounting information for accurate financial record-keeping and documentation control.

@@ -2,7 +2,7 @@
 title: "Research Intern, Korea Chair (Fall 2026)"
 employer: "Center for Strategic and International Studies"
 job_id: "recL5mO7XixC4IjSR"
-last_updated: "2026-09-02T05:32:39.814138Z"
+last_updated: "2026-09-03T10:31:40.474185Z"
 posted_at: "2026-08-11T00:00:00Z"
 status: ready
 apply_url: "https://job-boards.greenhouse.io/centerforstrategicandinternationalstudiesinc/jobs/4313098009"
@@ -34,4 +34,4 @@ areas:
 <p class="apply-cta"><a href="https://job-boards.greenhouse.io/centerforstrategicandinternationalstudiesinc/jobs/4313098009">Apply →</a></p>
 
 ---
-*Posted 2026-08-11 · Listing synced 2026-09-02 · 80k job ID `recL5mO7XixC4IjSR`*
+*Posted 2026-08-11 · Listing synced 2026-09-03 · 80k job ID `recL5mO7XixC4IjSR`*

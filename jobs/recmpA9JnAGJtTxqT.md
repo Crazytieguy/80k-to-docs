@@ -2,7 +2,7 @@
 title: "Research Associate / Research Fellow, Safe AI Systems"
 employer: "University of York, Department of Computer Science"
 job_id: "recmpA9JnAGJtTxqT"
-last_updated: "2026-09-02T05:32:42.656526Z"
+last_updated: "2026-09-03T10:31:42.950126Z"
 posted_at: "2026-08-07T00:01:00Z"
 status: ready
 apply_url: "https://www.jobs.ac.uk/job/DSK720/research-associate-research-fellow-in-safe-ai-systems?uuid=676834cd-8bb9-11f1-9cb0-064da8edb92a&campaign=jbe20260730&source=jbe"
@@ -19,7 +19,7 @@ areas:
 <dt>Role type</dt><dd>Fellowship</dd>
 <dt>Experience</dt><dd>Entry-level</dd>
 <dt>Degree</dt><dd>Doctoral degree</dd>
-<dt>Salary</dt><dd>$50,890 – $76,326</dd>
+<dt>Salary</dt><dd>$50,860 – $76,282</dd>
 </dl>
 
 **Areas & skills:** AI safety & policy, Research
@@ -34,4 +34,4 @@ areas:
 <p class="apply-cta"><a href="https://www.jobs.ac.uk/job/DSK720/research-associate-research-fellow-in-safe-ai-systems?uuid=676834cd-8bb9-11f1-9cb0-064da8edb92a&amp;campaign=jbe20260730&amp;source=jbe">Apply →</a></p>
 
 ---
-*Posted 2026-08-07 · Listing synced 2026-09-02 · 80k job ID `recmpA9JnAGJtTxqT`*
+*Posted 2026-08-07 · Listing synced 2026-09-03 · 80k job ID `recmpA9JnAGJtTxqT`*

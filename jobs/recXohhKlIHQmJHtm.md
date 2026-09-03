@@ -2,10 +2,10 @@
 title: "Research Manager, SPAR"
 employer: "Kairos"
 job_id: "recXohhKlIHQmJHtm"
-last_updated: "2026-09-02T05:33:37.655229Z"
+last_updated: "2026-09-03T10:32:33.599092Z"
 posted_at: "2022-01-06T00:00:00Z"
 status: ready
-apply_url: "https://jobs.ashbyhq.com/kairos-project/a4e67aac-ee97-46b7-9078-9822fef4683c"
+apply_url: "https://kairos-project.org/careers/spar-research-manager-generalist"
 areas:
   - "AI safety & policy"
 ---
@@ -31,7 +31,7 @@ areas:
 - Plan and deliver monthly events for mentors and mentees, including workshops and speaker sessions.
 - Co-run Demo Day and contribute to key program decisions on recruiting, matching, and feedback systems.
 
-<p class="apply-cta"><a href="https://jobs.ashbyhq.com/kairos-project/a4e67aac-ee97-46b7-9078-9822fef4683c">Apply →</a></p>
+<p class="apply-cta"><a href="https://kairos-project.org/careers/spar-research-manager-generalist">Apply →</a></p>
 
 ---
-*Posted 2022-01-06 · Listing synced 2026-09-02 · 80k job ID `recXohhKlIHQmJHtm`*
+*Posted 2022-01-06 · Listing synced 2026-09-03 · 80k job ID `recXohhKlIHQmJHtm`*

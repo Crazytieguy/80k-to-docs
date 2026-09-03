@@ -2,7 +2,7 @@
 title: "Workspace and Design Coordinator"
 employer: "Trajectory Labs"
 job_id: "recdZJOAQGyD4vk8E"
-last_updated: "2026-09-02T05:32:07.205816Z"
+last_updated: "2026-09-03T10:31:09.377050Z"
 posted_at: "2026-08-31T00:00:00Z"
 status: ready
 apply_url: "https://www.trajectorylabs.org/s/TL-Workspace-Design-Coordinator.pdf"
@@ -19,7 +19,7 @@ areas:
 <dt>Role type</dt><dd>Full-time</dd>
 <dt>Experience</dt><dd>Junior (1-4 years experience), Mid (5-9 years experience)</dd>
 <dt>Degree</dt><dd>Undergraduate degree or less</dd>
-<dt>Salary</dt><dd>$35,924 – $57,479</dd>
+<dt>Salary</dt><dd>$36,206 – $57,930</dd>
 </dl>
 
 **Areas & skills:** AI safety & policy, Operations
@@ -34,4 +34,4 @@ areas:
 <p class="apply-cta"><a href="https://www.trajectorylabs.org/s/TL-Workspace-Design-Coordinator.pdf">Apply →</a></p>
 
 ---
-*Posted 2026-08-31 · Listing synced 2026-09-02 · 80k job ID `recdZJOAQGyD4vk8E`*
+*Posted 2026-08-31 · Listing synced 2026-09-03 · 80k job ID `recdZJOAQGyD4vk8E`*

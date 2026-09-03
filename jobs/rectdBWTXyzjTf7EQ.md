@@ -2,7 +2,7 @@
 title: "Worldbuilding, AI Futures"
 employer: "Foresight Institute"
 job_id: "rectdBWTXyzjTf7EQ"
-last_updated: "2026-09-02T05:32:08.814323Z"
+last_updated: "2026-09-03T10:31:11.060442Z"
 posted_at: "2026-08-28T00:00:00Z"
 status: ready
 apply_url: "https://www.udemy.com/course/worldbuilding-hopeful-futures-with-ai/"
@@ -32,4 +32,4 @@ areas:
 <p class="apply-cta"><a href="https://www.udemy.com/course/worldbuilding-hopeful-futures-with-ai/">Apply →</a></p>
 
 ---
-*Posted 2026-08-28 · Listing synced 2026-09-02 · 80k job ID `rectdBWTXyzjTf7EQ`*
+*Posted 2026-08-28 · Listing synced 2026-09-03 · 80k job ID `rectdBWTXyzjTf7EQ`*

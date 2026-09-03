@@ -2,7 +2,7 @@
 title: "Policy Entrepreneurship Fellowship, AI Safety"
 employer: "Federation of American Scientists"
 job_id: "recgJS1NkANzjlYBM"
-last_updated: "2026-09-02T05:32:36.985926Z"
+last_updated: "2026-09-03T10:31:37.761324Z"
 posted_at: "2026-08-13T00:02:00Z"
 status: ready
 apply_url: "https://fas.org/career/ai-safety-pef/"
@@ -33,4 +33,4 @@ areas:
 <p class="apply-cta"><a href="https://fas.org/career/ai-safety-pef/">Apply →</a></p>
 
 ---
-*Posted 2026-08-13 · Listing synced 2026-09-02 · 80k job ID `recgJS1NkANzjlYBM`*
+*Posted 2026-08-13 · Listing synced 2026-09-03 · 80k job ID `recgJS1NkANzjlYBM`*

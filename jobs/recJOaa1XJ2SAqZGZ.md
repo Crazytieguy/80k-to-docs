@@ -2,7 +2,7 @@
 title: "Tech Lead, AI Safety"
 employer: "Trajectory Labs, PBC"
 job_id: "recJOaa1XJ2SAqZGZ"
-last_updated: "2026-09-02T05:32:52.788927Z"
+last_updated: "2026-09-03T10:31:52.422302Z"
 posted_at: "2026-07-31T00:03:00Z"
 status: ready
 apply_url: "https://www.trajectorylabs.com/careers/tech-lead-ai-safety"
@@ -34,4 +34,4 @@ areas:
 <p class="apply-cta"><a href="https://www.trajectorylabs.com/careers/tech-lead-ai-safety">Apply →</a></p>
 
 ---
-*Posted 2026-07-31 · Listing synced 2026-09-02 · 80k job ID `recJOaa1XJ2SAqZGZ`*
+*Posted 2026-07-31 · Listing synced 2026-09-03 · 80k job ID `recJOaa1XJ2SAqZGZ`*

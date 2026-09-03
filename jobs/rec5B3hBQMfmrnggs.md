@@ -2,7 +2,7 @@
 title: "Member of Technical Staff"
 employer: "Lucid Computing"
 job_id: "rec5B3hBQMfmrnggs"
-last_updated: "2026-09-02T05:32:34.097044Z"
+last_updated: "2026-09-03T10:31:34.959983Z"
 posted_at: "2026-08-17T00:00:00Z"
 status: ready
 apply_url: "https://jobs.ashbyhq.com/lucidcomputing/a19cd7c3-6ed2-4659-bf9a-1c27200319d7"
@@ -33,4 +33,4 @@ areas:
 <p class="apply-cta"><a href="https://jobs.ashbyhq.com/lucidcomputing/a19cd7c3-6ed2-4659-bf9a-1c27200319d7">Apply →</a></p>
 
 ---
-*Posted 2026-08-17 · Listing synced 2026-09-02 · 80k job ID `rec5B3hBQMfmrnggs`*
+*Posted 2026-08-17 · Listing synced 2026-09-03 · 80k job ID `rec5B3hBQMfmrnggs`*

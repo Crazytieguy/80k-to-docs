@@ -2,7 +2,7 @@
 title: "General Applications"
 employer: "Future of Life Institute"
 job_id: "recucu4E9plS7Ealy"
-last_updated: "2026-09-02T05:33:29.309392Z"
+last_updated: "2026-09-03T10:32:25.459414Z"
 posted_at: "2022-01-07T00:00:00Z"
 status: ready
 apply_url: "https://jobs.lever.co/futureof-life/2ad000b8-8c02-49a0-bbea-a588137665db"
@@ -32,4 +32,4 @@ areas:
 <p class="apply-cta"><a href="https://jobs.lever.co/futureof-life/2ad000b8-8c02-49a0-bbea-a588137665db">Apply →</a></p>
 
 ---
-*Posted 2022-01-07 · Listing synced 2026-09-02 · 80k job ID `recucu4E9plS7Ealy`*
+*Posted 2022-01-07 · Listing synced 2026-09-03 · 80k job ID `recucu4E9plS7Ealy`*

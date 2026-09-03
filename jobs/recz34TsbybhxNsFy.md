@@ -2,7 +2,7 @@
 title: "Researcher / Senior Researcher"
 employer: "Epoch AI"
 job_id: "recz34TsbybhxNsFy"
-last_updated: "2026-09-02T05:33:23.377599Z"
+last_updated: "2026-09-03T10:32:19.551027Z"
 posted_at: "2022-01-11T00:00:00Z"
 status: ready
 apply_url: "https://jobs.lever.co/epoch-ai/de7b4c71-ece2-454a-be70-e7b75c5f3b23"
@@ -34,4 +34,4 @@ areas:
 <p class="apply-cta"><a href="https://jobs.lever.co/epoch-ai/de7b4c71-ece2-454a-be70-e7b75c5f3b23">Apply →</a></p>
 
 ---
-*Posted 2022-01-11 · Listing synced 2026-09-02 · 80k job ID `recz34TsbybhxNsFy`*
+*Posted 2022-01-11 · Listing synced 2026-09-03 · 80k job ID `recz34TsbybhxNsFy`*

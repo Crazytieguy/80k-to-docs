@@ -2,7 +2,7 @@
 title: "GenAI Biosecurity Expert"
 employer: "Alice"
 job_id: "recakJn0nckQiskkk"
-last_updated: "2026-09-02T05:32:35.508043Z"
+last_updated: "2026-09-03T10:31:36.304192Z"
 posted_at: "2026-08-14T00:01:00Z"
 status: ready
 apply_url: "https://alice.io/positions/position-94_07f"
@@ -34,4 +34,4 @@ areas:
 <p class="apply-cta"><a href="https://alice.io/positions/position-94_07f">Apply →</a></p>
 
 ---
-*Posted 2026-08-14 · Listing synced 2026-09-02 · 80k job ID `recakJn0nckQiskkk`*
+*Posted 2026-08-14 · Listing synced 2026-09-03 · 80k job ID `recakJn0nckQiskkk`*

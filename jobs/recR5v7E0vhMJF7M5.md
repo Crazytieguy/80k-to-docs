@@ -2,22 +2,27 @@
 title: "Research Manager, Interpretability"
 employer: "Anthropic"
 job_id: "recR5v7E0vhMJF7M5"
-last_updated: "2026-09-01T11:36:40.170677Z"
+last_updated: "2026-09-03T10:32:14.139996Z"
 posted_at: "2022-01-12T00:00:00Z"
-status: closed
-closed_at: "2026-09-02"
+status: ready
 apply_url: "https://job-boards.greenhouse.io/anthropic/jobs/4980436008"
 areas:
   - "AI safety & policy"
 ---
 
-> ⚠️ **CLOSED on 2026-09-02** — this job is no longer listed on the 80,000 Hours board. Archived snapshot below.
-
 # Research Manager, Interpretability
 
-**Anthropic**
+**[Anthropic](https://www.anthropic.com/)**
 
-**Areas & skills:** AI safety & policy
+<dl class="job-meta">
+<dt>Location</dt><dd>San Francisco Bay Area, USA, USA (Confirmed Visas)</dd>
+<dt>Role type</dt><dd>Full-time</dd>
+<dt>Experience</dt><dd>Junior (1-4 years experience), Mid (5-9 years experience)</dd>
+<dt>Degree</dt><dd>Undergraduate degree or less</dd>
+<dt>Salary</dt><dd>$340,000 – $425,000</dd>
+</dl>
+
+**Areas & skills:** AI safety & policy, Research, Management
 
 ## Summary
 - In this role, you'll manage a team of researchers and engineers working to understand the internal mechanisms of large language models for AI safety.
@@ -29,4 +34,4 @@ areas:
 <p class="apply-cta"><a href="https://job-boards.greenhouse.io/anthropic/jobs/4980436008">Apply →</a></p>
 
 ---
-*Posted 2022-01-12 · Listing synced 2026-09-01 · 80k job ID `recR5v7E0vhMJF7M5`*
+*Posted 2022-01-12 · Listing synced 2026-09-03 · 80k job ID `recR5v7E0vhMJF7M5`*

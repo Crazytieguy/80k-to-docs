@@ -2,7 +2,7 @@
 title: "Alignment Research Manager"
 employer: "AE Studio"
 job_id: "rectgPBeAct0elWNZ"
-last_updated: "2026-09-02T05:32:06.315809Z"
+last_updated: "2026-09-03T10:31:08.532021Z"
 posted_at: "2026-08-31T00:00:00Z"
 status: ready
 apply_url: "https://grnh.se/og92mzxr4us"
@@ -34,4 +34,4 @@ areas:
 <p class="apply-cta"><a href="https://grnh.se/og92mzxr4us">Apply →</a></p>
 
 ---
-*Posted 2026-08-31 · Listing synced 2026-09-02 · 80k job ID `rectgPBeAct0elWNZ`*
+*Posted 2026-08-31 · Listing synced 2026-09-03 · 80k job ID `rectgPBeAct0elWNZ`*
