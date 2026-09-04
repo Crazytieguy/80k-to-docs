@@ -4,25 +4,20 @@ employer: "80,000 Hours"
 job_id: "rec3jWndfY5YJG3r3"
 last_updated: "2026-09-03T10:31:46.475240Z"
 posted_at: "2026-08-05T00:04:26Z"
-status: ready
+status: closed
+closed_at: "2026-09-04"
 apply_url: "https://jobs.ashbyhq.com/80000hours/8e362bdd-a3e2-4ce0-8325-d9a43bfad1f4"
 areas:
   - "AI safety & policy"
 ---
 
+> ⚠️ **CLOSED on 2026-09-04** — this job is no longer listed on the 80,000 Hours board. Archived snapshot below.
+
 # Production Coordinator / Associate, Studio Team
 
-**[80,000 Hours](https://80000hours.org/)**
+**80,000 Hours**
 
-<dl class="job-meta">
-<dt>Location</dt><dd>London, UK, Remote, UK, UK, UK (Confirmed Visas)</dd>
-<dt>Role type</dt><dd>Full-time</dd>
-<dt>Experience</dt><dd>Junior (1-4 years experience), Entry-level</dd>
-<dt>Degree</dt><dd>Undergraduate degree or less</dd>
-<dt>Salary</dt><dd>$90,402 – $113,340</dd>
-</dl>
-
-**Areas & skills:** AI safety & policy, Operations
+**Areas & skills:** AI safety & policy
 
 ## Summary
 - In this role, you'll coordinate the podcast editing pipeline, assigning episodes, tracking capacity, and supporting technical recordings.

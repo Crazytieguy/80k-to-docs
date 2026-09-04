@@ -2,7 +2,7 @@
 title: "Data and Research Analyst, Monitoring, Evaluation, and Learning"
 employer: "Lafiya"
 job_id: "recYD26p8aeuCy0Nj"
-last_updated: "2026-09-03T10:31:01.681118Z"
+last_updated: "2026-09-04T05:31:40.384279Z"
 posted_at: "2026-09-02T00:00:00Z"
 status: ready
 apply_url: "https://docs.google.com/document/d/1F6otLzsmxfyzBNeRPovVlAMYgY5wKijTePQbHtMs3Ww/edit?tab=t.a60jg49shuyd"
@@ -34,4 +34,4 @@ areas:
 <p class="apply-cta"><a href="https://docs.google.com/document/d/1F6otLzsmxfyzBNeRPovVlAMYgY5wKijTePQbHtMs3Ww/edit?tab=t.a60jg49shuyd">Apply →</a></p>
 
 ---
-*Posted 2026-09-02 · Listing synced 2026-09-03 · 80k job ID `recYD26p8aeuCy0Nj`*
+*Posted 2026-09-02 · Listing synced 2026-09-04 · 80k job ID `recYD26p8aeuCy0Nj`*

@@ -2,7 +2,7 @@
 title: "Legal Intern, Program for Animals"
 employer: "Mercy for Animals"
 job_id: "recmFF5X0xU7fRLaC"
-last_updated: "2026-09-03T10:31:18.678439Z"
+last_updated: "2026-09-04T05:31:56.823991Z"
 posted_at: "2026-08-26T00:00:00Z"
 status: ready
 apply_url: "https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=9b16364c-5e0e-4e66-be82-8f108b1eb279&ccId=19000101_000001&source=CC2&lang=en_US&selectedMenuKey=CurrentOpenings&jobId=557177&_ga=2.149811638.1816720215.1787555161-1965807046.1753674741"
@@ -34,4 +34,4 @@ areas:
 <p class="apply-cta"><a href="https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=9b16364c-5e0e-4e66-be82-8f108b1eb279&amp;ccId=19000101_000001&amp;source=CC2&amp;lang=en_US&amp;selectedMenuKey=CurrentOpenings&amp;jobId=557177&amp;_ga=2.149811638.1816720215.1787555161-1965807046.1753674741">Apply →</a></p>
 
 ---
-*Posted 2026-08-26 · Listing synced 2026-09-03 · 80k job ID `recmFF5X0xU7fRLaC`*
+*Posted 2026-08-26 · Listing synced 2026-09-04 · 80k job ID `recmFF5X0xU7fRLaC`*

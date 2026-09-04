@@ -2,7 +2,7 @@
 title: "Global Innovation Fellowship, The German Council on Foreign Relations, 2026-27"
 employer: "The British Academy"
 job_id: "rec99jTkqgqZ43Ae7"
-last_updated: "2026-09-03T10:31:22.439484Z"
+last_updated: "2026-09-04T05:32:00.668195Z"
 posted_at: "2026-08-25T00:00:00Z"
 status: ready
 apply_url: "https://www.thebritishacademy.ac.uk/funding/schemes/global-innovation-fellowships-the-german-council-on-foreign-relations-dgap/"
@@ -33,4 +33,4 @@ areas:
 <p class="apply-cta"><a href="https://www.thebritishacademy.ac.uk/funding/schemes/global-innovation-fellowships-the-german-council-on-foreign-relations-dgap/">Apply →</a></p>
 
 ---
-*Posted 2026-08-25 · Listing synced 2026-09-03 · 80k job ID `rec99jTkqgqZ43Ae7`*
+*Posted 2026-08-25 · Listing synced 2026-09-04 · 80k job ID `rec99jTkqgqZ43Ae7`*

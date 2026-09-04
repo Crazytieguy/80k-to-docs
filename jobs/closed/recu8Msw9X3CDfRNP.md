@@ -4,26 +4,21 @@ employer: "Anthropic"
 job_id: "recu8Msw9X3CDfRNP"
 last_updated: "2026-09-03T10:31:48.631168Z"
 posted_at: "2026-08-04T00:00:00Z"
-status: ready
+status: closed
+closed_at: "2026-09-04"
 apply_url: "https://job-boards.greenhouse.io/anthropic/jobs/5319702008"
 areas:
   - "AI safety & policy"
   - "Nuclear security"
 ---
 
+> ⚠️ **CLOSED on 2026-09-04** — this job is no longer listed on the 80,000 Hours board. Archived snapshot below.
+
 # Safeguards Enforcement Analyst, Radiological and Nuclear Harms
 
-**[Anthropic](https://www.anthropic.com/)**
+**Anthropic**
 
-<dl class="job-meta">
-<dt>Location</dt><dd>Washington, DC metro area, San Francisco Bay Area, New York, NY, USA, USA (Confirmed Visas)</dd>
-<dt>Role type</dt><dd>Full-time</dd>
-<dt>Experience</dt><dd>Mid (5-9 years experience)</dd>
-<dt>Degree</dt><dd>Undergraduate degree or less</dd>
-<dt>Salary</dt><dd>$245,000 – $285,000</dd>
-</dl>
-
-**Areas & skills:** AI safety & policy, Nuclear security, Research, Strategy
+**Areas & skills:** AI safety & policy, Nuclear security
 
 ## Summary
 - In this role, you'll enforce policies protecting against AI misuse for radiological and nuclear harms and investigate violations.

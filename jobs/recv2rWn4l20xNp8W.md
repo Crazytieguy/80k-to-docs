@@ -2,7 +2,7 @@
 title: "Intern, Responsible AI"
 employer: "ALLAI"
 job_id: "recv2rWn4l20xNp8W"
-last_updated: "2026-09-03T10:32:28.356498Z"
+last_updated: "2026-09-04T05:33:07.022185Z"
 posted_at: "2022-01-06T00:00:00Z"
 status: ready
 apply_url: "https://allai.nl/apply-for-an-internship-at-allai-2/"
@@ -33,4 +33,4 @@ areas:
 <p class="apply-cta"><a href="https://allai.nl/apply-for-an-internship-at-allai-2/">Apply →</a></p>
 
 ---
-*Posted 2022-01-06 · Listing synced 2026-09-03 · 80k job ID `recv2rWn4l20xNp8W`*
+*Posted 2022-01-06 · Listing synced 2026-09-04 · 80k job ID `recv2rWn4l20xNp8W`*

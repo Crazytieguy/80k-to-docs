@@ -2,7 +2,7 @@
 title: "Alignment Scientist / Engineer"
 employer: "AE Studio"
 job_id: "recD48CN3xL8N5RuM"
-last_updated: "2026-09-03T10:31:08.695742Z"
+last_updated: "2026-09-04T05:31:47.637430Z"
 posted_at: "2026-08-31T00:00:00Z"
 status: ready
 apply_url: "https://grnh.se/43mtxhhh4us"
@@ -34,4 +34,4 @@ areas:
 <p class="apply-cta"><a href="https://grnh.se/43mtxhhh4us">Apply →</a></p>
 
 ---
-*Posted 2026-08-31 · Listing synced 2026-09-03 · 80k job ID `recD48CN3xL8N5RuM`*
+*Posted 2026-08-31 · Listing synced 2026-09-04 · 80k job ID `recD48CN3xL8N5RuM`*

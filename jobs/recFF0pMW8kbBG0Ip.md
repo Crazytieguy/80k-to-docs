@@ -2,7 +2,7 @@
 title: "Senior Manager, Product Marketing"
 employer: "Center for AI Safety"
 job_id: "recFF0pMW8kbBG0Ip"
-last_updated: "2026-09-03T10:31:23.803028Z"
+last_updated: "2026-09-04T05:32:02.844432Z"
 posted_at: "2026-08-24T00:04:30Z"
 status: ready
 apply_url: "https://job-boards.greenhouse.io/centerforartificialintelligencesafetyinc/jobs/4377933009"
@@ -34,4 +34,4 @@ areas:
 <p class="apply-cta"><a href="https://job-boards.greenhouse.io/centerforartificialintelligencesafetyinc/jobs/4377933009">Apply →</a></p>
 
 ---
-*Posted 2026-08-24 · Listing synced 2026-09-03 · 80k job ID `recFF0pMW8kbBG0Ip`*
+*Posted 2026-08-24 · Listing synced 2026-09-04 · 80k job ID `recFF0pMW8kbBG0Ip`*

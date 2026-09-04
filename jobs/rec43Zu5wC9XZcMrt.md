@@ -2,7 +2,7 @@
 title: "Security Engineer"
 employer: "Apollo Research"
 job_id: "rec43Zu5wC9XZcMrt"
-last_updated: "2026-09-03T10:31:06.808683Z"
+last_updated: "2026-09-04T05:31:45.539483Z"
 posted_at: "2026-08-31T00:04:45Z"
 status: ready
 apply_url: "https://jobs.lever.co/apolloresearch/855f584d-08dd-4845-93b8-dbeb6737707d"
@@ -34,4 +34,4 @@ areas:
 <p class="apply-cta"><a href="https://jobs.lever.co/apolloresearch/855f584d-08dd-4845-93b8-dbeb6737707d">Apply →</a></p>
 
 ---
-*Posted 2026-08-31 · Listing synced 2026-09-03 · 80k job ID `rec43Zu5wC9XZcMrt`*
+*Posted 2026-08-31 · Listing synced 2026-09-04 · 80k job ID `rec43Zu5wC9XZcMrt`*

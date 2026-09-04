@@ -2,7 +2,7 @@
 title: "Technical Specialist, Multi-Agent Security"
 employer: "Advanced Research and Invention Agency"
 job_id: "recD2JpTFfj17eMQC"
-last_updated: "2026-09-03T10:32:27.346820Z"
+last_updated: "2026-09-04T05:33:06.024535Z"
 posted_at: "2022-01-06T00:00:00Z"
 status: ready
 apply_url: "https://aria.pinpointhq.com/en/postings/1ade5ec1-be4f-4e3c-a666-ee72b9375424"
@@ -19,7 +19,7 @@ areas:
 <dt>Role type</dt><dd>Full-time</dd>
 <dt>Experience</dt><dd>Junior (1-4 years experience), Mid (5-9 years experience)</dd>
 <dt>Degree</dt><dd>Doctoral degree</dd>
-<dt>Salary</dt><dd>$94,450 – $141,674</dd>
+<dt>Salary</dt><dd>$94,722 – $142,083</dd>
 </dl>
 
 **Areas & skills:** AI safety & policy, Strategy
@@ -34,4 +34,4 @@ areas:
 <p class="apply-cta"><a href="https://aria.pinpointhq.com/en/postings/1ade5ec1-be4f-4e3c-a666-ee72b9375424">Apply →</a></p>
 
 ---
-*Posted 2022-01-06 · Listing synced 2026-09-03 · 80k job ID `recD2JpTFfj17eMQC`*
+*Posted 2022-01-06 · Listing synced 2026-09-04 · 80k job ID `recD2JpTFfj17eMQC`*

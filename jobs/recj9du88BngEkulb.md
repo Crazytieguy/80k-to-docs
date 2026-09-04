@@ -2,7 +2,7 @@
 title: "Team Member, Lab Engagement"
 employer: "Encode"
 job_id: "recj9du88BngEkulb"
-last_updated: "2026-09-03T10:31:19.894817Z"
+last_updated: "2026-09-04T05:31:58.062038Z"
 posted_at: "2026-08-25T00:04:05Z"
 status: ready
 apply_url: "https://x.com/SnehaRevanur/status/2091956301232550345?s=20"
@@ -33,4 +33,4 @@ areas:
 <p class="apply-cta"><a href="https://x.com/SnehaRevanur/status/2091956301232550345?s=20">Apply →</a></p>
 
 ---
-*Posted 2026-08-25 · Listing synced 2026-09-03 · 80k job ID `recj9du88BngEkulb`*
+*Posted 2026-08-25 · Listing synced 2026-09-04 · 80k job ID `recj9du88BngEkulb`*

@@ -2,7 +2,7 @@
 title: "Business Immigration Associate"
 employer: "Coefficient Giving"
 job_id: "recV56U62kC7JKRa7"
-last_updated: "2026-09-03T10:31:24.043156Z"
+last_updated: "2026-09-04T05:32:03.197522Z"
 posted_at: "2026-08-24T00:04:16Z"
 status: ready
 apply_url: "https://jobs.ashbyhq.com/coefficientgiving/7fe767dd-0c29-4923-9c85-77f92cdde1c2"
@@ -34,4 +34,4 @@ areas:
 <p class="apply-cta"><a href="https://jobs.ashbyhq.com/coefficientgiving/7fe767dd-0c29-4923-9c85-77f92cdde1c2">Apply →</a></p>
 
 ---
-*Posted 2026-08-24 · Listing synced 2026-09-03 · 80k job ID `recV56U62kC7JKRa7`*
+*Posted 2026-08-24 · Listing synced 2026-09-04 · 80k job ID `recV56U62kC7JKRa7`*

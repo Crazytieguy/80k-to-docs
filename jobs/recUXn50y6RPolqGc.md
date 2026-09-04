@@ -2,7 +2,7 @@
 title: "Head of Special Projects"
 employer: "Kairos"
 job_id: "recUXn50y6RPolqGc"
-last_updated: "2026-09-03T10:30:56.758690Z"
+last_updated: "2026-09-04T05:31:35.440947Z"
 posted_at: "2026-09-03T00:03:00Z"
 status: ready
 apply_url: "https://kairos-project.org/careers/head-of-special-projects"
@@ -17,7 +17,7 @@ areas:
 <dl class="job-meta">
 <dt>Location</dt><dd>Remote, USA, Remote, UK, UK, USA, USA (Confirmed Visas), UK (Confirmed Visas)</dd>
 <dt>Role type</dt><dd>Full-time</dd>
-<dt>Experience</dt><dd>Mid (5-9 years experience)</dd>
+<dt>Experience</dt><dd>Mid (5-9 years experience), Senior (10+ years experience)</dd>
 <dt>Degree</dt><dd>Undergraduate degree or less</dd>
 <dt>Salary</dt><dd>$140,000 – $270,000</dd>
 </dl>
@@ -34,4 +34,4 @@ areas:
 <p class="apply-cta"><a href="https://kairos-project.org/careers/head-of-special-projects">Apply →</a></p>
 
 ---
-*Posted 2026-09-03 · Listing synced 2026-09-03 · 80k job ID `recUXn50y6RPolqGc`*
+*Posted 2026-09-03 · Listing synced 2026-09-04 · 80k job ID `recUXn50y6RPolqGc`*

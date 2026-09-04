@@ -4,25 +4,20 @@ employer: "SecureBio"
 job_id: "reckVEJckHhe9Kfoo"
 last_updated: "2026-09-03T10:31:59.972607Z"
 posted_at: "2026-07-17T00:05:00Z"
-status: ready
+status: closed
+closed_at: "2026-09-04"
 apply_url: "https://securebio.org/careers/associate-scientist-2026"
 areas:
   - "Biosecurity & pandemic preparedness"
 ---
 
+> ⚠️ **CLOSED on 2026-09-04** — this job is no longer listed on the 80,000 Hours board. Archived snapshot below.
+
 # Associate Scientist
 
-**[SecureBio](https://securebio.org/)**
+**SecureBio**
 
-<dl class="job-meta">
-<dt>Location</dt><dd>Boston metro area, USA</dd>
-<dt>Role type</dt><dd>Full-time</dd>
-<dt>Experience</dt><dd>Mid (5-9 years experience)</dd>
-<dt>Degree</dt><dd>Master's degree</dd>
-<dt>Salary</dt><dd>$100,000 – $140,000</dd>
-</dl>
-
-**Areas & skills:** Biosecurity & pandemic preparedness, Research
+**Areas & skills:** Biosecurity & pandemic preparedness
 
 ## Summary
 - In this role, you'll execute, optimize, and scale metagenomic sequencing workflows for environmental sample processing.

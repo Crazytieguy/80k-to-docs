@@ -2,7 +2,7 @@
 title: "LinkedIn Specialist"
 employer: "The Pollination Project"
 job_id: "rec9pHSGHQZqsgAWW"
-last_updated: "2026-09-03T10:31:19.175765Z"
+last_updated: "2026-09-04T05:31:57.333380Z"
 posted_at: "2026-08-26T00:00:00Z"
 status: ready
 apply_url: "https://jobs.gusto.com/postings/the-pollination-project-linkedin-specialist-1eee9ce4-c710-46f8-ad74-bd0a80a5caf0"
@@ -34,4 +34,4 @@ areas:
 <p class="apply-cta"><a href="https://jobs.gusto.com/postings/the-pollination-project-linkedin-specialist-1eee9ce4-c710-46f8-ad74-bd0a80a5caf0">Apply →</a></p>
 
 ---
-*Posted 2026-08-26 · Listing synced 2026-09-03 · 80k job ID `rec9pHSGHQZqsgAWW`*
+*Posted 2026-08-26 · Listing synced 2026-09-04 · 80k job ID `rec9pHSGHQZqsgAWW`*

@@ -2,7 +2,7 @@
 title: "Program Manager, Global Challenges Project"
 employer: "Kairos"
 job_id: "recywjf12US3oAPZh"
-last_updated: "2026-09-03T10:30:56.949287Z"
+last_updated: "2026-09-04T05:31:35.647236Z"
 posted_at: "2026-09-03T00:03:00Z"
 status: ready
 apply_url: "https://kairos-project.org/careers/gcp-program-manager"
@@ -34,4 +34,4 @@ areas:
 <p class="apply-cta"><a href="https://kairos-project.org/careers/gcp-program-manager">Apply →</a></p>
 
 ---
-*Posted 2026-09-03 · Listing synced 2026-09-03 · 80k job ID `recywjf12US3oAPZh`*
+*Posted 2026-09-03 · Listing synced 2026-09-04 · 80k job ID `recywjf12US3oAPZh`*

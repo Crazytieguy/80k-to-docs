@@ -2,7 +2,7 @@
 title: "Associate Scientist, Virology"
 employer: "Centivax"
 job_id: "reczfbtg1gFjmGtKu"
-last_updated: "2026-09-03T10:31:38.023879Z"
+last_updated: "2026-09-04T05:32:17.448606Z"
 posted_at: "2026-08-13T00:00:00Z"
 status: ready
 apply_url: "https://centivax.applytojob.com/apply/aMDa3UwcHR/Associate-Scientist-Virology?source=Our+Career+Page+Widget"
@@ -34,4 +34,4 @@ areas:
 <p class="apply-cta"><a href="https://centivax.applytojob.com/apply/aMDa3UwcHR/Associate-Scientist-Virology?source=Our+Career+Page+Widget">Apply →</a></p>
 
 ---
-*Posted 2026-08-13 · Listing synced 2026-09-03 · 80k job ID `reczfbtg1gFjmGtKu`*
+*Posted 2026-08-13 · Listing synced 2026-09-04 · 80k job ID `reczfbtg1gFjmGtKu`*

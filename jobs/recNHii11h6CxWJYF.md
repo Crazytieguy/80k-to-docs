@@ -2,7 +2,7 @@
 title: "Research Manager, Talent Development Team"
 employer: "GovAI"
 job_id: "recNHii11h6CxWJYF"
-last_updated: "2026-09-03T10:31:22.711841Z"
+last_updated: "2026-09-04T05:32:01.089883Z"
 posted_at: "2026-08-24T00:05:00Z"
 status: ready
 apply_url: "https://www.governance.ai/post/dc-research-manager-talent-development-team"
@@ -34,4 +34,4 @@ areas:
 <p class="apply-cta"><a href="https://www.governance.ai/post/dc-research-manager-talent-development-team">Apply →</a></p>
 
 ---
-*Posted 2026-08-24 · Listing synced 2026-09-03 · 80k job ID `recNHii11h6CxWJYF`*
+*Posted 2026-08-24 · Listing synced 2026-09-04 · 80k job ID `recNHii11h6CxWJYF`*

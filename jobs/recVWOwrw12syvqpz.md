@@ -2,7 +2,7 @@
 title: "Events Lead, Amsterdam"
 employer: "Safe AI Netherlands"
 job_id: "recVWOwrw12syvqpz"
-last_updated: "2026-09-03T10:31:05.245475Z"
+last_updated: "2026-09-04T05:31:43.921022Z"
 posted_at: "2026-09-01T00:00:00Z"
 status: ready
 apply_url: "https://safeainetherlands.org/open-positions#national:~:text=Events-,Events%20Lead,-6%20to%2010"
@@ -19,7 +19,7 @@ areas:
 <dt>Role type</dt><dd>Part-time</dd>
 <dt>Experience</dt><dd>Junior (1-4 years experience)</dd>
 <dt>Degree</dt><dd>Undergraduate degree or less</dd>
-<dt>Salary</dt><dd>$42,927</dd>
+<dt>Salary</dt><dd>$43,020</dd>
 </dl>
 
 **Areas & skills:** AI safety & policy, Operations
@@ -33,4 +33,4 @@ areas:
 <p class="apply-cta"><a href="https://safeainetherlands.org/open-positions#national:~:text=Events-,Events%20Lead,-6%20to%2010">Apply →</a></p>
 
 ---
-*Posted 2026-09-01 · Listing synced 2026-09-03 · 80k job ID `recVWOwrw12syvqpz`*
+*Posted 2026-09-01 · Listing synced 2026-09-04 · 80k job ID `recVWOwrw12syvqpz`*

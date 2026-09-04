@@ -2,7 +2,7 @@
 title: "Research Professional, Development Innovation Lab"
 employer: "University of Chicago, Becker Friedman Institute for Economics"
 job_id: "recS3v31PTNjpAY1q"
-last_updated: "2026-09-03T10:30:58.780094Z"
+last_updated: "2026-09-04T05:31:37.534358Z"
 posted_at: "2026-09-03T00:00:00Z"
 status: ready
 apply_url: "https://job-boards.greenhouse.io/bfiprep/jobs/7980693003"
@@ -34,4 +34,4 @@ areas:
 <p class="apply-cta"><a href="https://job-boards.greenhouse.io/bfiprep/jobs/7980693003">Apply →</a></p>
 
 ---
-*Posted 2026-09-03 · Listing synced 2026-09-03 · 80k job ID `recS3v31PTNjpAY1q`*
+*Posted 2026-09-03 · Listing synced 2026-09-04 · 80k job ID `recS3v31PTNjpAY1q`*

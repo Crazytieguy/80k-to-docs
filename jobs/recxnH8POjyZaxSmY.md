@@ -2,7 +2,7 @@
 title: "Infrastructure Engineer"
 employer: "Intelligence Security Laboratories"
 job_id: "recxnH8POjyZaxSmY"
-last_updated: "2026-09-03T10:31:27.905606Z"
+last_updated: "2026-09-04T05:32:07.907568Z"
 posted_at: "2026-08-20T00:00:00Z"
 status: ready
 apply_url: "https://jobs.ashbyhq.com/Intelligence-Security-Laboratories/28b30132-ea74-4230-b9ea-eaa9131ba96a?embed=js"
@@ -34,4 +34,4 @@ areas:
 <p class="apply-cta"><a href="https://jobs.ashbyhq.com/Intelligence-Security-Laboratories/28b30132-ea74-4230-b9ea-eaa9131ba96a?embed=js">Apply →</a></p>
 
 ---
-*Posted 2026-08-20 · Listing synced 2026-09-03 · 80k job ID `recxnH8POjyZaxSmY`*
+*Posted 2026-08-20 · Listing synced 2026-09-04 · 80k job ID `recxnH8POjyZaxSmY`*

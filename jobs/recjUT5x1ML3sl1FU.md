@@ -2,7 +2,7 @@
 title: "Research Engineer / Research Scientist, Misuse Red Team"
 employer: "UK Government, AI Security Institute"
 job_id: "recjUT5x1ML3sl1FU"
-last_updated: "2026-09-03T10:30:55.589079Z"
+last_updated: "2026-09-04T05:31:34.265855Z"
 posted_at: "2026-09-03T00:05:00Z"
 status: ready
 apply_url: "https://job-boards.eu.greenhouse.io/aisi/jobs/4966360101"
@@ -19,7 +19,7 @@ areas:
 <dt>Role type</dt><dd>Full-time</dd>
 <dt>Experience</dt><dd>Multiple experience levels</dd>
 <dt>Degree</dt><dd>Undergraduate degree or less</dd>
-<dt>Salary</dt><dd>$87,703 – $195,646</dd>
+<dt>Salary</dt><dd>$87,956 – $196,210</dd>
 </dl>
 
 **Areas & skills:** AI safety & policy, Research, Software engineering, Information security
@@ -34,4 +34,4 @@ areas:
 <p class="apply-cta"><a href="https://job-boards.eu.greenhouse.io/aisi/jobs/4966360101">Apply →</a></p>
 
 ---
-*Posted 2026-09-03 · Listing synced 2026-09-03 · 80k job ID `recjUT5x1ML3sl1FU`*
+*Posted 2026-09-03 · Listing synced 2026-09-04 · 80k job ID `recjUT5x1ML3sl1FU`*

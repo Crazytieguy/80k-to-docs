@@ -2,8 +2,8 @@
 title: "Research Engineer"
 employer: "Principia"
 job_id: "recNtWVYP77c6ShgS"
-last_updated: "2026-09-03T10:32:13.069644Z"
-posted_at: "2026-06-16T00:00:00Z"
+last_updated: "2026-09-04T05:33:15.659927Z"
+posted_at: "2022-01-06T00:00:00Z"
 status: ready
 apply_url: "https://principia-ai.org/opportunities/research-engineer"
 areas:
@@ -34,4 +34,4 @@ areas:
 <p class="apply-cta"><a href="https://principia-ai.org/opportunities/research-engineer">Apply →</a></p>
 
 ---
-*Posted 2026-06-16 · Listing synced 2026-09-03 · 80k job ID `recNtWVYP77c6ShgS`*
+*Posted 2022-01-06 · Listing synced 2026-09-04 · 80k job ID `recNtWVYP77c6ShgS`*

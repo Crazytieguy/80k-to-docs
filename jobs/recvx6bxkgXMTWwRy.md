@@ -2,7 +2,7 @@
 title: "Associate, AI and Advanced Computing"
 employer: "Schmidt Sciences"
 job_id: "recvx6bxkgXMTWwRy"
-last_updated: "2026-09-03T10:31:22.196662Z"
+last_updated: "2026-09-04T05:32:00.347997Z"
 posted_at: "2026-08-25T00:00:00Z"
 status: ready
 apply_url: "https://jobs.lever.co/schmidt-entities/b888ae70-a334-4241-aa94-94238646ec33"
@@ -34,4 +34,4 @@ areas:
 <p class="apply-cta"><a href="https://jobs.lever.co/schmidt-entities/b888ae70-a334-4241-aa94-94238646ec33">Apply →</a></p>
 
 ---
-*Posted 2026-08-25 · Listing synced 2026-09-03 · 80k job ID `recvx6bxkgXMTWwRy`*
+*Posted 2026-08-25 · Listing synced 2026-09-04 · 80k job ID `recvx6bxkgXMTWwRy`*

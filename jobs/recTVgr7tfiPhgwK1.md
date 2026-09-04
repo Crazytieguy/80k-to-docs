@@ -2,7 +2,7 @@
 title: "Engineering Manager, Product"
 employer: "Apollo Research"
 job_id: "recTVgr7tfiPhgwK1"
-last_updated: "2026-09-03T10:31:07.564607Z"
+last_updated: "2026-09-04T05:31:46.530859Z"
 posted_at: "2026-08-31T00:04:41Z"
 status: ready
 apply_url: "https://jobs.lever.co/apolloresearch/0e5d1f41-850d-4675-b212-9b6261448667"
@@ -34,4 +34,4 @@ areas:
 <p class="apply-cta"><a href="https://jobs.lever.co/apolloresearch/0e5d1f41-850d-4675-b212-9b6261448667">Apply →</a></p>
 
 ---
-*Posted 2026-08-31 · Listing synced 2026-09-03 · 80k job ID `recTVgr7tfiPhgwK1`*
+*Posted 2026-08-31 · Listing synced 2026-09-04 · 80k job ID `recTVgr7tfiPhgwK1`*

@@ -2,7 +2,7 @@
 title: "Associate Editor"
 employer: "Lawfare Institute"
 job_id: "recfRBM1T59QzkbzR"
-last_updated: "2026-09-03T10:31:53.188442Z"
+last_updated: "2026-09-04T05:32:32.262521Z"
 posted_at: "2026-07-30T00:02:00Z"
 status: ready
 apply_url: "https://www.lawfaremedia.org/article/come-work-with-us-as-our-new-ai-associate-editor"
@@ -34,4 +34,4 @@ areas:
 <p class="apply-cta"><a href="https://www.lawfaremedia.org/article/come-work-with-us-as-our-new-ai-associate-editor">Apply →</a></p>
 
 ---
-*Posted 2026-07-30 · Listing synced 2026-09-03 · 80k job ID `recfRBM1T59QzkbzR`*
+*Posted 2026-07-30 · Listing synced 2026-09-04 · 80k job ID `recfRBM1T59QzkbzR`*

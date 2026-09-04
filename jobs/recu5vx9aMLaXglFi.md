@@ -2,7 +2,7 @@
 title: "Founding Recruiter"
 employer: "Center for AI Safety"
 job_id: "recu5vx9aMLaXglFi"
-last_updated: "2026-09-03T10:31:23.572387Z"
+last_updated: "2026-09-04T05:32:02.513558Z"
 posted_at: "2026-08-24T00:04:32Z"
 status: ready
 apply_url: "https://job-boards.greenhouse.io/centerforartificialintelligencesafetyinc/jobs/4377932009"
@@ -34,4 +34,4 @@ areas:
 <p class="apply-cta"><a href="https://job-boards.greenhouse.io/centerforartificialintelligencesafetyinc/jobs/4377932009">Apply →</a></p>
 
 ---
-*Posted 2026-08-24 · Listing synced 2026-09-03 · 80k job ID `recu5vx9aMLaXglFi`*
+*Posted 2026-08-24 · Listing synced 2026-09-04 · 80k job ID `recu5vx9aMLaXglFi`*

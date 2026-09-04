@@ -2,7 +2,7 @@
 title: "Business Operations Generalist"
 employer: "Constellation"
 job_id: "recATP1PHwib2IZIS"
-last_updated: "2026-09-03T10:31:28.372025Z"
+last_updated: "2026-09-04T05:32:08.258713Z"
 posted_at: "2026-08-19T00:04:37Z"
 status: ready
 apply_url: "https://jobs.gem.com/constellation-institute/am9icG9zdDo0moI-Dl8xQprFrzNCcFXO"
@@ -33,4 +33,4 @@ areas:
 <p class="apply-cta"><a href="https://jobs.gem.com/constellation-institute/am9icG9zdDo0moI-Dl8xQprFrzNCcFXO">Apply →</a></p>
 
 ---
-*Posted 2026-08-19 · Listing synced 2026-09-03 · 80k job ID `recATP1PHwib2IZIS`*
+*Posted 2026-08-19 · Listing synced 2026-09-04 · 80k job ID `recATP1PHwib2IZIS`*

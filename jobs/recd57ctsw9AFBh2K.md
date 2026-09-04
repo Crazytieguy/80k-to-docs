@@ -2,7 +2,7 @@
 title: "User Safety and Risk Operations Analyst, Global Response, Weekend Shift"
 employer: "OpenAI"
 job_id: "recd57ctsw9AFBh2K"
-last_updated: "2026-09-03T10:31:02.216041Z"
+last_updated: "2026-09-04T05:31:40.919765Z"
 posted_at: "2026-09-02T00:00:00Z"
 status: ready
 apply_url: "https://openai.com/careers/user-safety-and-risk-operations-analyst-global-response-(weekend-shift)-san-francisco/"
@@ -33,4 +33,4 @@ areas:
 <p class="apply-cta"><a href="https://openai.com/careers/user-safety-and-risk-operations-analyst-global-response-(weekend-shift)-san-francisco/">Apply →</a></p>
 
 ---
-*Posted 2026-09-02 · Listing synced 2026-09-03 · 80k job ID `recd57ctsw9AFBh2K`*
+*Posted 2026-09-02 · Listing synced 2026-09-04 · 80k job ID `recd57ctsw9AFBh2K`*

@@ -2,11 +2,12 @@
 title: "Program Officer / Senior Program Officer, AI and Biosecurity"
 employer: "Sentinel Bio"
 job_id: "recftAXInfVZGBwEX"
-last_updated: "2026-09-03T10:31:07.976604Z"
+last_updated: "2026-09-04T05:31:46.955002Z"
 posted_at: "2026-08-31T00:03:00Z"
 status: ready
 apply_url: "https://sentinelbio.org/program-officer-senior-program-officer-ai-and-biosecurity/"
 areas:
+  - "AI safety & policy"
   - "Biosecurity & pandemic preparedness"
 ---
 
@@ -22,7 +23,7 @@ areas:
 <dt>Salary</dt><dd>$123,000 – $170,000</dd>
 </dl>
 
-**Areas & skills:** Biosecurity & pandemic preparedness, Policy, Strategy
+**Areas & skills:** AI safety & policy, Biosecurity & pandemic preparedness, Policy, Strategy
 
 ## Summary
 - In this role, you'll reduce risks from AI enabling catastrophic pandemics by shaping and executing an AIxBiosecurity strategy.
@@ -34,4 +35,4 @@ areas:
 <p class="apply-cta"><a href="https://sentinelbio.org/program-officer-senior-program-officer-ai-and-biosecurity/">Apply →</a></p>
 
 ---
-*Posted 2026-08-31 · Listing synced 2026-09-03 · 80k job ID `recftAXInfVZGBwEX`*
+*Posted 2026-08-31 · Listing synced 2026-09-04 · 80k job ID `recftAXInfVZGBwEX`*

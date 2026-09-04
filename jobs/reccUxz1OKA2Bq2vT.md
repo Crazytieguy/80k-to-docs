@@ -2,7 +2,7 @@
 title: "Research Manager, AI Safety"
 employer: "Cambridge Boston Alignment Initiative"
 job_id: "reccUxz1OKA2Bq2vT"
-last_updated: "2026-09-03T10:32:29.932399Z"
+last_updated: "2026-09-04T05:33:08.566112Z"
 posted_at: "2022-01-06T00:00:00Z"
 status: ready
 apply_url: "https://jobs.ashbyhq.com/cbai/c99e7019-5dda-4739-8943-a19f47570689"
@@ -34,4 +34,4 @@ areas:
 <p class="apply-cta"><a href="https://jobs.ashbyhq.com/cbai/c99e7019-5dda-4739-8943-a19f47570689">Apply →</a></p>
 
 ---
-*Posted 2022-01-06 · Listing synced 2026-09-03 · 80k job ID `reccUxz1OKA2Bq2vT`*
+*Posted 2022-01-06 · Listing synced 2026-09-04 · 80k job ID `reccUxz1OKA2Bq2vT`*

@@ -2,7 +2,7 @@
 title: "Senior Analyst, Counterproliferation Special Projects"
 employer: "Anser (US government role)"
 job_id: "recCkD98BQmqqHNFl"
-last_updated: "2026-09-03T10:31:43.186414Z"
+last_updated: "2026-09-04T05:32:23.332705Z"
 posted_at: "2026-08-07T00:00:00Z"
 status: ready
 apply_url: "https://www.anser.org/job/?id=5376257008"
@@ -34,4 +34,4 @@ areas:
 <p class="apply-cta"><a href="https://www.anser.org/job/?id=5376257008">Apply →</a></p>
 
 ---
-*Posted 2026-08-07 · Listing synced 2026-09-03 · 80k job ID `recCkD98BQmqqHNFl`*
+*Posted 2026-08-07 · Listing synced 2026-09-04 · 80k job ID `recCkD98BQmqqHNFl`*

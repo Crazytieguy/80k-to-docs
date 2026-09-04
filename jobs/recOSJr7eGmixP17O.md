@@ -2,7 +2,7 @@
 title: "AI Red Team Engineer"
 employer: "Apollo Research"
 job_id: "recOSJr7eGmixP17O"
-last_updated: "2026-09-03T10:30:59.133762Z"
+last_updated: "2026-09-04T05:31:37.894875Z"
 posted_at: "2026-09-02T00:05:00Z"
 status: ready
 apply_url: "https://jobs.lever.co/apolloresearch/459b83bf-4e7d-41c5-b93e-c589c6b71bfe"
@@ -34,4 +34,4 @@ areas:
 <p class="apply-cta"><a href="https://jobs.lever.co/apolloresearch/459b83bf-4e7d-41c5-b93e-c589c6b71bfe">Apply →</a></p>
 
 ---
-*Posted 2026-09-02 · Listing synced 2026-09-03 · 80k job ID `recOSJr7eGmixP17O`*
+*Posted 2026-09-02 · Listing synced 2026-09-04 · 80k job ID `recOSJr7eGmixP17O`*

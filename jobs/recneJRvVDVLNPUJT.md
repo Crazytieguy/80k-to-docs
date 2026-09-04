@@ -2,7 +2,7 @@
 title: "Operations Generalist"
 employer: "Constellation"
 job_id: "recneJRvVDVLNPUJT"
-last_updated: "2026-09-03T10:31:02.578474Z"
+last_updated: "2026-09-04T05:31:41.237325Z"
 posted_at: "2026-09-01T00:05:00Z"
 status: ready
 apply_url: "https://jobs.gem.com/constellation-institute/am9icG9zdDr9SrqbFwTsQtD3qpvLr0UW"
@@ -34,4 +34,4 @@ areas:
 <p class="apply-cta"><a href="https://jobs.gem.com/constellation-institute/am9icG9zdDr9SrqbFwTsQtD3qpvLr0UW">Apply →</a></p>
 
 ---
-*Posted 2026-09-01 · Listing synced 2026-09-03 · 80k job ID `recneJRvVDVLNPUJT`*
+*Posted 2026-09-01 · Listing synced 2026-09-04 · 80k job ID `recneJRvVDVLNPUJT`*

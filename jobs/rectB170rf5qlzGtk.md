@@ -2,7 +2,7 @@
 title: "Technical Project Manager, Red Team"
 employer: "FAR AI"
 job_id: "rectB170rf5qlzGtk"
-last_updated: "2026-09-03T10:32:45.574106Z"
+last_updated: "2026-09-04T05:33:25.837696Z"
 posted_at: "2022-01-05T00:00:00Z"
 status: ready
 apply_url: "https://jobs.ashbyhq.com/far.ai/a96e6634-cad3-4263-8376-44b8aec470d0?embed=js"
@@ -34,4 +34,4 @@ areas:
 <p class="apply-cta"><a href="https://jobs.ashbyhq.com/far.ai/a96e6634-cad3-4263-8376-44b8aec470d0?embed=js">Apply →</a></p>
 
 ---
-*Posted 2022-01-05 · Listing synced 2026-09-03 · 80k job ID `rectB170rf5qlzGtk`*
+*Posted 2022-01-05 · Listing synced 2026-09-04 · 80k job ID `rectB170rf5qlzGtk`*

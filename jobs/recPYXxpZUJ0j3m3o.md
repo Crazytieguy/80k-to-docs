@@ -2,7 +2,7 @@
 title: "Head of Programme, Security and Technology"
 employer: "United Nations, Institute for Disarmament Research"
 job_id: "recPYXxpZUJ0j3m3o"
-last_updated: "2026-09-03T10:31:12.740350Z"
+last_updated: "2026-09-04T05:31:51.228557Z"
 posted_at: "2026-08-28T00:00:00Z"
 status: ready
 apply_url: "https://unidir.org/job/head-of-programme-security-and-technology-programme-262408/"
@@ -33,4 +33,4 @@ areas:
 <p class="apply-cta"><a href="https://unidir.org/job/head-of-programme-security-and-technology-programme-262408/">Apply →</a></p>
 
 ---
-*Posted 2026-08-28 · Listing synced 2026-09-03 · 80k job ID `recPYXxpZUJ0j3m3o`*
+*Posted 2026-08-28 · Listing synced 2026-09-04 · 80k job ID `recPYXxpZUJ0j3m3o`*

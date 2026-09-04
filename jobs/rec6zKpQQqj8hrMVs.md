@@ -2,7 +2,7 @@
 title: "MATS Program (Winter 2027)"
 employer: "MATS Research"
 job_id: "rec6zKpQQqj8hrMVs"
-last_updated: "2026-09-03T10:31:26.182490Z"
+last_updated: "2026-09-04T05:32:05.931517Z"
 posted_at: "2026-08-20T00:05:00Z"
 status: ready
 apply_url: "https://matsprogram.org/apply"
@@ -34,4 +34,4 @@ areas:
 <p class="apply-cta"><a href="https://matsprogram.org/apply">Apply →</a></p>
 
 ---
-*Posted 2026-08-20 · Listing synced 2026-09-03 · 80k job ID `rec6zKpQQqj8hrMVs`*
+*Posted 2026-08-20 · Listing synced 2026-09-04 · 80k job ID `rec6zKpQQqj8hrMVs`*

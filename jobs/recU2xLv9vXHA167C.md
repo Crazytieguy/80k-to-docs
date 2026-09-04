@@ -2,7 +2,7 @@
 title: "Program Officer, AI Resources"
 employer: "OpenAI Foundation"
 job_id: "recU2xLv9vXHA167C"
-last_updated: "2026-09-03T10:31:25.648217Z"
+last_updated: "2026-09-04T05:32:05.290754Z"
 posted_at: "2026-08-21T00:03:00Z"
 status: ready
 apply_url: "https://openaifoundation.org/careers/program-officer-ai-resources-33d3015a-70f3-4f5a-be26-9803f3582403"
@@ -34,4 +34,4 @@ areas:
 <p class="apply-cta"><a href="https://openaifoundation.org/careers/program-officer-ai-resources-33d3015a-70f3-4f5a-be26-9803f3582403">Apply →</a></p>
 
 ---
-*Posted 2026-08-21 · Listing synced 2026-09-03 · 80k job ID `recU2xLv9vXHA167C`*
+*Posted 2026-08-21 · Listing synced 2026-09-04 · 80k job ID `recU2xLv9vXHA167C`*

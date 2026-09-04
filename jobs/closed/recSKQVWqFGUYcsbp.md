@@ -4,25 +4,20 @@ employer: "80,000 Hours"
 job_id: "recSKQVWqFGUYcsbp"
 last_updated: "2026-09-03T10:31:50.950797Z"
 posted_at: "2026-07-31T00:05:00Z"
-status: ready
+status: closed
+closed_at: "2026-09-04"
 apply_url: "https://jobs.ashbyhq.com/80000hours/7082c79b-193a-4a1e-970b-f956a579c11e"
 areas:
   - "AI safety & policy"
 ---
 
+> ⚠️ **CLOSED on 2026-09-04** — this job is no longer listed on the 80,000 Hours board. Archived snapshot below.
+
 # Headhunting Associate / Specialist
 
-**[80,000 Hours](https://80000hours.org/)**
+**80,000 Hours**
 
-<dl class="job-meta">
-<dt>Location</dt><dd>London, UK, Washington, DC metro area, San Francisco Bay Area, Remote, Global, UK, USA, USA (Confirmed Visas), UK (Confirmed Visas)</dd>
-<dt>Role type</dt><dd>Full-time</dd>
-<dt>Experience</dt><dd>Multiple experience levels</dd>
-<dt>Degree</dt><dd>Undergraduate degree or less</dd>
-<dt>Salary</dt><dd>$97,148 – $147,071</dd>
-</dl>
-
-**Areas & skills:** AI safety & policy, Strategy
+**Areas & skills:** AI safety & policy
 
 ## Summary
 - In this role, you'll run searches to identify and suggest candidates for organizations working on AI safety and impact.

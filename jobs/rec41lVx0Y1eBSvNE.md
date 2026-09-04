@@ -2,7 +2,7 @@
 title: "Research Intern, Economics Program (Fall 2026)"
 employer: "Center for Strategic and International Studies"
 job_id: "rec41lVx0Y1eBSvNE"
-last_updated: "2026-09-03T10:31:01.283832Z"
+last_updated: "2026-09-04T05:31:39.996260Z"
 posted_at: "2026-09-02T00:00:00Z"
 status: ready
 apply_url: "https://job-boards.greenhouse.io/centerforstrategicandinternationalstudiesinc/jobs/4314577009"
@@ -34,4 +34,4 @@ areas:
 <p class="apply-cta"><a href="https://job-boards.greenhouse.io/centerforstrategicandinternationalstudiesinc/jobs/4314577009">Apply →</a></p>
 
 ---
-*Posted 2026-09-02 · Listing synced 2026-09-03 · 80k job ID `rec41lVx0Y1eBSvNE`*
+*Posted 2026-09-02 · Listing synced 2026-09-04 · 80k job ID `rec41lVx0Y1eBSvNE`*

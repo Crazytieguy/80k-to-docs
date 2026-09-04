@@ -2,7 +2,7 @@
 title: "Associate Program Officer, Transformative AI Fund"
 employer: "Centre for Effective Altruism"
 job_id: "rec4ZANgvHHkPh9J5"
-last_updated: "2026-09-03T10:31:34.041545Z"
+last_updated: "2026-09-04T05:32:13.202754Z"
 posted_at: "2026-08-17T00:04:30Z"
 status: ready
 apply_url: "https://www.centreforeffectivealtruism.org/careers?ashby_jid=a14b4d0e-ba00-4bf1-8317-61034ab43d21"
@@ -34,4 +34,4 @@ areas:
 <p class="apply-cta"><a href="https://www.centreforeffectivealtruism.org/careers?ashby_jid=a14b4d0e-ba00-4bf1-8317-61034ab43d21">Apply →</a></p>
 
 ---
-*Posted 2026-08-17 · Listing synced 2026-09-03 · 80k job ID `rec4ZANgvHHkPh9J5`*
+*Posted 2026-08-17 · Listing synced 2026-09-04 · 80k job ID `rec4ZANgvHHkPh9J5`*

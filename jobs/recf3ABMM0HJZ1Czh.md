@@ -2,7 +2,7 @@
 title: "AI Security Researcher"
 employer: "MiniMax"
 job_id: "recf3ABMM0HJZ1Czh"
-last_updated: "2026-09-03T10:31:29.690297Z"
+last_updated: "2026-09-04T05:32:09.661084Z"
 posted_at: "2026-08-19T00:00:00Z"
 status: ready
 apply_url: "https://vrfi1sk8a0.jobs.feishu.cn/index/position/7655214771168020742/detail"
@@ -32,4 +32,4 @@ areas:
 <p class="apply-cta"><a href="https://vrfi1sk8a0.jobs.feishu.cn/index/position/7655214771168020742/detail">Apply →</a></p>
 
 ---
-*Posted 2026-08-19 · Listing synced 2026-09-03 · 80k job ID `recf3ABMM0HJZ1Czh`*
+*Posted 2026-08-19 · Listing synced 2026-09-04 · 80k job ID `recf3ABMM0HJZ1Czh`*

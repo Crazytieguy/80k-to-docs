@@ -2,7 +2,7 @@
 title: "Security Research Engineer"
 employer: "AI Verification and Evaluation Research Institute"
 job_id: "rec6oKpAIul1qZusY"
-last_updated: "2026-09-03T10:31:08.331042Z"
+last_updated: "2026-09-04T05:31:47.289369Z"
 posted_at: "2026-08-31T00:02:00Z"
 status: ready
 apply_url: "https://www.averi.org/careers?ashby_jid=cee7cad4-1da2-4fc0-b185-987b08833079"
@@ -33,4 +33,4 @@ areas:
 <p class="apply-cta"><a href="https://www.averi.org/careers?ashby_jid=cee7cad4-1da2-4fc0-b185-987b08833079">Apply →</a></p>
 
 ---
-*Posted 2026-08-31 · Listing synced 2026-09-03 · 80k job ID `rec6oKpAIul1qZusY`*
+*Posted 2026-08-31 · Listing synced 2026-09-04 · 80k job ID `rec6oKpAIul1qZusY`*

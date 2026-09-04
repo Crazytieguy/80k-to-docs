@@ -2,7 +2,7 @@
 title: "Managing Director,  Europe"
 employer: "Pour Demain"
 job_id: "receJXqXjxsncZrX2"
-last_updated: "2026-09-03T10:31:40.185434Z"
+last_updated: "2026-09-04T05:32:19.808252Z"
 posted_at: "2026-08-11T00:02:00Z"
 status: ready
 apply_url: "https://form.jotform.com/262166120063143"
@@ -33,4 +33,4 @@ areas:
 <p class="apply-cta"><a href="https://form.jotform.com/262166120063143">Apply →</a></p>
 
 ---
-*Posted 2026-08-11 · Listing synced 2026-09-03 · 80k job ID `receJXqXjxsncZrX2`*
+*Posted 2026-08-11 · Listing synced 2026-09-04 · 80k job ID `receJXqXjxsncZrX2`*
