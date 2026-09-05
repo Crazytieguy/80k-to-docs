@@ -2,7 +2,7 @@
 title: "Truman Fellowship"
 employer: "Sandia National Laboratories"
 job_id: "reczdqJpFQyuASfvN"
-last_updated: "2026-09-04T05:32:26.209464Z"
+last_updated: "2026-09-05T05:33:02.734140Z"
 posted_at: "2026-08-06T00:00:00Z"
 status: ready
 apply_url: "https://www.sandia.gov/careers/careers/students-and-postdocs/fellowships/truman-fellowship/"
@@ -34,4 +34,4 @@ areas:
 <p class="apply-cta"><a href="https://www.sandia.gov/careers/careers/students-and-postdocs/fellowships/truman-fellowship/">Apply →</a></p>
 
 ---
-*Posted 2026-08-06 · Listing synced 2026-09-04 · 80k job ID `reczdqJpFQyuASfvN`*
+*Posted 2026-08-06 · Listing synced 2026-09-05 · 80k job ID `reczdqJpFQyuASfvN`*

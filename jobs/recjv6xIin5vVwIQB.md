@@ -2,10 +2,10 @@
 title: "Coordinator / Specialist, People Operations"
 employer: "Constellation"
 job_id: "recjv6xIin5vVwIQB"
-last_updated: "2026-09-04T05:32:31.743602Z"
+last_updated: "2026-09-05T05:33:07.950520Z"
 posted_at: "2026-07-30T00:04:07Z"
 status: ready
-apply_url: "https://jobs.gem.com/constellation-institute/am9icG9zdDr6YtwVe5sv7lp66YpgMb-R"
+apply_url: "https://jobs.gem.com/constellation-institute/am9icG9zdDonxB7gYBcq1IolOXN6EMvC"
 areas:
   - "AI safety & policy"
 ---
@@ -31,7 +31,7 @@ areas:
 - Track immigration timelines and liaise with counsel on visa documentation and employee communications.
 - Identify opportunities to streamline and systematize People Ops workflows as the organization scales.
 
-<p class="apply-cta"><a href="https://jobs.gem.com/constellation-institute/am9icG9zdDr6YtwVe5sv7lp66YpgMb-R">Apply →</a></p>
+<p class="apply-cta"><a href="https://jobs.gem.com/constellation-institute/am9icG9zdDonxB7gYBcq1IolOXN6EMvC">Apply →</a></p>
 
 ---
-*Posted 2026-07-30 · Listing synced 2026-09-04 · 80k job ID `recjv6xIin5vVwIQB`*
+*Posted 2026-07-30 · Listing synced 2026-09-05 · 80k job ID `recjv6xIin5vVwIQB`*

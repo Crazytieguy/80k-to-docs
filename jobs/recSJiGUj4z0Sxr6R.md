@@ -2,7 +2,7 @@
 title: "Program Analyst, Radiological and Nuclear Defense"
 employer: "Anser (US government role)"
 job_id: "recSJiGUj4z0Sxr6R"
-last_updated: "2026-09-04T05:32:21.784434Z"
+last_updated: "2026-09-05T05:32:58.677601Z"
 posted_at: "2026-08-10T00:00:00Z"
 status: ready
 apply_url: "https://www.anser.org/job/?id=5376268008"
@@ -33,4 +33,4 @@ areas:
 <p class="apply-cta"><a href="https://www.anser.org/job/?id=5376268008">Apply →</a></p>
 
 ---
-*Posted 2026-08-10 · Listing synced 2026-09-04 · 80k job ID `recSJiGUj4z0Sxr6R`*
+*Posted 2026-08-10 · Listing synced 2026-09-05 · 80k job ID `recSJiGUj4z0Sxr6R`*

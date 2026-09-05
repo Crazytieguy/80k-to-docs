@@ -2,7 +2,7 @@
 title: "Community Manager, Berkeley"
 employer: "MATS Research"
 job_id: "rec6LXiuMruqJPyeN"
-last_updated: "2026-09-04T05:31:38.598791Z"
+last_updated: "2026-09-05T05:32:18.328997Z"
 posted_at: "2026-09-02T00:05:00Z"
 status: ready
 apply_url: "https://www.matsprogram.org/careers/community-manager-berkeley"
@@ -34,4 +34,4 @@ areas:
 <p class="apply-cta"><a href="https://www.matsprogram.org/careers/community-manager-berkeley">Apply →</a></p>
 
 ---
-*Posted 2026-09-02 · Listing synced 2026-09-04 · 80k job ID `rec6LXiuMruqJPyeN`*
+*Posted 2026-09-02 · Listing synced 2026-09-05 · 80k job ID `rec6LXiuMruqJPyeN`*

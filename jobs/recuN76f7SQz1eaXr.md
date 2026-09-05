@@ -2,7 +2,7 @@
 title: "Head of Frontier AI Risk"
 employer: "AI Safety Asia"
 job_id: "recuN76f7SQz1eaXr"
-last_updated: "2026-09-04T05:31:39.112450Z"
+last_updated: "2026-09-05T05:32:18.873189Z"
 posted_at: "2026-09-02T00:03:00Z"
 status: ready
 apply_url: "https://docs.google.com/document/d/1DJWX1wpRqu4CS72o1Jt_XiS9B6O06lkdmsbrofJ4zLk/edit?tab=t.0#heading=h.zbijbfxxdmk0"
@@ -31,4 +31,4 @@ areas:
 <p class="apply-cta"><a href="https://docs.google.com/document/d/1DJWX1wpRqu4CS72o1Jt_XiS9B6O06lkdmsbrofJ4zLk/edit?tab=t.0#heading=h.zbijbfxxdmk0">Apply →</a></p>
 
 ---
-*Posted 2026-09-02 · Listing synced 2026-09-04 · 80k job ID `recuN76f7SQz1eaXr`*
+*Posted 2026-09-02 · Listing synced 2026-09-05 · 80k job ID `recuN76f7SQz1eaXr`*

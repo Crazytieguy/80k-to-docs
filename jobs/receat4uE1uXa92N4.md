@@ -2,7 +2,7 @@
 title: "Member of Technical Staff, AI Digest"
 employer: "Sage"
 job_id: "receat4uE1uXa92N4"
-last_updated: "2026-09-04T05:33:15.837173Z"
+last_updated: "2026-09-05T05:33:51.819848Z"
 posted_at: "2022-01-06T00:00:00Z"
 status: ready
 apply_url: "https://jobs.ashbyhq.com/sagefuture/29113420-96a2-4c82-ab93-5f08755b55c3"
@@ -34,4 +34,4 @@ areas:
 <p class="apply-cta"><a href="https://jobs.ashbyhq.com/sagefuture/29113420-96a2-4c82-ab93-5f08755b55c3">Apply →</a></p>
 
 ---
-*Posted 2022-01-06 · Listing synced 2026-09-04 · 80k job ID `receat4uE1uXa92N4`*
+*Posted 2022-01-06 · Listing synced 2026-09-05 · 80k job ID `receat4uE1uXa92N4`*

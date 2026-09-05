@@ -2,7 +2,7 @@
 title: "Research Operations Lead"
 employer: "Safe AI Netherlands"
 job_id: "rec4t65PSdNKnlLMz"
-last_updated: "2026-09-04T05:31:43.786403Z"
+last_updated: "2026-09-05T05:32:23.470378Z"
 posted_at: "2026-09-01T00:00:00Z"
 status: ready
 apply_url: "https://airtable.com/appMwcwhDIpVSvLrz/pagfucm2gVY91sjPg/form"
@@ -19,7 +19,7 @@ areas:
 <dt>Role type</dt><dd>Full-time</dd>
 <dt>Experience</dt><dd>Junior (1-4 years experience), Mid (5-9 years experience)</dd>
 <dt>Degree</dt><dd>Undergraduate degree or less</dd>
-<dt>Salary</dt><dd>$58,135 – $69,763</dd>
+<dt>Salary</dt><dd>$58,075 – $69,690</dd>
 </dl>
 
 **Areas & skills:** AI safety & policy, Operations, Management, Strategy
@@ -34,4 +34,4 @@ areas:
 <p class="apply-cta"><a href="https://airtable.com/appMwcwhDIpVSvLrz/pagfucm2gVY91sjPg/form">Apply →</a></p>
 
 ---
-*Posted 2026-09-01 · Listing synced 2026-09-04 · 80k job ID `rec4t65PSdNKnlLMz`*
+*Posted 2026-09-01 · Listing synced 2026-09-05 · 80k job ID `rec4t65PSdNKnlLMz`*

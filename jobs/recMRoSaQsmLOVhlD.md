@@ -2,7 +2,7 @@
 title: "Advisor, Biosecurity"
 employer: "Successif"
 job_id: "recMRoSaQsmLOVhlD"
-last_updated: "2026-09-04T05:32:03.578733Z"
+last_updated: "2026-09-05T05:32:42.862447Z"
 posted_at: "2026-08-24T00:01:00Z"
 status: ready
 apply_url: "https://www.successif.org/biosecurity-advisor"
@@ -34,4 +34,4 @@ areas:
 <p class="apply-cta"><a href="https://www.successif.org/biosecurity-advisor">Apply →</a></p>
 
 ---
-*Posted 2026-08-24 · Listing synced 2026-09-04 · 80k job ID `recMRoSaQsmLOVhlD`*
+*Posted 2026-08-24 · Listing synced 2026-09-05 · 80k job ID `recMRoSaQsmLOVhlD`*

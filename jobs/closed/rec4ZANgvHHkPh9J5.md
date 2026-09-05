@@ -4,25 +4,20 @@ employer: "Centre for Effective Altruism"
 job_id: "rec4ZANgvHHkPh9J5"
 last_updated: "2026-09-04T05:32:13.202754Z"
 posted_at: "2026-08-17T00:04:30Z"
-status: ready
+status: closed
+closed_at: "2026-09-05"
 apply_url: "https://www.centreforeffectivealtruism.org/careers?ashby_jid=a14b4d0e-ba00-4bf1-8317-61034ab43d21"
 areas:
   - "AI safety & policy"
 ---
 
+> ⚠️ **CLOSED on 2026-09-05** — this job is no longer listed on the 80,000 Hours board. Archived snapshot below.
+
 # Associate Program Officer, Transformative AI Fund
 
-**[Centre for Effective Altruism](https://www.centreforeffectivealtruism.org)**
+**Centre for Effective Altruism**
 
-<dl class="job-meta">
-<dt>Location</dt><dd>Remote, Global</dd>
-<dt>Role type</dt><dd>Full-time</dd>
-<dt>Experience</dt><dd>Junior (1-4 years experience)</dd>
-<dt>Degree</dt><dd>Undergraduate degree or less</dd>
-<dt>Salary</dt><dd>$123,079 – $146,595</dd>
-</dl>
-
-**Areas & skills:** AI safety & policy, Strategy
+**Areas & skills:** AI safety & policy
 
 ## Summary
 - In this role, you'll evaluate grant applications for early-stage transformative AI projects and help shape the fund's systems.

@@ -2,7 +2,7 @@
 title: "Research Protocol Technician"
 employer: "Active Site"
 job_id: "recXO1QnNmFU6yoyJ"
-last_updated: "2026-09-04T05:32:34.544833Z"
+last_updated: "2026-09-05T05:33:10.809158Z"
 posted_at: "2026-07-28T00:00:00Z"
 status: ready
 apply_url: "https://jobs.ashbyhq.com/activesite/0a56d190-0ef8-44ec-a0d8-11695b9b7879"
@@ -34,4 +34,4 @@ areas:
 <p class="apply-cta"><a href="https://jobs.ashbyhq.com/activesite/0a56d190-0ef8-44ec-a0d8-11695b9b7879">Apply →</a></p>
 
 ---
-*Posted 2026-07-28 · Listing synced 2026-09-04 · 80k job ID `recXO1QnNmFU6yoyJ`*
+*Posted 2026-07-28 · Listing synced 2026-09-05 · 80k job ID `recXO1QnNmFU6yoyJ`*

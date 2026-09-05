@@ -2,7 +2,7 @@
 title: "Applied AI / ML Researcher"
 employer: "Massachusetts Institute of Technology, Lincoln Laboratory"
 job_id: "recAAsKj8uTTkWu3t"
-last_updated: "2026-09-04T05:33:41.533201Z"
+last_updated: "2026-09-05T05:34:16.653168Z"
 posted_at: "2022-01-02T00:00:00Z"
 status: ready
 apply_url: "https://careers.ll.mit.edu/job/Lexington-Applied-AIML-Researcher-MA-02420/1288187600/"
@@ -33,4 +33,4 @@ areas:
 <p class="apply-cta"><a href="https://careers.ll.mit.edu/job/Lexington-Applied-AIML-Researcher-MA-02420/1288187600/">Apply →</a></p>
 
 ---
-*Posted 2022-01-02 · Listing synced 2026-09-04 · 80k job ID `recAAsKj8uTTkWu3t`*
+*Posted 2022-01-02 · Listing synced 2026-09-05 · 80k job ID `recAAsKj8uTTkWu3t`*

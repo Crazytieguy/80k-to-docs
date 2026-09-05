@@ -2,7 +2,7 @@
 title: "Research Manager, UK Fellowships"
 employer: "GovAI"
 job_id: "recXPpQdgO0IJBg0j"
-last_updated: "2026-09-04T05:31:45.119604Z"
+last_updated: "2026-09-05T05:32:24.816849Z"
 posted_at: "2026-08-31T00:04:51Z"
 status: ready
 apply_url: "https://www.governance.ai/post/research-manager-uk-fellowships"
@@ -19,7 +19,7 @@ areas:
 <dt>Role type</dt><dd>Full-time</dd>
 <dt>Experience</dt><dd>Mid (5-9 years experience)</dd>
 <dt>Degree</dt><dd>Undergraduate degree or less</dd>
-<dt>Salary</dt><dd>$112,313 – $142,083</dd>
+<dt>Salary</dt><dd>$112,236 – $141,986</dd>
 </dl>
 
 **Areas & skills:** AI safety & policy, Operations, Management
@@ -34,4 +34,4 @@ areas:
 <p class="apply-cta"><a href="https://www.governance.ai/post/research-manager-uk-fellowships">Apply →</a></p>
 
 ---
-*Posted 2026-08-31 · Listing synced 2026-09-04 · 80k job ID `recXPpQdgO0IJBg0j`*
+*Posted 2026-08-31 · Listing synced 2026-09-05 · 80k job ID `recXPpQdgO0IJBg0j`*

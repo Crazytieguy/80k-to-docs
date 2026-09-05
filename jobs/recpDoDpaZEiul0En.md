@@ -2,7 +2,7 @@
 title: "Social Video Producer"
 employer: "Epoch AI"
 job_id: "recpDoDpaZEiul0En"
-last_updated: "2026-09-04T05:31:41.637285Z"
+last_updated: "2026-09-05T05:32:21.287159Z"
 posted_at: "2026-09-01T00:04:41Z"
 status: ready
 apply_url: "https://jobs.lever.co/epoch-ai/e18b5576-569d-43f8-94ff-3a179445584d"
@@ -34,4 +34,4 @@ areas:
 <p class="apply-cta"><a href="https://jobs.lever.co/epoch-ai/e18b5576-569d-43f8-94ff-3a179445584d">Apply →</a></p>
 
 ---
-*Posted 2026-09-01 · Listing synced 2026-09-04 · 80k job ID `recpDoDpaZEiul0En`*
+*Posted 2026-09-01 · Listing synced 2026-09-05 · 80k job ID `recpDoDpaZEiul0En`*

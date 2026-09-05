@@ -2,7 +2,7 @@
 title: "Staff Research Scientist, AI Safety"
 employer: "Biohub"
 job_id: "recuRTh2rclM2KNEO"
-last_updated: "2026-09-04T05:31:59.047044Z"
+last_updated: "2026-09-05T05:32:39.391960Z"
 posted_at: "2026-08-25T00:00:00Z"
 status: ready
 apply_url: "https://job-boards.greenhouse.io/biohub/jobs/8127000?gh_src=7uvowdw71us"
@@ -35,4 +35,4 @@ areas:
 <p class="apply-cta"><a href="https://job-boards.greenhouse.io/biohub/jobs/8127000?gh_src=7uvowdw71us">Apply →</a></p>
 
 ---
-*Posted 2026-08-25 · Listing synced 2026-09-04 · 80k job ID `recuRTh2rclM2KNEO`*
+*Posted 2026-08-25 · Listing synced 2026-09-05 · 80k job ID `recuRTh2rclM2KNEO`*

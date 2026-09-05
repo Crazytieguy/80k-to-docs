@@ -2,7 +2,7 @@
 title: "Research Resident, AI and Biosecurity, Center on AI, Security, and Technology"
 employer: "RAND Corporation"
 job_id: "recxyu1jkqND3AVwO"
-last_updated: "2026-09-04T05:31:38.750043Z"
+last_updated: "2026-09-05T05:32:18.477023Z"
 posted_at: "2026-09-02T00:05:00Z"
 status: ready
 apply_url: "https://rand.wd5.myworkdayjobs.com/en-US/External_Career_Site/job/USA---Remote/AI---Biosecurity-Research-Resident_R3519"
@@ -33,4 +33,4 @@ areas:
 <p class="apply-cta"><a href="https://rand.wd5.myworkdayjobs.com/en-US/External_Career_Site/job/USA---Remote/AI---Biosecurity-Research-Resident_R3519">Apply →</a></p>
 
 ---
-*Posted 2026-09-02 · Listing synced 2026-09-04 · 80k job ID `recxyu1jkqND3AVwO`*
+*Posted 2026-09-02 · Listing synced 2026-09-05 · 80k job ID `recxyu1jkqND3AVwO`*

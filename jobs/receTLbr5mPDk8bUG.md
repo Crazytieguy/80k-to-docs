@@ -2,7 +2,7 @@
 title: "Emerging and Disruptive Technology Analyst"
 employer: "Anser (US government role)"
 job_id: "receTLbr5mPDk8bUG"
-last_updated: "2026-09-04T05:33:36.134489Z"
+last_updated: "2026-09-05T05:34:11.406234Z"
 posted_at: "2022-01-02T00:00:00Z"
 status: ready
 apply_url: "https://www.anser.org/job/?id=5257952008"
@@ -33,4 +33,4 @@ areas:
 <p class="apply-cta"><a href="https://www.anser.org/job/?id=5257952008">Apply →</a></p>
 
 ---
-*Posted 2022-01-02 · Listing synced 2026-09-04 · 80k job ID `receTLbr5mPDk8bUG`*
+*Posted 2022-01-02 · Listing synced 2026-09-05 · 80k job ID `receTLbr5mPDk8bUG`*

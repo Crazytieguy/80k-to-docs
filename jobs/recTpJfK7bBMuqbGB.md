@@ -2,7 +2,7 @@
 title: "Research Fellow, Vaccine Confidence Project"
 employer: "University of London, School of Hygiene and Tropical Medicine"
 job_id: "recTpJfK7bBMuqbGB"
-last_updated: "2026-09-04T05:31:51.374596Z"
+last_updated: "2026-09-05T05:32:32.139066Z"
 posted_at: "2026-08-28T00:00:00Z"
 status: ready
 apply_url: "https://jobs.lshtm.ac.uk/vacancy.aspx?ref=EPH-EPED-2025-14-R"
@@ -19,7 +19,7 @@ areas:
 <dt>Role type</dt><dd>Fellowship</dd>
 <dt>Experience</dt><dd>Junior (1-4 years experience), Entry-level</dd>
 <dt>Degree</dt><dd>Master's degree</dd>
-<dt>Salary</dt><dd>$61,878 – $70,192</dd>
+<dt>Salary</dt><dd>$61,836 – $70,144</dd>
 </dl>
 
 **Areas & skills:** Global health & development, Research
@@ -34,4 +34,4 @@ areas:
 <p class="apply-cta"><a href="https://jobs.lshtm.ac.uk/vacancy.aspx?ref=EPH-EPED-2025-14-R">Apply →</a></p>
 
 ---
-*Posted 2026-08-28 · Listing synced 2026-09-04 · 80k job ID `recTpJfK7bBMuqbGB`*
+*Posted 2026-08-28 · Listing synced 2026-09-05 · 80k job ID `recTpJfK7bBMuqbGB`*

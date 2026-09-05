@@ -4,25 +4,20 @@ employer: "Active Site"
 job_id: "rec1FnUDdrggfqMaO"
 last_updated: "2026-09-04T05:32:21.274598Z"
 posted_at: "2026-08-10T00:03:00Z"
-status: ready
+status: closed
+closed_at: "2026-09-05"
 apply_url: "https://jobs.ashbyhq.com/activesite/c9e39234-c465-4a6b-9b24-a49b80750f83"
 areas:
   - "Biosecurity & pandemic preparedness"
 ---
 
+> ⚠️ **CLOSED on 2026-09-05** — this job is no longer listed on the 80,000 Hours board. Archived snapshot below.
+
 # Lab Operations Associate
 
-**[Active Site](https://activesite.bio/)**
+**Active Site**
 
-<dl class="job-meta">
-<dt>Location</dt><dd>Boston metro area, Somerville, MA, USA, USA (Confirmed Visas)</dd>
-<dt>Role type</dt><dd>Full-time</dd>
-<dt>Experience</dt><dd>Junior (1-4 years experience), Entry-level</dd>
-<dt>Degree</dt><dd>Undergraduate degree or less</dd>
-<dt>Salary</dt><dd>$65,000</dd>
-</dl>
-
-**Areas & skills:** Biosecurity & pandemic preparedness, Operations
+**Areas & skills:** Biosecurity & pandemic preparedness
 
 ## Summary
 - In this role, you'll support laboratory and office operations while analyzing experimental results for AI and biology research.

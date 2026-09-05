@@ -2,7 +2,7 @@
 title: "Intern, AI Safety Research"
 employer: "AIM Intelligence"
 job_id: "recUKaCklv7gYtyE4"
-last_updated: "2026-09-04T05:31:39.384946Z"
+last_updated: "2026-09-05T05:32:19.116936Z"
 posted_at: "2026-09-02T00:00:00Z"
 status: ready
 apply_url: "https://career.aim-intelligence.com/ko/o/235183"
@@ -33,4 +33,4 @@ areas:
 <p class="apply-cta"><a href="https://career.aim-intelligence.com/ko/o/235183">Apply →</a></p>
 
 ---
-*Posted 2026-09-02 · Listing synced 2026-09-04 · 80k job ID `recUKaCklv7gYtyE4`*
+*Posted 2026-09-02 · Listing synced 2026-09-05 · 80k job ID `recUKaCklv7gYtyE4`*

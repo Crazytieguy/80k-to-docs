@@ -4,25 +4,20 @@ employer: "MATS Research"
 job_id: "recjaDNzJIVFWGunr"
 last_updated: "2026-09-04T05:32:38.194037Z"
 posted_at: "2026-07-20T00:05:00Z"
-status: ready
+status: closed
+closed_at: "2026-09-05"
 apply_url: "https://www.matsprogram.org/careers/office-manager"
 areas:
   - "AI safety & policy"
 ---
 
+> ⚠️ **CLOSED on 2026-09-05** — this job is no longer listed on the 80,000 Hours board. Archived snapshot below.
+
 # Office Manager
 
-**[MATS Research](https://www.matsprogram.org/)**
+**MATS Research**
 
-<dl class="job-meta">
-<dt>Location</dt><dd>London, UK, UK</dd>
-<dt>Role type</dt><dd>Full-time</dd>
-<dt>Experience</dt><dd>Junior (1-4 years experience)</dd>
-<dt>Degree</dt><dd>Undergraduate degree or less</dd>
-<dt>Salary</dt><dd>$74,424 – $108,254</dd>
-</dl>
-
-**Areas & skills:** AI safety & policy, Operations
+**Areas & skills:** AI safety & policy
 
 ## Summary
 - In this role, you will be the operational backbone of the office, in order to keep the London workspace running smoothly.

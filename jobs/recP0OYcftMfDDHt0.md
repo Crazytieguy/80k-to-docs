@@ -2,7 +2,7 @@
 title: "Operations Lead"
 employer: "Outcapped"
 job_id: "recP0OYcftMfDDHt0"
-last_updated: "2026-09-04T05:32:00.083218Z"
+last_updated: "2026-09-05T05:32:40.368921Z"
 posted_at: "2026-08-25T00:00:00Z"
 status: ready
 apply_url: "https://www.outcapped.com/outcapped-careers/?ashby_jid=df440daf-dac7-49ee-aeac-c9d576e3e5dd"
@@ -20,7 +20,7 @@ areas:
 <dt>Role type</dt><dd>Full-time</dd>
 <dt>Experience</dt><dd>Mid (5-9 years experience)</dd>
 <dt>Degree</dt><dd>Undergraduate degree or less</dd>
-<dt>Salary</dt><dd>$96,737 – $133,014</dd>
+<dt>Salary</dt><dd>$96,636 – $132,875</dd>
 </dl>
 
 **Areas & skills:** AI safety & policy, Global health & development, Operations, Management
@@ -35,4 +35,4 @@ areas:
 <p class="apply-cta"><a href="https://www.outcapped.com/outcapped-careers/?ashby_jid=df440daf-dac7-49ee-aeac-c9d576e3e5dd">Apply →</a></p>
 
 ---
-*Posted 2026-08-25 · Listing synced 2026-09-04 · 80k job ID `recP0OYcftMfDDHt0`*
+*Posted 2026-08-25 · Listing synced 2026-09-05 · 80k job ID `recP0OYcftMfDDHt0`*

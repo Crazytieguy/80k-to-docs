@@ -2,14 +2,14 @@
 title: "Research Specialist, Economics, Market Shaping Solutions to Global Challenges"
 employer: "University of Chicago, Market Shaping Accelerator"
 job_id: "recjctVMFogMVW3yS"
-last_updated: "2026-09-04T05:31:48.772505Z"
+last_updated: "2026-09-05T05:32:28.587401Z"
 posted_at: "2026-08-31T00:00:00Z"
 status: ready
 apply_url: "https://apply.interfolio.com/192176"
 areas:
-  - "Biosecurity & pandemic preparedness"
-  - "Global health & development"
   - "Climate change"
+  - "Global health & development"
+  - "Biosecurity & pandemic preparedness"
 ---
 
 # Research Specialist, Economics, Market Shaping Solutions to Global Challenges
@@ -23,7 +23,7 @@ areas:
 <dt>Degree</dt><dd>Undergraduate degree or less</dd>
 </dl>
 
-**Areas & skills:** Biosecurity & pandemic preparedness, Global health & development, Climate change, Research, Policy
+**Areas & skills:** Climate change, Global health & development, Biosecurity & pandemic preparedness, Research, Policy
 
 ## Summary
 - In this role, you'll conduct economic analyses supporting market-shaping proposals addressing climate, pandemics, global health, and other challenges.
@@ -34,4 +34,4 @@ areas:
 <p class="apply-cta"><a href="https://apply.interfolio.com/192176">Apply →</a></p>
 
 ---
-*Posted 2026-08-31 · Listing synced 2026-09-04 · 80k job ID `recjctVMFogMVW3yS`*
+*Posted 2026-08-31 · Listing synced 2026-09-05 · 80k job ID `recjctVMFogMVW3yS`*

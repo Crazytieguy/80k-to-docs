@@ -2,7 +2,7 @@
 title: "Generalist, Groups"
 employer: "Kairos"
 job_id: "recEDpd076Y3FWhEE"
-last_updated: "2026-09-04T05:31:35.833468Z"
+last_updated: "2026-09-05T05:32:15.503473Z"
 posted_at: "2026-09-03T00:03:00Z"
 status: ready
 apply_url: "https://kairos-project.org/careers/generalist-groups"
@@ -34,4 +34,4 @@ areas:
 <p class="apply-cta"><a href="https://kairos-project.org/careers/generalist-groups">Apply →</a></p>
 
 ---
-*Posted 2026-09-03 · Listing synced 2026-09-04 · 80k job ID `recEDpd076Y3FWhEE`*
+*Posted 2026-09-03 · Listing synced 2026-09-05 · 80k job ID `recEDpd076Y3FWhEE`*

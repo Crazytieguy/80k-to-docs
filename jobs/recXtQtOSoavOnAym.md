@@ -2,7 +2,7 @@
 title: "Technical AI Safety Upskilling Resources"
 employer: "80,000 Hours"
 job_id: "recXtQtOSoavOnAym"
-last_updated: "2026-09-04T05:31:39.257770Z"
+last_updated: "2026-09-05T05:32:19.002870Z"
 posted_at: "2026-09-02T00:00:00Z"
 status: ready
 apply_url: "https://80000hours.org/2025/06/technical-ai-safety-upskilling-resources/"
@@ -30,4 +30,4 @@ areas:
 <p class="apply-cta"><a href="https://80000hours.org/2025/06/technical-ai-safety-upskilling-resources/">Apply →</a></p>
 
 ---
-*Posted 2026-09-02 · Listing synced 2026-09-04 · 80k job ID `recXtQtOSoavOnAym`*
+*Posted 2026-09-02 · Listing synced 2026-09-05 · 80k job ID `recXtQtOSoavOnAym`*

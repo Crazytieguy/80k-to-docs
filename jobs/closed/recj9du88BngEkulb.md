@@ -4,24 +4,20 @@ employer: "Encode"
 job_id: "recj9du88BngEkulb"
 last_updated: "2026-09-04T05:31:58.062038Z"
 posted_at: "2026-08-25T00:04:05Z"
-status: ready
+status: closed
+closed_at: "2026-09-05"
 apply_url: "https://x.com/SnehaRevanur/status/2091956301232550345?s=20"
 areas:
   - "AI safety & policy"
 ---
 
+> ⚠️ **CLOSED on 2026-09-05** — this job is no longer listed on the 80,000 Hours board. Archived snapshot below.
+
 # Team Member, Lab Engagement
 
-**[Encode](https://encodeai.org/)**
+**Encode**
 
-<dl class="job-meta">
-<dt>Location</dt><dd>Washington, DC metro area, San Francisco Bay Area, USA</dd>
-<dt>Role type</dt><dd>Full-time</dd>
-<dt>Experience</dt><dd>Junior (1-4 years experience)</dd>
-<dt>Degree</dt><dd>Undergraduate degree or less</dd>
-</dl>
-
-**Areas & skills:** AI safety & policy, Communications
+**Areas & skills:** AI safety & policy
 
 ## Summary
 - In this role, you'll coordinate Encode's SF lab engagement, building systems to amplify employee voices.

@@ -4,25 +4,20 @@ employer: "GiveWell"
 job_id: "rec9ymQxhED0KWaMs"
 last_updated: "2026-09-04T05:32:50.727466Z"
 posted_at: "2026-06-19T00:00:00Z"
-status: ready
+status: closed
+closed_at: "2026-09-05"
 apply_url: "https://grnh.se/gkxng06r8us"
 areas:
   - "Global health & development"
 ---
 
+> ⚠️ **CLOSED on 2026-09-05** — this job is no longer listed on the 80,000 Hours board. Archived snapshot below.
+
 # Staff Accountant
 
-**[GiveWell](https://www.givewell.org)**
+**GiveWell**
 
-<dl class="job-meta">
-<dt>Location</dt><dd>Remote, USA, USA</dd>
-<dt>Role type</dt><dd>Full-time</dd>
-<dt>Experience</dt><dd>Junior (1-4 years experience)</dd>
-<dt>Degree</dt><dd>Undergraduate degree or less</dd>
-<dt>Salary</dt><dd>$102,500 – $113,000</dd>
-</dl>
-
-**Areas & skills:** Global health & development, Finance
+**Areas & skills:** Global health & development
 
 ## Summary
 - In this role, you'll support transactional and operational accounting through accounts payable, month-end close, and reconciliations.

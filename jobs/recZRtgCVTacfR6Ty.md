@@ -2,7 +2,7 @@
 title: "Linus Pauling Distinguished Postdoctoral Fellowship"
 employer: "US Government, Pacific Northwest National Laboratory"
 job_id: "recZRtgCVTacfR6Ty"
-last_updated: "2026-09-04T05:32:26.350963Z"
+last_updated: "2026-09-05T05:33:02.891059Z"
 posted_at: "2026-08-06T00:00:00Z"
 status: ready
 apply_url: "https://careers.pnnl.gov/jobs/11983?lang=en-us"
@@ -34,4 +34,4 @@ areas:
 <p class="apply-cta"><a href="https://careers.pnnl.gov/jobs/11983?lang=en-us">Apply →</a></p>
 
 ---
-*Posted 2026-08-06 · Listing synced 2026-09-04 · 80k job ID `recZRtgCVTacfR6Ty`*
+*Posted 2026-08-06 · Listing synced 2026-09-05 · 80k job ID `recZRtgCVTacfR6Ty`*

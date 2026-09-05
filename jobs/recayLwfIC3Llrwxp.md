@@ -2,7 +2,7 @@
 title: "Education Lead, Utrecht"
 employer: "Safe AI Netherlands"
 job_id: "recayLwfIC3Llrwxp"
-last_updated: "2026-09-04T05:31:44.048185Z"
+last_updated: "2026-09-05T05:32:23.722453Z"
 posted_at: "2026-09-01T00:00:00Z"
 status: ready
 apply_url: "https://safeainetherlands.org/open-positions#national:~:text=Education-,Education%20Lead,-6%20to%2010"
@@ -19,7 +19,7 @@ areas:
 <dt>Role type</dt><dd>Part-time</dd>
 <dt>Experience</dt><dd>Junior (1-4 years experience), Entry-level</dd>
 <dt>Degree</dt><dd>Undergraduate degree or less</dd>
-<dt>Salary</dt><dd>$43,020</dd>
+<dt>Salary</dt><dd>$42,975</dd>
 </dl>
 
 **Areas & skills:** AI safety & policy, Other
@@ -34,4 +34,4 @@ areas:
 <p class="apply-cta"><a href="https://safeainetherlands.org/open-positions#national:~:text=Education-,Education%20Lead,-6%20to%2010">Apply →</a></p>
 
 ---
-*Posted 2026-09-01 · Listing synced 2026-09-04 · 80k job ID `recayLwfIC3Llrwxp`*
+*Posted 2026-09-01 · Listing synced 2026-09-05 · 80k job ID `recayLwfIC3Llrwxp`*

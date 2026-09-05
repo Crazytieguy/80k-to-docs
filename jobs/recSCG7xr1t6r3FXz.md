@@ -2,7 +2,7 @@
 title: "Request for Proposals, Safety Assessment for Far-UVC Exposure"
 employer: "Blueprint Biosecurity"
 job_id: "recSCG7xr1t6r3FXz"
-last_updated: "2026-09-04T05:32:32.015429Z"
+last_updated: "2026-09-05T05:33:08.190775Z"
 posted_at: "2026-07-30T00:04:01Z"
 status: ready
 apply_url: "https://blueprintbiosecurity.org/safe-uvc-rfp/"
@@ -32,4 +32,4 @@ areas:
 <p class="apply-cta"><a href="https://blueprintbiosecurity.org/safe-uvc-rfp/">Apply →</a></p>
 
 ---
-*Posted 2026-07-30 · Listing synced 2026-09-04 · 80k job ID `recSCG7xr1t6r3FXz`*
+*Posted 2026-07-30 · Listing synced 2026-09-05 · 80k job ID `recSCG7xr1t6r3FXz`*

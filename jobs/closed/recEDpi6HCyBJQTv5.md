@@ -4,25 +4,20 @@ employer: "Institute for Security and Technology"
 job_id: "recEDpi6HCyBJQTv5"
 last_updated: "2026-09-04T05:32:16.271045Z"
 posted_at: "2026-08-14T00:00:00Z"
-status: ready
+status: closed
+closed_at: "2026-09-05"
 apply_url: "https://jobs.gusto.com/postings/institute-for-security-and-technology-senior-technical-advisor-ai-capability-assessment-0e6f3fb9-47b3-4974-b799-59f68fa53a95"
 areas:
   - "AI safety & policy"
 ---
 
+> ⚠️ **CLOSED on 2026-09-05** — this job is no longer listed on the 80,000 Hours board. Archived snapshot below.
+
 # Contractor, Senior Technical Advisor, AI Capability Assessment
 
-**[Institute for Security and Technology](https://securityandtechnology.org/)**
+**Institute for Security and Technology**
 
-<dl class="job-meta">
-<dt>Location</dt><dd>Remote, Global</dd>
-<dt>Role type</dt><dd>Full-time, Part-time</dd>
-<dt>Experience</dt><dd>Junior (1-4 years experience)</dd>
-<dt>Degree</dt><dd>Doctoral degree</dd>
-<dt>Salary</dt><dd>$80,000 – $100,000</dd>
-</dl>
-
-**Areas & skills:** AI safety & policy, Research, Policy
+**Areas & skills:** AI safety & policy
 
 ## Summary
 - In this role, you'll apply AI capability assessment expertise to advance AI governance through technical evaluations and testing methodologies for frontier labs and policymakers.

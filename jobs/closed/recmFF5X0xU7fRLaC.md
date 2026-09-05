@@ -4,25 +4,20 @@ employer: "Mercy for Animals"
 job_id: "recmFF5X0xU7fRLaC"
 last_updated: "2026-09-04T05:31:56.823991Z"
 posted_at: "2026-08-26T00:00:00Z"
-status: ready
+status: closed
+closed_at: "2026-09-05"
 apply_url: "https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=9b16364c-5e0e-4e66-be82-8f108b1eb279&ccId=19000101_000001&source=CC2&lang=en_US&selectedMenuKey=CurrentOpenings&jobId=557177&_ga=2.149811638.1816720215.1787555161-1965807046.1753674741"
 areas:
   - "Animal welfare"
 ---
 
+> ⚠️ **CLOSED on 2026-09-05** — this job is no longer listed on the 80,000 Hours board. Archived snapshot below.
+
 # Legal Intern, Program for Animals
 
-**[Mercy for Animals](https://www.mercyforanimals.org)**
+**Mercy for Animals**
 
-<dl class="job-meta">
-<dt>Location</dt><dd>Remote, Global</dd>
-<dt>Role type</dt><dd>Internship</dd>
-<dt>Experience</dt><dd>Entry-level</dd>
-<dt>Degree</dt><dd>Undergraduate degree or less</dd>
-<dt>Salary</dt><dd>$41,600</dd>
-</dl>
-
-**Areas & skills:** Animal welfare, Policy, Legal
+**Areas & skills:** Animal welfare
 
 ## Summary
 - In this role, you'll support farmed animal protection law and assist on high-impact campaigns, litigation, and policy projects while gaining diverse legal advocacy experience.

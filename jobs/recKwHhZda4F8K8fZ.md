@@ -2,7 +2,7 @@
 title: "Program Assistant, AI in Europe"
 employer: "The School for Moral Ambition"
 job_id: "recKwHhZda4F8K8fZ"
-last_updated: "2026-09-04T05:31:42.213579Z"
+last_updated: "2026-09-05T05:32:21.814510Z"
 posted_at: "2026-09-01T00:01:00Z"
 status: ready
 apply_url: "https://www.moralambition.org/jobs/program-assistant-ai-in-europe"
@@ -19,7 +19,7 @@ areas:
 <dt>Role type</dt><dd>Full-time</dd>
 <dt>Experience</dt><dd>Junior (1-4 years experience)</dd>
 <dt>Degree</dt><dd>Undergraduate degree or less</dd>
-<dt>Salary</dt><dd>$49,648 – $54,531</dd>
+<dt>Salary</dt><dd>$49,596 – $54,474</dd>
 </dl>
 
 **Areas & skills:** AI safety & policy, Policy, Strategy
@@ -34,4 +34,4 @@ areas:
 <p class="apply-cta"><a href="https://www.moralambition.org/jobs/program-assistant-ai-in-europe">Apply →</a></p>
 
 ---
-*Posted 2026-09-01 · Listing synced 2026-09-04 · 80k job ID `recKwHhZda4F8K8fZ`*
+*Posted 2026-09-01 · Listing synced 2026-09-05 · 80k job ID `recKwHhZda4F8K8fZ`*

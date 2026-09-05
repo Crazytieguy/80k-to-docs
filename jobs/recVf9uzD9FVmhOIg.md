@@ -2,7 +2,7 @@
 title: "Staff Software Engineer"
 employer: "Gray Swan"
 job_id: "recVf9uzD9FVmhOIg"
-last_updated: "2026-09-04T05:32:29.826160Z"
+last_updated: "2026-09-05T05:33:05.938476Z"
 posted_at: "2026-08-03T00:00:00Z"
 status: ready
 apply_url: "https://jobs.ashbyhq.com/Gray%20Swan%20AI/2ade8bba-aea9-4c1d-a194-b88d3a13d1cb"
@@ -34,4 +34,4 @@ areas:
 <p class="apply-cta"><a href="https://jobs.ashbyhq.com/Gray%20Swan%20AI/2ade8bba-aea9-4c1d-a194-b88d3a13d1cb">Apply →</a></p>
 
 ---
-*Posted 2026-08-03 · Listing synced 2026-09-04 · 80k job ID `recVf9uzD9FVmhOIg`*
+*Posted 2026-08-03 · Listing synced 2026-09-05 · 80k job ID `recVf9uzD9FVmhOIg`*

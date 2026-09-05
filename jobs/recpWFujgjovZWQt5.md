@@ -2,7 +2,7 @@
 title: "Software Engineer"
 employer: "PauseAI"
 job_id: "recpWFujgjovZWQt5"
-last_updated: "2026-09-04T05:31:43.162642Z"
+last_updated: "2026-09-05T05:32:22.818375Z"
 posted_at: "2026-09-01T00:00:00Z"
 status: ready
 apply_url: "https://pauseai.uk/jobs"
@@ -19,7 +19,7 @@ areas:
 <dt>Role type</dt><dd>Full-time</dd>
 <dt>Experience</dt><dd>Junior (1-4 years experience)</dd>
 <dt>Degree</dt><dd>Undergraduate degree or less</dd>
-<dt>Salary</dt><dd>$67,659 – $135,317</dd>
+<dt>Salary</dt><dd>$67,612 – $135,225</dd>
 </dl>
 
 **Areas & skills:** AI safety & policy, Software engineering
@@ -34,4 +34,4 @@ areas:
 <p class="apply-cta"><a href="https://pauseai.uk/jobs">Apply →</a></p>
 
 ---
-*Posted 2026-09-01 · Listing synced 2026-09-04 · 80k job ID `recpWFujgjovZWQt5`*
+*Posted 2026-09-01 · Listing synced 2026-09-05 · 80k job ID `recpWFujgjovZWQt5`*

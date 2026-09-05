@@ -2,7 +2,7 @@
 title: "Executive Business Partner"
 employer: "Safe AI Forum"
 job_id: "recdHAeesYHW1QArq"
-last_updated: "2026-09-04T05:31:41.344507Z"
+last_updated: "2026-09-05T05:32:20.957717Z"
 posted_at: "2026-09-01T00:05:00Z"
 status: ready
 apply_url: "https://saif.org/opportunities/executive-business-partner/"
@@ -19,7 +19,7 @@ areas:
 <dt>Role type</dt><dd>Full-time</dd>
 <dt>Experience</dt><dd>Junior (1-4 years experience)</dd>
 <dt>Degree</dt><dd>Undergraduate degree or less</dd>
-<dt>Salary</dt><dd>$121,393 – $149,567</dd>
+<dt>Salary</dt><dd>$121,310 – $149,465</dd>
 </dl>
 
 **Areas & skills:** AI safety & policy, Operations
@@ -34,4 +34,4 @@ areas:
 <p class="apply-cta"><a href="https://saif.org/opportunities/executive-business-partner/">Apply →</a></p>
 
 ---
-*Posted 2026-09-01 · Listing synced 2026-09-04 · 80k job ID `recdHAeesYHW1QArq`*
+*Posted 2026-09-01 · Listing synced 2026-09-05 · 80k job ID `recdHAeesYHW1QArq`*

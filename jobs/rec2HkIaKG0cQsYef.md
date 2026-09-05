@@ -2,7 +2,7 @@
 title: "Researcher, Gender Equality Metrics"
 employer: "University of Washington, Institute for Health Metrics and Evaluation"
 job_id: "rec2HkIaKG0cQsYef"
-last_updated: "2026-09-04T05:33:44.830470Z"
+last_updated: "2026-09-05T05:34:19.839684Z"
 posted_at: "2022-01-02T00:00:00Z"
 status: ready
 apply_url: "https://www.healthdata.org/about/careers/job-openings/researcher-temporary-gem"
@@ -34,4 +34,4 @@ areas:
 <p class="apply-cta"><a href="https://www.healthdata.org/about/careers/job-openings/researcher-temporary-gem">Apply →</a></p>
 
 ---
-*Posted 2022-01-02 · Listing synced 2026-09-04 · 80k job ID `rec2HkIaKG0cQsYef`*
+*Posted 2022-01-02 · Listing synced 2026-09-05 · 80k job ID `rec2HkIaKG0cQsYef`*

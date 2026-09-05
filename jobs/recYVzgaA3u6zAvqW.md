@@ -2,7 +2,7 @@
 title: "Security Engineer"
 employer: "Model Evaluation and Threat Research"
 job_id: "recYVzgaA3u6zAvqW"
-last_updated: "2026-09-04T05:32:31.614627Z"
+last_updated: "2026-09-05T05:33:07.816136Z"
 posted_at: "2026-07-30T00:05:00Z"
 status: ready
 apply_url: "https://jobs.lever.co/metr/775fa999-229d-40c1-b5eb-53794c20ee60"
@@ -34,4 +34,4 @@ areas:
 <p class="apply-cta"><a href="https://jobs.lever.co/metr/775fa999-229d-40c1-b5eb-53794c20ee60">Apply →</a></p>
 
 ---
-*Posted 2026-07-30 · Listing synced 2026-09-04 · 80k job ID `recYVzgaA3u6zAvqW`*
+*Posted 2026-07-30 · Listing synced 2026-09-05 · 80k job ID `recYVzgaA3u6zAvqW`*

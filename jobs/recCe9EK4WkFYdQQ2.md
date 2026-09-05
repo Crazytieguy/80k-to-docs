@@ -2,7 +2,7 @@
 title: "List of Potential Biosecurity PhD Advisors"
 employer: "Various Potential PhD Supervisors"
 job_id: "recCe9EK4WkFYdQQ2"
-last_updated: "2026-09-04T05:33:33.048117Z"
+last_updated: "2026-09-05T05:34:08.387483Z"
 posted_at: "2022-01-04T00:00:00Z"
 status: ready
 apply_url: "https://airtable.com/appEoCwOwtT7OnfoH/shrGsYllkZw4PsmAn/tbl6RgyRf2Dn4OsVl/viwnrWzFzzgiEtAFg?blocks=hide"
@@ -31,4 +31,4 @@ areas:
 <p class="apply-cta"><a href="https://airtable.com/appEoCwOwtT7OnfoH/shrGsYllkZw4PsmAn/tbl6RgyRf2Dn4OsVl/viwnrWzFzzgiEtAFg?blocks=hide">Apply →</a></p>
 
 ---
-*Posted 2022-01-04 · Listing synced 2026-09-04 · 80k job ID `recCe9EK4WkFYdQQ2`*
+*Posted 2022-01-04 · Listing synced 2026-09-05 · 80k job ID `recCe9EK4WkFYdQQ2`*

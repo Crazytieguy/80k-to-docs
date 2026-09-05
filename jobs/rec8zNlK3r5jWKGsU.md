@@ -2,7 +2,7 @@
 title: "Associate, Safety"
 employer: "Faculty"
 job_id: "rec8zNlK3r5jWKGsU"
-last_updated: "2026-09-04T05:32:14.010731Z"
+last_updated: "2026-09-05T05:32:51.925531Z"
 posted_at: "2026-08-17T00:00:00Z"
 status: ready
 apply_url: "https://faculty.ai/en-gb/job-listing/uk-london/national-security-safety/associate-safety"
@@ -33,4 +33,4 @@ areas:
 <p class="apply-cta"><a href="https://faculty.ai/en-gb/job-listing/uk-london/national-security-safety/associate-safety">Apply →</a></p>
 
 ---
-*Posted 2026-08-17 · Listing synced 2026-09-04 · 80k job ID `rec8zNlK3r5jWKGsU`*
+*Posted 2026-08-17 · Listing synced 2026-09-05 · 80k job ID `rec8zNlK3r5jWKGsU`*

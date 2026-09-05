@@ -2,7 +2,7 @@
 title: "Research Program, Information Controls"
 employer: "Open Technology Fund"
 job_id: "recLT3M4nidA93AVx"
-last_updated: "2026-09-04T05:31:50.296848Z"
+last_updated: "2026-09-05T05:32:30.671783Z"
 posted_at: "2026-08-28T00:00:00Z"
 status: ready
 apply_url: "https://www.opentech.fund/research-2/icrp/"
@@ -34,4 +34,4 @@ areas:
 <p class="apply-cta"><a href="https://www.opentech.fund/research-2/icrp/">Apply →</a></p>
 
 ---
-*Posted 2026-08-28 · Listing synced 2026-09-04 · 80k job ID `recLT3M4nidA93AVx`*
+*Posted 2026-08-28 · Listing synced 2026-09-05 · 80k job ID `recLT3M4nidA93AVx`*

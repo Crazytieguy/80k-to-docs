@@ -2,7 +2,7 @@
 title: "Research Fellowship, AIxBiosecurity (Fall 2026)"
 employer: "Cambridge Boston Alignment Initiative"
 job_id: "recCEKj3HZMAgbAft"
-last_updated: "2026-09-04T05:31:46.815420Z"
+last_updated: "2026-09-05T05:32:26.442038Z"
 posted_at: "2026-08-31T00:03:00Z"
 status: ready
 apply_url: "https://www.cbai.ai/aixbiosecurity-fellowship-program"
@@ -34,4 +34,4 @@ areas:
 <p class="apply-cta"><a href="https://www.cbai.ai/aixbiosecurity-fellowship-program">Apply →</a></p>
 
 ---
-*Posted 2026-08-31 · Listing synced 2026-09-04 · 80k job ID `recCEKj3HZMAgbAft`*
+*Posted 2026-08-31 · Listing synced 2026-09-05 · 80k job ID `recCEKj3HZMAgbAft`*

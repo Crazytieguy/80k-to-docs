@@ -2,7 +2,7 @@
 title: "Head of Vulnerability Disclosure and Security Community"
 employer: "Anthropic"
 job_id: "recQoUjF0vefBwgZT"
-last_updated: "2026-09-04T05:31:52.685444Z"
+last_updated: "2026-09-05T05:32:33.403351Z"
 posted_at: "2026-08-27T00:00:00Z"
 status: ready
 apply_url: "https://job-boards.greenhouse.io/anthropic/jobs/5397699008"
@@ -34,4 +34,4 @@ areas:
 <p class="apply-cta"><a href="https://job-boards.greenhouse.io/anthropic/jobs/5397699008">Apply →</a></p>
 
 ---
-*Posted 2026-08-27 · Listing synced 2026-09-04 · 80k job ID `recQoUjF0vefBwgZT`*
+*Posted 2026-08-27 · Listing synced 2026-09-05 · 80k job ID `recQoUjF0vefBwgZT`*

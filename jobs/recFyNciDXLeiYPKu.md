@@ -2,7 +2,7 @@
 title: "Office and Events Manager"
 employer: "SL5 Task Force"
 job_id: "recFyNciDXLeiYPKu"
-last_updated: "2026-09-04T05:32:10.691415Z"
+last_updated: "2026-09-05T05:32:48.996393Z"
 posted_at: "2026-08-18T00:02:00Z"
 status: ready
 apply_url: "https://jobs.ashbyhq.com/security-level-5/57e0e950-2aa6-4146-9f55-dc039f46e647?embed=js"
@@ -34,4 +34,4 @@ areas:
 <p class="apply-cta"><a href="https://jobs.ashbyhq.com/security-level-5/57e0e950-2aa6-4146-9f55-dc039f46e647?embed=js">Apply →</a></p>
 
 ---
-*Posted 2026-08-18 · Listing synced 2026-09-04 · 80k job ID `recFyNciDXLeiYPKu`*
+*Posted 2026-08-18 · Listing synced 2026-09-05 · 80k job ID `recFyNciDXLeiYPKu`*

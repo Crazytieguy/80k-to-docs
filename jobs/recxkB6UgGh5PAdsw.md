@@ -2,7 +2,7 @@
 title: "Program Associate"
 employer: "Myrias"
 job_id: "recxkB6UgGh5PAdsw"
-last_updated: "2026-09-04T05:32:23.958489Z"
+last_updated: "2026-09-05T05:33:00.889352Z"
 posted_at: "2026-08-07T00:00:00Z"
 status: ready
 apply_url: "https://myrias.org/careers"
@@ -33,4 +33,4 @@ areas:
 <p class="apply-cta"><a href="https://myrias.org/careers">Apply →</a></p>
 
 ---
-*Posted 2026-08-07 · Listing synced 2026-09-04 · 80k job ID `recxkB6UgGh5PAdsw`*
+*Posted 2026-08-07 · Listing synced 2026-09-05 · 80k job ID `recxkB6UgGh5PAdsw`*

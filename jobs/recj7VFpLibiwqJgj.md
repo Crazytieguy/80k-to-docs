@@ -2,7 +2,7 @@
 title: "General Application"
 employer: "Center on Long-Term Risk"
 job_id: "recj7VFpLibiwqJgj"
-last_updated: "2026-09-04T05:32:57.397822Z"
+last_updated: "2026-09-05T05:33:32.443721Z"
 posted_at: "2022-01-11T00:00:00Z"
 status: ready
 apply_url: "https://longtermrisk.org/jobs/interest/"
@@ -29,4 +29,4 @@ areas:
 <p class="apply-cta"><a href="https://longtermrisk.org/jobs/interest/">Apply →</a></p>
 
 ---
-*Posted 2022-01-11 · Listing synced 2026-09-04 · 80k job ID `recj7VFpLibiwqJgj`*
+*Posted 2022-01-11 · Listing synced 2026-09-05 · 80k job ID `recj7VFpLibiwqJgj`*

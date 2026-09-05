@@ -4,25 +4,20 @@ employer: "Center for Strategic and International Studies"
 job_id: "rec41lVx0Y1eBSvNE"
 last_updated: "2026-09-04T05:31:39.996260Z"
 posted_at: "2026-09-02T00:00:00Z"
-status: ready
+status: closed
+closed_at: "2026-09-05"
 apply_url: "https://job-boards.greenhouse.io/centerforstrategicandinternationalstudiesinc/jobs/4314577009"
 areas:
   - "Career development: Policy & government"
 ---
 
+> ⚠️ **CLOSED on 2026-09-05** — this job is no longer listed on the 80,000 Hours board. Archived snapshot below.
+
 # Research Intern, Economics Program (Fall 2026)
 
-**[Center for Strategic and International Studies](https://www.csis.org/)**
+**Center for Strategic and International Studies**
 
-<dl class="job-meta">
-<dt>Location</dt><dd>Washington, DC metro area, USA</dd>
-<dt>Role type</dt><dd>Internship</dd>
-<dt>Experience</dt><dd>Entry-level</dd>
-<dt>Degree</dt><dd>Undergraduate degree or less</dd>
-<dt>Salary</dt><dd>$37,440 – $41,600</dd>
-</dl>
-
-**Areas & skills:** Career development: Policy & government, Research, Policy
+**Areas & skills:** Career development: Policy & government
 
 ## Summary
 - In this role, you'll conduct research supporting the Economics Program on international economic issues including trade policy and supply chains.

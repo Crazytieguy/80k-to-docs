@@ -2,7 +2,7 @@
 title: "Intern, Centre for China Analysis, Operations and Strategy (Fall 2026)"
 employer: "Asia Society Policy Institute"
 job_id: "rec8HePVK8WjuimRI"
-last_updated: "2026-09-04T05:31:53.328734Z"
+last_updated: "2026-09-05T05:32:34.025484Z"
 posted_at: "2026-08-27T00:00:00Z"
 status: ready
 apply_url: "https://asiasociety.org/policy-institute/fall-intern-aspi-center-china-analysis-operations-strategy"
@@ -34,4 +34,4 @@ areas:
 <p class="apply-cta"><a href="https://asiasociety.org/policy-institute/fall-intern-aspi-center-china-analysis-operations-strategy">Apply →</a></p>
 
 ---
-*Posted 2026-08-27 · Listing synced 2026-09-04 · 80k job ID `rec8HePVK8WjuimRI`*
+*Posted 2026-08-27 · Listing synced 2026-09-05 · 80k job ID `rec8HePVK8WjuimRI`*

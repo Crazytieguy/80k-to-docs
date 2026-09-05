@@ -2,7 +2,7 @@
 title: "Founding Member of Technical Staff"
 employer: "Sampura Research"
 job_id: "recxKG0NSeNw1a7hg"
-last_updated: "2026-09-04T05:31:50.702692Z"
+last_updated: "2026-09-05T05:32:31.320865Z"
 posted_at: "2026-08-28T00:00:00Z"
 status: ready
 apply_url: "https://jobs.ashbyhq.com/sampura/a83213a5-6d70-4ed1-8f79-542a34051637"
@@ -19,7 +19,7 @@ areas:
 <dt>Role type</dt><dd>Full-time</dd>
 <dt>Experience</dt><dd>Multiple experience levels</dd>
 <dt>Degree</dt><dd>Undergraduate degree or less</dd>
-<dt>Salary</dt><dd>$135,317 – $392,419</dd>
+<dt>Salary</dt><dd>$135,225 – $392,152</dd>
 </dl>
 
 **Areas & skills:** AI safety & policy, Research, Software engineering
@@ -34,4 +34,4 @@ areas:
 <p class="apply-cta"><a href="https://jobs.ashbyhq.com/sampura/a83213a5-6d70-4ed1-8f79-542a34051637">Apply →</a></p>
 
 ---
-*Posted 2026-08-28 · Listing synced 2026-09-04 · 80k job ID `recxKG0NSeNw1a7hg`*
+*Posted 2026-08-28 · Listing synced 2026-09-05 · 80k job ID `recxKG0NSeNw1a7hg`*

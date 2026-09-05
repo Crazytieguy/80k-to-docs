@@ -2,7 +2,7 @@
 title: "AI Security Research and Red Team Engineer"
 employer: "Cloudflare"
 job_id: "recD3QZbyGet67SY6"
-last_updated: "2026-09-04T05:31:59.375302Z"
+last_updated: "2026-09-05T05:32:39.686034Z"
 posted_at: "2026-08-25T00:00:00Z"
 status: ready
 apply_url: "https://job-boards.greenhouse.io/cloudflare/jobs/8097321?gh_jid=8097321&gh_src=5ylsd31"
@@ -34,4 +34,4 @@ areas:
 <p class="apply-cta"><a href="https://job-boards.greenhouse.io/cloudflare/jobs/8097321?gh_jid=8097321&amp;gh_src=5ylsd31">Apply →</a></p>
 
 ---
-*Posted 2026-08-25 · Listing synced 2026-09-04 · 80k job ID `recD3QZbyGet67SY6`*
+*Posted 2026-08-25 · Listing synced 2026-09-05 · 80k job ID `recD3QZbyGet67SY6`*

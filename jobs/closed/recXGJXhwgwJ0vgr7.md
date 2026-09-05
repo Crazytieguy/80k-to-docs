@@ -4,25 +4,20 @@ employer: "Center for AI Safety"
 job_id: "recXGJXhwgwJ0vgr7"
 last_updated: "2026-09-04T05:31:48.998610Z"
 posted_at: "2026-08-28T00:05:00Z"
-status: ready
+status: closed
+closed_at: "2026-09-05"
 apply_url: "https://job-boards.greenhouse.io/centerforartificialintelligencesafetyinc/jobs/4384681009"
 areas:
   - "AI safety & policy"
 ---
 
+> ⚠️ **CLOSED on 2026-09-05** — this job is no longer listed on the 80,000 Hours board. Archived snapshot below.
+
 # Associate, Operations
 
-**[Center for AI Safety](https://www.cais.ai/)**
+**Center for AI Safety**
 
-<dl class="job-meta">
-<dt>Location</dt><dd>San Francisco Bay Area, USA</dd>
-<dt>Role type</dt><dd>Full-time</dd>
-<dt>Experience</dt><dd>Junior (1-4 years experience), Entry-level</dd>
-<dt>Degree</dt><dd>Undergraduate degree or less</dd>
-<dt>Salary</dt><dd>$80,000 – $110,000</dd>
-</dl>
-
-**Areas & skills:** AI safety & policy, Operations
+**Areas & skills:** AI safety & policy
 
 ## Summary
 - In this role, you'll coordinate core operational workflows across office, systems, and people operations to keep CAIS running smoothly.

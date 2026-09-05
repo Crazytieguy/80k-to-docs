@@ -2,8 +2,8 @@
 title: "ML Engineer"
 employer: "Tilde Research"
 job_id: "recQYO0bWPN7Iye67"
-last_updated: "2026-09-04T05:32:51.259239Z"
-posted_at: "2026-06-17T00:00:00Z"
+last_updated: "2026-09-05T05:33:53.730815Z"
+posted_at: "2022-01-06T00:00:00Z"
 status: ready
 apply_url: "https://jobs.ashbyhq.com/tilderesearch/b2e145db-0111-47c1-9d9f-e856a057d8ef"
 areas:
@@ -33,4 +33,4 @@ areas:
 <p class="apply-cta"><a href="https://jobs.ashbyhq.com/tilderesearch/b2e145db-0111-47c1-9d9f-e856a057d8ef">Apply →</a></p>
 
 ---
-*Posted 2026-06-17 · Listing synced 2026-09-04 · 80k job ID `recQYO0bWPN7Iye67`*
+*Posted 2022-01-06 · Listing synced 2026-09-05 · 80k job ID `recQYO0bWPN7Iye67`*

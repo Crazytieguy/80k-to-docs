@@ -2,7 +2,7 @@
 title: "Intern, Center for China Analysis, China-Southeast Asia Project (Fall 2026)"
 employer: "Asia Society Policy Institute"
 job_id: "recA8okFsJqX5gkiM"
-last_updated: "2026-09-04T05:31:53.071087Z"
+last_updated: "2026-09-05T05:32:33.766117Z"
 posted_at: "2026-08-27T00:00:00Z"
 status: ready
 apply_url: "https://asiasociety.org/policy-institute/fall-intern-aspi-center-china-analysis-china-southeast-asia-project"
@@ -34,4 +34,4 @@ areas:
 <p class="apply-cta"><a href="https://asiasociety.org/policy-institute/fall-intern-aspi-center-china-analysis-china-southeast-asia-project">Apply →</a></p>
 
 ---
-*Posted 2026-08-27 · Listing synced 2026-09-04 · 80k job ID `recA8okFsJqX5gkiM`*
+*Posted 2026-08-27 · Listing synced 2026-09-05 · 80k job ID `recA8okFsJqX5gkiM`*

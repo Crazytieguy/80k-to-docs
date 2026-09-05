@@ -2,7 +2,7 @@
 title: "Policy Advisor, AI Governance"
 employer: "Tony Blair Institute for Global Change"
 job_id: "recgmwZKQFVaU6Xz0"
-last_updated: "2026-09-04T05:31:41.143297Z"
+last_updated: "2026-09-05T05:32:20.748692Z"
 posted_at: "2026-09-02T00:00:00Z"
 status: ready
 apply_url: "https://tbinstitute.wd3.myworkdayjobs.com/en-US/TBI/job/United-Kingdom/Policy-Advisor---AI-Governance_JR002266?q=artificial+intelligence"
@@ -32,4 +32,4 @@ areas:
 <p class="apply-cta"><a href="https://tbinstitute.wd3.myworkdayjobs.com/en-US/TBI/job/United-Kingdom/Policy-Advisor---AI-Governance_JR002266?q=artificial+intelligence">Apply →</a></p>
 
 ---
-*Posted 2026-09-02 · Listing synced 2026-09-04 · 80k job ID `recgmwZKQFVaU6Xz0`*
+*Posted 2026-09-02 · Listing synced 2026-09-05 · 80k job ID `recgmwZKQFVaU6Xz0`*
