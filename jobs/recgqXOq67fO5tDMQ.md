@@ -2,7 +2,7 @@
 title: "Accountant"
 employer: "Effectief Geven"
 job_id: "recgqXOq67fO5tDMQ"
-last_updated: "2026-09-05T05:34:13.253270Z"
+last_updated: "2026-09-06T05:33:51.159931Z"
 posted_at: "2022-01-02T00:00:00Z"
 status: ready
 apply_url: "https://www.effectiefgeven.be/vacatures/boekhoudkundige"
@@ -15,7 +15,7 @@ areas:
 **[Effectief Geven](https://www.effectiefgeven.be/)**
 
 <dl class="job-meta">
-<dt>Location</dt><dd>Remote, Belgium, Europe (ex UK), Belgium</dd>
+<dt>Location</dt><dd>Remote, Belgium, Belgium, Europe (ex UK)</dd>
 <dt>Role type</dt><dd>Volunteering</dd>
 <dt>Experience</dt><dd>Junior (1-4 years experience)</dd>
 <dt>Degree</dt><dd>Undergraduate degree or less</dd>
@@ -34,4 +34,4 @@ areas:
 <p class="apply-cta"><a href="https://www.effectiefgeven.be/vacatures/boekhoudkundige">Apply →</a></p>
 
 ---
-*Posted 2022-01-02 · Listing synced 2026-09-05 · 80k job ID `recgqXOq67fO5tDMQ`*
+*Posted 2022-01-02 · Listing synced 2026-09-06 · 80k job ID `recgqXOq67fO5tDMQ`*

@@ -2,7 +2,7 @@
 title: "Program Assistant, AI in Europe"
 employer: "The School for Moral Ambition"
 job_id: "recKwHhZda4F8K8fZ"
-last_updated: "2026-09-05T05:32:21.814510Z"
+last_updated: "2026-09-06T05:32:01.719566Z"
 posted_at: "2026-09-01T00:01:00Z"
 status: ready
 apply_url: "https://www.moralambition.org/jobs/program-assistant-ai-in-europe"
@@ -34,4 +34,4 @@ areas:
 <p class="apply-cta"><a href="https://www.moralambition.org/jobs/program-assistant-ai-in-europe">Apply →</a></p>
 
 ---
-*Posted 2026-09-01 · Listing synced 2026-09-05 · 80k job ID `recKwHhZda4F8K8fZ`*
+*Posted 2026-09-01 · Listing synced 2026-09-06 · 80k job ID `recKwHhZda4F8K8fZ`*

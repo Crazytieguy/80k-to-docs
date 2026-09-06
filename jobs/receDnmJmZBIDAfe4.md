@@ -2,7 +2,7 @@
 title: "Congressional Fellow"
 employer: "American Mathematical Society"
 job_id: "receDnmJmZBIDAfe4"
-last_updated: "2026-09-05T05:32:16.147326Z"
+last_updated: "2026-09-06T05:31:55.983546Z"
 posted_at: "2026-09-03T00:00:00Z"
 status: ready
 apply_url: "https://www.ams.org/government/government/ams-congressional-fellowship"
@@ -34,4 +34,4 @@ areas:
 <p class="apply-cta"><a href="https://www.ams.org/government/government/ams-congressional-fellowship">Apply →</a></p>
 
 ---
-*Posted 2026-09-03 · Listing synced 2026-09-05 · 80k job ID `receDnmJmZBIDAfe4`*
+*Posted 2026-09-03 · Listing synced 2026-09-06 · 80k job ID `receDnmJmZBIDAfe4`*

@@ -2,7 +2,7 @@
 title: "Machine Learning Engineer"
 employer: "Elicit"
 job_id: "recPmfNMg6rLaX6yd"
-last_updated: "2026-09-05T05:33:28.282026Z"
+last_updated: "2026-09-06T05:33:07.291291Z"
 posted_at: "2022-01-12T00:00:00Z"
 status: ready
 apply_url: "https://elicit.com/careers?ashby_jid=913a03d5-bd26-4c64-8346-21a029f344f7"
@@ -15,7 +15,7 @@ areas:
 **[Elicit](https://elicit.com/)**
 
 <dl class="job-meta">
-<dt>Location</dt><dd>San Francisco Bay Area, Remote, USA, USA</dd>
+<dt>Location</dt><dd>Remote, USA, San Francisco Bay Area, USA</dd>
 <dt>Role type</dt><dd>Full-time</dd>
 <dt>Experience</dt><dd>Junior (1-4 years experience), Mid (5-9 years experience)</dd>
 <dt>Degree</dt><dd>Undergraduate degree or less</dd>
@@ -33,4 +33,4 @@ areas:
 <p class="apply-cta"><a href="https://elicit.com/careers?ashby_jid=913a03d5-bd26-4c64-8346-21a029f344f7">Apply →</a></p>
 
 ---
-*Posted 2022-01-12 · Listing synced 2026-09-05 · 80k job ID `recPmfNMg6rLaX6yd`*
+*Posted 2022-01-12 · Listing synced 2026-09-06 · 80k job ID `recPmfNMg6rLaX6yd`*

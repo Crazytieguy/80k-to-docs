@@ -2,7 +2,7 @@
 title: "Research Associate, Center for Global Security Research (Spring 2027)"
 employer: "Lawrence Livermore National Laboratory"
 job_id: "recwqYxWsKao7VYE6"
-last_updated: "2026-09-05T05:32:56.226656Z"
+last_updated: "2026-09-06T05:32:34.859962Z"
 posted_at: "2026-08-12T00:00:00Z"
 status: ready
 apply_url: "https://www.llnl.gov/join-our-team/careers/find-your-job/not-applicable_associate_entry-level_internship_globalsecurity_officeofthedirector/all/3743990014540256"
@@ -34,4 +34,4 @@ areas:
 <p class="apply-cta"><a href="https://www.llnl.gov/join-our-team/careers/find-your-job/not-applicable_associate_entry-level_internship_globalsecurity_officeofthedirector/all/3743990014540256">Apply →</a></p>
 
 ---
-*Posted 2026-08-12 · Listing synced 2026-09-05 · 80k job ID `recwqYxWsKao7VYE6`*
+*Posted 2026-08-12 · Listing synced 2026-09-06 · 80k job ID `recwqYxWsKao7VYE6`*

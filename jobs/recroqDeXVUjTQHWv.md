@@ -2,7 +2,7 @@
 title: "Platform Engineer"
 employer: "LawZero"
 job_id: "recroqDeXVUjTQHWv"
-last_updated: "2026-09-05T05:32:27.609181Z"
+last_updated: "2026-09-06T05:32:07.529813Z"
 posted_at: "2026-08-31T00:00:00Z"
 status: ready
 apply_url: "https://job-boards.greenhouse.io/lawzero/jobs/4385557009"
@@ -33,4 +33,4 @@ areas:
 <p class="apply-cta"><a href="https://job-boards.greenhouse.io/lawzero/jobs/4385557009">Apply →</a></p>
 
 ---
-*Posted 2026-08-31 · Listing synced 2026-09-05 · 80k job ID `recroqDeXVUjTQHWv`*
+*Posted 2026-08-31 · Listing synced 2026-09-06 · 80k job ID `recroqDeXVUjTQHWv`*

@@ -2,7 +2,7 @@
 title: "Expression of Interest, Contractor, Video Programme"
 employer: "80,000 Hours"
 job_id: "recQ90iUyRvozwpxM"
-last_updated: "2026-09-05T05:33:56.543591Z"
+last_updated: "2026-09-06T05:33:34.238581Z"
 posted_at: "2022-01-05T00:00:00Z"
 status: ready
 apply_url: "https://80000hours.org/2025/08/expression-of-interest-contracting-for-video-work/"
@@ -15,7 +15,7 @@ areas:
 **[80,000 Hours](https://80000hours.org/)**
 
 <dl class="job-meta">
-<dt>Location</dt><dd>San Francisco Bay Area, Remote, Global, USA</dd>
+<dt>Location</dt><dd>Remote, Global, San Francisco Bay Area, USA</dd>
 <dt>Role type</dt><dd>Full-time</dd>
 <dt>Experience</dt><dd>Multiple experience levels</dd>
 <dt>Degree</dt><dd>Undergraduate degree or less</dd>
@@ -33,4 +33,4 @@ areas:
 <p class="apply-cta"><a href="https://80000hours.org/2025/08/expression-of-interest-contracting-for-video-work/">Apply →</a></p>
 
 ---
-*Posted 2022-01-05 · Listing synced 2026-09-05 · 80k job ID `recQ90iUyRvozwpxM`*
+*Posted 2022-01-05 · Listing synced 2026-09-06 · 80k job ID `recQ90iUyRvozwpxM`*

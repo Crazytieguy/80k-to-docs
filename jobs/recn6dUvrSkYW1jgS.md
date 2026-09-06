@@ -2,7 +2,7 @@
 title: "Health Policy Fellow"
 employer: "Robert Wood Johnson Foundation"
 job_id: "recn6dUvrSkYW1jgS"
-last_updated: "2026-09-05T05:33:02.425529Z"
+last_updated: "2026-09-06T05:32:41.608660Z"
 posted_at: "2026-08-06T00:00:00Z"
 status: ready
 apply_url: "https://healthpolicyfellows.org/"
@@ -34,4 +34,4 @@ areas:
 <p class="apply-cta"><a href="https://healthpolicyfellows.org/">Apply →</a></p>
 
 ---
-*Posted 2026-08-06 · Listing synced 2026-09-05 · 80k job ID `recn6dUvrSkYW1jgS`*
+*Posted 2026-08-06 · Listing synced 2026-09-06 · 80k job ID `recn6dUvrSkYW1jgS`*

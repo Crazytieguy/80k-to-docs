@@ -2,7 +2,7 @@
 title: "Intern, Research Scientist, AI, Cyber Security, Safety"
 employer: "Meta"
 job_id: "recwdl26wP40qMXG7"
-last_updated: "2026-09-05T05:32:30.295230Z"
+last_updated: "2026-09-06T05:32:09.497442Z"
 posted_at: "2026-08-28T00:00:00Z"
 status: ready
 apply_url: "https://www.metacareers.com/profile/job_details/1027438186737957/"
@@ -34,4 +34,4 @@ areas:
 <p class="apply-cta"><a href="https://www.metacareers.com/profile/job_details/1027438186737957/">Apply →</a></p>
 
 ---
-*Posted 2026-08-28 · Listing synced 2026-09-05 · 80k job ID `recwdl26wP40qMXG7`*
+*Posted 2026-08-28 · Listing synced 2026-09-06 · 80k job ID `recwdl26wP40qMXG7`*

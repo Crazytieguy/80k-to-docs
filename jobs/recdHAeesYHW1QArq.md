@@ -2,7 +2,7 @@
 title: "Executive Business Partner"
 employer: "Safe AI Forum"
 job_id: "recdHAeesYHW1QArq"
-last_updated: "2026-09-05T05:32:20.957717Z"
+last_updated: "2026-09-06T05:32:00.832135Z"
 posted_at: "2026-09-01T00:05:00Z"
 status: ready
 apply_url: "https://saif.org/opportunities/executive-business-partner/"
@@ -34,4 +34,4 @@ areas:
 <p class="apply-cta"><a href="https://saif.org/opportunities/executive-business-partner/">Apply →</a></p>
 
 ---
-*Posted 2026-09-01 · Listing synced 2026-09-05 · 80k job ID `recdHAeesYHW1QArq`*
+*Posted 2026-09-01 · Listing synced 2026-09-06 · 80k job ID `recdHAeesYHW1QArq`*

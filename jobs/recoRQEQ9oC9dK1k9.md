@@ -2,7 +2,7 @@
 title: "Head of Operations"
 employer: "SASH"
 job_id: "recoRQEQ9oC9dK1k9"
-last_updated: "2026-09-05T05:32:11.980578Z"
+last_updated: "2026-09-06T05:31:51.665407Z"
 posted_at: "2026-09-04T00:03:00Z"
 status: ready
 apply_url: "https://jobs.ashbyhq.com/SASH/1cfbcfb5-4237-4e52-8b40-0849edd5a533"
@@ -34,4 +34,4 @@ areas:
 <p class="apply-cta"><a href="https://jobs.ashbyhq.com/SASH/1cfbcfb5-4237-4e52-8b40-0849edd5a533">Apply →</a></p>
 
 ---
-*Posted 2026-09-04 · Listing synced 2026-09-05 · 80k job ID `recoRQEQ9oC9dK1k9`*
+*Posted 2026-09-04 · Listing synced 2026-09-06 · 80k job ID `recoRQEQ9oC9dK1k9`*

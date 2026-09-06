@@ -2,7 +2,7 @@
 title: "Intern, AI Policy Research"
 employer: "Existential Risk Observatory"
 job_id: "recKVDXy5dfhHBBBL"
-last_updated: "2026-09-05T05:32:16.009045Z"
+last_updated: "2026-09-06T05:31:55.843040Z"
 posted_at: "2026-09-03T00:01:00Z"
 status: ready
 apply_url: "https://existentialriskobservatory.org/openings/AI_Policy_Research_Internship.pdf"
@@ -34,4 +34,4 @@ areas:
 <p class="apply-cta"><a href="https://existentialriskobservatory.org/openings/AI_Policy_Research_Internship.pdf">Apply →</a></p>
 
 ---
-*Posted 2026-09-03 · Listing synced 2026-09-05 · 80k job ID `recKVDXy5dfhHBBBL`*
+*Posted 2026-09-03 · Listing synced 2026-09-06 · 80k job ID `recKVDXy5dfhHBBBL`*

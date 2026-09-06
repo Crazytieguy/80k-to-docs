@@ -2,7 +2,7 @@
 title: "Security Engineer, Corporate IT"
 employer: "Resolution"
 job_id: "rec9GW0F3ByjP9dA9"
-last_updated: "2026-09-05T05:33:23.672637Z"
+last_updated: "2026-09-06T05:33:02.958176Z"
 posted_at: "2026-07-01T00:05:00Z"
 status: ready
 apply_url: "https://jobs.ashbyhq.com/resolution/3f73adc2-04ec-4d7e-be40-e43193adff6c"
@@ -33,4 +33,4 @@ areas:
 <p class="apply-cta"><a href="https://jobs.ashbyhq.com/resolution/3f73adc2-04ec-4d7e-be40-e43193adff6c">Apply →</a></p>
 
 ---
-*Posted 2026-07-01 · Listing synced 2026-09-05 · 80k job ID `rec9GW0F3ByjP9dA9`*
+*Posted 2026-07-01 · Listing synced 2026-09-06 · 80k job ID `rec9GW0F3ByjP9dA9`*

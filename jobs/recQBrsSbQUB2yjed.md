@@ -2,7 +2,7 @@
 title: "Program Coordinator, Global Health Policy"
 employer: "Center for Global Development"
 job_id: "recQBrsSbQUB2yjed"
-last_updated: "2026-09-05T05:32:21.972136Z"
+last_updated: "2026-09-06T05:32:01.888104Z"
 posted_at: "2026-09-01T00:00:00Z"
 status: ready
 apply_url: "https://centerforglobaldevelopment.applytojob.com/apply/sBsGpuClHL/Program-Coordinator-Global-Health-Policy"
@@ -33,4 +33,4 @@ areas:
 <p class="apply-cta"><a href="https://centerforglobaldevelopment.applytojob.com/apply/sBsGpuClHL/Program-Coordinator-Global-Health-Policy">Apply →</a></p>
 
 ---
-*Posted 2026-09-01 · Listing synced 2026-09-05 · 80k job ID `recQBrsSbQUB2yjed`*
+*Posted 2026-09-01 · Listing synced 2026-09-06 · 80k job ID `recQBrsSbQUB2yjed`*

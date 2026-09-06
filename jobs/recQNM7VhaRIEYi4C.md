@@ -2,7 +2,7 @@
 title: "GenAI Chemical, Biological, Radiological, Nuclear, and Explosives Cyber Expert"
 employer: "Alice"
 job_id: "recQNM7VhaRIEYi4C"
-last_updated: "2026-09-05T05:32:53.313003Z"
+last_updated: "2026-09-06T05:32:32.356482Z"
 posted_at: "2026-08-14T00:01:00Z"
 status: ready
 apply_url: "https://alice.io/positions/position-f4_070"
@@ -36,4 +36,4 @@ areas:
 <p class="apply-cta"><a href="https://alice.io/positions/position-f4_070">Apply →</a></p>
 
 ---
-*Posted 2026-08-14 · Listing synced 2026-09-05 · 80k job ID `recQNM7VhaRIEYi4C`*
+*Posted 2026-08-14 · Listing synced 2026-09-06 · 80k job ID `recQNM7VhaRIEYi4C`*

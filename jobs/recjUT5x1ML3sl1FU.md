@@ -2,7 +2,7 @@
 title: "Research Engineer / Research Scientist, Misuse Red Team"
 employer: "UK Government, AI Security Institute"
 job_id: "recjUT5x1ML3sl1FU"
-last_updated: "2026-09-05T05:32:13.885964Z"
+last_updated: "2026-09-06T05:31:53.660136Z"
 posted_at: "2026-09-03T00:05:00Z"
 status: ready
 apply_url: "https://job-boards.eu.greenhouse.io/aisi/jobs/4966360101"
@@ -34,4 +34,4 @@ areas:
 <p class="apply-cta"><a href="https://job-boards.eu.greenhouse.io/aisi/jobs/4966360101">Apply →</a></p>
 
 ---
-*Posted 2026-09-03 · Listing synced 2026-09-05 · 80k job ID `recjUT5x1ML3sl1FU`*
+*Posted 2026-09-03 · Listing synced 2026-09-06 · 80k job ID `recjUT5x1ML3sl1FU`*

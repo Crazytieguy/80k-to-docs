@@ -2,7 +2,7 @@
 title: "Research Operations Lead"
 employer: "Safe AI Netherlands"
 job_id: "rec4t65PSdNKnlLMz"
-last_updated: "2026-09-05T05:32:23.470378Z"
+last_updated: "2026-09-06T05:32:03.355029Z"
 posted_at: "2026-09-01T00:00:00Z"
 status: ready
 apply_url: "https://airtable.com/appMwcwhDIpVSvLrz/pagfucm2gVY91sjPg/form"
@@ -34,4 +34,4 @@ areas:
 <p class="apply-cta"><a href="https://airtable.com/appMwcwhDIpVSvLrz/pagfucm2gVY91sjPg/form">Apply →</a></p>
 
 ---
-*Posted 2026-09-01 · Listing synced 2026-09-05 · 80k job ID `rec4t65PSdNKnlLMz`*
+*Posted 2026-09-01 · Listing synced 2026-09-06 · 80k job ID `rec4t65PSdNKnlLMz`*

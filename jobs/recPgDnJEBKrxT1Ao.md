@@ -2,7 +2,7 @@
 title: "General Counsel"
 employer: "Model Evaluation and Threat Research"
 job_id: "recPgDnJEBKrxT1Ao"
-last_updated: "2026-09-05T05:32:13.621752Z"
+last_updated: "2026-09-06T05:31:53.389846Z"
 posted_at: "2026-09-03T00:05:00Z"
 status: ready
 apply_url: "https://jobs.lever.co/metr/8a041633-4445-46b3-b9e1-385af7985473"
@@ -34,4 +34,4 @@ areas:
 <p class="apply-cta"><a href="https://jobs.lever.co/metr/8a041633-4445-46b3-b9e1-385af7985473">Apply →</a></p>
 
 ---
-*Posted 2026-09-03 · Listing synced 2026-09-05 · 80k job ID `recPgDnJEBKrxT1Ao`*
+*Posted 2026-09-03 · Listing synced 2026-09-06 · 80k job ID `recPgDnJEBKrxT1Ao`*

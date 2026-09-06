@@ -2,7 +2,7 @@
 title: "Social Media Manager"
 employer: "The Alliance for Secure AI"
 job_id: "recY46uISbQc1uLVE"
-last_updated: "2026-09-05T05:32:40.725168Z"
+last_updated: "2026-09-06T05:32:19.772780Z"
 posted_at: "2026-08-25T00:00:00Z"
 status: ready
 apply_url: "https://secureainow.org/career/social-media-manager/"
@@ -34,4 +34,4 @@ areas:
 <p class="apply-cta"><a href="https://secureainow.org/career/social-media-manager/">Apply →</a></p>
 
 ---
-*Posted 2026-08-25 · Listing synced 2026-09-05 · 80k job ID `recY46uISbQc1uLVE`*
+*Posted 2026-08-25 · Listing synced 2026-09-06 · 80k job ID `recY46uISbQc1uLVE`*

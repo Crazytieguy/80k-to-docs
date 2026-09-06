@@ -2,7 +2,7 @@
 title: "Head of Labs"
 employer: "Kairos"
 job_id: "recmr73RHCvwEBpif"
-last_updated: "2026-09-05T05:32:14.900725Z"
+last_updated: "2026-09-06T05:31:54.679719Z"
 posted_at: "2026-09-03T00:03:00Z"
 status: ready
 apply_url: "https://kairos-project.org/careers/head-of-kairos-labs"
@@ -34,4 +34,4 @@ areas:
 <p class="apply-cta"><a href="https://kairos-project.org/careers/head-of-kairos-labs">Apply →</a></p>
 
 ---
-*Posted 2026-09-03 · Listing synced 2026-09-05 · 80k job ID `recmr73RHCvwEBpif`*
+*Posted 2026-09-03 · Listing synced 2026-09-06 · 80k job ID `recmr73RHCvwEBpif`*

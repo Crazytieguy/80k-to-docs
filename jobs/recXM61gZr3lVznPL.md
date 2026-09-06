@@ -2,7 +2,7 @@
 title: "Senior Program Associate, Peace and Security"
 employer: "Effective Institutions Project"
 job_id: "recXM61gZr3lVznPL"
-last_updated: "2026-09-05T05:32:57.749542Z"
+last_updated: "2026-09-06T05:32:36.348194Z"
 posted_at: "2026-08-11T00:00:00Z"
 status: ready
 apply_url: "https://effectiveinstitutionsproject.org/open_position/peace-and-security-senior-program-associate/"
@@ -34,4 +34,4 @@ areas:
 <p class="apply-cta"><a href="https://effectiveinstitutionsproject.org/open_position/peace-and-security-senior-program-associate/">Apply →</a></p>
 
 ---
-*Posted 2026-08-11 · Listing synced 2026-09-05 · 80k job ID `recXM61gZr3lVznPL`*
+*Posted 2026-08-11 · Listing synced 2026-09-06 · 80k job ID `recXM61gZr3lVznPL`*

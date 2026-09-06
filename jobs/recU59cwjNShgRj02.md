@@ -2,7 +2,7 @@
 title: "GenAI Chemical Safety Expert"
 employer: "Alice"
 job_id: "recU59cwjNShgRj02"
-last_updated: "2026-09-05T05:32:50.381641Z"
+last_updated: "2026-09-06T05:32:29.443453Z"
 posted_at: "2026-08-18T00:00:00Z"
 status: ready
 apply_url: "https://alice.io/positions/position-24_076"
@@ -32,4 +32,4 @@ areas:
 <p class="apply-cta"><a href="https://alice.io/positions/position-24_076">Apply →</a></p>
 
 ---
-*Posted 2026-08-18 · Listing synced 2026-09-05 · 80k job ID `recU59cwjNShgRj02`*
+*Posted 2026-08-18 · Listing synced 2026-09-06 · 80k job ID `recU59cwjNShgRj02`*

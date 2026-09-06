@@ -2,7 +2,7 @@
 title: "Biosecurity and AI Safety Fellowship"
 employer: "10a Labs"
 job_id: "recIiUNjNV2LaRfk2"
-last_updated: "2026-09-05T05:32:21.403139Z"
+last_updated: "2026-09-06T05:32:01.251159Z"
 posted_at: "2026-09-01T00:03:00Z"
 status: ready
 apply_url: "https://job-boards.greenhouse.io/10alabs/jobs/4387699009"
@@ -34,4 +34,4 @@ areas:
 <p class="apply-cta"><a href="https://job-boards.greenhouse.io/10alabs/jobs/4387699009">Apply →</a></p>
 
 ---
-*Posted 2026-09-01 · Listing synced 2026-09-05 · 80k job ID `recIiUNjNV2LaRfk2`*
+*Posted 2026-09-01 · Listing synced 2026-09-06 · 80k job ID `recIiUNjNV2LaRfk2`*

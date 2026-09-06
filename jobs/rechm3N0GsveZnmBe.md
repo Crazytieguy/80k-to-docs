@@ -2,7 +2,7 @@
 title: "Data and Finance Assistant / Associate"
 employer: "Trajectory Labs"
 job_id: "rechm3N0GsveZnmBe"
-last_updated: "2026-09-05T05:32:28.163905Z"
+last_updated: "2026-09-06T05:32:08.095307Z"
 posted_at: "2026-08-31T00:00:00Z"
 status: ready
 apply_url: "https://www.trajectorylabs.org/s/TL-Data-Finance-Assistant_Associate.pdf"
@@ -34,4 +34,4 @@ areas:
 <p class="apply-cta"><a href="https://www.trajectorylabs.org/s/TL-Data-Finance-Assistant_Associate.pdf">Apply →</a></p>
 
 ---
-*Posted 2026-08-31 · Listing synced 2026-09-05 · 80k job ID `rechm3N0GsveZnmBe`*
+*Posted 2026-08-31 · Listing synced 2026-09-06 · 80k job ID `rechm3N0GsveZnmBe`*

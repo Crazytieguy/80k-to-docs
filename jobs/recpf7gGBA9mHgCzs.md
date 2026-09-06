@@ -2,7 +2,7 @@
 title: "Safeguards Enforcement Lead, Cyber Harms"
 employer: "Anthropic"
 job_id: "recpf7gGBA9mHgCzs"
-last_updated: "2026-09-05T05:32:19.403239Z"
+last_updated: "2026-09-06T05:31:59.266986Z"
 posted_at: "2026-09-02T00:00:00Z"
 status: ready
 apply_url: "https://job-boards.greenhouse.io/anthropic/jobs/5403775008"
@@ -34,4 +34,4 @@ areas:
 <p class="apply-cta"><a href="https://job-boards.greenhouse.io/anthropic/jobs/5403775008">Apply →</a></p>
 
 ---
-*Posted 2026-09-02 · Listing synced 2026-09-05 · 80k job ID `recpf7gGBA9mHgCzs`*
+*Posted 2026-09-02 · Listing synced 2026-09-06 · 80k job ID `recpf7gGBA9mHgCzs`*

@@ -2,7 +2,7 @@
 title: "Machine Learning Research Scientist"
 employer: "AIXI Labs"
 job_id: "rec6i6zs8yYNcAPqm"
-last_updated: "2026-09-05T05:33:23.016409Z"
+last_updated: "2026-09-06T05:33:02.292070Z"
 posted_at: "2026-07-02T00:00:00Z"
 status: ready
 apply_url: "https://www.aixi.uk/team/opportunities/ml-research-scientist/"
@@ -33,4 +33,4 @@ areas:
 <p class="apply-cta"><a href="https://www.aixi.uk/team/opportunities/ml-research-scientist/">Apply →</a></p>
 
 ---
-*Posted 2026-07-02 · Listing synced 2026-09-05 · 80k job ID `rec6i6zs8yYNcAPqm`*
+*Posted 2026-07-02 · Listing synced 2026-09-06 · 80k job ID `rec6i6zs8yYNcAPqm`*

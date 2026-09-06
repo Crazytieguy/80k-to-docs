@@ -2,7 +2,7 @@
 title: "Operations Specialist"
 employer: "PauseAI"
 job_id: "rec71XdRqy7IpQCmt"
-last_updated: "2026-09-05T05:32:22.687386Z"
+last_updated: "2026-09-06T05:32:02.571867Z"
 posted_at: "2026-09-01T00:00:00Z"
 status: ready
 apply_url: "https://pauseai.uk/jobs"
@@ -16,7 +16,7 @@ areas:
 
 <dl class="job-meta">
 <dt>Location</dt><dd>London, UK, UK</dd>
-<dt>Role type</dt><dd>Full-time, Part-time</dd>
+<dt>Role type</dt><dd>Part-time, Full-time</dd>
 <dt>Experience</dt><dd>Junior (1-4 years experience), Mid (5-9 years experience)</dd>
 <dt>Degree</dt><dd>Undergraduate degree or less</dd>
 <dt>Salary</dt><dd>$40,567 – $108,180</dd>
@@ -34,4 +34,4 @@ areas:
 <p class="apply-cta"><a href="https://pauseai.uk/jobs">Apply →</a></p>
 
 ---
-*Posted 2026-09-01 · Listing synced 2026-09-05 · 80k job ID `rec71XdRqy7IpQCmt`*
+*Posted 2026-09-01 · Listing synced 2026-09-06 · 80k job ID `rec71XdRqy7IpQCmt`*

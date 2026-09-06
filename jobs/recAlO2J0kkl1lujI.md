@@ -2,7 +2,7 @@
 title: "Member of Technical Staff, Synthetic Data"
 employer: "Trajectory Labs, PBC"
 job_id: "recAlO2J0kkl1lujI"
-last_updated: "2026-09-05T05:33:54.256247Z"
+last_updated: "2026-09-06T05:33:31.940414Z"
 posted_at: "2022-01-06T00:00:00Z"
 status: ready
 apply_url: "https://www.trajectorylabs.com/careers/expression-of-interest"
@@ -34,4 +34,4 @@ areas:
 <p class="apply-cta"><a href="https://www.trajectorylabs.com/careers/expression-of-interest">Apply →</a></p>
 
 ---
-*Posted 2022-01-06 · Listing synced 2026-09-05 · 80k job ID `recAlO2J0kkl1lujI`*
+*Posted 2022-01-06 · Listing synced 2026-09-06 · 80k job ID `recAlO2J0kkl1lujI`*

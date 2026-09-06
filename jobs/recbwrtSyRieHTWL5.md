@@ -2,7 +2,7 @@
 title: "AI Security and Control Researcher"
 employer: "Apollo Research"
 job_id: "recbwrtSyRieHTWL5"
-last_updated: "2026-09-05T05:32:17.781493Z"
+last_updated: "2026-09-06T05:31:57.608124Z"
 posted_at: "2026-09-02T00:05:00Z"
 status: ready
 apply_url: "https://jobs.lever.co/apolloresearch/d45269ea-3390-450b-bdda-c495d6123c66"
@@ -34,4 +34,4 @@ areas:
 <p class="apply-cta"><a href="https://jobs.lever.co/apolloresearch/d45269ea-3390-450b-bdda-c495d6123c66">Apply →</a></p>
 
 ---
-*Posted 2026-09-02 · Listing synced 2026-09-05 · 80k job ID `recbwrtSyRieHTWL5`*
+*Posted 2026-09-02 · Listing synced 2026-09-06 · 80k job ID `recbwrtSyRieHTWL5`*

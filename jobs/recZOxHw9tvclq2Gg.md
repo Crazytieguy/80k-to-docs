@@ -2,7 +2,7 @@
 title: "AI Governance Roles, European Team"
 employer: "The Future Society"
 job_id: "recZOxHw9tvclq2Gg"
-last_updated: "2026-09-05T05:32:32.757880Z"
+last_updated: "2026-09-06T05:32:11.452861Z"
 posted_at: "2026-08-27T00:05:00Z"
 status: ready
 apply_url: "https://thefuturesociety.org/work-with-us/"
@@ -34,4 +34,4 @@ areas:
 <p class="apply-cta"><a href="https://thefuturesociety.org/work-with-us/">Apply →</a></p>
 
 ---
-*Posted 2026-08-27 · Listing synced 2026-09-05 · 80k job ID `recZOxHw9tvclq2Gg`*
+*Posted 2026-08-27 · Listing synced 2026-09-06 · 80k job ID `recZOxHw9tvclq2Gg`*

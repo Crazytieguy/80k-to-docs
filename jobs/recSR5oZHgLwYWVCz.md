@@ -2,13 +2,13 @@
 title: "Member of Technical Staff, Applied Computational Biology"
 employer: "Valthos"
 job_id: "recSR5oZHgLwYWVCz"
-last_updated: "2026-09-05T05:33:08.977453Z"
+last_updated: "2026-09-06T05:32:48.751060Z"
 posted_at: "2026-07-30T00:01:00Z"
 status: ready
 apply_url: "https://jobs.ashbyhq.com/valthos/b377b52d-ffc9-447b-b472-e800ea022555"
 areas:
-  - "AI safety & policy"
   - "Biosecurity & pandemic preparedness"
+  - "AI safety & policy"
 ---
 
 # Member of Technical Staff, Applied Computational Biology
@@ -22,7 +22,7 @@ areas:
 <dt>Degree</dt><dd>Undergraduate degree or less</dd>
 </dl>
 
-**Areas & skills:** AI safety & policy, Biosecurity & pandemic preparedness, Communications
+**Areas & skills:** Biosecurity & pandemic preparedness, AI safety & policy, Communications
 
 ## Summary
 - In this role, you'll bridge research and customers, owning computational biology contributions to customer engagements and translating capabilities into solutions.
@@ -34,4 +34,4 @@ areas:
 <p class="apply-cta"><a href="https://jobs.ashbyhq.com/valthos/b377b52d-ffc9-447b-b472-e800ea022555">Apply →</a></p>
 
 ---
-*Posted 2026-07-30 · Listing synced 2026-09-05 · 80k job ID `recSR5oZHgLwYWVCz`*
+*Posted 2026-07-30 · Listing synced 2026-09-06 · 80k job ID `recSR5oZHgLwYWVCz`*

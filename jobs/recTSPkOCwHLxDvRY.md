@@ -2,7 +2,7 @@
 title: "Field Specialist, AI Hardware Security and Verification"
 employer: "Amodo Design"
 job_id: "recTSPkOCwHLxDvRY"
-last_updated: "2026-09-05T05:33:57.479756Z"
+last_updated: "2026-09-06T05:33:35.242134Z"
 posted_at: "2022-01-05T00:00:00Z"
 status: ready
 apply_url: "https://amododesign.com/career/ai-specialist/"
@@ -34,4 +34,4 @@ areas:
 <p class="apply-cta"><a href="https://amododesign.com/career/ai-specialist/">Apply →</a></p>
 
 ---
-*Posted 2022-01-05 · Listing synced 2026-09-05 · 80k job ID `recTSPkOCwHLxDvRY`*
+*Posted 2022-01-05 · Listing synced 2026-09-06 · 80k job ID `recTSPkOCwHLxDvRY`*

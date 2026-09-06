@@ -2,7 +2,7 @@
 title: "Summer Fellowship, US"
 employer: "Institute for Law and AI"
 job_id: "recpzmJvLfetrDf2O"
-last_updated: "2026-09-05T05:32:35.640118Z"
+last_updated: "2026-09-06T05:32:14.458738Z"
 posted_at: "2026-08-26T00:04:34Z"
 status: ready
 apply_url: "https://law-ai.org/summer-fellowship-us/"
@@ -34,4 +34,4 @@ areas:
 <p class="apply-cta"><a href="https://law-ai.org/summer-fellowship-us/">Apply →</a></p>
 
 ---
-*Posted 2026-08-26 · Listing synced 2026-09-05 · 80k job ID `recpzmJvLfetrDf2O`*
+*Posted 2026-08-26 · Listing synced 2026-09-06 · 80k job ID `recpzmJvLfetrDf2O`*

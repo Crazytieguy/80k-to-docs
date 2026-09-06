@@ -2,7 +2,7 @@
 title: "Personal Assistant and Office Administrator"
 employer: "Cambridge University, Centre for the Study of Existential Risk"
 job_id: "rec6x7EwdXVWSOLbe"
-last_updated: "2026-09-05T05:32:51.451062Z"
+last_updated: "2026-09-06T05:32:30.508922Z"
 posted_at: "2026-08-17T00:01:00Z"
 status: ready
 apply_url: "https://www.cser.ac.uk/people/join-us/pa-and-office-administrator/"
@@ -33,4 +33,4 @@ areas:
 <p class="apply-cta"><a href="https://www.cser.ac.uk/people/join-us/pa-and-office-administrator/">Apply →</a></p>
 
 ---
-*Posted 2026-08-17 · Listing synced 2026-09-05 · 80k job ID `rec6x7EwdXVWSOLbe`*
+*Posted 2026-08-17 · Listing synced 2026-09-06 · 80k job ID `rec6x7EwdXVWSOLbe`*

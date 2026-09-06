@@ -2,7 +2,7 @@
 title: "Events Lead, Amsterdam"
 employer: "Safe AI Netherlands"
 job_id: "recVWOwrw12syvqpz"
-last_updated: "2026-09-05T05:32:23.596520Z"
+last_updated: "2026-09-06T05:32:03.500217Z"
 posted_at: "2026-09-01T00:00:00Z"
 status: ready
 apply_url: "https://safeainetherlands.org/open-positions#national:~:text=Events-,Events%20Lead,-6%20to%2010"
@@ -33,4 +33,4 @@ areas:
 <p class="apply-cta"><a href="https://safeainetherlands.org/open-positions#national:~:text=Events-,Events%20Lead,-6%20to%2010">Apply →</a></p>
 
 ---
-*Posted 2026-09-01 · Listing synced 2026-09-05 · 80k job ID `recVWOwrw12syvqpz`*
+*Posted 2026-09-01 · Listing synced 2026-09-06 · 80k job ID `recVWOwrw12syvqpz`*

@@ -2,7 +2,7 @@
 title: "Policy and Government Engagement Support"
 employer: "Evidence Action"
 job_id: "recxl8OKHEdPOxmdO"
-last_updated: "2026-09-05T05:32:44.511951Z"
+last_updated: "2026-09-06T05:32:23.546921Z"
 posted_at: "2026-08-21T00:00:00Z"
 status: ready
 apply_url: "https://apply.workable.com/evidence-action/j/EB9D590593/"
@@ -33,4 +33,4 @@ areas:
 <p class="apply-cta"><a href="https://apply.workable.com/evidence-action/j/EB9D590593/">Apply →</a></p>
 
 ---
-*Posted 2026-08-21 · Listing synced 2026-09-05 · 80k job ID `recxl8OKHEdPOxmdO`*
+*Posted 2026-08-21 · Listing synced 2026-09-06 · 80k job ID `recxl8OKHEdPOxmdO`*

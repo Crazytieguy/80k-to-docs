@@ -2,15 +2,15 @@
 
 Daily-refreshed mirror of every job posting on the [80,000 Hours job board](https://jobs.80000hours.org/). One markdown file per job under `jobs/`. Closed jobs move to `jobs/closed/`.
 
-**927** active · **1050** closed · last synced 2026-09-05 10:41 UTC
+**925** active · **1052** closed · last synced 2026-09-06 11:03 UTC
 
 _See [README](./README.md) for how this is built. Source: [GitHub repo](https://github.com/Crazytieguy/80k-to-docs)._
 
 <div class="areas-filter" aria-label="Filter by area">
-<button type="button" class="chip is-active" data-area="all" aria-pressed="true">All (927)</button>
-<button type="button" class="chip" data-area="AI safety &amp; policy" aria-pressed="false">AI safety &amp; policy (576)</button>
-<button type="button" class="chip" data-area="Biosecurity &amp; pandemic preparedness" aria-pressed="false">Biosecurity &amp; pandemic preparedness (77)</button>
+<button type="button" class="chip is-active" data-area="all" aria-pressed="true">All (925)</button>
+<button type="button" class="chip" data-area="AI safety &amp; policy" aria-pressed="false">AI safety &amp; policy (574)</button>
 <button type="button" class="chip" data-area="Career development: Policy &amp; government" aria-pressed="false">Career development: Policy &amp; government (76)</button>
+<button type="button" class="chip" data-area="Biosecurity &amp; pandemic preparedness" aria-pressed="false">Biosecurity &amp; pandemic preparedness (76)</button>
 <button type="button" class="chip" data-area="Career development: Technical" aria-pressed="false">Career development: Technical (58)</button>
 <button type="button" class="chip" data-area="Global health &amp; development" aria-pressed="false">Global health &amp; development (49)</button>
 <button type="button" class="chip" data-area="Building effective altruism" aria-pressed="false">Building effective altruism (45)</button>
@@ -235,10 +235,8 @@ _See [README](./README.md) for how this is built. Source: [GitHub repo](https://
 - `2026-08-14` · [GenAI Chemical, Biological, Radiological, Nuclear, and Explosives Cyber Expert](./jobs/recQNM7VhaRIEYi4C.md) — Alice
 - `2026-08-14` · [GenAI Biosecurity Expert](./jobs/recakJn0nckQiskkk.md) — Alice
 - `2026-08-14` · [Research Scientist](./jobs/recj8jd069TEb5lvw.md) — FAR AI
-- `2026-08-13` · [Research Manager, AIxBio](./jobs/rec0jkH6I0bilV2Ln.md) — ERA
 - `2026-08-13` · [Research Scientist, Biological Models, Chem-Bio](./jobs/rec2HMle7u3utW8F6.md) — UK Government, AI Security Institute
 - `2026-08-13` · [Research Scientist, Virologist, Chem-Bio](./jobs/recFUcsWtiiDiJWwV.md) — UK Government, AI Security Institute
-- `2026-08-13` · [Research Manager, AI](./jobs/receOQWg3SADHj6dm.md) — ERA
 - `2026-08-13` · [Policy Entrepreneurship Fellowship, AI Safety](./jobs/recgJS1NkANzjlYBM.md) — Federation of American Scientists
 - `2026-08-13` · [Software Engineer, Infrastructure, Interpretability](./jobs/recD4bYDC1Od0IEhI.md) — Anthropic
 - `2026-08-13` · [Member of Technical Staff, Secure Intelligence Institute](./jobs/recknwl9pabXG1Hrl.md) — Perplexity
@@ -377,7 +375,6 @@ _See [README](./README.md) for how this is built. Source: [GitHub repo](https://
 - `2026-06-22` · [Senior Research Engineer](./jobs/recRzRjGXxPWK8jxo.md) — FAR AI
 - `2026-06-22` · [Assistant AI Security Researcher](./jobs/recwd6rbAufS2b2hv.md) — Carnegie Mellon University, Software Engineering Institute
 - `2026-06-18` · [Finance Associate](./jobs/recrlVLtLG6ra2FQj.md) — Apollo Research
-- `2026-06-18` · [Head of AI Assurance](./jobs/rec2f5ATGLBZHBVHc.md) — Faculty
 - `2022-01-13` · [Expression of Interest, Pannu Lab](./jobs/rec4yFSYJwM7mFO2P.md) — Johns Hopkins University, Center for Health Security
 - `2022-01-13` · [General Application](./jobs/recgK4Kc5ag6YQN4f.md) — Coefficient Giving
 - `2022-01-13` · [Research Scientist, Biological Safety](./jobs/recmS88tRE8gce5eD.md) — Anthropic
@@ -549,6 +546,7 @@ _See [README](./README.md) for how this is built. Source: [GitHub repo](https://
 - `2022-01-05` · [Senior Research Scientists](./jobs/rec1LENNQYezhrKgS.md) — Principia
 - `2022-01-05` · [Freelancer, Red Team Specialist](./jobs/rec1b8EcMNXqJUVf3.md) — Alice
 - `2022-01-05` · [Research Engineer, Machine Learning](./jobs/rec1j0p8QM8z43Xj1.md) — Transluce
+- `2022-01-05` · [Head of AI Assurance](./jobs/rec2f5ATGLBZHBVHc.md) — Faculty
 - `2022-01-05` · [Expression of Interest, Operations](./jobs/rec2jy1gaDbJ08rJZ.md) — Constellation
 - `2022-01-05` · [Director, Evaluations](./jobs/rec3w2lRon2mY4zPL.md) — LawZero
 - `2022-01-05` · [Technical Director, AI Safety](./jobs/rec4PUFfskueiFwRZ.md) — Faculty
@@ -616,86 +614,6 @@ _See [README](./README.md) for how this is built. Source: [GitHub repo](https://
 - `2022-01-05` · [Policy Researcher](./jobs/recz0PUAkphKOos0K.md) — AI Futures Project
 - `2022-01-05` · [Senior ML Research Developer](./jobs/reczD6xRKgxWdJHtQ.md) — LawZero
 - `2020-01-01` · [Get Career Advising](./jobs/receNrfRZjVJNlzg5.md) — 80,000 Hours
-
-### Biosecurity & pandemic preparedness
-
-- `2026-09-04` · [Senior Program Officer / Director, Global Nuclear Policy](./jobs/recUIONkWruRANHPS.md) — Nuclear Threat Initiative
-- `2026-09-04` · [Fellowship, Medical Countermeasures Program](./jobs/rec9VwAI9BuCt68sm.md) — US Government, Department of Health and Human Services
-- `2026-09-04` · [Fellowship, Research, Innovation, and Ventures](./jobs/recH95fVA99SCEZBb.md) — US Government, Department of Health and Human Services
-- `2026-09-04` · [Research Manager, Biological Safety](./jobs/recxiAYEygv4BPDKC.md) — Anthropic
-- `2026-09-02` · [Research Resident, AI and Biosecurity, Center on AI, Security, and Technology](./jobs/recxyu1jkqND3AVwO.md) — RAND Corporation
-- `2026-09-01` · [Senior Director, Contracts, US Government](./jobs/recIQiFwH87sAKkkt.md) — Perimeter
-- `2026-09-01` · [Senior Supply Chain Lead](./jobs/rec1fMGKMfTNnBAA3.md) — Coalition for Epidemic Preparedness Innovations
-- `2026-08-31` · [Program Officer / Senior Program Officer, AI and Biosecurity](./jobs/recftAXInfVZGBwEX.md) — Sentinel Bio
-- `2026-08-31` · [Research Specialist, Economics, Market Shaping Solutions to Global Challenges](./jobs/recjctVMFogMVW3yS.md) — University of Chicago, Market Shaping Accelerator
-- `2026-08-28` · [Field Epidemiology Training Programme Director](./jobs/recURm5N4YhNvLxlt.md) — UK Government, Health Security Agency
-- `2026-08-26` · [Portfolio Manager](./jobs/recETtFKLeWwvkXfk.md) — Berkeley Existential Risk Initiative
-- `2026-08-26` · [Program Associate](./jobs/recaLoNbxObC9ekLs.md) — Perimeter
-- `2026-08-26` · [List of Places to Find Biosecurity Roles](./jobs/recV1vRCGKscmA52G.md) — biosecurity.world
-- `2026-08-25` · [Model Policy Manager](./jobs/recPelUdBzO0EXmOO.md) — OpenAI
-- `2026-08-25` · [Research Assistant, Market Shaping Accelerator](./jobs/recY2SnVYkcrM3A8q.md) — Center for Global Development
-- `2026-08-25` · [Head of Biology](./jobs/recqYkcaKi2wZxa0i.md) — Gray Swan
-- `2026-08-24` · [Advisor, Biosecurity](./jobs/recMRoSaQsmLOVhlD.md) — Successif
-- `2026-08-24` · [Biosecurity Course](./jobs/recPzDo5SSlXFeCct.md) — BlueDot Impact
-- `2026-08-20` · [Laboratory Operations Assistant](./jobs/recbrUGauUBeIio1G.md) — SecureBio
-- `2026-08-20` · [Programme Director](./jobs/recC9AJSDmIIXwEAM.md) — Advanced Research and Invention Agency
-- `2026-08-19` · [Big if True Science Accelerator, Biosecurity Cohort](./jobs/recJIt4qvvY1XgFF3.md) — Renaissance Philanthropy
-- `2026-08-18` · [Emerging Leaders in Biosecurity Fellowship](./jobs/rec0hB1Ksm6cRd0LJ.md) — Johns Hopkins University, Bloomberg School of Public Health
-- `2026-08-14` · [GenAI Chemical, Biological, Radiological, Nuclear, and Explosives Cyber Expert](./jobs/recQNM7VhaRIEYi4C.md) — Alice
-- `2026-08-14` · [GenAI Biosecurity Expert](./jobs/recakJn0nckQiskkk.md) — Alice
-- `2026-08-13` · [Research Manager, AIxBio](./jobs/rec0jkH6I0bilV2Ln.md) — ERA
-- `2026-08-13` · [Associate Scientist, Virology](./jobs/reczfbtg1gFjmGtKu.md) — Centivax
-- `2026-08-12` · [Senior Computational Synthetic Biologist](./jobs/recVHxdE54esJZaFl.md) — Perimeter
-- `2026-08-10` · [IT Manager](./jobs/rechkSqiGFVPwsAuE.md) — SecureBio
-- `2026-08-07` · [Executive Assistant, Detection Leadership Team](./jobs/rec7UK5CcPKuQlSrB.md) — SecureBio
-- `2026-08-07` · [Software Engineer](./jobs/recuVx292l27dxwCB.md) — SecureBio
-- `2026-08-06` · [Hi-Med Career Planning Course](./jobs/recUAsW4FSpXr5Fjm.md) — High Impact Medicine
-- `2026-08-06` · [Request for Proposals, The Launch Sequence](./jobs/recxfcV8eo1wcUb21.md) — Institute for Progress
-- `2026-08-03` · [Managing Director](./jobs/recu0Cso7cfbY8VYw.md) — Secure DNA Project
-- `2026-07-30` · [Request for Proposals, Safety Assessment for Far-UVC Exposure](./jobs/recSCG7xr1t6r3FXz.md) — Blueprint Biosecurity
-- `2026-07-30` · [Member of Technical Staff, Applied Computational Biology](./jobs/recSR5oZHgLwYWVCz.md) — Valthos
-- `2026-07-30` · [Member of Technical Staff, Design Engineer](./jobs/recTJehTvOLGnijM6.md) — Valthos
-- `2026-07-30` · [Senior Program Manager, US Government Programs](./jobs/recjGWOanDhGZyljm.md) — Perimeter
-- `2026-07-29` · [Senior Software Engineer, AI Benchmarking](./jobs/recl6cv8gvhJWMo5V.md) — SecureBio
-- `2026-07-28` · [Research Protocol Technician](./jobs/recXO1QnNmFU6yoyJ.md) — Active Site
-- `2026-07-24` · [Project Manager](./jobs/recawbhs8Cqvj0LQv.md) — SecureBio
-- `2026-07-24` · [Logistics Manager](./jobs/reclR3O9qyn6ISG18.md) — SecureBio
-- `2026-07-22` · [Platform Lead, Laboratory Information Management System](./jobs/recEGVMbVmcaOW2jG.md) — SecureBio
-- `2026-07-22` · [Research Associate](./jobs/recQ3Wpu2ZwEuAw6y.md) — SecureBio
-- `2026-07-13` · [Safeguards Enforcement Analyst, Bio Harms](./jobs/recCmelkQsrDe5p8J.md) — Anthropic
-- `2026-07-10` · [Experimental Officer, Respirator Testing](./jobs/recCEjzZNRzm4iHet.md) — Amodo Design
-- `2026-07-09` · [Product Engineer](./jobs/recBnGJaeKl1SuP5L.md) — BioTrust
-- `2026-07-09` · [Contractor Opportunities, AI, Biosecurity, and AI-Bio](./jobs/recUF4cY2NFEIb5MP.md) — Centre for Long-Term Resilience
-- `2026-07-09` · [Backend and Infrastructure Engineer](./jobs/recsUJRU9Xvq29rFD.md) — BioTrust
-- `2026-07-07` · [Senior Software Engineer, Full Stack](./jobs/recPsc24rajXvgRa7.md) — Perimeter
-- `2026-07-07` · [Staff Software Engineer, Data Pipelines](./jobs/receZ2f3xs5GlNJoj.md) — Perimeter
-- `2026-07-03` · [Rosalind Biodefense Program](./jobs/recybLCJC9c2aJmrn.md) — OpenAI
-- `2022-01-13` · [Expression of Interest, Pannu Lab](./jobs/rec4yFSYJwM7mFO2P.md) — Johns Hopkins University, Center for Health Security
-- `2022-01-13` · [General Application](./jobs/recgK4Kc5ag6YQN4f.md) — Coefficient Giving
-- `2022-01-13` · [Research Scientist, Biological Safety](./jobs/recmS88tRE8gce5eD.md) — Anthropic
-- `2022-01-13` · [Technical Threat Investigator, Chemical, Biological, Radiological, Nuclear, and Explosives](./jobs/recztL2NiEeVe1YLI.md) — Anthropic
-- `2022-01-09` · [Expression of Interest, Biosecurity](./jobs/recFRRmEamXtFXcXm.md) — Coefficient Giving
-- `2022-01-08` · [Computational Biologist](./jobs/recXec8pWPMIbEz9J.md) — Valthos
-- `2022-01-08` · [Member of Technical Staff, Forward Deployed Engineer](./jobs/recfaLhTj4SBMVQ0w.md) — Valthos
-- `2022-01-08` · [Applied AI Engineer](./jobs/reczNaYeGg4R25Pz2.md) — Valthos
-- `2022-01-07` · [Software Engineer](./jobs/rec3VSqou2ls9J7vC.md) — Valthos
-- `2022-01-07` · [Operations Generalist / Business Operations](./jobs/recqOfYZNK4zaFtdR.md) — Valthos
-- `2022-01-07` · [General Applications](./jobs/recucu4E9plS7Ealy.md) — Future of Life Institute
-- `2022-01-04` · [Research Associate](./jobs/rec6aPMta7sM89Os6.md) — Claryx
-- `2022-01-04` · [Computational Biologist](./jobs/recBWyWnOMsUjDG5R.md) — Massachusetts Institute of Technology, Lincoln Laboratory
-- `2022-01-04` · [List of Potential Biosecurity PhD Advisors](./jobs/recCe9EK4WkFYdQQ2.md) — Various Potential PhD Supervisors
-- `2022-01-04` · [Research Fellow](./jobs/recInw3lFCCWQqYqR.md) — National University of Singapore, Saw Swee Hock School of Public Health
-- `2022-01-04` · [Research Associate, Law and Governance, Biosecurity and Global Health](./jobs/recPaaV6OmnhvDJYq.md) — National University of Singapore, Asia Centre for Health Security
-- `2022-01-04` · [Research Fellow, Infectious Disease Modelling](./jobs/recTypjQGZyvm7HoJ.md) — National University of Singapore, Asia Centre for Health Security
-- `2022-01-04` · [Engineering PhD student (with Dr. David Denkenberger, ALLFED)](./jobs/recYOH6WjgvTNSiYD.md) — University of Canterbury
-- `2022-01-04` · [Assistant Professor / Associate Professor / Professor](./jobs/recdw3z9ZBuvBr7By.md) — National University of Singapore, Asia Centre for Health Security
-- `2022-01-04` · [Field Sampler](./jobs/rece9SdzBw4eZRuzq.md) — SecureBio
-- `2022-01-04` · [Computational Biologist](./jobs/recqRqqyDS958NhBs.md) — Claryx
-- `2022-01-04` · [Senior Research Fellow, Infectious Disease Modelling and AI for Public Health](./jobs/recr5aYJjFGUjZh7x.md) — National University of Singapore, Saw Swee Hock School of Public Health
-- `2022-01-03` · [Expression of Interest](./jobs/recNpa8rGTT7fp3im.md) — SecureBio
-- `2022-01-03` · [Expression of Interest](./jobs/recVtIhIQG176bUSP.md) — Mirror Biology Dialogues Fund
-- `2022-01-03` · [Senior Software Engineer, Full Stack](./jobs/recbUXTb9zb1nj7Ob.md) — Ginkgo Bioworks
-- `2022-01-03` · [Staff Software Engineer, Security Engineering, AI Compute](./jobs/reczde7EDnkAXXzBD.md) — Biohub
 
 ### Career development: Policy & government
 
@@ -775,6 +693,85 @@ _See [README](./README.md) for how this is built. Source: [GitHub repo](https://
 - `2022-01-01` · [Various Fellowships](./jobs/recbJjOnGGbi27uz2.md) — Yale University, Yale Law School
 - `2022-01-01` · [U.S. Digital Service](./jobs/rechRvHjhPZLJeiXm.md) — US Government, Executive Office of the President
 - `2022-01-01` · [Executive-in-Residence](./jobs/recxwdlwtPZTGLzqB.md) — Geneva Centre for Security Policy
+
+### Biosecurity & pandemic preparedness
+
+- `2026-09-04` · [Senior Program Officer / Director, Global Nuclear Policy](./jobs/recUIONkWruRANHPS.md) — Nuclear Threat Initiative
+- `2026-09-04` · [Fellowship, Medical Countermeasures Program](./jobs/rec9VwAI9BuCt68sm.md) — US Government, Department of Health and Human Services
+- `2026-09-04` · [Fellowship, Research, Innovation, and Ventures](./jobs/recH95fVA99SCEZBb.md) — US Government, Department of Health and Human Services
+- `2026-09-04` · [Research Manager, Biological Safety](./jobs/recxiAYEygv4BPDKC.md) — Anthropic
+- `2026-09-02` · [Research Resident, AI and Biosecurity, Center on AI, Security, and Technology](./jobs/recxyu1jkqND3AVwO.md) — RAND Corporation
+- `2026-09-01` · [Senior Director, Contracts, US Government](./jobs/recIQiFwH87sAKkkt.md) — Perimeter
+- `2026-09-01` · [Senior Supply Chain Lead](./jobs/rec1fMGKMfTNnBAA3.md) — Coalition for Epidemic Preparedness Innovations
+- `2026-08-31` · [Program Officer / Senior Program Officer, AI and Biosecurity](./jobs/recftAXInfVZGBwEX.md) — Sentinel Bio
+- `2026-08-31` · [Research Specialist, Economics, Market Shaping Solutions to Global Challenges](./jobs/recjctVMFogMVW3yS.md) — University of Chicago, Market Shaping Accelerator
+- `2026-08-28` · [Field Epidemiology Training Programme Director](./jobs/recURm5N4YhNvLxlt.md) — UK Government, Health Security Agency
+- `2026-08-26` · [Portfolio Manager](./jobs/recETtFKLeWwvkXfk.md) — Berkeley Existential Risk Initiative
+- `2026-08-26` · [Program Associate](./jobs/recaLoNbxObC9ekLs.md) — Perimeter
+- `2026-08-26` · [List of Places to Find Biosecurity Roles](./jobs/recV1vRCGKscmA52G.md) — biosecurity.world
+- `2026-08-25` · [Model Policy Manager](./jobs/recPelUdBzO0EXmOO.md) — OpenAI
+- `2026-08-25` · [Research Assistant, Market Shaping Accelerator](./jobs/recY2SnVYkcrM3A8q.md) — Center for Global Development
+- `2026-08-25` · [Head of Biology](./jobs/recqYkcaKi2wZxa0i.md) — Gray Swan
+- `2026-08-24` · [Advisor, Biosecurity](./jobs/recMRoSaQsmLOVhlD.md) — Successif
+- `2026-08-24` · [Biosecurity Course](./jobs/recPzDo5SSlXFeCct.md) — BlueDot Impact
+- `2026-08-20` · [Laboratory Operations Assistant](./jobs/recbrUGauUBeIio1G.md) — SecureBio
+- `2026-08-20` · [Programme Director](./jobs/recC9AJSDmIIXwEAM.md) — Advanced Research and Invention Agency
+- `2026-08-19` · [Big if True Science Accelerator, Biosecurity Cohort](./jobs/recJIt4qvvY1XgFF3.md) — Renaissance Philanthropy
+- `2026-08-18` · [Emerging Leaders in Biosecurity Fellowship](./jobs/rec0hB1Ksm6cRd0LJ.md) — Johns Hopkins University, Bloomberg School of Public Health
+- `2026-08-14` · [GenAI Chemical, Biological, Radiological, Nuclear, and Explosives Cyber Expert](./jobs/recQNM7VhaRIEYi4C.md) — Alice
+- `2026-08-14` · [GenAI Biosecurity Expert](./jobs/recakJn0nckQiskkk.md) — Alice
+- `2026-08-13` · [Associate Scientist, Virology](./jobs/reczfbtg1gFjmGtKu.md) — Centivax
+- `2026-08-12` · [Senior Computational Synthetic Biologist](./jobs/recVHxdE54esJZaFl.md) — Perimeter
+- `2026-08-10` · [IT Manager](./jobs/rechkSqiGFVPwsAuE.md) — SecureBio
+- `2026-08-07` · [Executive Assistant, Detection Leadership Team](./jobs/rec7UK5CcPKuQlSrB.md) — SecureBio
+- `2026-08-07` · [Software Engineer](./jobs/recuVx292l27dxwCB.md) — SecureBio
+- `2026-08-06` · [Hi-Med Career Planning Course](./jobs/recUAsW4FSpXr5Fjm.md) — High Impact Medicine
+- `2026-08-06` · [Request for Proposals, The Launch Sequence](./jobs/recxfcV8eo1wcUb21.md) — Institute for Progress
+- `2026-08-03` · [Managing Director](./jobs/recu0Cso7cfbY8VYw.md) — Secure DNA Project
+- `2026-07-30` · [Request for Proposals, Safety Assessment for Far-UVC Exposure](./jobs/recSCG7xr1t6r3FXz.md) — Blueprint Biosecurity
+- `2026-07-30` · [Member of Technical Staff, Applied Computational Biology](./jobs/recSR5oZHgLwYWVCz.md) — Valthos
+- `2026-07-30` · [Member of Technical Staff, Design Engineer](./jobs/recTJehTvOLGnijM6.md) — Valthos
+- `2026-07-30` · [Senior Program Manager, US Government Programs](./jobs/recjGWOanDhGZyljm.md) — Perimeter
+- `2026-07-29` · [Senior Software Engineer, AI Benchmarking](./jobs/recl6cv8gvhJWMo5V.md) — SecureBio
+- `2026-07-28` · [Research Protocol Technician](./jobs/recXO1QnNmFU6yoyJ.md) — Active Site
+- `2026-07-24` · [Project Manager](./jobs/recawbhs8Cqvj0LQv.md) — SecureBio
+- `2026-07-24` · [Logistics Manager](./jobs/reclR3O9qyn6ISG18.md) — SecureBio
+- `2026-07-22` · [Platform Lead, Laboratory Information Management System](./jobs/recEGVMbVmcaOW2jG.md) — SecureBio
+- `2026-07-22` · [Research Associate](./jobs/recQ3Wpu2ZwEuAw6y.md) — SecureBio
+- `2026-07-13` · [Safeguards Enforcement Analyst, Bio Harms](./jobs/recCmelkQsrDe5p8J.md) — Anthropic
+- `2026-07-10` · [Experimental Officer, Respirator Testing](./jobs/recCEjzZNRzm4iHet.md) — Amodo Design
+- `2026-07-09` · [Product Engineer](./jobs/recBnGJaeKl1SuP5L.md) — BioTrust
+- `2026-07-09` · [Contractor Opportunities, AI, Biosecurity, and AI-Bio](./jobs/recUF4cY2NFEIb5MP.md) — Centre for Long-Term Resilience
+- `2026-07-09` · [Backend and Infrastructure Engineer](./jobs/recsUJRU9Xvq29rFD.md) — BioTrust
+- `2026-07-07` · [Senior Software Engineer, Full Stack](./jobs/recPsc24rajXvgRa7.md) — Perimeter
+- `2026-07-07` · [Staff Software Engineer, Data Pipelines](./jobs/receZ2f3xs5GlNJoj.md) — Perimeter
+- `2026-07-03` · [Rosalind Biodefense Program](./jobs/recybLCJC9c2aJmrn.md) — OpenAI
+- `2022-01-13` · [Expression of Interest, Pannu Lab](./jobs/rec4yFSYJwM7mFO2P.md) — Johns Hopkins University, Center for Health Security
+- `2022-01-13` · [General Application](./jobs/recgK4Kc5ag6YQN4f.md) — Coefficient Giving
+- `2022-01-13` · [Research Scientist, Biological Safety](./jobs/recmS88tRE8gce5eD.md) — Anthropic
+- `2022-01-13` · [Technical Threat Investigator, Chemical, Biological, Radiological, Nuclear, and Explosives](./jobs/recztL2NiEeVe1YLI.md) — Anthropic
+- `2022-01-09` · [Expression of Interest, Biosecurity](./jobs/recFRRmEamXtFXcXm.md) — Coefficient Giving
+- `2022-01-08` · [Computational Biologist](./jobs/recXec8pWPMIbEz9J.md) — Valthos
+- `2022-01-08` · [Member of Technical Staff, Forward Deployed Engineer](./jobs/recfaLhTj4SBMVQ0w.md) — Valthos
+- `2022-01-08` · [Applied AI Engineer](./jobs/reczNaYeGg4R25Pz2.md) — Valthos
+- `2022-01-07` · [Software Engineer](./jobs/rec3VSqou2ls9J7vC.md) — Valthos
+- `2022-01-07` · [Operations Generalist / Business Operations](./jobs/recqOfYZNK4zaFtdR.md) — Valthos
+- `2022-01-07` · [General Applications](./jobs/recucu4E9plS7Ealy.md) — Future of Life Institute
+- `2022-01-04` · [Research Associate](./jobs/rec6aPMta7sM89Os6.md) — Claryx
+- `2022-01-04` · [Computational Biologist](./jobs/recBWyWnOMsUjDG5R.md) — Massachusetts Institute of Technology, Lincoln Laboratory
+- `2022-01-04` · [List of Potential Biosecurity PhD Advisors](./jobs/recCe9EK4WkFYdQQ2.md) — Various Potential PhD Supervisors
+- `2022-01-04` · [Research Fellow](./jobs/recInw3lFCCWQqYqR.md) — National University of Singapore, Saw Swee Hock School of Public Health
+- `2022-01-04` · [Research Associate, Law and Governance, Biosecurity and Global Health](./jobs/recPaaV6OmnhvDJYq.md) — National University of Singapore, Asia Centre for Health Security
+- `2022-01-04` · [Research Fellow, Infectious Disease Modelling](./jobs/recTypjQGZyvm7HoJ.md) — National University of Singapore, Asia Centre for Health Security
+- `2022-01-04` · [Engineering PhD student (with Dr. David Denkenberger, ALLFED)](./jobs/recYOH6WjgvTNSiYD.md) — University of Canterbury
+- `2022-01-04` · [Assistant Professor / Associate Professor / Professor](./jobs/recdw3z9ZBuvBr7By.md) — National University of Singapore, Asia Centre for Health Security
+- `2022-01-04` · [Field Sampler](./jobs/rece9SdzBw4eZRuzq.md) — SecureBio
+- `2022-01-04` · [Computational Biologist](./jobs/recqRqqyDS958NhBs.md) — Claryx
+- `2022-01-04` · [Senior Research Fellow, Infectious Disease Modelling and AI for Public Health](./jobs/recr5aYJjFGUjZh7x.md) — National University of Singapore, Saw Swee Hock School of Public Health
+- `2022-01-03` · [Expression of Interest](./jobs/recNpa8rGTT7fp3im.md) — SecureBio
+- `2022-01-03` · [Expression of Interest](./jobs/recVtIhIQG176bUSP.md) — Mirror Biology Dialogues Fund
+- `2022-01-03` · [Senior Software Engineer, Full Stack](./jobs/recbUXTb9zb1nj7Ob.md) — Ginkgo Bioworks
+- `2022-01-03` · [Staff Software Engineer, Security Engineering, AI Compute](./jobs/reczde7EDnkAXXzBD.md) — Biohub
 
 ### Career development: Technical
 
@@ -1100,6 +1097,8 @@ _See [README](./README.md) for how this is built. Source: [GitHub repo](https://
 
 ## Recently closed
 
+- `2026-09-06` · [Research Manager, AIxBio](./jobs/closed/rec0jkH6I0bilV2Ln.md) — ERA
+- `2026-09-06` · [Research Manager, AI](./jobs/closed/receOQWg3SADHj6dm.md) — ERA
 - `2026-09-05` · [Lab Operations Associate](./jobs/closed/rec1FnUDdrggfqMaO.md) — Active Site
 - `2026-09-05` · [Research Intern, Economics Program (Fall 2026)](./jobs/closed/rec41lVx0Y1eBSvNE.md) — Center for Strategic and International Studies
 - `2026-09-05` · [Associate Program Officer, Transformative AI Fund](./jobs/closed/rec4ZANgvHHkPh9J5.md) — Centre for Effective Altruism
@@ -1148,7 +1147,5 @@ _See [README](./README.md) for how this is built. Source: [GitHub repo](https://
 - `2026-09-02` · [Operations Associate / Specialist](./jobs/closed/recrJPyist5JN2NB4.md) — SecureBio
 - `2026-09-02` · [Security Preparedness Lead, Coding Agents](./jobs/closed/recuRkQMf5ZkGz2Tf.md) — OpenAI
 - `2026-09-02` · [List of Internship Opportunities, U.S. House of Representatives](./jobs/closed/reczKcUpaW7OS0Yfl.md) — US Government, Congress
-- `2026-09-01` · [Research Associate, Infectious Disease Modelling](./jobs/closed/rec0t5sq5HRWxAJxO.md) — Imperial College London, School of Public Health
-- `2026-09-01` · [Communications and Campaigns Assistant](./jobs/closed/rec4LzCWMF5vfhkHE.md) — Animal Equality
 
 _Browse the rest in [`jobs/closed/`](./jobs/closed/)._

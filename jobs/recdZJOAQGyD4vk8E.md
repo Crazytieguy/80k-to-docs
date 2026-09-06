@@ -2,7 +2,7 @@
 title: "Workspace and Design Coordinator"
 employer: "Trajectory Labs"
 job_id: "recdZJOAQGyD4vk8E"
-last_updated: "2026-09-05T05:32:27.995369Z"
+last_updated: "2026-09-06T05:32:07.969425Z"
 posted_at: "2026-08-31T00:00:00Z"
 status: ready
 apply_url: "https://www.trajectorylabs.org/s/TL-Workspace-Design-Coordinator.pdf"
@@ -34,4 +34,4 @@ areas:
 <p class="apply-cta"><a href="https://www.trajectorylabs.org/s/TL-Workspace-Design-Coordinator.pdf">Apply →</a></p>
 
 ---
-*Posted 2026-08-31 · Listing synced 2026-09-05 · 80k job ID `recdZJOAQGyD4vk8E`*
+*Posted 2026-08-31 · Listing synced 2026-09-06 · 80k job ID `recdZJOAQGyD4vk8E`*

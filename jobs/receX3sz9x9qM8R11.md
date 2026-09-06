@@ -2,7 +2,7 @@
 title: "Course, The Future of AI"
 employer: "BlueDot Impact"
 job_id: "receX3sz9x9qM8R11"
-last_updated: "2026-09-05T05:32:19.592237Z"
+last_updated: "2026-09-06T05:31:59.447410Z"
 posted_at: "2026-09-02T00:00:00Z"
 status: ready
 apply_url: "https://bluedot.org/courses/future-of-ai"
@@ -32,4 +32,4 @@ areas:
 <p class="apply-cta"><a href="https://bluedot.org/courses/future-of-ai">Apply →</a></p>
 
 ---
-*Posted 2026-09-02 · Listing synced 2026-09-05 · 80k job ID `receX3sz9x9qM8R11`*
+*Posted 2026-09-02 · Listing synced 2026-09-06 · 80k job ID `receX3sz9x9qM8R11`*

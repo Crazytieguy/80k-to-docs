@@ -2,7 +2,7 @@
 title: "Finance and Compliance Manager"
 employer: "Safe AI Forum"
 job_id: "recRQgj246jcv2pmS"
-last_updated: "2026-09-05T05:32:35.345088Z"
+last_updated: "2026-09-06T05:32:14.138864Z"
 posted_at: "2026-08-26T00:05:00Z"
 status: ready
 apply_url: "https://saif.org/opportunities/finance-and-compliance-manager/"
@@ -34,4 +34,4 @@ areas:
 <p class="apply-cta"><a href="https://saif.org/opportunities/finance-and-compliance-manager/">Apply →</a></p>
 
 ---
-*Posted 2026-08-26 · Listing synced 2026-09-05 · 80k job ID `recRQgj246jcv2pmS`*
+*Posted 2026-08-26 · Listing synced 2026-09-06 · 80k job ID `recRQgj246jcv2pmS`*

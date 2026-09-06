@@ -2,7 +2,7 @@
 title: "Member of Technical Staff, Embedded Assessments"
 employer: "Model Evaluation and Threat Research"
 job_id: "recyfaN2eUBuT8Jim"
-last_updated: "2026-09-05T05:32:24.420986Z"
+last_updated: "2026-09-06T05:32:04.457359Z"
 posted_at: "2026-08-31T00:05:00Z"
 status: ready
 apply_url: "https://jobs.lever.co/metr/69792e29-e72c-44a2-8305-82cb40ab17c5"
@@ -34,4 +34,4 @@ areas:
 <p class="apply-cta"><a href="https://jobs.lever.co/metr/69792e29-e72c-44a2-8305-82cb40ab17c5">Apply →</a></p>
 
 ---
-*Posted 2026-08-31 · Listing synced 2026-09-05 · 80k job ID `recyfaN2eUBuT8Jim`*
+*Posted 2026-08-31 · Listing synced 2026-09-06 · 80k job ID `recyfaN2eUBuT8Jim`*

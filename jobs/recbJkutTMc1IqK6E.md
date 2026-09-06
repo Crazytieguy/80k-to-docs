@@ -2,7 +2,7 @@
 title: "Payroll and Finance Associate"
 employer: "Impact Ops"
 job_id: "recbJkutTMc1IqK6E"
-last_updated: "2026-09-05T05:32:34.508600Z"
+last_updated: "2026-09-06T05:32:13.265544Z"
 posted_at: "2026-08-27T00:00:00Z"
 status: ready
 apply_url: "https://impact-ops.org/jobs/payroll-finance-associate-uk/"
@@ -34,4 +34,4 @@ areas:
 <p class="apply-cta"><a href="https://impact-ops.org/jobs/payroll-finance-associate-uk/">Apply →</a></p>
 
 ---
-*Posted 2026-08-27 · Listing synced 2026-09-05 · 80k job ID `recbJkutTMc1IqK6E`*
+*Posted 2026-08-27 · Listing synced 2026-09-06 · 80k job ID `recbJkutTMc1IqK6E`*

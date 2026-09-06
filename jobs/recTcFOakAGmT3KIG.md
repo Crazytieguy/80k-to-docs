@@ -2,7 +2,7 @@
 title: "Expression of Interest, Technical Roles, Next-Generation Agentic Controls and Forensics"
 employer: "UK Government, AI Security Institute"
 job_id: "recTcFOakAGmT3KIG"
-last_updated: "2026-09-05T05:32:28.376865Z"
+last_updated: "2026-09-06T05:32:08.222015Z"
 posted_at: "2026-08-31T00:00:00Z"
 status: ready
 apply_url: "https://job-boards.eu.greenhouse.io/aisi/jobs/4945732101"
@@ -34,4 +34,4 @@ areas:
 <p class="apply-cta"><a href="https://job-boards.eu.greenhouse.io/aisi/jobs/4945732101">Apply →</a></p>
 
 ---
-*Posted 2026-08-31 · Listing synced 2026-09-05 · 80k job ID `recTcFOakAGmT3KIG`*
+*Posted 2026-08-31 · Listing synced 2026-09-06 · 80k job ID `recTcFOakAGmT3KIG`*

@@ -2,7 +2,7 @@
 title: "Content Creator"
 employer: "PauseAI"
 job_id: "recvCQWtiSJl7LVlv"
-last_updated: "2026-09-05T05:32:22.948155Z"
+last_updated: "2026-09-06T05:32:02.826674Z"
 posted_at: "2026-09-01T00:00:00Z"
 status: ready
 apply_url: "https://pauseai.uk/jobs"
@@ -30,4 +30,4 @@ areas:
 <p class="apply-cta"><a href="https://pauseai.uk/jobs">Apply →</a></p>
 
 ---
-*Posted 2026-09-01 · Listing synced 2026-09-05 · 80k job ID `recvCQWtiSJl7LVlv`*
+*Posted 2026-09-01 · Listing synced 2026-09-06 · 80k job ID `recvCQWtiSJl7LVlv`*

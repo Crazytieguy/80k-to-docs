@@ -2,7 +2,7 @@
 title: "Education Lead, Utrecht"
 employer: "Safe AI Netherlands"
 job_id: "recayLwfIC3Llrwxp"
-last_updated: "2026-09-05T05:32:23.722453Z"
+last_updated: "2026-09-06T05:32:03.644203Z"
 posted_at: "2026-09-01T00:00:00Z"
 status: ready
 apply_url: "https://safeainetherlands.org/open-positions#national:~:text=Education-,Education%20Lead,-6%20to%2010"
@@ -34,4 +34,4 @@ areas:
 <p class="apply-cta"><a href="https://safeainetherlands.org/open-positions#national:~:text=Education-,Education%20Lead,-6%20to%2010">Apply →</a></p>
 
 ---
-*Posted 2026-09-01 · Listing synced 2026-09-05 · 80k job ID `recayLwfIC3Llrwxp`*
+*Posted 2026-09-01 · Listing synced 2026-09-06 · 80k job ID `recayLwfIC3Llrwxp`*

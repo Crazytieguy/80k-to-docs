@@ -4,25 +4,20 @@ employer: "ERA"
 job_id: "receOQWg3SADHj6dm"
 last_updated: "2026-09-05T05:32:54.208488Z"
 posted_at: "2026-08-13T00:05:00Z"
-status: ready
+status: closed
+closed_at: "2026-09-06"
 apply_url: "https://docs.google.com/document/d/1X2RfIPAVeUFCA5WgXsBleUo7SjTe-WICeBKzQ98sfEY/edit?tab=t.0#heading=h.dzzx9sxlu2mh"
 areas:
   - "AI safety & policy"
 ---
 
+> ⚠️ **CLOSED on 2026-09-06** — this job is no longer listed on the 80,000 Hours board. Archived snapshot below.
+
 # Research Manager, AI
 
-**[ERA](https://erafellowship.org/)**
+**ERA**
 
-<dl class="job-meta">
-<dt>Location</dt><dd>Cambridge, UK, UK, UK (Confirmed Visas)</dd>
-<dt>Role type</dt><dd>Full-time, Part-time</dd>
-<dt>Experience</dt><dd>Junior (1-4 years experience), Mid (5-9 years experience)</dd>
-<dt>Degree</dt><dd>Undergraduate degree or less</dd>
-<dt>Salary</dt><dd>$81,135 – $121,702</dd>
-</dl>
-
-**Areas & skills:** AI safety & policy, Research, Management
+**Areas & skills:** AI safety & policy
 
 ## Summary
 - In this role, you'll guide ERA:AI fellows to scope and direct impactful research across AI Safety and Governance.

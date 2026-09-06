@@ -2,7 +2,7 @@
 title: "Research Scientist, Biological Models, Chem-Bio"
 employer: "UK Government, AI Security Institute"
 job_id: "rec2HMle7u3utW8F6"
-last_updated: "2026-09-05T05:32:54.563261Z"
+last_updated: "2026-09-06T05:32:33.192795Z"
 posted_at: "2026-08-13T00:05:00Z"
 status: ready
 apply_url: "https://job-boards.eu.greenhouse.io/aisi/jobs/4950942101"
@@ -32,4 +32,4 @@ areas:
 <p class="apply-cta"><a href="https://job-boards.eu.greenhouse.io/aisi/jobs/4950942101">Apply →</a></p>
 
 ---
-*Posted 2026-08-13 · Listing synced 2026-09-05 · 80k job ID `rec2HMle7u3utW8F6`*
+*Posted 2026-08-13 · Listing synced 2026-09-06 · 80k job ID `rec2HMle7u3utW8F6`*

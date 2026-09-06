@@ -2,7 +2,7 @@
 title: "Operations Lead"
 employer: "Moral Fabric"
 job_id: "recmqP9SI8D4Ojxdo"
-last_updated: "2026-09-05T05:32:30.460058Z"
+last_updated: "2026-09-06T05:32:09.642420Z"
 posted_at: "2026-08-28T00:00:00Z"
 status: ready
 apply_url: "https://moralfabric.org/vacancies/operations-lead"
@@ -33,4 +33,4 @@ areas:
 <p class="apply-cta"><a href="https://moralfabric.org/vacancies/operations-lead">Apply →</a></p>
 
 ---
-*Posted 2026-08-28 · Listing synced 2026-09-05 · 80k job ID `recmqP9SI8D4Ojxdo`*
+*Posted 2026-08-28 · Listing synced 2026-09-06 · 80k job ID `recmqP9SI8D4Ojxdo`*

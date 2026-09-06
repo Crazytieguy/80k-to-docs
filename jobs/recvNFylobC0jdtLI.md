@@ -2,7 +2,7 @@
 title: "Research Fellow, Managed Honey Bees"
 employer: "Fairer Fields"
 job_id: "recvNFylobC0jdtLI"
-last_updated: "2026-09-05T05:32:19.714396Z"
+last_updated: "2026-09-06T05:31:59.569603Z"
 posted_at: "2026-09-02T00:00:00Z"
 status: ready
 apply_url: "https://fairerfields.org/careers/2026-research-fellow-managed-honey-bees"
@@ -34,4 +34,4 @@ areas:
 <p class="apply-cta"><a href="https://fairerfields.org/careers/2026-research-fellow-managed-honey-bees">Apply →</a></p>
 
 ---
-*Posted 2026-09-02 · Listing synced 2026-09-05 · 80k job ID `recvNFylobC0jdtLI`*
+*Posted 2026-09-02 · Listing synced 2026-09-06 · 80k job ID `recvNFylobC0jdtLI`*

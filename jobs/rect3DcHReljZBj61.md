@@ -2,7 +2,7 @@
 title: "Research Associate, Digital Society Programme"
 employer: "Chatham House"
 job_id: "rect3DcHReljZBj61"
-last_updated: "2026-09-05T05:32:29.658761Z"
+last_updated: "2026-09-06T05:32:09.095381Z"
 posted_at: "2026-08-28T00:00:00Z"
 status: ready
 apply_url: "https://careers.chathamhouse.org/jobs/8250276-research-associate-digital-society-programme"
@@ -34,4 +34,4 @@ areas:
 <p class="apply-cta"><a href="https://careers.chathamhouse.org/jobs/8250276-research-associate-digital-society-programme">Apply →</a></p>
 
 ---
-*Posted 2026-08-28 · Listing synced 2026-09-05 · 80k job ID `rect3DcHReljZBj61`*
+*Posted 2026-08-28 · Listing synced 2026-09-06 · 80k job ID `rect3DcHReljZBj61`*

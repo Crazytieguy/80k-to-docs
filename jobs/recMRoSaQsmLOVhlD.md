@@ -2,7 +2,7 @@
 title: "Advisor, Biosecurity"
 employer: "Successif"
 job_id: "recMRoSaQsmLOVhlD"
-last_updated: "2026-09-05T05:32:42.862447Z"
+last_updated: "2026-09-06T05:32:21.754616Z"
 posted_at: "2026-08-24T00:01:00Z"
 status: ready
 apply_url: "https://www.successif.org/biosecurity-advisor"
@@ -16,7 +16,7 @@ areas:
 
 <dl class="job-meta">
 <dt>Location</dt><dd>Remote, Global</dd>
-<dt>Role type</dt><dd>Full-time, Part-time</dd>
+<dt>Role type</dt><dd>Part-time, Full-time</dd>
 <dt>Experience</dt><dd>Mid (5-9 years experience)</dd>
 <dt>Degree</dt><dd>Undergraduate degree or less</dd>
 <dt>Salary</dt><dd>$90,000 – $112,000</dd>
@@ -34,4 +34,4 @@ areas:
 <p class="apply-cta"><a href="https://www.successif.org/biosecurity-advisor">Apply →</a></p>
 
 ---
-*Posted 2026-08-24 · Listing synced 2026-09-05 · 80k job ID `recMRoSaQsmLOVhlD`*
+*Posted 2026-08-24 · Listing synced 2026-09-06 · 80k job ID `recMRoSaQsmLOVhlD`*

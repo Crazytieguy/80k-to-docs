@@ -2,7 +2,7 @@
 title: "Platform Lead, Laboratory Information Management System"
 employer: "SecureBio"
 job_id: "recEGVMbVmcaOW2jG"
-last_updated: "2026-09-05T05:33:13.057030Z"
+last_updated: "2026-09-06T05:32:52.529547Z"
 posted_at: "2026-07-22T00:04:20Z"
 status: ready
 apply_url: "https://securebio.org/careers/lims-platform-lead"
@@ -34,4 +34,4 @@ areas:
 <p class="apply-cta"><a href="https://securebio.org/careers/lims-platform-lead">Apply →</a></p>
 
 ---
-*Posted 2026-07-22 · Listing synced 2026-09-05 · 80k job ID `recEGVMbVmcaOW2jG`*
+*Posted 2026-07-22 · Listing synced 2026-09-06 · 80k job ID `recEGVMbVmcaOW2jG`*

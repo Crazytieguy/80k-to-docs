@@ -2,7 +2,7 @@
 title: "Trainee"
 employer: "German Marshall Fund"
 job_id: "recVOzEoJQROrMYx2"
-last_updated: "2026-09-05T05:33:10.030838Z"
+last_updated: "2026-09-06T05:32:49.687088Z"
 posted_at: "2026-07-29T00:00:00Z"
 status: ready
 apply_url: "https://recruiting.paylocity.com/Recruiting/Jobs/Details/4320819"
@@ -34,4 +34,4 @@ areas:
 <p class="apply-cta"><a href="https://recruiting.paylocity.com/Recruiting/Jobs/Details/4320819">Apply →</a></p>
 
 ---
-*Posted 2026-07-29 · Listing synced 2026-09-05 · 80k job ID `recVOzEoJQROrMYx2`*
+*Posted 2026-07-29 · Listing synced 2026-09-06 · 80k job ID `recVOzEoJQROrMYx2`*

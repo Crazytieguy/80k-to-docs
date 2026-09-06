@@ -2,7 +2,7 @@
 title: "Research Engineer / Research Scientist, Control Red Team"
 employer: "UK Government, AI Security Institute"
 job_id: "recnbxA0ZFD0o8paj"
-last_updated: "2026-09-05T05:32:13.759821Z"
+last_updated: "2026-09-06T05:31:53.529153Z"
 posted_at: "2026-09-03T00:05:00Z"
 status: ready
 apply_url: "https://job-boards.eu.greenhouse.io/aisi/jobs/4963394101"
@@ -34,4 +34,4 @@ areas:
 <p class="apply-cta"><a href="https://job-boards.eu.greenhouse.io/aisi/jobs/4963394101">Apply →</a></p>
 
 ---
-*Posted 2026-09-03 · Listing synced 2026-09-05 · 80k job ID `recnbxA0ZFD0o8paj`*
+*Posted 2026-09-03 · Listing synced 2026-09-06 · 80k job ID `recnbxA0ZFD0o8paj`*

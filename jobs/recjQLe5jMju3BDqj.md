@@ -2,7 +2,7 @@
 title: "Research Engineer, AI Safety and Evals"
 employer: "Andon Labs"
 job_id: "recjQLe5jMju3BDqj"
-last_updated: "2026-09-05T05:33:10.956019Z"
+last_updated: "2026-09-06T05:32:50.530705Z"
 posted_at: "2026-07-28T00:00:00Z"
 status: ready
 apply_url: "https://andonlabs.notion.site/32851e560a9581ea910ff74837b37806"
@@ -34,4 +34,4 @@ areas:
 <p class="apply-cta"><a href="https://andonlabs.notion.site/32851e560a9581ea910ff74837b37806">Apply →</a></p>
 
 ---
-*Posted 2026-07-28 · Listing synced 2026-09-05 · 80k job ID `recjQLe5jMju3BDqj`*
+*Posted 2026-07-28 · Listing synced 2026-09-06 · 80k job ID `recjQLe5jMju3BDqj`*

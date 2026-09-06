@@ -2,7 +2,7 @@
 title: "Executive Admin"
 employer: "SL5 Task Force"
 job_id: "recoIStfe5XK5ocH8"
-last_updated: "2026-09-05T05:32:48.869042Z"
+last_updated: "2026-09-06T05:32:28.074525Z"
 posted_at: "2026-08-18T00:02:00Z"
 status: ready
 apply_url: "https://jobs.ashbyhq.com/security-level-5/20b385ce-5a46-46a1-8572-4ec2460e9635?embed=js"
@@ -34,4 +34,4 @@ areas:
 <p class="apply-cta"><a href="https://jobs.ashbyhq.com/security-level-5/20b385ce-5a46-46a1-8572-4ec2460e9635?embed=js">Apply →</a></p>
 
 ---
-*Posted 2026-08-18 · Listing synced 2026-09-05 · 80k job ID `recoIStfe5XK5ocH8`*
+*Posted 2026-08-18 · Listing synced 2026-09-06 · 80k job ID `recoIStfe5XK5ocH8`*

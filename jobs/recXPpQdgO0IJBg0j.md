@@ -2,7 +2,7 @@
 title: "Research Manager, UK Fellowships"
 employer: "GovAI"
 job_id: "recXPpQdgO0IJBg0j"
-last_updated: "2026-09-05T05:32:24.816849Z"
+last_updated: "2026-09-06T05:32:04.844382Z"
 posted_at: "2026-08-31T00:04:51Z"
 status: ready
 apply_url: "https://www.governance.ai/post/research-manager-uk-fellowships"
@@ -34,4 +34,4 @@ areas:
 <p class="apply-cta"><a href="https://www.governance.ai/post/research-manager-uk-fellowships">Apply →</a></p>
 
 ---
-*Posted 2026-08-31 · Listing synced 2026-09-05 · 80k job ID `recXPpQdgO0IJBg0j`*
+*Posted 2026-08-31 · Listing synced 2026-09-06 · 80k job ID `recXPpQdgO0IJBg0j`*

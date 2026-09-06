@@ -2,7 +2,7 @@
 title: "Research Manager, Biological Safety"
 employer: "Anthropic"
 job_id: "recxiAYEygv4BPDKC"
-last_updated: "2026-09-05T05:32:12.467516Z"
+last_updated: "2026-09-06T05:31:52.189460Z"
 posted_at: "2026-09-04T00:00:00Z"
 status: ready
 apply_url: "https://job-boards.greenhouse.io/anthropic/jobs/5412944008"
@@ -35,4 +35,4 @@ areas:
 <p class="apply-cta"><a href="https://job-boards.greenhouse.io/anthropic/jobs/5412944008">Apply →</a></p>
 
 ---
-*Posted 2026-09-04 · Listing synced 2026-09-05 · 80k job ID `recxiAYEygv4BPDKC`*
+*Posted 2026-09-04 · Listing synced 2026-09-06 · 80k job ID `recxiAYEygv4BPDKC`*

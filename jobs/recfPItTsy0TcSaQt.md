@@ -2,7 +2,7 @@
 title: "Entrepreneur-in-Residence"
 employer: "GovAI"
 job_id: "recfPItTsy0TcSaQt"
-last_updated: "2026-09-05T05:32:41.233957Z"
+last_updated: "2026-09-06T05:32:20.313650Z"
 posted_at: "2026-08-24T00:05:00Z"
 status: ready
 apply_url: "https://www.governance.ai/post/eir"
@@ -34,4 +34,4 @@ areas:
 <p class="apply-cta"><a href="https://www.governance.ai/post/eir">Apply →</a></p>
 
 ---
-*Posted 2026-08-24 · Listing synced 2026-09-05 · 80k job ID `recfPItTsy0TcSaQt`*
+*Posted 2026-08-24 · Listing synced 2026-09-06 · 80k job ID `recfPItTsy0TcSaQt`*

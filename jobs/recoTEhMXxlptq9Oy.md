@@ -2,7 +2,7 @@
 title: "Community Manager, Amsterdam"
 employer: "Safe AI Netherlands"
 job_id: "recoTEhMXxlptq9Oy"
-last_updated: "2026-09-05T05:32:23.855469Z"
+last_updated: "2026-09-06T05:32:03.852416Z"
 posted_at: "2026-09-01T00:00:00Z"
 status: ready
 apply_url: "https://safeainetherlands.org/open-positions#national:~:text=Community-,Community%20Manager,-4%20to%206"
@@ -34,4 +34,4 @@ areas:
 <p class="apply-cta"><a href="https://safeainetherlands.org/open-positions#national:~:text=Community-,Community%20Manager,-4%20to%206">Apply →</a></p>
 
 ---
-*Posted 2026-09-01 · Listing synced 2026-09-05 · 80k job ID `recoTEhMXxlptq9Oy`*
+*Posted 2026-09-01 · Listing synced 2026-09-06 · 80k job ID `recoTEhMXxlptq9Oy`*

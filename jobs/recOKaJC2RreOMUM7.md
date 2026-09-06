@@ -2,7 +2,7 @@
 title: "Cyber Security Co-op (Winter / Spring 2027)"
 employer: "Massachusetts Institute of Technology, Lincoln Laboratory"
 job_id: "recOKaJC2RreOMUM7"
-last_updated: "2026-09-05T05:32:20.294926Z"
+last_updated: "2026-09-06T05:32:00.169679Z"
 posted_at: "2026-09-02T00:00:00Z"
 status: ready
 apply_url: "https://careers.ll.mit.edu/job/Lexington-Cyber-Security-Co-op-%28WinterSpring-2027%29-Group-11-10-MA-02420/1425058400/"
@@ -34,4 +34,4 @@ areas:
 <p class="apply-cta"><a href="https://careers.ll.mit.edu/job/Lexington-Cyber-Security-Co-op-%28WinterSpring-2027%29-Group-11-10-MA-02420/1425058400/">Apply →</a></p>
 
 ---
-*Posted 2026-09-02 · Listing synced 2026-09-05 · 80k job ID `recOKaJC2RreOMUM7`*
+*Posted 2026-09-02 · Listing synced 2026-09-06 · 80k job ID `recOKaJC2RreOMUM7`*

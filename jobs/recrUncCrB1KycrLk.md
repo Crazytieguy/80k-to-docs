@@ -2,7 +2,7 @@
 title: "System Administrator"
 employer: "Model Evaluation and Threat Research"
 job_id: "recrUncCrB1KycrLk"
-last_updated: "2026-09-05T05:32:24.565133Z"
+last_updated: "2026-09-06T05:32:04.594200Z"
 posted_at: "2026-08-31T00:05:00Z"
 status: ready
 apply_url: "https://jobs.lever.co/metr/12835e9f-eb9f-4747-8331-3e5e0c30dea5"
@@ -34,4 +34,4 @@ areas:
 <p class="apply-cta"><a href="https://jobs.lever.co/metr/12835e9f-eb9f-4747-8331-3e5e0c30dea5">Apply →</a></p>
 
 ---
-*Posted 2026-08-31 · Listing synced 2026-09-05 · 80k job ID `recrUncCrB1KycrLk`*
+*Posted 2026-08-31 · Listing synced 2026-09-06 · 80k job ID `recrUncCrB1KycrLk`*
