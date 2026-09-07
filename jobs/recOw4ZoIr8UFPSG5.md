@@ -2,7 +2,7 @@
 title: "Cyber New Professionals Program"
 employer: "MITRE"
 job_id: "recOw4ZoIr8UFPSG5"
-last_updated: "2026-09-06T05:32:02.444101Z"
+last_updated: "2026-09-07T11:04:04.524472Z"
 posted_at: "2026-09-01T00:00:00Z"
 status: ready
 apply_url: "https://careers.mitre.org/us/en/job/R117365/Cyber-New-Professionals-Program"
@@ -34,4 +34,4 @@ areas:
 <p class="apply-cta"><a href="https://careers.mitre.org/us/en/job/R117365/Cyber-New-Professionals-Program">Apply →</a></p>
 
 ---
-*Posted 2026-09-01 · Listing synced 2026-09-06 · 80k job ID `recOw4ZoIr8UFPSG5`*
+*Posted 2026-09-01 · Listing synced 2026-09-07 · 80k job ID `recOw4ZoIr8UFPSG5`*

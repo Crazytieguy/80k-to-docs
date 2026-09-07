@@ -2,7 +2,7 @@
 title: "Software Engineer"
 employer: "SecureBio"
 job_id: "recuVx292l27dxwCB"
-last_updated: "2026-09-06T05:32:38.390681Z"
+last_updated: "2026-09-07T11:04:37.512842Z"
 posted_at: "2026-08-07T00:05:00Z"
 status: ready
 apply_url: "https://securebio.org/careers/det-swe-2026"
@@ -34,4 +34,4 @@ areas:
 <p class="apply-cta"><a href="https://securebio.org/careers/det-swe-2026">Apply →</a></p>
 
 ---
-*Posted 2026-08-07 · Listing synced 2026-09-06 · 80k job ID `recuVx292l27dxwCB`*
+*Posted 2026-08-07 · Listing synced 2026-09-07 · 80k job ID `recuVx292l27dxwCB`*

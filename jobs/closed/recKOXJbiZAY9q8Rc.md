@@ -4,25 +4,20 @@ employer: "Cambridge Boston Alignment Initiative"
 job_id: "recKOXJbiZAY9q8Rc"
 last_updated: "2026-09-06T05:32:06.199873Z"
 posted_at: "2026-08-31T00:03:00Z"
-status: ready
+status: closed
+closed_at: "2026-09-07"
 apply_url: "https://www.cbai.ai/ais-research-fellowship"
 areas:
   - "AI safety & policy"
 ---
 
+> ⚠️ **CLOSED on 2026-09-07** — this job is no longer listed on the 80,000 Hours board. Archived snapshot below.
+
 # Research Fellowship, AI Safety (Fall 2026)
 
-**[Cambridge Boston Alignment Initiative](https://www.cbai.ai/)**
+**Cambridge Boston Alignment Initiative**
 
-<dl class="job-meta">
-<dt>Location</dt><dd>Boston metro area, USA</dd>
-<dt>Role type</dt><dd>Fellowship</dd>
-<dt>Experience</dt><dd>Junior (1-4 years experience), Entry-level</dd>
-<dt>Degree</dt><dd>Undergraduate degree or less</dd>
-<dt>Salary</dt><dd>$15,000</dd>
-</dl>
-
-**Areas & skills:** AI safety & policy, Research, Policy
+**Areas & skills:** AI safety & policy
 
 ## Summary
 - In this role, you'll conduct intensive AI safety research for ten weeks with mentors from Harvard, MIT, and leading AI safety organisations.

@@ -4,25 +4,20 @@ employer: "Longview Philanthropy"
 job_id: "recQXDUyKJA7UXbLC"
 last_updated: "2026-09-06T05:32:23.882598Z"
 posted_at: "2026-08-20T00:04:32Z"
-status: ready
+status: closed
+closed_at: "2026-09-07"
 apply_url: "https://www.longview.org/careers/chief-operating-officer"
 areas:
   - "Building effective altruism"
 ---
 
+> ⚠️ **CLOSED on 2026-09-07** — this job is no longer listed on the 80,000 Hours board. Archived snapshot below.
+
 # Chief Operating Officer / Director of Operations
 
-**[Longview Philanthropy](https://www.longview.org/)**
+**Longview Philanthropy**
 
-<dl class="job-meta">
-<dt>Location</dt><dd>London, UK, Washington, DC metro area, San Francisco Bay Area, New York, NY, UK, USA, USA (Confirmed Visas), UK (Confirmed Visas)</dd>
-<dt>Role type</dt><dd>Full-time</dd>
-<dt>Experience</dt><dd>Mid (5-9 years experience)</dd>
-<dt>Degree</dt><dd>Undergraduate degree or less</dd>
-<dt>Salary</dt><dd>$165,000 – $330,000</dd>
-</dl>
-
-**Areas & skills:** Building effective altruism, Operations, Management, Strategy
+**Areas & skills:** Building effective altruism
 
 ## Summary
 - In this role, you'll scale operations for Longview as it doubles in size while maintaining agility and efficiency.

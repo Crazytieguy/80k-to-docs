@@ -4,25 +4,20 @@ employer: "The School for Moral Ambition"
 job_id: "recKwHhZda4F8K8fZ"
 last_updated: "2026-09-06T05:32:01.719566Z"
 posted_at: "2026-09-01T00:01:00Z"
-status: ready
+status: closed
+closed_at: "2026-09-07"
 apply_url: "https://www.moralambition.org/jobs/program-assistant-ai-in-europe"
 areas:
   - "AI safety & policy"
 ---
 
+> ⚠️ **CLOSED on 2026-09-07** — this job is no longer listed on the 80,000 Hours board. Archived snapshot below.
+
 # Program Assistant, AI in Europe
 
-**[The School for Moral Ambition](https://www.moralambition.eu/)**
+**The School for Moral Ambition**
 
-<dl class="job-meta">
-<dt>Location</dt><dd>Amsterdam, Netherlands, Brussels, Belgium, Netherlands, Belgium, Europe (ex UK)</dd>
-<dt>Role type</dt><dd>Full-time</dd>
-<dt>Experience</dt><dd>Junior (1-4 years experience)</dd>
-<dt>Degree</dt><dd>Undergraduate degree or less</dd>
-<dt>Salary</dt><dd>$49,596 – $54,474</dd>
-</dl>
-
-**Areas & skills:** AI safety & policy, Policy, Strategy
+**Areas & skills:** AI safety & policy
 
 ## Summary
 - In this role, you'll develop strategy by testing assumptions and managing relationships with European policymakers.

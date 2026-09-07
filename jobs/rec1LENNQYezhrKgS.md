@@ -2,7 +2,7 @@
 title: "Senior Research Scientists"
 employer: "Principia"
 job_id: "rec1LENNQYezhrKgS"
-last_updated: "2026-09-06T05:33:42.635146Z"
+last_updated: "2026-09-07T11:05:41.228103Z"
 posted_at: "2022-01-05T00:00:00Z"
 status: ready
 apply_url: "https://principia-ai.org/opportunities/senior-research-scientist"
@@ -34,4 +34,4 @@ areas:
 <p class="apply-cta"><a href="https://principia-ai.org/opportunities/senior-research-scientist">Apply →</a></p>
 
 ---
-*Posted 2022-01-05 · Listing synced 2026-09-06 · 80k job ID `rec1LENNQYezhrKgS`*
+*Posted 2022-01-05 · Listing synced 2026-09-07 · 80k job ID `rec1LENNQYezhrKgS`*

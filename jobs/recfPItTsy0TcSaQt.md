@@ -2,7 +2,7 @@
 title: "Entrepreneur-in-Residence"
 employer: "GovAI"
 job_id: "recfPItTsy0TcSaQt"
-last_updated: "2026-09-06T05:32:20.313650Z"
+last_updated: "2026-09-07T11:04:21.421400Z"
 posted_at: "2026-08-24T00:05:00Z"
 status: ready
 apply_url: "https://www.governance.ai/post/eir"
@@ -19,7 +19,7 @@ areas:
 <dt>Role type</dt><dd>Other</dd>
 <dt>Experience</dt><dd>Multiple experience levels</dd>
 <dt>Degree</dt><dd>Undergraduate degree or less</dd>
-<dt>Salary</dt><dd>$94,657 – $153,480</dd>
+<dt>Salary</dt><dd>$94,772 – $153,667</dd>
 </dl>
 
 **Areas & skills:** AI safety & policy, Strategy
@@ -34,4 +34,4 @@ areas:
 <p class="apply-cta"><a href="https://www.governance.ai/post/eir">Apply →</a></p>
 
 ---
-*Posted 2026-08-24 · Listing synced 2026-09-06 · 80k job ID `recfPItTsy0TcSaQt`*
+*Posted 2026-08-24 · Listing synced 2026-09-07 · 80k job ID `recfPItTsy0TcSaQt`*

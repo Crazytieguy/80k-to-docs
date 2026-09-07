@@ -2,7 +2,7 @@
 title: "Fall Intern"
 employer: "Asia Society Policy Institute"
 job_id: "recPauPmdUY9J9bOw"
-last_updated: "2026-09-06T05:32:43.145419Z"
+last_updated: "2026-09-07T11:04:40.878075Z"
 posted_at: "2026-08-05T00:00:00Z"
 status: ready
 apply_url: "https://asiasociety.org/policy-institute/fall-intern-asia-society-policy-institute-new-york"
@@ -34,4 +34,4 @@ areas:
 <p class="apply-cta"><a href="https://asiasociety.org/policy-institute/fall-intern-asia-society-policy-institute-new-york">Apply →</a></p>
 
 ---
-*Posted 2026-08-05 · Listing synced 2026-09-06 · 80k job ID `recPauPmdUY9J9bOw`*
+*Posted 2026-08-05 · Listing synced 2026-09-07 · 80k job ID `recPauPmdUY9J9bOw`*

@@ -2,10 +2,10 @@
 title: "Researcher, Gender Equality Metrics"
 employer: "University of Washington, Institute for Health Metrics and Evaluation"
 job_id: "rec2HkIaKG0cQsYef"
-last_updated: "2026-09-06T05:33:58.990840Z"
+last_updated: "2026-09-07T11:05:56.029074Z"
 posted_at: "2022-01-02T00:00:00Z"
 status: ready
-apply_url: "https://www.healthdata.org/about/careers/job-openings/researcher-temporary-gem"
+apply_url: "https://www.healthdata.org/index%2ephp/about/careers/job-openings/researcher-temporary-gem"
 areas:
   - "Global health & development"
 ---
@@ -31,7 +31,7 @@ areas:
 - Document code and analytic approaches to ensure replication and enable team collaboration.
 - Lead discussions in research meetings to vet and improve results while contributing to scientific publications.
 
-<p class="apply-cta"><a href="https://www.healthdata.org/about/careers/job-openings/researcher-temporary-gem">Apply →</a></p>
+<p class="apply-cta"><a href="https://www.healthdata.org/index%2ephp/about/careers/job-openings/researcher-temporary-gem">Apply →</a></p>
 
 ---
-*Posted 2022-01-02 · Listing synced 2026-09-06 · 80k job ID `rec2HkIaKG0cQsYef`*
+*Posted 2022-01-02 · Listing synced 2026-09-07 · 80k job ID `rec2HkIaKG0cQsYef`*

@@ -2,7 +2,7 @@
 title: "Research Associate, Outer Space"
 employer: "Vienna Center for Disarmament and Non-Proliferation"
 job_id: "recvEXcdUFXqLT966"
-last_updated: "2026-09-06T05:32:33.057507Z"
+last_updated: "2026-09-07T11:04:33.113366Z"
 posted_at: "2026-08-14T00:00:00Z"
 status: ready
 apply_url: "https://vcdnp.org/research-associate-outer-space/"
@@ -20,7 +20,7 @@ areas:
 <dt>Role type</dt><dd>Full-time</dd>
 <dt>Experience</dt><dd>Junior (1-4 years experience)</dd>
 <dt>Degree</dt><dd>Master's degree</dd>
-<dt>Salary</dt><dd>$53,429 – $61,559</dd>
+<dt>Salary</dt><dd>$53,472 – $61,609</dd>
 </dl>
 
 **Areas & skills:** Nuclear security, Space governance, Research, Policy
@@ -35,4 +35,4 @@ areas:
 <p class="apply-cta"><a href="https://vcdnp.org/research-associate-outer-space/">Apply →</a></p>
 
 ---
-*Posted 2026-08-14 · Listing synced 2026-09-06 · 80k job ID `recvEXcdUFXqLT966`*
+*Posted 2026-08-14 · Listing synced 2026-09-07 · 80k job ID `recvEXcdUFXqLT966`*

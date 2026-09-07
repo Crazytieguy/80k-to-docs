@@ -4,25 +4,20 @@ employer: "Cambridge Boston Alignment Initiative"
 job_id: "recCEKj3HZMAgbAft"
 last_updated: "2026-09-06T05:32:06.317863Z"
 posted_at: "2026-08-31T00:03:00Z"
-status: ready
+status: closed
+closed_at: "2026-09-07"
 apply_url: "https://www.cbai.ai/aixbiosecurity-fellowship-program"
 areas:
   - "AI safety & policy"
 ---
 
+> ⚠️ **CLOSED on 2026-09-07** — this job is no longer listed on the 80,000 Hours board. Archived snapshot below.
+
 # Research Fellowship, AIxBiosecurity (Fall 2026)
 
-**[Cambridge Boston Alignment Initiative](https://www.cbai.ai/)**
+**Cambridge Boston Alignment Initiative**
 
-<dl class="job-meta">
-<dt>Location</dt><dd>Boston metro area, USA</dd>
-<dt>Role type</dt><dd>Fellowship</dd>
-<dt>Experience</dt><dd>Junior (1-4 years experience), Entry-level</dd>
-<dt>Degree</dt><dd>Undergraduate degree or less</dd>
-<dt>Salary</dt><dd>$15,000</dd>
-</dl>
-
-**Areas & skills:** AI safety & policy, Research
+**Areas & skills:** AI safety & policy
 
 ## Summary
 - In this role, you'll conduct research on AI and biosecurity including capability evaluations, threat modeling, and governance.

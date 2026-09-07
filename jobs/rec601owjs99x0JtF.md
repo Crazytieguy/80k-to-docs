@@ -2,7 +2,7 @@
 title: "Head of Grantmaking Operations"
 employer: "Centre for Effective Altruism"
 job_id: "rec601owjs99x0JtF"
-last_updated: "2026-09-06T05:31:58.573050Z"
+last_updated: "2026-09-07T11:04:00.894386Z"
 posted_at: "2026-09-02T00:04:36Z"
 status: ready
 apply_url: "https://www.centreforeffectivealtruism.org/careers?ashby_jid=ff78392f-21f1-4ace-b257-2e4bdcf574f0"
@@ -34,4 +34,4 @@ areas:
 <p class="apply-cta"><a href="https://www.centreforeffectivealtruism.org/careers?ashby_jid=ff78392f-21f1-4ace-b257-2e4bdcf574f0">Apply →</a></p>
 
 ---
-*Posted 2026-09-02 · Listing synced 2026-09-06 · 80k job ID `rec601owjs99x0JtF`*
+*Posted 2026-09-02 · Listing synced 2026-09-07 · 80k job ID `rec601owjs99x0JtF`*

@@ -4,25 +4,20 @@ employer: "Advanced Research and Invention Agency"
 job_id: "recD2JpTFfj17eMQC"
 last_updated: "2026-09-06T05:33:20.348874Z"
 posted_at: "2022-01-06T00:00:00Z"
-status: ready
+status: closed
+closed_at: "2026-09-07"
 apply_url: "https://aria.pinpointhq.com/en/postings/1ade5ec1-be4f-4e3c-a666-ee72b9375424"
 areas:
   - "AI safety & policy"
 ---
 
+> ⚠️ **CLOSED on 2026-09-07** — this job is no longer listed on the 80,000 Hours board. Archived snapshot below.
+
 # Technical Specialist, Multi-Agent Security
 
-**[Advanced Research and Invention Agency](https://www.aria.org.uk/)**
+**Advanced Research and Invention Agency**
 
-<dl class="job-meta">
-<dt>Location</dt><dd>London, UK, UK</dd>
-<dt>Role type</dt><dd>Full-time</dd>
-<dt>Experience</dt><dd>Junior (1-4 years experience), Mid (5-9 years experience)</dd>
-<dt>Degree</dt><dd>Doctoral degree</dd>
-<dt>Salary</dt><dd>$94,657 – $141,986</dd>
-</dl>
-
-**Areas & skills:** AI safety & policy, Strategy
+**Areas & skills:** AI safety & policy
 
 ## Summary
 - In this role, you'll lead the technical delivery of ARIA's Scaling Trust programme, shaping research on AI agents in untrusted environments.

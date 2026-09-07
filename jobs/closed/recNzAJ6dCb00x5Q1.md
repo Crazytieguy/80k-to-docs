@@ -4,25 +4,20 @@ employer: "MATS Research"
 job_id: "recNzAJ6dCb00x5Q1"
 last_updated: "2026-09-06T05:32:35.422476Z"
 posted_at: "2026-08-11T00:05:00Z"
-status: ready
+status: closed
+closed_at: "2026-09-07"
 apply_url: "https://docs.google.com/document/d/1p-ggQV3vVWIQuCccXEl1fD0thJOgXimlbBpGk6FI32I/preview?pru=AAABoBC1GAk*DajUuyOf8ZFtJzgCg7JalA&tab=t.0#heading=h.y0ohi6l5z9qn"
 areas:
   - "AI safety & policy"
 ---
 
+> ⚠️ **CLOSED on 2026-09-07** — this job is no longer listed on the 80,000 Hours board. Archived snapshot below.
+
 # Neel Nanda Stream, MATS Program (Winter 2026)
 
-**[MATS Research](https://www.matsprogram.org/)**
+**MATS Research**
 
-<dl class="job-meta">
-<dt>Location</dt><dd>London, UK, San Francisco Bay Area, UK, USA</dd>
-<dt>Role type</dt><dd>Fellowship</dd>
-<dt>Experience</dt><dd>Multiple experience levels</dd>
-<dt>Degree</dt><dd>Undergraduate degree or less</dd>
-<dt>Salary</dt><dd>$23,400</dd>
-</dl>
-
-**Areas & skills:** AI safety & policy, Research
+**Areas & skills:** AI safety & policy
 
 ## Summary
 - In this role, you'll complete a ~20 hour AI safety research project and submit a detailed write-up of your findings.

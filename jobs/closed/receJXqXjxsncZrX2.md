@@ -4,24 +4,20 @@ employer: "Pour Demain"
 job_id: "receJXqXjxsncZrX2"
 last_updated: "2026-09-06T05:32:35.866730Z"
 posted_at: "2026-08-11T00:02:00Z"
-status: ready
+status: closed
+closed_at: "2026-09-07"
 apply_url: "https://form.jotform.com/262166120063143"
 areas:
   - "AI safety & policy"
 ---
 
+> ⚠️ **CLOSED on 2026-09-07** — this job is no longer listed on the 80,000 Hours board. Archived snapshot below.
+
 # Managing Director,  Europe
 
-**[Pour Demain](https://en.pourdemain.ch/)**
+**Pour Demain**
 
-<dl class="job-meta">
-<dt>Location</dt><dd>Brussels, Belgium, Belgium, Europe (ex UK)</dd>
-<dt>Role type</dt><dd>Full-time</dd>
-<dt>Experience</dt><dd>Mid (5-9 years experience), Senior (10+ years experience)</dd>
-<dt>Degree</dt><dd>Undergraduate degree or less</dd>
-</dl>
-
-**Areas & skills:** AI safety & policy, Operations, Management, Strategy
+**Areas & skills:** AI safety & policy
 
 ## Summary
 - In this role, you'll lead Pour Demain Europe's growth from 5 to 10+ staff, designing systems and structures for agility at scale.

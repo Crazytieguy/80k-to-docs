@@ -4,25 +4,20 @@ employer: "Gates Foundation"
 job_id: "recOR9YNDELc6nspe"
 last_updated: "2026-09-06T05:32:13.003026Z"
 posted_at: "2026-08-27T00:00:00Z"
-status: ready
+status: closed
+closed_at: "2026-09-07"
 apply_url: "https://gatesfoundation.wd1.myworkdayjobs.com/en-US/Gates/job/Seattle-WA/Advisor--AI-Global-Policy---Advocacy_B021710-1"
 areas:
   - "Global health & development"
 ---
 
+> ⚠️ **CLOSED on 2026-09-07** — this job is no longer listed on the 80,000 Hours board. Archived snapshot below.
+
 # Advisor, AI Global Policy and Advocacy
 
-**[Gates Foundation](https://www.gatesfoundation.org)**
+**Gates Foundation**
 
-<dl class="job-meta">
-<dt>Location</dt><dd>Washington, DC metro area, Seattle metro area, USA</dd>
-<dt>Role type</dt><dd>Full-time</dd>
-<dt>Experience</dt><dd>Mid (5-9 years experience), Senior (10+ years experience)</dd>
-<dt>Degree</dt><dd>Master's degree</dd>
-<dt>Salary</dt><dd>$267,000 – $455,200</dd>
-</dl>
-
-**Areas & skills:** Global health & development, Strategy
+**Areas & skills:** Global health & development
 
 ## Summary
 - In this role, you'll lead the foundation's AI for good portfolio, coordinating efforts and serving as the key point of accountability.

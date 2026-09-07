@@ -2,7 +2,7 @@
 title: "Information Technology Specialist / Cyber Policy and Strategy Planner"
 employer: "Government of California, Office of Emergency Services"
 job_id: "recMCQUiO3BA427aM"
-last_updated: "2026-09-06T05:31:51.120806Z"
+last_updated: "2026-09-07T11:03:51.758581Z"
 posted_at: "2026-09-04T00:05:00Z"
 status: ready
 apply_url: "https://calcareers.ca.gov/CalHrPublic/Jobs/JobPosting.aspx?JobControlId=523056"
@@ -34,4 +34,4 @@ areas:
 <p class="apply-cta"><a href="https://calcareers.ca.gov/CalHrPublic/Jobs/JobPosting.aspx?JobControlId=523056">Apply →</a></p>
 
 ---
-*Posted 2026-09-04 · Listing synced 2026-09-06 · 80k job ID `recMCQUiO3BA427aM`*
+*Posted 2026-09-04 · Listing synced 2026-09-07 · 80k job ID `recMCQUiO3BA427aM`*

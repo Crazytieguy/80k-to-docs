@@ -2,13 +2,13 @@
 title: "Senior Program Officer / Director, Global Nuclear Policy"
 employer: "Nuclear Threat Initiative"
 job_id: "recUIONkWruRANHPS"
-last_updated: "2026-09-06T05:31:51.263305Z"
+last_updated: "2026-09-07T11:03:51.892031Z"
 posted_at: "2026-09-04T00:04:30Z"
 status: ready
 apply_url: "https://www.nti.org/job-listing/senior-program-officer-director-global-nuclear-policy-program-gnpp/"
 areas:
-  - "Nuclear security"
   - "Biosecurity & pandemic preparedness"
+  - "Nuclear security"
 ---
 
 # Senior Program Officer / Director, Global Nuclear Policy
@@ -23,7 +23,7 @@ areas:
 <dt>Salary</dt><dd>$127,300 – $172,000</dd>
 </dl>
 
-**Areas & skills:** Nuclear security, Biosecurity & pandemic preparedness, Policy
+**Areas & skills:** Biosecurity & pandemic preparedness, Nuclear security, Policy
 
 ## Summary
 - In this role, you'll coordinate and implement efforts to reduce nuclear risks through policy development and strategic engagement with governments and key stakeholders.
@@ -34,4 +34,4 @@ areas:
 <p class="apply-cta"><a href="https://www.nti.org/job-listing/senior-program-officer-director-global-nuclear-policy-program-gnpp/">Apply →</a></p>
 
 ---
-*Posted 2026-09-04 · Listing synced 2026-09-06 · 80k job ID `recUIONkWruRANHPS`*
+*Posted 2026-09-04 · Listing synced 2026-09-07 · 80k job ID `recUIONkWruRANHPS`*

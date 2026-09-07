@@ -4,25 +4,20 @@ employer: "New Movement Organization for AI Regulation"
 job_id: "recIAkXs0tvF4Iyvp"
 last_updated: "2026-09-06T05:32:31.950128Z"
 posted_at: "2026-08-17T00:00:00Z"
-status: ready
+status: closed
+closed_at: "2026-09-07"
 apply_url: "https://tally.so/r/WObr6v"
 areas:
   - "AI safety & policy"
 ---
 
+> ⚠️ **CLOSED on 2026-09-07** — this job is no longer listed on the 80,000 Hours board. Archived snapshot below.
+
 # Distributed Organizer, Contractor
 
-**[New Movement Organization for AI Regulation](https://tally.so/r/81YD8z)**
+**New Movement Organization for AI Regulation**
 
-<dl class="job-meta">
-<dt>Location</dt><dd>Remote, USA, USA</dd>
-<dt>Role type</dt><dd>Full-time</dd>
-<dt>Experience</dt><dd>Junior (1-4 years experience)</dd>
-<dt>Degree</dt><dd>Undergraduate degree or less</dd>
-<dt>Salary</dt><dd>$104,000</dd>
-</dl>
-
-**Areas & skills:** AI safety & policy, Communications
+**Areas & skills:** AI safety & policy
 
 ## Summary
 - In this role, you'll recruit and coach student leaders to organise AI walkout campaigns on college campuses as part of a national movement.

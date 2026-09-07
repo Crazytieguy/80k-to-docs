@@ -4,25 +4,20 @@ employer: "MATS Research"
 job_id: "rec6zKpQQqj8hrMVs"
 last_updated: "2026-09-06T05:31:52.647311Z"
 posted_at: "2026-09-04T00:00:00Z"
-status: ready
+status: closed
+closed_at: "2026-09-07"
 apply_url: "https://matsprogram.org/apply"
 areas:
   - "AI safety & policy"
 ---
 
+> ⚠️ **CLOSED on 2026-09-07** — this job is no longer listed on the 80,000 Hours board. Archived snapshot below.
+
 # MATS Program (Winter 2027)
 
-**[MATS Research](https://www.matsprogram.org/)**
+**MATS Research**
 
-<dl class="job-meta">
-<dt>Location</dt><dd>London, UK, San Francisco Bay Area, UK, USA, USA (Confirmed Visas), UK (Confirmed Visas)</dd>
-<dt>Role type</dt><dd>Fellowship</dd>
-<dt>Experience</dt><dd>Junior (1-4 years experience), Entry-level</dd>
-<dt>Degree</dt><dd>Undergraduate degree or less</dd>
-<dt>Salary</dt><dd>$19,200</dd>
-</dl>
-
-**Areas & skills:** AI safety & policy, Research
+**Areas & skills:** AI safety & policy
 
 ## Summary
 - In this fellowship, you'll work with mentors from leading AI labs on a research fellowship focused on frontier AI safety.

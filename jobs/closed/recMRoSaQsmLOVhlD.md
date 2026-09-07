@@ -4,25 +4,20 @@ employer: "Successif"
 job_id: "recMRoSaQsmLOVhlD"
 last_updated: "2026-09-06T05:32:21.754616Z"
 posted_at: "2026-08-24T00:01:00Z"
-status: ready
+status: closed
+closed_at: "2026-09-07"
 apply_url: "https://www.successif.org/biosecurity-advisor"
 areas:
   - "Biosecurity & pandemic preparedness"
 ---
 
+> ⚠️ **CLOSED on 2026-09-07** — this job is no longer listed on the 80,000 Hours board. Archived snapshot below.
+
 # Advisor, Biosecurity
 
-**[Successif](https://www.successif.org/)**
+**Successif**
 
-<dl class="job-meta">
-<dt>Location</dt><dd>Remote, Global</dd>
-<dt>Role type</dt><dd>Part-time, Full-time</dd>
-<dt>Experience</dt><dd>Mid (5-9 years experience)</dd>
-<dt>Degree</dt><dd>Undergraduate degree or less</dd>
-<dt>Salary</dt><dd>$90,000 – $112,000</dd>
-</dl>
-
-**Areas & skills:** Biosecurity & pandemic preparedness, Other
+**Areas & skills:** Biosecurity & pandemic preparedness
 
 ## Summary
 - In this role, you'll provide career advising to mid-career professionals transitioning to biosecurity and build partnerships with biosecurity organizations.

@@ -2,7 +2,7 @@
 title: "Managing Director"
 employer: "Secure DNA Project"
 job_id: "recu0Cso7cfbY8VYw"
-last_updated: "2026-09-06T05:32:45.347351Z"
+last_updated: "2026-09-07T11:04:42.915306Z"
 posted_at: "2026-08-03T00:03:00Z"
 status: ready
 apply_url: "https://securedna.org/careers/managing-director/"
@@ -34,4 +34,4 @@ areas:
 <p class="apply-cta"><a href="https://securedna.org/careers/managing-director/">Apply →</a></p>
 
 ---
-*Posted 2026-08-03 · Listing synced 2026-09-06 · 80k job ID `recu0Cso7cfbY8VYw`*
+*Posted 2026-08-03 · Listing synced 2026-09-07 · 80k job ID `recu0Cso7cfbY8VYw`*

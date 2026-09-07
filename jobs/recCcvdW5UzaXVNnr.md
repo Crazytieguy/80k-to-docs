@@ -2,7 +2,7 @@
 title: "Operations Associate / Specialist"
 employer: "AI Whistleblower Initiative"
 job_id: "recCcvdW5UzaXVNnr"
-last_updated: "2026-09-06T05:32:18.121684Z"
+last_updated: "2026-09-07T11:04:19.384163Z"
 posted_at: "2026-08-25T00:00:00Z"
 status: ready
 apply_url: "https://join.com/companies/aiwiorg/16631645-operations-associate-specialist"
@@ -19,7 +19,7 @@ areas:
 <dt>Role type</dt><dd>Full-time</dd>
 <dt>Experience</dt><dd>Junior (1-4 years experience), Mid (5-9 years experience)</dd>
 <dt>Degree</dt><dd>Undergraduate degree or less</dd>
-<dt>Salary</dt><dd>$87,896 – $101,418</dd>
+<dt>Salary</dt><dd>$88,003 – $101,542</dd>
 </dl>
 
 **Areas & skills:** AI safety & policy, Operations, Finance
@@ -34,4 +34,4 @@ areas:
 <p class="apply-cta"><a href="https://join.com/companies/aiwiorg/16631645-operations-associate-specialist">Apply →</a></p>
 
 ---
-*Posted 2026-08-25 · Listing synced 2026-09-06 · 80k job ID `recCcvdW5UzaXVNnr`*
+*Posted 2026-08-25 · Listing synced 2026-09-07 · 80k job ID `recCcvdW5UzaXVNnr`*
