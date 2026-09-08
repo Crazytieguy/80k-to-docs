@@ -2,7 +2,7 @@
 title: "Introduction to Digital Minds"
 employer: "Cambridge University, Cambridge Digital Minds"
 job_id: "recAviJeFZTyea9Ym"
-last_updated: "2026-09-07T11:04:13.409597Z"
+last_updated: "2026-09-08T10:53:25.347313Z"
 posted_at: "2026-08-27T00:01:00Z"
 status: ready
 apply_url: "https://digitalminds.cam/course/"
@@ -32,4 +32,4 @@ areas:
 <p class="apply-cta"><a href="https://digitalminds.cam/course/">Apply →</a></p>
 
 ---
-*Posted 2026-08-27 · Listing synced 2026-09-07 · 80k job ID `recAviJeFZTyea9Ym`*
+*Posted 2026-08-27 · Listing synced 2026-09-08 · 80k job ID `recAviJeFZTyea9Ym`*

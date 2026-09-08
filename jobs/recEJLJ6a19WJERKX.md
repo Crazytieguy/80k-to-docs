@@ -2,7 +2,7 @@
 title: "Senior Technical Program Manager"
 employer: "Intelligence Security Laboratories"
 job_id: "recEJLJ6a19WJERKX"
-last_updated: "2026-09-07T11:04:02.076116Z"
+last_updated: "2026-09-08T10:53:14.147320Z"
 posted_at: "2026-09-02T00:00:00Z"
 status: ready
 apply_url: "https://jobs.ashbyhq.com/Intelligence-Security-Laboratories/126c42cd-c607-4162-bd56-e5f8674e1924?embed=js"
@@ -34,4 +34,4 @@ areas:
 <p class="apply-cta"><a href="https://jobs.ashbyhq.com/Intelligence-Security-Laboratories/126c42cd-c607-4162-bd56-e5f8674e1924?embed=js">Apply →</a></p>
 
 ---
-*Posted 2026-09-02 · Listing synced 2026-09-07 · 80k job ID `recEJLJ6a19WJERKX`*
+*Posted 2026-09-02 · Listing synced 2026-09-08 · 80k job ID `recEJLJ6a19WJERKX`*

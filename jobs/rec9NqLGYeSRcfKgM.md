@@ -2,7 +2,7 @@
 title: "Education Course Facilitator, Utrecht"
 employer: "Safe AI Netherlands"
 job_id: "rec9NqLGYeSRcfKgM"
-last_updated: "2026-09-07T11:04:05.973519Z"
+last_updated: "2026-09-08T10:53:18.143499Z"
 posted_at: "2026-09-01T00:00:00Z"
 status: ready
 apply_url: "https://safeainetherlands.org/open-positions#national:~:text=Education%20Course%20Facilitator"
@@ -33,4 +33,4 @@ areas:
 <p class="apply-cta"><a href="https://safeainetherlands.org/open-positions#national:~:text=Education%20Course%20Facilitator">Apply →</a></p>
 
 ---
-*Posted 2026-09-01 · Listing synced 2026-09-07 · 80k job ID `rec9NqLGYeSRcfKgM`*
+*Posted 2026-09-01 · Listing synced 2026-09-08 · 80k job ID `rec9NqLGYeSRcfKgM`*

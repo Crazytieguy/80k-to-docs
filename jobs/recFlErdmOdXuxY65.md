@@ -2,7 +2,7 @@
 title: "Campus Directors"
 employer: "Effective Thesis"
 job_id: "recFlErdmOdXuxY65"
-last_updated: "2026-09-07T11:04:13.517701Z"
+last_updated: "2026-09-08T10:53:25.494983Z"
 posted_at: "2026-08-27T00:01:00Z"
 status: ready
 apply_url: "https://airtable.com/appwUI4Pc2NJPOfmZ/pagsTedsMGP9DNXp2/form"
@@ -34,4 +34,4 @@ areas:
 <p class="apply-cta"><a href="https://airtable.com/appwUI4Pc2NJPOfmZ/pagsTedsMGP9DNXp2/form">Apply →</a></p>
 
 ---
-*Posted 2026-08-27 · Listing synced 2026-09-07 · 80k job ID `recFlErdmOdXuxY65`*
+*Posted 2026-08-27 · Listing synced 2026-09-08 · 80k job ID `recFlErdmOdXuxY65`*

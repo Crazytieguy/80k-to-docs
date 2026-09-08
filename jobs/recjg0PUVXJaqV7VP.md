@@ -2,7 +2,7 @@
 title: "Head of Groups"
 employer: "Kairos"
 job_id: "recjg0PUVXJaqV7VP"
-last_updated: "2026-09-07T11:03:56.296871Z"
+last_updated: "2026-09-08T10:53:08.694220Z"
 posted_at: "2026-09-03T00:03:00Z"
 status: ready
 apply_url: "https://kairos-project.org/careers/head-of-groups"
@@ -34,4 +34,4 @@ areas:
 <p class="apply-cta"><a href="https://kairos-project.org/careers/head-of-groups">Apply →</a></p>
 
 ---
-*Posted 2026-09-03 · Listing synced 2026-09-07 · 80k job ID `recjg0PUVXJaqV7VP`*
+*Posted 2026-09-03 · Listing synced 2026-09-08 · 80k job ID `recjg0PUVXJaqV7VP`*

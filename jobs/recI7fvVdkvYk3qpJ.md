@@ -2,7 +2,7 @@
 title: "Program Officer"
 employer: "GiveWell"
 job_id: "recI7fvVdkvYk3qpJ"
-last_updated: "2026-09-07T11:05:15.547197Z"
+last_updated: "2026-09-08T10:54:27.554912Z"
 posted_at: "2022-01-08T00:00:00Z"
 status: ready
 apply_url: "https://job-boards.greenhouse.io/givewell/jobs/5263759008"
@@ -34,4 +34,4 @@ areas:
 <p class="apply-cta"><a href="https://job-boards.greenhouse.io/givewell/jobs/5263759008">Apply →</a></p>
 
 ---
-*Posted 2022-01-08 · Listing synced 2026-09-07 · 80k job ID `recI7fvVdkvYk3qpJ`*
+*Posted 2022-01-08 · Listing synced 2026-09-08 · 80k job ID `recI7fvVdkvYk3qpJ`*

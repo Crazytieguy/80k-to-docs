@@ -2,7 +2,7 @@
 title: "Research Engineer, AI Safety and Evals"
 employer: "Andon Labs"
 job_id: "recjQLe5jMju3BDqj"
-last_updated: "2026-09-07T11:04:48.376747Z"
+last_updated: "2026-09-08T10:54:01.392450Z"
 posted_at: "2026-07-28T00:00:00Z"
 status: ready
 apply_url: "https://andonlabs.notion.site/32851e560a9581ea910ff74837b37806"
@@ -19,7 +19,6 @@ areas:
 <dt>Role type</dt><dd>Full-time</dd>
 <dt>Experience</dt><dd>Junior (1-4 years experience), Mid (5-9 years experience)</dd>
 <dt>Degree</dt><dd>Undergraduate degree or less</dd>
-<dt>Salary</dt><dd>$100,000 – $180,000</dd>
 </dl>
 
 **Areas & skills:** AI safety & policy, Research, Software engineering
@@ -34,4 +33,4 @@ areas:
 <p class="apply-cta"><a href="https://andonlabs.notion.site/32851e560a9581ea910ff74837b37806">Apply →</a></p>
 
 ---
-*Posted 2026-07-28 · Listing synced 2026-09-07 · 80k job ID `recjQLe5jMju3BDqj`*
+*Posted 2026-07-28 · Listing synced 2026-09-08 · 80k job ID `recjQLe5jMju3BDqj`*

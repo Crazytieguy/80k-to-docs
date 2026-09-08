@@ -2,7 +2,7 @@
 title: "Project Leader / Project Coordinator, Outreach and Community Building"
 employer: "Effective Altruism Norway"
 job_id: "recsufyHcQu90pSjp"
-last_updated: "2026-09-07T11:03:53.435752Z"
+last_updated: "2026-09-08T10:53:07.113603Z"
 posted_at: "2026-09-04T00:00:00Z"
 status: ready
 apply_url: "https://www.effektivaltruisme.no/ledige-stillinger/project-leader-community-building"
@@ -33,4 +33,4 @@ areas:
 <p class="apply-cta"><a href="https://www.effektivaltruisme.no/ledige-stillinger/project-leader-community-building">Apply →</a></p>
 
 ---
-*Posted 2026-09-04 · Listing synced 2026-09-07 · 80k job ID `recsufyHcQu90pSjp`*
+*Posted 2026-09-04 · Listing synced 2026-09-08 · 80k job ID `recsufyHcQu90pSjp`*

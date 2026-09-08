@@ -2,7 +2,7 @@
 title: "Internship, Science Undergraduate Laboratory (Summer 2027)"
 employer: "US Government, Department of Energy"
 job_id: "recWefGkWsdQYlpoh"
-last_updated: "2026-09-07T11:03:53.676990Z"
+last_updated: "2026-09-08T10:53:07.237837Z"
 posted_at: "2026-09-04T00:00:00Z"
 status: ready
 apply_url: "https://science.osti.gov/wdts/suli"
@@ -33,4 +33,4 @@ areas:
 <p class="apply-cta"><a href="https://science.osti.gov/wdts/suli">Apply →</a></p>
 
 ---
-*Posted 2026-09-04 · Listing synced 2026-09-07 · 80k job ID `recWefGkWsdQYlpoh`*
+*Posted 2026-09-04 · Listing synced 2026-09-08 · 80k job ID `recWefGkWsdQYlpoh`*

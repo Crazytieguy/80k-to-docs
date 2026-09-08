@@ -2,7 +2,7 @@
 title: "Community Organiser"
 employer: "PauseAI"
 job_id: "recSVdsCPUbMzFA6e"
-last_updated: "2026-09-07T11:04:05.066739Z"
+last_updated: "2026-09-08T10:53:17.194108Z"
 posted_at: "2026-09-01T00:00:00Z"
 status: ready
 apply_url: "https://pauseai.uk/jobs"
@@ -16,10 +16,10 @@ areas:
 
 <dl class="job-meta">
 <dt>Location</dt><dd>London, UK, UK</dd>
-<dt>Role type</dt><dd>Part-time, Full-time</dd>
+<dt>Role type</dt><dd>Full-time, Part-time</dd>
 <dt>Experience</dt><dd>Junior (1-4 years experience)</dd>
 <dt>Degree</dt><dd>Undergraduate degree or less</dd>
-<dt>Salary</dt><dd>$33,847 – $81,233</dd>
+<dt>Salary</dt><dd>$33,814 – $81,154</dd>
 </dl>
 
 **Areas & skills:** AI safety & policy, Operations
@@ -34,4 +34,4 @@ areas:
 <p class="apply-cta"><a href="https://pauseai.uk/jobs">Apply →</a></p>
 
 ---
-*Posted 2026-09-01 · Listing synced 2026-09-07 · 80k job ID `recSVdsCPUbMzFA6e`*
+*Posted 2026-09-01 · Listing synced 2026-09-08 · 80k job ID `recSVdsCPUbMzFA6e`*

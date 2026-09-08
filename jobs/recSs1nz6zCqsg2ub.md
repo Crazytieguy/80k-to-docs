@@ -2,7 +2,7 @@
 title: "Head of Finance and Operations"
 employer: "High Impact Athletes"
 job_id: "recSs1nz6zCqsg2ub"
-last_updated: "2026-09-07T11:05:59.277057Z"
+last_updated: "2026-09-08T10:55:14.711326Z"
 posted_at: "2022-01-01T00:00:00Z"
 status: ready
 apply_url: "https://highimpactathletes.org/finance-ops-jd"
@@ -34,4 +34,4 @@ areas:
 <p class="apply-cta"><a href="https://highimpactathletes.org/finance-ops-jd">Apply →</a></p>
 
 ---
-*Posted 2022-01-01 · Listing synced 2026-09-07 · 80k job ID `recSs1nz6zCqsg2ub`*
+*Posted 2022-01-01 · Listing synced 2026-09-08 · 80k job ID `recSs1nz6zCqsg2ub`*

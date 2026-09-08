@@ -2,7 +2,7 @@
 title: "Arc Science Fellows"
 employer: "Arc Institute"
 job_id: "recucSrPZPGmXkqrB"
-last_updated: "2026-09-07T11:04:57.486741Z"
+last_updated: "2026-09-08T10:54:10.659680Z"
 posted_at: "2026-07-08T00:00:00Z"
 status: ready
 apply_url: "https://arcinstitute.org/programs/science-fellows"
@@ -33,4 +33,4 @@ areas:
 <p class="apply-cta"><a href="https://arcinstitute.org/programs/science-fellows">Apply →</a></p>
 
 ---
-*Posted 2026-07-08 · Listing synced 2026-09-07 · 80k job ID `recucSrPZPGmXkqrB`*
+*Posted 2026-07-08 · Listing synced 2026-09-08 · 80k job ID `recucSrPZPGmXkqrB`*

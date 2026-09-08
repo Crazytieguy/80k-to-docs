@@ -4,24 +4,20 @@ employer: "Apollo Research"
 job_id: "recL9SgdMGB74j6x0"
 last_updated: "2026-09-07T11:04:57.320209Z"
 posted_at: "2026-07-08T00:00:00Z"
-status: ready
+status: closed
+closed_at: "2026-09-08"
 apply_url: "https://jobs.lever.co/apolloresearch/c7377abe-39ac-4712-8d2f-b048f363480a"
 areas:
   - "AI safety & policy"
 ---
 
+> ⚠️ **CLOSED on 2026-09-08** — this job is no longer listed on the 80,000 Hours board. Archived snapshot below.
+
 # AI Governance Researcher / Senior AI Governance Researcher
 
-**[Apollo Research](https://www.apolloresearch.ai/)**
+**Apollo Research**
 
-<dl class="job-meta">
-<dt>Location</dt><dd>London, UK, San Francisco Bay Area, UK, USA, USA (Confirmed Visas), UK (Confirmed Visas)</dd>
-<dt>Role type</dt><dd>Full-time</dd>
-<dt>Experience</dt><dd>Mid (5-9 years experience)</dd>
-<dt>Degree</dt><dd>Undergraduate degree or less</dd>
-</dl>
-
-**Areas & skills:** AI safety & policy, Research, Policy
+**Areas & skills:** AI safety & policy
 
 ## Summary
 - In this role, you'll design and drive innovative AI governance research, targeting critical areas for AI safety and security, such as AI R&D pipelines within frontier AI companies and national security.

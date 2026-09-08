@@ -2,7 +2,7 @@
 title: "Research Assistant, Market Shaping Accelerator"
 employer: "Center for Global Development"
 job_id: "recY2SnVYkcrM3A8q"
-last_updated: "2026-09-07T11:04:19.751352Z"
+last_updated: "2026-09-08T10:53:32.645450Z"
 posted_at: "2026-08-25T00:00:00Z"
 status: ready
 apply_url: "https://centerforglobaldevelopment.applytojob.com/apply/gS6SSb6wjR/Research-Assistant-Market-Shaping-Accelerator"
@@ -36,4 +36,4 @@ areas:
 <p class="apply-cta"><a href="https://centerforglobaldevelopment.applytojob.com/apply/gS6SSb6wjR/Research-Assistant-Market-Shaping-Accelerator">Apply →</a></p>
 
 ---
-*Posted 2026-08-25 · Listing synced 2026-09-07 · 80k job ID `recY2SnVYkcrM3A8q`*
+*Posted 2026-08-25 · Listing synced 2026-09-08 · 80k job ID `recY2SnVYkcrM3A8q`*

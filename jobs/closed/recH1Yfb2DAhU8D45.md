@@ -4,25 +4,20 @@ employer: "GiveWell"
 job_id: "recH1Yfb2DAhU8D45"
 last_updated: "2026-09-07T11:04:30.099527Z"
 posted_at: "2026-08-18T00:00:00Z"
-status: ready
+status: closed
+closed_at: "2026-09-08"
 apply_url: "https://job-boards.greenhouse.io/givewell/jobs/5378593008"
 areas:
   - "Global health & development"
 ---
 
+> ⚠️ **CLOSED on 2026-09-08** — this job is no longer listed on the 80,000 Hours board. Archived snapshot below.
+
 # Various Operations Roles
 
-**[GiveWell](https://www.givewell.org)**
+**GiveWell**
 
-<dl class="job-meta">
-<dt>Location</dt><dd>Remote, USA, USA</dd>
-<dt>Role type</dt><dd>Full-time</dd>
-<dt>Experience</dt><dd>Junior (1-4 years experience), Entry-level</dd>
-<dt>Degree</dt><dd>Undergraduate degree or less</dd>
-<dt>Salary</dt><dd>$92,000 – $135,500</dd>
-</dl>
-
-**Areas & skills:** Global health & development, Operations
+**Areas & skills:** Global health & development
 
 ## Summary
 - In these roles, you'll provide critical infrastructure, processes, and support across Operations to enable GiveWell's mission and strategic growth.

@@ -2,7 +2,7 @@
 title: "Request for Founders"
 employer: "Halcyon Futures"
 job_id: "recO0ZsoB4QQ8RPXt"
-last_updated: "2026-09-07T11:04:58.797469Z"
+last_updated: "2026-09-08T10:54:11.955682Z"
 posted_at: "2026-07-03T00:01:00Z"
 status: ready
 apply_url: "https://halcyonfutures.org/founders"
@@ -30,4 +30,4 @@ areas:
 <p class="apply-cta"><a href="https://halcyonfutures.org/founders">Apply →</a></p>
 
 ---
-*Posted 2026-07-03 · Listing synced 2026-09-07 · 80k job ID `recO0ZsoB4QQ8RPXt`*
+*Posted 2026-07-03 · Listing synced 2026-09-08 · 80k job ID `recO0ZsoB4QQ8RPXt`*

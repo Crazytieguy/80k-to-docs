@@ -2,7 +2,7 @@
 title: "Intern, Cyber Defense"
 employer: "MITRE"
 job_id: "recr571bVdOS2UN9g"
-last_updated: "2026-09-07T11:04:02.606512Z"
+last_updated: "2026-09-08T10:53:14.677351Z"
 posted_at: "2026-09-02T00:00:00Z"
 status: ready
 apply_url: "https://careers.mitre.org/us/en/job/R117094/Cyber-Defense-Intern"
@@ -34,4 +34,4 @@ areas:
 <p class="apply-cta"><a href="https://careers.mitre.org/us/en/job/R117094/Cyber-Defense-Intern">Apply →</a></p>
 
 ---
-*Posted 2026-09-02 · Listing synced 2026-09-07 · 80k job ID `recr571bVdOS2UN9g`*
+*Posted 2026-09-02 · Listing synced 2026-09-08 · 80k job ID `recr571bVdOS2UN9g`*

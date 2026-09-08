@@ -2,7 +2,7 @@
 title: "Director, Operations"
 employer: "Center for AI Safety"
 job_id: "recAx1SDe4gKYHiOe"
-last_updated: "2026-09-07T11:03:46.752136Z"
+last_updated: "2026-09-08T10:53:04.455404Z"
 posted_at: "2026-09-07T00:04:56Z"
 status: ready
 apply_url: "https://job-boards.greenhouse.io/centerforartificialintelligencesafetyinc/jobs/4396789009"
@@ -34,4 +34,4 @@ areas:
 <p class="apply-cta"><a href="https://job-boards.greenhouse.io/centerforartificialintelligencesafetyinc/jobs/4396789009">Apply →</a></p>
 
 ---
-*Posted 2026-09-07 · Listing synced 2026-09-07 · 80k job ID `recAx1SDe4gKYHiOe`*
+*Posted 2026-09-07 · Listing synced 2026-09-08 · 80k job ID `recAx1SDe4gKYHiOe`*

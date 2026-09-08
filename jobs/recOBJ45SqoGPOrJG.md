@@ -2,7 +2,7 @@
 title: "Executive Assistant to the Chief Executive Officer"
 employer: "Myrias"
 job_id: "recOBJ45SqoGPOrJG"
-last_updated: "2026-09-07T11:04:31.653694Z"
+last_updated: "2026-09-08T10:53:44.957315Z"
 posted_at: "2026-08-17T00:00:00Z"
 status: ready
 apply_url: "https://docs.google.com/document/d/1IixxFavHyxVVv-ZE5pMXE170u6OAcgHAPPviZRZNpKo/edit?usp=sharing"
@@ -33,4 +33,4 @@ areas:
 <p class="apply-cta"><a href="https://docs.google.com/document/d/1IixxFavHyxVVv-ZE5pMXE170u6OAcgHAPPviZRZNpKo/edit?usp=sharing">Apply →</a></p>
 
 ---
-*Posted 2026-08-17 · Listing synced 2026-09-07 · 80k job ID `recOBJ45SqoGPOrJG`*
+*Posted 2026-08-17 · Listing synced 2026-09-08 · 80k job ID `recOBJ45SqoGPOrJG`*

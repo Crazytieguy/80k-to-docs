@@ -4,24 +4,20 @@ employer: "Federation of American Scientists"
 job_id: "recgJS1NkANzjlYBM"
 last_updated: "2026-09-07T11:04:33.250702Z"
 posted_at: "2026-08-13T00:02:00Z"
-status: ready
+status: closed
+closed_at: "2026-09-08"
 apply_url: "https://fas.org/career/ai-safety-pef/"
 areas:
   - "AI safety & policy"
 ---
 
+> ⚠️ **CLOSED on 2026-09-08** — this job is no longer listed on the 80,000 Hours board. Archived snapshot below.
+
 # Policy Entrepreneurship Fellowship, AI Safety
 
-**[Federation of American Scientists](https://fas.org/about-fas/)**
+**Federation of American Scientists**
 
-<dl class="job-meta">
-<dt>Location</dt><dd>Washington, DC metro area, USA</dd>
-<dt>Role type</dt><dd>Fellowship</dd>
-<dt>Experience</dt><dd>Multiple experience levels</dd>
-<dt>Degree</dt><dd>Undergraduate degree or less</dd>
-</dl>
-
-**Areas & skills:** AI safety & policy, Policy, Communications
+**Areas & skills:** AI safety & policy
 
 ## Summary
 - In this fellowship, you'll develop and advance a frontier AI safety policy idea toward implementation.

@@ -2,7 +2,7 @@
 title: "Big if True Science Accelerator, Biosecurity Cohort"
 employer: "Renaissance Philanthropy"
 job_id: "recJIt4qvvY1XgFF3"
-last_updated: "2026-09-07T11:04:26.616551Z"
+last_updated: "2026-09-08T10:53:40.234845Z"
 posted_at: "2026-08-19T00:03:00Z"
 status: ready
 apply_url: "https://www.renaissancephilanthropy.org/bits-biosec"
@@ -33,4 +33,4 @@ areas:
 <p class="apply-cta"><a href="https://www.renaissancephilanthropy.org/bits-biosec">Apply →</a></p>
 
 ---
-*Posted 2026-08-19 · Listing synced 2026-09-07 · 80k job ID `recJIt4qvvY1XgFF3`*
+*Posted 2026-08-19 · Listing synced 2026-09-08 · 80k job ID `recJIt4qvvY1XgFF3`*

@@ -2,7 +2,7 @@
 title: "Manager / Associate / Senior Associate, Special Projects"
 employer: "Institute for AI Policy and Strategy"
 job_id: "rec6yINqWvgct3spz"
-last_updated: "2026-09-07T11:04:34.170565Z"
+last_updated: "2026-09-08T10:53:47.416020Z"
 posted_at: "2026-08-12T00:04:37Z"
 status: ready
 apply_url: "https://www.iaps.ai/special-projects"
@@ -34,4 +34,4 @@ areas:
 <p class="apply-cta"><a href="https://www.iaps.ai/special-projects">Apply →</a></p>
 
 ---
-*Posted 2026-08-12 · Listing synced 2026-09-07 · 80k job ID `rec6yINqWvgct3spz`*
+*Posted 2026-08-12 · Listing synced 2026-09-08 · 80k job ID `rec6yINqWvgct3spz`*

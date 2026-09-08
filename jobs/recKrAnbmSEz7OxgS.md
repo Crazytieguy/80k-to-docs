@@ -2,7 +2,7 @@
 title: "Generalist, Workshops"
 employer: "Kairos"
 job_id: "recKrAnbmSEz7OxgS"
-last_updated: "2026-09-07T11:03:57.817468Z"
+last_updated: "2026-09-08T10:53:09.881512Z"
 posted_at: "2026-09-03T00:03:00Z"
 status: ready
 apply_url: "https://kairos-project.org/careers/generalist-workshops"
@@ -34,4 +34,4 @@ areas:
 <p class="apply-cta"><a href="https://kairos-project.org/careers/generalist-workshops">Apply →</a></p>
 
 ---
-*Posted 2026-09-03 · Listing synced 2026-09-07 · 80k job ID `recKrAnbmSEz7OxgS`*
+*Posted 2026-09-03 · Listing synced 2026-09-08 · 80k job ID `recKrAnbmSEz7OxgS`*

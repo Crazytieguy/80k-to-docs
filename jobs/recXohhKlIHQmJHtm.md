@@ -2,7 +2,7 @@
 title: "Research Manager, SPAR"
 employer: "Kairos"
 job_id: "recXohhKlIHQmJHtm"
-last_updated: "2026-09-07T11:05:25.298941Z"
+last_updated: "2026-09-08T10:54:36.818989Z"
 posted_at: "2022-01-06T00:00:00Z"
 status: ready
 apply_url: "https://kairos-project.org/careers/spar-research-manager-generalist"
@@ -34,4 +34,4 @@ areas:
 <p class="apply-cta"><a href="https://kairos-project.org/careers/spar-research-manager-generalist">Apply →</a></p>
 
 ---
-*Posted 2022-01-06 · Listing synced 2026-09-07 · 80k job ID `recXohhKlIHQmJHtm`*
+*Posted 2022-01-06 · Listing synced 2026-09-08 · 80k job ID `recXohhKlIHQmJHtm`*

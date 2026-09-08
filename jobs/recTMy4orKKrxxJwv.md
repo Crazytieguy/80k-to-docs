@@ -2,7 +2,7 @@
 title: "Trustee"
 employer: "Partnership for Research into Sentient Machines"
 job_id: "recTMy4orKKrxxJwv"
-last_updated: "2026-09-07T11:05:41.102381Z"
+last_updated: "2026-09-08T10:54:55.702800Z"
 posted_at: "2022-01-05T00:00:00Z"
 status: ready
 apply_url: "https://www.prism-global.com/trustee-vacancies"
@@ -33,4 +33,4 @@ areas:
 <p class="apply-cta"><a href="https://www.prism-global.com/trustee-vacancies">Apply →</a></p>
 
 ---
-*Posted 2022-01-05 · Listing synced 2026-09-07 · 80k job ID `recTMy4orKKrxxJwv`*
+*Posted 2022-01-05 · Listing synced 2026-09-08 · 80k job ID `recTMy4orKKrxxJwv`*

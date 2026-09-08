@@ -2,7 +2,7 @@
 title: "Consultant, Search Engine Optimisation and Generative Engine Optimisation"
 employer: "Effective Altruism Hong Kong"
 job_id: "recQADctJIUzVPb1T"
-last_updated: "2026-09-07T11:04:23.065527Z"
+last_updated: "2026-09-08T10:53:36.848062Z"
 posted_at: "2026-08-24T00:00:00Z"
 status: ready
 apply_url: "https://www.eahongkong.org/rfp-seo-consultant"
@@ -33,4 +33,4 @@ areas:
 <p class="apply-cta"><a href="https://www.eahongkong.org/rfp-seo-consultant">Apply →</a></p>
 
 ---
-*Posted 2026-08-24 · Listing synced 2026-09-07 · 80k job ID `recQADctJIUzVPb1T`*
+*Posted 2026-08-24 · Listing synced 2026-09-08 · 80k job ID `recQADctJIUzVPb1T`*

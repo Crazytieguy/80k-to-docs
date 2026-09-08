@@ -2,7 +2,7 @@
 title: "AI Cyber Red Teamer"
 employer: "Trajectory Labs, PBC"
 job_id: "recpNxXy4xqFXoPMr"
-last_updated: "2026-09-07T11:04:10.223947Z"
+last_updated: "2026-09-08T10:53:22.555958Z"
 posted_at: "2026-08-28T00:03:00Z"
 status: ready
 apply_url: "https://www.trajectorylabs.com/careers/ai-cyber-red-teamer"
@@ -33,4 +33,4 @@ areas:
 <p class="apply-cta"><a href="https://www.trajectorylabs.com/careers/ai-cyber-red-teamer">Apply →</a></p>
 
 ---
-*Posted 2026-08-28 · Listing synced 2026-09-07 · 80k job ID `recpNxXy4xqFXoPMr`*
+*Posted 2026-08-28 · Listing synced 2026-09-08 · 80k job ID `recpNxXy4xqFXoPMr`*

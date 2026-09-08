@@ -2,7 +2,7 @@
 title: "General Counsel"
 employer: "MATS Research"
 job_id: "recW83IYKT5rfQN8V"
-last_updated: "2026-09-07T11:03:43.081885Z"
+last_updated: "2026-09-08T10:53:03.467042Z"
 posted_at: "2026-09-07T00:05:00Z"
 status: ready
 apply_url: "https://www.matsprogram.org/careers/general-counsel"
@@ -34,4 +34,4 @@ areas:
 <p class="apply-cta"><a href="https://www.matsprogram.org/careers/general-counsel">Apply →</a></p>
 
 ---
-*Posted 2026-09-07 · Listing synced 2026-09-07 · 80k job ID `recW83IYKT5rfQN8V`*
+*Posted 2026-09-07 · Listing synced 2026-09-08 · 80k job ID `recW83IYKT5rfQN8V`*

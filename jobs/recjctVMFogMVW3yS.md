@@ -2,7 +2,7 @@
 title: "Research Specialist, Economics, Market Shaping Solutions to Global Challenges"
 employer: "University of Chicago, Market Shaping Accelerator"
 job_id: "recjctVMFogMVW3yS"
-last_updated: "2026-09-07T11:04:09.957194Z"
+last_updated: "2026-09-08T10:53:22.237122Z"
 posted_at: "2026-08-31T00:00:00Z"
 status: ready
 apply_url: "https://apply.interfolio.com/192176"
@@ -34,4 +34,4 @@ areas:
 <p class="apply-cta"><a href="https://apply.interfolio.com/192176">Apply →</a></p>
 
 ---
-*Posted 2026-08-31 · Listing synced 2026-09-07 · 80k job ID `recjctVMFogMVW3yS`*
+*Posted 2026-08-31 · Listing synced 2026-09-08 · 80k job ID `recjctVMFogMVW3yS`*

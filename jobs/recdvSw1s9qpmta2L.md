@@ -2,7 +2,7 @@
 title: "Portfolio Companies"
 employer: "Deep Science Ventures"
 job_id: "recdvSw1s9qpmta2L"
-last_updated: "2026-09-07T11:05:45.159711Z"
+last_updated: "2026-09-08T10:55:00.295960Z"
 posted_at: "2022-01-03T00:00:00Z"
 status: ready
 apply_url: "https://deepscienceventures.com/portfolio"
@@ -30,4 +30,4 @@ areas:
 <p class="apply-cta"><a href="https://deepscienceventures.com/portfolio">Apply →</a></p>
 
 ---
-*Posted 2022-01-03 · Listing synced 2026-09-07 · 80k job ID `recdvSw1s9qpmta2L`*
+*Posted 2022-01-03 · Listing synced 2026-09-08 · 80k job ID `recdvSw1s9qpmta2L`*

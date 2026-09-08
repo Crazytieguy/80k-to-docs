@@ -4,25 +4,20 @@ employer: "Open Technology Fund"
 job_id: "recLT3M4nidA93AVx"
 last_updated: "2026-09-07T11:04:11.279038Z"
 posted_at: "2026-08-28T00:00:00Z"
-status: ready
+status: closed
+closed_at: "2026-09-08"
 apply_url: "https://www.opentech.fund/research-2/icrp/"
 areas:
   - "AI safety & policy"
 ---
 
+> ⚠️ **CLOSED on 2026-09-08** — this job is no longer listed on the 80,000 Hours board. Archived snapshot below.
+
 # Research Program, Information Controls
 
-**[Open Technology Fund](https://www.opentech.fund/)**
+**Open Technology Fund**
 
-<dl class="job-meta">
-<dt>Location</dt><dd>Remote, Global</dd>
-<dt>Role type</dt><dd>Full-time</dd>
-<dt>Experience</dt><dd>Multiple experience levels</dd>
-<dt>Degree</dt><dd>Undergraduate degree or less</dd>
-<dt>Salary</dt><dd>$84,000</dd>
-</dl>
-
-**Areas & skills:** AI safety & policy, Research
+**Areas & skills:** AI safety & policy
 
 ## Summary
 - In this role, you'll conduct applied research on internet censorship and surveillance in authoritarian environments, developing solutions to advance global internet freedom.

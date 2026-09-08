@@ -4,25 +4,20 @@ employer: "Centre for Future Generations"
 job_id: "recXWRy6V6n9DgMIA"
 last_updated: "2026-09-07T11:04:57.614425Z"
 posted_at: "2026-07-08T00:00:00Z"
-status: ready
+status: closed
+closed_at: "2026-09-08"
 apply_url: "https://stichtingicfg.bamboohr.com/careers/66"
 areas:
   - "Macrostrategy"
 ---
 
+> ⚠️ **CLOSED on 2026-09-08** — this job is no longer listed on the 80,000 Hours board. Archived snapshot below.
+
 # Development Director
 
-**[Centre for Future Generations](https://cfg.eu/)**
+**Centre for Future Generations**
 
-<dl class="job-meta">
-<dt>Location</dt><dd>Brussels, Belgium, Belgium, Europe (ex UK)</dd>
-<dt>Role type</dt><dd>Full-time</dd>
-<dt>Experience</dt><dd>Senior (10+ years experience)</dd>
-<dt>Degree</dt><dd>Undergraduate degree or less</dd>
-<dt>Salary</dt><dd>$104,619 – $127,868</dd>
-</dl>
-
-**Areas & skills:** Macrostrategy, Management, Strategy
+**Areas & skills:** Macrostrategy
 
 ## Summary
 - In this role, you'll lead fundraising strategy to strengthen foundation partnerships and develop new revenue streams.

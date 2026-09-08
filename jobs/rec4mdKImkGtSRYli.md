@@ -2,7 +2,7 @@
 title: "Communications Manager"
 employer: "Evitable"
 job_id: "rec4mdKImkGtSRYli"
-last_updated: "2026-09-07T11:03:47.909228Z"
+last_updated: "2026-09-08T10:53:04.791482Z"
 posted_at: "2026-09-07T00:01:00Z"
 status: ready
 apply_url: "https://evitable.com/communications-manager"
@@ -34,4 +34,4 @@ areas:
 <p class="apply-cta"><a href="https://evitable.com/communications-manager">Apply →</a></p>
 
 ---
-*Posted 2026-09-07 · Listing synced 2026-09-07 · 80k job ID `rec4mdKImkGtSRYli`*
+*Posted 2026-09-07 · Listing synced 2026-09-08 · 80k job ID `rec4mdKImkGtSRYli`*

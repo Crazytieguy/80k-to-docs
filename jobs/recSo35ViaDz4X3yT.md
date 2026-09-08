@@ -2,7 +2,7 @@
 title: "Cyber Operations Lead, Critical Harm Operations"
 employer: "OpenAI"
 job_id: "recSo35ViaDz4X3yT"
-last_updated: "2026-09-07T11:03:58.978449Z"
+last_updated: "2026-09-08T10:53:11.120989Z"
 posted_at: "2026-09-03T00:00:00Z"
 status: ready
 apply_url: "https://openai.com/careers/cyber-operations-lead-critical-harm-operations-san-francisco/"
@@ -34,4 +34,4 @@ areas:
 <p class="apply-cta"><a href="https://openai.com/careers/cyber-operations-lead-critical-harm-operations-san-francisco/">Apply →</a></p>
 
 ---
-*Posted 2026-09-03 · Listing synced 2026-09-07 · 80k job ID `recSo35ViaDz4X3yT`*
+*Posted 2026-09-03 · Listing synced 2026-09-08 · 80k job ID `recSo35ViaDz4X3yT`*
