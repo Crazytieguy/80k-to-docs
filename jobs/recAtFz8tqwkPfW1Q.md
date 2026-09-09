@@ -2,7 +2,7 @@
 title: "Head of Engineering, Platform"
 employer: "Goodfire"
 job_id: "recAtFz8tqwkPfW1Q"
-last_updated: "2026-09-08T10:54:53.036381Z"
+last_updated: "2026-09-09T11:21:21.396528Z"
 posted_at: "2022-01-05T00:00:00Z"
 status: ready
 apply_url: "https://job-boards.greenhouse.io/goodfire/jobs/5071690008"
@@ -34,4 +34,4 @@ areas:
 <p class="apply-cta"><a href="https://job-boards.greenhouse.io/goodfire/jobs/5071690008">Apply →</a></p>
 
 ---
-*Posted 2022-01-05 · Listing synced 2026-09-08 · 80k job ID `recAtFz8tqwkPfW1Q`*
+*Posted 2022-01-05 · Listing synced 2026-09-09 · 80k job ID `recAtFz8tqwkPfW1Q`*

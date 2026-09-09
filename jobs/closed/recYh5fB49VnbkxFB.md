@@ -4,25 +4,20 @@ employer: "The British Academy"
 job_id: "recYh5fB49VnbkxFB"
 last_updated: "2026-09-08T10:54:13.005123Z"
 posted_at: "2026-07-02T00:00:00Z"
-status: ready
+status: closed
+closed_at: "2026-09-09"
 apply_url: "https://www.thebritishacademy.ac.uk/funding/schemes/apex-awards/"
 areas:
   - "Career development: Technical"
 ---
 
+> ⚠️ **CLOSED on 2026-09-09** — this job is no longer listed on the 80,000 Hours board. Archived snapshot below.
+
 # APEX Awards
 
-**[The British Academy](https://www.thebritishacademy.ac.uk/)**
+**The British Academy**
 
-<dl class="job-meta">
-<dt>Location</dt><dd>UK</dd>
-<dt>Role type</dt><dd>Funding</dd>
-<dt>Experience</dt><dd>Multiple experience levels</dd>
-<dt>Degree</dt><dd>Doctoral degree</dd>
-<dt>Salary</dt><dd>$270,514</dd>
-</dl>
-
-**Areas & skills:** Career development: Technical, Research
+**Areas & skills:** Career development: Technical
 
 ## Summary
 - These awards offer established independent researchers an opportunity to pursue interdisciplinary and blue skies, curiosity-driven research to benefit wider society.

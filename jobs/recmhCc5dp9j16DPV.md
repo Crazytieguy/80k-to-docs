@@ -2,7 +2,7 @@
 title: "Export Policy Analyst, GS 14"
 employer: "US Government, Bureau of Industry and Security"
 job_id: "recmhCc5dp9j16DPV"
-last_updated: "2026-09-08T10:53:05.302944Z"
+last_updated: "2026-09-09T11:19:35.606954Z"
 posted_at: "2026-09-07T00:00:00Z"
 status: ready
 apply_url: "https://www.usajobs.gov/job/883496000"
@@ -34,4 +34,4 @@ areas:
 <p class="apply-cta"><a href="https://www.usajobs.gov/job/883496000">Apply →</a></p>
 
 ---
-*Posted 2026-09-07 · Listing synced 2026-09-08 · 80k job ID `recmhCc5dp9j16DPV`*
+*Posted 2026-09-07 · Listing synced 2026-09-09 · 80k job ID `recmhCc5dp9j16DPV`*

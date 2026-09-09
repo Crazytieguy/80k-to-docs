@@ -2,7 +2,7 @@
 title: "Expression of Interest, Technical Roles, Next-Generation Agentic Controls and Forensics"
 employer: "UK Government, AI Security Institute"
 job_id: "recTcFOakAGmT3KIG"
-last_updated: "2026-09-08T10:53:22.077802Z"
+last_updated: "2026-09-09T11:19:52.117497Z"
 posted_at: "2026-08-31T00:00:00Z"
 status: ready
 apply_url: "https://job-boards.eu.greenhouse.io/aisi/jobs/4945732101"
@@ -19,7 +19,7 @@ areas:
 <dt>Role type</dt><dd>Full-time</dd>
 <dt>Experience</dt><dd>Multiple experience levels</dd>
 <dt>Degree</dt><dd>Undergraduate degree or less</dd>
-<dt>Salary</dt><dd>$87,917 – $196,123</dd>
+<dt>Salary</dt><dd>$88,007 – $196,324</dd>
 </dl>
 
 **Areas & skills:** AI safety & policy, Research, Software engineering
@@ -34,4 +34,4 @@ areas:
 <p class="apply-cta"><a href="https://job-boards.eu.greenhouse.io/aisi/jobs/4945732101">Apply →</a></p>
 
 ---
-*Posted 2026-08-31 · Listing synced 2026-09-08 · 80k job ID `recTcFOakAGmT3KIG`*
+*Posted 2026-08-31 · Listing synced 2026-09-09 · 80k job ID `recTcFOakAGmT3KIG`*

@@ -4,25 +4,20 @@ employer: "European Union, AI Office"
 job_id: "recWxhREhnqdOpqCd"
 last_updated: "2026-09-08T10:52:59.845526Z"
 posted_at: "2026-09-08T00:00:00Z"
-status: ready
+status: closed
+closed_at: "2026-09-09"
 apply_url: "https://eu-careers.europa.eu/sites/default/files/eu_vacancies/2026-07/Call%20CNECT%20RL%20AI%202026_2.pdf"
 areas:
   - "AI safety & policy"
 ---
 
+> ⚠️ **CLOSED on 2026-09-09** — this job is no longer listed on the 80,000 Hours board. Archived snapshot below.
+
 # Contract Agents (x40)
 
-**[European Union, AI Office](https://digital-strategy.ec.europa.eu/en/policies/ai-office)**
+**European Union, AI Office**
 
-<dl class="job-meta">
-<dt>Location</dt><dd>Brussels, Belgium, Belgium, Europe (ex UK)</dd>
-<dt>Role type</dt><dd>Full-time</dd>
-<dt>Experience</dt><dd>Multiple experience levels</dd>
-<dt>Degree</dt><dd>Undergraduate degree or less</dd>
-<dt>Salary</dt><dd>$52,248 – $116,107</dd>
-</dl>
-
-**Areas & skills:** AI safety & policy, Policy, Operations, Software engineering, Legal
+**Areas & skills:** AI safety & policy
 
 ## Summary
 - This call is for technical, policy, legal, and operational roles in which you will draft legislation, enforce that companies adhere to their obligations, evaluate AI models and assess risks, foster international cooperation, inform EU member states on AI progress and risks, and strengthen the Europe's position in safe AI.

@@ -2,7 +2,7 @@
 title: "Strategy and Impact Analyst, Monitoring, Evaluation, and Learning"
 employer: "Lafiya"
 job_id: "recGbV3P7ZHYsrk74"
-last_updated: "2026-09-08T10:53:14.441142Z"
+last_updated: "2026-09-09T11:19:44.868261Z"
 posted_at: "2026-09-02T00:00:00Z"
 status: ready
 apply_url: "https://docs.google.com/document/d/1az5heB3HsTMH0dmlQ5k0ODNniq8EHcZnPd9pQhMVZ6k/edit?tab=t.a60jg49shuyd"
@@ -34,4 +34,4 @@ areas:
 <p class="apply-cta"><a href="https://docs.google.com/document/d/1az5heB3HsTMH0dmlQ5k0ODNniq8EHcZnPd9pQhMVZ6k/edit?tab=t.a60jg49shuyd">Apply →</a></p>
 
 ---
-*Posted 2026-09-02 · Listing synced 2026-09-08 · 80k job ID `recGbV3P7ZHYsrk74`*
+*Posted 2026-09-02 · Listing synced 2026-09-09 · 80k job ID `recGbV3P7ZHYsrk74`*

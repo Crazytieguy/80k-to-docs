@@ -2,7 +2,7 @@
 title: "Program Rotational Analyst"
 employer: "One Acre Fund"
 job_id: "reczrrN3RULH0sIQN"
-last_updated: "2026-09-08T10:53:27.043528Z"
+last_updated: "2026-09-09T11:19:56.989312Z"
 posted_at: "2026-08-27T00:00:00Z"
 status: ready
 apply_url: "https://oneacrefund.org/vacancies/program-rotational-analyst-fixed-term"
@@ -33,4 +33,4 @@ areas:
 <p class="apply-cta"><a href="https://oneacrefund.org/vacancies/program-rotational-analyst-fixed-term">Apply →</a></p>
 
 ---
-*Posted 2026-08-27 · Listing synced 2026-09-08 · 80k job ID `reczrrN3RULH0sIQN`*
+*Posted 2026-08-27 · Listing synced 2026-09-09 · 80k job ID `reczrrN3RULH0sIQN`*

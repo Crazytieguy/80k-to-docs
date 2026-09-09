@@ -2,7 +2,7 @@
 title: "Residency Program"
 employer: "MATS Research"
 job_id: "rec4fTkP1C0KnN8zu"
-last_updated: "2026-09-08T10:53:24.704584Z"
+last_updated: "2026-09-09T11:19:54.654352Z"
 posted_at: "2026-08-27T00:05:00Z"
 status: ready
 apply_url: "https://www.matsprogram.org/residency"
@@ -33,4 +33,4 @@ areas:
 <p class="apply-cta"><a href="https://www.matsprogram.org/residency">Apply →</a></p>
 
 ---
-*Posted 2026-08-27 · Listing synced 2026-09-08 · 80k job ID `rec4fTkP1C0KnN8zu`*
+*Posted 2026-08-27 · Listing synced 2026-09-09 · 80k job ID `rec4fTkP1C0KnN8zu`*

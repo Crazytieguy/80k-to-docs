@@ -2,7 +2,7 @@
 title: "Supreme Court Fellows Program"
 employer: "Supreme Court of the United States"
 job_id: "recnR98IYeuJta2VA"
-last_updated: "2026-09-08T10:53:11.239624Z"
+last_updated: "2026-09-09T11:19:41.667874Z"
 posted_at: "2026-09-03T00:00:00Z"
 status: ready
 apply_url: "https://www.supremecourt.gov/fellows/AboutFellowships.aspx"
@@ -34,4 +34,4 @@ areas:
 <p class="apply-cta"><a href="https://www.supremecourt.gov/fellows/AboutFellowships.aspx">Apply →</a></p>
 
 ---
-*Posted 2026-09-03 · Listing synced 2026-09-08 · 80k job ID `recnR98IYeuJta2VA`*
+*Posted 2026-09-03 · Listing synced 2026-09-09 · 80k job ID `recnR98IYeuJta2VA`*

@@ -4,25 +4,20 @@ employer: "Institute for AI Policy and Strategy"
 job_id: "rec6yINqWvgct3spz"
 last_updated: "2026-09-08T10:53:47.416020Z"
 posted_at: "2026-08-12T00:04:37Z"
-status: ready
+status: closed
+closed_at: "2026-09-09"
 apply_url: "https://www.iaps.ai/special-projects"
 areas:
   - "AI safety & policy"
 ---
 
+> ⚠️ **CLOSED on 2026-09-09** — this job is no longer listed on the 80,000 Hours board. Archived snapshot below.
+
 # Manager / Associate / Senior Associate, Special Projects
 
-**[Institute for AI Policy and Strategy](https://www.iaps.ai/)**
+**Institute for AI Policy and Strategy**
 
-<dl class="job-meta">
-<dt>Location</dt><dd>London, UK, Washington, DC metro area, San Francisco Bay Area, UK, USA, USA (Confirmed Visas), UK (Confirmed Visas)</dd>
-<dt>Role type</dt><dd>Full-time</dd>
-<dt>Experience</dt><dd>Junior (1-4 years experience), Mid (5-9 years experience)</dd>
-<dt>Degree</dt><dd>Undergraduate degree or less</dd>
-<dt>Salary</dt><dd>$86,000 – $165,000</dd>
-</dl>
-
-**Areas & skills:** AI safety & policy, Policy, Operations, Management, Strategy
+**Areas & skills:** AI safety & policy
 
 ## Summary
 - In this role, you'll turn loosely scoped ideas into executed programs that expand IAPS's AI policy portfolio.

@@ -4,25 +4,20 @@ employer: "FutureSearch"
 job_id: "recPi5DoWspwB6uQK"
 last_updated: "2026-09-08T10:54:05.396398Z"
 posted_at: "2026-07-20T00:00:00Z"
-status: ready
+status: closed
+closed_at: "2026-09-09"
 apply_url: "https://apply.workable.com/futuresearch/j/9B377DCE6D"
 areas:
   - "Macrostrategy"
 ---
 
+> ⚠️ **CLOSED on 2026-09-09** — this job is no longer listed on the 80,000 Hours board. Archived snapshot below.
+
 # QA Contractor
 
-**[FutureSearch](https://futuresearch.ai/)**
+**FutureSearch**
 
-<dl class="job-meta">
-<dt>Location</dt><dd>London, UK, San Francisco Bay Area, Remote, Global, UK, USA</dd>
-<dt>Role type</dt><dd>Full-time</dd>
-<dt>Experience</dt><dd>Junior (1-4 years experience)</dd>
-<dt>Degree</dt><dd>Undergraduate degree or less</dd>
-<dt>Salary</dt><dd>$156,000 – $260,000</dd>
-</dl>
-
-**Areas & skills:** Macrostrategy, Operations
+**Areas & skills:** Macrostrategy
 
 ## Summary
 - In this role, you'll quality-check evaluation tasks for AI model training and benchmarking, serving as the last independent reviewer before tasks reach formal review.

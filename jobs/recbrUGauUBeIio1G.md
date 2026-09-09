@@ -2,7 +2,7 @@
 title: "Laboratory Operations Assistant"
 employer: "SecureBio"
 job_id: "recbrUGauUBeIio1G"
-last_updated: "2026-09-08T10:53:38.165925Z"
+last_updated: "2026-09-09T11:20:06.619500Z"
 posted_at: "2026-08-20T00:04:20Z"
 status: ready
 apply_url: "https://securebio.org/careers/lab-ops-assistant"
@@ -34,4 +34,4 @@ areas:
 <p class="apply-cta"><a href="https://securebio.org/careers/lab-ops-assistant">Apply →</a></p>
 
 ---
-*Posted 2026-08-20 · Listing synced 2026-09-08 · 80k job ID `recbrUGauUBeIio1G`*
+*Posted 2026-08-20 · Listing synced 2026-09-09 · 80k job ID `recbrUGauUBeIio1G`*

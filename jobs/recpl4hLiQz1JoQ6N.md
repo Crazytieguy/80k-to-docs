@@ -2,7 +2,7 @@
 title: "Cyber Evaluations Engineer"
 employer: "Anthropic"
 job_id: "recpl4hLiQz1JoQ6N"
-last_updated: "2026-09-08T10:53:10.625311Z"
+last_updated: "2026-09-09T11:19:41.123566Z"
 posted_at: "2026-09-03T00:00:00Z"
 status: ready
 apply_url: "https://job-boards.greenhouse.io/anthropic/jobs/5406367008"
@@ -34,4 +34,4 @@ areas:
 <p class="apply-cta"><a href="https://job-boards.greenhouse.io/anthropic/jobs/5406367008">Apply →</a></p>
 
 ---
-*Posted 2026-09-03 · Listing synced 2026-09-08 · 80k job ID `recpl4hLiQz1JoQ6N`*
+*Posted 2026-09-03 · Listing synced 2026-09-09 · 80k job ID `recpl4hLiQz1JoQ6N`*

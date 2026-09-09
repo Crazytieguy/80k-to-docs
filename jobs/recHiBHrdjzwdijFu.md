@@ -2,7 +2,7 @@
 title: "Internship, AI Policy"
 employer: "Centre for European Policy Studies"
 job_id: "recHiBHrdjzwdijFu"
-last_updated: "2026-09-08T10:52:59.340254Z"
+last_updated: "2026-09-09T11:19:32.483183Z"
 posted_at: "2026-09-08T00:00:00Z"
 status: ready
 apply_url: "https://cdn.ceps.eu/2026/09/Job-Advert_AIIntern.pdf"
@@ -33,4 +33,4 @@ areas:
 <p class="apply-cta"><a href="https://cdn.ceps.eu/2026/09/Job-Advert_AIIntern.pdf">Apply →</a></p>
 
 ---
-*Posted 2026-09-08 · Listing synced 2026-09-08 · 80k job ID `recHiBHrdjzwdijFu`*
+*Posted 2026-09-08 · Listing synced 2026-09-09 · 80k job ID `recHiBHrdjzwdijFu`*

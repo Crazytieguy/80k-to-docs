@@ -2,7 +2,7 @@
 title: "Research Associate"
 employer: "SecureBio"
 job_id: "recQ3Wpu2ZwEuAw6y"
-last_updated: "2026-09-08T10:54:03.542258Z"
+last_updated: "2026-09-09T11:20:34.128190Z"
 posted_at: "2026-07-22T00:04:18Z"
 status: ready
 apply_url: "https://securebio.org/careers/research-associate-I-2026"
@@ -34,4 +34,4 @@ areas:
 <p class="apply-cta"><a href="https://securebio.org/careers/research-associate-I-2026">Apply →</a></p>
 
 ---
-*Posted 2026-07-22 · Listing synced 2026-09-08 · 80k job ID `recQ3Wpu2ZwEuAw6y`*
+*Posted 2026-07-22 · Listing synced 2026-09-09 · 80k job ID `recQ3Wpu2ZwEuAw6y`*

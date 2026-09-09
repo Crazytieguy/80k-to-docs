@@ -2,7 +2,7 @@
 title: "Longform Video Creator"
 employer: "AI Digest"
 job_id: "reciUEgYc1F0t3ZEs"
-last_updated: "2026-09-08T10:53:31.235339Z"
+last_updated: "2026-09-09T11:20:00.794148Z"
 posted_at: "2026-08-25T00:00:00Z"
 status: ready
 apply_url: "https://jobs.ashbyhq.com/aidigest/99e5152e-ed0c-42eb-bb11-9135b629378c"
@@ -34,4 +34,4 @@ areas:
 <p class="apply-cta"><a href="https://jobs.ashbyhq.com/aidigest/99e5152e-ed0c-42eb-bb11-9135b629378c">Apply →</a></p>
 
 ---
-*Posted 2026-08-25 · Listing synced 2026-09-08 · 80k job ID `reciUEgYc1F0t3ZEs`*
+*Posted 2026-08-25 · Listing synced 2026-09-09 · 80k job ID `reciUEgYc1F0t3ZEs`*

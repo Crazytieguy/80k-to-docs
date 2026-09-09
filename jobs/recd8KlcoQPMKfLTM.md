@@ -2,7 +2,7 @@
 title: "Officer, Finance"
 employer: "Evidence Action"
 job_id: "recd8KlcoQPMKfLTM"
-last_updated: "2026-09-08T10:52:59.964929Z"
+last_updated: "2026-09-09T11:19:32.598485Z"
 posted_at: "2026-09-08T00:00:00Z"
 status: ready
 apply_url: "https://apply.workable.com/evidence-action/j/89E519CCDA/"
@@ -33,4 +33,4 @@ areas:
 <p class="apply-cta"><a href="https://apply.workable.com/evidence-action/j/89E519CCDA/">Apply →</a></p>
 
 ---
-*Posted 2026-09-08 · Listing synced 2026-09-08 · 80k job ID `recd8KlcoQPMKfLTM`*
+*Posted 2026-09-08 · Listing synced 2026-09-09 · 80k job ID `recd8KlcoQPMKfLTM`*

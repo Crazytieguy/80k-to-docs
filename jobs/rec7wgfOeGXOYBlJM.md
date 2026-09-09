@@ -2,7 +2,7 @@
 title: "Senior Cyber Policy Lead"
 employer: "Anthropic"
 job_id: "rec7wgfOeGXOYBlJM"
-last_updated: "2026-09-08T10:53:28.234550Z"
+last_updated: "2026-09-09T11:19:58.174999Z"
 posted_at: "2026-08-26T00:00:00Z"
 status: ready
 apply_url: "https://job-boards.greenhouse.io/anthropic/jobs/5397708008"
@@ -34,4 +34,4 @@ areas:
 <p class="apply-cta"><a href="https://job-boards.greenhouse.io/anthropic/jobs/5397708008">Apply →</a></p>
 
 ---
-*Posted 2026-08-26 · Listing synced 2026-09-08 · 80k job ID `rec7wgfOeGXOYBlJM`*
+*Posted 2026-08-26 · Listing synced 2026-09-09 · 80k job ID `rec7wgfOeGXOYBlJM`*

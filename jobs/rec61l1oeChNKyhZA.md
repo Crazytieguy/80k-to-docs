@@ -2,7 +2,7 @@
 title: "Principal Engineer"
 employer: "AI Whistleblower Initiative"
 job_id: "rec61l1oeChNKyhZA"
-last_updated: "2026-09-08T10:53:32.263438Z"
+last_updated: "2026-09-09T11:20:01.428433Z"
 posted_at: "2026-08-25T00:00:00Z"
 status: ready
 apply_url: "https://join.com/companies/aiwiorg/16633395-principal-engineer"
@@ -19,7 +19,7 @@ areas:
 <dt>Role type</dt><dd>Full-time</dd>
 <dt>Experience</dt><dd>Senior (10+ years experience)</dd>
 <dt>Degree</dt><dd>Undergraduate degree or less</dd>
-<dt>Salary</dt><dd>$94,680 – $121,731</dd>
+<dt>Salary</dt><dd>$94,777 – $121,856</dd>
 </dl>
 
 **Areas & skills:** AI safety & policy, Software engineering
@@ -33,4 +33,4 @@ areas:
 <p class="apply-cta"><a href="https://join.com/companies/aiwiorg/16633395-principal-engineer">Apply →</a></p>
 
 ---
-*Posted 2026-08-25 · Listing synced 2026-09-08 · 80k job ID `rec61l1oeChNKyhZA`*
+*Posted 2026-08-25 · Listing synced 2026-09-09 · 80k job ID `rec61l1oeChNKyhZA`*

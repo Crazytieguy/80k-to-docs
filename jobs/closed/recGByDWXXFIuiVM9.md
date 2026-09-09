@@ -4,24 +4,20 @@ employer: "Hudson Institute"
 job_id: "recGByDWXXFIuiVM9"
 last_updated: "2026-09-08T10:53:39.342774Z"
 posted_at: "2026-08-20T00:00:00Z"
-status: ready
+status: closed
+closed_at: "2026-09-09"
 apply_url: "https://recruiting.paylocity.com/Recruiting/Jobs/Details/3736833"
 areas:
   - "Career development: Policy & government"
 ---
 
+> ⚠️ **CLOSED on 2026-09-09** — this job is no longer listed on the 80,000 Hours board. Archived snapshot below.
+
 # Research Internship, Fellow Bill Drexel (Fall 2026)
 
-**[Hudson Institute](https://www.hudson.org/)**
+**Hudson Institute**
 
-<dl class="job-meta">
-<dt>Location</dt><dd>Washington, DC metro area, USA</dd>
-<dt>Role type</dt><dd>Internship</dd>
-<dt>Experience</dt><dd>Entry-level</dd>
-<dt>Degree</dt><dd>Undergraduate degree or less</dd>
-</dl>
-
-**Areas & skills:** Career development: Policy & government, Research, Policy
+**Areas & skills:** Career development: Policy & government
 
 ## Summary
 - In this role, you'll assist with research, writing, and editing on US-India relations, AI competition, and American technology strategy.

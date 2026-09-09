@@ -2,7 +2,7 @@
 title: "Head of Generator"
 employer: "Kairos"
 job_id: "rec1WpJldk3JSyeZY"
-last_updated: "2026-09-08T10:53:08.558675Z"
+last_updated: "2026-09-09T11:19:38.883993Z"
 posted_at: "2026-09-03T00:03:00Z"
 status: ready
 apply_url: "https://kairos-project.org/careers/head-of-generator"
@@ -34,4 +34,4 @@ areas:
 <p class="apply-cta"><a href="https://kairos-project.org/careers/head-of-generator">Apply →</a></p>
 
 ---
-*Posted 2026-09-03 · Listing synced 2026-09-08 · 80k job ID `rec1WpJldk3JSyeZY`*
+*Posted 2026-09-03 · Listing synced 2026-09-09 · 80k job ID `rec1WpJldk3JSyeZY`*

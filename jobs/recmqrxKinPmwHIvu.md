@@ -2,7 +2,7 @@
 title: "Impact Analyst"
 employer: "MATS Research"
 job_id: "recmqrxKinPmwHIvu"
-last_updated: "2026-09-08T10:53:03.831301Z"
+last_updated: "2026-09-09T11:19:34.120875Z"
 posted_at: "2026-09-07T00:05:00Z"
 status: ready
 apply_url: "https://www.matsprogram.org/careers/program-impact-analyst"
@@ -33,4 +33,4 @@ areas:
 <p class="apply-cta"><a href="https://www.matsprogram.org/careers/program-impact-analyst">Apply →</a></p>
 
 ---
-*Posted 2026-09-07 · Listing synced 2026-09-08 · 80k job ID `recmqrxKinPmwHIvu`*
+*Posted 2026-09-07 · Listing synced 2026-09-09 · 80k job ID `recmqrxKinPmwHIvu`*

@@ -1,8 +1,8 @@
 ---
 title: "Founding Operations Manager"
-employer: "Parallax AI"
+employer: "Parallax"
 job_id: "recG6neAk3UrNQM1l"
-last_updated: "2026-09-08T10:52:58.304576Z"
+last_updated: "2026-09-09T11:19:32.115674Z"
 posted_at: "2026-09-08T00:01:00Z"
 status: ready
 apply_url: "https://parallx.ai/careers/founding-operations-manager.html"
@@ -12,7 +12,7 @@ areas:
 
 # Founding Operations Manager
 
-**[Parallax AI](https://parallx.ai/)**
+**[Parallax](https://parallx.ai/)**
 
 <dl class="job-meta">
 <dt>Location</dt><dd>London, UK, Remote, UK, Remote, Europe, UK, Europe, Europe (ex UK), UK (Confirmed Visas)</dd>
@@ -33,4 +33,4 @@ areas:
 <p class="apply-cta"><a href="https://parallx.ai/careers/founding-operations-manager.html">Apply →</a></p>
 
 ---
-*Posted 2026-09-08 · Listing synced 2026-09-08 · 80k job ID `recG6neAk3UrNQM1l`*
+*Posted 2026-09-08 · Listing synced 2026-09-09 · 80k job ID `recG6neAk3UrNQM1l`*

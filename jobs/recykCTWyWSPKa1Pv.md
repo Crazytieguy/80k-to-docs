@@ -2,22 +2,27 @@
 title: "Senior AI Fellow, California Department of Technology"
 employer: "California Council on Science and Technology"
 job_id: "recykCTWyWSPKa1Pv"
-last_updated: "2026-09-04T05:32:24.726405Z"
-posted_at: "2026-08-06T00:04:00Z"
-status: closed
-closed_at: "2026-09-05"
+last_updated: "2026-09-09T11:19:28.424811Z"
+posted_at: "2026-09-09T00:00:00Z"
+status: ready
 apply_url: "https://ccst.us/senior-ai-fellow-cdt/"
 areas:
   - "AI safety & policy"
 ---
 
-> ⚠️ **CLOSED on 2026-09-05** — this job is no longer listed on the 80,000 Hours board. Archived snapshot below.
-
 # Senior AI Fellow, California Department of Technology
 
-**California Council on Science and Technology**
+**[California Council on Science and Technology](https://ccst.us/)**
 
-**Areas & skills:** AI safety & policy
+<dl class="job-meta">
+<dt>Location</dt><dd>Sacramento, CA, CA, USA</dd>
+<dt>Role type</dt><dd>Fellowship</dd>
+<dt>Experience</dt><dd>Junior (1-4 years experience), Mid (5-9 years experience)</dd>
+<dt>Degree</dt><dd>Master's degree</dd>
+<dt>Salary</dt><dd>$120,000 – $150,000</dd>
+</dl>
+
+**Areas & skills:** AI safety & policy, Policy
 
 ## Summary
 - In this role, you'll serve as a technical advisor on state-level AI policy and governance at California's Department of Technology.
@@ -30,4 +35,4 @@ areas:
 <p class="apply-cta"><a href="https://ccst.us/senior-ai-fellow-cdt/">Apply →</a></p>
 
 ---
-*Posted 2026-08-06 · Listing synced 2026-09-04 · 80k job ID `recykCTWyWSPKa1Pv`*
+*Posted 2026-09-09 · Listing synced 2026-09-09 · 80k job ID `recykCTWyWSPKa1Pv`*

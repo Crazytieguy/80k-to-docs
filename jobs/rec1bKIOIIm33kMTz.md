@@ -2,7 +2,7 @@
 title: "Courses Facilitator"
 employer: "Sentient Futures"
 job_id: "rec1bKIOIIm33kMTz"
-last_updated: "2026-09-08T10:53:21.669252Z"
+last_updated: "2026-09-09T11:19:51.721935Z"
 posted_at: "2026-08-31T00:00:00Z"
 status: ready
 apply_url: "https://airtable.com/appUw7WBTmDU5xBko/pagQSdVZ4TWXAduCo/form"
@@ -35,4 +35,4 @@ areas:
 <p class="apply-cta"><a href="https://airtable.com/appUw7WBTmDU5xBko/pagQSdVZ4TWXAduCo/form">Apply →</a></p>
 
 ---
-*Posted 2026-08-31 · Listing synced 2026-09-08 · 80k job ID `rec1bKIOIIm33kMTz`*
+*Posted 2026-08-31 · Listing synced 2026-09-09 · 80k job ID `rec1bKIOIIm33kMTz`*

@@ -2,7 +2,7 @@
 title: "Responsible AI and Data Governance Lead"
 employer: "LawZero"
 job_id: "rec7lmW3wt34GOBoT"
-last_updated: "2026-09-08T10:54:54.154168Z"
+last_updated: "2026-09-09T11:21:22.448653Z"
 posted_at: "2022-01-05T00:00:00Z"
 status: ready
 apply_url: "https://job-boards.greenhouse.io/lawzero/jobs/4258824009"
@@ -33,4 +33,4 @@ areas:
 <p class="apply-cta"><a href="https://job-boards.greenhouse.io/lawzero/jobs/4258824009">Apply →</a></p>
 
 ---
-*Posted 2022-01-05 · Listing synced 2026-09-08 · 80k job ID `rec7lmW3wt34GOBoT`*
+*Posted 2022-01-05 · Listing synced 2026-09-09 · 80k job ID `rec7lmW3wt34GOBoT`*

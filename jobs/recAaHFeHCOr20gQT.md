@@ -2,7 +2,7 @@
 title: "Charity Entrepreneurship Incubation Program"
 employer: "Ambitious Impact"
 job_id: "recAaHFeHCOr20gQT"
-last_updated: "2026-09-08T10:53:55.606524Z"
+last_updated: "2026-09-09T11:20:26.084836Z"
 posted_at: "2026-08-04T00:00:00Z"
 status: ready
 apply_url: "https://helpanimals.charityentrepreneurship.com/"
@@ -35,4 +35,4 @@ areas:
 <p class="apply-cta"><a href="https://helpanimals.charityentrepreneurship.com/">Apply →</a></p>
 
 ---
-*Posted 2026-08-04 · Listing synced 2026-09-08 · 80k job ID `recAaHFeHCOr20gQT`*
+*Posted 2026-08-04 · Listing synced 2026-09-09 · 80k job ID `recAaHFeHCOr20gQT`*

@@ -2,7 +2,7 @@
 title: "PhD Position, Responsible Machine Learning"
 employer: "University of Vienna, Faculty of Computer Science"
 job_id: "rec1HFoQvbkRCJb5B"
-last_updated: "2026-09-08T10:53:02.060416Z"
+last_updated: "2026-09-09T11:19:33.180777Z"
 posted_at: "2026-09-08T00:00:00Z"
 status: ready
 apply_url: "https://ellis.eu/research/jobs/2026-09-18-phd-position-in-responsible-machine-learning-at-university-of-vi"
@@ -33,4 +33,4 @@ areas:
 <p class="apply-cta"><a href="https://ellis.eu/research/jobs/2026-09-18-phd-position-in-responsible-machine-learning-at-university-of-vi">Apply →</a></p>
 
 ---
-*Posted 2026-09-08 · Listing synced 2026-09-08 · 80k job ID `rec1HFoQvbkRCJb5B`*
+*Posted 2026-09-08 · Listing synced 2026-09-09 · 80k job ID `rec1HFoQvbkRCJb5B`*

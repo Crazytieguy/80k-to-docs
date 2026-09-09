@@ -2,7 +2,7 @@
 title: "Intern, Strategic Development"
 employer: "Foreign Policy Group"
 job_id: "rec399qnoU0UqAgfa"
-last_updated: "2026-09-08T10:53:28.826042Z"
+last_updated: "2026-09-09T11:19:58.812534Z"
 posted_at: "2026-08-26T00:00:00Z"
 status: ready
 apply_url: "https://foreignpolicy.hrmdirect.com/employment/job-opening.php?req=3792853&req_loc=1439604&nohd=#job"
@@ -33,4 +33,4 @@ areas:
 <p class="apply-cta"><a href="https://foreignpolicy.hrmdirect.com/employment/job-opening.php?req=3792853&amp;req_loc=1439604&amp;nohd=#job">Apply →</a></p>
 
 ---
-*Posted 2026-08-26 · Listing synced 2026-09-08 · 80k job ID `rec399qnoU0UqAgfa`*
+*Posted 2026-08-26 · Listing synced 2026-09-09 · 80k job ID `rec399qnoU0UqAgfa`*

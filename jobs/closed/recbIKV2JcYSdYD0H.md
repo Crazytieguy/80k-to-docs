@@ -4,25 +4,20 @@ employer: "FutureSearch"
 job_id: "recbIKV2JcYSdYD0H"
 last_updated: "2026-09-08T10:54:06.386369Z"
 posted_at: "2026-07-15T00:00:00Z"
-status: ready
+status: closed
+closed_at: "2026-09-09"
 apply_url: "https://apply.workable.com/futuresearch/j/98A6E20ABA/"
 areas:
   - "Macrostrategy"
 ---
 
+> ⚠️ **CLOSED on 2026-09-09** — this job is no longer listed on the 80,000 Hours board. Archived snapshot below.
+
 # Research Contractor
 
-**[FutureSearch](https://futuresearch.ai/)**
+**FutureSearch**
 
-<dl class="job-meta">
-<dt>Location</dt><dd>London, UK, San Francisco Bay Area, Remote, Global, UK, USA</dd>
-<dt>Role type</dt><dd>Part-time</dd>
-<dt>Experience</dt><dd>Junior (1-4 years experience)</dd>
-<dt>Degree</dt><dd>Undergraduate degree or less</dd>
-<dt>Salary</dt><dd>$156,000 – $260,000</dd>
-</dl>
-
-**Areas & skills:** Macrostrategy, Research
+**Areas & skills:** Macrostrategy
 
 ## Summary
 - In this role, you'll support the development of tasks for training and benchmarking frontier AI models.

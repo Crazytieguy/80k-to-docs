@@ -2,7 +2,7 @@
 title: "Forward Deployed Engineer, Product"
 employer: "Apollo Research"
 job_id: "recXDSh4jBcDp5sXc"
-last_updated: "2026-09-08T10:53:19.838596Z"
+last_updated: "2026-09-09T11:19:49.885115Z"
 posted_at: "2026-08-31T00:04:43Z"
 status: ready
 apply_url: "https://jobs.lever.co/apolloresearch/2237ce81-cb8e-4f53-a047-e12ea5d6e7d8"
@@ -34,4 +34,4 @@ areas:
 <p class="apply-cta"><a href="https://jobs.lever.co/apolloresearch/2237ce81-cb8e-4f53-a047-e12ea5d6e7d8">Apply →</a></p>
 
 ---
-*Posted 2026-08-31 · Listing synced 2026-09-08 · 80k job ID `recXDSh4jBcDp5sXc`*
+*Posted 2026-08-31 · Listing synced 2026-09-09 · 80k job ID `recXDSh4jBcDp5sXc`*

@@ -2,7 +2,7 @@
 title: "Platform Hardware Security"
 employer: "Anthropic"
 job_id: "rec53pMTdljf3M0Ki"
-last_updated: "2026-09-08T10:54:22.123510Z"
+last_updated: "2026-09-09T11:20:51.228484Z"
 posted_at: "2022-01-11T00:00:00Z"
 status: ready
 apply_url: "https://job-boards.greenhouse.io/anthropic/jobs/5257689008"
@@ -34,4 +34,4 @@ areas:
 <p class="apply-cta"><a href="https://job-boards.greenhouse.io/anthropic/jobs/5257689008">Apply →</a></p>
 
 ---
-*Posted 2022-01-11 · Listing synced 2026-09-08 · 80k job ID `rec53pMTdljf3M0Ki`*
+*Posted 2022-01-11 · Listing synced 2026-09-09 · 80k job ID `rec53pMTdljf3M0Ki`*

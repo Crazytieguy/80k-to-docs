@@ -4,24 +4,20 @@ employer: "Henry Luce Foundation"
 job_id: "receDWsg48lZB61MO"
 last_updated: "2026-09-08T10:55:06.513457Z"
 posted_at: "2022-01-02T00:00:00Z"
-status: ready
+status: closed
+closed_at: "2026-09-09"
 apply_url: "https://www.hluce.org/programs/luce-scholars/"
 areas:
   - "Career development: Policy & government"
 ---
 
+> ⚠️ **CLOSED on 2026-09-09** — this job is no longer listed on the 80,000 Hours board. Archived snapshot below.
+
 # Luce Scholars Program
 
-**[Henry Luce Foundation](https://www.hluce.org/)**
+**Henry Luce Foundation**
 
-<dl class="job-meta">
-<dt>Location</dt><dd>USA</dd>
-<dt>Role type</dt><dd>Fellowship</dd>
-<dt>Experience</dt><dd>Entry-level</dd>
-<dt>Degree</dt><dd>Undergraduate degree or less</dd>
-</dl>
-
-**Areas & skills:** Career development: Policy & government, Policy
+**Areas & skills:** Career development: Policy & government
 
 ## Summary
 - In this program, you'll gain yearlong immersive professional experience across Asia with language training and cultural engagement.

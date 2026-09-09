@@ -2,7 +2,7 @@
 title: "Fellowship, Influenza and Emerging Infectious Diseases"
 employer: "US Government, Department of Health and Human Services"
 job_id: "recT87PrqQ25lSdSE"
-last_updated: "2026-09-08T10:53:07.582276Z"
+last_updated: "2026-09-09T11:19:37.914977Z"
 posted_at: "2026-09-04T00:00:00Z"
 status: ready
 apply_url: "https://www.zintellect.com/Opportunity/Details/HHS-BARDA-2026-0002"
@@ -31,4 +31,4 @@ areas:
 <p class="apply-cta"><a href="https://www.zintellect.com/Opportunity/Details/HHS-BARDA-2026-0002">Apply →</a></p>
 
 ---
-*Posted 2026-09-04 · Listing synced 2026-09-08 · 80k job ID `recT87PrqQ25lSdSE`*
+*Posted 2026-09-04 · Listing synced 2026-09-09 · 80k job ID `recT87PrqQ25lSdSE`*

@@ -2,7 +2,7 @@
 title: "Technical Associate, Robotics and Physical AI"
 employer: "Massachusetts Institute of Technology, FutureTech"
 job_id: "recIezDZQpHPxuVog"
-last_updated: "2026-09-08T10:53:00.574674Z"
+last_updated: "2026-09-09T11:19:32.818485Z"
 posted_at: "2026-09-08T00:00:00Z"
 status: ready
 apply_url: "https://futuretech.mit.edu/opportunities/technical-associate-robotics-and-physical-ai"
@@ -33,4 +33,4 @@ areas:
 <p class="apply-cta"><a href="https://futuretech.mit.edu/opportunities/technical-associate-robotics-and-physical-ai">Apply →</a></p>
 
 ---
-*Posted 2026-09-08 · Listing synced 2026-09-08 · 80k job ID `recIezDZQpHPxuVog`*
+*Posted 2026-09-08 · Listing synced 2026-09-09 · 80k job ID `recIezDZQpHPxuVog`*

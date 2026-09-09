@@ -2,7 +2,7 @@
 title: "Project Manager / Project Associate, Outreach and Community Building"
 employer: "Effective Altruism Norway"
 job_id: "recerNlYpxoLSTH7u"
-last_updated: "2026-09-08T10:53:37.105352Z"
+last_updated: "2026-09-09T11:20:05.508046Z"
 posted_at: "2026-08-24T00:00:00Z"
 status: ready
 apply_url: "https://www.effektivaltruisme.no/ledige-stillinger/prosjektleder-communitybuilding"
@@ -33,4 +33,4 @@ areas:
 <p class="apply-cta"><a href="https://www.effektivaltruisme.no/ledige-stillinger/prosjektleder-communitybuilding">Apply →</a></p>
 
 ---
-*Posted 2026-08-24 · Listing synced 2026-09-08 · 80k job ID `recerNlYpxoLSTH7u`*
+*Posted 2026-08-24 · Listing synced 2026-09-09 · 80k job ID `recerNlYpxoLSTH7u`*
