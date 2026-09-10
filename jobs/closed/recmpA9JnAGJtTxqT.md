@@ -4,25 +4,20 @@ employer: "University of York, Department of Computer Science"
 job_id: "recmpA9JnAGJtTxqT"
 last_updated: "2026-09-09T11:20:21.342818Z"
 posted_at: "2026-08-07T00:01:00Z"
-status: ready
+status: closed
+closed_at: "2026-09-10"
 apply_url: "https://www.jobs.ac.uk/job/DSK720/research-associate-research-fellow-in-safe-ai-systems?uuid=676834cd-8bb9-11f1-9cb0-064da8edb92a&campaign=jbe20260730&source=jbe"
 areas:
   - "AI safety & policy"
 ---
 
+> ⚠️ **CLOSED on 2026-09-10** — this job is no longer listed on the 80,000 Hours board. Archived snapshot below.
+
 # Research Associate / Research Fellow, Safe AI Systems
 
-**[University of York, Department of Computer Science](https://www.york.ac.uk/computer-science/)**
+**University of York, Department of Computer Science**
 
-<dl class="job-meta">
-<dt>Location</dt><dd>York, UK, UK</dd>
-<dt>Role type</dt><dd>Fellowship</dd>
-<dt>Experience</dt><dd>Entry-level</dd>
-<dt>Degree</dt><dd>Doctoral degree</dd>
-<dt>Salary</dt><dd>$51,036 – $76,546</dd>
-</dl>
-
-**Areas & skills:** AI safety & policy, Research
+**Areas & skills:** AI safety & policy
 
 ## Summary
 - In this role, you'll conduct research on safe and responsible AI and autonomous systems development, focusing on safety cases and whole-systems approaches.

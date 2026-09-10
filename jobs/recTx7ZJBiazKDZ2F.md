@@ -2,7 +2,7 @@
 title: "Special Projects Manager, Communications Team"
 employer: "Future of Life Institute"
 job_id: "recTx7ZJBiazKDZ2F"
-last_updated: "2026-09-09T11:19:36.463141Z"
+last_updated: "2026-09-10T05:31:52.405843Z"
 posted_at: "2026-09-04T00:04:12Z"
 status: ready
 apply_url: "https://jobs.lever.co/futureof-life/25d767f7-5de2-4409-ba37-b8c492598f22"
@@ -34,4 +34,4 @@ areas:
 <p class="apply-cta"><a href="https://jobs.lever.co/futureof-life/25d767f7-5de2-4409-ba37-b8c492598f22">Apply →</a></p>
 
 ---
-*Posted 2026-09-04 · Listing synced 2026-09-09 · 80k job ID `recTx7ZJBiazKDZ2F`*
+*Posted 2026-09-04 · Listing synced 2026-09-10 · 80k job ID `recTx7ZJBiazKDZ2F`*

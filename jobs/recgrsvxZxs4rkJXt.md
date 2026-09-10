@@ -2,7 +2,7 @@
 title: "Summer Research Fellowship, Legal Frontiers"
 employer: "Institute for Law and AI"
 job_id: "recgrsvxZxs4rkJXt"
-last_updated: "2026-09-09T11:19:33.582232Z"
+last_updated: "2026-09-10T05:31:49.343625Z"
 posted_at: "2026-09-07T00:05:00Z"
 status: ready
 apply_url: "https://law-ai.org/srf-lf/"
@@ -34,4 +34,4 @@ areas:
 <p class="apply-cta"><a href="https://law-ai.org/srf-lf/">Apply →</a></p>
 
 ---
-*Posted 2026-09-07 · Listing synced 2026-09-09 · 80k job ID `recgrsvxZxs4rkJXt`*
+*Posted 2026-09-07 · Listing synced 2026-09-10 · 80k job ID `recgrsvxZxs4rkJXt`*

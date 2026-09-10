@@ -2,7 +2,7 @@
 title: "Founding Member, Technical Staff"
 employer: "Parallax"
 job_id: "reclmN7mXZzqFLOx5"
-last_updated: "2026-09-09T11:19:31.854665Z"
+last_updated: "2026-09-10T05:31:47.629826Z"
 posted_at: "2026-09-08T00:01:00Z"
 status: ready
 apply_url: "https://parallx.ai/careers/founding-member-of-technical-staff.html"
@@ -34,4 +34,4 @@ areas:
 <p class="apply-cta"><a href="https://parallx.ai/careers/founding-member-of-technical-staff.html">Apply →</a></p>
 
 ---
-*Posted 2026-09-08 · Listing synced 2026-09-09 · 80k job ID `reclmN7mXZzqFLOx5`*
+*Posted 2026-09-08 · Listing synced 2026-09-10 · 80k job ID `reclmN7mXZzqFLOx5`*

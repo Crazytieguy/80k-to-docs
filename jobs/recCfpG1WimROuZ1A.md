@@ -2,7 +2,7 @@
 title: "Research Engineer, Value Persistence Through Reinforcement Learning"
 employer: "Compassion Aligned Machine Learning"
 job_id: "recCfpG1WimROuZ1A"
-last_updated: "2026-09-09T11:19:31.707513Z"
+last_updated: "2026-09-10T05:31:47.475569Z"
 posted_at: "2026-09-08T00:01:00Z"
 status: ready
 apply_url: "https://www.compassionml.com/careers"
@@ -34,4 +34,4 @@ areas:
 <p class="apply-cta"><a href="https://www.compassionml.com/careers">Apply →</a></p>
 
 ---
-*Posted 2026-09-08 · Listing synced 2026-09-09 · 80k job ID `recCfpG1WimROuZ1A`*
+*Posted 2026-09-08 · Listing synced 2026-09-10 · 80k job ID `recCfpG1WimROuZ1A`*

@@ -2,7 +2,7 @@
 title: "Counsel"
 employer: "Legal Advocates for Safe Science and Technology"
 job_id: "recpNkZEZqsFvPrqg"
-last_updated: "2026-09-09T11:19:24.103691Z"
+last_updated: "2026-09-10T05:31:44.823822Z"
 posted_at: "2026-09-09T00:03:00Z"
 status: ready
 apply_url: "https://drive.google.com/file/d/1txYVwTeqa1MvXGYRzTa1lnVUh91XlpNm/view"
@@ -35,4 +35,4 @@ areas:
 <p class="apply-cta"><a href="https://drive.google.com/file/d/1txYVwTeqa1MvXGYRzTa1lnVUh91XlpNm/view">Apply →</a></p>
 
 ---
-*Posted 2026-09-09 · Listing synced 2026-09-09 · 80k job ID `recpNkZEZqsFvPrqg`*
+*Posted 2026-09-09 · Listing synced 2026-09-10 · 80k job ID `recpNkZEZqsFvPrqg`*

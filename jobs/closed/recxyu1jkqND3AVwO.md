@@ -4,26 +4,21 @@ employer: "RAND Corporation"
 job_id: "recxyu1jkqND3AVwO"
 last_updated: "2026-09-09T11:19:43.093109Z"
 posted_at: "2026-09-02T00:05:00Z"
-status: ready
+status: closed
+closed_at: "2026-09-10"
 apply_url: "https://rand.wd5.myworkdayjobs.com/en-US/External_Career_Site/job/USA---Remote/AI---Biosecurity-Research-Resident_R3519"
 areas:
   - "AI safety & policy"
   - "Biosecurity & pandemic preparedness"
 ---
 
+> ⚠️ **CLOSED on 2026-09-10** — this job is no longer listed on the 80,000 Hours board. Archived snapshot below.
+
 # Research Resident, AI and Biosecurity, Center on AI, Security, and Technology
 
-**[RAND Corporation](https://www.rand.org)**
+**RAND Corporation**
 
-<dl class="job-meta">
-<dt>Location</dt><dd>Washington, DC metro area, Pittsburgh, PA, Los Angeles, CA, Boston metro area, Remote, USA, USA</dd>
-<dt>Role type</dt><dd>Full-time</dd>
-<dt>Experience</dt><dd>Multiple experience levels</dd>
-<dt>Degree</dt><dd>Undergraduate degree or less</dd>
-<dt>Salary</dt><dd>$126,400 – $274,300</dd>
-</dl>
-
-**Areas & skills:** AI safety & policy, Biosecurity & pandemic preparedness, Research, Policy
+**Areas & skills:** AI safety & policy, Biosecurity & pandemic preparedness
 
 ## Summary
 - In this role, you will address questions related to global and emerging AI and biosecurity risks, understanding options for prevention and resilience, and examining their policy implications.

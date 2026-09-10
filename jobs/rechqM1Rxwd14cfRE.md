@@ -2,7 +2,7 @@
 title: "Corrigibility Research Fund"
 employer: "Lightcone Infrastructure"
 job_id: "rechqM1Rxwd14cfRE"
-last_updated: "2026-09-09T11:20:12.974019Z"
+last_updated: "2026-09-10T05:32:28.666144Z"
 posted_at: "2026-08-17T00:05:00Z"
 status: ready
 apply_url: "https://corrigibilityresearch.org/"
@@ -31,4 +31,4 @@ areas:
 <p class="apply-cta"><a href="https://corrigibilityresearch.org/">Apply →</a></p>
 
 ---
-*Posted 2026-08-17 · Listing synced 2026-09-09 · 80k job ID `rechqM1Rxwd14cfRE`*
+*Posted 2026-08-17 · Listing synced 2026-09-10 · 80k job ID `rechqM1Rxwd14cfRE`*

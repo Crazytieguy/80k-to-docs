@@ -2,7 +2,7 @@
 title: "Finance and Operations Associate"
 employer: "Ansh"
 job_id: "recUFgWSSELst92Oo"
-last_updated: "2026-09-09T11:20:09.272143Z"
+last_updated: "2026-09-10T05:32:24.404365Z"
 posted_at: "2026-08-19T00:00:00Z"
 status: ready
 apply_url: "https://www.ansh.health/finance-and-operations-associate"
@@ -19,7 +19,7 @@ areas:
 <dt>Role type</dt><dd>Full-time</dd>
 <dt>Experience</dt><dd>Junior (1-4 years experience)</dd>
 <dt>Degree</dt><dd>Undergraduate degree or less</dd>
-<dt>Salary</dt><dd>$4,731 – $7,359</dd>
+<dt>Salary</dt><dd>$4,726 – $7,351</dd>
 </dl>
 
 **Areas & skills:** Global health & development, Operations, Finance
@@ -34,4 +34,4 @@ areas:
 <p class="apply-cta"><a href="https://www.ansh.health/finance-and-operations-associate">Apply →</a></p>
 
 ---
-*Posted 2026-08-19 · Listing synced 2026-09-09 · 80k job ID `recUFgWSSELst92Oo`*
+*Posted 2026-08-19 · Listing synced 2026-09-10 · 80k job ID `recUFgWSSELst92Oo`*

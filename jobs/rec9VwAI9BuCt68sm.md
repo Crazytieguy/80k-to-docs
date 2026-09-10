@@ -2,7 +2,7 @@
 title: "Fellowship, Medical Countermeasures Program"
 employer: "US Government, Department of Health and Human Services"
 job_id: "rec9VwAI9BuCt68sm"
-last_updated: "2026-09-09T11:19:38.021827Z"
+last_updated: "2026-09-10T05:31:53.977271Z"
 posted_at: "2026-09-04T00:00:00Z"
 status: ready
 apply_url: "https://www.zintellect.com/Opportunity/Details/HHS-BARDA-2026-0001"
@@ -31,4 +31,4 @@ areas:
 <p class="apply-cta"><a href="https://www.zintellect.com/Opportunity/Details/HHS-BARDA-2026-0001">Apply →</a></p>
 
 ---
-*Posted 2026-09-04 · Listing synced 2026-09-09 · 80k job ID `rec9VwAI9BuCt68sm`*
+*Posted 2026-09-04 · Listing synced 2026-09-10 · 80k job ID `rec9VwAI9BuCt68sm`*

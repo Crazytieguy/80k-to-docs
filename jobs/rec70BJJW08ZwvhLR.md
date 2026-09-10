@@ -2,7 +2,7 @@
 title: "Postdoc, Mechanistic Understanding of AI Reasoning"
 employer: "University of Copenhagen, Department of Computer Science"
 job_id: "rec70BJJW08ZwvhLR"
-last_updated: "2026-09-09T11:20:08.138242Z"
+last_updated: "2026-09-10T05:32:23.110826Z"
 posted_at: "2026-08-20T00:00:00Z"
 status: ready
 apply_url: "https://ellis.eu/research/jobs/2026-09-30-postdoc-in-mechanistic-understanding-of-ai-reasoning-at-universi"
@@ -33,4 +33,4 @@ areas:
 <p class="apply-cta"><a href="https://ellis.eu/research/jobs/2026-09-30-postdoc-in-mechanistic-understanding-of-ai-reasoning-at-universi">Apply →</a></p>
 
 ---
-*Posted 2026-08-20 · Listing synced 2026-09-09 · 80k job ID `rec70BJJW08ZwvhLR`*
+*Posted 2026-08-20 · Listing synced 2026-09-10 · 80k job ID `rec70BJJW08ZwvhLR`*

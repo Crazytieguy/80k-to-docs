@@ -2,7 +2,7 @@
 title: "Executive Assistant to Jeffrey Ladish"
 employer: "Palisade Research"
 job_id: "recwwaKyfYe3BLJbA"
-last_updated: "2026-09-09T11:19:48.989074Z"
+last_updated: "2026-09-10T05:32:04.611479Z"
 posted_at: "2026-08-31T00:04:56Z"
 status: ready
 apply_url: "https://jobs.gusto.com/postings/palisade-research-executive-assistant-to-jeffrey-ladish-49be7f37-afce-461c-86c7-a859e40ec211"
@@ -34,4 +34,4 @@ areas:
 <p class="apply-cta"><a href="https://jobs.gusto.com/postings/palisade-research-executive-assistant-to-jeffrey-ladish-49be7f37-afce-461c-86c7-a859e40ec211">Apply →</a></p>
 
 ---
-*Posted 2026-08-31 · Listing synced 2026-09-09 · 80k job ID `recwwaKyfYe3BLJbA`*
+*Posted 2026-08-31 · Listing synced 2026-09-10 · 80k job ID `recwwaKyfYe3BLJbA`*

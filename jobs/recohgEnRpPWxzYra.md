@@ -2,7 +2,7 @@
 title: "Research Engineer, Scalable Interpretability"
 employer: "Transluce"
 job_id: "recohgEnRpPWxzYra"
-last_updated: "2026-09-09T11:21:12.070515Z"
+last_updated: "2026-09-10T05:33:26.986435Z"
 posted_at: "2022-01-06T00:00:00Z"
 status: ready
 apply_url: "https://jobs.gem.com/transluce/am9icG9zdDp31NZm7VBVRjNgxG9dAHuU"
@@ -34,4 +34,4 @@ areas:
 <p class="apply-cta"><a href="https://jobs.gem.com/transluce/am9icG9zdDp31NZm7VBVRjNgxG9dAHuU">Apply →</a></p>
 
 ---
-*Posted 2022-01-06 · Listing synced 2026-09-09 · 80k job ID `recohgEnRpPWxzYra`*
+*Posted 2022-01-06 · Listing synced 2026-09-10 · 80k job ID `recohgEnRpPWxzYra`*

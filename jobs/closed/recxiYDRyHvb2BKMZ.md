@@ -4,25 +4,20 @@ employer: "Ark Philanthropy"
 job_id: "recxiYDRyHvb2BKMZ"
 last_updated: "2026-09-09T11:19:58.320056Z"
 posted_at: "2026-08-26T00:00:00Z"
-status: ready
+status: closed
+closed_at: "2026-09-10"
 apply_url: "https://os.arkphil.org/careers/chief-of-staff"
 areas:
   - "Building effective altruism"
 ---
 
+> ⚠️ **CLOSED on 2026-09-10** — this job is no longer listed on the 80,000 Hours board. Archived snapshot below.
+
 # Chief of Staff to the CEO
 
-**[Ark Philanthropy](https://www.arkphilanthropy.org/)**
+**Ark Philanthropy**
 
-<dl class="job-meta">
-<dt>Location</dt><dd>London, UK, San Francisco Bay Area, UK, USA</dd>
-<dt>Role type</dt><dd>Full-time</dd>
-<dt>Experience</dt><dd>Multiple experience levels</dd>
-<dt>Degree</dt><dd>Undergraduate degree or less</dd>
-<dt>Salary</dt><dd>$115,000 – $165,000</dd>
-</dl>
-
-**Areas & skills:** Building effective altruism, Operations, Strategy
+**Areas & skills:** Building effective altruism
 
 ## Summary
 - In this role, you'll support the CEO with strategic prioritization, cross-team coordination, communications, hiring, and onboarding during rapid growth.

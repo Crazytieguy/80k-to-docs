@@ -2,7 +2,7 @@
 title: "Executive Assistant, US Policy"
 employer: "Institute for Law and AI"
 job_id: "reco8sfxTOm3AQnbG"
-last_updated: "2026-09-09T11:19:21.645625Z"
+last_updated: "2026-09-10T05:31:44.196152Z"
 posted_at: "2026-09-09T00:05:00Z"
 status: ready
 apply_url: "https://law-ai.org/career/exa-us/"
@@ -34,4 +34,4 @@ areas:
 <p class="apply-cta"><a href="https://law-ai.org/career/exa-us/">Apply →</a></p>
 
 ---
-*Posted 2026-09-09 · Listing synced 2026-09-09 · 80k job ID `reco8sfxTOm3AQnbG`*
+*Posted 2026-09-09 · Listing synced 2026-09-10 · 80k job ID `reco8sfxTOm3AQnbG`*

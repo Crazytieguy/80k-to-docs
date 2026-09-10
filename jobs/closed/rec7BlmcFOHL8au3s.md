@@ -4,25 +4,20 @@ employer: "Ark Philanthropy"
 job_id: "rec7BlmcFOHL8au3s"
 last_updated: "2026-09-09T11:19:58.462285Z"
 posted_at: "2026-08-26T00:00:00Z"
-status: ready
+status: closed
+closed_at: "2026-09-10"
 apply_url: "https://os.arkphil.org/careers/executive-and-operations-associate"
 areas:
   - "Building effective altruism"
 ---
 
+> ⚠️ **CLOSED on 2026-09-10** — this job is no longer listed on the 80,000 Hours board. Archived snapshot below.
+
 # Executive and Operations Associate
 
-**[Ark Philanthropy](https://www.arkphilanthropy.org/)**
+**Ark Philanthropy**
 
-<dl class="job-meta">
-<dt>Location</dt><dd>London, UK, San Francisco Bay Area, Remote, USA, UK, USA</dd>
-<dt>Role type</dt><dd>Full-time</dd>
-<dt>Experience</dt><dd>Entry-level</dd>
-<dt>Degree</dt><dd>Undergraduate degree or less</dd>
-<dt>Salary</dt><dd>$62,500 – $90,000</dd>
-</dl>
-
-**Areas & skills:** Building effective altruism, Operations
+**Areas & skills:** Building effective altruism
 
 ## Summary
 - In this role, you'll keep a fast-growing philanthropic organization running as a generalist, handling CEO support, operations, finance, events, and communications.

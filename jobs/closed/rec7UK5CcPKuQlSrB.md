@@ -4,25 +4,20 @@ employer: "SecureBio"
 job_id: "rec7UK5CcPKuQlSrB"
 last_updated: "2026-09-09T11:20:21.155545Z"
 posted_at: "2026-08-07T00:05:00Z"
-status: ready
+status: closed
+closed_at: "2026-09-10"
 apply_url: "https://securebio.org/careers/executive-assistant"
 areas:
   - "Biosecurity & pandemic preparedness"
 ---
 
+> ⚠️ **CLOSED on 2026-09-10** — this job is no longer listed on the 80,000 Hours board. Archived snapshot below.
+
 # Executive Assistant, Detection Leadership Team
 
-**[SecureBio](https://securebio.org/)**
+**SecureBio**
 
-<dl class="job-meta">
-<dt>Location</dt><dd>Boston metro area, USA</dd>
-<dt>Role type</dt><dd>Full-time</dd>
-<dt>Experience</dt><dd>Junior (1-4 years experience)</dd>
-<dt>Degree</dt><dd>Undergraduate degree or less</dd>
-<dt>Salary</dt><dd>$90,000 – $110,000</dd>
-</dl>
-
-**Areas & skills:** Biosecurity & pandemic preparedness, Operations
+**Areas & skills:** Biosecurity & pandemic preparedness
 
 ## Summary
 - In this role, you'll manage calendars and coordinate meetings for a five-person Detection Leadership Team, making prioritization calls across competing demands.

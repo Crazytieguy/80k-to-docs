@@ -2,7 +2,7 @@
 title: "Executive Assistant, EU Law and Legal Frontiers"
 employer: "Institute for Law and AI"
 job_id: "recLVS5oYIACxKvOE"
-last_updated: "2026-09-09T11:19:22.431021Z"
+last_updated: "2026-09-10T05:31:44.325291Z"
 posted_at: "2026-09-09T00:05:00Z"
 status: ready
 apply_url: "https://law-ai.org/career/exa-eu-lf/"
@@ -34,4 +34,4 @@ areas:
 <p class="apply-cta"><a href="https://law-ai.org/career/exa-eu-lf/">Apply →</a></p>
 
 ---
-*Posted 2026-09-09 · Listing synced 2026-09-09 · 80k job ID `recLVS5oYIACxKvOE`*
+*Posted 2026-09-09 · Listing synced 2026-09-10 · 80k job ID `recLVS5oYIACxKvOE`*

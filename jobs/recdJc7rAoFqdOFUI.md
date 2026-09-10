@@ -2,7 +2,7 @@
 title: "Research Technician, Respiratory Virus and Vaccine Immunology"
 employer: "Imperial College London, Department of Infectious Disease"
 job_id: "recdJc7rAoFqdOFUI"
-last_updated: "2026-09-09T11:19:29.995723Z"
+last_updated: "2026-09-10T05:31:46.394929Z"
 posted_at: "2026-09-09T00:00:00Z"
 status: ready
 apply_url: "https://www.imperial.ac.uk/jobs/search-jobs/description/index.php?nPostingID=18162&nPostingTargetID=29054&ID=PMMFK026203F3VBQB8NLOV4CQ"
@@ -19,7 +19,7 @@ areas:
 <dt>Role type</dt><dd>Full-time</dd>
 <dt>Experience</dt><dd>Entry-level</dd>
 <dt>Degree</dt><dd>Undergraduate degree or less</dd>
-<dt>Salary</dt><dd>$57,550 – $63,925</dd>
+<dt>Salary</dt><dd>$57,613 – $63,994</dd>
 </dl>
 
 **Areas & skills:** Biosecurity & pandemic preparedness, Research
@@ -32,4 +32,4 @@ areas:
 <p class="apply-cta"><a href="https://www.imperial.ac.uk/jobs/search-jobs/description/index.php?nPostingID=18162&amp;nPostingTargetID=29054&amp;ID=PMMFK026203F3VBQB8NLOV4CQ">Apply →</a></p>
 
 ---
-*Posted 2026-09-09 · Listing synced 2026-09-09 · 80k job ID `recdJc7rAoFqdOFUI`*
+*Posted 2026-09-09 · Listing synced 2026-09-10 · 80k job ID `recdJc7rAoFqdOFUI`*

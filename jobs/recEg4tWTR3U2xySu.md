@@ -2,7 +2,7 @@
 title: "Head of Operations"
 employer: "AIGS Canada"
 job_id: "recEg4tWTR3U2xySu"
-last_updated: "2026-09-09T11:20:09.084477Z"
+last_updated: "2026-09-10T05:32:24.219670Z"
 posted_at: "2026-08-19T00:00:00Z"
 status: ready
 apply_url: "https://app.notion.com/p/Job-posting-Head-of-Operations-AIGS-Canada-3ba0653a73958011afaae94e0619b16b"
@@ -33,4 +33,4 @@ areas:
 <p class="apply-cta"><a href="https://app.notion.com/p/Job-posting-Head-of-Operations-AIGS-Canada-3ba0653a73958011afaae94e0619b16b">Apply →</a></p>
 
 ---
-*Posted 2026-08-19 · Listing synced 2026-09-09 · 80k job ID `recEg4tWTR3U2xySu`*
+*Posted 2026-08-19 · Listing synced 2026-09-10 · 80k job ID `recEg4tWTR3U2xySu`*

@@ -2,7 +2,7 @@
 title: "Content Editor"
 employer: "Forecasting Research Institute"
 job_id: "recC85hsocUIF0DW6"
-last_updated: "2026-09-09T11:21:33.209441Z"
+last_updated: "2026-09-10T05:33:47.383695Z"
 posted_at: "2022-01-02T00:00:00Z"
 status: ready
 apply_url: "https://forecastingresearch.org/careers/content-editor"
@@ -34,4 +34,4 @@ areas:
 <p class="apply-cta"><a href="https://forecastingresearch.org/careers/content-editor">Apply →</a></p>
 
 ---
-*Posted 2022-01-02 · Listing synced 2026-09-09 · 80k job ID `recC85hsocUIF0DW6`*
+*Posted 2022-01-02 · Listing synced 2026-09-10 · 80k job ID `recC85hsocUIF0DW6`*

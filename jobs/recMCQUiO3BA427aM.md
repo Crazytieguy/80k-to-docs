@@ -2,7 +2,7 @@
 title: "Information Technology Specialist / Cyber Policy and Strategy Planner"
 employer: "Government of California, Office of Emergency Services"
 job_id: "recMCQUiO3BA427aM"
-last_updated: "2026-09-09T11:19:36.214095Z"
+last_updated: "2026-09-10T05:31:52.083812Z"
 posted_at: "2026-09-04T00:05:00Z"
 status: ready
 apply_url: "https://calcareers.ca.gov/CalHrPublic/Jobs/JobPosting.aspx?JobControlId=523056"
@@ -25,13 +25,14 @@ areas:
 **Areas & skills:** AI safety & policy, Policy, Information security
 
 ## Summary
-- In this role, you'll develop AI safety policies and analyze incident reports to support California's AI Safety Reporting Program.
+- In this role, you'll develop AI safety policies and analyze incident reports to support California's AI Safety Reporting Program under the Transparency in Frontier Artificial Intelligence Act (SB 53).
 - Design and refine AI safety policies, playbooks, and procedures.
 - Review and analyze AI safety incident submissions.
 - Prepare clear summaries and legislative reports based on critical incident data.
 - Coordinate with partners from Cal-CSIC and other stakeholders to improve reporting processes.
+- If you're interested, the Secure AI Project encourages you to reach out to implementation@secureaiproject.org before applying for important tips on the application process.
 
 <p class="apply-cta"><a href="https://calcareers.ca.gov/CalHrPublic/Jobs/JobPosting.aspx?JobControlId=523056">Apply →</a></p>
 
 ---
-*Posted 2026-09-04 · Listing synced 2026-09-09 · 80k job ID `recMCQUiO3BA427aM`*
+*Posted 2026-09-04 · Listing synced 2026-09-10 · 80k job ID `recMCQUiO3BA427aM`*

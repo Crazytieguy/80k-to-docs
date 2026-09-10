@@ -4,25 +4,20 @@ employer: "Imperial College London, Department of Computing"
 job_id: "recuY67K285KXYcUs"
 last_updated: "2026-09-09T11:19:25.208902Z"
 posted_at: "2026-09-09T00:02:00Z"
-status: ready
+status: closed
+closed_at: "2026-09-10"
 apply_url: "https://www.imperial.ac.uk/jobs/search-jobs/description/index.php?nPostingID=18143&nPostingTargetID=29094&ID=PMMFK026203F3VBQB8NLOV4CQ"
 areas:
   - "AI safety & policy"
 ---
 
+> ⚠️ **CLOSED on 2026-09-10** — this job is no longer listed on the 80,000 Hours board. Archived snapshot below.
+
 # Research Assistant / Research Associate, Verified AI
 
-**[Imperial College London, Department of Computing](https://www.imperial.ac.uk/computing/)**
+**Imperial College London, Department of Computing**
 
-<dl class="job-meta">
-<dt>Location</dt><dd>London, UK, UK</dd>
-<dt>Role type</dt><dd>Full-time</dd>
-<dt>Experience</dt><dd>Entry-level</dd>
-<dt>Degree</dt><dd>Master's degree</dd>
-<dt>Salary</dt><dd>$61,468 – $80,539</dd>
-</dl>
-
-**Areas & skills:** AI safety & policy, Research, Software engineering, Information security
+**Areas & skills:** AI safety & policy
 
 ## Summary
 - In this role, you'll build a secure-by-design AI inference stack with formally verified security and correctness properties.

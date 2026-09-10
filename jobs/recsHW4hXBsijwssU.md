@@ -2,7 +2,7 @@
 title: "Lead Research Scientist"
 employer: "Neo Research"
 job_id: "recsHW4hXBsijwssU"
-last_updated: "2026-09-09T11:19:40.592273Z"
+last_updated: "2026-09-10T05:31:56.425073Z"
 posted_at: "2026-09-03T00:03:00Z"
 status: ready
 apply_url: "https://neoresearch.ai/careers/lead-research-scientist/?ashby_jid=3fbb1f02-a9b2-4b9e-9775-c9008e06248d"
@@ -34,4 +34,4 @@ areas:
 <p class="apply-cta"><a href="https://neoresearch.ai/careers/lead-research-scientist/?ashby_jid=3fbb1f02-a9b2-4b9e-9775-c9008e06248d">Apply →</a></p>
 
 ---
-*Posted 2026-09-03 · Listing synced 2026-09-09 · 80k job ID `recsHW4hXBsijwssU`*
+*Posted 2026-09-03 · Listing synced 2026-09-10 · 80k job ID `recsHW4hXBsijwssU`*

@@ -2,7 +2,7 @@
 title: "Head of Litigation"
 employer: "Legal Advocates for Safe Science and Technology"
 job_id: "reco0AeW0ZqfdQUzw"
-last_updated: "2026-09-09T11:19:23.537365Z"
+last_updated: "2026-09-10T05:31:44.663613Z"
 posted_at: "2026-09-09T00:03:00Z"
 status: ready
 apply_url: "https://drive.google.com/file/d/1SGFmWu094HudB2Bn5uQ6Fm7fc8nTegS3/view"
@@ -35,4 +35,4 @@ areas:
 <p class="apply-cta"><a href="https://drive.google.com/file/d/1SGFmWu094HudB2Bn5uQ6Fm7fc8nTegS3/view">Apply →</a></p>
 
 ---
-*Posted 2026-09-09 · Listing synced 2026-09-09 · 80k job ID `reco0AeW0ZqfdQUzw`*
+*Posted 2026-09-09 · Listing synced 2026-09-10 · 80k job ID `reco0AeW0ZqfdQUzw`*

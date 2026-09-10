@@ -2,7 +2,7 @@
 title: "Senior Manager, Strategy and Operations"
 employer: "Center for AI Safety"
 job_id: "recWcehpXKXsBTHqU"
-last_updated: "2026-09-09T11:20:00.632314Z"
+last_updated: "2026-09-10T05:32:15.980624Z"
 posted_at: "2026-08-25T00:04:03Z"
 status: ready
 apply_url: "https://job-boards.greenhouse.io/centerforartificialintelligencesafetyinc/jobs/4380697009"
@@ -34,4 +34,4 @@ areas:
 <p class="apply-cta"><a href="https://job-boards.greenhouse.io/centerforartificialintelligencesafetyinc/jobs/4380697009">Apply →</a></p>
 
 ---
-*Posted 2026-08-25 · Listing synced 2026-09-09 · 80k job ID `recWcehpXKXsBTHqU`*
+*Posted 2026-08-25 · Listing synced 2026-09-10 · 80k job ID `recWcehpXKXsBTHqU`*

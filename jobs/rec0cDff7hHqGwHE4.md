@@ -2,7 +2,7 @@
 title: "Data Centre Security Architect"
 employer: "Lucid Computing"
 job_id: "rec0cDff7hHqGwHE4"
-last_updated: "2026-09-09T11:19:35.456579Z"
+last_updated: "2026-09-10T05:31:51.237801Z"
 posted_at: "2026-09-07T00:00:00Z"
 status: ready
 apply_url: "https://jobs.ashbyhq.com/lucidcomputing/ea0aff04-aa5d-4f5a-8dff-32eef7f09a98"
@@ -34,4 +34,4 @@ areas:
 <p class="apply-cta"><a href="https://jobs.ashbyhq.com/lucidcomputing/ea0aff04-aa5d-4f5a-8dff-32eef7f09a98">Apply →</a></p>
 
 ---
-*Posted 2026-09-07 · Listing synced 2026-09-09 · 80k job ID `rec0cDff7hHqGwHE4`*
+*Posted 2026-09-07 · Listing synced 2026-09-10 · 80k job ID `rec0cDff7hHqGwHE4`*

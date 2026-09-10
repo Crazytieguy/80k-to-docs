@@ -2,7 +2,7 @@
 title: "Researcher, Alignment Interpretability"
 employer: "OpenAI"
 job_id: "rec4mNfiJubKjFGK9"
-last_updated: "2026-09-09T11:19:45.269735Z"
+last_updated: "2026-09-10T05:32:00.918117Z"
 posted_at: "2026-09-02T00:00:00Z"
 status: ready
 apply_url: "https://openai.com/careers/researcher-alignment-interpretability-san-francisco/"
@@ -34,4 +34,4 @@ areas:
 <p class="apply-cta"><a href="https://openai.com/careers/researcher-alignment-interpretability-san-francisco/">Apply →</a></p>
 
 ---
-*Posted 2026-09-02 · Listing synced 2026-09-09 · 80k job ID `rec4mNfiJubKjFGK9`*
+*Posted 2026-09-02 · Listing synced 2026-09-10 · 80k job ID `rec4mNfiJubKjFGK9`*

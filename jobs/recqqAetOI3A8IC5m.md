@@ -2,7 +2,7 @@
 title: "General Engineer"
 employer: "US Government, Bureau of Industry and Security"
 job_id: "recqqAetOI3A8IC5m"
-last_updated: "2026-09-09T11:19:33.309085Z"
+last_updated: "2026-09-10T05:31:49.079848Z"
 posted_at: "2026-09-08T00:00:00Z"
 status: ready
 apply_url: "https://www.usajobs.gov/job/883605000"
@@ -34,4 +34,4 @@ areas:
 <p class="apply-cta"><a href="https://www.usajobs.gov/job/883605000">Apply →</a></p>
 
 ---
-*Posted 2026-09-08 · Listing synced 2026-09-09 · 80k job ID `recqqAetOI3A8IC5m`*
+*Posted 2026-09-08 · Listing synced 2026-09-10 · 80k job ID `recqqAetOI3A8IC5m`*

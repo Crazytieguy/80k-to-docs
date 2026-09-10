@@ -2,7 +2,7 @@
 title: "Research Fund"
 employer: "Paradigm 3"
 job_id: "recvTUg01OkI5UakV"
-last_updated: "2026-09-09T11:20:34.240336Z"
+last_updated: "2026-09-10T05:32:49.145266Z"
 posted_at: "2026-07-22T00:02:00Z"
 status: ready
 apply_url: "https://www.paradigm3.org/research/fund"
@@ -34,4 +34,4 @@ areas:
 <p class="apply-cta"><a href="https://www.paradigm3.org/research/fund">Apply →</a></p>
 
 ---
-*Posted 2026-07-22 · Listing synced 2026-09-09 · 80k job ID `recvTUg01OkI5UakV`*
+*Posted 2026-07-22 · Listing synced 2026-09-10 · 80k job ID `recvTUg01OkI5UakV`*

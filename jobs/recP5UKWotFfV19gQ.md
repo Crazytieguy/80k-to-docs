@@ -2,7 +2,7 @@
 title: "AI Policy Research Resident, Associate / Specialist"
 employer: "RAND Corporation"
 job_id: "recP5UKWotFfV19gQ"
-last_updated: "2026-09-09T11:19:38.521555Z"
+last_updated: "2026-09-10T05:31:54.501453Z"
 posted_at: "2026-09-03T00:04:52Z"
 status: ready
 apply_url: "https://rand.wd5.myworkdayjobs.com/en-US/External_Career_Site/job/Washington-DC-DC-Metro-Area/AI-Policy-Research-Resident--Associate---Specialist_R3554"
@@ -34,4 +34,4 @@ areas:
 <p class="apply-cta"><a href="https://rand.wd5.myworkdayjobs.com/en-US/External_Career_Site/job/Washington-DC-DC-Metro-Area/AI-Policy-Research-Resident--Associate---Specialist_R3554">Apply →</a></p>
 
 ---
-*Posted 2026-09-03 · Listing synced 2026-09-09 · 80k job ID `recP5UKWotFfV19gQ`*
+*Posted 2026-09-03 · Listing synced 2026-09-10 · 80k job ID `recP5UKWotFfV19gQ`*

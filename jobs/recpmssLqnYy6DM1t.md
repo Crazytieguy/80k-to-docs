@@ -2,7 +2,7 @@
 title: "Fundraising Officer"
 employer: "Animal Equality"
 job_id: "recpmssLqnYy6DM1t"
-last_updated: "2026-09-09T11:19:41.005769Z"
+last_updated: "2026-09-10T05:31:56.791506Z"
 posted_at: "2026-09-03T00:00:00Z"
 status: ready
 apply_url: "https://animal-equality-germany-ev.jobs.personio.de/job/2096288"
@@ -33,4 +33,4 @@ areas:
 <p class="apply-cta"><a href="https://animal-equality-germany-ev.jobs.personio.de/job/2096288">Apply →</a></p>
 
 ---
-*Posted 2026-09-03 · Listing synced 2026-09-09 · 80k job ID `recpmssLqnYy6DM1t`*
+*Posted 2026-09-03 · Listing synced 2026-09-10 · 80k job ID `recpmssLqnYy6DM1t`*

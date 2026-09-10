@@ -2,7 +2,7 @@
 title: "Policy Design Manager, Conventional Weapons"
 employer: "Anthropic"
 job_id: "recRjx9fGjyC5MLn2"
-last_updated: "2026-09-09T11:19:55.662862Z"
+last_updated: "2026-09-10T05:32:11.420374Z"
 posted_at: "2026-08-27T00:00:00Z"
 status: ready
 apply_url: "https://job-boards.greenhouse.io/anthropic/jobs/5392184008"
@@ -34,4 +34,4 @@ areas:
 <p class="apply-cta"><a href="https://job-boards.greenhouse.io/anthropic/jobs/5392184008">Apply →</a></p>
 
 ---
-*Posted 2026-08-27 · Listing synced 2026-09-09 · 80k job ID `recRjx9fGjyC5MLn2`*
+*Posted 2026-08-27 · Listing synced 2026-09-10 · 80k job ID `recRjx9fGjyC5MLn2`*

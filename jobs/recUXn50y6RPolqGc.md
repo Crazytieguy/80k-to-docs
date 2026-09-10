@@ -2,7 +2,7 @@
 title: "Head of Special Projects"
 employer: "Kairos"
 job_id: "recUXn50y6RPolqGc"
-last_updated: "2026-09-09T11:19:39.747625Z"
+last_updated: "2026-09-10T05:31:55.599357Z"
 posted_at: "2026-09-03T00:03:00Z"
 status: ready
 apply_url: "https://kairos-project.org/careers/head-of-special-projects"
@@ -34,4 +34,4 @@ areas:
 <p class="apply-cta"><a href="https://kairos-project.org/careers/head-of-special-projects">Apply →</a></p>
 
 ---
-*Posted 2026-09-03 · Listing synced 2026-09-09 · 80k job ID `recUXn50y6RPolqGc`*
+*Posted 2026-09-03 · Listing synced 2026-09-10 · 80k job ID `recUXn50y6RPolqGc`*

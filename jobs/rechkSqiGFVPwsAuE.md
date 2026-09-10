@@ -2,7 +2,7 @@
 title: "IT Manager"
 employer: "SecureBio"
 job_id: "rechkSqiGFVPwsAuE"
-last_updated: "2026-09-09T11:20:18.740753Z"
+last_updated: "2026-09-10T05:32:34.743599Z"
 posted_at: "2026-08-10T00:05:00Z"
 status: ready
 apply_url: "https://securebio.org/careers/it-manager-2026"
@@ -34,4 +34,4 @@ areas:
 <p class="apply-cta"><a href="https://securebio.org/careers/it-manager-2026">Apply →</a></p>
 
 ---
-*Posted 2026-08-10 · Listing synced 2026-09-09 · 80k job ID `rechkSqiGFVPwsAuE`*
+*Posted 2026-08-10 · Listing synced 2026-09-10 · 80k job ID `rechkSqiGFVPwsAuE`*

@@ -2,7 +2,7 @@
 title: "Policy Analyst"
 employer: "CivAI"
 job_id: "recXTlVwobGfTMz9k"
-last_updated: "2026-09-09T11:19:49.372256Z"
+last_updated: "2026-09-10T05:32:05.010161Z"
 posted_at: "2026-08-31T00:04:49Z"
 status: ready
 apply_url: "https://civai.org/jobs/policy-analyst"
@@ -34,4 +34,4 @@ areas:
 <p class="apply-cta"><a href="https://civai.org/jobs/policy-analyst">Apply →</a></p>
 
 ---
-*Posted 2026-08-31 · Listing synced 2026-09-09 · 80k job ID `recXTlVwobGfTMz9k`*
+*Posted 2026-08-31 · Listing synced 2026-09-10 · 80k job ID `recXTlVwobGfTMz9k`*

@@ -2,7 +2,7 @@
 title: "Director, Nolan Center on Strategic Weapons"
 employer: "Council on Strategic Risks"
 job_id: "recy7a5Te6HUFQq0s"
-last_updated: "2026-09-09T11:19:27.490213Z"
+last_updated: "2026-09-10T05:31:45.652123Z"
 posted_at: "2026-09-09T00:01:00Z"
 status: ready
 apply_url: "https://council-on-strategic-risks.breezy.hr/p/91b75f2637bf-director-nolan-center-on-strategic-weapons"
@@ -35,4 +35,4 @@ areas:
 <p class="apply-cta"><a href="https://council-on-strategic-risks.breezy.hr/p/91b75f2637bf-director-nolan-center-on-strategic-weapons">Apply →</a></p>
 
 ---
-*Posted 2026-09-09 · Listing synced 2026-09-09 · 80k job ID `recy7a5Te6HUFQq0s`*
+*Posted 2026-09-09 · Listing synced 2026-09-10 · 80k job ID `recy7a5Te6HUFQq0s`*

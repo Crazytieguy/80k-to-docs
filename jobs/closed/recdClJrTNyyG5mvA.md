@@ -4,24 +4,20 @@ employer: "Tsinghua University, Schwarzman College"
 job_id: "recdClJrTNyyG5mvA"
 last_updated: "2026-09-09T11:20:57.041123Z"
 posted_at: "2022-01-08T00:00:00Z"
-status: ready
+status: closed
+closed_at: "2026-09-10"
 apply_url: "https://www.schwarzmanscholars.org/"
 areas:
   - "Career development: Policy & government"
 ---
 
+> ⚠️ **CLOSED on 2026-09-10** — this job is no longer listed on the 80,000 Hours board. Archived snapshot below.
+
 # Schwarzman Scholars Program
 
-**[Tsinghua University, Schwarzman College](https://en.sc.tsinghua.edu.cn/)**
+**Tsinghua University, Schwarzman College**
 
-<dl class="job-meta">
-<dt>Location</dt><dd>Beijing, China, China, Asia</dd>
-<dt>Role type</dt><dd>Full-time</dd>
-<dt>Experience</dt><dd>Entry-level</dd>
-<dt>Degree</dt><dd>Undergraduate degree or less</dd>
-</dl>
-
-**Areas & skills:** Career development: Policy & government, Policy
+**Areas & skills:** Career development: Policy & government
 
 ## Summary
 - This is a one-year scholarship program preparing global leaders to understand China's role in 21st-century international affairs.

@@ -2,7 +2,7 @@
 title: "Digital Campaigns Manager"
 employer: "Humans in Control"
 job_id: "recuy7mGqOYDSxfCQ"
-last_updated: "2026-09-09T11:20:04.991935Z"
+last_updated: "2026-09-10T05:32:20.090840Z"
 posted_at: "2026-08-24T00:02:00Z"
 status: ready
 apply_url: "https://humansincontrol.org/careers/digital-campaigns-manager"
@@ -34,4 +34,4 @@ areas:
 <p class="apply-cta"><a href="https://humansincontrol.org/careers/digital-campaigns-manager">Apply →</a></p>
 
 ---
-*Posted 2026-08-24 · Listing synced 2026-09-09 · 80k job ID `recuy7mGqOYDSxfCQ`*
+*Posted 2026-08-24 · Listing synced 2026-09-10 · 80k job ID `recuy7mGqOYDSxfCQ`*

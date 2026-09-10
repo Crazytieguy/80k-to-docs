@@ -2,7 +2,7 @@
 title: "Writer and Editor"
 employer: "Epoch AI"
 job_id: "reciZn8foIVJKOknv"
-last_updated: "2026-09-09T11:19:38.775445Z"
+last_updated: "2026-09-10T05:31:54.749414Z"
 posted_at: "2026-09-03T00:04:50Z"
 status: ready
 apply_url: "https://jobs.lever.co/epoch-ai/55040488-07ec-42c0-b33d-50d383f54935"
@@ -34,4 +34,4 @@ areas:
 <p class="apply-cta"><a href="https://jobs.lever.co/epoch-ai/55040488-07ec-42c0-b33d-50d383f54935">Apply →</a></p>
 
 ---
-*Posted 2026-09-03 · Listing synced 2026-09-09 · 80k job ID `reciZn8foIVJKOknv`*
+*Posted 2026-09-03 · Listing synced 2026-09-10 · 80k job ID `reciZn8foIVJKOknv`*

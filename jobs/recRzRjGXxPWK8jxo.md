@@ -2,8 +2,8 @@
 title: "Senior Research Engineer"
 employer: "FAR AI"
 job_id: "recRzRjGXxPWK8jxo"
-last_updated: "2026-09-09T11:20:45.701133Z"
-posted_at: "2026-06-22T00:00:00Z"
+last_updated: "2026-09-10T05:33:33.329477Z"
+posted_at: "2022-01-05T00:00:00Z"
 status: ready
 apply_url: "https://jobs.ashbyhq.com/far.ai/4f6fece8-5ed9-41f4-aed8-902d52dc42ef?embed=js"
 areas:
@@ -34,4 +34,4 @@ areas:
 <p class="apply-cta"><a href="https://jobs.ashbyhq.com/far.ai/4f6fece8-5ed9-41f4-aed8-902d52dc42ef?embed=js">Apply →</a></p>
 
 ---
-*Posted 2026-06-22 · Listing synced 2026-09-09 · 80k job ID `recRzRjGXxPWK8jxo`*
+*Posted 2022-01-05 · Listing synced 2026-09-10 · 80k job ID `recRzRjGXxPWK8jxo`*

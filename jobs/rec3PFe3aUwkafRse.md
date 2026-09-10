@@ -2,7 +2,7 @@
 title: "Senior Researcher / Postdoc, AI Safety, Ethics, and Agentic Systems"
 employer: "German Research Center for Artificial Intelligence"
 job_id: "rec3PFe3aUwkafRse"
-last_updated: "2026-09-09T11:19:24.693113Z"
+last_updated: "2026-09-10T05:31:44.978055Z"
 posted_at: "2026-09-09T00:02:00Z"
 status: ready
 apply_url: "https://jobs.dfki.de/en/vacancy/senior-researcher-postdoc-m-w-d-x-ai-safety-ethics-and-agentic-systems-618587.html"
@@ -33,4 +33,4 @@ areas:
 <p class="apply-cta"><a href="https://jobs.dfki.de/en/vacancy/senior-researcher-postdoc-m-w-d-x-ai-safety-ethics-and-agentic-systems-618587.html">Apply →</a></p>
 
 ---
-*Posted 2026-09-09 · Listing synced 2026-09-09 · 80k job ID `rec3PFe3aUwkafRse`*
+*Posted 2026-09-09 · Listing synced 2026-09-10 · 80k job ID `rec3PFe3aUwkafRse`*

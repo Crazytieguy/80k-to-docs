@@ -2,7 +2,7 @@
 title: "Supervisory Business and Industry Specialist"
 employer: "US Government, Bureau of Industry and Security"
 job_id: "recmMHAUQlwF7CtSk"
-last_updated: "2026-09-09T11:19:30.470104Z"
+last_updated: "2026-09-10T05:31:46.521675Z"
 posted_at: "2026-09-09T00:00:00Z"
 status: ready
 apply_url: "https://www.usajobs.gov/job/883826900"
@@ -35,4 +35,4 @@ areas:
 <p class="apply-cta"><a href="https://www.usajobs.gov/job/883826900">Apply →</a></p>
 
 ---
-*Posted 2026-09-09 · Listing synced 2026-09-09 · 80k job ID `recmMHAUQlwF7CtSk`*
+*Posted 2026-09-09 · Listing synced 2026-09-10 · 80k job ID `recmMHAUQlwF7CtSk`*

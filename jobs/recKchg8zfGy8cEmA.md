@@ -2,7 +2,7 @@
 title: "Research Fellowships"
 employer: "Leverhulme Trust"
 job_id: "recKchg8zfGy8cEmA"
-last_updated: "2026-09-09T11:21:42.409425Z"
+last_updated: "2026-09-10T05:33:57.893513Z"
 posted_at: "2022-01-01T00:00:00Z"
 status: ready
 apply_url: "https://www.leverhulme.ac.uk/research-fellowships"
@@ -19,7 +19,7 @@ areas:
 <dt>Role type</dt><dd>Fellowship</dd>
 <dt>Experience</dt><dd>Mid (5-9 years experience)</dd>
 <dt>Degree</dt><dd>Undergraduate degree or less</dd>
-<dt>Salary</dt><dd>$94,777</dd>
+<dt>Salary</dt><dd>$94,880</dd>
 </dl>
 
 **Areas & skills:** Career development: Technical, Research
@@ -34,4 +34,4 @@ areas:
 <p class="apply-cta"><a href="https://www.leverhulme.ac.uk/research-fellowships">Apply →</a></p>
 
 ---
-*Posted 2022-01-01 · Listing synced 2026-09-09 · 80k job ID `recKchg8zfGy8cEmA`*
+*Posted 2022-01-01 · Listing synced 2026-09-10 · 80k job ID `recKchg8zfGy8cEmA`*
