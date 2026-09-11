@@ -2,7 +2,7 @@
 title: "Business Correspondent, Artificial Intelligence and Emerging Technologies"
 employer: "The New York Times"
 job_id: "recQGmduDlRPfJN9p"
-last_updated: "2026-09-10T05:32:10.763230Z"
+last_updated: "2026-09-11T10:55:06.900090Z"
 posted_at: "2026-08-27T00:04:00Z"
 status: ready
 apply_url: "https://job-boards.greenhouse.io/thenewyorktimes/jobs/4724410005"
@@ -34,4 +34,4 @@ areas:
 <p class="apply-cta"><a href="https://job-boards.greenhouse.io/thenewyorktimes/jobs/4724410005">Apply →</a></p>
 
 ---
-*Posted 2026-08-27 · Listing synced 2026-09-10 · 80k job ID `recQGmduDlRPfJN9p`*
+*Posted 2026-08-27 · Listing synced 2026-09-11 · 80k job ID `recQGmduDlRPfJN9p`*

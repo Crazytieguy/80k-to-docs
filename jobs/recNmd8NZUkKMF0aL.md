@@ -2,7 +2,7 @@
 title: "Litigation Attorney"
 employer: "Protect Democracy"
 job_id: "recNmd8NZUkKMF0aL"
-last_updated: "2026-09-10T05:31:48.822441Z"
+last_updated: "2026-09-11T10:54:45.186095Z"
 posted_at: "2026-09-08T00:00:00Z"
 status: ready
 apply_url: "https://protectdemocracy.recruitee.com/o/litigation-attorney-contract-2026"
@@ -34,4 +34,4 @@ areas:
 <p class="apply-cta"><a href="https://protectdemocracy.recruitee.com/o/litigation-attorney-contract-2026">Apply →</a></p>
 
 ---
-*Posted 2026-09-08 · Listing synced 2026-09-10 · 80k job ID `recNmd8NZUkKMF0aL`*
+*Posted 2026-09-08 · Listing synced 2026-09-11 · 80k job ID `recNmd8NZUkKMF0aL`*

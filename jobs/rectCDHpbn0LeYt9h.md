@@ -2,7 +2,7 @@
 title: "Internship, Corporate Strategy (Summer 2027)"
 employer: "Blue Origin"
 job_id: "rectCDHpbn0LeYt9h"
-last_updated: "2026-09-10T05:31:48.064255Z"
+last_updated: "2026-09-11T10:54:44.381372Z"
 posted_at: "2026-09-08T00:00:00Z"
 status: ready
 apply_url: "https://blueorigin.wd5.myworkdayjobs.com/BlueOrigin/job/Arlington-VA/Summer-2027-Corporate-Strategy-Intern---Graduate_R71501"
@@ -34,4 +34,4 @@ areas:
 <p class="apply-cta"><a href="https://blueorigin.wd5.myworkdayjobs.com/BlueOrigin/job/Arlington-VA/Summer-2027-Corporate-Strategy-Intern---Graduate_R71501">Apply →</a></p>
 
 ---
-*Posted 2026-09-08 · Listing synced 2026-09-10 · 80k job ID `rectCDHpbn0LeYt9h`*
+*Posted 2026-09-08 · Listing synced 2026-09-11 · 80k job ID `rectCDHpbn0LeYt9h`*

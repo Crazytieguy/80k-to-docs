@@ -2,7 +2,7 @@
 title: "Volunteer, General Application"
 employer: "Alliance to Feed the Earth in Disasters"
 job_id: "recr29mRC4sfU8MuE"
-last_updated: "2026-09-10T05:33:55.311861Z"
+last_updated: "2026-09-11T10:56:50.292842Z"
 posted_at: "2022-01-01T00:00:00Z"
 status: ready
 apply_url: "https://allfed.info/join-us?view=article&id=309&catid=39"
@@ -33,4 +33,4 @@ areas:
 <p class="apply-cta"><a href="https://allfed.info/join-us?view=article&amp;id=309&amp;catid=39">Apply →</a></p>
 
 ---
-*Posted 2022-01-01 · Listing synced 2026-09-10 · 80k job ID `recr29mRC4sfU8MuE`*
+*Posted 2022-01-01 · Listing synced 2026-09-11 · 80k job ID `recr29mRC4sfU8MuE`*

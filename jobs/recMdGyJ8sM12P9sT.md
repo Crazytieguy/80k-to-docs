@@ -2,7 +2,7 @@
 title: "Fellowship, Chemical, Biological, Radiological, and Nuclear Countermeasures"
 employer: "US Government, Department of Health and Human Services"
 job_id: "recMdGyJ8sM12P9sT"
-last_updated: "2026-09-10T05:31:51.766959Z"
+last_updated: "2026-09-11T10:54:48.141191Z"
 posted_at: "2026-09-07T00:00:00Z"
 status: ready
 apply_url: "https://www.zintellect.com/Opportunity/Details/HHS-BARDA-2026-0005"
@@ -31,4 +31,4 @@ areas:
 <p class="apply-cta"><a href="https://www.zintellect.com/Opportunity/Details/HHS-BARDA-2026-0005">Apply →</a></p>
 
 ---
-*Posted 2026-09-07 · Listing synced 2026-09-10 · 80k job ID `recMdGyJ8sM12P9sT`*
+*Posted 2026-09-07 · Listing synced 2026-09-11 · 80k job ID `recMdGyJ8sM12P9sT`*

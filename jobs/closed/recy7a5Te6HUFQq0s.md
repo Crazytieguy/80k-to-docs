@@ -4,26 +4,21 @@ employer: "Council on Strategic Risks"
 job_id: "recy7a5Te6HUFQq0s"
 last_updated: "2026-09-10T05:31:45.652123Z"
 posted_at: "2026-09-09T00:01:00Z"
-status: ready
+status: closed
+closed_at: "2026-09-11"
 apply_url: "https://council-on-strategic-risks.breezy.hr/p/91b75f2637bf-director-nolan-center-on-strategic-weapons"
 areas:
   - "Biosecurity & pandemic preparedness"
   - "Nuclear security"
 ---
 
+> ⚠️ **CLOSED on 2026-09-11** — this job is no longer listed on the 80,000 Hours board. Archived snapshot below.
+
 # Director, Nolan Center on Strategic Weapons
 
-**[Council on Strategic Risks](https://councilonstrategicrisks.org/)**
+**Council on Strategic Risks**
 
-<dl class="job-meta">
-<dt>Location</dt><dd>Washington, DC metro area, USA</dd>
-<dt>Role type</dt><dd>Full-time</dd>
-<dt>Experience</dt><dd>Senior (10+ years experience)</dd>
-<dt>Degree</dt><dd>Undergraduate degree or less</dd>
-<dt>Salary</dt><dd>$195,000 – $240,000</dd>
-</dl>
-
-**Areas & skills:** Biosecurity & pandemic preparedness, Nuclear security, Policy, Management, Strategy
+**Areas & skills:** Biosecurity & pandemic preparedness, Nuclear security
 
 ## Summary
 - In this role, you'll lead CSR's Nolan Center to address threat reduction related to biological, nuclear, and chemical weapons.

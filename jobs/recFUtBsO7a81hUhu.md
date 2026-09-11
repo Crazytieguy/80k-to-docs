@@ -2,7 +2,7 @@
 title: "Hiring Specialist"
 employer: "GovAI"
 job_id: "recFUtBsO7a81hUhu"
-last_updated: "2026-09-10T05:31:50.343094Z"
+last_updated: "2026-09-11T10:54:46.967465Z"
 posted_at: "2026-09-07T00:04:59Z"
 status: ready
 apply_url: "https://www.governance.ai/post/hiring-specialist-2"
@@ -19,7 +19,7 @@ areas:
 <dt>Role type</dt><dd>Full-time</dd>
 <dt>Experience</dt><dd>Junior (1-4 years experience)</dd>
 <dt>Degree</dt><dd>Undergraduate degree or less</dd>
-<dt>Salary</dt><dd>$100,302 – $123,344</dd>
+<dt>Salary</dt><dd>$99,938 – $122,896</dd>
 </dl>
 
 **Areas & skills:** AI safety & policy, Operations
@@ -34,4 +34,4 @@ areas:
 <p class="apply-cta"><a href="https://www.governance.ai/post/hiring-specialist-2">Apply →</a></p>
 
 ---
-*Posted 2026-09-07 · Listing synced 2026-09-10 · 80k job ID `recFUtBsO7a81hUhu`*
+*Posted 2026-09-07 · Listing synced 2026-09-11 · 80k job ID `recFUtBsO7a81hUhu`*

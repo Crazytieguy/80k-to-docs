@@ -2,7 +2,7 @@
 title: "Associate Data Scientist"
 employer: "Carnegie Mellon University, Software Engineering Institute"
 job_id: "recG49UEBjfVvNUfA"
-last_updated: "2026-09-10T05:33:41.712145Z"
+last_updated: "2026-09-11T10:56:37.791070Z"
 posted_at: "2022-01-03T00:00:00Z"
 status: ready
 apply_url: "https://cmu.wd5.myworkdayjobs.com/en-US/SEI/job/Pittsburgh-PA/Associate-Data-Scientist_2024499"
@@ -33,4 +33,4 @@ areas:
 <p class="apply-cta"><a href="https://cmu.wd5.myworkdayjobs.com/en-US/SEI/job/Pittsburgh-PA/Associate-Data-Scientist_2024499">Apply →</a></p>
 
 ---
-*Posted 2022-01-03 · Listing synced 2026-09-10 · 80k job ID `recG49UEBjfVvNUfA`*
+*Posted 2022-01-03 · Listing synced 2026-09-11 · 80k job ID `recG49UEBjfVvNUfA`*

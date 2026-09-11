@@ -2,7 +2,7 @@
 title: "Volunteer"
 employer: "Asia Accountability Initiative"
 job_id: "recFOEuaNeScOzFjj"
-last_updated: "2026-09-10T05:33:44.868511Z"
+last_updated: "2026-09-11T10:56:40.829750Z"
 posted_at: "2022-01-02T00:00:00Z"
 status: ready
 apply_url: "https://asiaaccountabilityinitiative.sharepoint.com/:w:/s/AAIExec/EQkdPkRzWO1Cq-3UB477VroBFNqcBe1QTvS3joP4sVcc9A?e=d38Lag"
@@ -33,4 +33,4 @@ areas:
 <p class="apply-cta"><a href="https://asiaaccountabilityinitiative.sharepoint.com/:w:/s/AAIExec/EQkdPkRzWO1Cq-3UB477VroBFNqcBe1QTvS3joP4sVcc9A?e=d38Lag">Apply →</a></p>
 
 ---
-*Posted 2022-01-02 · Listing synced 2026-09-10 · 80k job ID `recFOEuaNeScOzFjj`*
+*Posted 2022-01-02 · Listing synced 2026-09-11 · 80k job ID `recFOEuaNeScOzFjj`*

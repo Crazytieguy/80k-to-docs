@@ -1,8 +1,8 @@
 ---
 title: "Organizing Director"
-employer: "New Movement Organization for AI Regulation"
+employer: "Irreplaceable"
 job_id: "recnMR2FOxExKqD6D"
-last_updated: "2026-09-10T05:32:30.540201Z"
+last_updated: "2026-09-11T10:55:24.645134Z"
 posted_at: "2026-08-17T00:00:00Z"
 status: ready
 apply_url: "https://tally.so/r/GxVV2o"
@@ -12,7 +12,7 @@ areas:
 
 # Organizing Director
 
-**[New Movement Organization for AI Regulation](https://tally.so/r/81YD8z)**
+**[Irreplaceable](https://irreplaceable.org/)**
 
 <dl class="job-meta">
 <dt>Location</dt><dd>San Francisco Bay Area, New York, NY, Remote, USA, USA</dd>
@@ -34,4 +34,4 @@ areas:
 <p class="apply-cta"><a href="https://tally.so/r/GxVV2o">Apply →</a></p>
 
 ---
-*Posted 2026-08-17 · Listing synced 2026-09-10 · 80k job ID `recnMR2FOxExKqD6D`*
+*Posted 2026-08-17 · Listing synced 2026-09-11 · 80k job ID `recnMR2FOxExKqD6D`*

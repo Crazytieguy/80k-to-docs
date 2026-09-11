@@ -2,7 +2,7 @@
 title: "Program Manager, Canadian AI Safety Institute"
 employer: "Canadian Institute for Advanced Research"
 job_id: "recEZQfgTYGKFHGAe"
-last_updated: "2026-09-10T05:31:52.828253Z"
+last_updated: "2026-09-11T10:54:49.041290Z"
 posted_at: "2026-09-04T00:01:00Z"
 status: ready
 apply_url: "https://cifar.bamboohr.com/careers/107"
@@ -34,4 +34,4 @@ areas:
 <p class="apply-cta"><a href="https://cifar.bamboohr.com/careers/107">Apply →</a></p>
 
 ---
-*Posted 2026-09-04 · Listing synced 2026-09-10 · 80k job ID `recEZQfgTYGKFHGAe`*
+*Posted 2026-09-04 · Listing synced 2026-09-11 · 80k job ID `recEZQfgTYGKFHGAe`*

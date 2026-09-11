@@ -4,24 +4,20 @@ employer: "The Deep View"
 job_id: "recywkt9PZkgGCgoI"
 last_updated: "2026-09-10T05:33:38.959800Z"
 posted_at: "2022-01-05T00:00:00Z"
-status: ready
+status: closed
+closed_at: "2026-09-11"
 apply_url: "https://jobs.ashbyhq.com/tdv/4aa51878-d68a-4b09-a007-9c311ccf3271?trk=feed_main-feed-card_feed-article-content"
 areas:
   - "AI safety & policy"
 ---
 
+> ⚠️ **CLOSED on 2026-09-11** — this job is no longer listed on the 80,000 Hours board. Archived snapshot below.
+
 # Senior Writer
 
-**[The Deep View](https://www.thedeepview.co/)**
+**The Deep View**
 
-<dl class="job-meta">
-<dt>Location</dt><dd>San Francisco Bay Area, New York, NY, Los Angeles, CA, USA</dd>
-<dt>Role type</dt><dd>Full-time</dd>
-<dt>Experience</dt><dd>Mid (5-9 years experience)</dd>
-<dt>Degree</dt><dd>Undergraduate degree or less</dd>
-</dl>
-
-**Areas & skills:** AI safety & policy, Other
+**Areas & skills:** AI safety & policy
 
 ## Summary
 - In this role, you'll track AI's biggest developments, curate must-know stories, and break down what matters most for a leading AI media brand.

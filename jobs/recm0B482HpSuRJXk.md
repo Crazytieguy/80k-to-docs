@@ -2,7 +2,7 @@
 title: "Executive Assistant, Berkeley"
 employer: "MATS Research"
 job_id: "recm0B482HpSuRJXk"
-last_updated: "2026-09-10T05:31:50.062574Z"
+last_updated: "2026-09-11T10:54:46.628842Z"
 posted_at: "2026-09-07T00:05:00Z"
 status: ready
 apply_url: "https://www.matsprogram.org/careers/executive-assistant-berkeley"
@@ -34,4 +34,4 @@ areas:
 <p class="apply-cta"><a href="https://www.matsprogram.org/careers/executive-assistant-berkeley">Apply →</a></p>
 
 ---
-*Posted 2026-09-07 · Listing synced 2026-09-10 · 80k job ID `recm0B482HpSuRJXk`*
+*Posted 2026-09-07 · Listing synced 2026-09-11 · 80k job ID `recm0B482HpSuRJXk`*

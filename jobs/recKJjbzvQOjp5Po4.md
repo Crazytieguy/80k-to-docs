@@ -1,8 +1,8 @@
 ---
 title: "Senior Digital Manager"
-employer: "New Movement Organization for AI Regulation"
+employer: "Irreplaceable"
 job_id: "recKJjbzvQOjp5Po4"
-last_updated: "2026-09-10T05:32:30.370091Z"
+last_updated: "2026-09-11T10:55:24.491638Z"
 posted_at: "2026-08-17T00:00:00Z"
 status: ready
 apply_url: "https://tally.so/r/kd4jyZ"
@@ -12,7 +12,7 @@ areas:
 
 # Senior Digital Manager
 
-**[New Movement Organization for AI Regulation](https://tally.so/r/81YD8z)**
+**[Irreplaceable](https://irreplaceable.org/)**
 
 <dl class="job-meta">
 <dt>Location</dt><dd>New York, NY, Remote, USA, USA</dd>
@@ -34,4 +34,4 @@ areas:
 <p class="apply-cta"><a href="https://tally.so/r/kd4jyZ">Apply →</a></p>
 
 ---
-*Posted 2026-08-17 · Listing synced 2026-09-10 · 80k job ID `recKJjbzvQOjp5Po4`*
+*Posted 2026-08-17 · Listing synced 2026-09-11 · 80k job ID `recKJjbzvQOjp5Po4`*

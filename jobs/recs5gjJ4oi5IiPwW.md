@@ -2,7 +2,7 @@
 title: "Boren Scholarships and Fellowships"
 employer: "US Government, Department of Defense"
 job_id: "recs5gjJ4oi5IiPwW"
-last_updated: "2026-09-10T05:31:51.647609Z"
+last_updated: "2026-09-11T10:54:48.036251Z"
 posted_at: "2026-09-07T00:00:00Z"
 status: ready
 apply_url: "https://www.borenawards.org/?mc_cid=317720c102"
@@ -33,4 +33,4 @@ areas:
 <p class="apply-cta"><a href="https://www.borenawards.org/?mc_cid=317720c102">Apply →</a></p>
 
 ---
-*Posted 2026-09-07 · Listing synced 2026-09-10 · 80k job ID `recs5gjJ4oi5IiPwW`*
+*Posted 2026-09-07 · Listing synced 2026-09-11 · 80k job ID `recs5gjJ4oi5IiPwW`*

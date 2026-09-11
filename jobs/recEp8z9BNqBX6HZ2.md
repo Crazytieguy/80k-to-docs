@@ -2,7 +2,7 @@
 title: "Research Project Manager, AI / Biology, Operations, Center on AI, Security, and Technology"
 employer: "RAND Corporation"
 job_id: "recEp8z9BNqBX6HZ2"
-last_updated: "2026-09-10T05:31:50.651068Z"
+last_updated: "2026-09-11T10:54:47.303660Z"
 posted_at: "2026-09-07T00:04:55Z"
 status: ready
 apply_url: "https://rand.wd5.myworkdayjobs.com/en-US/External_Career_Site/job/Washington-DC-DC-Metro-Area/AI-Bio-Research-Project-Manager--Operations--Term-_R3615"
@@ -35,4 +35,4 @@ areas:
 <p class="apply-cta"><a href="https://rand.wd5.myworkdayjobs.com/en-US/External_Career_Site/job/Washington-DC-DC-Metro-Area/AI-Bio-Research-Project-Manager--Operations--Term-_R3615">Apply →</a></p>
 
 ---
-*Posted 2026-09-07 · Listing synced 2026-09-10 · 80k job ID `recEp8z9BNqBX6HZ2`*
+*Posted 2026-09-07 · Listing synced 2026-09-11 · 80k job ID `recEp8z9BNqBX6HZ2`*

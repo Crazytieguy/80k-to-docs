@@ -2,7 +2,7 @@
 title: "Senior Supply Chain Lead"
 employer: "Coalition for Epidemic Preparedness Innovations"
 job_id: "rec1fMGKMfTNnBAA3"
-last_updated: "2026-09-10T05:32:02.188774Z"
+last_updated: "2026-09-11T10:54:58.218827Z"
 posted_at: "2026-09-01T00:00:00Z"
 status: ready
 apply_url: "https://cepi.my.salesforce-sites.com/careers/xcdrecruit__PositionDetails?id=a43P300000HWTwLIAX"
@@ -33,4 +33,4 @@ areas:
 <p class="apply-cta"><a href="https://cepi.my.salesforce-sites.com/careers/xcdrecruit__PositionDetails?id=a43P300000HWTwLIAX">Apply →</a></p>
 
 ---
-*Posted 2026-09-01 · Listing synced 2026-09-10 · 80k job ID `rec1fMGKMfTNnBAA3`*
+*Posted 2026-09-01 · Listing synced 2026-09-11 · 80k job ID `rec1fMGKMfTNnBAA3`*

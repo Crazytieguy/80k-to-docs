@@ -2,7 +2,7 @@
 title: "Program Coordinator, Main Program"
 employer: "MATS Research"
 job_id: "recZOgWOjv7nIslYZ"
-last_updated: "2026-09-10T05:31:49.770743Z"
+last_updated: "2026-09-11T10:54:46.265273Z"
 posted_at: "2026-09-07T00:05:00Z"
 status: ready
 apply_url: "https://www.matsprogram.org/careers/program-crd-mn-prg"
@@ -33,4 +33,4 @@ areas:
 <p class="apply-cta"><a href="https://www.matsprogram.org/careers/program-crd-mn-prg">Apply →</a></p>
 
 ---
-*Posted 2026-09-07 · Listing synced 2026-09-10 · 80k job ID `recZOgWOjv7nIslYZ`*
+*Posted 2026-09-07 · Listing synced 2026-09-11 · 80k job ID `recZOgWOjv7nIslYZ`*

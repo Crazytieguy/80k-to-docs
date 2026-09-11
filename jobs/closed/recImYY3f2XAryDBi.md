@@ -4,24 +4,20 @@ employer: "Information Technology and Innovation Foundation"
 job_id: "recImYY3f2XAryDBi"
 last_updated: "2026-09-10T05:32:14.755533Z"
 posted_at: "2026-08-26T00:00:00Z"
-status: ready
+status: closed
+closed_at: "2026-09-11"
 apply_url: "https://itif.org/jobs/?gnk=job&gni=8a7883ac9f8b941b019fa3e49ca91b08&lang=en"
 areas:
   - "Career development: Policy & government"
 ---
 
+> ⚠️ **CLOSED on 2026-09-11** — this job is no longer listed on the 80,000 Hours board. Archived snapshot below.
+
 # Policy Fellow, Global Innovation
 
-**[Information Technology and Innovation Foundation](https://itif.org/)**
+**Information Technology and Innovation Foundation**
 
-<dl class="job-meta">
-<dt>Location</dt><dd>Washington, DC metro area, USA</dd>
-<dt>Role type</dt><dd>Fellowship</dd>
-<dt>Experience</dt><dd>Entry-level</dd>
-<dt>Degree</dt><dd>Undergraduate degree or less</dd>
-</dl>
-
-**Areas & skills:** Career development: Policy & government, Policy
+**Areas & skills:** Career development: Policy & government
 
 ## Summary
 - In this role, you'll conduct research on global innovation and trade policy, supporting the Global Trade and Innovation Policy Alliance.

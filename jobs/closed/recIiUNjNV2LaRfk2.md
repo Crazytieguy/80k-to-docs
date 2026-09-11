@@ -4,25 +4,20 @@ employer: "10a Labs"
 job_id: "recIiUNjNV2LaRfk2"
 last_updated: "2026-09-10T05:32:01.658284Z"
 posted_at: "2026-09-01T00:03:00Z"
-status: ready
+status: closed
+closed_at: "2026-09-11"
 apply_url: "https://job-boards.greenhouse.io/10alabs/jobs/4387699009"
 areas:
   - "AI safety & policy"
 ---
 
+> ⚠️ **CLOSED on 2026-09-11** — this job is no longer listed on the 80,000 Hours board. Archived snapshot below.
+
 # Biosecurity and AI Safety Fellowship
 
-**[10a Labs](https://10alabs.com/)**
+**10a Labs**
 
-<dl class="job-meta">
-<dt>Location</dt><dd>Remote, USA, USA</dd>
-<dt>Role type</dt><dd>Fellowship</dd>
-<dt>Experience</dt><dd>Junior (1-4 years experience)</dd>
-<dt>Degree</dt><dd>Undergraduate degree or less</dd>
-<dt>Salary</dt><dd>$166,400 – $249,600</dd>
-</dl>
-
-**Areas & skills:** AI safety & policy, Research
+**Areas & skills:** AI safety & policy
 
 ## Summary
 - In this short fellowship, you'll review and label biological and biotechnology content against policies to support AI safety monitoring systems.

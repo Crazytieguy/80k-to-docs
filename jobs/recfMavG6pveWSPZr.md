@@ -2,7 +2,7 @@
 title: "Venture Science Doctorate"
 employer: "Deep Science Ventures"
 job_id: "recfMavG6pveWSPZr"
-last_updated: "2026-09-10T05:33:45.994143Z"
+last_updated: "2026-09-11T10:56:41.933771Z"
 posted_at: "2022-01-02T00:00:00Z"
 status: ready
 apply_url: "https://apply.workable.com/deep-science-ventures/j/31F88646EF/"
@@ -19,7 +19,7 @@ areas:
 <dt>Role type</dt><dd>Full-time</dd>
 <dt>Experience</dt><dd>Entry-level</dd>
 <dt>Degree</dt><dd>Undergraduate degree or less</dd>
-<dt>Salary</dt><dd>$40,663</dd>
+<dt>Salary</dt><dd>$40,515</dd>
 </dl>
 
 **Areas & skills:** Career development: Technical, Research, Strategy
@@ -34,4 +34,4 @@ areas:
 <p class="apply-cta"><a href="https://apply.workable.com/deep-science-ventures/j/31F88646EF/">Apply →</a></p>
 
 ---
-*Posted 2022-01-02 · Listing synced 2026-09-10 · 80k job ID `recfMavG6pveWSPZr`*
+*Posted 2022-01-02 · Listing synced 2026-09-11 · 80k job ID `recfMavG6pveWSPZr`*

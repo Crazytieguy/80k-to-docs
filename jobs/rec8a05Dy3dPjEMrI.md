@@ -2,7 +2,7 @@
 title: "Internship, Cybersecurity and Information Security"
 employer: "MITRE"
 job_id: "rec8a05Dy3dPjEMrI"
-last_updated: "2026-09-10T05:32:14.878595Z"
+last_updated: "2026-09-11T10:55:10.897553Z"
 posted_at: "2026-08-26T00:00:00Z"
 status: ready
 apply_url: "https://careers.mitre.org/us/en/job/R117314/Internships-in-Cybersecurity-and-Information-Security"
@@ -34,4 +34,4 @@ areas:
 <p class="apply-cta"><a href="https://careers.mitre.org/us/en/job/R117314/Internships-in-Cybersecurity-and-Information-Security">Apply →</a></p>
 
 ---
-*Posted 2026-08-26 · Listing synced 2026-09-10 · 80k job ID `rec8a05Dy3dPjEMrI`*
+*Posted 2026-08-26 · Listing synced 2026-09-11 · 80k job ID `rec8a05Dy3dPjEMrI`*

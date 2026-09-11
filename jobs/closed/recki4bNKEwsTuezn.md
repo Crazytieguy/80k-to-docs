@@ -4,24 +4,20 @@ employer: "Exponential View"
 job_id: "recki4bNKEwsTuezn"
 last_updated: "2026-09-10T05:32:08.798234Z"
 posted_at: "2026-08-28T00:00:00Z"
-status: ready
+status: closed
+closed_at: "2026-09-11"
 apply_url: "https://www.exponentialview.co/p/ai-economy-research-fellowship-2026"
 areas:
   - "AI safety & policy"
 ---
 
+> ⚠️ **CLOSED on 2026-09-11** — this job is no longer listed on the 80,000 Hours board. Archived snapshot below.
+
 # Research Fellow, AI Economy
 
-**[Exponential View](https://www.exponentialview.co/)**
+**Exponential View**
 
-<dl class="job-meta">
-<dt>Location</dt><dd>London, UK, UK</dd>
-<dt>Role type</dt><dd>Fellowship</dd>
-<dt>Experience</dt><dd>Entry-level</dd>
-<dt>Degree</dt><dd>Master's degree</dd>
-</dl>
-
-**Areas & skills:** AI safety & policy, Research
+**Areas & skills:** AI safety & policy
 
 ## Summary
 - In this role, you'll investigate how AI changes economic value, work and markets, translating frontier thinking into practical insights.

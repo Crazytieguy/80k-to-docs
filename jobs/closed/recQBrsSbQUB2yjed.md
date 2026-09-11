@@ -4,25 +4,20 @@ employer: "Center for Global Development"
 job_id: "recQBrsSbQUB2yjed"
 last_updated: "2026-09-10T05:32:02.072627Z"
 posted_at: "2026-09-01T00:00:00Z"
-status: ready
+status: closed
+closed_at: "2026-09-11"
 apply_url: "https://centerforglobaldevelopment.applytojob.com/apply/sBsGpuClHL/Program-Coordinator-Global-Health-Policy"
 areas:
   - "Global health & development"
 ---
 
+> ⚠️ **CLOSED on 2026-09-11** — this job is no longer listed on the 80,000 Hours board. Archived snapshot below.
+
 # Program Coordinator, Global Health Policy
 
-**[Center for Global Development](https://www.cgdev.org)**
+**Center for Global Development**
 
-<dl class="job-meta">
-<dt>Location</dt><dd>London, UK, UK</dd>
-<dt>Role type</dt><dd>Full-time</dd>
-<dt>Experience</dt><dd>Junior (1-4 years experience)</dd>
-<dt>Degree</dt><dd>Undergraduate degree or less</dd>
-<dt>Salary</dt><dd>$44,119</dd>
-</dl>
-
-**Areas & skills:** Global health & development, Operations
+**Areas & skills:** Global health & development
 
 ## Summary
 - In this role, you will be responsible for providing administrative, events, and communications support across the Global Health Policy team.

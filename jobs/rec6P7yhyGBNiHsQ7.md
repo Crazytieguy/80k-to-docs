@@ -2,7 +2,7 @@
 title: "Lobbyist / Campaign Lead"
 employer: "PauseAI"
 job_id: "rec6P7yhyGBNiHsQ7"
-last_updated: "2026-09-10T05:32:03.373470Z"
+last_updated: "2026-09-11T10:54:59.414946Z"
 posted_at: "2026-09-01T00:00:00Z"
 status: ready
 apply_url: "https://pauseai.uk/jobs"
@@ -19,7 +19,7 @@ areas:
 <dt>Role type</dt><dd>Full-time</dd>
 <dt>Experience</dt><dd>Junior (1-4 years experience), Mid (5-9 years experience)</dd>
 <dt>Degree</dt><dd>Undergraduate degree or less</dd>
-<dt>Salary</dt><dd>$67,772 – $135,543</dd>
+<dt>Salary</dt><dd>$67,525 – $135,051</dd>
 </dl>
 
 **Areas & skills:** AI safety & policy, Policy
@@ -34,4 +34,4 @@ areas:
 <p class="apply-cta"><a href="https://pauseai.uk/jobs">Apply →</a></p>
 
 ---
-*Posted 2026-09-01 · Listing synced 2026-09-10 · 80k job ID `rec6P7yhyGBNiHsQ7`*
+*Posted 2026-09-01 · Listing synced 2026-09-11 · 80k job ID `rec6P7yhyGBNiHsQ7`*

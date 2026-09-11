@@ -2,10 +2,10 @@
 title: "Grant and Finance Associate"
 employer: "University of Chicago, Development Innovation Lab"
 job_id: "recLwbZIK8nhAmfh1"
-last_updated: "2026-09-10T05:32:48.908663Z"
+last_updated: "2026-09-11T10:55:44.397208Z"
 posted_at: "2026-07-23T00:00:00Z"
 status: ready
-apply_url: "https://uchicago.wd5.myworkdayjobs.com/External/job/Chicago-IL/Grant---Finance-Associate_JR34498"
+apply_url: "https://dil.uchicago.edu/opportunities/grant-finance-associate/?occurrence_id=0"
 areas:
   - "Global health & development"
 ---
@@ -31,7 +31,7 @@ areas:
 - Maintain tracking systems for contracts and vendor information; identify workflow improvements.
 - Support grant administration including eligibility review, award letters, and audit coordination.
 
-<p class="apply-cta"><a href="https://uchicago.wd5.myworkdayjobs.com/External/job/Chicago-IL/Grant---Finance-Associate_JR34498">Apply →</a></p>
+<p class="apply-cta"><a href="https://dil.uchicago.edu/opportunities/grant-finance-associate/?occurrence_id=0">Apply →</a></p>
 
 ---
-*Posted 2026-07-23 · Listing synced 2026-09-10 · 80k job ID `recLwbZIK8nhAmfh1`*
+*Posted 2026-07-23 · Listing synced 2026-09-11 · 80k job ID `recLwbZIK8nhAmfh1`*

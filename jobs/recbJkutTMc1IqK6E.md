@@ -2,7 +2,7 @@
 title: "Payroll and Finance Associate"
 employer: "Impact Ops"
 job_id: "recbJkutTMc1IqK6E"
-last_updated: "2026-09-10T05:32:12.241737Z"
+last_updated: "2026-09-11T10:55:08.342966Z"
 posted_at: "2026-08-27T00:00:00Z"
 status: ready
 apply_url: "https://impact-ops.org/jobs/payroll-finance-associate-uk/"
@@ -19,7 +19,7 @@ areas:
 <dt>Role type</dt><dd>Full-time</dd>
 <dt>Experience</dt><dd>Junior (1-4 years experience)</dd>
 <dt>Degree</dt><dd>Undergraduate degree or less</dd>
-<dt>Salary</dt><dd>$54,217 – $60,994</dd>
+<dt>Salary</dt><dd>$54,020 – $60,773</dd>
 </dl>
 
 **Areas & skills:** Building effective altruism, Finance
@@ -34,4 +34,4 @@ areas:
 <p class="apply-cta"><a href="https://impact-ops.org/jobs/payroll-finance-associate-uk/">Apply →</a></p>
 
 ---
-*Posted 2026-08-27 · Listing synced 2026-09-10 · 80k job ID `recbJkutTMc1IqK6E`*
+*Posted 2026-08-27 · Listing synced 2026-09-11 · 80k job ID `recbJkutTMc1IqK6E`*

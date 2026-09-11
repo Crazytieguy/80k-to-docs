@@ -2,7 +2,7 @@
 title: "Intern, Biotechnology"
 employer: "Novo Nordisk Foundation"
 job_id: "recGw6AFa5DO6zqn1"
-last_updated: "2026-09-10T05:31:48.691429Z"
+last_updated: "2026-09-11T10:54:45.055690Z"
 posted_at: "2026-09-08T00:00:00Z"
 status: ready
 apply_url: "https://apply.workable.com/novonordiskfoundation/j/948F64EE96/"
@@ -33,4 +33,4 @@ areas:
 <p class="apply-cta"><a href="https://apply.workable.com/novonordiskfoundation/j/948F64EE96/">Apply →</a></p>
 
 ---
-*Posted 2026-09-08 · Listing synced 2026-09-10 · 80k job ID `recGw6AFa5DO6zqn1`*
+*Posted 2026-09-08 · Listing synced 2026-09-11 · 80k job ID `recGw6AFa5DO6zqn1`*

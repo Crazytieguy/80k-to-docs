@@ -2,7 +2,7 @@
 title: "Infrastructure Lead"
 employer: "Intelligence Security Laboratories"
 job_id: "recVS0fSGuoIyJnZK"
-last_updated: "2026-09-10T05:32:22.987864Z"
+last_updated: "2026-09-11T10:55:19.165290Z"
 posted_at: "2026-08-20T00:00:00Z"
 status: ready
 apply_url: "https://jobs.ashbyhq.com/Intelligence-Security-Laboratories/f63156d6-17dd-4da0-b53a-461d5cd679c8?embed=js"
@@ -34,4 +34,4 @@ areas:
 <p class="apply-cta"><a href="https://jobs.ashbyhq.com/Intelligence-Security-Laboratories/f63156d6-17dd-4da0-b53a-461d5cd679c8?embed=js">Apply →</a></p>
 
 ---
-*Posted 2026-08-20 · Listing synced 2026-09-10 · 80k job ID `recVS0fSGuoIyJnZK`*
+*Posted 2026-08-20 · Listing synced 2026-09-11 · 80k job ID `recVS0fSGuoIyJnZK`*

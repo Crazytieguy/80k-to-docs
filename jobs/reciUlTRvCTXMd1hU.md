@@ -2,7 +2,7 @@
 title: "Senior Researcher, Interpretability and AI Safety"
 employer: "Oxford University, Department of Engineering Science"
 job_id: "reciUlTRvCTXMd1hU"
-last_updated: "2026-09-10T05:31:45.260321Z"
+last_updated: "2026-09-11T10:54:41.800434Z"
 posted_at: "2026-09-09T00:02:00Z"
 status: ready
 apply_url: "https://www.jobs.ac.uk/job/DSU070/senior-researcher-in-interpretability-and-ai-safety?uuid=4250eb02-a73a-11f1-9cb0-064da8edb92a&campaign=jbe20260903&source=jbe"
@@ -19,7 +19,7 @@ areas:
 <dt>Role type</dt><dd>Full-time</dd>
 <dt>Experience</dt><dd>Junior (1-4 years experience)</dd>
 <dt>Degree</dt><dd>Doctoral degree</dd>
-<dt>Salary</dt><dd>$66,577 – $78,974</dd>
+<dt>Salary</dt><dd>$66,336 – $78,687</dd>
 </dl>
 
 **Areas & skills:** AI safety & policy, Research
@@ -34,4 +34,4 @@ areas:
 <p class="apply-cta"><a href="https://www.jobs.ac.uk/job/DSU070/senior-researcher-in-interpretability-and-ai-safety?uuid=4250eb02-a73a-11f1-9cb0-064da8edb92a&amp;campaign=jbe20260903&amp;source=jbe">Apply →</a></p>
 
 ---
-*Posted 2026-09-09 · Listing synced 2026-09-10 · 80k job ID `reciUlTRvCTXMd1hU`*
+*Posted 2026-09-09 · Listing synced 2026-09-11 · 80k job ID `reciUlTRvCTXMd1hU`*

@@ -4,25 +4,20 @@ employer: "White Circle"
 job_id: "recOxFDJ1vdoXQ3hV"
 last_updated: "2026-09-10T05:32:55.624600Z"
 posted_at: "2026-07-08T00:00:00Z"
-status: ready
+status: closed
+closed_at: "2026-09-11"
 apply_url: "https://jobs.ashbyhq.com/whitecircle/751d4e9d-13e6-4f7b-b9eb-b0f422e93bf4"
 areas:
   - "AI safety & policy"
 ---
 
+> ⚠️ **CLOSED on 2026-09-11** — this job is no longer listed on the 80,000 Hours board. Archived snapshot below.
+
 # Research Scientist, AI Behaviours
 
-**[White Circle](https://whitecircle.com/)**
+**White Circle**
 
-<dl class="job-meta">
-<dt>Location</dt><dd>London, UK, Paris, France, UK, France, Europe (ex UK)</dd>
-<dt>Role type</dt><dd>Full-time</dd>
-<dt>Experience</dt><dd>Junior (1-4 years experience)</dd>
-<dt>Degree</dt><dd>Undergraduate degree or less</dd>
-<dt>Salary</dt><dd>$150,000 – $250,000</dd>
-</dl>
-
-**Areas & skills:** AI safety & policy, Research, Software engineering
+**Areas & skills:** AI safety & policy
 
 ## Summary
 - In this role, you'll study how LLM agents fail and misbehave in realistic scenarios, designing experiments to understand misalignment, deception, and unsafe behaviour.

@@ -2,7 +2,7 @@
 title: "Head of Cyber Safety"
 employer: "Gray Swan"
 job_id: "recWN7jWOm4qwBOez"
-last_updated: "2026-09-10T05:31:52.958145Z"
+last_updated: "2026-09-11T10:54:49.169161Z"
 posted_at: "2026-09-04T00:01:00Z"
 status: ready
 apply_url: "https://www.grayswan.ai/careers?ashby_jid=d564e180-807e-4da1-9955-1bfdcdab1e38"
@@ -34,4 +34,4 @@ areas:
 <p class="apply-cta"><a href="https://www.grayswan.ai/careers?ashby_jid=d564e180-807e-4da1-9955-1bfdcdab1e38">Apply →</a></p>
 
 ---
-*Posted 2026-09-04 · Listing synced 2026-09-10 · 80k job ID `recWN7jWOm4qwBOez`*
+*Posted 2026-09-04 · Listing synced 2026-09-11 · 80k job ID `recWN7jWOm4qwBOez`*

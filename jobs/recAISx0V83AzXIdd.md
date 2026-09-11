@@ -2,7 +2,7 @@
 title: "Staff Associate"
 employer: "Columbia University, Department of Microbiology and Immunology"
 job_id: "recAISx0V83AzXIdd"
-last_updated: "2026-09-10T05:33:45.617118Z"
+last_updated: "2026-09-11T10:56:41.541754Z"
 posted_at: "2022-01-02T00:00:00Z"
 status: ready
 apply_url: "https://academic.careers.columbia.edu/#!/184841?keywords=microbiology&sortKey=keywordScore"
@@ -34,4 +34,4 @@ areas:
 <p class="apply-cta"><a href="https://academic.careers.columbia.edu/#!/184841?keywords=microbiology&amp;sortKey=keywordScore">Apply →</a></p>
 
 ---
-*Posted 2022-01-02 · Listing synced 2026-09-10 · 80k job ID `recAISx0V83AzXIdd`*
+*Posted 2022-01-02 · Listing synced 2026-09-11 · 80k job ID `recAISx0V83AzXIdd`*

@@ -2,7 +2,7 @@
 title: "Research Scientist, Control"
 employer: "Apollo Research"
 job_id: "recQzukpAvPTLFeEs"
-last_updated: "2026-09-10T05:31:58.584931Z"
+last_updated: "2026-09-11T10:54:54.848656Z"
 posted_at: "2026-09-02T00:05:00Z"
 status: ready
 apply_url: "https://jobs.lever.co/apolloresearch/24d016aa-5a19-4976-8936-af2fbf748000"
@@ -34,4 +34,4 @@ areas:
 <p class="apply-cta"><a href="https://jobs.lever.co/apolloresearch/24d016aa-5a19-4976-8936-af2fbf748000">Apply →</a></p>
 
 ---
-*Posted 2026-09-02 · Listing synced 2026-09-10 · 80k job ID `recQzukpAvPTLFeEs`*
+*Posted 2026-09-02 · Listing synced 2026-09-11 · 80k job ID `recQzukpAvPTLFeEs`*

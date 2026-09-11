@@ -2,7 +2,7 @@
 title: "Trainee, Respiratory Viruses"
 employer: "European Union, Centre for Disease Prevention and Control"
 job_id: "recCHUH0vcR8i6YlQ"
-last_updated: "2026-09-10T05:31:46.266274Z"
+last_updated: "2026-09-11T10:54:42.686600Z"
 posted_at: "2026-09-09T00:00:00Z"
 status: ready
 apply_url: "https://erecruitment.ecdc.europa.eu/en/our-vacancies/trainee-respiratory-viruses-196"
@@ -19,7 +19,7 @@ areas:
 <dt>Role type</dt><dd>Full-time</dd>
 <dt>Experience</dt><dd>Entry-level</dd>
 <dt>Degree</dt><dd>Undergraduate degree or less</dd>
-<dt>Salary</dt><dd>$30,794</dd>
+<dt>Salary</dt><dd>$30,668</dd>
 </dl>
 
 **Areas & skills:** Biosecurity & pandemic preparedness, Research
@@ -32,4 +32,4 @@ areas:
 <p class="apply-cta"><a href="https://erecruitment.ecdc.europa.eu/en/our-vacancies/trainee-respiratory-viruses-196">Apply →</a></p>
 
 ---
-*Posted 2026-09-09 · Listing synced 2026-09-10 · 80k job ID `recCHUH0vcR8i6YlQ`*
+*Posted 2026-09-09 · Listing synced 2026-09-11 · 80k job ID `recCHUH0vcR8i6YlQ`*

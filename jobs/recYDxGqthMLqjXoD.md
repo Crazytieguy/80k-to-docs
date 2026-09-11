@@ -2,7 +2,7 @@
 title: "Blue Book Traineeship Programme"
 employer: "European Union, European Commission"
 job_id: "recYDxGqthMLqjXoD"
-last_updated: "2026-09-10T05:31:50.984608Z"
+last_updated: "2026-09-11T10:54:47.638848Z"
 posted_at: "2026-09-07T00:00:00Z"
 status: ready
 apply_url: "https://traineeships.ec.europa.eu/about"
@@ -33,4 +33,4 @@ areas:
 <p class="apply-cta"><a href="https://traineeships.ec.europa.eu/about">Apply →</a></p>
 
 ---
-*Posted 2026-09-07 · Listing synced 2026-09-10 · 80k job ID `recYDxGqthMLqjXoD`*
+*Posted 2026-09-07 · Listing synced 2026-09-11 · 80k job ID `recYDxGqthMLqjXoD`*
