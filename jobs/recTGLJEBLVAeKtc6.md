@@ -2,7 +2,7 @@
 title: "Security Engineer, Offensive Security"
 employer: "Anthropic"
 job_id: "recTGLJEBLVAeKtc6"
-last_updated: "2026-09-11T10:54:39.221990Z"
+last_updated: "2026-09-12T05:32:32.311786Z"
 posted_at: "2026-09-10T00:00:00Z"
 status: ready
 apply_url: "https://job-boards.greenhouse.io/anthropic/jobs/5418977008"
@@ -34,4 +34,4 @@ areas:
 <p class="apply-cta"><a href="https://job-boards.greenhouse.io/anthropic/jobs/5418977008">Apply →</a></p>
 
 ---
-*Posted 2026-09-10 · Listing synced 2026-09-11 · 80k job ID `recTGLJEBLVAeKtc6`*
+*Posted 2026-09-10 · Listing synced 2026-09-12 · 80k job ID `recTGLJEBLVAeKtc6`*

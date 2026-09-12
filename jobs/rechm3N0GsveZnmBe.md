@@ -2,7 +2,7 @@
 title: "Data and Finance Assistant / Associate"
 employer: "Trajectory Labs"
 job_id: "rechm3N0GsveZnmBe"
-last_updated: "2026-09-11T10:55:04.057310Z"
+last_updated: "2026-09-12T05:32:57.637326Z"
 posted_at: "2026-08-31T00:00:00Z"
 status: ready
 apply_url: "https://www.trajectorylabs.org/s/TL-Data-Finance-Assistant_Associate.pdf"
@@ -19,7 +19,7 @@ areas:
 <dt>Role type</dt><dd>Full-time</dd>
 <dt>Experience</dt><dd>Junior (1-4 years experience), Mid (5-9 years experience)</dd>
 <dt>Degree</dt><dd>Undergraduate degree or less</dd>
-<dt>Salary</dt><dd>$36,091 – $57,745</dd>
+<dt>Salary</dt><dd>$36,044 – $57,670</dd>
 </dl>
 
 **Areas & skills:** AI safety & policy, Operations, Finance
@@ -34,4 +34,4 @@ areas:
 <p class="apply-cta"><a href="https://www.trajectorylabs.org/s/TL-Data-Finance-Assistant_Associate.pdf">Apply →</a></p>
 
 ---
-*Posted 2026-08-31 · Listing synced 2026-09-11 · 80k job ID `rechm3N0GsveZnmBe`*
+*Posted 2026-08-31 · Listing synced 2026-09-12 · 80k job ID `rechm3N0GsveZnmBe`*

@@ -2,7 +2,7 @@
 title: "Senior Scientist, AI-Assisted Lab Optimization"
 employer: "SecureBio"
 job_id: "recHyfT0SpI2kgTed"
-last_updated: "2026-09-11T10:54:38.335169Z"
+last_updated: "2026-09-12T05:32:31.461513Z"
 posted_at: "2026-09-10T00:05:00Z"
 status: ready
 apply_url: "https://securebio.org/careers/ai-lab-optimization"
@@ -32,4 +32,4 @@ areas:
 <p class="apply-cta"><a href="https://securebio.org/careers/ai-lab-optimization">Apply →</a></p>
 
 ---
-*Posted 2026-09-10 · Listing synced 2026-09-11 · 80k job ID `recHyfT0SpI2kgTed`*
+*Posted 2026-09-10 · Listing synced 2026-09-12 · 80k job ID `recHyfT0SpI2kgTed`*

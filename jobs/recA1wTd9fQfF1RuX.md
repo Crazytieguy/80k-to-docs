@@ -2,7 +2,7 @@
 title: "Group Facilitator"
 employer: "Rethink Wellbeing"
 job_id: "recA1wTd9fQfF1RuX"
-last_updated: "2026-09-11T10:56:47.458805Z"
+last_updated: "2026-09-12T05:34:41.568960Z"
 posted_at: "2022-01-02T00:00:00Z"
 status: ready
 apply_url: "https://docs.google.com/forms/d/e/1FAIpQLSfzq7OD7T072MUREYs__tAs2L_uCUZnJz0JcuUw-TEoYKqCOg/viewform"
@@ -33,4 +33,4 @@ areas:
 <p class="apply-cta"><a href="https://docs.google.com/forms/d/e/1FAIpQLSfzq7OD7T072MUREYs__tAs2L_uCUZnJz0JcuUw-TEoYKqCOg/viewform">Apply →</a></p>
 
 ---
-*Posted 2022-01-02 · Listing synced 2026-09-11 · 80k job ID `recA1wTd9fQfF1RuX`*
+*Posted 2022-01-02 · Listing synced 2026-09-12 · 80k job ID `recA1wTd9fQfF1RuX`*

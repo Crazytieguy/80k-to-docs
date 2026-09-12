@@ -2,7 +2,7 @@
 title: "AI Resilience Partner"
 employer: "Convergent Research"
 job_id: "recPjT8bGO8TQIweN"
-last_updated: "2026-09-11T10:54:58.368146Z"
+last_updated: "2026-09-12T05:32:52.338740Z"
 posted_at: "2026-09-01T00:00:00Z"
 status: ready
 apply_url: "https://jobs.lever.co/convergentresearch/801342e0-5446-4520-b084-04590fc26d3d"
@@ -34,4 +34,4 @@ areas:
 <p class="apply-cta"><a href="https://jobs.lever.co/convergentresearch/801342e0-5446-4520-b084-04590fc26d3d">Apply →</a></p>
 
 ---
-*Posted 2026-09-01 · Listing synced 2026-09-11 · 80k job ID `recPjT8bGO8TQIweN`*
+*Posted 2026-09-01 · Listing synced 2026-09-12 · 80k job ID `recPjT8bGO8TQIweN`*

@@ -2,7 +2,7 @@
 title: "Business Operations Associate / Senior Business Operations Associate"
 employer: "FAR AI"
 job_id: "recTXfLMLwj0hXuTF"
-last_updated: "2026-09-11T10:54:58.521959Z"
+last_updated: "2026-09-12T05:32:52.535361Z"
 posted_at: "2026-09-01T00:00:00Z"
 status: ready
 apply_url: "https://jobs.ashbyhq.com/far.ai/64c0e905-ac58-4584-b89d-94706dd4cc36?embed=js"
@@ -34,4 +34,4 @@ areas:
 <p class="apply-cta"><a href="https://jobs.ashbyhq.com/far.ai/64c0e905-ac58-4584-b89d-94706dd4cc36?embed=js">Apply →</a></p>
 
 ---
-*Posted 2026-09-01 · Listing synced 2026-09-11 · 80k job ID `recTXfLMLwj0hXuTF`*
+*Posted 2026-09-01 · Listing synced 2026-09-12 · 80k job ID `recTXfLMLwj0hXuTF`*

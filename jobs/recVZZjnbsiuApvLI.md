@@ -2,8 +2,8 @@
 title: "Chief Technology Officer"
 employer: "Fathom"
 job_id: "recVZZjnbsiuApvLI"
-last_updated: "2026-09-11T10:55:55.417607Z"
-posted_at: "2026-06-23T00:01:00Z"
+last_updated: "2026-09-12T05:34:22.207815Z"
+posted_at: "2022-01-05T00:00:00Z"
 status: ready
 apply_url: "https://jobs.gem.com/fathom-org/am9icG9zdDr5Y7b5Q97jO3K3RimbAbNk"
 areas:
@@ -33,4 +33,4 @@ areas:
 <p class="apply-cta"><a href="https://jobs.gem.com/fathom-org/am9icG9zdDr5Y7b5Q97jO3K3RimbAbNk">Apply →</a></p>
 
 ---
-*Posted 2026-06-23 · Listing synced 2026-09-11 · 80k job ID `recVZZjnbsiuApvLI`*
+*Posted 2022-01-05 · Listing synced 2026-09-12 · 80k job ID `recVZZjnbsiuApvLI`*

@@ -2,7 +2,7 @@
 title: "Research Intern"
 employer: "Gensyn"
 job_id: "recnYhSVuCICBjguq"
-last_updated: "2026-09-11T10:56:43.844632Z"
+last_updated: "2026-09-12T05:34:38.050633Z"
 posted_at: "2022-01-02T00:00:00Z"
 status: ready
 apply_url: "https://job-boards.eu.greenhouse.io/gensyn/jobs/4579609101"
@@ -33,4 +33,4 @@ areas:
 <p class="apply-cta"><a href="https://job-boards.eu.greenhouse.io/gensyn/jobs/4579609101">Apply →</a></p>
 
 ---
-*Posted 2022-01-02 · Listing synced 2026-09-11 · 80k job ID `recnYhSVuCICBjguq`*
+*Posted 2022-01-02 · Listing synced 2026-09-12 · 80k job ID `recnYhSVuCICBjguq`*

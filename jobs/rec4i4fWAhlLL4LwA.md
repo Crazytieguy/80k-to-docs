@@ -2,7 +2,7 @@
 title: "Chief of Staff, AI Resilience"
 employer: "OpenAI Foundation"
 job_id: "rec4i4fWAhlLL4LwA"
-last_updated: "2026-09-11T10:54:39.926344Z"
+last_updated: "2026-09-12T05:32:32.994516Z"
 posted_at: "2026-09-10T00:00:00Z"
 status: ready
 apply_url: "https://openaifoundation.org/careers/chief-of-staff-ai-resilience-3b92071d-a24c-4bc5-ac4f-baf591cacc52"
@@ -34,4 +34,4 @@ areas:
 <p class="apply-cta"><a href="https://openaifoundation.org/careers/chief-of-staff-ai-resilience-3b92071d-a24c-4bc5-ac4f-baf591cacc52">Apply →</a></p>
 
 ---
-*Posted 2026-09-10 · Listing synced 2026-09-11 · 80k job ID `rec4i4fWAhlLL4LwA`*
+*Posted 2026-09-10 · Listing synced 2026-09-12 · 80k job ID `rec4i4fWAhlLL4LwA`*

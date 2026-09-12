@@ -4,25 +4,20 @@ employer: "OpenAI"
 job_id: "recpAzHkh4G7eA7fe"
 last_updated: "2026-09-11T10:55:31.244605Z"
 posted_at: "2026-08-07T00:00:00Z"
-status: ready
+status: closed
+closed_at: "2026-09-12"
 apply_url: "https://openai.com/careers/offensive-security-agent-engineer-us-remote/"
 areas:
   - "AI safety & policy"
 ---
 
+> ⚠️ **CLOSED on 2026-09-12** — this job is no longer listed on the 80,000 Hours board. Archived snapshot below.
+
 # Offensive Security Agent Engineer
 
-**[OpenAI](https://openai.com/)**
+**OpenAI**
 
-<dl class="job-meta">
-<dt>Location</dt><dd>San Francisco Bay Area, New York, NY, Seattle metro area, Remote, USA, USA</dd>
-<dt>Role type</dt><dd>Full-time</dd>
-<dt>Experience</dt><dd>Mid (5-9 years experience), Senior (10+ years experience)</dd>
-<dt>Degree</dt><dd>Undergraduate degree or less</dd>
-<dt>Salary</dt><dd>$347,000 – $490,000</dd>
-</dl>
-
-**Areas & skills:** AI safety & policy, Information security, Strategy
+**Areas & skills:** AI safety & policy
 
 ## Summary
 - In this role, you'll serve as technical owner of OpenAI's offensive security agents, establishing architecture and building agents that continuously test infrastructure and applications for vulnerabilities.

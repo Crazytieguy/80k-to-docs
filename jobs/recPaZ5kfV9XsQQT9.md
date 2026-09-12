@@ -2,7 +2,7 @@
 title: "Futurekind AI Fellowship (Summer 2026)"
 employer: "Electric Sheep"
 job_id: "recPaZ5kfV9XsQQT9"
-last_updated: "2026-09-11T10:54:36.012216Z"
+last_updated: "2026-09-12T05:32:30.158419Z"
 posted_at: "2026-09-11T00:00:00Z"
 status: ready
 apply_url: "https://www.electricsheep.is/futurekind"
@@ -34,4 +34,4 @@ areas:
 <p class="apply-cta"><a href="https://www.electricsheep.is/futurekind">Apply →</a></p>
 
 ---
-*Posted 2026-09-11 · Listing synced 2026-09-11 · 80k job ID `recPaZ5kfV9XsQQT9`*
+*Posted 2026-09-11 · Listing synced 2026-09-12 · 80k job ID `recPaZ5kfV9XsQQT9`*

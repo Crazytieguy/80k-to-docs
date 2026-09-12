@@ -2,7 +2,7 @@
 title: "Senior Digital Manager"
 employer: "Irreplaceable"
 job_id: "recKJjbzvQOjp5Po4"
-last_updated: "2026-09-11T10:55:24.491638Z"
+last_updated: "2026-09-12T05:33:20.448389Z"
 posted_at: "2026-08-17T00:00:00Z"
 status: ready
 apply_url: "https://tally.so/r/kd4jyZ"
@@ -34,4 +34,4 @@ areas:
 <p class="apply-cta"><a href="https://tally.so/r/kd4jyZ">Apply →</a></p>
 
 ---
-*Posted 2026-08-17 · Listing synced 2026-09-11 · 80k job ID `recKJjbzvQOjp5Po4`*
+*Posted 2026-08-17 · Listing synced 2026-09-12 · 80k job ID `recKJjbzvQOjp5Po4`*

@@ -2,7 +2,7 @@
 title: "Researcher / PhD Student, Mechanistic Interpretability for Safe Agentic AI"
 employer: "German Research Center for Artificial Intelligence"
 job_id: "recupj7fRGvvCYAZG"
-last_updated: "2026-09-11T10:54:38.684441Z"
+last_updated: "2026-09-12T05:32:31.787623Z"
 posted_at: "2026-09-10T00:02:00Z"
 status: ready
 apply_url: "https://jobs.dfki.de/en/vacancy/researcher-phd-student-m-w-d-x-mechanistic-interpretability-for-safety-618588.html"
@@ -33,4 +33,4 @@ areas:
 <p class="apply-cta"><a href="https://jobs.dfki.de/en/vacancy/researcher-phd-student-m-w-d-x-mechanistic-interpretability-for-safety-618588.html">Apply →</a></p>
 
 ---
-*Posted 2026-09-10 · Listing synced 2026-09-11 · 80k job ID `recupj7fRGvvCYAZG`*
+*Posted 2026-09-10 · Listing synced 2026-09-12 · 80k job ID `recupj7fRGvvCYAZG`*

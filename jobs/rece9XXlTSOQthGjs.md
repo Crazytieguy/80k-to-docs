@@ -2,7 +2,7 @@
 title: "Senior Researcher / Postdoc, Multilingual Mechanistic Interpretability"
 employer: "German Research Center for Artificial Intelligence"
 job_id: "rece9XXlTSOQthGjs"
-last_updated: "2026-09-11T10:54:38.817276Z"
+last_updated: "2026-09-12T05:32:31.926675Z"
 posted_at: "2026-09-10T00:02:00Z"
 status: ready
 apply_url: "https://jobs.dfki.de/en/vacancy/senior-researcher-postdoc-m-w-d-x-multilingual-mi-618589.html"
@@ -33,4 +33,4 @@ areas:
 <p class="apply-cta"><a href="https://jobs.dfki.de/en/vacancy/senior-researcher-postdoc-m-w-d-x-multilingual-mi-618589.html">Apply →</a></p>
 
 ---
-*Posted 2026-09-10 · Listing synced 2026-09-11 · 80k job ID `rece9XXlTSOQthGjs`*
+*Posted 2026-09-10 · Listing synced 2026-09-12 · 80k job ID `rece9XXlTSOQthGjs`*

@@ -2,7 +2,7 @@
 title: "LASR Labs Programme (Winter 2027)"
 employer: "London AI Safety Research Labs"
 job_id: "recEBYAAk256MUsxC"
-last_updated: "2026-09-11T10:54:36.893547Z"
+last_updated: "2026-09-12T05:32:30.474474Z"
 posted_at: "2026-09-11T00:00:00Z"
 status: ready
 apply_url: "https://www.lasrlabs.org/"
@@ -19,7 +19,7 @@ areas:
 <dt>Role type</dt><dd>Other, Full-time</dd>
 <dt>Experience</dt><dd>Junior (1-4 years experience), Entry-level</dd>
 <dt>Degree</dt><dd>Undergraduate degree or less</dd>
-<dt>Salary</dt><dd>$20,258</dd>
+<dt>Salary</dt><dd>$20,279</dd>
 </dl>
 
 **Areas & skills:** AI safety & policy, Research, Software engineering
@@ -34,4 +34,4 @@ areas:
 <p class="apply-cta"><a href="https://www.lasrlabs.org/">Apply →</a></p>
 
 ---
-*Posted 2026-09-11 · Listing synced 2026-09-11 · 80k job ID `recEBYAAk256MUsxC`*
+*Posted 2026-09-11 · Listing synced 2026-09-12 · 80k job ID `recEBYAAk256MUsxC`*

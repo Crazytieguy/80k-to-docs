@@ -2,7 +2,7 @@
 title: "Senior Program Analyst"
 employer: "US Government, National Institute of Standards and Technology"
 job_id: "rechPlSPSdbKxfOIv"
-last_updated: "2026-09-11T10:54:40.611874Z"
+last_updated: "2026-09-12T05:32:33.632642Z"
 posted_at: "2026-09-10T00:00:00Z"
 status: ready
 apply_url: "https://www.usajobs.gov/job/883623300"
@@ -34,4 +34,4 @@ areas:
 <p class="apply-cta"><a href="https://www.usajobs.gov/job/883623300">Apply →</a></p>
 
 ---
-*Posted 2026-09-10 · Listing synced 2026-09-11 · 80k job ID `rechPlSPSdbKxfOIv`*
+*Posted 2026-09-10 · Listing synced 2026-09-12 · 80k job ID `rechPlSPSdbKxfOIv`*

@@ -2,7 +2,7 @@
 title: "Content Creator and Social Media Manager, Race for Impact"
 employer: "High Impact Athletes"
 job_id: "rechAEbADA5CjYYM0"
-last_updated: "2026-09-11T10:54:36.222855Z"
+last_updated: "2026-09-12T05:32:30.295203Z"
 posted_at: "2026-09-11T00:00:00Z"
 status: ready
 apply_url: "https://highimpactathletes.org/social-media-jd"
@@ -19,7 +19,7 @@ areas:
 <dt>Role type</dt><dd>Full-time</dd>
 <dt>Experience</dt><dd>Junior (1-4 years experience), Mid (5-9 years experience)</dd>
 <dt>Degree</dt><dd>Undergraduate degree or less</dd>
-<dt>Salary</dt><dd>$35,847 – $57,356</dd>
+<dt>Salary</dt><dd>$35,842 – $57,348</dd>
 </dl>
 
 **Areas & skills:** Building effective altruism, Communications
@@ -34,4 +34,4 @@ areas:
 <p class="apply-cta"><a href="https://highimpactathletes.org/social-media-jd">Apply →</a></p>
 
 ---
-*Posted 2026-09-11 · Listing synced 2026-09-11 · 80k job ID `rechAEbADA5CjYYM0`*
+*Posted 2026-09-11 · Listing synced 2026-09-12 · 80k job ID `rechAEbADA5CjYYM0`*

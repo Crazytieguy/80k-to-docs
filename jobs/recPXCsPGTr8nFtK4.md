@@ -2,7 +2,7 @@
 title: "AI Fellowship (Winter 2027)"
 employer: "ERA"
 job_id: "recPXCsPGTr8nFtK4"
-last_updated: "2026-09-11T10:55:14.388176Z"
+last_updated: "2026-09-12T05:33:07.626761Z"
 posted_at: "2026-08-24T00:05:00Z"
 status: ready
 apply_url: "https://airtable.com/appaZQNjlqYOCy4lV/pag0VHHxQWTBRmHHS/form"
@@ -33,4 +33,4 @@ areas:
 <p class="apply-cta"><a href="https://airtable.com/appaZQNjlqYOCy4lV/pag0VHHxQWTBRmHHS/form">Apply →</a></p>
 
 ---
-*Posted 2026-08-24 · Listing synced 2026-09-11 · 80k job ID `recPXCsPGTr8nFtK4`*
+*Posted 2026-08-24 · Listing synced 2026-09-12 · 80k job ID `recPXCsPGTr8nFtK4`*

@@ -2,7 +2,7 @@
 title: "Research Associate, Safe Reinforcement Learning"
 employer: "Imperial College London, Department of Computing"
 job_id: "rec8lYEMSIeXX2XAX"
-last_updated: "2026-09-11T10:54:42.184352Z"
+last_updated: "2026-09-12T05:32:35.140931Z"
 posted_at: "2026-09-09T00:01:00Z"
 status: ready
 apply_url: "https://www.imperial.ac.uk/jobs/search-jobs/description/index.php?nPostingID=18136&nPostingTargetID=29067&ID=PMMFK026203F3VBQB8NLOV4CQ"
@@ -19,7 +19,7 @@ areas:
 <dt>Role type</dt><dd>Full-time</dd>
 <dt>Experience</dt><dd>Junior (1-4 years experience)</dd>
 <dt>Degree</dt><dd>Doctoral degree</dd>
-<dt>Salary</dt><dd>$61,312 – $80,334</dd>
+<dt>Salary</dt><dd>$61,377 – $80,420</dd>
 </dl>
 
 **Areas & skills:** AI safety & policy, Research, Software engineering
@@ -34,4 +34,4 @@ areas:
 <p class="apply-cta"><a href="https://www.imperial.ac.uk/jobs/search-jobs/description/index.php?nPostingID=18136&amp;nPostingTargetID=29067&amp;ID=PMMFK026203F3VBQB8NLOV4CQ">Apply →</a></p>
 
 ---
-*Posted 2026-09-09 · Listing synced 2026-09-11 · 80k job ID `rec8lYEMSIeXX2XAX`*
+*Posted 2026-09-09 · Listing synced 2026-09-12 · 80k job ID `rec8lYEMSIeXX2XAX`*

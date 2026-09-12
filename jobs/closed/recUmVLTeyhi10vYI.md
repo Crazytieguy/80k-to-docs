@@ -4,26 +4,21 @@ employer: "Mycelium"
 job_id: "recUmVLTeyhi10vYI"
 last_updated: "2026-09-11T10:55:05.031613Z"
 posted_at: "2026-08-28T00:01:00Z"
-status: ready
+status: closed
+closed_at: "2026-09-12"
 apply_url: "https://docs.google.com/document/d/1hmp9sBfMalRQSvD6D_oTEFbYMGFErGkYWOA4slHl7v0/edit?usp=sharing"
 areas:
   - "AI safety & policy"
   - "Animal welfare"
 ---
 
+> ⚠️ **CLOSED on 2026-09-12** — this job is no longer listed on the 80,000 Hours board. Archived snapshot below.
+
 # Technical Advisor, Fine-Tuning and Evals
 
-**[Mycelium](https://www.projectmycelium.ai/)**
+**Mycelium**
 
-<dl class="job-meta">
-<dt>Location</dt><dd>San Francisco Bay Area, Remote, Global, USA</dd>
-<dt>Role type</dt><dd>Part-time</dd>
-<dt>Experience</dt><dd>Mid (5-9 years experience)</dd>
-<dt>Degree</dt><dd>Undergraduate degree or less</dd>
-<dt>Salary</dt><dd>$114,400 – $187,200</dd>
-</dl>
-
-**Areas & skills:** AI safety & policy, Animal welfare, Research
+**Areas & skills:** AI safety & policy, Animal welfare
 
 ## Summary
 - In this role, you'll advise on fine-tuning and evaluation design for instilling animal welfare values in open-weight models.

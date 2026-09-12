@@ -2,7 +2,7 @@
 title: "Founding Operations Manager"
 employer: "Parallax"
 job_id: "recG6neAk3UrNQM1l"
-last_updated: "2026-09-11T10:54:44.155067Z"
+last_updated: "2026-09-12T05:32:37.688995Z"
 posted_at: "2026-09-08T00:01:00Z"
 status: ready
 apply_url: "https://parallx.ai/careers/founding-operations-manager.html"
@@ -33,4 +33,4 @@ areas:
 <p class="apply-cta"><a href="https://parallx.ai/careers/founding-operations-manager.html">Apply →</a></p>
 
 ---
-*Posted 2026-09-08 · Listing synced 2026-09-11 · 80k job ID `recG6neAk3UrNQM1l`*
+*Posted 2026-09-08 · Listing synced 2026-09-12 · 80k job ID `recG6neAk3UrNQM1l`*

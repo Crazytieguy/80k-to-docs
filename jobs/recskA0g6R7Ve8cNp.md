@@ -2,7 +2,7 @@
 title: "AI×Animals Course"
 employer: "Sentient Futures"
 job_id: "recskA0g6R7Ve8cNp"
-last_updated: "2026-09-11T10:55:03.624568Z"
+last_updated: "2026-09-12T05:32:57.251013Z"
 posted_at: "2026-08-31T00:00:00Z"
 status: ready
 apply_url: "https://www.sentientfutures.ai/courses/aixanimals/"
@@ -32,4 +32,4 @@ areas:
 <p class="apply-cta"><a href="https://www.sentientfutures.ai/courses/aixanimals/">Apply →</a></p>
 
 ---
-*Posted 2026-08-31 · Listing synced 2026-09-11 · 80k job ID `recskA0g6R7Ve8cNp`*
+*Posted 2026-08-31 · Listing synced 2026-09-12 · 80k job ID `recskA0g6R7Ve8cNp`*

@@ -2,7 +2,7 @@
 title: "Shortform Video Creator"
 employer: "AI Digest"
 job_id: "recdVy304PNdd1rTm"
-last_updated: "2026-09-11T10:55:07.017235Z"
+last_updated: "2026-09-12T05:33:00.514789Z"
 posted_at: "2026-08-27T00:03:00Z"
 status: ready
 apply_url: "https://jobs.ashbyhq.com/sagefuture/4298c820-087d-43d3-ac57-75bb3aafcc93"
@@ -32,4 +32,4 @@ areas:
 <p class="apply-cta"><a href="https://jobs.ashbyhq.com/sagefuture/4298c820-087d-43d3-ac57-75bb3aafcc93">Apply →</a></p>
 
 ---
-*Posted 2026-08-27 · Listing synced 2026-09-11 · 80k job ID `recdVy304PNdd1rTm`*
+*Posted 2026-08-27 · Listing synced 2026-09-12 · 80k job ID `recdVy304PNdd1rTm`*

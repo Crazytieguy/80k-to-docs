@@ -2,7 +2,7 @@
 title: "Product Security Engineer"
 employer: "Apollo Research"
 job_id: "recy8uBCzgymqrBUF"
-last_updated: "2026-09-11T10:54:54.669763Z"
+last_updated: "2026-09-12T05:32:48.359452Z"
 posted_at: "2026-09-02T00:05:00Z"
 status: ready
 apply_url: "https://jobs.lever.co/apolloresearch/c2ee47f7-4fe9-41a7-86fd-ce0a23fe4850"
@@ -34,4 +34,4 @@ areas:
 <p class="apply-cta"><a href="https://jobs.lever.co/apolloresearch/c2ee47f7-4fe9-41a7-86fd-ce0a23fe4850">Apply →</a></p>
 
 ---
-*Posted 2026-09-02 · Listing synced 2026-09-11 · 80k job ID `recy8uBCzgymqrBUF`*
+*Posted 2026-09-02 · Listing synced 2026-09-12 · 80k job ID `recy8uBCzgymqrBUF`*

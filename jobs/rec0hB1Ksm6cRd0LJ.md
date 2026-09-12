@@ -2,7 +2,7 @@
 title: "Emerging Leaders in Biosecurity Fellowship"
 employer: "Johns Hopkins University, Bloomberg School of Public Health"
 job_id: "rec0hB1Ksm6cRd0LJ"
-last_updated: "2026-09-11T10:54:39.665265Z"
+last_updated: "2026-09-12T05:32:32.745005Z"
 posted_at: "2026-09-10T00:00:00Z"
 status: ready
 apply_url: "https://centerforhealthsecurity.org/education-training/emerging-leaders-in-biosecurity-fellowship"
@@ -33,4 +33,4 @@ areas:
 <p class="apply-cta"><a href="https://centerforhealthsecurity.org/education-training/emerging-leaders-in-biosecurity-fellowship">Apply →</a></p>
 
 ---
-*Posted 2026-09-10 · Listing synced 2026-09-11 · 80k job ID `rec0hB1Ksm6cRd0LJ`*
+*Posted 2026-09-10 · Listing synced 2026-09-12 · 80k job ID `rec0hB1Ksm6cRd0LJ`*

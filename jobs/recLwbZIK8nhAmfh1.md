@@ -2,7 +2,7 @@
 title: "Grant and Finance Associate"
 employer: "University of Chicago, Development Innovation Lab"
 job_id: "recLwbZIK8nhAmfh1"
-last_updated: "2026-09-11T10:55:44.397208Z"
+last_updated: "2026-09-12T05:33:38.220998Z"
 posted_at: "2026-07-23T00:00:00Z"
 status: ready
 apply_url: "https://dil.uchicago.edu/opportunities/grant-finance-associate/?occurrence_id=0"
@@ -34,4 +34,4 @@ areas:
 <p class="apply-cta"><a href="https://dil.uchicago.edu/opportunities/grant-finance-associate/?occurrence_id=0">Apply →</a></p>
 
 ---
-*Posted 2026-07-23 · Listing synced 2026-09-11 · 80k job ID `recLwbZIK8nhAmfh1`*
+*Posted 2026-07-23 · Listing synced 2026-09-12 · 80k job ID `recLwbZIK8nhAmfh1`*

@@ -2,7 +2,7 @@
 title: "Career Advisor"
 employer: "Effective Altruism Sweden"
 job_id: "rec5qLG6onTVL9KZm"
-last_updated: "2026-09-11T10:55:18.354905Z"
+last_updated: "2026-09-12T05:33:11.909845Z"
 posted_at: "2026-08-20T00:00:00Z"
 status: ready
 apply_url: "https://docs.google.com/document/d/1Zamr6b3xLaUl1aDAUVJr-zUICZUqHPincZpWy65sb78/edit?usp=sharing"
@@ -19,7 +19,7 @@ areas:
 <dt>Role type</dt><dd>Full-time</dd>
 <dt>Experience</dt><dd>Junior (1-4 years experience), Mid (5-9 years experience)</dd>
 <dt>Degree</dt><dd>Undergraduate degree or less</dd>
-<dt>Salary</dt><dd>$47,038 – $53,228</dd>
+<dt>Salary</dt><dd>$47,065 – $53,257</dd>
 </dl>
 
 **Areas & skills:** Building effective altruism, Other
@@ -33,4 +33,4 @@ areas:
 <p class="apply-cta"><a href="https://docs.google.com/document/d/1Zamr6b3xLaUl1aDAUVJr-zUICZUqHPincZpWy65sb78/edit?usp=sharing">Apply →</a></p>
 
 ---
-*Posted 2026-08-20 · Listing synced 2026-09-11 · 80k job ID `rec5qLG6onTVL9KZm`*
+*Posted 2026-08-20 · Listing synced 2026-09-12 · 80k job ID `rec5qLG6onTVL9KZm`*

@@ -2,7 +2,7 @@
 title: "Program Manager / Senior Program Manager, Mentor Selection"
 employer: "MATS Research"
 job_id: "recFKhWUeFEkr5nH2"
-last_updated: "2026-09-11T10:54:46.119219Z"
+last_updated: "2026-09-12T05:32:39.523658Z"
 posted_at: "2026-09-07T00:05:00Z"
 status: ready
 apply_url: "https://www.matsprogram.org/careers/program-mgr-selection"
@@ -33,4 +33,4 @@ areas:
 <p class="apply-cta"><a href="https://www.matsprogram.org/careers/program-mgr-selection">Apply →</a></p>
 
 ---
-*Posted 2026-09-07 · Listing synced 2026-09-11 · 80k job ID `recFKhWUeFEkr5nH2`*
+*Posted 2026-09-07 · Listing synced 2026-09-12 · 80k job ID `recFKhWUeFEkr5nH2`*

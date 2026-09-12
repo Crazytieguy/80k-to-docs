@@ -2,7 +2,7 @@
 title: "Talent Program Manager"
 employer: "GovAI"
 job_id: "recsmEXvsXRUNWYNA"
-last_updated: "2026-09-11T10:54:37.860779Z"
+last_updated: "2026-09-12T05:32:31.031971Z"
 posted_at: "2026-09-10T00:05:00Z"
 status: ready
 apply_url: "https://www.governance.ai/post/talent-program-manager"
@@ -19,7 +19,7 @@ areas:
 <dt>Role type</dt><dd>Full-time</dd>
 <dt>Experience</dt><dd>Junior (1-4 years experience), Mid (5-9 years experience)</dd>
 <dt>Degree</dt><dd>Undergraduate degree or less</dd>
-<dt>Salary</dt><dd>$112,092 – $141,804</dd>
+<dt>Salary</dt><dd>$112,212 – $141,955</dd>
 </dl>
 
 **Areas & skills:** AI safety & policy, Strategy
@@ -34,4 +34,4 @@ areas:
 <p class="apply-cta"><a href="https://www.governance.ai/post/talent-program-manager">Apply →</a></p>
 
 ---
-*Posted 2026-09-10 · Listing synced 2026-09-11 · 80k job ID `recsmEXvsXRUNWYNA`*
+*Posted 2026-09-10 · Listing synced 2026-09-12 · 80k job ID `recsmEXvsXRUNWYNA`*

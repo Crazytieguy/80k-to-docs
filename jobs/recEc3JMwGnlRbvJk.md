@@ -2,7 +2,7 @@
 title: "Project Tailwind, Call for Ambitious AI Safety Initiatives"
 employer: "Coefficient Giving"
 job_id: "recEc3JMwGnlRbvJk"
-last_updated: "2026-09-11T10:54:37.065007Z"
+last_updated: "2026-09-12T05:32:30.594875Z"
 posted_at: "2026-09-10T00:06:00Z"
 status: ready
 apply_url: "https://coefficientgiving.org/tailwind/"
@@ -32,4 +32,4 @@ areas:
 <p class="apply-cta"><a href="https://coefficientgiving.org/tailwind/">Apply →</a></p>
 
 ---
-*Posted 2026-09-10 · Listing synced 2026-09-11 · 80k job ID `recEc3JMwGnlRbvJk`*
+*Posted 2026-09-10 · Listing synced 2026-09-12 · 80k job ID `recEc3JMwGnlRbvJk`*

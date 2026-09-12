@@ -2,7 +2,7 @@
 title: "Safety Research Grants"
 employer: "Thinking Machines"
 job_id: "recrur2TKJwvVIIdP"
-last_updated: "2026-09-11T10:54:35.444785Z"
+last_updated: "2026-09-12T05:32:30.024680Z"
 posted_at: "2026-09-11T00:01:00Z"
 status: ready
 apply_url: "https://thinkingmachines.ai/news/safety-research-grants/"
@@ -34,4 +34,4 @@ areas:
 <p class="apply-cta"><a href="https://thinkingmachines.ai/news/safety-research-grants/">Apply →</a></p>
 
 ---
-*Posted 2026-09-11 · Listing synced 2026-09-11 · 80k job ID `recrur2TKJwvVIIdP`*
+*Posted 2026-09-11 · Listing synced 2026-09-12 · 80k job ID `recrur2TKJwvVIIdP`*

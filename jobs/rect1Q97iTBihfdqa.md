@@ -2,7 +2,7 @@
 title: "Program Fellow, Taiwan-EU-U.S. Policy"
 employer: "German Marshall Fund"
 job_id: "rect1Q97iTBihfdqa"
-last_updated: "2026-09-11T10:54:39.544758Z"
+last_updated: "2026-09-12T05:32:32.601013Z"
 posted_at: "2026-09-10T00:00:00Z"
 status: ready
 apply_url: "https://recruiting.paylocity.com/Recruiting/Jobs/Details/4483678"
@@ -33,4 +33,4 @@ areas:
 <p class="apply-cta"><a href="https://recruiting.paylocity.com/Recruiting/Jobs/Details/4483678">Apply →</a></p>
 
 ---
-*Posted 2026-09-10 · Listing synced 2026-09-11 · 80k job ID `rect1Q97iTBihfdqa`*
+*Posted 2026-09-10 · Listing synced 2026-09-12 · 80k job ID `rect1Q97iTBihfdqa`*

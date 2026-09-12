@@ -2,7 +2,7 @@
 title: "Volunteer"
 employer: "AI Safety Awareness Project"
 job_id: "recVGAvwQGadiurSz"
-last_updated: "2026-09-11T10:56:10.658418Z"
+last_updated: "2026-09-12T05:34:03.579599Z"
 posted_at: "2022-01-06T00:00:00Z"
 status: ready
 apply_url: "https://docs.google.com/document/d/1lEtqNXTuFz-_b5G9Hbp5JooOY8bY0PEVedjMSLwlx6I/edit?tab=t.0"
@@ -33,4 +33,4 @@ areas:
 <p class="apply-cta"><a href="https://docs.google.com/document/d/1lEtqNXTuFz-_b5G9Hbp5JooOY8bY0PEVedjMSLwlx6I/edit?tab=t.0">Apply →</a></p>
 
 ---
-*Posted 2022-01-06 · Listing synced 2026-09-11 · 80k job ID `recVGAvwQGadiurSz`*
+*Posted 2022-01-06 · Listing synced 2026-09-12 · 80k job ID `recVGAvwQGadiurSz`*

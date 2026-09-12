@@ -2,7 +2,7 @@
 title: "Philanthropy Officer"
 employer: "Wild Animal Initiative"
 job_id: "recIHriQvGyVZuLri"
-last_updated: "2026-09-11T10:55:11.564061Z"
+last_updated: "2026-09-12T05:33:04.942369Z"
 posted_at: "2026-08-26T00:00:00Z"
 status: ready
 apply_url: "https://www.wildanimalinitiative.org/philanthropy-officer-1"
@@ -34,4 +34,4 @@ areas:
 <p class="apply-cta"><a href="https://www.wildanimalinitiative.org/philanthropy-officer-1">Apply →</a></p>
 
 ---
-*Posted 2026-08-26 · Listing synced 2026-09-11 · 80k job ID `recIHriQvGyVZuLri`*
+*Posted 2026-08-26 · Listing synced 2026-09-12 · 80k job ID `recIHriQvGyVZuLri`*

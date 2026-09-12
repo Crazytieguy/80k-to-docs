@@ -2,7 +2,7 @@
 title: "Research Lead, Pre-Training Safety"
 employer: "FAR AI"
 job_id: "recZjdjiulRy4Ltwy"
-last_updated: "2026-09-11T10:54:37.532197Z"
+last_updated: "2026-09-12T05:32:30.859875Z"
 posted_at: "2026-09-10T00:05:00Z"
 status: ready
 apply_url: "https://jobs.ashbyhq.com/far.ai/03e909f9-fba9-42d9-9ba1-208af8cc0522?embed=js"
@@ -33,4 +33,4 @@ areas:
 <p class="apply-cta"><a href="https://jobs.ashbyhq.com/far.ai/03e909f9-fba9-42d9-9ba1-208af8cc0522?embed=js">Apply →</a></p>
 
 ---
-*Posted 2026-09-10 · Listing synced 2026-09-11 · 80k job ID `recZjdjiulRy4Ltwy`*
+*Posted 2026-09-10 · Listing synced 2026-09-12 · 80k job ID `recZjdjiulRy4Ltwy`*

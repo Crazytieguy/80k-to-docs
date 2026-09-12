@@ -2,7 +2,7 @@
 title: "Research Scientist"
 employer: "Resolution"
 job_id: "recYPTVHgxuKaTZUX"
-last_updated: "2026-09-11T10:55:52.918921Z"
+last_updated: "2026-09-12T05:33:46.703626Z"
 posted_at: "2026-07-01T00:05:00Z"
 status: ready
 apply_url: "https://jobs.ashbyhq.com/resolution/65704205-7ccd-4df6-a7d1-3e3338bd80a8"
@@ -34,4 +34,4 @@ areas:
 <p class="apply-cta"><a href="https://jobs.ashbyhq.com/resolution/65704205-7ccd-4df6-a7d1-3e3338bd80a8">Apply →</a></p>
 
 ---
-*Posted 2026-07-01 · Listing synced 2026-09-11 · 80k job ID `recYPTVHgxuKaTZUX`*
+*Posted 2026-07-01 · Listing synced 2026-09-12 · 80k job ID `recYPTVHgxuKaTZUX`*

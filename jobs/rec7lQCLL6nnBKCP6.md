@@ -2,7 +2,7 @@
 title: "Foundations of AI Safety Fellowship"
 employer: "Lisbon AI Safety Hub"
 job_id: "rec7lQCLL6nnBKCP6"
-last_updated: "2026-09-11T10:54:41.642246Z"
+last_updated: "2026-09-12T05:32:34.635189Z"
 posted_at: "2026-09-09T00:02:00Z"
 status: ready
 apply_url: "https://www.lisbonaisafetyhub.org/#fellowship"
@@ -33,4 +33,4 @@ areas:
 <p class="apply-cta"><a href="https://www.lisbonaisafetyhub.org/#fellowship">Apply →</a></p>
 
 ---
-*Posted 2026-09-09 · Listing synced 2026-09-11 · 80k job ID `rec7lQCLL6nnBKCP6`*
+*Posted 2026-09-09 · Listing synced 2026-09-12 · 80k job ID `rec7lQCLL6nnBKCP6`*

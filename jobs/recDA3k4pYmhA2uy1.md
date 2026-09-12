@@ -2,7 +2,7 @@
 title: "Intern, Procurement Store, Rwanda"
 employer: "One Acre Fund"
 job_id: "recDA3k4pYmhA2uy1"
-last_updated: "2026-09-11T10:56:46.456745Z"
+last_updated: "2026-09-12T05:34:40.657526Z"
 posted_at: "2022-01-02T00:00:00Z"
 status: ready
 apply_url: "https://oneacrefund.org/vacancies/rwanda-procurement-store-intern"
@@ -33,4 +33,4 @@ areas:
 <p class="apply-cta"><a href="https://oneacrefund.org/vacancies/rwanda-procurement-store-intern">Apply →</a></p>
 
 ---
-*Posted 2022-01-02 · Listing synced 2026-09-11 · 80k job ID `recDA3k4pYmhA2uy1`*
+*Posted 2022-01-02 · Listing synced 2026-09-12 · 80k job ID `recDA3k4pYmhA2uy1`*

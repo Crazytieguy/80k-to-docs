@@ -2,7 +2,7 @@
 title: "Delivery / Product Manager, Loss of Control Observatory"
 employer: "Centre for Long-Term Resilience"
 job_id: "recaCZzvzvCy1Bsb7"
-last_updated: "2026-09-11T10:54:37.299074Z"
+last_updated: "2026-09-12T05:32:30.723767Z"
 posted_at: "2026-09-10T00:05:00Z"
 status: ready
 apply_url: "https://www.longtermresilience.org/delivery-product-manager-loss-of-control-observatory/"
@@ -33,4 +33,4 @@ areas:
 <p class="apply-cta"><a href="https://www.longtermresilience.org/delivery-product-manager-loss-of-control-observatory/">Apply →</a></p>
 
 ---
-*Posted 2026-09-10 · Listing synced 2026-09-11 · 80k job ID `recaCZzvzvCy1Bsb7`*
+*Posted 2026-09-10 · Listing synced 2026-09-12 · 80k job ID `recaCZzvzvCy1Bsb7`*

@@ -2,7 +2,7 @@
 title: "Head of Econ Lab"
 employer: "OpenAI Foundation"
 job_id: "recVZJm1D7g2uQdwa"
-last_updated: "2026-09-11T10:54:40.057339Z"
+last_updated: "2026-09-12T05:32:33.115375Z"
 posted_at: "2026-09-10T00:00:00Z"
 status: ready
 apply_url: "https://openaifoundation.org/careers/head-of-econ-lab-fab33588-f300-4d43-9734-34699cf8353a"
@@ -34,4 +34,4 @@ areas:
 <p class="apply-cta"><a href="https://openaifoundation.org/careers/head-of-econ-lab-fab33588-f300-4d43-9734-34699cf8353a">Apply →</a></p>
 
 ---
-*Posted 2026-09-10 · Listing synced 2026-09-11 · 80k job ID `recVZJm1D7g2uQdwa`*
+*Posted 2026-09-10 · Listing synced 2026-09-12 · 80k job ID `recVZJm1D7g2uQdwa`*

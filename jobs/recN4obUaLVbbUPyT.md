@@ -2,7 +2,7 @@
 title: "Campus Operations Co-Lead"
 employer: "Lightcone Infrastructure"
 job_id: "recN4obUaLVbbUPyT"
-last_updated: "2026-09-11T10:55:15.131419Z"
+last_updated: "2026-09-12T05:33:08.384355Z"
 posted_at: "2026-08-24T00:05:00Z"
 status: ready
 apply_url: "https://www.lightconeinfrastructure.com/campus-operations-co-lead.html"
@@ -34,4 +34,4 @@ areas:
 <p class="apply-cta"><a href="https://www.lightconeinfrastructure.com/campus-operations-co-lead.html">Apply →</a></p>
 
 ---
-*Posted 2026-08-24 · Listing synced 2026-09-11 · 80k job ID `recN4obUaLVbbUPyT`*
+*Posted 2026-08-24 · Listing synced 2026-09-12 · 80k job ID `recN4obUaLVbbUPyT`*

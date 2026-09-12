@@ -2,7 +2,7 @@
 title: "Research Scientist, Philosophy"
 employer: "Resolution"
 job_id: "rect6aepuiRZJo3Sr"
-last_updated: "2026-09-11T10:54:32.291849Z"
+last_updated: "2026-09-12T05:32:29.291711Z"
 posted_at: "2026-09-11T00:04:00Z"
 status: ready
 apply_url: "https://jobs.ashbyhq.com/resolution/d242c5b3-ef0e-465a-9f05-9c44040495d0"
@@ -34,4 +34,4 @@ areas:
 <p class="apply-cta"><a href="https://jobs.ashbyhq.com/resolution/d242c5b3-ef0e-465a-9f05-9c44040495d0">Apply →</a></p>
 
 ---
-*Posted 2026-09-11 · Listing synced 2026-09-11 · 80k job ID `rect6aepuiRZJo3Sr`*
+*Posted 2026-09-11 · Listing synced 2026-09-12 · 80k job ID `rect6aepuiRZJo3Sr`*

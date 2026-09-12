@@ -2,7 +2,7 @@
 title: "Postdoc, Mechanism Design for Robust AI Alignment"
 employer: "King's College London, Department of Informatics"
 job_id: "recS92DBrfjMFq2JW"
-last_updated: "2026-09-11T10:56:08.557516Z"
+last_updated: "2026-09-12T05:34:01.476272Z"
 posted_at: "2022-01-07T00:00:00Z"
 status: ready
 apply_url: "https://www.linkedin.com/posts/carmine-ventre-35388622_aisafety-aialignment-mechanismdesign-activity-7421947981307756544-e69Y/"
@@ -33,4 +33,4 @@ areas:
 <p class="apply-cta"><a href="https://www.linkedin.com/posts/carmine-ventre-35388622_aisafety-aialignment-mechanismdesign-activity-7421947981307756544-e69Y/">Apply →</a></p>
 
 ---
-*Posted 2022-01-07 · Listing synced 2026-09-11 · 80k job ID `recS92DBrfjMFq2JW`*
+*Posted 2022-01-07 · Listing synced 2026-09-12 · 80k job ID `recS92DBrfjMFq2JW`*

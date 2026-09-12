@@ -2,7 +2,7 @@
 title: "Program Officer / Senior Program Officer, AI and Biosecurity"
 employer: "Sentinel Bio"
 job_id: "recftAXInfVZGBwEX"
-last_updated: "2026-09-11T10:55:02.599152Z"
+last_updated: "2026-09-12T05:32:56.183631Z"
 posted_at: "2026-08-31T00:03:00Z"
 status: ready
 apply_url: "https://sentinelbio.org/program-officer-senior-program-officer-ai-and-biosecurity/"
@@ -35,4 +35,4 @@ areas:
 <p class="apply-cta"><a href="https://sentinelbio.org/program-officer-senior-program-officer-ai-and-biosecurity/">Apply →</a></p>
 
 ---
-*Posted 2026-08-31 · Listing synced 2026-09-11 · 80k job ID `recftAXInfVZGBwEX`*
+*Posted 2026-08-31 · Listing synced 2026-09-12 · 80k job ID `recftAXInfVZGBwEX`*

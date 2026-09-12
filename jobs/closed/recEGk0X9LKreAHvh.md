@@ -4,25 +4,20 @@ employer: "Oxford University, Department of Computer Science"
 job_id: "recEGk0X9LKreAHvh"
 last_updated: "2026-09-11T10:55:13.888632Z"
 posted_at: "2026-08-25T00:00:00Z"
-status: ready
+status: closed
+closed_at: "2026-09-12"
 apply_url: "https://www.jobs.ac.uk/job/DSO600/research-assistant-on-ai-safety?uuid=868837d6-95f0-11f1-9cb0-064da8edb92a&campaign=jbe20260812&source=jbe"
 areas:
   - "AI safety & policy"
 ---
 
+> ⚠️ **CLOSED on 2026-09-12** — this job is no longer listed on the 80,000 Hours board. Archived snapshot below.
+
 # Research Assistant, AI Safety
 
-**[Oxford University, Department of Computer Science](http://www.cs.ox.ac.uk/)**
+**Oxford University, Department of Computer Science**
 
-<dl class="job-meta">
-<dt>Location</dt><dd>Oxford, UK, UK</dd>
-<dt>Role type</dt><dd>Full-time</dd>
-<dt>Experience</dt><dd>Entry-level</dd>
-<dt>Degree</dt><dd>Master's degree</dd>
-<dt>Salary</dt><dd>$48,188 – $53,242</dd>
-</dl>
-
-**Areas & skills:** AI safety & policy, Research, Software engineering
+**Areas & skills:** AI safety & policy
 
 ## Summary
 - In this role, you'll provide research support for AI safety, security and robustness projects within the Oxford Machine Learning research group.

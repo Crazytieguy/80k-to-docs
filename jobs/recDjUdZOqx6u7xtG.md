@@ -2,7 +2,7 @@
 title: "Assistant Director, Policy, Responsible Artificial Intelligence Safety and Education"
 employer: "New York State, Department of Financial Services"
 job_id: "recDjUdZOqx6u7xtG"
-last_updated: "2026-09-11T10:54:31.392006Z"
+last_updated: "2026-09-12T05:32:29.137276Z"
 posted_at: "2026-09-11T00:04:00Z"
 status: ready
 apply_url: "https://www.dfs.ny.gov/system/files/documents/2026/08/ass_dir_pol_raise_spe_ass_ns_20260917.pdf"
@@ -34,4 +34,4 @@ areas:
 <p class="apply-cta"><a href="https://www.dfs.ny.gov/system/files/documents/2026/08/ass_dir_pol_raise_spe_ass_ns_20260917.pdf">Apply →</a></p>
 
 ---
-*Posted 2026-09-11 · Listing synced 2026-09-11 · 80k job ID `recDjUdZOqx6u7xtG`*
+*Posted 2026-09-11 · Listing synced 2026-09-12 · 80k job ID `recDjUdZOqx6u7xtG`*

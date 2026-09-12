@@ -2,7 +2,7 @@
 title: "Senior Manager, Talent Acquisition"
 employer: "LawZero"
 job_id: "recvUTuAnUbgNndZf"
-last_updated: "2026-09-11T10:55:08.465884Z"
+last_updated: "2026-09-12T05:33:01.954577Z"
 posted_at: "2026-08-27T00:00:00Z"
 status: ready
 apply_url: "https://job-boards.greenhouse.io/lawzero/jobs/4382193009"
@@ -33,4 +33,4 @@ areas:
 <p class="apply-cta"><a href="https://job-boards.greenhouse.io/lawzero/jobs/4382193009">Apply →</a></p>
 
 ---
-*Posted 2026-08-27 · Listing synced 2026-09-11 · 80k job ID `recvUTuAnUbgNndZf`*
+*Posted 2026-08-27 · Listing synced 2026-09-12 · 80k job ID `recvUTuAnUbgNndZf`*

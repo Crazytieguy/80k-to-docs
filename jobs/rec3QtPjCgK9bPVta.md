@@ -2,7 +2,7 @@
 title: "Accounting Assistant"
 employer: "Pure Earth"
 job_id: "rec3QtPjCgK9bPVta"
-last_updated: "2026-09-11T10:54:40.298156Z"
+last_updated: "2026-09-12T05:32:33.334324Z"
 posted_at: "2026-09-10T00:00:00Z"
 status: ready
 apply_url: "https://app.trinethire.com/companies/586876-pure-earth/jobs/124320-accounting-assistant"
@@ -34,4 +34,4 @@ areas:
 <p class="apply-cta"><a href="https://app.trinethire.com/companies/586876-pure-earth/jobs/124320-accounting-assistant">Apply →</a></p>
 
 ---
-*Posted 2026-09-10 · Listing synced 2026-09-11 · 80k job ID `rec3QtPjCgK9bPVta`*
+*Posted 2026-09-10 · Listing synced 2026-09-12 · 80k job ID `rec3QtPjCgK9bPVta`*

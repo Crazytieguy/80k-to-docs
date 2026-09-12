@@ -2,7 +2,7 @@
 title: "Fellowship, Artificial Intelligence for Biothreat Early Warning"
 employer: "US Government, Centers for Disease Control and Prevention"
 job_id: "recJLnpCqiMlEAeJt"
-last_updated: "2026-09-11T10:54:38.950158Z"
+last_updated: "2026-09-12T05:32:32.063630Z"
 posted_at: "2026-09-10T00:02:00Z"
 status: ready
 apply_url: "https://www.linkedin.com/jobs/view/4464659437/"
@@ -32,4 +32,4 @@ areas:
 <p class="apply-cta"><a href="https://www.linkedin.com/jobs/view/4464659437/">Apply →</a></p>
 
 ---
-*Posted 2026-09-10 · Listing synced 2026-09-11 · 80k job ID `recJLnpCqiMlEAeJt`*
+*Posted 2026-09-10 · Listing synced 2026-09-12 · 80k job ID `recJLnpCqiMlEAeJt`*

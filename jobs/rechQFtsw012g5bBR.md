@@ -2,7 +2,7 @@
 title: "Operations Manager"
 employer: "General-Purpose AI Policy Lab"
 job_id: "rechQFtsw012g5bBR"
-last_updated: "2026-09-11T10:55:45.633823Z"
+last_updated: "2026-09-12T05:33:39.518564Z"
 posted_at: "2026-07-21T00:00:00Z"
 status: ready
 apply_url: "https://docs.google.com/document/d/1XZkTDQqMY7DGe6o06qnPVI1z0c-llgwDh6qrl2h8GSo/edit?pli=1&tab=t.0"
@@ -19,7 +19,7 @@ areas:
 <dt>Role type</dt><dd>Full-time</dd>
 <dt>Experience</dt><dd>Mid (5-9 years experience)</dd>
 <dt>Degree</dt><dd>Undergraduate degree or less</dd>
-<dt>Salary</dt><dd>$52,157 – $69,543</dd>
+<dt>Salary</dt><dd>$52,196 – $69,594</dd>
 </dl>
 
 **Areas & skills:** AI safety & policy, Operations, Finance
@@ -34,4 +34,4 @@ areas:
 <p class="apply-cta"><a href="https://docs.google.com/document/d/1XZkTDQqMY7DGe6o06qnPVI1z0c-llgwDh6qrl2h8GSo/edit?pli=1&amp;tab=t.0">Apply →</a></p>
 
 ---
-*Posted 2026-07-21 · Listing synced 2026-09-11 · 80k job ID `rechQFtsw012g5bBR`*
+*Posted 2026-07-21 · Listing synced 2026-09-12 · 80k job ID `rechQFtsw012g5bBR`*

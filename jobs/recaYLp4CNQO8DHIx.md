@@ -2,7 +2,7 @@
 title: "Graphic Designer / Web Designer / Artist"
 employer: "PauseAI"
 job_id: "recaYLp4CNQO8DHIx"
-last_updated: "2026-09-11T10:54:59.284251Z"
+last_updated: "2026-09-12T05:32:53.316668Z"
 posted_at: "2026-09-01T00:00:00Z"
 status: ready
 apply_url: "https://pauseai.uk/jobs"
@@ -32,4 +32,4 @@ areas:
 <p class="apply-cta"><a href="https://pauseai.uk/jobs">Apply →</a></p>
 
 ---
-*Posted 2026-09-01 · Listing synced 2026-09-11 · 80k job ID `recaYLp4CNQO8DHIx`*
+*Posted 2026-09-01 · Listing synced 2026-09-12 · 80k job ID `recaYLp4CNQO8DHIx`*

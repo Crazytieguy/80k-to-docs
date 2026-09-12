@@ -2,7 +2,7 @@
 title: "Generalist, Special Projects"
 employer: "Kairos"
 job_id: "rec8maAD9BFXVUHyV"
-last_updated: "2026-09-11T10:54:51.431290Z"
+last_updated: "2026-09-12T05:32:44.971836Z"
 posted_at: "2026-09-03T00:03:00Z"
 status: ready
 apply_url: "https://kairos-project.org/careers/generalist-special-projects"
@@ -34,4 +34,4 @@ areas:
 <p class="apply-cta"><a href="https://kairos-project.org/careers/generalist-special-projects">Apply →</a></p>
 
 ---
-*Posted 2026-09-03 · Listing synced 2026-09-11 · 80k job ID `rec8maAD9BFXVUHyV`*
+*Posted 2026-09-03 · Listing synced 2026-09-12 · 80k job ID `rec8maAD9BFXVUHyV`*

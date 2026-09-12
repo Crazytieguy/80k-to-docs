@@ -4,25 +4,20 @@ employer: "Moral Fabric"
 job_id: "recmqP9SI8D4Ojxdo"
 last_updated: "2026-09-11T10:55:05.407312Z"
 posted_at: "2026-08-28T00:00:00Z"
-status: ready
+status: closed
+closed_at: "2026-09-12"
 apply_url: "https://moralfabric.org/vacancies/operations-lead"
 areas:
   - "Building effective altruism"
 ---
 
+> ⚠️ **CLOSED on 2026-09-12** — this job is no longer listed on the 80,000 Hours board. Archived snapshot below.
+
 # Operations Lead
 
-**[Moral Fabric](https://moralfabric.org/)**
+**Moral Fabric**
 
-<dl class="job-meta">
-<dt>Location</dt><dd>Amsterdam, Netherlands, Netherlands, Europe (ex UK)</dd>
-<dt>Role type</dt><dd>Full-time</dd>
-<dt>Experience</dt><dd>Junior (1-4 years experience)</dd>
-<dt>Degree</dt><dd>Undergraduate degree or less</dd>
-<dt>Salary</dt><dd>$52,157 – $63,747</dd>
-</dl>
-
-**Areas & skills:** Building effective altruism, Operations
+**Areas & skills:** Building effective altruism
 
 ## Summary
 - In this role, you'll support nonprofit customers with operations across finance, legal, people, and tech while building scalable patterns.

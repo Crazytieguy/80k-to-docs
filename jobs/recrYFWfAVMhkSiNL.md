@@ -2,7 +2,7 @@
 title: "Trainee, Epidemic Intelligence"
 employer: "European Union, Centre for Disease Prevention and Control"
 job_id: "recrYFWfAVMhkSiNL"
-last_updated: "2026-09-11T10:54:39.398433Z"
+last_updated: "2026-09-12T05:32:32.464804Z"
 posted_at: "2026-09-10T00:00:00Z"
 status: ready
 apply_url: "https://erecruitment.ecdc.europa.eu/en/our-vacancies/trainee-epidemic-intelligence-189"
@@ -33,4 +33,4 @@ areas:
 <p class="apply-cta"><a href="https://erecruitment.ecdc.europa.eu/en/our-vacancies/trainee-epidemic-intelligence-189">Apply →</a></p>
 
 ---
-*Posted 2026-09-10 · Listing synced 2026-09-11 · 80k job ID `recrYFWfAVMhkSiNL`*
+*Posted 2026-09-10 · Listing synced 2026-09-12 · 80k job ID `recrYFWfAVMhkSiNL`*

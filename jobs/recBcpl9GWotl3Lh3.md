@@ -2,7 +2,7 @@
 title: "Odysea"
 employer: "SASH"
 job_id: "recBcpl9GWotl3Lh3"
-last_updated: "2026-09-11T10:54:34.224841Z"
+last_updated: "2026-09-12T05:32:29.709929Z"
 posted_at: "2026-09-11T00:01:00Z"
 status: ready
 apply_url: "https://odysea-ai.org/"
@@ -32,4 +32,4 @@ areas:
 <p class="apply-cta"><a href="https://odysea-ai.org/">Apply →</a></p>
 
 ---
-*Posted 2026-09-11 · Listing synced 2026-09-11 · 80k job ID `recBcpl9GWotl3Lh3`*
+*Posted 2026-09-11 · Listing synced 2026-09-12 · 80k job ID `recBcpl9GWotl3Lh3`*

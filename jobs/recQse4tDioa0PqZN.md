@@ -2,7 +2,7 @@
 title: "Winter Research Fellowship, EU Law (2027)"
 employer: "Institute for Law and AI"
 job_id: "recQse4tDioa0PqZN"
-last_updated: "2026-09-11T10:54:38.198346Z"
+last_updated: "2026-09-12T05:32:31.341964Z"
 posted_at: "2026-09-10T00:05:00Z"
 status: ready
 apply_url: "https://law-ai.org/wrf-eu/"
@@ -19,7 +19,7 @@ areas:
 <dt>Role type</dt><dd>Fellowship</dd>
 <dt>Experience</dt><dd>Multiple experience levels</dd>
 <dt>Degree</dt><dd>Undergraduate degree or less</dd>
-<dt>Salary</dt><dd>$70,227</dd>
+<dt>Salary</dt><dd>$70,302</dd>
 </dl>
 
 **Areas & skills:** AI safety & policy, Research, Policy, Legal
@@ -34,4 +34,4 @@ areas:
 <p class="apply-cta"><a href="https://law-ai.org/wrf-eu/">Apply →</a></p>
 
 ---
-*Posted 2026-09-10 · Listing synced 2026-09-11 · 80k job ID `recQse4tDioa0PqZN`*
+*Posted 2026-09-10 · Listing synced 2026-09-12 · 80k job ID `recQse4tDioa0PqZN`*

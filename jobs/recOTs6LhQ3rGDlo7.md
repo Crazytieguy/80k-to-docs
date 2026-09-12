@@ -2,7 +2,7 @@
 title: "Yenching Academy"
 employer: "Yenching Scholars Program"
 job_id: "recOTs6LhQ3rGDlo7"
-last_updated: "2026-09-11T10:54:48.251363Z"
+last_updated: "2026-09-12T05:32:41.642862Z"
 posted_at: "2026-09-07T00:00:00Z"
 status: ready
 apply_url: "https://yenchingacademy.pku.edu.cn/ADMISSIONS.htm"
@@ -33,4 +33,4 @@ areas:
 <p class="apply-cta"><a href="https://yenchingacademy.pku.edu.cn/ADMISSIONS.htm">Apply →</a></p>
 
 ---
-*Posted 2026-09-07 · Listing synced 2026-09-11 · 80k job ID `recOTs6LhQ3rGDlo7`*
+*Posted 2026-09-07 · Listing synced 2026-09-12 · 80k job ID `recOTs6LhQ3rGDlo7`*

@@ -2,7 +2,7 @@
 title: "Organizing Director"
 employer: "Irreplaceable"
 job_id: "recnMR2FOxExKqD6D"
-last_updated: "2026-09-11T10:55:24.645134Z"
+last_updated: "2026-09-12T05:33:20.591940Z"
 posted_at: "2026-08-17T00:00:00Z"
 status: ready
 apply_url: "https://tally.so/r/GxVV2o"
@@ -34,4 +34,4 @@ areas:
 <p class="apply-cta"><a href="https://tally.so/r/GxVV2o">Apply →</a></p>
 
 ---
-*Posted 2026-08-17 · Listing synced 2026-09-11 · 80k job ID `recnMR2FOxExKqD6D`*
+*Posted 2026-08-17 · Listing synced 2026-09-12 · 80k job ID `recnMR2FOxExKqD6D`*

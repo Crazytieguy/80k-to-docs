@@ -2,7 +2,7 @@
 title: "Operations Assistant"
 employer: "Pure Earth"
 job_id: "rec5eIEpvJ7HVKsF8"
-last_updated: "2026-09-11T10:54:40.180129Z"
+last_updated: "2026-09-12T05:32:33.227983Z"
 posted_at: "2026-09-10T00:00:00Z"
 status: ready
 apply_url: "https://app.trinethire.com/companies/586876-pure-earth/jobs/124321-operations-assistant"
@@ -34,4 +34,4 @@ areas:
 <p class="apply-cta"><a href="https://app.trinethire.com/companies/586876-pure-earth/jobs/124321-operations-assistant">Apply →</a></p>
 
 ---
-*Posted 2026-09-10 · Listing synced 2026-09-11 · 80k job ID `rec5eIEpvJ7HVKsF8`*
+*Posted 2026-09-10 · Listing synced 2026-09-12 · 80k job ID `rec5eIEpvJ7HVKsF8`*

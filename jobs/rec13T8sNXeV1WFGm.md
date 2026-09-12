@@ -2,7 +2,7 @@
 title: "Mathematicians (x10-100)"
 employer: "Mathematical AI Safety Institute"
 job_id: "rec13T8sNXeV1WFGm"
-last_updated: "2026-09-11T10:54:38.558667Z"
+last_updated: "2026-09-12T05:32:31.665384Z"
 posted_at: "2026-09-10T00:03:00Z"
 status: ready
 apply_url: "https://maisi.org/apply"
@@ -33,4 +33,4 @@ areas:
 <p class="apply-cta"><a href="https://maisi.org/apply">Apply →</a></p>
 
 ---
-*Posted 2026-09-10 · Listing synced 2026-09-11 · 80k job ID `rec13T8sNXeV1WFGm`*
+*Posted 2026-09-10 · Listing synced 2026-09-12 · 80k job ID `rec13T8sNXeV1WFGm`*

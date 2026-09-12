@@ -2,7 +2,7 @@
 title: "List of Challenges and Prizes Related to Top Problems"
 employer: "Various Hosts"
 job_id: "recEsWK7TXKLfy8Be"
-last_updated: "2026-09-11T10:55:06.272498Z"
+last_updated: "2026-09-12T05:32:59.758129Z"
 posted_at: "2026-08-28T00:00:00Z"
 status: ready
 apply_url: "https://airtable.com/app53PsYpHxJW61l3/shrOB1Un3aHb066Wm"
@@ -31,4 +31,4 @@ areas:
 <p class="apply-cta"><a href="https://airtable.com/app53PsYpHxJW61l3/shrOB1Un3aHb066Wm">Apply →</a></p>
 
 ---
-*Posted 2026-08-28 · Listing synced 2026-09-11 · 80k job ID `recEsWK7TXKLfy8Be`*
+*Posted 2026-08-28 · Listing synced 2026-09-12 · 80k job ID `recEsWK7TXKLfy8Be`*

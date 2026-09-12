@@ -2,7 +2,7 @@
 title: "Fellowship, AI Policy (Spring 2027)"
 employer: "Institute for AI Policy and Strategy"
 job_id: "recZ6KGPhVKjLQ9a3"
-last_updated: "2026-09-11T10:54:38.035358Z"
+last_updated: "2026-09-12T05:32:31.174747Z"
 posted_at: "2026-09-10T00:05:00Z"
 status: ready
 apply_url: "https://www.iaps.ai/fellowship"
@@ -34,4 +34,4 @@ areas:
 <p class="apply-cta"><a href="https://www.iaps.ai/fellowship">Apply →</a></p>
 
 ---
-*Posted 2026-09-10 · Listing synced 2026-09-11 · 80k job ID `recZ6KGPhVKjLQ9a3`*
+*Posted 2026-09-10 · Listing synced 2026-09-12 · 80k job ID `recZ6KGPhVKjLQ9a3`*

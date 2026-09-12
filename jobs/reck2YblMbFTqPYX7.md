@@ -2,7 +2,7 @@
 title: "Request for Candidates, Broad-Spectrum Preventatives"
 employer: "Intercept"
 job_id: "reck2YblMbFTqPYX7"
-last_updated: "2026-09-11T10:54:33.117944Z"
+last_updated: "2026-09-12T05:32:29.457619Z"
 posted_at: "2026-09-11T00:03:00Z"
 status: ready
 apply_url: "https://www.interceptfund.com/apply/broad-spectrum-preventatives"
@@ -33,4 +33,4 @@ areas:
 <p class="apply-cta"><a href="https://www.interceptfund.com/apply/broad-spectrum-preventatives">Apply →</a></p>
 
 ---
-*Posted 2026-09-11 · Listing synced 2026-09-11 · 80k job ID `reck2YblMbFTqPYX7`*
+*Posted 2026-09-11 · Listing synced 2026-09-12 · 80k job ID `reck2YblMbFTqPYX7`*
